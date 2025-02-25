@@ -1,0 +1,168 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by, and welcome to the Avista Corporation's Second Quarter 2020 Earnings Conference Call. [Operator Instructions] After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions]\nI would now like to hand the conference over to your speaker today, John Wilcox, Investor Relations Manager. Thank you, please go ahead, sir."
+    },
+    {
+      "speaker": "John Wilcox",
+      "speech": "Good morning, everyone, and welcome to Avista's second quarter 2020 earnings conference call. Our earnings were released pre-market this morning and are available on our website.\nJoining me this morning are Avista Corp, President and CEO, Dennis Vermillion; Executive Vice President, CFO and Treasurer, Mark Thies; Senior Vice President, External Affairs and Chief Customer Officer, Kevin Christie; and Vice President, Controller and Principal Accounting Officer, Ryan Krasselt.\nI would like to remind everyone that some of the statements that will be made today are forward-looking statements that involve assumptions, risks and uncertainties, which are subject to change. For reference to the various factors which could cause actual results to differ materially from those discussed in today's call, please refer to our 10-K for 2019 and 10-Q for the second quarter of 2020, which are available on our website.\nTo begin this presentation, I would like to recap the financial results presented in today's press release. Our consolidated earnings for the second quarter of 2020 were $0.26 per diluted share, compared to $0.38 for the second quarter of 2019. For year-to-date, consolidated earnings were $0.98 per diluted share for 2020, compared to $2.14 last year.\nNow, I'll turn the discussion over to Dennis."
+    },
+    {
+      "speaker": "Dennis Vermillion",
+      "speech": "Well, thanks, John. And good morning, everyone. We hope everyone is staying safe and healthy during these uncertain times. It's hard to believe that we've been managing through the COVID-19 pandemic for five months now. And every day, I continue to be inspired by how our employees continue to rally on all fronts to respond to the crisis. I couldn't be more proud of how we're staying vigilant and adapting across the organization to the new policies and procedures that can quickly change in the states where we serve.\nI appreciate their patience, their persistence and professionalism, as we all navigate through these unchartered waters to seek out our new normal, all while still providing the energy that is so essential to our customers. As always, our top priority is to preserve the health and safety of our customers, our employees, contractors and our communities.\nAs the regional economies across the areas we serve move forward with fits and start, we're doing our best to support those customers, who we know are struggling. You may have seen recently the Avista Foundation provided more than $500,000 to support 37 different organizations throughout our service area. And so far in 2020, our foundation has provided more than $1.5 million to help those in need. Although the majority of our employees are still working from home, it hasn't impacted our ability to complete important work across our business.\nWildfires continue to be an important topic for our industry and our company, especially this time of year. Before the wildfire season arrived, we enhanced our 10-year wildfire resiliency plan to expand our current safeguards for preventing, mitigating and reducing the impact of wildfires to help minimize the possibility of wildfires and the related service disruptions.\nOur team spent the last year developing our plan through a series of internal workshops, industry research and engagement with state and local fire agencies. The plan has certain key areas that include grid hardening, vegetation management, situational awareness, operations and emergency response and worker and public safety. In total, we expect to spend approximately $330 million implementing the plan components over the life of the 10-year plan.\nWe're also excited for construction to be completed on the Catalyst Building and the Scott Morris Center for Energy Innovation. We can hardly wait for the buildings to open next month and when they do, Scott Morris' vision to create the five smartest blocks in the world will become a reality. Avista will be able to continue to innovate and test new ideas about how to share energy in a shared economy model. And what we learn could not only shape how the grid of the future will operate, but also could provide a transformative new model for the entire utility industry.\nLast year, we established a goal to serve our customers with a 100% clean electricity by 2045 and a 100% carbon-neutral resources by 2027. Consistent with our goal and our 2020 Integrated Resource Plan, we are seeking proposals from renewable energy project developers, who are capable of constructing, owning and operating up to 120 average megawatts. Our intent is to secure the output from the renewable generation resources, including energy, capacity and associated environmental attributes. This will allow us to offset market purchases and fossil fuel thermal generation, which is a key step to achieving our goals.\nWith respect to results, our second quarter consolidated earnings were in line with expectations and we are on track to meet our 2020 earnings guidance at Avista Utilities, AEL&P and our other businesses. As such, we are confirming our 2020 consolidated earnings guidance, a range of $1.75 to $1.95 per diluted share.\nAnd finally, one last point. Our Senior Vice President, Chief Legal Counsel, and Corporate Secretary, Marian Durkin, just retired on August 1. I'd like to take this time to thank Marian for her 15-years of service to Avista. During her tenure, Marian defined our business needs and -- to build our legal department from the ground up to the robust team that it is today. As the focus and scrutiny on compliance has grown across many different industries, Marian also centralized the company's compliance efforts and has taken our compliance department to a new level.\nAlso, under Marian's leadership, earlier this year, Avista was named as one of Ethisphere's World's Most Ethical Companies. It's a tremendous honor to receive this designation, thanks to Marian. We wish Marian all the best as she begins her retirement and transitions into this new chapter.\nAnd now, I'll turn this presentation over to Mark."
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "Thank you, Dennis. And good morning, everyone. I have big news for you. Hockey is back. I'm very excited about that. The Blackhawks, because of the pandemic, made the playoffs and we're currently 1-1 with Edmonton with a game tonight. So, those on the East Coast, it's a 10:30 game, but I'd like you to stay up and route for my Blackhawks.\nFor the second quarter of 2020, Avista Utilities contributed $0.26 per diluted share, compared to $0.32 in 2019. Compared to the second quarter of 2019, our earnings decreased due to lower electric utility margin and from higher power supply costs and decreased loads related to COVID-19, which was partially offset by rate relief and customer growth. We also had lower operating expenses in the second quarter of 2020.\nThe Energy Recovery Mechanism in Washington was a small benefit in this year of $0.4 million, compared to a much larger benefit in 2019 of $6 million. For the year-to-date, we recognized a pre-tax benefit of $5.6 million in 2020, compared to $3.5 million in 2019, all with respect to the ERM.\nWith respect to the COVID-19 impacts on our results, we recorded an incremental $3.3 million of bad debt expense for the year-to-date and we expect the incremental amount to be $5.7 million for the full-year, including the first quarter as -- first half, as compared to our original forecast. In July, the Idaho Commission issued an order that allows us to defer certain costs, net of any decreased costs and other benefits related to COVID-19.\nDuring the second quarter, we deferred $1.1 million of bad debt expense associated with this order. Compared to normal, in the second quarter there was a -- our loads, there was a decrease of approximately 6% on overall electric loads, which consisted of approximately 10% decrease in commercial and a 14% decrease in Industrial, which was partially offset by about 4% increase in our residential loads. These loads decreased earnings by about $0.03 in the second quarter and we expect to have continued lower loads throughout most of the year, with a gradual recovery toward the end of the year. We expect to be able to mostly offset the lower utility margin through our cost management activities, and this is reflected in our consolidated guidance.\nWe do expect a gradual economic recovery, but prolonged high unemployment that will depress load and customer growth into 2021. We have decoupling and other regulatory mechanisms, which help mitigate the impact of these load changes on our -- the impact on our revenues for residential and certain commercial customers. Over 90% of our utility revenue is covered by regulatory mechanisms.\nDuring the second quarter, we began experiencing some supply chain delays due to the effects of the COVID-19 pandemic, with delays ranging from a couple of weeks to up to six weeks in some cases. However, we do not expect this to have a significant impact on our planned projects and we continue to be committed to investing the necessary capital in our utility infrastructure and expect our spending in 2020 to be still be about $405 million.\nWith respect to liquidity, at June 30, we had $160 million of available liquidity under our $400 million line of credit and we had $100 million in cash from our term loan. In the second quarter, we extended our line of credit agreement a year to April 2022. We expect to issue this year approximately $165 million of long-term debt and up to $70 million of equity, and that includes $24 million that we've issued through June.\nAs Dennis mentioned earlier, we are confirming our 2020 guidance, with a consolidated range of $1.75 to $1.95. We're expecting that COVID-19 impacts at Avista Utilities of increased operating expenses include bad debt expense, reduced industrial loads and increased interest will be mostly offset by expected tax benefits from the CARES Act and other efforts to identify cost reduction opportunities that we have implemented.\nWe have filed for deferred accounting treatment in each of our jurisdictions. And as I said earlier, in Idaho, the Idaho Commission issued an order that allows us to defer certain costs related to COVID-19, net of any decreased costs and other benefits. The Idaho Commission will determine the appropriateness and prudency of any deferred expenses when we seek recovery.\nWe continue to expect -- to experience regulatory lag until 2023, we filed the general rate case in Oregon in March of 2020 and continue to anticipate filing in Washington and Idaho in the fourth quarter of this year. We expect our long-term earnings growth after 2023 to be 4% to 6%.\nNow, with the specifics on the ranges for each segment. We expect Avista Utilities to contribute in the range of $1.77 to $1.89 per diluted share. The midpoint of our range does not include any expense or benefit under the ERM and our current expectation is that we will be in a benefit of a 90/10 sharing band, which is expected to add $0.06 per diluted share.\nOur outlook for Avista Utilities assumes, among other variables, normal precipitation, temperatures and hydroelectric generation for the remainder of the year and we have implemented the cost reduction measures to help mitigate the impacts of costs related to COVID-19.\nFor 2020, we expect AEL&P to contribute in the range of $0.07 to $0.11 per share and our outlook for AEL&P assumes, among other variables, normal precipitation and hydroelectric generation for the remainder of the year. And we continue to expect our other businesses to have a loss of between $0.09 and $0.05 per diluted share.\nOur guidance generally includes only normal operating conditions and does not include any unusual items; such as settlement transactions or acquisitions and dispositions until the effects are known and certain. We cannot predict the duration or severity of the COVID-19 global pandemic. And the longer and more severe economic restrictions and business disruption, the greater the impact on our operations, results of operations, financial condition and cash flows.\nI will now turn the call back to John."
+    },
+    {
+      "speaker": "John Wilcox",
+      "speech": "And now, we will open up this call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question comes from Richard Ciciarelli with Bank of America. Your line is open."
+    },
+    {
+      "speaker": "Richard Ciciarelli",
+      "speech": "Hey, good morning. How are you guys doing?"
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "Good morning, Richard."
+    },
+    {
+      "speaker": "Dennis Vermillion",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Richard Ciciarelli",
+      "speech": "All right. Just had a question about how you're thinking about positioning the rate case filing in Washington coming out of the pandemic and balancing the customer rate impact, especially given the backdrop of the Puget Sound decision, where attrition adjustments were denied. Do you see an opportunity there for multi-year rate plans or attrition adjustments still to be implemented by the commission? Or is there an overall sense of rate fatigue?"
+    },
+    {
+      "speaker": "Kevin Christie",
+      "speech": "Hi there. This is Kevin Christie. Thanks for the question. We're still compiling our case and putting together all the information, taking into consideration the impacts of COVID-19 and of course the Puget case. And I'd say, it's too soon to say for sure. We're contemplating a multi-year plan, but I can't say that we're going to file one until we get all our data together and the case in better shape and then we'll be able to let you know."
+    },
+    {
+      "speaker": "Richard Ciciarelli",
+      "speech": "Okay, got it. That's helpful. And then, just around your capex program, you reiterated for 2020, but you had some commentary that the economic activity can potentially impact this. I'm just curious how you're thinking about the puts and takes there of that spending profile? And is that wildfire resiliency spending that you mentioned earlier included in this program? Or is that not yet baked into your $405 million per year?"
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "So, a couple of questions there, Richie. On the -- with respect to -- we continue to monitor supply chain and those impacts, but we -- as we mentioned, we have seen some disruption, but not enough to make us believe that we won't be able to achieve our capital spending for 2020. And then, as we look at the wildfire resiliency plan, we are looking at it currently as if we will fit that into our $405 million of expected capital spend over the next years and we'll constantly reevaluate that. But at this point, we expect it to be part of that $405 million of spend."
+    },
+    {
+      "speaker": "Richard Ciciarelli",
+      "speech": "All right. Got it. That's very helpful. Thanks, guys. That's all I had."
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "Thanks, Richie."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our next question comes from Sophie Karp with KeyBanc. Your line is open."
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "Hi. Good morning, guys. How are you?"
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "Good morning, Sophie."
+    },
+    {
+      "speaker": "Dennis Vermillion",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "A couple of questions from me. Firstly, loss on equity investments. Could you remind us what those are? And how should we think about that going forward?"
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "The equity investments?"
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "Our other businesses?"
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "Yes, yes, exactly."
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "We have investments in a number of different small businesses that are really energy related. The largest amount of our other business investments really are two fund investments in Energy Impact Partners and they invest in a lot of other businesses as well. So, we also have an investment in a restaurant and we own the Steam Plant, which is in downtown Spokane, and a number of other small businesses that are legacy businesses that have valuations that -- the Steam Plant, that restaurant, is really at this point shut down. We anticipate the ability possibly to reopen in the future, but we don't know that for sure, we've put that off for now. So, we have just a number of equity investments.\nAnd then, as we mentioned, as Dennis mentioned in his remarks, the Catalyst Building and the Morris Center for Innovation, those are also investments -- equity investments in different -- in two different buildings. Again, here, located in Spokane."
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "Got it. So, that's basically that mostly, I guess the restaurant and other COVID impact of business that drove the devaluation in the second quarter?"
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "No. The second quarter, we didn't really have as much of a change there. As the biggest impact to our other businesses during the first quarter."
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Mark Thies",
+      "speech": "And Energy Impact Partners did have some lower valuations. But again, it wasn't a significant..."
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "All right. And then, my second question is, I guess, when we think about future capex, right, and you mentioned that the sustained, I guess, economic distress might impact that. And I think we understand how those situations work out. Is there -- my question is, is there a way to really frame this conversation with your regulators in a way where this is infrastructure work that can actually help jobs recovery? It's something that's happened in some other space, right, where the regulators actually want the utilities to propose some infrastructure work that may lift the unemployment rate. So, I was wondering if that maybe -- could be an opportunity for you as well to frame those conversations in this way to make sure that your capex program stays intact?"
+    },
+    {
+      "speaker": "Dennis Vermillion",
+      "speech": "Well, I think the way we position the capex program is it's important work to maintain the safety and reliability of our infrastructure and our systems to serve our customers. I mean, that's our main goal is to be able to serve our customers with the energy they need. And so, we have focused our discussions with our regulators as that's how we're spending our dollars, is we have to identify each of those projects when we go in for a rate case and say why this is important to provide benefits for our customers.\nAn ancillary benefit, yes, is that we do maintain employment for people. A number of those are our own employees and there are some contractors that also work on our construction as well. But we haven't really identified that as additional -- this is within our expected capital plan. It's not necessarily adding additional jobs. It's just not having more jobs reduce. So, I don't think we can pitch it necessarily as we're adding additional jobs. We're just protecting the jobs that we have and our contractors have by continuing to deploy this capital, which does benefit the economy and does benefit the service territory in which we live and serve."
+    },
+    {
+      "speaker": "Sophie Karp",
+      "speech": "Got it. All right. Thank you. And appreciate your comments."
+    },
+    {
+      "speaker": "Dennis Vermillion",
+      "speech": "Okay. Thank you, Sophie. Operator, any other questions?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And I'm currently showing no further questions at this time. I'd like to turn the call back over to John Wilcox for closing remarks."
+    },
+    {
+      "speaker": "John Wilcox",
+      "speech": "I want to thank everyone for joining us today. We certainly appreciate your interest in our company. Have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 22 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "John Wilcox--Investor Relations Manager",
+    "Dennis Vermillion--President and Chief Executive Officer",
+    "Mark Thies--Executive Vice President, Treasurer and Chief Financial Officer",
+    "Kevin Christie--Senior Vice President, External Affairs and Chief Customer Officer",
+    "Richard Ciciarelli--Bank of America Merrill Lynch -- Analyst",
+    "Sophie Karp--KeyBanc -- Analyst"
+  ]
+}

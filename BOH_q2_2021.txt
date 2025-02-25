@@ -1,0 +1,343 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, everyone and thank you for standing by. Welcome to the Bank of Hawaii Corporation Second Quarter of 2021 Earnings Conference Call. [Operator Instructions] After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions]\nI would now like to hand the conference over to your speaker today, the Head of Investor Relations, Ms. Janelle Higa. Please go ahead."
+    },
+    {
+      "speaker": "Janelle Higa",
+      "speech": "Thank you, and good morning. Good afternoon everyone. Thank you for joining us today. On the call with me this morning is our Chairman, President and CEO, Peter Ho; our Chief Financial Officer, Dean Shigemura; and our Chief Risk Officer, Mary Sellers.\nBefore we get started, let me remind you that today's conference call will contain some forward-looking statements. And while we believe our assumptions are reasonable, there are a variety of reasons actual results may differ materially from those projected. During the call, we'll be referencing a slide presentation as well as the earnings release. A copy of the presentation and release are available on our website, boh.com under Investor Relations.\nAnd now, I'd like to turn the call over to Peter Ho."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Great. Thank you, Janelle. Good morning, and good afternoon everyone. Thanks for joining in. I'm -- as is our custom, we will go through market conditions here in the islands. I'll then turn it over to Dean, who will walk you through our financials. And then, Mary will touch on credit, and then, we'd be happy to take your questions for the quarter.\nIf you look at the unemployment slide here, you see that the economy here in the islands is steadily improving, are really being driven by a nice improvement or regaining traction in the visitor industry, as well as improvement in what we call the local economy. UHERO's economic pulse indicator, which is a high frequency aggregation of numerous data points, has basically the local economy now at 72% versus pre-pandemic levels. A quarter ago, I think we reported 62% to you, so sized [Phonetic] improvement there. And you see all of this relating into better unemployment rates. Unemployment now is down to 7.7%, the fifth consecutive month of declines.\nThe real estate market here in the islands like many markets is very strong. Oahu's single-family homes were up; in terms of sales, 49% June versus June a year ago. Sales price -- median sales prices were up 27%, and inventories are very constrained. So median days on market are down 60% from a year ago to eight days and months of inventory is down 52% from a year ago to 1.2 months of inventory. The condominium sector here on Oahu, similar story, a little bit more muted though, but sales up 134% June on June. Median sales price is up 9% and inventory conditions very similar to the single-family home market. So a very strong real estate sector here on Oahu and generally, throughout the Hawaiian Islands.\nThe visitor industry, as I mentioned, is doing quite nicely. So you see this chart here really since the relaunch of our -- or the launch of our Safe Travels program, visitor arrivals have increased substantively, basically now approaching pre-pandemic levels. Airlift is a great story in June. Actually, we had 1,027,000 seats into the islands, which is a 14.3% increase from June of 2019, and July and August forecasts are even more robust than that. So the airlines are doing their jobs. Arrivals are looking good. The most recent data we have from the Hawaii Tourism Authority has arrivals at 74% of 2019 levels, so pre-pandemic levels. Visitor days at 83%, pre-pandemic levels. And expenditures at just under 80% of 2019 levels. And we have reason to believe that the balance of the summer, June, July and August should eclipse those numbers as well.\nHotels are doing quite nicely. As of June, we're back up to about 97% of our room stock back in service. Occupancies are running at 77% statewide versus 84% pre-pandemic in 2019. Average daily rates were very robust at $320 for June versus $280 for the same month in 2019. So, if you can believe it, RevPAR, or revenue per available room, is actually higher as of June of this year than it was in June of 2019 at $246 per available room versus $235 per available room June of 2019. So, very strong performance in the hotel sector. And forward bookings, just talking to a number of professionals in the industry, seems to be very strong as things stand right now.\nThe COVID condition here in the islands is reasonably good. Rolling seven day averages have us in the top half of the country. Although we are concerned like most other marketplaces over the emergence of the Delta variant. And vaccinations, for the most part, have gone well. So, we're in the 36 percentile of the country and hopefully -- obviously like most marketplace, we would love to get that number higher. So, that's a synopsis of the marketplace.\nNow, let me turn the call over to Dean, who will walk you through the financials. Dean?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Thank you, Peter.\nGrowth from core customers remained solid in the second quarter. Core loans net of PPP waivers increased by $113 million, or 1%, in the quarter and by $250 million year-over-year. Waivers on PPP loans have accelerated and resulted in a net decline of $212 million in the quarter. Our strong deposit growth continued, increasing $613 million, or 3.1%, linked quarter and $2.7 billion, or 16%, year-over-year. With the loan to deposit ratio of 60%, our strong deposit base remains a stable source of liquidity. Together with our healthy cash balance of $910 million at the end of the quarter, we maintain significant flexibility for further loan and investment growth, and we continue to deploy liquidity to support net interest income as well as mitigate the impact of near-term rate pressures. Consistent with this strategy, we added $1 billion of liquid and safe investments to the portfolio, increasing total balances to $8.5 billion.\nNet income for the second quarter was $67.5 million, or $1.68 per common share, up from $59.9 million in the first quarter and $38.9 million in the second quarter of 2020. Net interest income in the second quarter was $123.5 million, up from $120.6 million in the first quarter and down from $126.7 million in the second quarter of 2020. Included in the second and first quarters' net interest income were $3.8 million and $0.9 million, respectively, of accelerated loan fees from PPP loan waivers. Included in the second quarter of 2020 net interest income was an interest recovery of $2.9 million. Adjusting for PPP loan forgiveness, net interest income was slightly higher than the first quarter as the impact from lower interest rates was offset by the deployment of liquidity. As Mary will discuss later. we recorded a negative provision for credit losses of $16.1 million this quarter.\nNoninterest income totaled $44.4 million in the second quarter, up from $43 million in the first quarter and down from $51.3 million in the second quarter of 2020. Included in the second quarter were gains of $3.7 million from the sale of investment securities. Included in the second quarter of 2020 was a gain of $14.2 million from the sale of our remaining Visa shares. Adjusting for these changes, the decrease from the first quarter was due to lower mortgage banking income, primarily from the impact of rate volatility on MSR valuations. In the second quarter, we recorded an MSR impairment of $1.1 million versus a recovery of $2.2 million in the first quarter. Adjusting for the MSR valuations, mortgage banking income was up about $400,000 quarter-over-quarter. Partially offsetting the MSR valuation impairment or higher service charges and other transaction fees, the increase from the second quarter of 2020 was mainly due to an increase of $5.4 million from fees on deposit accounts and other service charges due to the reopening of the economy. We expect noninterest income will be approximately $42 million to $43 million per quarter for the remainder of the year from the increasing deposit fees, service charges and other transaction fees from the improving economy.\nNoninterest expense in the second quarter totaled $96.5 million. The second quarter's expenses included charges of $3.2 million related to the early termination of repurchase agreements and term debt and a $3.1 million benefit from the sale of property. The termination of the repos and term debt allowed us to reduce our non-core funding, reposition some securities at a net gain and increase our net interest income. With the improving economic provisioning and earnings outlook for 2021, accruals for corporate incentive compensation are back to pre-pandemic levels and were $3.2 million higher than the second quarter of 2020. In the second quarter of 2021, we also experienced higher levels of variable expenses from rising production, as well as continuing investments in innovation initiatives. The remaining core expenses were nearly flat with expenses from the second quarter of 2020 and overall expenses continued to be managed in a disciplined manner. Excluding one-time items, our normalized full year noninterest expense projection, including restoration of corporate incentives, remains approximately $385 million, with the third and fourth quarter expenses being approximately the same as the second quarter at $96 million to $97 million.\nThe effective tax rate for the second quarter was 22.84%. Currently, we expect the effective tax rate for 2021 will be approximately 24%, driven by higher pre-tax income.\nOur return on assets during the first quarter was 1.23%. The return on common equity was 19.6%. And our efficiency ratio was 57.47%.\nOur net interest margin in the second quarter was 2.37%, a decline of 6 basis points from the first quarter. The decline in the margin in the second quarter reflects the ongoing impact from the strong deposit growth and lower rates, partially offset by deployment of liquidity. We expect the margin will decline approximately 5 basis points to 6 basis points in the third quarter, primarily due to the continued deposit growth and the recent decrease in long-term rates, then stabilize in the fourth quarter.\nNet interest income in the third quarter will be approximately flat to slightly higher than the second quarter. The increase in NII is expected from continued balance sheet growth, deployment of excess liquidity and stable interest rates, but we remain asset sensitive and are well positioned for higher rates. These estimates exclude the impact of PPP loan prepayments, which have been volatile and unpredictable.\nWe strengthened our capital levels through our very successful issuance of $180 million in preferred stock. The addition of preferred capital together with our strong earnings increased our Tier 1 capital and leverage ratios to 13.9% and 7.31%, respectively, adding to our excess levels. We are well positioned for continued growth over and above the strong deposit growth of $4.4 billion we've already absorbed into our balance sheet since the beginning of 2020.\nDuring the second quarter, we paid out $27 million, or 40%, of net income in dividends. Our strong capital levels and income generation will enable us to restart the share repurchase program this month, which has been suspended since the first quarter of 2020. The remaining share buyback authority is $113 million.\nAnd finally, consistent with our improving income levels, our Board declared a dividend of $0.70 per common share for the third quarter of 2021, an increase of $0.03 per share.\nNow, I'll turn the call over to Mary."
+    },
+    {
+      "speaker": "Mary E. Sellers",
+      "speech": "Thank you, Dean.\nAt the end of the quarter, customer loan balances on deferral were down 88% from their peak to 1.8% of total loans. You'll recall, given we had the capacity to do so, we elected to partner with our customers through this unprecedented event and provided extended relief primarily through principal deferrals on low margin real estate. Accordingly, 93% of loans remaining under deferral are secured, with our consumer residential deferrals having a weighted average loan-to-value of 68%, and our commercial deferrals having a weighted average loan-to-value of 46% with 97% continuing to pay interest. Return to payment performance previously deferred loans has continued to be strong with less than 1% of these customers delinquent 30 days or more at the end of the quarter.\nCredit metrics remained strong and stable in the quarter. Net charge-offs were $1.2 million as compared with net charge-offs of $2.9 million in the first quarter and net charge-offs of $5.1 million in the second quarter of 2020. Non-performing assets totaled $19 million, up $1.1 million for the linked period and down $3.7 million year-over-year. Loans delinquent 30 days or more were $29.8 million or 25 basis points of total loans at quarter-end, down $10.1 million for the linked period and up $6.3 million from the second quarter of last year. Criticized exposure continued to decrease during the quarter, dropping from 2.6% of loans to 2.17% of total loans.\nAs Dean noted, we recorded a negative provision for credit losses of $16.1 million. This included a negative provision to the allowance for credit losses of $16.8 million, which with net charge-offs of $1.2 million reduced the allowance to $180.4 million, representing 1.5% of total loans and leases or 1.56% net of PPP balances. The decrease in the allowance is reflective of the most recent UHERO economic outlook and forecast for our market, coupled with our credit risk profile. The allowance does continue to consider and provide for the potential downside risk inherent with the pandemic. The reserve for unfunded credit commitments was $4.5 million at the end of the quarter with a provision of $1.5 million made to fund the linked-period increase.\nI'll now turn the call back to Janelle."
+    },
+    {
+      "speaker": "Janelle Higa",
+      "speech": "Thank you, Mary. This concludes our prepared remarks. We are now happy to answer any questions you may have."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And our first question is coming in from Ebrahim Poonawala from Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Ebrahim H. Poonawala",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Ebrahim H. Poonawala",
+      "speech": "I guess, maybe the first question just on capital, Dean mentioned plans to resume share buybacks. Give us a sense of, one, as you think about going through that authorization, how -- is there a certain level in terms of overall capital payout that you are targeting and what's the binding constraint when you think about the Tier 1 leverage ratio? What's -- where are you trying to maintain those ratios, as you think about capital return, also just a possibility of a dividend hike in the back half of the year?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yeah. So the cut of the measurements that we look at are the -- is the Tier 1 leverage ratio. We've stated in the past that we'd like to stay above 7%. So we'll probably keep a little bit of a room above that, but that would be one measurement that would be kind of in consideration for how much we do in buybacks. In terms of the dividends, we have stated in the past that we like to be roughly 50% of our net income and dividends over the long term. So that's kind of a target that we would head toward."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah, I would add to that Ebrahim. I think that the -- probably the constraint to further or the opportunity maybe is better term to increasing the dividend, really I think is down the path of NII. So to the extent that we get some relief on the rate -- in the rate environment, I think there is upside. It feels to me like our fee income levels are pretty -- at least at this point pretty well understood for the balance of the year and expenses feel to be pretty well understood as well. So I think that, that is really the rate environment that is -- represents the upside on the dividend I think."
+    },
+    {
+      "speaker": "Ebrahim H. Poonawala",
+      "speech": "Understood. And I guess just on the rate environment on the NII. So Dean, thanks again for the guidance relatively clear. Two things, one, as you think about -- just remind us what's the PPP fees remaining at the end of the second quarter and your expectations around whether or not most of it gets accreted this year?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yeah. So we have $14.5 million remaining in fees. And so, this would be both the 2020 and 2021 vintages. We're looking at pretty elevated level, so something similar to what we had in the second quarter in terms of what would pay off and then, there is some that we think might bleed into 2022, but generally most of it will -- the remaining balances will come off in the next two quarters."
+    },
+    {
+      "speaker": "Ebrahim H. Poonawala",
+      "speech": "And did you say the second quarter, PPP fees were $3.8 million, the accelerated component?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yes. $3.8 million, the accelerated component."
+    },
+    {
+      "speaker": "Ebrahim H. Poonawala",
+      "speech": "All right. So it should be something in that vicinity. Got it. And just I guess last question, Peter, around -- so you shared some statistics around the macro outlook. From what we understand, it seems like international travel is one area that's still missing. Is there anything else that you think about in terms of where you need to see a full, sort of, back-to-normal reopening before we start seeing that unemployment from 6% going back to pre-pandemic levels?"
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah. So I think international is yet to bounce back. So what's interesting is we're nearly back to full strength in terms of visitor traffic and that's without the international market, which historically is, call it, a third of our marketplace. The benefit to that travelers, they are a bit higher spending. So I think that's upside out there somewhere as the international travel returns. And then, the other piece, with the visitor segment, is the group business and incentive. And beginning of hear, those types of excursions beginning to percolate up again. But as you can appreciate, there is a bit of a lag before we'll start to see that traffic back in. So I think international and group and incentive is effectively the next legs up for the visitor industry. And I think probably a little bit a higher margin product than what we're getting right now."
+    },
+    {
+      "speaker": "Ebrahim H. Poonawala",
+      "speech": "Got it. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question is from Jeff Rulis of D.A. Davidson. Go ahead, sir."
+    },
+    {
+      "speaker": "Jeff Rulis",
+      "speech": "Thanks. Good morning."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Good morning, Jeff."
+    },
+    {
+      "speaker": "Jeff Rulis",
+      "speech": "Peter, just a follow-on to that and not to be overly, I guess, conservative, but I'm just trying to get a sense for the local sentiment, if there is any likelihood of restrictions coming back on with variance. And I know that around the July 4 holiday, that lifted the restrictions on vaccinated folks, but any underway or thoughts locally that things could tighten back up?"
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Well, obviously, we in this marketplace like just about every place else in the country are concerned. And what we're seeing from the variance and the case counts. I've not heard any discussion around reapplying some of our earlier remedies. So no -- nothing that I'm aware of, but obviously if things continue to trend as they have, they will need to begin to think through those sorts of protocols, visitor and just kind of general public. I would say though that the early indicators are, Jeff, though that the majority of the case counts right now are community spread and some from travelers, but generally returning Hawaii residents back from mainland locations. And the incidents of visitor to resident transmission is -- has been very low and continues to be pretty low."
+    },
+    {
+      "speaker": "Jeff Rulis",
+      "speech": "Good point. Thanks. Maybe just a housekeeping kind of maintenance, Dean, I appreciate the guidance on expenses just noted that the occupancy and data levels where we're pretty low linked quarter. I guess, baked into that guidance, is that sustainable on those line items? And I guess, if there is anything that discuss on those why they were at that level, also helpful? Thanks."
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yeah. So the property sale came through in that line, so the $3.1 million. So you have to adjust for that. And then we -- in the second quarter, we did have a little bit better R&M expense run level. So that's a little bit uncertain, but those were kind of the two reasons why the occupancy level was much lower in the second quarter, but mainly driven by the property sale."
+    },
+    {
+      "speaker": "Jeff Rulis",
+      "speech": "Yeah. Okay. That makes sense. All right. I'll step back. Thank you."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Great. Thanks, Jeff."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And for the next question, Mr. Andrew Liesch from Piper Sandler. Go ahead, sir."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Hi, everyone. Good morning."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Dean, question on securities purchases. You added a $1 billion. Just curious, what you purchased? And then with rates having come in [Phonetic], I mean what's the appetite for more purchases to continue?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "So, we've been purchasing kind of what we've have been in the past, which were mortgage-backed securities. We did purchase some corporates. Those are kind of the two major categories, but more biased toward the mortgage-backs. And the average rate that we got in the second quarter was about 1.5%. And then with the drop in the long-term rates, obviously, the current rates are lower. So we're trying to be a little bit more measured in terms of how we are investing the money this quarter, but we're still deploying a lot of the liquidity that we do have on the -- excuse me, on the balance sheet."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Got it. Okay. So, I guess, you have the $910 million of cash. I mean, is there a level that you want to manage that down toward? And obviously, loan growth will help with some of that and probably with some deposit outflows, but what level would you hope to get this down to?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Well, with the -- it would be probably about $250 million to maybe $300 million. And the reason for that is that we do have a lot of cash flow coming off the portfolio. So, from a liquidity standpoint, we're still going to have lots of cash flow that we can reinvest into loans -- for loan growth. So, we can maintain a little bit lower cash level than the $900 million."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Got it. Okay. That's helpful. And speaking out about loan growth, I mean, you had good commercial growth, good consumer growth here this quarter, how are pipeline sitting as we enter the third quarter?"
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Pipelines are looking pretty good, so both consumer and commercial. Commercial real estate had a good quarter. They anticipate having a good back half of this year. Residential was strong. So, residential through the first half of the year did $1 billion in production to lead all local providers. So feel good about that. And as rates have come down a bit here recently, a bit more pipeline in that category. So that feels pretty good as well. Home equity has reemerged, I should say. Indirect was about flat, which I think given the state of auto sales right now was a pretty good performance. So, those are the -- I think those are going to be the drivers.\nConstruction actually might have some upside as well as we get underway on a number of affordable types of transactions. And then really what we're waiting for is the other consumer category and the instalments [Phonetic], and I guess the C&I categories. And those -- both of those categories, you would appreciate, have been impacted negatively by just the liquidity build in both the commercial as well as the consumer clientele.\nBut, I think, put all that together, kind of a mid-single-digit growth rate for the next 12 months I think is reasonably achievable."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Got it. Yeah, that's good to hear. Thanks for taking all the questions and all the color. I appreciate you've all said that."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah. Take care."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question is from Jackie Bohlen of KWB [Phonetic]. Go ahead."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Hi, everyone. It's Jackie."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Hey, Jackie."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Sorry, I've got [Phonetic] a little cold in my voice. Peter, I wanted to chat about the economy just a little bit. You gave some really great anecdotes there which I love, because it helps me get a sense for it since you obviously have your feet on the ground. I just wanted to get a sense for how you view the rebound in tourism versus how you view the rebound in the economy overall? Obviously, I know in a dependent, but there is more to the economic rebound than just tourism. So, wanted to get your thoughts there."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah. So, that's a good question. So, I would say that, obviously, the visitor industry is a big component of the local economy. But I think what we found through the pandemic is it's as big as it is there other factors that drive our local economy as well. And so, construction driven by the health of the real estate sectors is in a good space, that's been helpful. The defense sector has been extremely strong, and likely to get stronger given the geopolitical tensions in the Pacific here. And so those drivers I think have really been major contributors to the local economy getting back on its feet. And I think that in order for our economy to be at full strength, obviously, we need a healthy visitor segment, but there are other factors as well and those factors seem to be doing well.\nThe visitor front has been -- the velocity with which we've come back has really been surprising, at least to me, it has been surprising. And given variant notwithstanding, the -- I think the opportunity for kind of the next stage with the return of international travelers and the next stage with the return of group and incentive travelers bodes well for that important segment."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Okay. And when you say group and incentive travelers, do you mean conferences and things like that, or is it a different type of traveler you're talking about?"
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "It's conferences. It's also large corporations rewarding star sales performers and things like that. It's a big segment of the industry."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Okay. And then, when you think about the economy and the unemployment rate where it's at -- and I realize this is a very hard discussion -- a very hard question to quantify, but I'm just looking for your viewpoint on this. When you think about all of that, if you think about people who maybe haven't entered to workforce, but could because their benefits are perhaps better than they would be if they were working, do you think that's holding the economy back at all, or are we getting to a point where we may see an increase in people looking for jobs?"
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Well, that's the $64,000 question, Jackie. I don't know. I mean, it is a fact that lots of small businesses and large businesses in the visitor industry and elsewhere are just having a tough time getting people to come back. And so, you're right, perversely lack of demand for work is in a very perverse way, holding back the post-pandemic recovery. And whether the elimination or the reduction of federal and state subsidies will help that situation? I don't know. I mean, you would think intuitively that it should, but I've also looked at a few reports that indicate and I think half the states in the country have headed in that direction, they've not seen an overnight bounce back in worker supply. So, it's the right question, and I just don't have as much clarity as I'd like to share with you."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Okay. Thank you. And completely understandable. I just -- Hawaii is so unique, because you are an island, and so you can't have people -- well, you can have people crossing state lines, but it's just not as easy. So, thank you for all that. I really appreciate it.\nAnd then I'll get technical on the quarter for just last one and then I'll step back. I wondered what -- Dean, thank you for the accelerated amortization. I just wanted to confirm what the -- just the regular amortization piece of that was on the fees?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yes, so it was $2.1 million."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Okay. So, the $2.1 million plus the $3.8 million?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah. Thanks, Jackie."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our last question is from Laurie Hunsicker of Compass Point. Go ahead."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "Yeah. Hi. Thanks. Good morning."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Hi, Laurie."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "Hoping that we could just go back to occupancy, wondering how we should be thinking about that, Dean, just from the standpoint of run rate expense? And maybe can you update us, I think, beginning of the year, you are going to take branches down to 50 by the end of the year, and we're sitting at 54. Just help us think about where you are with that in terms of how we should be thinking about occupancy expense?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Well, I think we should think holistically in terms of lower occupancy expense overtime. And so we have been operating -- our branch count has jumped around through the pandemic, just based on where the demand for in-person banking is happening. And so we're down to 50% [Phonetic], I want to say, but 54% [Phonetic] technically. And the question for us right now is trying to toggle between those two numbers as to what -- where we think we're going to end up from a permanent go-forward posture. But I mean -- I think we've had great success in the transition from in-person to digital that obviously has created opportunities for us to call the square footage in our branch system. So if you look over the past decade, if you take kind of a slightly higher view on it, our square footage is down 29% from 2010, and our branch count is down 34%. Just had a pretty significant reduction in overall branch, not just occupancy, but also overall branch expenses. Where we go from here, Laurie, is I think we're probably comfortable for the here-and-now in that 50%, 54% range, [Phonetic] will probably the side in the next 12 months or so, what that exact number is going to be, but feel pretty good about the general structure of the branch system right now."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "Okay. And so then, when we think about occupancy expense that $8 million or so run rate would be a good number."
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "Okay. Perfect. Okay. And then, the FHLB prepay of $3.2 million, how much was actually prepaid and what was the cost and about win [Phonetic] in the quarter if you have it?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "The total amount was $100 million. And I want to say it's kind of almost mid-quarter."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "Okay. And costing?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "You mean in terms of rate. It was about 1.3%."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "1.3%, OK. And then, do you plan to do any more, or was that, that kind of it?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yeah. I think it's going to be opportunistic. This one was opportunistic because of the benefits that we got out of it. So as we see opportunities in the future, we may elect to reduce further."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah. This was the nice opportunity, Laurie because the gain on securities basically offset the cost of accelerating the prepay and then, we got the improvement on the margin. So there is kind of a no-brainer for us. And if that shows up at our door again, we'll do it again."
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "Makes sense. Okay. And then, just looking at the other expense line, so $17 million this quarter compared to $30 million last quarter. Obviously, the $17 million contain the FHLB prepay. I backed that out, it was $14 million, then I backed out the contactless card roll-out, it was $11 million. So $11 million last quarter going to $14 million. Was there anything else non-recurring that showed up in that number or any thoughts around why that number was higher? Will it be that run rate going forward? How should we think about that?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "Well, really contactless card roll-out actually showed up in the data processing line. So the adjustment to other is the only for the second quarter."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "Got it. Okay. So it's $13.3 million going to call it $14 million. Okay. Got it. You know what, that makes sense. Sorry, my bad. Okay. I mean, then just last one for me, the premium and in the quarter, how much was that?"
+    },
+    {
+      "speaker": "Dean Y. Shigemura",
+      "speech": "$10.1 million."
+    },
+    {
+      "speaker": "Laurie Havener Hunsicker",
+      "speech": "$10.1 million. Okay. Great. Thank you very much."
+    },
+    {
+      "speaker": "Peter S. Ho",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And just for the question-and-answer session, we don't have -- no more questions on the queue. Presenters, I'm turning back over to you."
+    },
+    {
+      "speaker": "Janelle Higa",
+      "speech": "I'd like to thank everyone for joining us today and for your continued interest in Bank of Hawaii. Please feel free to contact me, if you have any additional questions or need further clarifications on any of the topics discussed today. Thank you so much, everyone."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 39 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Janelle Higa--Vice President of Investor Relations",
+    "Peter S. Ho--Chairman, President and Chief Executive Officer",
+    "Dean Y. Shigemura--Vice Chair and Chief Financial Officer",
+    "Mary E. Sellers--Vice Chair and Chief Risk Officer",
+    "Ebrahim H. Poonawala--Bank of America Merrill Lynch -- Analyst",
+    "Jeff Rulis--D. A. Davidson & Company -- Analyst",
+    "Andrew Liesch--Piper Sandler -- Analyst",
+    "Jacquelynne Bohlen--Keefe, Bruyette & Woods -- Analyst",
+    "Laurie Havener Hunsicker--Compass Point -- Analyst"
+  ]
+}

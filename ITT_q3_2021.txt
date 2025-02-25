@@ -1,0 +1,392 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to ITT's 2021 Third Quarter Conference Call. Today is Thursday, November 4, 2021. [Operator Instructions]\nIt is now my pleasure to turn the floor over to Mark Macaluso, Vice President, Investor Relations. You may begin."
+    },
+    {
+      "speaker": "Mark Macaluso",
+      "speech": "Thanks, Catherine, and good morning. It's my pleasure to welcome you to ITT's Third Quarter 2021 Earnings Conference Call. Joining me here this morning are Luca Savi, ITT's Chief Executive Officer and President; and Emmanuel Caprais, Chief Financial Officer. Today's call will cover ITT's financial results for the three-month period ending October 2, which were announced yesterday evening. Today's remarks may contain forward-looking statements that are subject to certain risks and uncertainties, including comments relating to company performance, strategic priorities, business mix, market conditions and the effects of COVID-19 on ITT.\nThese statements are not a guarantee of future performance or events and are based on management's current expectations. Actual results may vary materially due to, among other items, the factors described in our 2020 annual report on Form 10-K and other recent SEC filings. ITT is not under any and expressly disclaims any obligation to update these forward-looking statements, whether a result of new information, future events or otherwise. Except where otherwise noted, the third quarter results we present this morning will be compared to the third quarter of the prior year and based on non-GAAP financial measures.\nThese adjusted results exclude certain nonoperating and nonrecurring items, including, but not limited to, asbestos-related charges, restructuring, asset impairment, acquisition-related items and certain tax items. All adjustments in the quarter and expected for the full year 2021 are detailed along with the reconciliation of such measures to the most comparable GAAP figures in our press release and presentation, both of which are available on our website.\nWith that, it is now my pleasure to turn the call over to Luca, who will begin on Slide number three."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Thank you, Mark, and good morning. I want to start by once again thanking you, our stakeholders, for your continued support and investment in ITT. I also want to thank the nearly 10,000 employees at ITT, who demonstrate our core values on a daily basis and who make ITT the most reliable part of our customers and the trusted partner for the communities in which we operate. I am very pleased with the results ITT delivered in the third quarter. Once again, the resilience of our businesses and our teams has allowed ITT to execute for our customers in a tough macroeconomic environment.\nAs a result of the revenue growth, continued margin expansion and the effective deployment of the balance sheet, ITT delivered adjusted earnings per share of $0.99, growing 21% over the prior year. During the quarter, it was paramount that we stay focused on execution while cultivating the significant growth opportunities ahead of us, and this is exactly what we did. In the third quarter, I continued to work our shop floors around the world to ensure we are taking full advantage of our opportunities. I'm encouraged by what I saw firsthand as we are not even close to being done improving our operational and business excellence.\nI saw the engineering expertise and prowess on display at the Friction plant and innovation center in Barge, Italy. The productivity and automation opportunities at our KONI plant in Oud-Beijerland, The Netherlands and the energized high-performing goods pumps team I reconnected with in Dammam, Saudi Arabia. I was also fortunate to visit our industrial process team in Tizayuca, Mexico, where we have a good low-cost manufacturing setup poised for future growth. And lastly, our Friction plant in Silao, Mexico is continuing to add new production lines to support the wins in EVs and share gains on conventional vehicle platforms. There is a lot to be excited about at ITT. Let's talk about some of the key highlights from ITT's third quarter. We drove broad-based sales growth across all three segments and implemented strategic commercial actions to minimize the impact of rising inflation.\nWe drove incremental productivity in the quarter, roughly 280 basis points through a combination of shop floor and sourcing actions, and we continue to apply strict controls over our fixed costs as growth resumes. We thought to overcome a year-over-year $0.23 or 370 basis point raw material headwind. Our ITTers delivered 60 basis points of adjusted segment operating margin expansion, an exceptional result, considering the supply chain dynamics we see. We generated organic orders growth of 27% with strong demand in Friction aftermarket, rail, connectors and industrial controls. We also continued to grow nicely in IP short-cycle and projects. Finally, we put our capital to work, repurchasing an additional $50 million of ITT shares to bring our year-to-date repurchases above $100 million, exceeding our repurchase commitment for the full year. These accomplishments and the dedication of our ITTers drove adjusted earnings-per-share growth of over 20% compared to prior year and 2% above 2019 pre-pandemic levels. Looking at the businesses.\nDespite the supply chain disruption, the restricted auto production volumes, Friction OE continued to outperform, while also driving strong aftermarket growth. We continue to win on both conventional OE vehicles and on new electric vehicle platforms, which will power future outperformance as they transition to hybrid and ultimately to full electric accelerate. This quarter, we won content on six new electric vehicle platforms in China, the world's largest automotive market. This year, we have been awarded content on 25 new EV platforms and our win rate is significantly above our current global OE share of over 25%. Electrification will be MT's next springboard for long-term growth given our strategic focus on EV platforms. In Connect & Control Technologies, we drove 17% organic sales growth with strong demand in North America distribution, especially in the industrial market. This, coupled with progress on CCT's operations, generated 17% adjusted segment margin for the quarter, putting the business closer to pre-pandemic levels.\nLastly, we generated 8% organic revenue growth in industrial process, driven by short-cycle demand across parts, valves and service. This is remarkable, given the supply chain difficulties we are experiencing. We see positive signs in our weekly order rate. And as you will hear shortly, continue to see sequential improvement and market share gains in the long-cycle project business, which is an encouraging sign for 2022 and beyond. One of the most telling metrics for ITT this quarter was the 27% organic orders growth. Our order levels again surpassed 2019, even with many of our key end markets still early in their recovery, like commercial aerospace. In Industrial Process, we generated double-digit growth versus 2020 in short-cycle across baseline pumps, part and service. Q3 was also the third consecutive quarter of sequential orders growth in projects with 36% organic order growth. As a result, IP's backlog was up $28 million in the quarter. In Connect & Control, orders grew over 40% organically, including an encouraging 70% orders growth in aerospace and the strong performance in North America distribution. Finally, in Motion Technologies, we generated strong demand in the Friction aftermarket and in KONI/Axtone, which more than offset a slight decline in friction OE due to the chip shortage impact on our OEM customers.\nEven with these challenges, MT grew over 20% organically versus 2020 and 4% above 2019. And for the year, we now expect MT to deliver over $1.3 billion in revenue, comfortably above 2019. As we head into the fourth quarter, we are not anticipating any improvement in the global supply chain or with raw material pricing. With our teams executing relentlessly against these challenges, we are narrowing and raising our full year adjusted EPS outlook for 2021 at the midpoint to reflect the strong performance to date and our ability to execute. We now expect adjusted earnings per share in the range of $4.01 to $4.06 at the high end, which equates to 25% to 27% growth versus prior year. This is a $0.06 improvement at the midpoint after a $0.37 increase through the first half of the year. This puts ITT on pace to comfortably surpass 2019 adjusted EPS.\nLet's turn to Slide four to talk about sustainability, another key priority for ITT. In September, ITT released the second supplement to our 2019 sustainability report, demonstrating the company's progress on our environmental, social and governance practices. We are continuing to integrate ESG in our business strategy and the day-to-day operations of over 10,000 ITTers. Some highlights from the report to note: we drove a 25% reduction in greenhouse gas emissions, and a 23% reduction in waste sand to landfills, with 25% fewer workplace safety incidents. We are expanding investments in guarantee of origin certificates throughout our European locations to increase ITT's share of electricity from renewable sources. We are investing in more sustainable product technologies, especially in our pump business, building on the success we have achieved in MT's copper-free brake pads. As we conduct our operating plan reviews for 2022, ESG continues to be a key element of the leadership team's mandate and there is much more for us to do. Let's now turn to Slide five to highlight our capital deployment progress in 2021. Thus far, we have deployed capital in an amount nearly three times our year-to-date free cash flow across all our capital deployment priorities. Our capex for the year is approximately 3% of revenue through the third quarter.\nWe've invested in capacity in our Friction plant to support the share gains achieved with new and existing customers as it relates to the accelerated transition to electric vehicles. We also continue to execute value analysis, value engineering to reinvigorate our product offerings in Industrial Process and Connect & Control. From the inception of this initiative in 2018, we have commercialized more than 100 different pump models, representing 23% of our total product portfolio. In addition, we completed redesign for more than 30 additional pumps ahead of their commercial release. We have only begun to scratch the surface with more than 70% of the product offerings still to be addressed. As an example of this effort, following the success of our BB2 pumps, our year-to-date order growth for our recently redesigned magnetic drive pump is 40%. The VA/VE announcements resulted in increased performance, better reliability and shorter lead times. Regarding our other capital deployment priorities, we increased our dividend rate by 30% after 15% the year before. This represents an annual dividend yield of approximately 1%. Our share repurchases this quarter will drive a 1% reduction in our weighted average share count for the full year. We will continue to drive repurchase activity in the future and our existing $500 million authorization. And lastly, as we discussed last quarter, we divested our legacy asbestos liability to a portfolio company of Warburg Pincus. This has reduced ITT's risk profile and allows us additional capital flexibility. To accelerate our M&A activity, we're investing in our capabilities. I'm happy to welcome Bartek Makowiecki to ITT.\nBartek leads strategy development and will drive all merger and acquisition activities, including ITT's newly launched corporate venture vehicle. On this front, we made one initial venture investment in Q3 for Connectors-related assets. And we have a growing pipeline of leading technologies to enhance our existing product portfolio. We have stepped up our M&A pipeline and cultivation activities and are looking forward to bringing great companies into ITT in the near future. Let me now turn the call over to Emmanuel on Slide six to provide further color on our third quarter results and 2021 outlook.\nEmmanuel, over to you."
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Thank you, Luca, and good morning, everyone. As you heard, Motion Technologies again delivered a solid performance, driven by strength in the Friction aftermarket. In our OE business, Friction's market outperformance was over 1,000 basis points this quarter, significantly above our historical average despite large declines in global auto production levels. For all of ITT, we estimate that the supply chain disruptions deducted approximately 350 basis points from our sales growth this quarter. However, we expect to recover a majority of the pushed-out sales in the next few quarters.\nWe also saw double-digit organic sales growth in IP short-cycle and continued strong demand for industrial connectors. And similar to what we saw in Q2, demand in commercial aerospace is increasing as exhibited by the 70% growth in aerospace orders. On segment margin, CCT grew margin by 300 basis points and IP by 150 basis points, while MT declined 110 basis points, mainly due to raw material inflation. We overcame a 470 basis point inflation headwind to drive 60 basis points of adjusted segment margin expansion. On adjusted EPS, despite the challenges Luca highlighted in his introduction, we drove a $0.42 operational improvement year-over-year through a combination of higher sales volumes, strategic pricing actions and productivity across the enterprise. We continue to realize benefits from prior restructuring, including our 2020 cost action plan, and we're carefully managing the unwinding of temporary cost actions taken in 2020 to ensure these costs align with the pace of ITT's recovery.\nTurning to cash. We achieved an adjusted trailing 12-month free cash flow margin of more than 11% this quarter, due to higher segment operating income. On a year-to-date basis, excluding the asbestos payment in Q2, adjusted free cash flow declined by -- driven by strategic investments in working capital. Let's turn to Slide seven. As I mentioned earlier, our performance this quarter was largely operationally driven. Our year-over-year growth was significantly impacted by $0.23 headwind related to raw material inflation and a $0.09 headwind from prior year environmental settlements and temporary cost actions. Partially offsetting these items was a roughly $0.04 benefit from foreign currency. We also realized a slightly lower effective tax rate versus the prior year, which drove over a $0.02 benefit. This was due to effective tax planning strategies related to our patent portfolio abroad.\nWe now expect our full year effective tax rate to be approximately 20.75%. Let's turn to Slide eight to look further at the segments. Motion Technologies Q3 organic revenue growth of 20% was primarily driven by strength in the aftermarket as the Friction OE business declined slightly given the supply chain headwinds affecting OEMs. This and the raw material inflation also impacted operating margin as we had signaled last year -- last quarter. The Friction team is working diligently with our customers to drive equitable price recovery action, given the significant inflation we are seeing today. We were able to pass price increases on to our customers this quarter and manage the impact of contractual price concessions. However, there is much more to be done to compensate for the inflation we are experiencing.\nOur Motion Technologies team will continue to methodically execute incremental pricing actions in Q4 and 2022. We also experienced significant production inefficiencies resulting from large variations in customer orders patterns. However, as with last quarter, our Friction OE business executed very well with over 99% on-time performance across all Friction plants. In challenging economic conditions, Friction continues to be widely recognized as the quality -- as the highest quality and most reliable supplier in the market. And in KONI, we continue to improve our quality performance and remain deeply focused on serving our customers amid supply chain disruptions. Finally, we also continue to evaluate strategic footprint actions and announced one additional plant closure in Europe this quarter, which will drive further cost competitiveness within our rail business. For Industrial Process, revenue was up 8% organically. This was driven primarily by short-cycle demand across parts, valves and service.\nServing our customers this quarter require tremendous focus, coordination and effort by the IP team to overcome supply chain disruptions. Our all-hands-on-deck approach made this happen. As we signaled last quarter, we see the project funnel continuing to grow and IP was able to capture a significant share as evidenced by the 36% organic order growth in project this quarter. We see this constructive momentum continuing and expect to deliver similar year-over-year growth in Q4. IP margin expanded 150 basis points to 15.6% with an incremental margin of 33%, this was driven by higher sales volume, favorable mix, given the higher proportion of short-cycle sales, productivity and price, partially offset by labor and material inflation as well as higher freight charges given shipping delays. Similar to MT, we're making progress on footprint optimization and have executed one plant closure during the quarter with another plant in Brazil in Q4. In Connect & Control Technologies, we continued to drive a recovery from both the sales and margin perspective.\nWith incremental margin of 35%, CCT generated segment margin above 17%. This is a 300 basis point improvement over prior year. The margin expansion was the result of continued volume leverage and strong productivity, including restructuring savings, despite inflationary headwinds. This margin profile is approaching pre-pandemic levels, but with approximately $20 million less in revenue. While there is much work to be done to further solidify this performance, we are very encouraged by the work the team has done thus far and it gives us confidence in the future prospects at CCT. Let's now turn to Slide nine to look at the orders -- at the growth in orders in the third quarter. As you can see, our teams have done a good job capturing the demand, leading to solid order growth in Q2 and Q3. A few highlights to note. First, we're continuing to win new awards on conventional OE, hybrid and new electric vehicle platforms in MT.\nIt is important to note that our ability to win a majority of the EV competitions that we bid on is key to creating the long-term growth platform that Luca talked about. Second, in Industrial Process, the strength we anticipated in short cycle is materializing. But even more encouraging is the order growth and continuing recovery in long cycle pump projects. Both the number and the size of orders in the funnel is increasing, and we have seen a steady sequential order increase throughout 2021. This is the result of our relentless focus on customer centricity and operational excellence, which is increasingly recognized by our OE customers.\nThird, CCT orders were up 40% organically in -- on the strength of our connector portfolio, particularly in North America. The commercial connector performance, especially with our distribution partners is encouraging, and we're working to replicate the strong momentum across all our customers. We also continue to see a gradual recovery in commercial aerospace, which will further bolster the sales growth in CCT over the next several years. CCT backlog is up 17% organically or $40 million since year-end with a book-to-bill of 1.06. This is a notable improvement for CCT since this time last quarter. With all this in mind, let's turn to Slide 10 to discuss improvements in our full year outlook. Through two quarters we had raised our organic sales outlook by 600 basis points and adjusted EPS by $0.37 versus the midpoint of our original guidance. Given our strong performance, today, we are again raising the midpoint of our adjusted EPS range by an additional $0.06 to reflect the stronger-than-anticipated results and lower tax rate.\nWe're not anticipating any improvement in the market headwinds in the near term. Nevertheless, in 2021, we expect to comfortably exceed pre-pandemic adjusted EPS levels. As we look ahead to the fourth quarter, we expect revenue to be the strongest of the year, thanks to IP and CCT. IP will grow revenue in the low single-digit range, while CCT will drive mid-teen percent revenue growth. Facing a tough comparison after a strong Q4 last year and the continued impact from constrained OEM demand, MT revenue will decline by mid-single digits in Q4. However, we expect to largely outperform the global auto market. In total, this will drive approximately flat to slightly up organic revenue growth in Q4. From a segment margin standpoint, we expect all businesses to expand sequentially with CCT growing triple digits and IP building on its strong Q3 performance. Year-over-year we expect segment margin to grow approximately 50 to 75 basis points. Because of an exceptionally strong Q4 last year, Q4 adjusted EPS will grow in the low single-digit range year-over-year, and this will drive full year adjusted EPS above 2019.\nWith that, let me pass it back to Luca."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Thanks, Emmanuel. Let me wrap it up. First, ITT has performed extremely well in a challenging climate. We fought through adversity, and we're winning in the market. Second, we have a resilient set of businesses that have demonstrated over and over again the ability to effectively manage multiple external factors while investing in long-term growth. We delivered strong growth in revenue and margin, while not all of our markets have fully recovered yet. Third, while we are continuing to invest for long-term growth and sustainability, our funnel of opportunities is increasing, and the growth in orders throughout 2021 will pave the way for continued outperformance. Lastly, we have deployed over 2.8 times our year-to-date adjusted free cash flow through our asbestos divestiture, dividends and share repurchases. And we are increasing our focus on M&A, we are in a favorable position to execute acquisitions given our balance sheet strength, and we are growing our pipeline and expanding our target cultivation activity. As I said earlier, there is a lot to be excited about at ITT.\nAs ever, it has been my pleasure speaking with you all this morning, and we will happily take your questions now."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from Scott Davis with Melius Research."
+    },
+    {
+      "speaker": "Scott Davis",
+      "speech": "Hi. Good morning. A lot of great detail on the -- in the comments, but maybe I'll start with Bartek since he's brand new. What's the mandate? I mean, you have such a broad product portfolio. How do you kind of focus it in and narrow down to what you most care about or whatever you're willing to publicly talk about as far as what you'd like to see Bartek accomplish in his first year or so?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Sure. So Scott, let me get this straight. On M&A, we have been slower than we anticipated. We have not been sitting and we deployed our capital with a very strategic deal like asbestos in the last quarter. But now with this behind us, the addition of Bartek Makowiecki, we are accelerating our actions on cultivation and on target. So we are active on rail in the pumps and valves, and we have few things on the CCT front as well. Bartek is also responsible of our venture capital initiative that we initiated in Q1 2021. And the main game on that front is really to boost innovation, to accelerate the growth opportunities to innovation, and invest in some specific technology very adjacent to what we do."
+    },
+    {
+      "speaker": "Scott Davis",
+      "speech": "Okay. That's super helpful, actually. And then just switching to the EV awards, perhaps just a little bit of color. There's six platforms. Is that six different OEs or some number less than that? And then just give us a sense of the competitive landscape, is it the same competitors as is non-EV same intensity? Or is everybody really racing to try to get on these things for kind of obvious reasons?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Okay. I think on the EV, the level of competition that we are facing, Scott, is very similar to the one that we had in the traditional internal combustion engine and on the hybrid. I think that on the customer side, it's different in terms of that, you have different customers because there are some new players. When it comes to the specific six EVs awards, these are six different OEMs and they're all in China. If I may elaborate a little bit more on the EV front and not just on the EV, Scott, but also the hybrid is important because we need to consider the hybrid as we are managing the transition to fully electric. 2021, we probably see 20% of production in hybrid and EV. This will probably go above 30% in two years, probably above 40% by 2025. And now if you look at our percentage of market share win in the awards, which is much higher than our current market share, and you see the acceleration in EV, then you can see that this is almost like a compounding effect in our outperformance in the medium and long term."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Andrew Obin with Bank of America."
+    },
+    {
+      "speaker": "Emily Shu",
+      "speech": "Hey Good morning. This is Emily Shu on for Andrew Obin. Just a question on price cost. What was price cost in the quarter for the total company? And can you talk about the pricing dynamics for each of the segments as well as how you'd expect price cost to play out next quarter?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Emily, so price cost for the overall company, this is obviously a negative impact. We made a lot of good progress in obtaining price compensation from our customers, especially in Motion Technologies, where we were net positive from a pricing recovery standpoint. And this is very different from the past, and it's also different from Q2 where we were price neutral. In Q4, we expect this to accelerate also. The price/cost equation for ITT was around between 200 to 300 basis points negative impact year-over-year. We expect this to continue in Q4 and then to slowly reduce in 2022 as we are able to get compensation from our OE customers."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "And Emily, building on that one, going back by different businesses. If you look at the business in IP and in CCT, these are businesses where ITT has pricing power. When you look in Motion Technologies, automotive, as Emmanuel was saying, is a different story, but it's very encouraging as we see the pictures Emmanuel described, improving quarter after quarter."
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "And just as a final point, Emily, just to add a little bit more detail on what Luca was saying in terms of pricing power. In IP, for instance, we already passed three price increases this year, one in January, one in July and one in November, just recently. And they've been pretty substantial, and the last one includes also surcharges for increased freight costs. Same thing for CCT where we're passing several prices"
+    },
+    {
+      "speaker": "Emily Shu",
+      "speech": "Okay. Great. And then maybe you can go sort of region by region on MT performance versus the global auto market and then sort of I'm curious in which regions were OEM supply chains most stress? And that will be it."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Sure. I would say the outperformance is continuing. And when we look at Q3, the outperformance, as Emmanuel said, was also much stronger. And thanks to the market share gains. MT Friction in 2019 -- this year we surpassed 2019 levels, and this is ahead of the market that will recover probably in a couple of -- in two or three years. Region by region, Europe declined substantially, and we outperformed by more than 1,000 basis points. In China and North America, while the market declined roughly respectively by 17% and 25%, we actually grew. So as you can see, the outperformance has been substantial in every single region."
+    },
+    {
+      "speaker": "Emily Shu",
+      "speech": "Great thanks. Ill pass it on."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Mike Halloran with Baird."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "Hey good morning everyone. So I just want to continue on that line of questioning. So obviously the outperformance has been substantial. Maybe talk about how you feel like this is going to cadence out over the next few quarters here? Where do inventory levels stand? Is the chip shortage starts normalizing over the next one year, 1.5 year, or whatever it is? Do you see that consistent outperformance? Maybe not what you saw the last couple of quarters, but maybe that legacy normal historical type consistent outperformance versus what the market does. Is there some sort of variance that's going to happen? I guess I'm just trying to understand how you think this plays out over the next period of time here, given the outperformance has been so stark lately? And does that have any implications moving forward? I hope that question makes sense."
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Yes, sure. So we're very bullish on our commercial performance in MT and in Friction specifically also. We won several new platforms in EV and also in hybrids and conventional OE. So we're very confident that we can maintain that outperformance in next few years to come. There's no reason why we should -- this should be different from what we've seen so far. And as Luca was saying, as we are really strong in EV and getting all these awards, there is going to be a compounding effect in the future. And keep in mind that when we talk about awards, usually, we see the actual volumes in production in two to three years after the award date.\nWe are also pretty bullish on the demand, and we think that in auto, there's a lot of pent-up demand in the system. And the reason for this is because, obviously, production is not keeping up with the actual demand. And so what you see is that the inventories, especially in North America, are going down. At the end of Q3 there were more or less 30 days of inventory and that was falling more than 40 days in Q2. And then in Europe, things are pretty stable. So we expect this is really going to help us, and this is a really good productive setup for MT."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "Just to clarify the inventory comment, was that the inventory for autos on a global basis? Or is that more pertaining to your inventory levels at the customer level?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Yes. So those are the inventories at dealership from OEMs."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "And how would you characterize your inventory levels?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Our inventory levels are -- we obviously -- in terms of inventory, we had a little bit of a headwind because of the changing order patterns and then so we had to accumulate a little bit more inventory. So this is impacting our working capital. But in the channel with our customers, there is no indication that they're building inventory that could affect future demand."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "Okay. That's great. Super helpful there. And then a lot of footprint actions that you talked about over the course of the prepared remarks here. How far into the journey do you think you are at this point to right size the global footprint? It feels like you've made a tremendous amount of progress here. So just curious what you think is left, if much at all?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Sure, Mike. That is a never-ending journey. So the footprint is, of course, the acquisition we made in rail. So there is a plan that we are consolidating our low cost base in Poland. And then if you think about the one that Emmanuel was talking about in Brazil is the consolidation of two plants into one in Salto, Brazil. So -- but it's a constant journey as we are looking for more automation, as we are looking for more efficiency. So this is the way that we look at it in ITT."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "Great. Appreciated."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Vlad Bystricky with Citigroup."
+    },
+    {
+      "speaker": "Vlad Bystricky",
+      "speech": "Good morning guys, How are you? Thanks for taking my questions. So maybe just one to follow up on the Friction and the platform wins you're seeing there. You mentioned, obviously, you see -- you tend to see on these platform wins production ramp sort of two to three years out. So can you give us some color on how to think about pricing and margin on these wins, given the input cost volatility in the marketplace? Are you -- do you have mechanisms in place on these new wins that are able to protect your margins as volumes ramp over time?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Sure. So I think that it's -- that is not a big challenge at this moment in time, I would say, Vlad, because when we are quoting in this new -- the new platforms, we are currently using the current prices, which this means, of course, it will -- we will probably benefit when the inflation will come down in one or two years from now. And we are currently in the process of negotiating with all our customers because we have seen a level of inflation, which was unprecedented. So that goes beyond the usual terms and conditions that you have with the customers. The challenge is really in changing the mindset and the culture and the skills of our organization because if you think about an automotive, they'll be used for 20 years to give price. And now we are in a different situation. Therefore, we need to train all our people, give them the proper tool to get the customer at the table to negotiate price increases. And this is probably the largest challenge."
+    },
+    {
+      "speaker": "Vlad Bystricky",
+      "speech": "That's helpful. And then maybe just shipping to -- shifting to Industrial Process, obviously, very good -- very nice orders. I guess, can you talk about where distributor inventory and industrial process stands today? Are you seeing still relatively balanced sell-in, sell-out? Or do you think you're benefiting from any restocking tailwinds there?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Sure, Vlad. So we're very -- obviously, we're very happy with our orders in industrial process, right? We were up 26%, and it was pretty broad-based the growth is. And it was sequentially also higher than what we saw in Q2. And we expect this to continue in Q4. And so far, there's no indication that this should stop also in 2022. So we're very happy because it's both the short cycle and the project. Obviously, your question doesn't apply to project. But in terms of short cycle for our baseline pumps, we're not seeing any indication, and we have a pretty close report with our distributor partners. We're not seeing any indication that they're building stock. On the contrary, as we mentioned, we are -- it's hard for us to keep up with the increased demand. So they are pretty -- the supply chain is pretty tense."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Yes. And if we can add to that, Vlad, I'm going to meet all the distributors next week in California of the GDPWW. And the discussion on the agenda is really how we can respond faster, how we can increase our throughput because of the demand that they're seeing. So no problem on the inventory level."
+    },
+    {
+      "speaker": "Vlad Bystricky",
+      "speech": "Right, thats great. Great to hear. Thanks for the call"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Damian Karas with UBS."
+    },
+    {
+      "speaker": "Damian Karas",
+      "speech": "Hey good morning guys. I wanted to ask you about IP projects. You mentioned you're seeing positive signs and gaining some market share on some of these long-cycle project awards. Obviously, back in the project, Heide, that was an area that became a little bit challenging with respect to profitability. So I'm curious what the framework is through which you're looking at these projects, Luca? And how should we think about the impact that they'll have on your margin profile as you deliver on them over time?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Sure. Thanks, Damian. First of all, on the order front, this is the third quarter where we see project orders increasing. And we told you last quarter that we're warming up, and here we are with a 36% increase in projects year-over-year. You see this also as a result of -- I don't know if you remember, guys, but we were talking about winning on engineering-only orders last year. And now all of this obviously is coming to fruition. The funnel of opportunities also getting larger. So obviously, projects will be a bigger part of the mix as we are moving forward.\nObviously, this, Damian, like you rightly said, will be a little bit of pressure on the profitability because of the mix is going to be less favorable. But we have a framework today that deliver this project in a profitable manner, is the way that we are winning them, in the way that we are managing them, with the project reviews and also, ultimately, all the efforts that we have done in terms of VA/VE and also footprint consolidation will have this project to be more profitable than before. So all the cost actions and the rigor in running them will ensure that the profitability will be better than in the past."
+    },
+    {
+      "speaker": "Damian Karas",
+      "speech": "Okay. Great. That's helpful. And Emmanuel, I believe you made a comment earlier on the 40% organic growth in Connectors orders and how you're looking to replicate some of the distribution partner successes you've had. Could you just elaborate on that comment and what you mean by that?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Sure. So today, as we mentioned, a lot of our success is coming from North America in terms of distribution. And what we want to do and what we still have to do is to replicate that success in Europe and in Asia Pacific. So there's a lot of work to do, and we have just recruited a new GM for our European Connector business, and she is going to drive that, and we had some pretty good proof of that even recently. So there's a lot of work that needs to be done to reenergize the relationship and the execution of our distribution partners outside of North America.\nWe're working on this. And then the other aspect to this is that this success, in terms of customer centricity, customer intimacy, we also want to replicate it with the OEMs. We have seen that over the years, the relationship had a little bit deteriorated, and it's important for us to be close to them because those are going to be -- those are going to ensure that our Connectors are chosen for future applications. And that's why we are also working with them to modify and improve the design of our products, as Luca was talking about, we are also implementing VA/VE actions with our Connector business."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "And Damian, let me build a little bit on what Emmanuel said. It's not just the recruitment of Ellen, which absolutely she is an amazing asset to the organization. But what Ryan and the team have done is reorganize the Connector business worldwide before it was run by -- in the U.S. by California on a worldwide basis. But when you are sitting in California, you're not that very close or intimate with the customer in Germany or Europe or in China for that matter. And therefore, what Ryan and the team have done, they've developed a regional organization with a region in Europe base in out of Germany, The U.S. and in China. In this region, while they are still working interdependent, they are staying much closer to the customer. And this is a fundamental change."
+    },
+    {
+      "speaker": "Damian Karas",
+      "speech": "Great. Appreciate the caller guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Bryan Blair with Oppenheimer."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Thanks. Good morning guys. You mentioned the rail facility consolidation and some other footprint works that's underway, how should we think about the timing and level of cost savings going forward?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Yes. Emmanuel, go ahead."
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Yes. So in terms of consolidation, so we just announced that -- so it's going to take a little bit of time. I would expect this between probably four to six months, and this is -- after that, we're going to start to see the savings for this facility. And it's the same as well for the IP facility. So I think that's what you're going to be able to see in terms of impact, it's going to happen toward the second quarter of next year and full ramp in second half of 2022. So definitely, this is more of a structural and long-term approach, but it's going to help us in 2022 mainly."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Okay. Understood. And maybe offer a little more color on the M&A environment and specifically seller expectations and valuation. And Emmanuel, with asbestos off your balance sheet and a cleaner perspective on leverage calculations, what do you think of as current or near-term dry powder, however you would frame that?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "So when it comes to the different area, we are, as I said, very active today in the cultivation, in the target and in analyzing some companies. The main areas where we are active right now is rail and is a worldwide effort. We believe, in the rail business, think about the possible positive impact coming away from the infrastructure spending here in the U.S., but also from the focus on environment, this will have a positive impact on our rail business, both for passengers as well as for freight. Then we see the valves business is an interesting space for us and also on the pumps, but bear in mind, not playing the consolidation game in the pump. And then there are also areas in CCT that will be interested to us. If you think about it, our first investment in venture has been actually in the connector space in an area where they're really differentiating, enhancing our products, differentiating our products together with theirs in the Defense and Aerospace business."
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Yes. And in terms of -- so obviously, this is a very competitive market. We still think that there are many good companies that I think we can add to the portfolio without necessarily overpaying. So as Luca mentioned, we are very active in cultivating, and this has stepped up even more with the arrival of Bartek. And the great thing about this is that you've heard say it for several quarters now is that we really don't have to choose where to deploy our capital. As you can see, we've deployed $100 million this year in terms of repurchases. And it's not at all at the expense of M&A. We still have significant dry powder. I would say, a little bit over $2 billion, probably in dry powder for M&A with -- while maintaining our investment-grade rating. So I think that's -- we have a lot of possibilities ahead of us."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Very helpful detail. Thanks I guess."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Jeff Hammond with KeyBanc."
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "speech": "Hi good morning guys. Just on the buyback, I'm just wondering if this is kind of a change in approach around the asbestos being behind you or was more opportunistic around dislocation in the stock or just maybe how to think about buybacks differently here going forward?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Yes. I think you're going to see us more aggressive on buybacks, not crazy, more aggressive. But I think if you look at today, we've done over $100 million in terms of repurchases. And that corresponds to more or less 1% of our outstanding shares being retired. I think this is going to continue along those lines because really the priority for us is really M&A and buybacks are just -- are coming after that."
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "speech": "Okay. And then CCT, I mean, you guys have done a lot of work there through kind of the downturn and now we're seeing the inflection here, I think the incrementals were mid-30s in a tough environment. Just how should we think about incrementals here over the next couple of years in CCT as Aero, in particular, recovers?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Yes. So I think you have the right intuition, right? Aero is going to be very accretive to our incrementals. And as I mentioned, we already are almost at pre-pandemic levels with $20 million less revenue by quarter. So are we going to get to pre-pandemic levels in terms of margin sooner than we expect? Absolutely. And I think that CCT -- we're fortunate because CCT has the highest incrementals out of ITT's portfolio. And so I think this is going to be very positive for CCT as we drive to our high teens plus margin target. There is -- I want to tone that a little bit because there is still a lot of investments that are needed for CCT. We talked about VA/VE, but there's also a lot of fundamental R&D that needs to happen and that's going to come at a cost in terms of margin. But I think that's definitely really strong incrementals."
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "speech": "Okay. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Joe Ritchie with Goldman Sachs."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "Hi. Good morning everyone. So just a few quick ones for me. Just the Friction aftermarket growth, 70%, I mean, it's my calculation, it seems like it drove most of the year-over-year growth in MT. I'm just curious like what happened this quarter? Why was it so strong on a year-over-year basis?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Sure. So let me take that one. So obviously, Joe, there is some easy compares if you think about the 2020 in terms of the COVID year. But also think about it, we play the aftermarket mainly in Europe. And what has happened if you look at also sequentially, also that year-over-year is that Europe was coming out their vaccination in Q2 and therefore, in Q3, they were coming out the vaccination, they were coming out of the lockdowns, and therefore, people traveling.\nSo this is what pushed the aftermarket tremendously. And on top of that, I will also say that a lot of the dealers, with less sales coming from the OE, they really pushed for service. All of this, combined with the award that we won together with Continental, the Arctic brand by ADAC, which is a very established German certification, all of that helped our growth. The growth is both on the independent aftermarket as well as on the OES side. So we expect, at the end of the year, have a very healthy double-digit growth for aftermarket."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "Yes, that's super helpful and great to hear. I guess just on the 350 basis points that got pushed out this quarter, is it fair to say that most of that came in the Friction OE business? Or did it affect other parts of the portfolio as well?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "So Joe, the -- most of the delays were actually in IPs, and they were due to -- and that's around $15 million. So the 350 basis points is like around $20 million and $15 million of that is coming from IP. And it's coming from castings and frames from auto region that really disrupted our operations. And then once we receive them, we had to reshuffle and reorganize the labor to make sure that we transform those components. So a lot of it came from IP. And then we had some still issues with Wolverine and as well a little bit of plating issues with our suppliers for CCT. Overall, as we mentioned, we expect to recover this -- nothing is really coming out of our backlog. We expect to recover this over the next few quarters."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "So to frame it, Joe, the 350 basis points are our supply chain challenges. And these are excluded completely the chip shortage issues that our OEM customers had in MT."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "Got it. That's super helpful. And then maybe my one last one. On the fourth quarter, you guys talked about margins being up 50 to 75 basis points. I guess, as I kind of think through on a segment level basis, it seems like MT likely down year-over-year but up sequentially. And then I guess Industrial Process in CCT basically consistent with 3Q? Is that kind of the way to think about it?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Sure. I think you're right. In MT, we're going to see sequential improvement because of the incremental pricing we're getting in Q4 compared to Q3. And IP probably pretty in line with Q3. And then CCT, just a small progress. As we benefit from all the efficiency actions we're taking, this is allowing us to improve also CCT's margin sequentially."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "Great. Thank you though."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Matt Summerville with D.A. Davidson."
+    },
+    {
+      "speaker": "Matt Summerville",
+      "speech": "Great. Good morning. Just two quick ones on MT. First, if input costs sort of stay where they're at and don't rise further, can you achieve price cost parity in that business, given how the auto industry sort of functions from a contractual standpoint? And if so, when would you expect to be in parity?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Yes, I think we can, but it's a question of timing. It's a question of timing. So that it's going to take a long time. Because right now, we made -- we had -- we stopped giving any price concession in Q2. We started recovering and getting the price increases in Q3. We're going to do more in Q4. But to be honest, this is very, very difficult. And so it requires a lot of negotiation, a lot of interactions with our customers. So it's going to take several quarters for us to get there. And just keep in mind that for 2022, in terms of raw materials, we're not expecting inflation to get worse, but we do expect a year-over-year negative impact, especially in the first half, where we benefited from a lot of the steel bookings that we did at the end of 2020 and that positively impacted our first half of 2021."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "The math when I look at the ITT portfolio, it's a good portfolio and the businesses where we have pricing powers are really CCT and IP. This is where we have more pricing power, and this is probably where we're going to end up using it more."
+    },
+    {
+      "speaker": "Matt Summerville",
+      "speech": "Sure. That brings up, I guess, an additional follow-up question. Just on your procurement, how are you thinking about your buy ahead strategy or lack thereof for things like steel, copper, other inputs of consequence for you guys, whereas last year, maybe you used a different approach?"
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "So in 2020, obviously, we prebooked a lot of stuff. In 2021 -- and that was very positive, as I just mentioned on 2021 first half. In 2021, because there were so much volatility, we went on -- we were not taking long-term commitments. I think as the picture has been improving, we are monitoring -- and obviously, we're monitoring prices very regularly. We are starting again to take some long-term strategies, and we're just going to see. But I think that right now, there's so much volatility that it's really hard to predict what the prices are going to be."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "And Matt, if I can build on that one, I would say we're working on two main things. The first thing that we need to do really, Matt, is work closely with our suppliers to secure supply. So because you need to ensure that you have a dose supplies with you in your inventory, if you want to maintain the 99%-plus on-time delivery, the friction is delivering very few companies, very few teams are able to do that. And then, of course, you look also at different regions, different suppliers to take advantage from some specific opportunistic situations in addition to everything that Emmanuel said."
+    },
+    {
+      "speaker": "Matt Summerville",
+      "speech": "Got it. Thanks very much guys"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Joe Giordano with Cowen."
+    },
+    {
+      "speaker": "Joe Giordano",
+      "speech": "Hey guys good morning. Can you hear me? Just along those same lines, we've seen some interesting moves in like iron ore recently, like very quick declines. If that was to translate into steel price reductions, what kind of quick reductions -- what are the implications on margin? How quickly does that flow through to you guys, given backlog? And like how does that change the calculus on your discussions with your customers in MT?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Well, Joe, we are not really counting on a price going down obviously. If you think about making the silly, it's not just the iron ore, it's the energy that you're using, and you have a lot of issues on energy this year. And today -- and the price of energy probably will go up. And then is the transformation of every single industry to a green industry -- green steel. So we are not necessarily counting on going down. Now obviously, we are having different conversations today with different OEMs. Today, the conversation that we have with the OEMs is in terms of price increases. So we are not even at parity as Emmanuel said. So I don't -- even if that happens, I don't see that challenge coming to our table anytime soon."
+    },
+    {
+      "speaker": "Joe Giordano",
+      "speech": "Okay. Fair enough. And then one of the things I thought was interesting was the sequential increase in bookings at IP, if that was not the case at all of your competitors. Can you talk about just sequentially what's driving that? Is it -- are you seeing any activity sequentially in project bookings picking up? And just curious, like in the energy sector, kind of specifically, too, I'm curious."
+    },
+    {
+      "speaker": "Emmanuel Caprais",
+      "speech": "Sure. So you're right. Sequentially, orders increased by 6% in IP, and this is really good. The majority of that increase came from actually short cycle. Our project increase, but it was roughly mid-single digits. And a lot of the increase was from our -- for our baseline pumps, which are really higher-margin stuff for us. So we're very happy to see that increase, obviously, because it has a positive impact in terms of mix, even if it's short cycle, so short-lived. From an end market standpoint, we saw really strong performance from general industrial as well as oil and gas and chemical. Mining was a little bit lower, but we had a really good performance recently in mining."
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "I think if you -- when I look at being a couple of the drivers behind it, in terms of the baseline, it's a short cycle, a lot of that comes through our distribution. And our distribution is really a differentiator factor for IP, and we are -- is the envy of our competition. So that definitely is a positive side. And then I want to remind that until Q1 of 2021, we were performing with a plus 90% on-time delivery. And obviously, our performance is paying the price. Today, we're not even close to that. But staying very intimate with our customers, we are managing the situation. We know exactly what is the demand, and we are working that through."
+    },
+    {
+      "speaker": "Joe Giordano",
+      "speech": "Thanks guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our final question today comes from Nathan Jones with Stifel."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Good morning everyone. Question on the IP -- on the project side of IP. Typically, when we see downturns here, you've got capacity chasing volume and pricing suffers because of it. Given all of the supply chain constraints and the improving demand, you probably now have demand chasing capacity. Does that give you guys the opportunity to, I mean, be that higher margins and potentially see better industrial -- better IP margin performance on the projects that are going into backlog currently and maybe over the next few quarters?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "I think that you are definitely right. You are on top of things. This is actually something that we are going to discuss with IP in the next few weeks because -- you are right, but I think it's still a little bit early in the process. But I think that that's exactly what will happen. I agree with you, Nathan."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Okay. And then in Motion Tech, some of your competitors there haven't historically had the best operating metrics, margins, on-time deliveries and could probably be even more challenged in the current environment. Does that really highlight the customers the differentiation of ITT and potentially present even more share gain opportunities for you than you've seen over the last few years?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "I think that three things that really differentiating ITT from everybody else was: A, the level of quality, the level of consistency. The consistency you have across every single plant around the world, the performance on time delivery, all of that is differentiation and the thing that it will keep on happening, I would say. We haven't seen any change at front. One thing that I believe is going to help even more Motion Technologies and differentiation is our R&D, is our material science and our people that have been able to come up with the right mix with the right material knowledge and with the EV, for instance. And this is why we're winning more in the EVs and our market share win in the world is higher there. That is probably the differentiation that is more valuable today."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "And then one last one. I haven't heard an update for a while on Smart Pad. I know a lot of the investment dollars over the years have gone into Smart Pad. Can you give us an update on where that is in development and when potentially it could go into operation?"
+    },
+    {
+      "speaker": "Luca Savi",
+      "speech": "Sure. We have the product. It's been finalized in, I would say, in 60% of these capabilities. And we are still working with some OEMs in terms of the testing. And being a safety component, there are a lot of tests that the OEMs and the Tier one needs to feel comfortable with before putting on a platform. But we are actively discussing with a couple of OEMs and the one specific Tier one today."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Great. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 71 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Mark Macaluso--Vice President, Investor Relations",
+    "Luca Savi--Chief Executive Officer And President",
+    "Emmanuel Caprais--Senior Vice President And Chief Financial Officer",
+    "Scott Davis--Melius Research -- Analyst",
+    "Emily Shu--Bank of America -- Analyst",
+    "Mike Halloran--Baird -- Analyst",
+    "Vlad Bystricky--Citigroup -- Analyst",
+    "Damian Karas--UBS -- Analyst",
+    "Bryan Blair--Oppenheimer -- Analyst",
+    "Jeff Hammond--KeyBanc -- Analyst",
+    "Joe Ritchie--Goldman Sachs -- Analyst",
+    "Matt Summerville--D.A. Davidson -- Analyst",
+    "Joe Giordano--Cowen -- Analyst",
+    "Nathan Jones--Stifel -- Analyst"
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Cheniere Energy, Inc. Second Quarter 2021 Earnings Call and Webcast. Today's conference is being recorded. At this time, I will turn the conference over to Randy Bhatia, Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Randy Bhatia",
+      "speech": "Thank you, operator. Good morning, everyone, and welcome to Cheniere's Second Quarter 2021 Earnings Conference Call. The slide presentation and access to the webcast for today's call are available at cheniere.com. Joining me this morning are Jack Fusco, Cheniere's President and CEO; Anatol Feygin, Executive Vice President and Chief Commercial Officer; and Zach Davis, Senior Vice President and CFO.\nBefore we begin, I would like to remind all listeners that our remarks, including answers to your questions, may contain forward-looking statements, and actual results could differ materially from what is described in these statements. Slide two of our presentation contains a discussion of those forward-looking statements and associated risks. In addition, we may include references to certain non-GAAP financial measures, such as consolidated adjusted EBITDA and distributable cash flow.\nA reconciliation of these measures to the most comparable GAAP measure can be found in the appendix to the slide presentation. As part of our discussion of Cheniere's results, today's call may also include selected financial information and results for Cheniere Energy Partners LP, or CQP. We do not intend to cover CQP's results separately from those of Cheniere Energy, Inc. The call agenda is shown on Slide three. Jack will begin with operating and financial highlights, Anatol will then provide an update on the LNG market, and Zach will review our financial results and guidance. After prepared remarks, we will open the call for Q&A. I will now turn the call over to Jack Fusco, Cheniere's President and CEO."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Thank you, Randy, and good morning, everyone. Thanks for joining us today, and thank you for your continued support of Cheniere. I'm pleased to be here this morning to review our results from the second quarter and our increased financial guidance for the full year 2021. Please turn to Slide five where I will review some key operational and financial highlights from the second quarter.\nThe second quarter was an extremely productive one for us as we achieved milestones across the enterprise in origination, marketing, operations and engineering and construction, just to name a few. Global LNG market fundamentals continue to be extremely constructive, and we have begun to see the return of long-term LNG contracts in support of the construction of new liquefaction capacity. For the second quarter, we generated consolidated adjusted EBITDA of $1.023 billion and distributable cash flow of approximately $340 million on revenue of over $3 billion.\nWe generated a net loss of approximately $329 million, due primarily to the unrealized derivative accounting treatment required on our hedges and on our Integrated Production Marketing, or IPM transactions, which Zach will discuss in more detail in a few minutes. For the third consecutive quarter, we're raising our full year 2021 financial guidance. We now forecast 2021 consolidated adjusted EBITDA of $4.6 billion to $4.9 billion and distributable cash flow of $1.8 billion to $2.1 billion. This increase in guidance is being driven by a number of factors. First, the continued strengthening of the LNG market is yielding higher netbacks on open volumes. For context, since our first quarter earnings call in May, spot margins for 2021 doubled.\nAnd our portfolio optimization team has been able to capitalize on that with our open volumes. In addition, we've been able to further unlock some additional production for the second half of the year, primarily through maintenance optimization, which has contributed to an upwardly revised production forecast. And lastly, with Henry Hub moving higher over the past quarter, we made some additional lifting margin. So our outlook for the balance of 2021 has improved again based on a very strong LNG market and our very strong operational performance. The fundamentals present in the LNG market are as good or better than at any time since I've been at Cheniere. Anatol will cover the market in more detail in a few minutes, but market dynamics on both the supply side and demand side continue to move in our favor and support our conviction in the long-term growth prospects for natural gas worldwide.\nJust after the quarter ended, we signed our third IPM agreement in support of Corpus Christi Stage 3, this time, with Tourmaline, the largest natural gas producer in Canada. This transaction progresses our commercialization efforts on a shovel-ready Stage three expansion project and helps validate our view of a constructive macro backdrop for long-term contracts. In addition, it reinforces Cheniere's record of executing collaborative, innovative solutions to meet the needs of our customers.\nWe will continue to leverage our infrastructure platform and commercial advantages to further progress Stage three toward FID. During the second quarter, we continue to have meaningful success under our midterm strategy, placing portfolio volumes into the market under various commercial agreements and increasing the percentage of our total volume that is contracted. So far in 2021, we've entered into fixed fee sales agreements for portfolio volumes with multiple counterparties aggregating approximately 12 million tons of LNG volume between this year and 2032, in addition to the IPM deal with Tourmaline.\nThe success of this midterm strategy underscores the strength in the LNG market today and the strategic competitive advantage of our portfolio volumes. We'll continue to place these flexible volumes in the market, tailoring solutions to meet the growing requirements of LNG customers worldwide. On the production side, the record we set in the first quarter for LNG exports didn't stand very long as we broke that record in the second quarter with 139 cargoes of LNG exported from our two facilities. Year-to-date, Asia is the top destination of Cheniere cargoes with approximately 45% of our cargoes exported having landed in Asia, followed by Europe with roughly 35%, and Latin America with about 20%. South Korea and China are the top two countries importing our LNG so far this year, and those two alone account for over 1/4 of all cargo deliveries. Our operations and maintenance teams at both Sabine Pass and Corpus Christi have done an exceptional job thus far in 2021, managing our operating plans to maximize asset availability and LNG production in our facilities, enabling us to increase our production forecast for the year, all while ramping Corpus Christi Train three to four rates and stable operations quickly and safely.\nWe look forward to the same performance with the addition of Sabine Pass Train six early next year. Speaking of Train 6, a significant milestone was met last month with the introduction of fuel gas into the train, signaling the start of early commissioning activities. At the site, 17 systems were turned over to the start-up team in June, another 12 in July. With the project approximately 90% complete Bechtel continues to progress this project against an accelerated schedule. Turn now to Slide six where we'll provide a brief review of Stage three and the Corpus Christi site overall as the Stage three project comes into focus with our recent commercial momentum and the constructive market we are in. As a reminder, our Stage three project at Corpus Christi is fully permitted, and if fully constructed, would have over 10 million tons of LNG capacity per year. Stage three enjoys brownfield project economics as it will utilize a significant amount of shared infrastructure constructed as part of trains one through three, which we believe make Stage three a very cost-competitive LNG capacity addition. As for the path to FID, we have said this before, we will maintain our discipline to help ensure that the risk and return profile of Stage three is consistent with that of the first nine trains we've built.\nTo that end, our origination team is focused on commercializing additional capacity from the project, and we are working closely with Bechtel on finalizing the EPC contract. We remain committed to our growth capital investment parameters which help ensure discipline in our capital investment decisions and the sanctioning of projects only when they meet the high standard we have set for all FIDs to date. Our excitement around the potential investment opportunities at the Corpus Christi site doesn't end with Stage 3. As you may recall, we have acquired approximately 500 acres adjacent to our existing site, which provides us with a platform for major future development potential. Any future capacity developed at this site may be designed to leverage already in place to provide substantial cost advantages.\nAs you can see from the aerial view of the land position at Corpus Christi, the site possesses a substantial running room for growth well beyond Stage 3. And we may develop additional infrastructure there over time, especially as Stage three moves closer to FID. Turn now to Slide seven. Last month, we were proud to publish our second annual corporate responsibility report entitled Built for the Challenge. This report, the product of a deep cross-functional effort across the entire company, provides insight into key actions taken by Cheniere to ensure business resiliency in 2020 and beyond, and is the latest example of our transparency on ESG-related issues and how we are building sustainability into our business model.\nBuilt for the Challenge is the latest milestone in our ESG journey, which has seen tremendous progress in 2021. Highlights of achievements reached thus far through 2021 include the announcement of our cargo emission tags, the climate scenario analysis we published, our first carbon-neutral LNG cargo we announced last quarter, our participation in the first-ever study to measure methane emissions on an LNG carrier, and our collaboration with leading academic institutions and several of our upstream natural gas suppliers to implement QMRV or greenhouse gas emissions performance at natural gas production sites across several bases.\nAnd finally, earlier today, we announced the publication of our peer-reviewed greenhouse gas life cycle assessment, or LCA, which utilizes greenhouse gas emissions data specific to our LNG supply and will be the foundational analytical tool to estimate greenhouse gas emissions to be included in our CE tags that we provide our customers. The items highlighted on this slide are all steps on a continuous path, and we look forward to leading our industry forward in this area, helping to ensure the long-term sustainability of natural gas and helping all participants among the LNG value chain realized the full environmental benefits of our LNG. With that, I'll turn the call over to Anatol, who will provide some more details on recent LNG market development."
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "Thanks, Jack, and good morning, everyone. Please turn to Slide nine. Globally, the pace of recovery in LNG markets from the COVID-related lows has exceeded most expectations, especially when looking at demand growth in the fourth quarter of 2020 through the first quarter of '21. This trend continued in the second quarter with not only meaningful growth over the same period in 2020, but also notably well above the five year range, supporting our constructive market views on '21 and subsequent years. We continue to see a fundamentally tight market over the next several years breaking the trend for seasonal demand norms even with rebounding LNG supply.\nAs reflected by the historically high LNG prices in both Europe and Asia, markets remain tight through this past winter, with global LNG demand growing by 9% year-over-year in the second quarter, slightly surpassing the fourth quarter demand levels despite the second quarter historically being a shoulder period in the market. Asia and Europe exited spring with sizable storage deficits as the cold winter in Asia and the colder-than-normal spring in Europe, intensified the interbasin competition for LNG supply. Asia and Europe's robust demand caused spreads between the two regions to narrow, with European netbacks even surpassing those in Asia in order to attract imports amid insufficient LNG supply availability in Q2. Global LNG production rebounded 8% year-over-year in Q2, primarily on U.S. volume growing 80% compared to last year when customers were exercising their cargo cancellation rights.\nThrough the first half of the year, U.S. LNG production is up 43% year-over-year approximately 35 million tons. However, non-U.S. volumes have lagged more than expected during most of '21 so far and remain below 2020 levels in June. These non-U.S. volumes were impacted by feed gas constraints in Trinidad, and maintenance and outages in North Africa and other LNG-producing regions. Consequently, less LNG flowed to Europe year-over-year as it competed for cargoes with Asia and Latin America. Overall, U.S. LNG flows to Asia increased over 10% in the first half of '21 to 48% of total U.S. exports compared to 38% in the first half of 2020. Meanwhile, flows to Europe dropped over 15 percentage points from 51% to 34% year-over-year, coinciding with natural gas storage inventories again at multiyear lows.\nPlease turn to Slide 10, where I'll provide additional insight into the regional dynamics of the market. In Europe, weather-driven demand supported the gas market well into the injection season. High carbon prices and low wind generation in June further lifted European gas demand for power generation. However, upstream maintenance across Northwest Europe, flat Russian gas pipeline flows and lower LNG imports, capital market tight and storage inventories at a significant deficit relative to historic norms. LNG flows into Europe were 9% or roughly 2.1 million tons lower year-on-year in Q2 as a result of tight global LNG supply balances. European inventories currently stand at record low levels, with a 16 BCM deficit to the five year average, which is equivalent to roughly 170 LNG cargoes.\nThese supply and demand dynamics were reflected in European gas prices during the second quarter, with Dutch TTF settlement averages increasing by over $6 an MMBtu to $7.82 in MMBtu and almost 350% increase year-over-year. This average was higher than JKM as the basins competed for import volumes. Similarly, in Asia, the continued call on LNG imports to satisfy growing natural gas demand was driven by an early start to the summer, a surge in economic recovery and industrial activity in China, along with heavy nuclear maintenance in Korea. Jack mentioned a moment ago that Korea and China alone imported over 25% of all our LNG production year-to-date. Asia imported 65 million tons of LNG in the second quarter, an increase of eight million tons or 14% year-on-year. The JKT region contributed over 20% of that growth despite higher nuclear availability in Japan. 10 nuclear units have restarted in Japan as of July 21, the highest number of operating units since the Fukushima disaster over a decade ago. Japan's nuclear availability was offset by lower nuclear output in Korea and Taiwan. A particular note, Taiwan retired 25% of its nuclear fleet in the second quarter and has a stated goal to become nuclear-free by 2025. So this should continue to support the LNG market in the region for years to come.\nThe majority of growth in Asian LNG demand, however, came from Mainland China. Imports in China surged 22% to 20 million tons in the second quarter, making China the largest LNG importer on a global basis surpassing Japan. LNG imports were supported by hotter-than-normal weather in South China, rising industrial gas demand, and increased power sector demand amid low hydro levels. In addition to Asia and Europe, we saw a notable uptick in Latin American demand as Brazil's imports reached multiyear highs due to severe drought conditions and the resulting lack of hydropower. Latin America's imports increased more than 70% year-on-year in the second quarter, with Cheniere-produced cargoes making up nearly 40% of total imports. Flows into Latin America represented 17% of total U.S. exports, increasing over 5% from the comparable 2020 period. Clearly, both near-term and long-term dynamics in the LNG market provide a highly constructive backdrop for us to execute on our short-, medium- and long-term LNG origination strategies.\nWith highly flexible portfolio volumes available today and cost-competitive brownfield incremental capacity that we are actively commercializing, we possess an ideal platform to meet the growing and evolving needs of LNG customers worldwide. Now turn to Slide 11. As natural gas solidifies its place as a foundational fuel in a global transition to lower carbon energy sources, LNG consumers and producers are seeking to optimize the environmental performance of LNG throughout the value chain. Jack reviewed some of the recent steps that we at Cheniere have taken and will continue to take as part of our broader strategy focused on data and transparency through the LNG life cycle, with the ultimate goal of emissions abatement in order to maximize the climate benefits of our LNG for all. The growing focus on environmental stewardship and performance is beginning to be reflected in pricing mechanics for energy.\nIn the European Union, carbon prices reached all-time highs in the second quarter, reaching over EUR55 per ton during the quarter and continuing higher to nearly EUR60 per ton, or roughly $3.50 an MMBtu equivalent in early July. Industry commentators view the growth and increased liquidity in the emissions trading market to be an enduring trend as demand for allowances and offsets growth across the globe, driven by decarbonization efforts. While Europe is by far the most active market for exchange-traded carbon allowances, we're seeing increased activity in other parts of the world as well, especially Asia. China recently launched its own national emissions trading, market making it the largest carbon market in the world at its onset.\nWe believe other markets will follow this trend as progress on climate action will continue to buoy demand for cleaner burning fuels. This is relevant to Cheniere and the LNG market as the appetite for carbon-neutral LNG is increasing, and carbon offsets our necessary tool in certifying cargoes as carbon-neutral. While this market is nascent today, as of mid-July, there were 12 carbon-neutral LNG cargoes in 2021 globally. There is significant interest in these offerings among both buyers and sellers. Given our size, scale and progress to date, leading on data-driven environmental transparency and performance and some of the other efforts Jack highlighted, Cheniere expects to play a prominent role in this regard from our life cycle analysis and the cargo emission tags and our QMRV collaboration, we aim to offer increased environmental transparency while providing low emission solutions and competitively structured products for our buyers. Thank you all for your time.\nI'll now turn the call over to Zach, who will review our financial results and guidance."
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Thanks, Anatol, and good morning, everyone. I'm pleased to be here today to review our second quarter financial results and our increased full year 2021 guidance. Turning to Slide 13. For the second quarter, we generated revenue of approximately $3 billion, consolidated adjusted EBITDA of approximately $1 billion and distributable cash flow of approximately $340 million and a net loss of $329 million. As Jack mentioned, our results for the quarter were negatively impacted by the accounting treatment for our derivative instruments, which includes our IPM agreements.\nAs we have discussed in prior quarters, our IPM agreements, certain gas supply agreements and certain forward sales of LNG qualify as derivatives and require mark-to-market accounting, meaning that from period to period, we will experience gains and losses as movements occur in the underlying forward commodity curves. This accounting treatment, coupled with significant volumes, long-term duration and volatility in price basis for certain contracts, most notably our IPM agreements, will result in fluctuations in fair market value from period to period.\nWhile operationally, we seek to eliminate commodity risk by matching our natural gas purchases and LNG sales on the same pricing index, our long-term LNG SPAs do not currently qualify for mark-to-market accounting, meaning that the fair market value impact of only one side of the transaction is often recognized on our financial statements until the sale of LNG occurs. The unfavorable pre-tax impact from changes in the fair value of our commodity and FX derivatives during second quarter 2021 was approximately $672 million, most of which was noncash, but was the primary driver of our recognized net loss for the second quarter. For the second quarter, we recognized in income 522 TBtu of physical LNG, including 508 TBtu from our projects and 14 TBtu from third parties.\nApproximately 80% of these LNG volumes recognized in income were sold under long-term SPAs or from volumes procured under our IPM agreement. We received no cargo cancellations and had no impact to revenue recognition timing related to cargo cancellations in the second quarter. We received $36 million related to sales of commissioning cargoes in the second quarter from LNG, which was in transit at the end of the first quarter, corresponding to six TBtu of LNG. As a reminder, amounts received from the sale of commissioning cargoes are offset against LNG terminal construction and process, net of the costs associated with production and the delivery of those cargoes. As you may recall, we established an initial debt reduction for 2021 to pay down at least $500 million of outstanding debt.\nDuring the second quarter, we fully repaid the remaining outstanding borrowings under Cheniere's term loan and fully repaid Cheniere's convertible notes due May 2021, with $500 million of cash-on-hand and the remainder about $130 million from borrowings under the CEI revolver. So as of June 30, we have already achieved our minimum full year goal of $500 million in debt reduction. With our cash flow profile only improving in the back half of the year, we are poised to exceed that amount this year, along with broadening out our capital allocation plans. Continuing with the balance sheet management, since our last call, we have locked in a further $200 million of long-term amortizing fixed rate notes at SPL on a private placement basis, with multiple counterparties.\nYear-to-date, we have locked in approximately $347 million of such notes, which will fund on a delayed draw basis in late 2021 and will economically refinance a portion of SBL's outstanding 6.25% notes due 2022. This continued progress on prudently managing the balance sheet through this new structure, which goes hand-in-hand with our efforts on execution and operational performance, was once again recognized by the credit rating agencies during the second quarter, as S&P Global Ratings changed the outlook on the credit ratings of both Cheniere and CQP to positive from negative, as we mentioned on the May call. S&P cited the EBITDA and cash flow growth resulting from the successful completion of eight trains, accelerated schedule of Train 6, and the expectation of significant improvement in leverage levels over the next two years as we execute on our stated deleveraging plan.\nJack and Anatol have both discussed the success we've had so far in 2021 on marketing and origination, with 12 million tons of midterm deals done as well as the recent 15-year Tourmaline IPM transaction. The execution of these transactions not only bring Stage three into greater focus, but also supports our long-term balance sheet management priorities by bringing significantly increased cash flow visibility out into the 2030s, given the fixed fees that have always been the bedrock of our commercial strategy.\nAggregating the midterm and IPM transactions we've completed year-to-date, we have sold approximately 25 million tons of LNG which will generate over $3 billion in fixed fees into the next decade, which clearly has derisked our cash flows further. Turning now to Slide 14. As previously mentioned, today, we are increasing our guidance ranges for full year 2021 consolidated adjusted EBITDA and distributable cash flow by $300 million and $200 million, respectively, bringing total increases to $700 million and $600 million, respectively, above the original ranges we provided in November of last year. Our revised guidance ranges are $4.6 billion to $4.9 billion in consolidated adjusted EBITDA and $1.8 billion to $2.1 billion in distributable cash flow.\nToday's increase in guidance is largely driven by the continued improvement in global LNG market, pricing and our ability to capture higher netbacks on our open portfolio volume. A production forecast we have again revised upward due primarily to maintenance optimization. And lastly, some added lifting margin due to higher Henry Hub prices. DCF guidance isn't moving up quite as much as EBITDA guidance due to some incremental EBITDA accruing at CQP and SBL, where we have accelerated capital spend at Sabine since Train six is ahead of schedule. So we expect to realize the benefits over time in DCF as CQP's distributions increased further in the coming years once fully operational.\nWhen we updated guidance on the last call, one of the primary drivers was an improvement in market margins from approximately $2 in February to approximately $3 in May. Since then, that margin has gone up by another over $3, and our production forecast has increased as well. The incremental volume that's been added to the production forecast is all in the third and fourth quarters. And although it's single-digit number of cargoes in terms of quantity, the impact on the financial forecast is meaningful with netbacks where they are. We currently forecast that the dollar change in market margin would impact EBITDA by less than $25 million for the rest of the full year 2021. As we have now sold almost all of our production for the remainder of the year, we would only provide another update if that were to change materially.\nAs well, given the little remaining exposure to the market we have, we are confident in our ability to deliver results within these upwardly revised guidance ranges for the full year. While we don't guide to free cash flow for over a year now, we have described 2021 as Cheniere's free cash flow inflection point, and that is certainly materializing in the results we've generated so far this year and in our forecast for the balance of the year. Entering 2021, we forecasted free cash flow at around $1 billion for the year.\nAs Bcf guidance has moved up $600 million in the subsequent six months, it's reasonable to think our FCF forecast has moved up largely in lockstep with DCF. So over $1.5 billion. This incremental cash flow puts us in a great position from a capital allocation perspective, especially as we work to finalize our comprehensive capital allocation strategy and framework. With that process nearing completion, we expect to be able to provide that to you in the coming months and before the 3Q earnings call in early November, where we will provide you with the first look at 2022 guidance. That concludes our prepared remarks.\nThank you for your time and your interest in Cheniere. Operator, we are ready to open the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from Michael Lapides from Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Michael Jay Lapides",
+      "speech": "Congrats on a really good first half of the year so far. Just one maybe for Anatol, just two things. One, how are you thinking about the changes in contract structures that you're seeing in the market? Meaning, we've seen some other North American LNG players announce deals that are priced at basically a sliding scale tied to JKM. Just curious, when you're thinking about what the market is going to do for new contracts, is your thought that it's still an SPA-driven kind of fixed fee-driven type of market? Or do you think it's going to go to more of a variable-type fee structure for future deals?"
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "Thanks, Michael. In short, the market is growing, maturing, and we expect to see all of the above in greater quantities. We're in the camp that traditional SPAs long term are part and parcel of this business and is required for us, for example, to commit capital. And we think that our commercial creativity is one of our main calling cards, right? We introduced the IPM business now over two years ago, and that's a business where the producer gets exposure to those international indices, we collect our fixed fee and the producer passes -- allows for that commodity exposure to pass through to their underlying resource. So we think all of this stuff is part and parcel of the business going forward. You'll see traditional SPAs, and you'll see, as we mentioned, a lot more midterm business from us that we've been so successful with since we launched it less than a year ago."
+    },
+    {
+      "speaker": "Michael Jay Lapides",
+      "speech": "Got it. And then one quick follow-up on Stage 3. Just curious, how much more do you think you need to contract before you think you're getting close to FID?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Michael, I just wanted to add a little bit to Anatol's answer to your question, and then we'll talk about Stage three. So I would say we're in the catbird seat. We have a great position. We're able to offer solutions for customers. We've been very successful on offering short-term, midterm contracts to those customers that want those, that we don't use, to grow the business. We're not in the FID business. We're in the making money business. So we're staying extremely financially disciplined on our next expansion project, just like we have on the first nine. But I'll turn it over to Zach to talk more specifics on Stage three."
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Sure. Michael, so I'll just start off by saying last November, Jack mentioned that we were around 85% contracted. And at this point, we're 90% with all the work that the marketing team has done. And when you think about 90% on a 45 million-ton book, that's a little over 40 million tons are contracted at this point. So we're actually pretty darn close to considering an FID of Stage three and why we're so confident about doing that next year. But as noted, as Jack mentioned, it's all about our disciplined approach to just major capital investments, meaning it's not just about the volume, but about the returns on both a levered and unlevered basis from a highly contracted cash flow. So that when we sanction a project, it's value- and credit-accretive and the very, very best use of our cash. But with that all in mind, it is around, let's say, four or so MTPA of additional contracting to underpin all of Stage 3, ensure our run rate contracted capacity remains in that 80% to 90% range even at FID, and of course, all the investment parameters are met. So again, we're pretty confident that 2022 could be a big year for us."
+    },
+    {
+      "speaker": "Michael Jay Lapides",
+      "speech": "Got it. Thank you guys. Much appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Brian Reynolds from UBS. Please go ahead."
+    },
+    {
+      "speaker": "Brian Patrick Reynolds",
+      "speech": "This is Brian on for Shneur. I appreciate all the color on the $300 million guidance range. Just curious if you could provide a little bit more color on the changes between 1Q and 2Q guidance. In your prepared remarks, you talked about the maintenance optimization. And I was just kind of curious how much capacity Cheniere was actually able to free up at these attractive spot margins. I know you talked about a $1 change in marketing margin equals 25% in EBITDA impact, but I was just kind of curious if you can provide a little bit more color behind all the drivers in the guidance change of $300 million."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Well, thanks, Brian. And I have to say, I'm so pleased with our operations and maintenance personnel and their ability to optimize our maintenance schedules and take advantage of what seems to be a very high-priced LNG market right now. But as far as the details of how it breaks down, I'll turn that over to Zach."
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Sure. Brian, so the $300 million upward move in the guidance is pretty simple. It's three things. It's higher netbacks, a bit more production and better lifting margin. But to be clear, higher margins on the open capacity and some additional production were the vast majority of the guidance range. So with the dramatic rise in CMI netbacks since early May from literally just under $3 to over $6 today for the rest of the year, and with that 40 TBtu previously opened, that added almost $150 million of that raise. Then combine that with another, let's say, four or so cargoes from opportunistically managing maintenance for the rest of the year to take advantage of these current market conditions and that added alone another $100 million. And the rest with just higher Henry Hub prices for the rest of the year as we expect to literally lift every last drop of LNG, lifting margin made up most of the rest. And that simply gets you $300 million or so."
+    },
+    {
+      "speaker": "Brian Patrick Reynolds",
+      "speech": "Great. Appreciate all that color. Maybe to pivot to capital allocation and just a follow-up on CCL Stage three. It seems to suggest that you're close to FID at this point if you can get the necessary contracts. Just in the overall scheme of things, with the desire to become IG and with the recent positive outlooks of the credit agencies, how does growth in leverage reduction effectively impact your desire around buybacks and dividend initiation at this point?"
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Sure. I mean, put it this way, we're going to have $3 billion of DCF per year. And now with how the markets have improved and the curves have improved, around $13 billion of available cash through 2025. And the equity check for something like Stage three which, let's say, it's around the mid-$3 billion range for the whole thing is only about $800 million per year once funded 50-50 with debt and equity pro rata over time. So as you can see in the results, we're pretty much at a point in our life cycle where we can undertake a project of the scale of Stage three and not be limited whatsoever from also meeting all of our balance sheet and shareholder capital return goals over the coming years. So nothing's really holding us back at this point."
+    },
+    {
+      "speaker": "Brian Patrick Reynolds",
+      "speech": "Great. Appreciate the color and congrats on the quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Jeremy Tonet from JPMorgan. Please go ahead."
+    },
+    {
+      "speaker": "Jeremy Bryan Tonet",
+      "speech": "Just wanted to pick up with the market outlook a little bit more. Second quarter last year, spot LNG, a couple of bucks. Now LNG price is comfortably trading above high teens for winter and seasonally high spot rates right now. And just kind of wondering, based on carbon prices and structural demand shift, how do you think about, I guess, the pricing dynamic today. Has it changed? Or where do you see us in the cycle? And I guess, how that could impact, I guess, the appetite for contracting?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Well, I'll start, and I'll hand it over to Anatol. The increased volatility and the higher prices just bring more and more customers to want to lock in their energy costs naturally and reduce the volatility to their customer base. So as you know, Jeremy, we focused on selling to end users. We sell most of our product to utilities around the world, and they need it. And as more and more of these countries try to meet their climate goals and clean up their air, especially in and around Asia. You're seeing the demand for that gas and the demand for LNG rise fairly significantly and much greater than what was in any of our models initially. But I'll turn it over to Anatol."
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "Yes. Thanks, Jack. Thanks, Jeremy. We've been fairly bullish on the market in the first half of this decade and saw '21 as a transition year. As we've touched on in previous calls, it transitioned faster than we expected kind of across the board. Asia's rebound and demand growth, and all of this investment that we saw in gas infrastructure and LNG infrastructure and demand is playing out arguably faster than we expected. And in the aggregate, U.S. came to the rescue second half of last year and first half of this year with additional volumes, but now, everything is online, obviously. We and everyone else are trying as hard as possible to bring this volume to market, and the market is still tight, right? Demand exceeded supply in Q2, which is why you saw the storage dynamics and the pricing dynamics that you mentioned, and we are only entering this phase of the market. As Jack said, this is the first time that, in his tenure at Cheniere, that he's in the bull part of the cycle for the sellers. And long-term and midterm commitments are accelerating as a result, right? It's not a surprise to anyone that this is playing out, but it is playing out a little bit faster. And as Zach mentioned, our comfort level with '22 is that much higher. The other important component that you touched on, on the carbon side, and this is why the journey to get this LCA product out that we announced this morning was so important, we are highly confident that we have a very low profile, low emissions profile product that will be a major contributor to emissions reductions in Europe, Asia and everywhere that we structurally deliver our product into. So there's a mention of a case study in there that shows that our product reduces emissions by about 50% when displacing coal in China, and that is a great starting point on this journey that we've announced this morning. So very optimistic about the structure of the market and our ability to offer these solutions both economically and environmentally."
+    },
+    {
+      "speaker": "Jeremy Bryan Tonet",
+      "speech": "Got it. So it seems like price of carbon could lift the LNG market maybe there. And maybe just kind of building on that last point a bit more. You announced this collaboration with natural gas suppliers and academic institutions to improve emissions monitoring. Just wondering what you're learning here, I think you touched on some of the points here, but just wondering, it seems like the market is going in this direction. Do you see another kind of low-hanging fruit for Cheniere here? Some that are looking to compete with you have introduced CCUS strategies. Do you think that's where the market is going overall?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Look, I think the pathway to the energy transition is a very, very long road, and it's going to need some of everything -- a lot of everything that we can develop today and in 20 years from now. The -- we embarked upon the journey back in 2018. We've spent well over the last three years working on a company-specific life cycle analysis, an LCA, that we published recently with American Society of Chemical Engineers. But it's not -- we're -- our program has been very thoughtful and very forward-thinking, and we're hoping to lead the industry into ensuring that our product is viewed as a sustainable provider of cleaner energy for the world. So that's what it's all leading to. The life cycle analysis is extremely important for us to be able to produce our cargo emissions tags or our carbon footprint per cargo for our customers. So we can help them strategize on whether or not what type of offsets they would like to procure and the quantity of those offsets. So -- but I don't know Anatol, do you have anything to add on?"
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "No. We're -- Jeremy, as you mentioned, we're taking this leading role in developing these technologies and collaborating and creating the baseline from which improvements will be made over time. We're starting off at a great point that's much better than what had been assumed and what is the national average that is out there. And with all of these efforts with our producer partners and our downstream partners and, of course, at our own facility, as Jack said, we will continue to be laser-focused on continuing to improve our emissions profile. And we think that, that's a key success factor as we compete in the energy transition."
+    },
+    {
+      "speaker": "Jeremy Bryan Tonet",
+      "speech": "Got it. Thats helpful. Ill leave it there. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Matt Taylor from Tudor Pickering, Holt & Co. Please go ahead."
+    },
+    {
+      "speaker": "Matthew Taylor",
+      "speech": "I wanted to keep going on that LCA theme there. My question, one, is going to focus on the cost. What are you guys seeing on a cost from a BTU basis for offering these cargo emissions tags? And then sort of a follow-on comment to that. Do you see this being more of a nichey type product where customers are willing to pay a premium for those cargoes and offset those additional costs? Or do you just see this being the trend of where the market's going?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "On the first one on the cost, so we're doing a lot of the work in-house, Matt. So we -- the costs are borne with our overall SG&A budgets, and there's a slight amount of -- a little bit of capital dollars, but it's insignificant. It's more of the just the in-house expertise on each of the different areas. And our ability to help influence the market. And I'm actually looking at Corey Grindal on the supplier side to make sure that we're getting good data that we can quantify, monitor, validate and report on that data, and feel good that there's an auditable trail that we can stand behind, both from our supplier side, from the midstream and processing folks, through our own liquefaction treatment and then in shipping to our customers' docks. I do think the carbon emission tags are necessary for: first, most of our European counterparts. They've applauded us for doing it. They've been buying offsets themselves. And in most cases, they're over buying those offsets. So we -- it's just a part of doing business that we need to be able to quantify what the carbon footprint is at those -- each and every one of those tankers for our customer base. Whether or not eventually we get paid a premium for having a clean cargo, we'll see how that market develops. Right now, there's just a lot of work, a lot of spade work that has to get done before we feel comfortable with actually marketing and selling a product like that."
+    },
+    {
+      "speaker": "Matthew Taylor",
+      "speech": "Thanks for those comments, Jack. And then to finish off here, I know you don't have formal guidance for '22 yet, but just how attractive margins like you're saying, Zach, have become, I know Train 6's already starting commissioning activities here in July, would you guys be able to provide some preliminary commentary on how you see earnings trending in 2022 versus your run rate guidance?"
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Sure. I'll give you a little bit, but we plan to present that to you really on the next call in November after we go through the 2022 budget process. But it's really going to come down to where margins are going to be for the winter, and then just timing with how Train six commissioning comes along in the first half of the year. But at the rate SPL construction is going and with margins for 2022 right now above $6 for the winter and over $3 for the rest of next year, it's looking likely that EBITDA should be over $5 billion for 2022 if things don't move too much from here. So we're obviously getting closer and closer to run rate."
+    },
+    {
+      "speaker": "Matthew Taylor",
+      "speech": "Thanks, Zach. Thats it for me."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from Mike Webber from Webber Research. Please go ahead."
+    },
+    {
+      "speaker": "Michael Webber",
+      "speech": "Jack, I like your quote earlier that you're in the business of making money, not in the FID business, which is relatively appropriate. So along those lines, and then maybe this is a better question for Anatol. I'm curious how term pricing -- taking the netback deals kind of aside because there is actually some term pricing deals that are getting done, have we seen any kind of lift in terms of term pricing dynamics right now, just given the ramp out of COVID and the kind of homogeneous degree of supply slippage we've been seeing? Are you getting any support in terms of where that long-term FDA level actually sits?"
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "Yes. I would say -- thanks, Michael. We have a lot more appetite engagement traction. I mean, it is only six, nine months ago where -- when there was a, I would say, a cadre of the industry that was thinking about remaining open for its sort of fundamental requirements and relying on the spot market. That started to fade a quarter after that. And I think that, that strategy has now been largely forgotten. So now it's about portfolio management, engaging and structuring a portfolio of midterm and long-term volumes. And as a result of those conversations, the economics are stabilizing and firming. And you've seen that relatively openly in the slopes that you see on the Brent side, that's an easier one to track where we come off those very low levels. And obviously, the economics are stabilizing now for term commitments out of the NYMEX market as well."
+    },
+    {
+      "speaker": "Michael Webber",
+      "speech": "Got you If I were to think about that -- I'm sorry, go ahead."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "It depends on when it's going to begin also. So if we think about a term -- is it CP? If it's CP on a greenfield project, and it's going to begin five years from now, it's probably priced at the marginal cost of the next investment or the next train, right? And if it's like more like a Cheniere portfolio contract that can begin now or next year, or any time, for that matter, then you should expect it to be priced at a higher level, right, for more certainty."
+    },
+    {
+      "speaker": "Michael Webber",
+      "speech": "Got you. And I guess my follow-up is how uniform you think that is over the broader market. So if I think about maybe the way you guys have priced term business as kind of IG pricing versus the more aggressive pricing we've seen out of some greenfields, be it netback or not, do you think that spread between IG term pricing and greenfield is wider today than it was maybe this time last year or six months ago? Or is it relatively consistent with --"
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "I think the dramatic changes in that market in that spread played out probably two or three years ago. I honestly don't have enough precision to tell you if that's moved around a bit. But as Jack said, there is a premium that the market will pay for certainty and our track record in history as well as for early volumes that are included in that, that obviously greenfield can't provide. So I just don't have enough precision to give you a good answer on that."
+    },
+    {
+      "speaker": "Michael Webber",
+      "speech": "Fair enough. And then my follow-up's for Zach actually, just along the lines of some of the more variable rate deals that we've seen in the market, the direct netback deals or not. When you're talking to your lenders about those kind of deals, what kind of guidance do you get in terms of the makeup of a portfolio, of a really financeable portfolio? And how should we think about what -- how should we think about the concentration of those kind of deals within a portfolio of business that's actually finance-able?"
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "I think I'll just go back to what Jack said. First and foremost, we're here to create maximum value for LNG shareholders, period. So it's not just about the next FID or signing a contract for the sake of FID to win some race for the lowest-priced FID or the highest-risk FID -- I mean, sorry, a high-risk FPA. So luckily, with the funnel that Anatol and the team have, we think we're just going to be clipping fixed fees for a vast majority of our volume that will meet all of our investment parameters. And it's going to be a mix of IPM, DES and FOB deals with each and every one with a creditworthy counterparty and fixed fees for a long, long time. We can't really speak to other business models. That's our business model, and we're sticking to it."
+    },
+    {
+      "speaker": "Michael Webber",
+      "speech": "Yes. No, I was curious whether we're getting any feedback from your lenders around that, but I can take that offline. All right. Thanks, guys. Its done."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Thanks, Mike."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Ben Nolan from Stifel. Please go ahead."
+    },
+    {
+      "speaker": "Benjamin Joel Nolan",
+      "speech": "So I wanted to -- we'll start with probably an easy one. You talked about the 12 million tons of midterm volume that you have committed over the next 11 years or so. Can you maybe give a sense of sort of what the average contract duration is for that portion?"
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "It's not that easy. Volume-weighted, I would say, it's just inside of five years, would be my guess."
+    },
+    {
+      "speaker": "Benjamin Joel Nolan",
+      "speech": "Okay. That's helpful. Sorry, go ahead."
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "I was just going to add, when we're talking about those midterm deals, we did mention that all the deals we signed at is about $3 billion of fixed fees through the early 2030s. But just thinking about how much derisking of our cash flows has just occurred over the past quarter, we now have locked in this year fixed fees for about $400 million just in 2022, and comfortably over $1.5 billion through 2025. So just give you a perspective of how much has really been locked in, in the past quarter or so."
+    },
+    {
+      "speaker": "Benjamin Joel Nolan",
+      "speech": "That's great color. I appreciate that, Zach. And maybe -- well, boy, I wish I had more than -- we'll stick with this one. So as you're looking at Stage three at Corpus Christi, obviously, with higher steel prices, labor inflation is happening all over the place. As it relates to Corpus Christi three and maybe just in general expansion for you and anybody else, are you starting to see any inflation in the cost of projects that might necessitate pushing up margins a little bit in order to generate good returns?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Thanks, Ben. And I have to say, we have a very strong relationship with Bechtel having completed nine trains and 45 million tons of liquefaction already. I have complete confidence in Bechtel that they can manage the project to its lowest capital cost out there. We haven't seen any inflationary environments at this point, but I'll turn it over to Zach and let him..."
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Yes. Just to reiterate, we don't really see material risk on the cost side, and we're actively pursuing all opportunities through really the end of this year to make it as price-competitive as possible. But I'll just say we feel really good to meet all of those investment parameters based on the contracts we're seeing and just the synergies we have with Corpus trains one through three. And that, let's say, approximately six times multiple on capex to EBITDA is still the right one, give or take, for the full project."
+    },
+    {
+      "speaker": "Benjamin Joel Nolan",
+      "speech": "Perfect. I appreciate it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Julien Dumoulin-Smith from Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Julien Patrick Dumoulin",
+      "speech": "I know we're getting to the top of the hour so I'll make it quick. If I can just come back to the carbon question, especially if you think about some of the advantage credits here, can you talk a little bit more about the specific structuring and how you would take advantage of the 45Q or otherwise from a carbon neutrality perspective to the extent possible? And then separately, just how is relatively does that position your expansion opportunities here vis-a-vis alternatives? Again, I gather that the geography might be more amenable than others, but that's open-ended here. Would love to hear on that. And then do you have any sensitivity you can speak to a little bit on the hedge position, to clarify the last question there? I'll leave it there."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Okay. So Julien, let me -- I think I heard your first part of your question was on carbon and carbon sequestration and just carbon and --"
+    },
+    {
+      "speaker": "Julien Patrick Dumoulin",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Yes, I had spent -- a couple of weeks ago, I spent and I will tell anybody that $45 to $50 a ton is not going to cut the mustard for -- especially for post combustion carbon sequestration. It's not going to work. And there's nothing technically yet that is that economical to make that happen. We do sit on top of a very deep, very large saline offering that would be -- looks to be geologically a good spot to sequester carbon dioxide. Doing it, though, is a whole another challenge. So we're spending a lot of time and resources on categorizing everything that can possibly be done putting a price tag to it and trying to see if 45Q works, and so far, it doesn't. So -- and I am remiss to say that I don't know why -- if I'm able to sequester a ton of carbon that is -- I only get $50 ton. But if someone else uses direct air capture, they get $175 a ton. Or if I drive an EV or an electric vehicle, I get $450 a ton. None of that makes sense to me. If a price of a carbon molecule should be consistent and should reward, those of us that can do something to put the world in a better position."
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Then you mentioned something about open capacity for 2022 and hedging. And besides those midterm deals that already locked in around $400 million of fixed margin next year. You can expect that at this point of the year, we're already hedging some of our capacity for 2022 in anticipation of giving you guys full year guidance in November. With $6 in the water and $3 for the rest of the year. Yes, we're using some of our capital to hedge out forward."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from James Carreker from U.S. Capital Advisors. Please go ahead."
+    },
+    {
+      "speaker": "James Eugene Carreker",
+      "speech": "I guess, first off, really quickly, is there a, I guess, useful guideline to think about margins? When I look at the winter LNG curve at $16 and Henry Hub at $4, I kind of think of a number, a potential margin much higher than $6. Am I doing some calculations wrong? Or just any quick high-level calculation to think about how that gets to a $6 margin."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "It's like shipping curves have come way up also, James. So you have to you have to add -- you can either add or subtract the shipping cost to either your JKM $16, you subtract it or you add it to $4. But shipping is not insignificant when margins get this high and everything is going to Asia. That trip is a lot longer."
+    },
+    {
+      "speaker": "James Eugene Carreker",
+      "speech": "So it's just plus or minus $6 shipping costs?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Not quite that high. But yes, shipping also, just like the curves themselves, has a seasonality. So winter shipping is higher than shoulder shipping."
+    },
+    {
+      "speaker": "James Eugene Carreker",
+      "speech": "Yes. Okay. It just seems like it wouldn't have moved that much versus, I guess, just kind of the standard $2 estimate. But maybe it has. The other question --"
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "I'm sorry. James, we're also talking about a curve through next year. We're not talking about a news blip on Bloomberg today. It's like a trader printing a cargo. So --"
+    },
+    {
+      "speaker": "James Eugene Carreker",
+      "speech": "Right. But you talked about $6 margins in the winter and $3 for the balance of the year."
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "James Eugene Carreker",
+      "speech": "So yes. I was referring just to the winter months. Then the other question was just now with the second quarter in a row where you found additional production, does that imply anything maybe about upside to the five MTPA run rate per train long term?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "Not at this point, that 4.9 to 5.1 MTPA per train is the right one. And honestly, a lot of the outperformance this year is thanks to a really smooth ramp-up of Train three. So yes, we're still on that 4.9 to 5.1 range."
+    },
+    {
+      "speaker": "James Eugene Carreker",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from Sean Morgan from Evercore. Please go ahead."
+    },
+    {
+      "speaker": "Sean Edmund Morgan",
+      "speech": "So the -- I appreciate the creativity in terms of the commercial aspects with signing up IPMs to start to underpin some of the volumes you're going to need for Stage 3. Is there a possibility to kind of back to back those IPM agreements with more traditional SPAs and sort of double up on some fixed fees there?"
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "Well, Sean, thanks, it's Anatol. Look, it's a large portfolio. Zach mentioned it's over 40 million tons now, and there are a number of positions that are managed in the aggregate. So it is exposure that we have, and we are managing on behalf of our producer partners. And clearly, there are synergies in that business with the downstream exposure that we manage on a day-to-day basis. So the short answer is it's part and parcel of the opportunity set that we have."
+    },
+    {
+      "speaker": "Sean Edmund Morgan",
+      "speech": "Okay. Great. And then just a really quick follow-up then. So those IPMs, I mean, in theory, the banking syndicate would be totally fine with you guys filling out that remaining four MTPA that you mentioned to get to FID with potentially just supply side deals?"
+    },
+    {
+      "speaker": "Zach Davis",
+      "speech": "Technically, they would. But we think it's going to be a mix. And keep in mind, we already have a few contracts that are sitting at CMI and not allocated to a project yet that are DES. So not everything will be IPM for sure. But again, it all comes back to creditworthiness and a fixed fee, and the capability to either deliver us the gas or pick up the LNG and pay us that fixed fee as a percent of their EBITDA. And these counterparties like Tourmaline check all those boxes."
+    },
+    {
+      "speaker": "Sean Edmund Morgan",
+      "speech": "Okay. Thanks, Zach."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Craig Shere from Tuohy Brothers. Please go ahead."
+    },
+    {
+      "speaker": "Craig Kenneth Shere",
+      "speech": "Doing the math on the disclosed fixed fees for the midterm contracts combined with your third IPM agreement? It Looks like you're contracting at over $2.30 in the second quarter, a little above first quarter levels. It might have been more $2.25-ish. Given the current market tightness, could that start approaching $2.5 for 5- to 10-year agreements?"
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "Thanks, Craig. I have a spreadsheet in front of me that goes through that. And even with that spreadsheet in front of me, it's pretty hard to summarize. So look, as Jack mentioned, in the prompt for the next number of years, it's market prices, right? And that, obviously, the six s and three s that we've mentioned on this call filter through into those mid-term economics. So it depends on the tenor, but you should expect us to capture that market or better for the relatively prompt volumes. -- and then our long-term contract economics for the balance. So can those print above $2.50 if it's a relatively short tenor deal? Of course, right, that's where the market is today."
+    },
+    {
+      "speaker": "Craig Kenneth Shere",
+      "speech": "Got you. And I understand the conversation that, hey, guys, to clear the market, it's going to take everything. Some demand that used to be long-term fixed and bilateral will go to the medium and spot. There'll be new long-term SPAs. There'll be variable rate contracts. But in terms of the amount of new contracting, I'm not talking about 10 years that is filling in for expiring contracts and it doesn't support any new capacity. I'm not talking about yourself. I'm talking about maybe some of the Chinese stuff in the first quarter. It just seems like in terms of real SPAs or IPM, that can support truly new construction and project finance, it's been pretty thin. Do you see that starting to open up? Do you agree? Do you see it starting to open up more? Could you see this in the future being a significant minority of the market, maybe 1/4 of the new contracts?"
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "I think your view is skewed to U.S. counterparties in those contracts. I think if you look globally, Craig, and you looked at the oil index contracts that are being signed almost daily, you'll see the market and the contracting market has been very lively. But if you're talking about just Henry Hub link U.S.-style markets or contracts, then it's been less, but still pretty strong."
+    },
+    {
+      "speaker": "Anatol Feygin",
+      "speech": "Yes. I mean, just to follow up on Jack's comments, 2020 was obviously an anomalous year, but even then you saw a fair amount of long-term contracting. And obviously, '18, '19 were big years for the NYMEX market. And as we've discussed, the margin environment and the window is clearly open for more of that engagement now. And I think we view that, that piece of the market is going to be, volumetrically, roughly similar to what it has been historically. Just as the market grows, it will be a smaller percentage of the total."
+    },
+    {
+      "speaker": "Craig Kenneth Shere",
+      "speech": "Got you. Okay. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Okay. So that appears -- that is all we have time for questions for today. I will pass the call back over to management for any additional or closing remarks."
+    },
+    {
+      "speaker": "Jack A. Fusco",
+      "speech": "I just want to thank everybody for your support of Cheniere. It's been an interesting time with the pandemic. Please be safe out there. Please get vaccinated. And we'll talk to you, I guess, in November. Thanks. Bye-bye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 70 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Randy Bhatia--Vice President of Investor Relations",
+    "Jack A. Fusco--President and Chief Executive Officer",
+    "Anatol Feygin--Executive Vice President and Chief Commercial Officer",
+    "Zach Davis--Senior Vice President and Chief Financial Officer",
+    "Michael Jay Lapides--Goldman Sachs Group -- Analyst",
+    "Brian Patrick Reynolds--UBS Investment Bank -- Analyst",
+    "Jeremy Bryan Tonet--JPMorgan Chase -- Analyst",
+    "Matthew Taylor--Tudor, Pickering -- Analyst",
+    "Michael Webber--Webber Research -- Analyst",
+    "Benjamin Joel Nolan--Stifel, Nicolaus -- Analyst",
+    "Julien Patrick Dumoulin--BofA Securities -- Analyst",
+    "James Eugene Carreker--U.S. Capital Advisors -- Analyst",
+    "Sean Edmund Morgan--Evercore ISI -- Analyst",
+    "Craig Kenneth Shere--Tuohy Brothers -- Analyst"
+  ]
+}

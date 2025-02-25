@@ -1,0 +1,591 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Prosperity Bancshares' Fourth Quarter 2020 Earnings Conference Call. [Operator Instructions] Please note that this event is being recorded. I would now like to turn the conference over to Charlotte Rasche. Please go ahead."
+    },
+    {
+      "speaker": "Charlotte M. Rasche",
+      "speech": "Thank you. Good morning, ladies and gentlemen, and welcome to Prosperity Bancshares' fourth quarter 2020 earnings conference call. This call is being broadcast live over the Internet at prosperitybankusa.com and will be available for replay for the next few weeks. I'm Charlotte Rasche, Executive Vice President and General Counsel of Prosperity Bancshares. And here with me today is David Zalman, Senior Chairman and Chief Executive Officer; H.E. Tim Timanus, Jr., Chairman; Asylbek Osmonov, Chief Financial Officer; Eddie Safady, Vice Chairman; Kevin Hanigan, President and Chief Operating Officer; Randy Hester, Chief Lending Officer; Merle Karnes, Chief Credit Officer; Mays Davenport, Director of Corporate Strategy; and Bob Dowdell, Executive Vice President. David Zalman will lead off with a review of the highlights for the recent quarter. He will be followed by Asylbek Osmonov, who will review some of our recent financial statistics and Tim Timanus, who will discuss our lending activities including asset quality.\nFinally, we will open the call for questions. During the call, interested parties may participate live by following the instructions that will be provided by our call moderator, Tom. Before we begin, let me make the usual disclaimers. Certain of the matters discussed in this presentation may constitute forward-looking statements for the purposes of the federal securities laws, and as such, may involve known and unknown risks, uncertainties and other factors which may cause the actual results or performance of Prosperity Bancshares to be materially different from future results or performance expressed or implied by such forward-looking statements. Additional information concerning factors that could cause actual results to be materially different than those in the forward-looking statements can be found in Prosperity Bancshares' filings with the Securities and Exchange Commission, including Forms 10-Q and 10-K, and other reports and statements we have filed with the SEC. All forward-looking statements are expressly qualified in their entirety by these cautionary statements.\nNow, let me turn the call over to David Zalman."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Thank you, Charlotte. I would like to welcome and thank everyone listening to our fourth quarter 2020 conference call. Prosperity reported some of the best results in our history. Much of the success is attributed to the dedicated associates of Prosperity and LegacyTexas who helped make our combination with LegacyTexas so successful. Our annualized return on average assets, average common equity and average tangible common equity for the three months ending December 31, 2020 were: we made 1.63% on average assets; we made 8.98% return on average common equity, and we made a 19.5% return on average tangible common equity. Respectively, Prosperity's efficiency ratio, net gains -- excluding the net gains and losses on the sale or writedown of assets and taxes was 40.7% for the three months ended December 30, 2020.\nOur net income was $137 million for the three months ended December 31, 2020, compared with $86 million for the same period in 2019. However, the net income for the fourth quarter of 2019 included a $46.4 million of merger-related expenses. Our earnings per diluted common share were $1.48 for the three months ended December 31, 2020, compared with $1.01 for the same period in 2019 and were impacted by the merger-related expenses of $46.4 million or $0.43 per diluted common share in the fourth quarter of 2019. Our loans at December 31, 2020 were $20.2 billion, an increase of $1.4 billion or 7.4% compared with $18.8 billion at December 31, 2019. Our linked quarter loans decreased $548 million or 2.6% from $20.7 billion at September 30, 2020, primarily due to a $430 million decrease in PPP loans.\nIn addition, we continue reduce loans identified at LegacyTexas that we determined to exit. At December 31, 2020, the company had $963 million of PPP loans outstanding. Our deposits at December 31, 2020 were $27.3 billion, an increase of $3.1 billion or 13% compared with $24.2 billion at December 31, 2019. Linked-quarter deposits increased $901 million or 3.4% from $26.4 billion at September 30, 2020. We continue to see increased deposit balances. Some of the money is from stimulus payments and some from increased savings given the unknowns in the economy. This may begin to change as vaccinations increase and we return to a more normalized daily life. Our asset quality, the non-performing assets decreased $2 million or 14.3% from the quarter ended September 30, 2020.\nOur non-performing assets totaled $59 million or 20 basis points of quarterly average interest earning assets at December 31, 2020 compared with $62 million or 25 basis points of quarterly average interest earning assets at December 31, 2019, and as mentioned, $69 million or 24 basis points of quarterly average interest earning assets as of September 30, 2020. With regard to acquisitions, as mentioned in prior conference calls, we believe that the M&A activity will increase. And we saw PNC's acquisition of BBVA announced last quarter as well as two other large transactions. Bank stock prices have risen, which results in sellers being more active. Further, most banks are facing lower net interest margins and higher operating costs due to technology and other operational investments.\nWe believe that these factors, combined with the unknown regulatory burden going forward, may cause more bankers to explore the strategic alternatives including a sale. We are open to exploring acquisition transaction if it makes sense for our shareholders and is appropriately accretive to earnings. With regard to the economy, Texas and Oklahoma continue to benefit from a pro-business attitude. Companies continue to move to Texas with HP and Oracle announcing their headquarters move and other companies such as Tesla announcing a major expansion into Texas. Also, Samsung recently mentioned a $10 billion plant expansion in the Austin area.\nThe Federal Reserve Bank of Dallas has projected achieving a nationwide 5% GDP growth by year-end 2021 and an unemployment rate of 4.5% noting the first half of the year will be slower with an expected increase in the second half of the year. We believe Texas will have a higher growth rate and outperform other states over the next several years. We expect that we will face several challenges over the next few years such as higher tax rates that will affect income and continued lower interest rates that will affect our net interest margin. However, a steeper yield curve could help to mitigate both issues. I would like to thank all our customers, associates, directors, and shareholders for helping build such a successful bank. Thanks again for your support of our company.\nLet me turn over our discussion to Asylbek Osmonov, our Chief Financial Officer to discuss some of the specific financial results we achieved. Asylbek?"
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Thank you, Mr. Zalman. Good morning, everyone. Net interest income before provision for credit losses for the three months ended December 31, 2020 was $257.6 million compared to $232 million for the same period in 2019, an increase of $25.6 million or 11%. The increase was primarily due to three months of combined bank earnings for the fourth quarter 2020, resulting from the Legacy merger on November 1, 2019 and reduced cost of funds partially offset by the decrease in loan discount accretion of $7.7 million. The net interest margin on a tax equivalent basis was 3.49% for the three months ended December 31, 2020 compared to 3.66% for the same period in 2019 and 3.57% for the quarter ended, September 30, 2020.\nExcluding purchase accounting adjustments, the core net interest margin for the quarter ended December 31, 2020 was 3.26% compared to 3.26% for the same period in 2019 and 3.25% for the quarter ended September 30, 2020. Noninterest income was $36.5 million for the three months ended December 31, 2020 compared to $35.5 million for the same period in 2019 and $34.9 million for the quarter ended September 30, 2020. Non-interest expense for the three months ended December 31, 2020 was $120.2 million compared to $156.5 million for the same period in 2019, which included $46.4 million in the merger-related expenses.\nOn a linked quarter basis, non-interest expense increased $2.3 million primarily due to salaries and benefits. For the first quarter 2021, we expect non-interest expense of $118 million to $120 million, which includes elevated employment-related taxes for vested restricted stock. The efficiency ratio was 40.8% for the three months ended December 31, 2020 compared to 58.1% for the same period in 2019, which included $46.4 million in merger-related expenses and 48.2% for the three months ended September 30, 2020. We estimate fair value loan income for the first quarter 2021 to be around $7 million to $10 million based on the current fair value discount for each loan amortized over its remaining loan life.\nThis does not account for additional discount accretion income that may occur due to early loan pay downs or payoffs, which cannot be accurately estimated. In the fourth quarter of 2020, we recognized $10 million from the fair value loan amortization and additional $6 million from early payoffs for a total of $16.1 million in fair value loan income. The bond portfolio metrics at 12/31/2020 showed a weighted average life of 2.8 years and projected annual cash flows of approximately $2.4 billion.\nAnd with that, let me turn over the presentation to Tim Timanus for some details on loans and asset quality. Tim?"
+    },
+    {
+      "speaker": "H.E. Timanus, Jr.",
+      "speech": "Thank you, Asylbek. Our non-performing assets at quarter end December 31, 2020 totaled $59,570,000, a 29 basis points of loans and other real estate compared to $69,542,000 or 33 basis points at September 30, 2020. This represents approximately a 14% decline. The December 31, 2020 non-performing asset total was made up of $48,884,000 in loans, $93,000 in repossessed assets and $10,593,000 in other real estate. Of the $59,570,000 in non-performing assets, $10,682,000 or 18% are energy credits, $10,147,000 of which are service company credits and $535,000 are production credits. Since December 31, 2020, $2,715,000 in non-performing assets have been put under contract for sale.\nThis represents approximately 5% of the non-performing assets. Net charge-offs for the three months ended December 31, 2020 were $7,567,000 compared to $10,570,000 for the quarter ended September 30, 2020. No dollars were added to the allowance for credit losses during the quarter ended December 31, 2020. The average monthly new loan production for the quarter ended December 31, 2020 was $439 million. Loans outstanding at December 31, 2020 were $20.2 billion, which includes $963.2 million in PPP loans. The December 31, 2020 loan total is made up of 38% fixed rate loans, 38% floating rate loans, and 24% resetting at specific intervals.\nI'll now turn it over to Charlotte Rasche."
+    },
+    {
+      "speaker": "Charlotte M. Rasche",
+      "speech": "Thank you, Tim. At this time, we are prepared to answer your questions. Tom, can you please assist us with questions?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from Jennifer Demba with Truist Securities. Please go ahead."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Thank you. Good morning."
+    },
+    {
+      "speaker": "Charlotte M. Rasche",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "David, do you still have some LegacyTexas loans that you wish to exit out of that portfolio? And what kind of loan growth do you think we could expect from Prosperity this year based on what -- on the demand you're seeing and the payoffs you expect?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I'm going to throw a number out here and then Kevin can jump in here. But I think there's probably about $200 million still remaining of loans that we plan on exiting from the Legacy transaction. And I would say that's -- from what we're seeing right now, I think you're going to probably see a slower first half of the year in loan growth and probably will pick up in the second half of the year. And so, we're shooting for about a 3% to 5% organic in growth rate for the next year."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "And what would be left to exit out of that Legacy portfolio?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "What would be left?"
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "Yeah. Jennifer, this is Kevin. It's really a combination. I think it's -- there might be one oil and gas deal left to exit. But that oil and gas portfolio is in pretty good shape at this stage of the game. The remaining $200 million is across several portfolios. There's some C&I stuff in there and there's some commercial real estate loans in there as well."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I'd also add that all the money that we had set aside for the PCD loans matured about over $400 million to start with. The ones that we have gotten out of so far and most of the charge-offs that you see even this quarter were from those loans that we got out of. But we actually had more money reserved than what we lost on. And again, under the new CECL accounting, basically, we just moved from a specific reserve to more of a general reserve. So, we actually picked up some money in those categories too."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Okay. My second question is on mortgage lending. How big a headwind do you think that's going to be going forward for Prosperity?"
+    },
+    {
+      "speaker": "Edward Z. Safady",
+      "speech": "Hi, Jennifer. This is Eddie. Are you talking about regular mortgage or mortgage warehouse?"
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Both."
+    },
+    {
+      "speaker": "Edward Z. Safady",
+      "speech": "On the mortgage side, usually, there's a slowdown in the fourth quarter, but we've actually seen a record month in number of applications. So it's very robust in Texas. And about 65% of what we're seeing is purchased versus refi. So I think we're going to continue to see some pretty strong demand in the short-term here. Interest rates are going to remain low in some areas. Probably any slowdown would be from lack of inventory."
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "Yeah, Jennifer. I'll handle it from the warehouse perspective. I do think this year there will be -- some potential headwinds if we just look at the MBA, Mortgage Bankers Association forecasting for January, it's predictive items and I can't say they've ever been right and that's not a slam. It's really hard to be right in this business of -- with the way rates gyrate. But their forecast year-over-year will be down a little over 27% with about refis being down, being cut in half, and purchase volume being up quite a bit. So, we'll see if it plays out that way.\nI will tell you we are in that period of the year where it's seasonally low. So coming off our best quarter ever where we ended it at $2.8 billion and change. Balances last night closed out at about $2.2 billion. And then if I just look out across this first quarter, I wouldn't be surprised if our average balance for the quarter is in the $2.150 billion kind of range quite, so quite a bit off of the $2.6 billion average in the fourth quarter. Across the group, we are looking at hiring some new talent within the group. And our hope is to bring on some additional customers and mitigate some of the industry loss in volume by bringing over some new folks and in essence some new clients to bring with them."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Great. Thanks a lot."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Dave Rochester with Compass Point. Please go ahead."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Hey. Good morning, guys."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Just a follow-up on that loan growth commentary from earlier. That 3% to 5% loan growth guide for this year, is that net the $200 million run-off? And then are you expecting all that to run off this year?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "The 3% to 5% would be including the runoff. I don't know that we'd really have the whole $200 million out by the end of the year. But maybe if you want me just to pick a number, I'd say maybe $100 million of it."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Okay. And then the warehouse level you're talking about the potential average for this quarter. Are you expecting that to effectively be the bottom for this year and to trend up in 2Q, which I think it normally does just given the seasonality and whatnot?"
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "Yeah. We would expect those numbers to pick up. January is just usually very weak across the country. And we are -- this is a national program for us. While Texas has remained pretty strong, if I just look across the country and this isn't our portfolio. When I was going through the MBA statistics yesterday, January's volume so far is weighted 76% toward the refi. So, it's a typical January where the purchase volumes are off because things that are usually closing in January with things that would have been bought in December, and December is just not a big home buying month, you can imagine. And this year probably made worse by the pandemic. So, I actually think there's a chance. We've seen our low volume for the quarter already. We were down. I think our low volume was $2.1 billion a couple of days ago. And we've come off of that bottom a little bit. But -- so I think February will be a little better, March will be a little better. But on average, this is going to be a down quarter. Second quarter should be pretty good. Third quarter is usually our strongest quarter."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Yeah. Okay. Appreciate the color there. On expenses, appreciated the guide there for the first quarter. Is that a decent run rate for the rest of the year or will you get maybe a little bit of a step-up in 2Q because I know you have the annual raises in that quarter?"
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Yeah. I think the run rate that I gave for the first quarter, $118 million to $120 million would be good run rate for first quarter because of the -- some of the personnel expenses coming in because of restricted stocks. I mean, going forward -- I mean, probably I'm looking between $117 million and $120 million, but it depends. We invest in our people and invest in the technology, so -- but I mean million here, million there, I mean it's not significant. And if you consider our efficiency ratio at 40.8%, I mean it's the best in the class. So that million here is not going to impact the efficiency ratio. But the $118 million, $120 million is that what we're looking for the first quarter."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "It's primarily the expenses the increase came from the salaries. And again, not unusual in the fourth quarter, and especially at least we were generous with people in bonuses at the year-end for the production and everything they did. So, year-end, our expenses were somewhat higher than exactly what the real run."
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Yeah. And I mean we always -- if you follow us, we always said if we have good revenue, we'll always reward our people and invest in ourselves. So that's what you saw in the fourth quarter with a little bit of elevated expenses."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Yeah. Great. And maybe just one last one on capital. You guys have a lot of excess capital, some of the strongest capital generation capability out there. How active are you thinking you want to be with the buyback? Are you targeting any kind of cap for the CET1 ratio that you'll try to stay below? And then appreciate the M&A comments as well. I know you want to maintain the capital for that, but if you just maybe speak to the buyback first and then any kind of target CET1 ratio you might have? And then on M&A, if you're seeing a lot more conversations happen in Texas and if that's the market where we should expect you to announce something at some point?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "There's a lot of questions. I'll start with the first one, I think. As far as the capital goes, was again, we've always used to be more opportunistic. I don't think that we've ever just gone out and said OK, we're going to buy the whole 5% starting today. And by the end of the year, we'll have the 5% all done. I think that we do use it when it's the right time and it's more opportunistic. So I think that we'll continue with that. The other capital, we'd like to use again maybe not everybody agrees with this, but historically, we'd like to try to raise dividends on an annual basis. And we've tried to use the excess capital for acquisitions so that we can make -- we try to put at least 20%, 25% down when we do an acquisition. Kevin wouldn't let me do that this time, but we were able to buy some of it back when the prices got cheaper.\nSo that's kind of what we -- I think that's just the way we'll continue to do it. And then, the last question was M&A, what we see. As I mentioned earlier, I think that as stock prices were coming back. I think that that makes people really consider wanting to do something. I think that we're looking in the administration just talking about raising federal income taxes on the bank. I know the money that we spend today just on technology is unbelievable not even counting the monthly vendor charges in the software and Fiserv and everything else. We probably spend $1 million just on additional digital technology every month.\nSo I think those costs continue to go up. And I think those are going to make people with the low interest margins that are out there right now. If you can't have an efficiency ratio, I think that that's really going to cause some companies to really pause and say, should we do mergers equally, should we try to do a sale? I think you'll see more. I mentioned in prior quarterly conference calls that we -- you would see a number of deals starting to happen. And I think you saw that. I think you saw that with the BBVA, PNC deal. Also in the last quarter you saw the First Citizens, CIT deal. You saw also the Huntington, the TCF deal. So the answer to the question is I think you're going to continue to see that going forward."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Yeah, great. So no real target on the CET1 ratio at this point?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "No. I like capital. So I like having a lot of capital."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Yeah. And then Texas is where you think -- the target, the next target will be? I would imagine it would be. But I just want to get your thought?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Texas and Oklahoma is always our first choice because that's just where we're located. But again, I've always said that if there is a deal somewhere in another market where it's big enough, and it has to be big enough or has enough market share that's ranked -- between one and five top market share in a certain area and it's a well-run bank, it's got good asset quality, it's got good core deposits, and it's been there a long time, it wasn't built overnight, it's something we would look at probably."
+    },
+    {
+      "speaker": "David Rochester",
+      "speech": "Okay, great. Thanks, guys. Appreciate it."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ken Zerbe with Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "All right. Great, thanks. I actually had a similar question on M&A. I think you outlined right at the very end of your last statement kind of what you're looking for. But are there any -- in terms of like products, like, are there any products that have a potential target that you're more interested in or something that is kind of a deal breaker on the opposite side that you wouldn't even want to look at a bank if they had you know X, Y or Z products? Thanks."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I think as we get bigger, what we would do and what we wouldn't do changes all the time. I mean, before our deal with Legacy, if you ask me would we jump into a mortgage warehouse, I would have to pause. And would you jump into some of the syndications that they do, and I think we feel a lot more comfortable with Legacy and Kevin and Kevin's group that has experience in that. So I think we're open to more deals that we wouldn't have done in the past. I'm sure there are some deals that there may be just a deal killer. I haven't -- really don't know. You guys might want to jump in. Is there a deal killer that we just wouldn't look at something? I don't know."
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "I don't know what it would be off the top of my head. Asset quality would be a hard hurdle to get over."
+    },
+    {
+      "speaker": "Randy Hester",
+      "speech": "But in terms of products, though, and the fundamentals of what a bank does, I don't know if there are any deal killers out there."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I don't. I think that Randy mentioned asset quality. But one thing that we have been good at after -- I forgot how many of these transactions, we are able -- even if somebody does has an asset quality issue, we are -- we have been able to go in, look at it and make the right judgments on that. So I think we have experience in that. But to answer the question, I can't think off the top of my head that there's just a deal killer on one deal. No."
+    },
+    {
+      "speaker": "Randy Hester",
+      "speech": "[Indecipherable] while somebody got a nice steep income generating business, I think that would be a plus to something we'll look at."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "One thing I'd like and I like it in our bank is I really like the asset management business, a trust business. I would -- if there's an opportunity for that that would certainly be something I would like us to expand in."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "Got it. Okay. It makes sense. And then just my follow-up question. Looking at the provision expense and also shown on slide 17 that you guys have. It's sort of tough to guess whether it's going to be zero or 10% in any given -- or sorry, $10 million in any given quarter. And obviously, I saw that you did increase the reserve. It looks like on more of a qualitative basis. Can you just talk about how you're thinking about provision expense going forward? I think most other banks are talking about pretty aggressive reserve release over the course of this year as the economy slowly gets better, which I guess if that were the case would probably also drive at least a zero provision, if not something lower than zero for you guys, would love to hear your thoughts?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Yeah, we have noticed. I've seen a lot of banks that are releasing funds -- are reversing and releasing funds already. We talked about it. We still think that it's premature to do something like that. I think going forward, if you what -- my thoughts are is that if banks stay like they are and continue to improve the way they have, I would probably lean maybe not -- I hate to or we hate to make earnings because of putting money back and forth like that. It's just not something that we're used to. We like consistency. So I would say if anything, we're probably more on a basis that you may not see us put money into reserve rather than releasing reserves going forward, unless something changes and we have some challenges we're not aware of."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "Got it. All right. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Brady Gailey with KBW. Please go ahead."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Yeah, thanks. I want to start with the PPP impact. I know you said PPP loans were down around $430 million. So what was the spread income impact from PPP if you combine the 1% yield and then the acceleration in the fees, what was that impact the spread income in the fourth quarter?"
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Hey Brady. This is Asylbek. I'll give you some information. So, we saw a pickup in the forgiveness in the fourth quarter, which generated some additional fee income from PPP. So if you compare to what we had last quarter of just normal amortization to this quarter, we have made about additional $7.7 million above the normal amortization on PPP fee. So, that's what we saw in the fourth quarter."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Okay. So, an additional $7.7 million. So if you look at the entire PPP bucket, any idea what that number was in the fourth quarter?"
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "The total -- I think the total including the -- I'm just going to give you numbers related to the fee only and you can calculate the 1% interest. The total PPP was about $13 million, which is about $6 million is all just amortization -- normal amortization we've had for past few quarters and plus about $7 million, so in total $13 million."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Okay, great. I know we're all excited to see you guys do your next acquisition. Can you just remind us what you focus on when you're pricing a deal? Is it a certain threshold of EPS accretion or a limit of tangible book value dilution or is it earned back, or IRR? When you're looking to determine how much you can pay, what do you focus on to determine the price?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Well, I think first just focusing on the price, we probably focus on I would say, the target and who we really want to join with that. A lot of people -- to me, I've said this before. The cheapest banks we've ever bought have been the worst banks we've ever bought. The ones we've paid the most for have always been some of the better banks. So, I think we focus first on what makes sense, what will really enhance our value, which will make us prettier or more attractive to the street. And so, then once you look at that, then I think we look back and we look at something that we've always focused on in this bank. Somebody asks a question now may not be as important, but we focused on core deposits. How -- do they really have core deposits?\nIf you look at our bank, we only have maybe 12%-10% or 12% of our money in certificates of deposit. The rest are in checking accounts and money markets account stuff -- core transaction accounts on a daily basis. So, we really feel that's the real value of it. And then when we get that piece down, we really go into the accretion. We'd like -- we do want to have some accretion. Accretion as -- to do deals -- just to do deals are not that important to get to a bigger size. So, accretion is a bigger deal. And then I think the last thing that we look at are how long will it take us to get our premium back that we paid the premium above and beyond the book value. We like to get that money back in three to five years too. So, it's kind of a bohemian way of looking at it but just the way we look at it."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "All right. Great. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Peter Winter with Wedbush Securities. Please go ahead."
+    },
+    {
+      "speaker": "Peter J. Winter",
+      "speech": "Good afternoon."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Hello, Peter."
+    },
+    {
+      "speaker": "Peter J. Winter",
+      "speech": "I wanted to ask about the core margin. Just what the outlook is for the core margin especially with the kind of the reinvestment rates on the securities portfolio?"
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "This is Asylbek. So if you look at our core margin in the fourth quarter, it held up very well. We were at 3.26% compared to in the third quarter 3.25%. Of course, there was few items that helped us to keep additional PPP fee. I mean, repricing of the deposit we did in the fourth quarter. And then also, if you look at net interest income, you saw that we added additional $1 billion in our security portfolio. So it's kind of looking next few quarters or next quarter, there's still a lot of moving pieces to consider when it comes to -- projecting the core NIM. And I mean, while I see that there's still pressure, down pressure from the rate environment and the liquidity. But there's a lot of positive that's going toward the next few quarters.\nI mean, I'll give you a few examples to consider. For example, we -- in January, we reduced the yield on our deposits again. So that's going to help us with the margin. And if you look at our term deposits, I mean, we have about $2.4 billion in CD getting repriced in the next 12 months. That's going to be positive with it. And I think that the biggest question is that that liquidity we have on our books, we keep investing in the securities and now, we know the second round of PPP coming. That some of that is going to be used toward that which kind of have better yield than we would -- if we would put those liquidity toward the bond portfolio. And if you look at the longer term as we noticed, our goal is to grow loans at 3% to 5%. So if you grow loans, I mean at the higher yield definitely going to be a good toward the margin overall. So, I know I gave you a lot of variables, but it's kind of very hard to predict specific because of such -- so many moving pieces."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Yeah. I mean I don't think we're like any other bank, Peter. I mean the low interest yields impact us and it creates a lower net interest margin. And to overcome that, you've got to -- you have to increase loans or there has to be a better yield curve. And I think we're doing everything we can to cut our -- the rates that we pay on money market accounts or CDs and all that. But I don't think that we're any different than anybody else. And you just -- there has to be two things, one, interest rates have to go up or there has to be a better yield curve relief so to speak or you have to take the money that's really in bonds and make loans with it."
+    },
+    {
+      "speaker": "Peter J. Winter",
+      "speech": "Okay. That's helpful. Talking about fee income, you've had nice growth the last two quarters in fee income. I'm just wondering what the outlook is that for 2021?"
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "The fee income, I think it's -- you have to break it out to different parts to it. Like on the NSF fees, I think there's still room to progress because we're still coming out from the pandemic or we're in the middle of pandemic. So the NSF fees, they're now back in the levels we've had pre-COVID. On the other parts of mortgage income is the seasonality as we discussed earlier based on the volume. But I think that should continue to be strong as we see the volumes of the mortgage right now. And then our goal is to grow our trust -- we like trust income. So if we continue to grow our trust department and the assets under management that should grow trust income. So there is some of them -- there's room for improvement and some of them stay the flat. But I think we're -- I'm really comfortable what we see right now with the room going up a little bit."
+    },
+    {
+      "speaker": "Peter J. Winter",
+      "speech": "Got it. Okay. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Michael Rose with Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Michael Rose",
+      "speech": "Hey. Good morning everyone. Just wanted to get some color around the monthly loan production. It looks like it was flat. Should we expect that to progress? I guess I would expect it to progress as we move through the year given the commentary earlier in the call. But it also looks like the employee count was up for the first time in a while. Looks like it was up 40. Just wanted to get the expectation for lending hires? I know there's a fair amount of dislocation in and around your markets and what the outlook could be for hiring? Thanks."
+    },
+    {
+      "speaker": "H.E. Timanus, Jr.",
+      "speech": "Michael this is Tim. Needless to say, it's always a bit difficult to make those projections. But I think what we see right now is not a lot of upward growth for the next quarter and then starting after that a better environment throughout the rest of the year. We still have the virus. We still have customers that while they're open and they're making it, so to speak, they're not really doing all that well, certainly not as well as they would like to. So the demand for borrowing, I think a lot depends on those factors and how quickly they improve. The other side of the coin is if things get much worse and maybe they will, maybe they won't, but if they get much worse, I think you'll start to see some asset bargains out there in the marketplace.\nAnd you might very well see people notice that and want to take advantage of it. So there could be an uptick in demand for loans to purchase assets that are in the view of the buyer somewhat depressed. So you've got a little of both of that possibly on the horizon. We don't see anything that makes us think that the volume of loans that we're booking is going to drop off significantly. I guess if we should have a very significant and material worsening of the virus situation and more shutdowns of businesses, then all bets are off. But we don't see that right now. So, we see kind of a slow recovery between now and the end of the year."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I would add."
+    },
+    {
+      "speaker": "Michael Rose",
+      "speech": "So is the?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I would just add in that the -- right now, I think there's a real possibility with what's going on in this current administration. I think you could see a real comeback in the oil and gas industry too. I think that could be helpful this year. Texas is a very diverse place. Everybody's moving to Austin, everybody, their mothers or aunts and everybody [Indecipherable] is there. But that area continues to grow. On the other hand, Dallas is doing good. You have a lot of people from California and that continues to grow. Houston, this last year, actually lost about 300,000 jobs at the beginning of the year. And it has really gotten back about 150,000 jobs. But as they cut off the pipeline and they cut off racking in different parts of the country, you can really see oil prices go back up and pretty significantly, in my opinion, and I think create -- and create more opportunity for Texas as well.\nAs regarding the hiring, I think that we have hired additional people. We've -- one of the areas that we've hired people in is in the trust department. We're spending extra money to really improve. Our trust department was primarily based in the West Texas Area and the Lubbock area, and then the South Texas area, Victoria. And we're really trying to make it be more prominent in the Houston and the Dallas area. So we're hiring people in those categories too. We also BSA'ing some of the regulatory burdens that they've had, recently have forced us into just putting more people into those -- to those regulatory spaces that we didn't have in the past, so."
+    },
+    {
+      "speaker": "Michael Rose",
+      "speech": "That's very helpful. Maybe just one quick follow-up. I'm sorry if I missed it. But how much of the remaining PPP forgiveness fees are left at this point?"
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Yeah. At the end of the year we had about $21 million of PPP fee left to recognize and which we believe probably going to be most first or second quarter with the way of forgiveness going right now."
+    },
+    {
+      "speaker": "Michael Rose",
+      "speech": "Perfect. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Brad Milsaps with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Hey. Good morning."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "You got the trust and everything. I did want to ask on some of the deposit accounts. You mentioned that you cut those rates again in January. I noticed that interest-bearing demand costs have stayed fairly stable at 38 basis points for really three consecutive quarters. Is this kind of the quarter we'll begin to see those come down? You've certainly got plenty of liquidity. But curious if there's some other contractual reason maybe that those have kind of remained sort of stable when others may have seen more contraction?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Asylbek may be able to jump in. But, yeah, I think it's stayed up primarily. You should see the -- what we're putting to effect here in the last quarter. But you probably didn't see the decrease because of contractual obligations. I think that Asylbek was talking about that we should, throughout this year, be able to get out of."
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Exactly. I see some -- definitely because of cost, we're seeing some decrease happening this quarter and there's other things as well, public funds with their contractual agreement. Those are going to stay a little bit until the contract will expire, which most of them majority start in the second half of the year. But if the question related to specific interest-bearing deposit, I do see a little bit going down this quarter."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Okay, great. And then just, kind of, a bigger-picture question, would you guys ever consider the possibility of maybe buying some of the production out of the mortgage warehouse to sort of supplement loan growth or would it be that most of that production would be maybe too long a duration of kind of what you want to put on the balance sheet? You've got that great resource, and in a time when you need some loans, just kind of curious if that is something you considered from a strategic standpoint or maybe there's something I'm missing there that would preclude you from doing that?"
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "Yeah. This is Kevin. Not that we haven't thought about it, Brad. It's just -- it all depends on how much we got to pay for the gain on sale. Our clients are giving pretty nice gain on sale numbers at this stage of the game, which dilutes that yield enough. It's just not attractive enough. We'd rather just continue to ramp up our production on the whole loan generation side of the fence."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Yeah. I think the thing that we've done, Brad, is instead of selling off the production that we do in our company, and Eddie may give us some numbers more on this production. Instead of selling loans we've been keeping those loans in-house. And that's what we've been doing."
+    },
+    {
+      "speaker": "Edward Z. Safady",
+      "speech": "That's right. We're keeping probably 88% of everything that we're originating now and putting in the portfolio. And we produced about $2 billion in mortgage loans last year. So -- I mean one of the bright spots in growth on the line items in the loan portfolio have been in the residential and mortgage side."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "On the other hand, we've had a lot of pay down."
+    },
+    {
+      "speaker": "Edward Z. Safady",
+      "speech": "We have. We had a lot."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "That's the total for it. Yeah."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Great. Thank you, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Matt Olney with Stephens. Please go ahead."
+    },
+    {
+      "speaker": "Matt Olney",
+      "speech": "Hey. Thanks. Good morning. I just want to circle back on the loan growth discussion and specifically, on construction loans. I think they were down around $100 million this quarter. Would love to hear more details about the portfolio with respect to the timing of the pay downs, but also the new commitments you're adding? I'm just trying to appreciate if this book could continue to contract or are there new commitments that are coming on that could help stabilize that? Thanks."
+    },
+    {
+      "speaker": "Randy Hester",
+      "speech": "Yeah. I'll take a stab at it. I actually think it's more likely to grow but not a lot because we always have things that get to the end of construction and flip out. But we approved quite a few really high quality construction deals last year. One big commercial office building that had to have somewhere in the magnitude of 140 of equity go in before we ever funded a dime. And I think that [Indecipherable] built and we will start funding into that pretty good sized loan within the next week or two because they've now put in their 140 of equity so far. And then, we had a couple of multifamily deals we approved or student housing deals we approved throughout the year. So I would expect those will be funding up. So I think between that and our home builder group, I think that construction related portfolio probably has north of here."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "And some of the big pay down that you saw throughout the year, I think were probably from the multi-families that we had committed in prior years, they finally got billed, got to an occupancy rate where they could take it to another party without personal guarantees. And that's probably what you saw some of that payoff. So, I think, probably, I don't think things are just going to jump out there right away with COVID and that. But I think -- other states you probably wouldn't see as much multifamily still being built. I think in Texas, you probably will continue to still see multifamily projects being just because you've got so many people moving to the state of Texas, I think, for the most part."
+    },
+    {
+      "speaker": "H.E. Timanus, Jr.",
+      "speech": "I think it's also important to point out that on our construction loans, we typically don't balloon those loans with a maturity right at the end of construction. They typically roll over into a permanent repayment. That doesn't mean that those loans stay with us throughout the entire permanent repayment term because they, a lot of time, can find a lower rate and, as David mentioned, without recourse financing source. But what it does mean is they typically stay with us a little while. So, they don't pay off right at a termination of the construction project. So, we typically have a little lead time there for that."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I think that's right. The customers like the optionality where the banks will just say, OK, you've got this contractual loan for two years. You got to do it and you've got to get out. We actually at the end of two years or however long it is, we make -- the loan just continues to go into a payback feature so it gives the construction people a lot of optionality. And I think that's what they like, too."
+    },
+    {
+      "speaker": "Matt Olney",
+      "speech": "Okay, great. That's helpful. And then, I also want to dig in on some of the balance sheet movements in the fourth quarter. Obviously, some really strong deposit growth that we saw, the securities balance increased quite a bit. I'd love to hear more about the details of some of the purchases in the fourth quarter and expectations for the size of the securities portfolio from here? Thanks."
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "If you look at security, you can see in the net we've grown about almost $1.1 billion in the fourth quarter. Well, we've purchased more than that. I think we pushed almost $1.8 billion which the net came out because of the speed up we see of paying off. So, I mean, the investments of course we're bringing -- I mean we're doing a combination of some of variable rate and -- but it's a little bit not much, but most of them we're doing fixed rate that we use because of the just liquidity we had. Even with that, we still had -- we still have $1 billion liquidity because of the paydowns of the PPP loans and such. But if you look at our securities, I mean, we're putting about 1%, $1.25%."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I think the growth in the securities department is -- area is just going to be really a function of what we don't have in loans. I mean we had $3 billion increase in deposits and you didn't increase loans. I mean you would have to go into the securities area. And, basically, we hope that we can increase loans and use a portion of that increase with it. We did have loan growth this year. If you really took out the PPP loans, however, and you took out the mortgage warehouse, probably core loans were down probably around 4%. Hopefully, we can build that. But, again, I think it's just going to be a function of what our loan demand is going to be. And as far this last year may -- what we bought may not be what we're buying in the future.\nWe bought some variable rate. Almost everything that we're buying is a government agency product. And so, basically, we bought some CMOs or variable rates that were -- we weren't yielding very much, 50 basis points or 60 basis points but we didn't want to lock in to real long-term fixed assets in this kind of period of time. We bought a combination of 15-year mortgage-backed securities, maybe some 20-year mortgage-backed securities, a combination, probably yielded overall a little over 1% on that deal. And so that's kind of what we've been doing. I mean, there's a real tendency right now for banks to really stretch out and go and buy the 30-year product and try to get a 1.30% to 1.40% yield. We haven't done that. I mean, if you look at the average life on them, not much of a difference of an average life if there's not a rate increase.\nI mean, they probably still had about a four- or five-year average life whether you bought a 15, 20 or 30. But the deal that kills you is if interest rates go up 100 basis points, 200 basis points, 300 basis points and you're buying the 30-year product, you're going to extend your average life to 12 years. But more than that, what would kill you is there's a 25% decline if you buy that 30-year product. And we've just not been willing to accept that kind of risk and I don't think that we would be willing. So long and short of it, the variable rate CMOs, agencies are not very good right now. I don't know that you can even get to 40 or 50. So we're probably out of that. We're probably going to stick back just to our traditional mortgage-backed securities where we're at about 1% right now."
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Yeah. I mean, if you look at our deposits, I mean, we increased $900 million in the fourth quarter. So we just didn't want to leave the Fed earning 10 basis points. That's what we're putting."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I mean, right now on checking accounts, we're paying what, 0.01 or something like that."
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Yes, 0.01 on our checking."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I think on our $1 million money market account, we're paying 10 basis points or 15 basis points."
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "About 15 basis."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "That's if you have $1 million-plus, you're at your 10 basis points or 5 basis points."
+    },
+    {
+      "speaker": "Asylbek Osmonov",
+      "speech": "Most of them 5 basis points to 10 basis points."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Yeah. So that's kind of an overall color and flavor. I don't know if it helps or not."
+    },
+    {
+      "speaker": "Matt Olney",
+      "speech": "Yeah. That's perfect. That's very helpful. Thanks for the commentary, guys."
+    },
+    {
+      "speaker": "Charlotte M. Rasche",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Bill Carcache with Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Bill Carcache",
+      "speech": "Thank you. Good morning, everyone. David, I wanted to follow up on your comments about the M&A environment and what Prosperity is looking for. I wanted to ask if you could comment on the other side what sellers are looking for more specifically. Have you seen any change in the way that sellers are thinking about financial versus strategic value? Meaning, are you finding sellers who are more interested in locking arms with you even if they can extract as much financial value as they ideally would like to? So, they can't exactly go riding off into the sunset but they're willing to give up some of that more immediate financial upside for the potential that comes from being part of a bigger organization with a strong track record where they have an opportunity to create greater value over time, where would you say we are within those two extremes from your discussions?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I can tell you in the past what people were willing to join us because they liked the asset quality and the consistency of our growth in our earnings. They were willing to maybe go with us instead of somebody else just if it was just a -- just based on an earnings deal. Today, I'd have to tell you I don't have the exact answer because I think some of that's going to change with the administration maybe raising capital gains tax in the future. You may see -- again, I haven't seen it yet, but I assume that if they don't change along until the end of next year, there may be some more people more interested in taking more of a cash position than they would have in the past simply because if they can get a 20% capital gain instead of a 40% capital gain, that may be of interest to them. Now, I can't tell you that that's going to happen. To me, if I were a seller, that just would be something that I would think of."
+    },
+    {
+      "speaker": "Bill Carcache",
+      "speech": "Got it. That's really helpful. And then a separate topic, when we think back to the last reserve cycle, there were various points where investors got excited about increasing exposure to asset sensitivity and rising rates, only to be disappointed as rate expectations kept getting pushed further out into the future and overall, we were net reserve cycle for about seven years. I know it's not the same environment and the reasons we observed today are very different. But I was hoping you could discuss any parallels or differences that you see and what a longer or shorter reserve cycle means for Prosperity?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Well, I think a longer cycle that we're in right now, I mean, in lower interest, it's never good for us or for any other bank. I think the real question is it's not a question if rates are going to rise, it's just when they're going to rise. And I think the Federal Reserve they primarily say unless we have 2% inflation that they're not going to raise rates. So, I think, first of all, you have this issue where you get up to the 2% inflation and really you would think what all the money that we're pointing to the deal and all the stimulus at some point there has to be. But even after that takes place which is some time from now, then there's a tapering off period -- there's $7 trillion of bonds that they've been buying treasury bills and mortgage-backed securities and that takes about a year to taper off to that. So, at best, I think we're still some time away before we see higher interest rates, and I think you're going to be in a lower interest rate environment for, I'd say, at least a year so for sure."
+    },
+    {
+      "speaker": "Bill Carcache",
+      "speech": "Understood. And then lastly if I could squeeze in one more, can you guys discuss how you're thinking about the tail risk in CRE in this cycle specifically in your portfolio?"
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "I can probably handle this. I've got some -- this is Kevin. I've got very close contacts at JLL and some of the big folks in Texas in commercial real estate, mostly in office and they're not very encouraged about commercial office. They actually think we're going to be in for, it's probably a two-year kind of readjustment and potentially rough period of time as we stabilize in to just how many people continue to work-from-home or share offices where there is -- they go into the office two days a week and somebody else uses that same office for the other three days. And they look at arrangements like that. The biggest names in the business fear that up to 15% of the workforce could fall into that flex category where they're not permanent office employees, they're sharing an office with somebody. And you can imagine with the fall out of that, the trickledown effect of that has on vacancies and then rents.\nSo they think we're going through a pretty tough two-year adjustment period. So we are particularly cautious, particularly cautious on commercial office space. There's got to be something special. I mentioned a really big one we have earlier and I would tell you, it's not -- we're not worried about that. It's a single tenant, it's a household name public company that you would all recognize really well, which made us -- that and a ton of equity being put into the deal. It made us very comfortable with that deal. But it's going to be a rare deal on the commercial real estate side. And the flip side of that is we're combing our portfolios looking through the ones that we think, could suffer the most in most circumstances. And we're looking at what we call and move out of here early, if we can. Fortunately, as you kind of the underwriting history of the company is to have a ton of equity on the front end so even our stress deals don't look too bad to us."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I would also comment that, I'm just thinking off the top of my head. I think other states that have been shut down for a longer period of time and states where peep were moving out are probably going to have a harder time with commercial real estate where some of our commercial real estate may be picked up by all the new companies being moved in all the time. So I think we'll be in a better position than some of those will probably."
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "I think there's little doubt we're going to continue to benefit from people migrating from California. It seems like the East Coast is moving to Florida, while Chicago and the West Coast is picking spots in Texas. And so, I don't see that trend stopping."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Bill Carcache",
+      "speech": "That is very helpful color. Thank you all so much for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question comes from Jon Arfstrom with RBC Capital. Please go ahead."
+    },
+    {
+      "speaker": "Jon Arfstrom",
+      "speech": "Hey. Thanks for hanging out of the end here with me. I just -- I had a couple of follow ups. Maybe you just touched on one of them on the -- in the inflow that -- in-migration to Texas. Do you feel like that's accelerating? Is it visible to you? And just be curious which are your strongest markets at this point."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I don't think there's any question. I mean it's -- you just pick up the newspaper. Again, I mentioned it a little bit in the comments that we had -- that you had HP move their headquarters to Houston. Oracle moved their headquarters to Austin. Tesla is building a huge position in the Austin area. And Elon Musk actually has even moved there. Samsung just announced last week that."
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "Hadn't announced yet."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Hadn't announced yet."
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "They're a contender."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "They're contender for probably a $10 billion plant expansion there. Kevin mentioned to me earlier there's another company from California; Irvine, California, it's a financial company that's moving to Dallas. But I mean it's just daily that there are people moving. I think that the ones that are going to be impacted more, probably the ones impacted the best is probably Austin. It seems like everybody wants to be at the crazy place. I have two homes there at 32, so I can't say anything, but that's where everybody wants to be. So, I think they'll see probably a lot of the more growth with regard to technology, pictures and movie-making, and stuff like that, and the entertainment industry. I think Dallas you're seeing a lot of people moved to the Dallas market from California also. So, I think you'll see that. HP will help the Houston market. But I think probably Dallas and Austin will probably benefit more, I think, than probably Houston will from that. So, that's just my just overall thoughts on it."
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "Yeah, if you're watching from a Dallas perspective, we've got Charles Schwab moving in."
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "I forgot about that. Yeah."
+    },
+    {
+      "speaker": "Kevin Hanigan",
+      "speech": "Move to DFW area Uber building their second headquarters in the Dallas, midtown area of Dallas. Those are both pretty big numbers, pretty good jobs. And going back to the commercial real estate office space, there's only one thing that really matters for office space and that's job growth. If you've got job growth, you can handle your office space."
+    },
+    {
+      "speaker": "Jon Arfstrom",
+      "speech": "So, this to me -- this is, obviously, secular not cyclical, I guess, is a way to say it. And I think that migration, banks tend to go where the growth is. And you alluded to PNC. I'm just you know having an interest in Texas. Does this lead to more out-of-state competition and more buyers, and more Texas banks? Curious if you're kind of seeing it in the competitive environment, maybe like we saw on energy prior to '15 and '16 where a lot of out-of-state banks a lot of out-of-state banks came in. Are you starting to see that, and do you think more buyers are going to show up eventually?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Yeah. I mean, I think it's obviously people are going to go -- want to go where the growth is. It's an obvious answer. I mean, I think yes, you will see more competition. I think it also makes us more valuable as a company also. I mean, you're one of the probably bigger players in the state. So I think that you'll have people coming in and they'll want to expand. And it's just obvious. They're going to go where the growth is. That's where banks are going to go really."
+    },
+    {
+      "speaker": "Jon Arfstrom",
+      "speech": "And then just last thing, just a small question. But you've done a lot of deals and been through a lot of cycles on taxes and regulation. But set aside rates, do you think taxes and regulatory and changes have they historically brought sellers out of the woodwork but enough to tip sellers over?"
+    },
+    {
+      "speaker": "David Zalman",
+      "speech": "Yes, I think yes, absolutely. I've seen guys or people that have worked their whole lives in an industry and they're just considered titans of the industry. They're people that I've respected. And they -- at some point something just hits them and so, I've had it. This is enough. And I think it does, yeah."
+    },
+    {
+      "speaker": "Jon Arfstrom",
+      "speech": "Well, thanks for taking the time. I appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would now like to turn the conference back over to Charlotte Rasche for any closing remarks."
+    },
+    {
+      "speaker": "Charlotte M. Rasche",
+      "speech": "Thank you. Thank you, ladies and gentlemen, for taking the time to participate in our call today. We appreciate the support that we get for our company, and we will continue to work on building shareholder value."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 69 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Charlotte M. Rasche--Executive Vice President, General Counsel",
+    "David Zalman--Senior Chairman & Chief Executive Officer",
+    "Asylbek Osmonov--Chief Financial Officer",
+    "H.E. Timanus, Jr.--Chairman",
+    "Kevin Hanigan--President & Chief Operating Officer",
+    "Edward Z. Safady--Vice Chairman",
+    "Randy Hester--Executive Vice President, Chief Lending Officer",
+    "Jennifer Demba--Truist Securities, Inc. -- Analyst",
+    "David Rochester--Compass Point -- Analyst",
+    "Ken Zerbe--Morgan Stanley -- Analyst",
+    "Brady Gailey--Keefe, Bruyette & Woods, Inc. -- Analyst",
+    "Peter J. Winter--Wedbush Securities, Inc. -- Analyst",
+    "Michael Rose--Raymond James & Associates, Inc. -- Analyst",
+    "Brad Milsaps--Piper Sandler -- Analyst",
+    "Matt Olney--Stephens Inc. -- Analyst",
+    "Bill Carcache--Wolfe Research, LLC -- Analyst",
+    "Jon Arfstrom--RBC Capital Markets -- Analyst"
+  ]
+}

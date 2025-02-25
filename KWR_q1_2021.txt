@@ -1,0 +1,257 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings, and welcome to Quaker Houghton's first quarter earnings release conference call. [Operator Instructions]\nI would now like to turn the conference over to your host, Mr. Michael Barry, Chairman, CEO and President. Please go ahead, sir."
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Good morning, everyone. Joining me today are Shane Hostetter, our CFO; Robert Traub, our General Counsel; and David Will, our Global Controller. We have slides for our conference call. You can find them in the Investor Relations section of our website at www.quakerhoughton.com. A great deal has changed over the past year with the COVID-19 pandemic. For us, our top priority is and has been to protect the health and safety of our employees and our customers while ensuring our business continuity to meet our customers' requirements. All of our plants around the world are operating, and we are continuing to meet our customer needs despite the increasingly challenging conditions caused by COVID as well as the current year global supply chain pressures that have impacted raw material availability.\nI'm very proud of what the Quaker Houghton team has done to continue to service our customers as well as continue with our integration. We are very pleased with our strong first quarter results. Overall, our sales were sequentially up 11% compared to the fourth quarter, with all regions and segments showing revenue growth. This was primarily driven by higher volumes as our business continues to come back from the negative impact that COVID-19 had on our end markets. The sequential increase was broad-based, with all segments and regions growing between 9% and 12%. I also think it is interesting to look at our revenue changes from the first quarter of 2020 which is just when COVID-19 was starting to impact us.\nA year ago, we primarily saw the COVID impact in China, and you can see this impact in our current quarter, Asia Pacific sales growth of 31%. EMEA and our global specialty businesses also showed strong growth and were up 14% and 12%, respectively, from a year ago. The Americas were relatively flat in sales from a year ago if you exclude the two recent small acquisitions that we made. Overall, we anticipate a sequential sales growth to play out in the first quarter. But we were surprised by how strong our sales volumes ended up being as we simply just did not expect to see this level of growth so soon in 2021. Some of this growth may be due to our customers replenishing their products in the supply chain and some pre-buying of our products, but it is really difficult to precisely say this was a major impact.\nI also want to point out that our ability to gain new piece of business and take market share also contributed to our performance as our analysis shows that we had total organic sales growth due to net share gains of approximately 3% in the first quarter of this year versus the first quarter of '20. So we continue to feel good about our ability to deliver on our historical performance of consistently growing 2% to 4% above the market due to share gains. And looking forward, we continue to feel good about these levels and share gains, given the opportunities we have recently won or are actively working on. While higher-than-expected sales were a positive for us in the quarter, a clear negative was the continued increase in our raw material costs. While we knew raw materials were increasing the last time we talked, the increases have continued longer and at a higher level than we expected.\nOverall, our cost of raw materials have increased over 20% since the end of last year. There is tremendous stress on the supply chain of our raw materials and logistics. Further, the availability of raw materials has impacted us at times. But I'm proud to say that we've navigated through this so far and have ensured that all our customer businesses continued to operate. The increase in raw material costs did put downward pressure on our gross margins in the first quarter, and this downward pressure will continue into the second quarter, just given the sheer magnitude and duration of additional increases and the lag effect we experienced between the time the raw material cost increase and the time we have to fully implement price increases to offset that.\nSo overall, we are pleased with the quarter, given the environment we're operating in and saw a strong sequential improvement in our sales and adjusted EBITDA from the fourth quarter. Synergy achievement also was a factor in our results as we achieved $18 million in the current quarter compared to $10 million last year. Relative to liquidity, we did increase our net debt in the quarter due to the small acquisition in the steel market and an increase in our working capital due to the strong sales growth. However, our leverage ratio of net debt-to-adjusted EBITDA continued to improve from 3.2 times at the end of the year to 3.1 times to the end of the first quarter. And we currently expect to be below three times at the end of the second quarter.\nAs we look forward to the second quarter, we expect short-term headwinds from higher raw material costs and some lower volume impacts due to some of the factors I mentioned earlier as well as the automotive market continuing to have semiconductor shortages. I do see the second quarter as our lowest quarter of the year, both in terms of gross margin and profitability. However, we do expect our margins to sequentially improve in the third and fourth quarters and return to where we expected them to be by the end of the year. As I think about our full year, we are continuing with our previous guidance, which is really a floor or the low end of our expected EBITDA. However, I am more optimistic on our year than I was a few months ago.\nWhile we may end up the year in the same place, we're slightly better based on our strong first quarter, the shape of our year's expected profitability trends has changed. Essentially, we're seeing higher demand for the year but greater margin pressures in the near term, which is expected to be largely offset by this higher demand. However, the margin pressures are expected to be short term in nature, once our price increases are fully implemented. So we currently expect to exit the year at better-than-expected demand for our products and our margins largely returning to our expected levels. So even though we expect to largely end up in a similar or slightly better place as our previous expectations, I feel better about this scenario than the already positive one I had envisioned a few months ago.\nWe will have a step change in our profitability, essentially complete our integration, cost synergies, continue to grow above the market by taking share and reach our targeted net debt-to-adjusted EBITDA leverage of 2.5. In closing, I want to thank all of our colleagues at Quaker Houghton, whose dedication and expertise helps to create the value for our customers and shareholders and differentiate us in the marketplace. I am so proud of how our team has performed in servicing our customers, meeting their needs and successfully continuing with our integration execution, which is both critical and difficult for us given the current conditions we are facing this year.\nPeople are everything in our business, by far, our most valuable asset, and ensuring their safety and well-being is and will continue to be a top priority for us. So I can't help but to reemphasize my pride for our Quaker Houghton team and what we have and will be able to accomplish for our customers and investors, both now and going forward. And that concludes my prepared remarks. I'll now hand it over to Shane so that he can review some of the key financials for you for the quarter."
+    },
+    {
+      "speaker": "Shane W. Hostetter",
+      "speech": "Thanks, Mike, and good morning, everyone. Before I get into results for the quarter, I'd like to remind everyone that comments made during this call include forward-looking statements, which are based on current expectations and are subject to risks and uncertainties that could cause our actual results to differ materially. For further discussion of these risks, please review the cautionary statements regarding forward-looking statements included in our earnings release and our Form 10-Q filed with the SEC. In addition, please reference our risk factors disclosed in our 2020 Form 10-K as well as our first quarter Form 10-Q for a discussion of company risks that could also impact our forward-looking statements. In addition, Mike and I make reference to several non-GAAP measures during this call, such are consistent with the press release and call charts filed yesterday. And also, there are reconciliations between U.S.\nGAAP measures and non-GAAP measures provided in our call charts on Pages 10 to 21, for reference. Looking at our strong start to the year. The quarter really rounded out, as Mike previously summarized. Our performance was driven by record quarterly net sales, partially offset by lower-than-expected gross margin due to higher raw material costs on significant supply chain pressures. As I begin to discuss our quarterly performance, I'll point you to Slides six and seven in our call charts, which provide a further look into our financials. Our record net sales of $429.8 million increased 14% from the prior year, which was primarily driven by higher volumes, including 3% from acquisitions and increases due to foreign exchange of approximately 3%.\nThis top line performance is truly a global effort, with each segment contributing nice growth year-over-year. APAC's net sales increase of 31% was the largest increase than the prior year, but this was mainly due to the initial impacts of COVID hitting China in the first quarter of last year versus the rest of the segments being impacted in the second quarter of last year. EMEA also showed strong net sales growth of 14% due to a solid bounce back from COVID-19. Americas and GSB had net sales growth of 4% and 12%, largely due to higher volumes, including the Coral acquisition made in December of last year, which helped offset some of the market pressures we are facing, such as the semiconductor shortage. Net sales were a positive story to the quarter.\nBut similar to all of our peers and most other manufacturing companies in the world right now, we are facing significant challenges with rising input costs due to the global supply chain disruption. Gross margins were 36.3% for the quarter compared to 35.4% in the prior year. But excluding onetime COGS increases related to acquisitions, these would have been 36.6% and 35.5%. Notably, this 1% improvement year-over-year is really the benefit of strong execution of integration synergies, offsetting higher raw material costs that we incurred in the quarter. SG&A was up $5.6 million compared to the prior year quarter, as we had additional costs associated with our recent acquisition of Coral and higher SG&A due to the impact of foreign exchange.\nThese were partially offset by additional savings from integration cost synergies as well as travel and other savings due to the COVID-19 situation. So the net performance resulted in strong adjusted EBITDA growth in the first quarter. As you can see in chart eight, our quarterly adjusted EBITDA of $77.1 million grew 28% from the prior year, which drove an 8% increase in our trailing 12-month adjusted EBITDA to $239 million. These results were really driven by higher operating earnings in each of the company's segments year-over-year as the continued recovery of the company's global end markets, the benefit of recent acquisitions and higher integration cost synergies contributed to a record adjusted EBITDA performance.\nFrom a tax perspective, we had an effective tax rate of 24.2% in the quarter compared to a benefit of 31.1% in the prior year. Excluding various onetime items in each period, our tax rate would have been reasonably consistent at 25% for the current quarter compared to 22% last year. To note, we do expect both our second quarter and full year ETRs will be in the range of 24.5% to 26.5%. So net -- our net GAAP EPS of $2.11 grew 53% compared to the prior year as our strong operating earnings and adjusted EBITDA, coupled with $3 million of lower interest expense due to lower borrowing rates were partially offset by a slightly higher tax expense. As we look to the company's liquidity, summarized on Chart nine, our net debt of $749.6 million increased $32 million in the quarter, which was primarily driven by a $25 million acquisition of a tin-plating business for the steel end market, $7.1 million of dividends paid and $12.6 million of operating cash outflow.\nRelated to the quarter's outflow of operating cash, the company's major cash requirement is working capital. In periods such as this where our sales and volumes increase dramatically, there is an outflow of cash needed to sustain our day-to-day operating requirements, which will come back to us as our demand trends normalize. Despite this increase in net debt, the company was able to improve its reported leverage ratio to 3.1 times as of the first quarter compared to 3.2 at the end of last year. Overall, I want to emphasize we are committed to prudent allocation of our capital.\nThis includes prioritizing debt reduction while continuing to pay dividends and invest in acquisitions that provide growth opportunities, which make strategic sense, all while remaining committed to reducing our leverage below our targeted 2.5 times level by the end of this year. So to summarize, Quaker Houghton had a strong quarter that was above our expectations due to continued end market recovery, a pickup in demand and good market share gains. As we look to the second quarter and the remainder of the year, we expect our strong Q1 performance and improved volume demand will be a bit offset as raw material cost increases take full effect and we see more volume impacts from market variability, including the semiconductor shortage. Though, as Mike mentioned, we still maintain our previous floor guidance that we will see a greater than 20% increase in adjusted EBITDA in 2021 as compared to the $222 million we achieved in the prior year. That concludes my remarks. Thank you for your interest in Quaker Houghton, and I will now turn it back to Mike."
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Thanks, Shane. We will now open it up for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question comes from the line of Katherine Griffin with Deutsche Bank."
+    },
+    {
+      "speaker": "Katherine Griffin",
+      "speech": "Hi. Good morning. Thank you for taking the question. So first, I just wanted to touch on the comment around potentially lower volumes in Q2. I think, Shane, you just mentioned some market variability related to the semiconductor shortage. And I was just wondering if you could provide a little bit more color on like what that market variability is and maybe how you expect volumes to trend by region in Q2?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Sure. We -- it's hard for us to be precise on this because there's so many factors playing here. But we do feel there could have been some pre-buy in the first quarter and -- as well as some of our customers replenishing their -- either their supply chain products into it. And -- but it's really hard to get at that. We really spend a lot of time trying to analyze that, trying to understand that better. And for example, there were places I think of the United States in the steel industry and the auto industry, they're really running very hand to mouth right now. So -- but in other places of the world, there could have been some of these other effects. So we think that, overall, there could be some volume impact due to that as well as the semiconductor shortage just continues to -- continue on at least for another quarter here. And so we think that will impact things as well. So it's hard for us to precisely tell on our volumes."
+    },
+    {
+      "speaker": "Katherine Griffin",
+      "speech": "Okay. Thanks. And then just on the gross margins. If you could just talk a little bit more about how you expect to improve that in Q3 and Q4. I think it's -- of course, price increase is coming through, but I'm curious if there's other actions that you're taking or could take in order to get to that previous gross margin guidance?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Sure. Yes, we were -- to kind of look back at where we were in the third and fourth quarters of last year, we were really improving our gross margins through a lot of the synergies that we are achieving through the integration of the company. So we saw that. And then now these large raw material price increases have come through. They started in the fourth quarter, more came through in the first quarter and more coming through in the second quarter, very large increases even between March and April. And really what we have to do and we are doing is continuing to do price increases in the marketplace.\nAnd we've done them and did those price increases in the first quarter. And we're going to have to do more and are doing more in the second quarter. So it's kind of just catching up. We have this lag effect that we talked about that there's a period of time between our time, our raw materials go up and costs and we get price increases in the marketplace to fully offset them. So it's really kind of anticipating that we will be successful. And we do believe we'll be successful in our price increases and that raw materials will begin to stabilize midyear. And therefore, as these price increases get fully into effect, let's say, toward the middle of the year, then you'll see the sequential improvement between the second quarter to the third quarter and then third quarter to the fourth quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Mike Harrison with Seaport Global Securities."
+    },
+    {
+      "speaker": "Mike Harrison",
+      "speech": "Hi. Good morning. Maybe if I could take a little bit of a different tack on the raw material impact you're expecting in Q2. Consensus EBITDA numbers for Q1 were kind of in the, call it, $60 million realm, and you guys came in at $77 million. Is Q2, from an EBITDA perspective maybe tracking toward that $60 million number that we had been modeling, if we keep in mind the inflationary impact and maybe some of the other puts and takes you're thinking about?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Yes. We don't give too specific guidance on that. But it's -- it's hard to argue with something like that. But it's -- I would just say that we do feel that it will be the lowest quarter of the year for the reasons we talked about, both margin and down on volume somewhat. And we were -- we had said this when we had our call last -- at the end of last quarter, and we have thought that our first quarter was going to be the lowest quarter of the year. And that's, of course, why our analysts took our guidance on that. And it was really just this higher -- this much higher demand that came through in the quarter than we expected. And then -- and now the whole raw materials kind of changed it. So yes, it's definitely changed the shape of how our EBITDA is going to transpire for the quarters this year."
+    },
+    {
+      "speaker": "Mike Harrison",
+      "speech": "All right and maybe a little bit more color on the specific raw materials where you're seeing an impact. You mentioned that overall, you've seen things increase about 20% since year-end. I think if we look at crude-based materials, base oil has gone up pretty substantially, probably more than that 20% number. But can you talk about what you're seeing in your plant-based and animal-based raws and maybe you also give us some rough idea of how much of your raw material spend is in those three buckets, crude-based, plant-based and animal-based?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Sure. I mean, one thing I would say, all of our raw material groups, for the most part, really have gone up. It's not just constrained to one area. They all have gone up. Tremendous pressure on that put tremendous pressure on our supply chain costs, freight, drums, that kind of thing. So just the whole, everything is just kind of going up. And as far as -- I don't have the precise numbers in front of me, but certainly, when you look at the key raw materials, groupings that we buy between animal fats, vegetable fats and oils and the base oils that come out of crude, they definitely make up a good part of our raw material spend. There's also a whole host of other chemicals that get used in additive, but pretty much across the board, they all go up."
+    },
+    {
+      "speaker": "Mike Harrison",
+      "speech": "All right. And then if I can sneak one more in here, looking at the primary metals business as compared to the metalworking business, it seems like metals is kind of lagging, if I just look at the year-on-year growth rates for each of your segments. Is that typically what you would expect to see coming out of the cycle like this? Is that the metalworking business recovery is taking place more real time, and then it pulls steel and aluminum with it on more of a lag?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Not -- like last year, I know we saw some pretty strong growth coming out, like, initially out of COVID as we were coming back in our metals business, and there was more of a lag at that time in metalworking. And maybe this is just catching up or there's some -- but I don't think -- I don't quite -- when I think about our businesses, I don't quite think of it that way. I think all of them are pretty consistent, have been showing good growth to what we see in the external markets for that -- these businesses."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Laurence Alexander with Jefferies."
+    },
+    {
+      "speaker": "Daniel Dalton Rizzo",
+      "speech": "Good morning. It's Dan Rizzo on for Laurence. So you mentioned -- obviously, we talked extensively about raw material costs. So I was just wondering -- obviously, labor and shipping costs are also an issue. I was wondering to what extent and as important, what is -- how difficult it is to pass on those costs? Because people expect costs to go higher, but I was just wondering with the others if that's more of a conversation with your customers."
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "It hasn't. It's not -- I would say the next biggest impact for us is, besides raw material costs, has been cost of drums, I think, freight and -- costs as well. So it's -- and those we consider really just the same kind of things as raw materials. So when we're having conversations with our customers around price increases, we will include those in those conversations as well."
+    },
+    {
+      "speaker": "Daniel Dalton Rizzo",
+      "speech": "Okay. And then were there any temporary costs you took out this year in response to COVID that are coming back this year that we should kind of be cognizant of?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Well, certainly, we did a lot less travel last year, Dan, with COVID and the condition and so forth. So far, and this year, there hasn't been too much more of that kind of travel. In fact, the comparisons, we probably did more travel last first quarter of last year versus this year. So as this year progresses and we start to open up more, that can happen, but you certainly still have a lot of places around the world that are pretty locked down right now in Brazil, India and so forth. We're still locked down in the U.S. and Europe a lot. And really the place that's kind of back at normal in some respects right now from that perspective is China. So overall, I would say, as we trend through the year, we will start to see some of that come back, but certainly not to the levels that we had, let's say, had in 2019."
+    },
+    {
+      "speaker": "Daniel Dalton Rizzo",
+      "speech": "Okay. And then just final question. So obviously, U.S. and Europe are recovering. India is going through a terrible problem right now. I was wondering, is that having an effect on your production in that region? And to what extent?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "So far, we've been able -- it's -- between COVID-19 and the raw material shortage, it's really challenged us at times in our plants to meet our customer requirements. But so far, we've been able to do that. We work very closely with our customers, and we've been able to satisfy needs. So, so far, we've been doing fine in that area."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Jon Tanwanteng with CJS Securities."
+    },
+    {
+      "speaker": "Brendan J. Popson",
+      "speech": "Good morning. This is Brendan Popson on for Jon. Just want to ask real quick on -- you just alluded to it, but just the impact on your business from COVID in areas like Brazil and India."
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Sure. It certainly has impacted us from the perspective of been challenging at times when some of our employees have come down with COVID. But it hasn't impacted us to the extent yet that we've not been able to perform and where we've shut down customers or missed -- had any kind of major issues that way."
+    },
+    {
+      "speaker": "Brendan J. Popson",
+      "speech": "Okay. Great. And then any update on the CEO search?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "No, the search continues as planned. So we would expect that to be kind of concluded sometime as we get closer to the end of the year. But right now, that search is ongoing."
+    },
+    {
+      "speaker": "Brendan J. Popson",
+      "speech": "Okay. Great. And then just last for me. Just how to think about your appetite for M&A today and the pipeline you're seeing out there?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Yes. Good question. We made two small acquisitions: one of the -- in December and one in February this year. We continue to look at smaller acquisitions. There's a number of them that are out there that we're looking at and evaluating. And we hope we would be able to complete some of that this year, but it's -- until some is done, it's hard to say. We've always said that from an M&A perspective, while we won't look at anything really large at this stage because we want to get our debt levels down to the point that our net debt-to-EBITDA is going to be below the 2.5 times mark, and we think that will be by the end of the year. So in the meantime, between now and then, we'll continue to look at these smaller ones and hopefully bring something out of there."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Steve O'Hara with Sidoti."
+    },
+    {
+      "speaker": "Steve O'Hara",
+      "speech": "Hi. Good morning. Thanks for taking the question. Just going back to the, I guess, your customer inventory replenishment or kind of higher-than-expected purchases in the quarter, I mean, I can't recall, but I mean, were you guys talking about inventory replenishment and kind of the fact that you thought that your customer inventories were low at the end of the year, last year?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "No, we weren't."
+    },
+    {
+      "speaker": "Steve O'Hara",
+      "speech": "Okay. I mean -- OK. So I mean, if these inventories are being used to replenish supply chains down the line, I could guess, I mean, is this something that could kind of keep rolling as that process takes time? Or I mean -- I guess I'm just thinking that maybe that could keep orders maybe higher than kind of previously expected, for longer, if that's the case. But maybe I'm not thinking about it right."
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Yes. I know you're asking, and I think we have the same questions that you have. We don't have really great visibility on that because we don't -- sometimes there's a disconnect between kind of from what we see in external factors and what our customers are actually doing. But -- so it's hard for us to really say in this regard. It's certainly possible. And I -- that -- I would think, for example, in the U.S., I just see everything is just so tight right now from -- in the auto industry and the steel industry. It's -- that, that should keep it longer, but there's other places around the world that maybe there are some of the other stuff that's happened in the supply chain replenishment or so. It's just really hard for us to kind of get at that. But we think there's some there, but we just don't know. We just don't know if it's a real material amount or not."
+    },
+    {
+      "speaker": "Steve O'Hara",
+      "speech": "Okay. Okay. And then just kind of going back to the commentary about Q2. Was there -- maybe I missed it, but in terms of the -- from a revenue standpoint, are you expecting a dip sequentially in revenue? Or is it more in -- just in the operating income because of the cost pressures?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "It's definitely going to be in the operating cost pressures. We think our volumes will be somewhat down from the first quarter. Again, hard to predict after the reasons we just talked about. We are getting price increases as well. So our raw prices will be higher in the second quarter versus the first quarter. So that will be somewhat of a plus for revenue. But again, our margins will be down because the costs keep escalating on a much higher rate. So hopefully, that gives you at least the variables that we're talking about."
+    },
+    {
+      "speaker": "Steve O'Hara",
+      "speech": "Yes. No, that's helpful. And then, I mean, throughout your pricing, is it typically an indexed process where it's fairly visible to customers where you'd say, this went up by this, this went up by that, and here's what it is to do, and it's going to start the next day. Is it other industries kind of really push customers to accept these, and it's more of a negotiation as opposed to a formula?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Sure. We definitely have some contracts with some major customers that are more index-based that adjusts every three months, for example, based on what's happening with raw materials. But I would say the majority of our business is really just negotiated pricing. And that's where -- when -- as raw materials go up, we kind of continually have to have another conversation and say, OK, I know we just went up in price recently, but we're going to have to go up in price again, and here's why, and this is what's happening to our various costs and make that case to it. So that's -- so the majority is, what I would call, the straight negotiation part."
+    },
+    {
+      "speaker": "Steve O'Hara",
+      "speech": "Okay. And then -- sorry, last one. Assuming there was some inventory replenishment, and that happened in the quarter, I mean, how long does that typically buy a customer? I mean, is there a -- is it kind of a three-month -- do they -- are they able to kind of store three months' worth of product? And kind of assuming economic activity continues to improve globally, I mean, is that -- I mean, it seems like, obviously, you expect 2Q to be lower and then trend throughout the year. But I mean, is there a way to think about the potential -- how long that could kind of depress volumes going forward if that was a big factor in the first quarter?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Yes. I mean, most of our customers, we ship very frequently. And it's kind of more just-in-time type of things can -- and so we generally don't find that our customers hold months' worth of product. They generally hold a couple of weeks or a few weeks of product. So can they hold somewhat more? Yes. They could do that. But there could be, for example, they could be maybe producing higher amount of cars or whatever parts they're making of their own and storing their parts, their products and inventory to try to replenish the supply chain. So that -- it's more probably that aspect as well that could be happening, but we just don't have perfect visibility to it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your next question is a follow-up from Mike Harrison with Seaport Global Securities."
+    },
+    {
+      "speaker": "Mike Harrison",
+      "speech": "Hi. Just a couple more for me. First of all, the aerospace business obviously was impacted by the 737 MAX and then the sharp reduction in air travel. Any thoughts on the pace of recovery? It seems like the airlines are at least reporting that travel is starting to come back. Could aerospace be maybe a positive contributor as we start to lap some of the big declines from last year?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Yes. Good question. I mean, certainly, in the first quarter comparison to the first quarter last year were down. But as you said and things really bottomed down in a lot of ways in aerospace in the second and third quarter versus last year, we are seeing more activity in aerospace on a sequential basis and so we are more encouraged around aerospace as we go through the year, let's say, the second quarter or so forth, third quarter, versus those prior year comparison. So that will definitely be a positive. But we do feel it will be -- that's -- to me, that's a great example of a sector that will be longer coming back to where we were to, let's say, 2019 type of levels. That will take a few years, I think, before we get back to those levels. But it is trending in the right direction right now. It will be a sequential positive for us."
+    },
+    {
+      "speaker": "Mike Harrison",
+      "speech": "All right. And then over on -- within the canning business, it sounds like there's just tons of capacity coming on stream. Are you winning more than your fair share of that new business? And can you maybe talk about how much of a tailwind the canning industry could be for you in the quarters to come?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Can has been a good business for us through the -- one of the better performing businesses as we run through the pandemic here. And as you mentioned, it's been really tight. I would just say, in general, that's a good example of the business that we have been over the past really two years, probably, continue to take share in the marketplace. We've had a -- we've really grown the size of our can business between combining what Quaker had as a can business, what Houghton had. And then with the Coral acquisition last year, it really strengthened our offering that we can make to customers, and we have been picking up new pieces of business in can."
+    },
+    {
+      "speaker": "Mike Harrison",
+      "speech": "All right. And then last one for me is on the Asia Pacific business. The pricing there or price/mix, I guess, looks like it was down about 4%, even as volume recovered very nicely year-on-year and looks like maybe even some sequential volume improvement. So what is driving that price lower or price/mix? And will we see that turn positive as you guys put price increases in place to counter the raw material inflation?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Sure. So I would say, in general, our -- we have lower prices. We have a lot of country mix in Asia Pacific with pricing for our different products. So sometimes, when you look -- we kind of look at where India, what's really been having a tougher time, certainly from the COVID perspective, but from an overall business perspective, it's been doing fine and -- but -- and I think that's been part of the mix issue we've had because prices can tend to be lower there than maybe other places in Asia Pacific. So I view it more as a mix issue between countries than I do really kind of anything happening lower prices. And of course, we're getting price increases everywhere. So it really is more of that mix issue."
+    },
+    {
+      "speaker": "Mike Harrison",
+      "speech": "And should we expect that to turn positive then later in the year?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "So from a pricing perspective, I would -- it really depends upon the mix of our businesses. Again, I think, in general, I think pricing aspects of revenue should -- we should see sequential improvement in that going quarter-over-quarter. Yet when you look at some of the gross margins, we'll definitely be more negatively impacted in the second quarter just because raw materials have been outstripping that."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is a follow-up from Steve O'Hara with Sidoti."
+    },
+    {
+      "speaker": "Steve O'Hara",
+      "speech": "Hi. Thanks for taking the follow-up. Maybe just curious if you could talk about possible impacts from any infrastructure bill that might go through or how you think about that, either from direct or through your customers' businesses?"
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "We would think it be a positive. We don't have a way of quantifying that at this point. But certainly, when there's a lot of more industrial activity happening, it should translate into a positive for us."
+    },
+    {
+      "speaker": "Steve O'Hara",
+      "speech": "Okay. And is there -- in terms of maybe -- I mean the last kind of proposal, I think, was much smaller. But I mean, do you have any idea of maybe what any boost you saw last time? Or -- and then obviously, the sizes are much different, but I was just kind of curious if there's any recollection from last time."
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Yes. I -- it will help us, but I don't think it is something as a major event. It really depends, I guess, the magnitude, as you mentioned. Again, what's really going to help us more is if people buy more cars and there's just more type of metal type of products that are being sold. So it's hard for us to really quantify it at this stage."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, we have reached the end of the question-and-answer session. And I would like to turn the call back to Mr. Michael Barry for closing remarks."
+    },
+    {
+      "speaker": "Michael F. Barry",
+      "speech": "Okay. Given there are no other questions, we will end the conference call now. And I'm going to thank all of you for your interest today. Our next conference call for the second quarter will be in late July or early August. And if you have any questions in the meantime, please feel free to contact Shane or myself. Thanks again for your interest in Quaker Houghton."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 46 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Michael F. Barry--Chairman of the Board, Chief Executive Officer and President",
+    "Shane W. Hostetter--Senior Vice President & Chief of Finance Officer",
+    "Katherine Griffin--Deutsche Bank -- Analyst",
+    "Mike Harrison--Seaport Global Securities -- Analyst",
+    "Daniel Dalton Rizzo--Jefferies -- Analyst",
+    "Brendan J. Popson--CJS Securities -- Analyst",
+    "Steve O'Hara--Sidoti -- Analyst"
+  ]
+}

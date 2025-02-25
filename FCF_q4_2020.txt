@@ -1,0 +1,388 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Fourth Quarter 2020 Earnings Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.\nI would now like to turn the conference over to Ryan Thomas, Vice President of Finance and Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Ryan M. Thomas",
+      "speech": "Thanks, operator, and good afternoon, everyone. Thank you for joining us today to discuss First Commonwealth Financial Corporation's fourth quarter financial results. Participating on today's call will be Mike Price, President and CEO; Jim Reske, Chief Financial Officer; Brian Karrip, Chief Credit Officer; and Jane Grebenc, our Bank President and Chief Revenue Officer.\nAs a reminder, a copy of today's earnings release can be accessed by logging on to fcbanking.com and selecting the Investor Relations link at the top of the page. We have also included a slide presentation on our Investor Relations website with supplemental financial information that will be referenced during today's call.\nBefore we begin, I need to caution listeners that this call will contain forward-looking statements. Please refer to our forward-looking statements disclaimer on Page 2 of the slide presentation for a list of risks and uncertainties that could cause actual results to differ materially from those reflected in the forward-looking statements.\nToday's call will also include non-GAAP financial measures. Non-GAAP financial measures should be viewed in addition to and not as an alternative for our reported results prepared in accordance with GAAP. A reconciliation of these measures can be found in the Appendix of today's slide presentation.\nWith that, I will turn the call over to Mike."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Thank you, Ryan, and I will begin with the fourth quarter and then reflect on the year and the outlook for 2021. In the fourth quarter, net income of $25.7 million drove earnings per share of $0.27, beating the consensus estimate of $0.23 per share.\nCore ROAA and the core efficiency ratio were 1.14% and 56%, respectively. Our core pre-tax pre-provision ROAA was 1.76%, due to an increase in the core net interest margin to 3.29% and continued strength in non-interest income driven by mortgage, interchange income, wealth management and SBA.\nFourth quarter loan volumes and commercial C&I lending were soft due to lower utilization of lines of credit and some payoffs. This masked [Phonetic] the strength we saw in the consumer businesses and resulted in a contraction in the overall loan portfolio ex-PPP.\nExpenses for the quarter were up due to higher salaries and benefits, particularly hospitalization expense. Provision expense of $7.7 million included a pass-through item of $3.2 million in unfunded commitment expense. It's important to note that we adopted the CECL methodology for the allowance for credit losses in the fourth quarter.\nShifting gears, as we think about the future, we think a lot about our customers' change in behavior. This is why we continue to make significant investments in next-generation technology in 2020 with the new online mobile platform, a new treasury management system, 100% issuance of a contactless debit and credit cards and new P2P solutions like Zelle and real-time payments, and we refreshed our digital account opening, customer experience with the new mobile responsive design. In a year challenged by a global pandemic, these digital tools enabled our customers to bank when, where and how they want it. Here is a sampling of some of the growth and changes we've seen.\nDebit card interchange income was up 11% or over $2.3 million year-over-year, driven by robust increase in transactions and dollar volume. New digital deposit account openings were up 189%. Digital customer conversations are up 233% from 2019. This interactive conversation feature available through our new online mobile platform lets customers start conversations with us anytime, day or night.\nMobile remote deposit capture users increased 45%. Image deposits at ATMs increased 84%. Virtual meeting collaboration increased 175% to over 2,600 a month. Our leaders are finding ways to keep our employees engaged with each other and with customers. And then there is our favorable Apple Store rating of 4.8 on our FC Mobile Banking app. Our customers are telling us what we're doing wrong and what we're doing right with our mobile app and we listen.\nWe're proud of our progress with our digital strategy over the last several years and particularly in 2019 and 2020. However, we must continue to improve our user experience in digital new account openings across consumer and business banking.\nJust a few more reflections before I hand it over to Jim Reske, our CFO. On the credit side, we proactively marked our credit early and often while reaching out to our clients in the midst of the pandemic. During 2020, and per Page 10 in our supplemental deck, we quickly built our loan loss reserve using qualitative overlays. It now stands at 1.61% of total loans ex-PPP and covers fourth quarter non-performing loans of $54.1 million by 187%, the highest coverage figure for the year.\nNPLs or non-performing loans, as a percentage of loans, was 0.80% or 80 basis points and net charge-offs in 2020 were 27 basis points for the year.\nYou will notice on Page 12 of our supplemental deck published this morning, an increase in loan deferrals to 1.68% of total loans as of last Friday, January 22nd.\nOn Page 13, the increase stems almost entirely from expanding deferrals to a handful of hospitality credits totaling $76 million or 29.6% of that particular portfolio. These types of deferrals are constructive and will enable a handful of our developers through the late innings of this pandemic. These deferrals also tend to come with a quid pro quo to include increased recourse or another -- and credit enhancement on a loan. Here again, we feel well-positioned with credit in 2021.\nDuring 2020, we grew our top line some $7 million while our expenses grew only $2 million, net of some restructuring charges. This is yet another year despite formidable interest rate headwinds of positive operating leverage. Our full-year core efficiency ratio fell from 56.97% in 2019 to 56.28% in 2020, indicative of the result of the management team.\nWe wielded an internal initiative dubbed Project Thrive to spur revenue growth, improve efficiency, protect margin and optimize capital. Among dozens of initiatives here, we consolidated some 20% of our branches before year-end after starting the process in late March.\nWe also nimbly used the remainder of a previously authorized buyback to purchase 2 million shares at a weighted average of $7.84 per share in the fourth quarter.\nIn 2020, we also had a record year with $94 million in non-interest income, as interchange, mortgage, wealth management and SBA all had record years as well. Non-interest income for the fourth quarter was 28% of revenues and was 26% for the entire year.\nEx-PPP, total loans grew $111 million or 2% in 2020 on the backs of strong consumer and mortgage lending and modest growth in small business. This momentum was more than offset by a slight downdraft in CRE lending and a palpable decrease in our C&I portfolio in 2020.\nOnce again, however, our newer Ohio markets found the path for broad-based growth and they now account for 34% of total loans.\nWe are optimistic about our pipelines in early 2021 and our ability to grow meaningfully in 2021. In 2020, we became virtually -- better in virtually every aspect of our business to include each revenue-producing line of business, each geographic region of our Company, our fee businesses, our expense focus, our credit and enterprise risk culture and, lastly, our digital strategy. We are genuinely excited about our prospects for growth in 2021.\nAnd with that, I'll turn it over to Jim."
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Thanks, Mike. Let me highlight a few things from our fourth quarter financial results before offering some guidance for 2021. First, fee income was strong in the fourth quarter. We anticipated but did not see a seasonal slowdown in mortgage originations in the fourth quarter. Fee income was actually suppressed by $1.2 million due to the mark-to-market on a single derivative. Despite this, fee income still came in at near-record levels. We talk a lot about mortgage, but we're very pleased to see our wealth businesses coming along nicely compared to where they were a year ago as well.\nSecond, the net interest margin expanded from 3.11% last quarter to 3.28%[Phonetic] this quarter, in part due to our intentional efforts to reduce excess customer cash levels. Core NIM expanded by 1 basis point in the quarter from 3.28% last quarter to 3.29% as the cost of deposits continued to come down.\nThird, core non-interest expense was up from last quarter as strong mortgage originations and other activity drove increased incentive expense, while at the same time reduced loan originations in other areas resulted in a slowdown of 1091 [Phonetic] expense deferrals. Hospitalization expense was up by $600,000 from last quarter and we had a $400,000 expense in the fourth quarter related to the annual true-up of our BOLI liability. So those two items alone accounted for $1 million of the increase in expense from last quarter.\nNow, let's talk about guidance for 2021. Note that our assumptions do not yet include another round of PPP and any government stimulus because it's way too early to understand their impact. While concrete guidance is elusive, hopefully we can provide some helpful thoughts as to what we believe may influence our financial performance in 2021.\nLet's start with loan growth and fee income. We expect fairly robust loan growth next year. For years, our guidance for loan growth has been mid-single digits. We believe that we can be at the higher end of that range this year. We expect that fee income will remain strong through at least the first half of 2021, in particular because we had expected to see some softening of the mortgage refi boom by now, but mortgage originations remain strong. Fee income in the second half will largely depend upon the extent to which the mortgage refi boom continues.\nNow, for our net interest margin and non-interest expense. As far as we can tell right now, we believe that our core NIM will be approximately 5 basis points on either side of 3.20% in 2021, but many factors could change that number and we'll update you as the year progresses. The NIM is expected to be profoundly affected in 2021 by PPP forgiveness and further stimulus, both of which could leave us with a lot of excess cash to reinvest and PPP round two, which will add more low-margin assets to the books. All of that would suppress the NIM.\nThere are however three \"arrows in our quiver\" that may work to offset some of these NIM pressures. First, we expect a phenomenon of negative loan replacement yields to soon run its course. Our expectation had been that we'd reach neutrality in asset yield in mid-2021, but in the fourth quarter negative replacement yields only brought down the loan portfolio yield by 2 basis points, so we're almost there.\nSecond, on the liability side, we see continued runway for reductions in deposit costs. We have $471.2 million in CDs maturing in 2021 with $289.9 million yielding 1.21% maturing in the first half. And we also have $129.4 million in money market savings deposits that currently yield 1.22% that will reprice in the first half of 2021.\nThird, and most importantly, our balance sheet remains asset-sensitive. The blended Moody's rate forecast that we use call for a modest steepening of the yield curve this year and more next year, even while short-term rates remain at zero. Our NIM would benefit from that scenario.\nTurning now to non-interest expense, we believe core NIE should come in at between $52 million to $53 million per quarter. That's up from $206.4 million in 2020 and from our previous guidance. Part of the increase was due to a $2 million to $3 million expected increase in collection and repo expense, but that remains quite unclear, especially if foreclosure, moratoriums and unemployment insurance are extended.\nOne other potential tailwind to expected costs could be the next round of PPP, which will allow us to defer origination expense, potentially lowering non-interest expense. The rest of the increase is more straightforward. We are not hesitating to invest in loan growth talents, including commercial lenders and consumer lending teams, as well as credit and treasury management personnel because we sense growth opportunity as the crisis abates. Furthermore, we believe that the work-from-home environment will wind down and corporate travel and client entertainment will resume at some point in the latter half of this year.\nFinally, on a more exciting note, share repurchases will continue. As we announced yesterday, our Board has approved an additional $25 million share repurchase program. We expect repurchase activity to play out relatively slowly over the course of 2021, especially in response to dips in our stock price.\nAnd with that, I'll turn it over to Brian Karrip."
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Thank you, Jim. Good afternoon. I'll walk you through some prepared credit comments and then we'll go to Q&A. Our strong fourth quarter results underscore the effectiveness of our portfolio management practices, risk management strategies and disciplined credit culture.\nOver the past few years, we tapped the brakes on certain higher risk factors. We selectively reduced certain segments, such as energy, we've adjusted our corporate and consumer loan guidelines to achieve a more moderate risk profile, we improved our portfolio risk through geographic and industry diversification, and we've reduced our concentrations of credit by limiting single transaction exposures.\nOur consumer delinquencies at year-end continue to be very low and were only 2 basis points, I'm sorry our commercial delinquencies. Our consumer delinquencies kicked up a bit at year-end to 45 basis points, due to seasonality. We were pleased to see that our investments in the collections team resulted in a favorable comparison to pre-COVID-19, 12/31/19, consumer delinquencies at 54 basis points.\nCriticized loans increased by approximately $114 million, largely due to downgrades in the hospitality portfolio.\nNon-performing loans at year-end totaled $54.1 million, an increase of $4.3 million from the prior quarter. We had a number of smaller credits that we moved to accrual and one hospitality relationship with the balance of approximately $7 million that was moved to non-accrual. The net increase was $4 million in non-performing loans. Non-performing loans as a percentage of total loans, excluding PPP, was 0.86% and our allowance for credit losses as a percentage of non-performing loans increased to a healthy 187%. Non-performing assets as a percentage of total assets increased from 0.55% in Q3 to 0.62% in Q4.\nNet charge-offs for the fourth quarter came in at $4.8 million. Net charge-offs as a percentage of average loans, excluding PPP, was 0.30%. Given the economic conditions, they were generally in line with our internal targets.\nNow, let me provide some color regarding reserves. First, you should note that we adopted CECL at 12/31/2020 and booked a transition amount of $13.4 million. We utilized certain Moody's models to support our estimates of key economic indicators, including GDP and unemployment. As the economic models -- as the economic uncertainties play out and conditions improve, we might see some tailwinds toward the back half of 2021.\nProvision for Q4 was $7.7 million, including $3.2 million related to the unfunded commitments. The provision reflects our strong credit metrics and improving economic indicators.\nAs noted on Page 10 of the supplemental slide deck, the total qualitative reserve factors increased by a net $8.3 million quarter-over-quarter. Specific to the identified COVID-19-related high risk portfolios, the qualitative reserve is applied for the quarter of $9.1 million.\nCredit carefully considered the five high risk portfolios as outlined on Page 13 of the slide deck. These five portfolios will be evaluated quarterly and reserves will be adjusted accordingly.\nThe reserve build slide in the deck provides a bridge from a 12/31/19 balance of $51.6 million to the year-end reserve of $101.3 million. This is exclusive of the $3.2 million of provision for unfunded commitments. Reserves to total loans grew to 1.50% of total loans and 1.61% of total loans net PPP loans. Overall, we've been conservative in our approach and have solid reserve coverage ratios.\nWith that, I will turn it back to Mike for Q&A."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey, thanks, Brian. And questions, operator."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Frank Schiraldi with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Good afternoon. Just a couple of questions on the guidance, Jim. You mentioned -- you sound pretty confident in loan growth being fairly robust. I think you said the high end of mid-single digit, so 6% I guess sort of what you're guiding to. And then just kind of wondering if you could -- given line utilizations were lower in the quarter, what gives you the confidence in this sort of more robust growth and if you could break that out between sort of resi and commercial expectations?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yeah. This is Mike. We really see some strength on the consumer lending side in our branches, certainly with mortgage lender lending and we portfolio a portion of that and then also with our indirect business. And we really haven't had those engines before. We have broader engines in non-interest income and now a broader base in consumer and commercial banking to grow. And we do expect to rebound here, perhaps, as early as the second quarter in the commercial side of the business.\nWe even seen -- see some beginning of pipeline growth in certain markets on the commercial side. And we think as demand comes back, lines of credit are down because accounts receivable or inventory of that working capital cycle that businesses need is down as well. And we think that could rebound and really create some momentum. And we've constructed our budget, we are very meticulous about that year in and year out and we just feel like we have more engines than we've had before and better teams and producers. Jim or Jane, do you want to add to that?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Jane?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Thanks. Thanks, Mike. No, I don't have much to add. I'm glad that we've got five different regions identified in the bank because we see different tailwinds region by region and we're running the Company much more geographically and we see much more accountability by geography."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "And I'll build on that just a little, Frank. I mean six -- five, six years ago, we were domiciled and we really operated the 80%, 90% of the franchise out of Western PA. And as we've done acquisitions, they've only probably accounted for about 20% of our depository and loans and they now account for 34% and they're growing very rapidly in the three metro markets in Northern Ohio, Columbus and Cincinnati.\nAnd the other thing is, as I think as we've gotten larger and we perform better, I think Jane and the team we get better and better producers. So, I think it's pretty simple, but there's definitely more momentum there."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Okay. Thanks for all the color. And then just quickly on the fee income guide. Jim, I think you said -- did you just -- sort of strong, will continue to be strong through the first half of 2021, so does that just imply that we will see sort of similar levels to what we see in the back half of 2020 in terms of total non-interest income?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah. That's about right. Look, I'll be very clear with you, Frank. I think generally the overall consensus estimate for us for fee income is a little on the light side. It looks like it's annualizing more with the experience that we had in the first half of 2020, and the second half for the both quarters are really strong on fee income. And there was a time during the fourth quarter that we thought, well, this mortgage refi bill will come to an end, then there will be seasonality and it just hasn't slowed down. So would you think some of that will keep rolling in the first half of this year? And some of that will play its course and then it might come down to second half, but I do think it can be a pretty strong year for fee income."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Okay, great. And then if I can sneak in one last quick one on credit. The increase in criticized in the quarter, does that reflect more just sort of a loan review that is now completed or if that does reflect a loan review that's still in process?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey, Brian. Do you want to [Speech Overlap]."
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Yeah. Great question, Frank. So a number of things happened in the fourth quarter. First off, we began getting many financial statements that had been on extension. And as those financial statements were analyzed, we'd look and identify whether or not there was some financial covenants tripped, use that as an opportunity to have a real negotiation and discussion with our borrowers.\nSecondly, we did complete a second full loan review. That semi-annual loan review covered 972 names, $2.75 billion. And as part of that, we also adjusted risk ratings. And, finally, I would just draw your attention to our fervent belief that there might have been an expiration of the CARES Act. And so we wanted to act with a sense of urgency on any forbearances so we could provide certain short-term modifications consistent with the CARES Act. So our relationship managers did spend a fair amount of time with their borrowers saying, if you think you're going to need a forbearance and would like to negotiate for one, then now would be a good time. So the confluence of those various events did lead to higher forbearances or deferrals in the fourth quarter, as well as some migration and increase in the criticized assets."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Okay. It sounds like you feel like that migration is complete now though as you have -- as you know you've completed that loan review process in the fourth quarter?"
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Yeah. I feel very comfortable we marked the book properly. Mike will say over and over again, we got balls and strikes honestly at First Commonwealth, and I feel very comfortable that we are -- that we've appropriately marked our credits and that we will continue to watch them over 2021."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Okay. Thanks for all the color."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Next question, operator?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steve Moss with B. Riley Securities. Please go ahead."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Good afternoon, guys. Can you just -- perhaps starting on -- following up on credit here, just kind of curious as to how you're thinking about credit costs and what the potential is for the formation of charge-offs in 2021?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "I think our feeling is that it might be similar to 2020, but I'll let Brian expand upon that."
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Yeah. Here's what I'm seeing. I'm beginning to see some light at the end of the tunnel. We may see a little bit of an uptick the first two quarters of this year. And our viewpoint, our outlook is at the back half of the year, things will begin to improve. We think 2021 numbers will be generally in line with where we were at 2020, which is right in line with our internal targets."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Okay. That's helpful. And then on the margins front, can you give a number of details around funding -- around CDs, repricing and borrowings, and then repricing as well? Where are you repricing CDs these days? And how much -- it's probably the good quarter for funding cost coming down. How much further do you think we can go here?"
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Yeah. Most of those time deposits will reprice at the rack rate and our rack rate is actually very similar to others in the market. It depends on the term, but they're all 10 basis points to 20 basis points, very low. So we are still -- even if those rates fell, we will still see half to two-thirds just roll over, the rest will sometimes just roll into savings accounts that will earn between 0 basis points and 5 basis points. So there is a quite a bit of -- that's why we're quite happy about it, because there's quite a bit of healthy repricing opportunity on that front."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Right. Okay. That's helpful. And then just in terms of business activity here, it sounds like -- maybe you may correct me if I'm wrong, but Ohio continues to be stronger relative to Pennsylvania. Just kind of curious about the dynamics you're seeing between markets. Any color there?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Sorry, I muted you, Steve, forgive me. Yeah. We've had good growth and it's been broad-based, it's been on both consumer and the commercial side and more on the C&I side as well and -- actually C&I and commercial real estate. I think in Pennsylvania, Brian gave you a pretty good list about 10 minutes ago of four or five ways that we derisk the bank. And trust me when I say that, we have derisked the bank. I mean, we've gone from 70-plus saves over $15 million in credit and Brian, I'll get it wrong, but the number is probably closer to $25 million now. And so that created some headwind for us and has for our core franchise for a number of years.\nThe other thing is the demographics quite frankly in the metro markets in Ohio are a little better. And so those are probably the two reasons. I think, as we've gotten -- we've moved palpably to a regional business model here in the last several years, each market is getting better and performing better each year. And so that just gives me kind of great confidence that we will have a year where consumer and commercial will both hit on all cylinders and each region, and I'm just more optimistic about growth for our Company than I have been at any time since I've been here."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Okay. And maybe one last follow-up for me, just in terms of potential acquisitions, what's the level of activity there and any areas of interest?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yeah. I don't want to sound like a broken record, we've done things that have been -- we've executed very well, they've been smaller. We've done things that have been in adjacent markets and they haven't been a stretch for us. I hope we can continue to use that playbook. We're very mindful of the cost of a deal. We probably looked at 40-plus things to do five or six. Is it five, right?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "And so if the numbers don't work and it's not strategic, we don't do it. And so that's pretty conservative. I think we'd like to do something a little larger, but you also invite a different kind of risk and you have to feel very comfortable that you can execute that risk and there is not any -- there's nothing that's going to bite you.\nAnd just, Jane and I and a number of others on the team have done big and small banks, dozens and dozens of deals and we just want to grow it responsibly and thoughtfully. And we have, I think, a better organic engine and -- but we really would like to do deals, don't get me wrong, it's just -- it has to work for us and -- but I'd love to do something in an adjacent market here in Pennsylvania and Ohio and/or fill-in and small or a little larger."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Okay, great. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Russell Gunther with D.A. Davidson. Please go ahead."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Hey. Good afternoon, guys."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Good afternoon."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "I wanted to follow up on the margin discussion. So first to make sure I heard the guidance right, the 3.20% plus or minus 5 basis points in either end, that's core and so that's what you guys considered, exclusive of PPP fees? So that's question one to make sure I have that right. Two, what dynamics need to materialize to hit the high end of that range?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Jim?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah. Well, there are couple of things going on. And first, for the sake of clarity, yes, that's core and we published a reconciliation of core in our earnings deck or supplement. But basically, we are excluding PPP loans and all the PPP forgiveness income, and then we are also excluding the effect of the excess cash that's on the balance sheet. That's our definition of core and reconcile it back to the GAAP NIM for everyone's benefit. So, we think there could be quite a bit of PPP forgiveness in the first half of this year for the PPP loans that remain on our books. Out of the $588 million -- $589 million that we did in total last year, about $100 million was forgiven for the year ended. So there's quite a bit left to go. So that is forgiven, if everybody knows by now, the amortization of the fee income in that will accelerate and that could really boost the stated NIM quite high in the first half of this year, depending on the pace of that forgiveness. But we'll continue to publish that core NIM, strip that out to get to that number. So that's what we mean when we say the core NIM.\nSome of the upside of that number, to answer the second part of your question, will depend on the slope of the yield curve and how that might shift over the course of the year. No one has a crystal ball. Like I mentioned, we purchased earning forecast of rates -- rate forecasts from Moody's, and some of that calls for some steepening. So to the extent that happens, that could really be some upside to our NIM somewhat in this year, but even more so next year. Hope that helps."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Got it. Thank you, Jim. Yes, it does quite a bit. I guess the one follow-up to that would be what that includes in terms of your assumptions for the investment portfolio going forward, both from a overall size to the percentage of earning assets and the reinvestment opportunity?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah, great question. A lot of that will depend on the pace of deposit withdrawals as a lot of those PPP loans are forgiven. So as the PPP loans are forgiven, all that does is turn -- one, turn a PPP loan asset into a cash asset for us and then it depends on the pace with which the customers pull that money out and use it and deploy it. But as that cash sticks around, we -- it's very expensive to let it stick around because while it sticks around it's a very low-earning asset in our books, so we do intend to invest some of that excess cash over the year.\nYou asked about our assumptions. Our assumptions on investment yields on securities are not aggressive at all, but we're seeing our yields on plain vanilla MBS securities that are maybe 1% to 1.1%, and we really don't look at that book as a place to stretch for yield and taking any risk. So we don't look at really anything esoteric in that portfolio, it's very plain vanilla. So that is the -- that's the assumption.\nSpecifically with regard to your question as to what percentage of the book, it will be -- our general assumption is that, that won't change a whole lot, but it's really going to depend on how much cash we have in and how much more of that cash we have to invest."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Got it. Okay, great. Thank you, Jim. And then switching gears a little bit, I appreciate the color on the expense outlook, I was just trying to tie together a lot of the conversation we've had and it seems to me like the answer would be yes, but are you able to commit in generating positive operating leverage for 2021?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "We're going to -- like all of -- like a lot of banks, I think, we're going to have to scramble to get there, that's the goal and we've scrambled last year with some cost takeout and some other things. As you know, if the revenue line moves, it can get really -- it could get a lot tougher, but that is the goal, is to have positive operating leverage."
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "And let me answer that also with a brief anecdote. I think it was around the end of March when Mike looked at me and asking that question because we track it internally. Obviously, we're very focused on operating leverage, that's part of our core DNA as a company and Mike was asking about the operating leverage for this year and I thought, well, it's the end of -- that's March, with COVID hitting us and the pandemic is over, there is no way we can get positive operating leverage in calendar 2020 and we did. It was quite positive. So core revenue grew $9.3 million and core NIE only grew $2.8 million. So we are very pleased with that. So that's -- we'd love if that continues, but time will tell."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Understood. And then maybe a similar type of question, but profitability ratios have been really strong and I think as you call out in your deck from a PPNR perspective in that 1.75%-ish range, do you have a target that you are striving for either a PPNR, ROAA perspective or something else that you had set out for 2021?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah. Longer term will qualify that. I mean, in our plan on the first page is 1.80% pre-tax pre-provision ROAA and sub-55% efficiency ratio. That doesn't set up well for this year. I will not look to that, but that's -- we need to be moving palpably and then we need to find dollars to continue to invest in our digital platform and I started there because we made a lot of investment and our customers have really enabled us through the pandemic to have the tiny year we had and really let those fee businesses grow with talent and at the same time we were shifting expenses. So you just have to be in the nimble and thoughtful and we have to -- when we're in front of you, Russell, quarterly, we're very accountable for where we're at and where we're going."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "I appreciate it, guys. Thanks for taking my questions. That's it for me."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steven Duong with RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hi. Good afternoon, guys. Just first, just on the margin, it looks like you have a little over $550 million on in CDs. How much of that do you expect to roll off by the end of the year?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah. With -- thanks for the question. With $471 million maturing next year, we will probably retain half to two-thirds of that, that's been the pace recently. Even at -- even without offering any deposit specials, even without reaching for yield at all, about half to two-thirds will roll over."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay. So basically by the fourth quarter of this year, that could get down to like a $300 million number?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yes. Absolutely."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay. Yup. And that $300 million number, you're saying the cost is around 10 basis points to 20 basis points?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "That's right. Now the rest of the money, just to be clear, may not roll into CDs, but it just might -- someone doesn't renew their CD to say when the rates are low, I might say so just put it in my saving account. So it's a lot of that money stays with the bank, it just doesn't move to the time deposit."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Right. Right. Right. And so then, like right now, it looks like your total deposit costs are less than 20 basis points. Do you see the potential for breaking through the 10 basis point line by the end of the year?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Steve, it's a great question. I have not calculated that way. I would say we have a good chance of doing that by bringing these costs -- some of these costs down. When you have this much money and I gave some of the money -- some of the numbers, excuse me, in my prepared remarks, $290 million at 1.21%, another -- that's the CD number, and another $130 million of money market at 1.22%, those will come down at 100 basis points to 110 basis points, that chunk of money. So that really could be the total cost of deposits down and how."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Yeah. Got it."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey, Steve. This is Mike. Just to be clear, I mean, longer term the engine that Jane Grebenc's, who is on the phone, has developed and along with Greg Sipos, our Head of Corporate Banking and our Head of Retail, could go out and get business deposits is key. Non-interest-bearing deposits and checking accounts and those drive your fee income. And so, I don't want to be dismissive of deposits in general. Longer term, we'll cherish every checking account, every transaction account we have, but where focus is and our DNA has to be to get non-interest-bearing business accounts. And that's what we're about and thankfully we've shifted in the last five years that really enables the flexibility with the time deposits."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "That's good to hear. And I just -- I saw in your presentation, you had $1.7 million in the PPP fees, was that just the accelerated portion or was that the total PPP fees for the quarter?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "That was just the accelerated amortization. That does not include the regular recognition of the fee income for the rest of the PPP portfolio."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay. And what was the total recognition and how much do you have remaining?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Well, like I said, we have about -- we had about $100 million coming off the book so far by the end of the fourth quarter. So there is about $480 million or $490 million that remains in that portfolio. I don't have a dollar figure handy for the total amount of amortization on the portfolio in the fourth quarter, but I could probably get that for you."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay. And then just one last one for me. On the loan growth side, on the commercial side, you seem pretty positive on it. Just curious, do you know if your clients are sitting on a lot of liquidity right now, and how does that factor into your expectations?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "They are and I have Jane on the phone. Jane, why don't you take that one on liquidity?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Thanks, Mike, and thanks for the question. We've seen our line utilization drop in 2020 from about 50% down into the high-30s, so an indication that our clients are also sitting on lots of cash. And we've seen -- the bank is flushed with cash. So we anticipate that as the economy begins to open up, our clients prefer to use that cash and they will start to borrow again, draw down on some lines."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Great. Thank you. That's it for me."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Thanks, Steve."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The next question comes from Joe Plevelich from Boenning & Scattergood. Please go ahead."
+    },
+    {
+      "speaker": "Joe Plevelich",
+      "speech": "Good afternoon. Two quick questions. One on the next round of PPP, any sense of what kind of applications you've received and how much volume you might get from that? And then the second question is on the allowance to loan side. It's 1.5%, what do you see that longer term, and could we see reserve releases here as soon as this quarter?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Well, let's start with the credit question. And, Jane, if we could find the PPP numbers, I think you might have those. But, Brian, on the loan loss reserve?"
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Yeah, thank you. So here's how we're thinking about the loan loss reserve. As we completed this year-end and the transition to CECL, we want to be -- continue to be disciplined in credit, prudent in a way that we address our reserves. We're going to look at both our qualitative and quantitative components and our high-risk portfolios throughout the year with an expectation that we may be in a position to bring these reserves down as the economic outlook improves."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Jane, on the PPP [Speech Overlap] -- go ahead, I'm sorry to interrupt you. Go ahead."
+    },
+    {
+      "speaker": "Joe Plevelich",
+      "speech": "My question more is longer term, do you think 1.5% is the right number? Based on the likelihood of reserve releases, could we see that drift down, whether that's to 1.25% or something lower?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Let me take that, Mike?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yup."
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah. I mean, it's really going to be driven by our models. Our models do have -- our Moody's model do have factors in there, like GDP, unemployment, and so they'll drift down as there is improving economic conditions. We also have $9.1 million in -- related to those high-risk portfolios that we've outlined in the slide deck. And as the improvement in the economy directly relates to those specific portfolios, retail, hospitality, senior living, energy, we would expect those to come down over time also, Joe."
+    },
+    {
+      "speaker": "Joe Plevelich",
+      "speech": "Got it. Thanks."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "And Jane, on PPP?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Yeah. And back to the question on PPP volume, right now, we've got about $174 million in applications and that's about 1,300 apps. The pace is much, much, much different than it was last year and that's another reason for the optimism around the loan growth. I'm really proud of the work that we did around PPP in 2020, but it was an all hands on deck kind of initiative. And we used virtually every resource. This year, it's been much more quarantine, the process is much more automated, we knew what we were getting into, we're taking care of our own customers first and really like the cadence against last year. So we're pleased with where we are."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "So, Joe, that's about 22% or about a-fifth of the volume we saw in the first two week [Phonetic] in 2020."
+    },
+    {
+      "speaker": "Joe Plevelich",
+      "speech": "And do you think that could get to a-third, 50% or what's your gut say?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "My gut says that it's going to stay around here. And that was absolute dollar amount. But we did about $600 million last year, I don't think we'll do more than a couple of hundred million, may be a little bit more."
+    },
+    {
+      "speaker": "Joe Plevelich",
+      "speech": "Okay. Thanks."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Thanks, Joe."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Mike Price, CEO, for any closing remarks."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yeah. Thank you. Jim, did you have something?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "I do, and I thank you, Mike. But before we close the call, while we're still on the call, I do have a couple of answers to the questions that were asked earlier. One of the questions was about the total deposit cost and could that come down in half from 20 basis point to 10 basis points by the end of the year. It's not going to come to quite that 10 basis point level and I want to be clear about that. It looks like in our planning, it will be more like 12 basis points to 15 basis points probably by the end of the year.\nAnd the other question was about the total amount of PPP spread income that was recognized in the quarter. The total amount was $5.5 million, but that includes the $1.7 million of accelerated amortization. So the rest of the PPP interest income recognized for the remaining PPP loans in the fourth quarter was $3.8 million. Just wanted to take the opportunity to clarify while we're still in the call."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yeah. Thanks, Jim. And, hey, thank all of you for your interest in our Company and we look forward to reporting out positive momentum in the first quarter and the rest of the year as the economy recovers and people get vaccinated. And thank you very much for your interest in First Commonwealth sincerely. Take care. Bye-bye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 53 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ryan M. Thomas--Vice President, Finance and Investor Relations",
+    "Thomas Michael Price--President and Chief Executive Officer",
+    "James R. Reske--Executive Vice President, Chief Financial Officer & Treasurer",
+    "Brian G. Karrip--Executive Vice President and Chief Credit Officer",
+    "Jane Grebenc--Executive Vice President and Chief Revenue Officer",
+    "Frank Schiraldi--Piper Sandler -- Analyst",
+    "Steve Moss--B. Riley Securities -- Analyst",
+    "Russell Gunther--D.A. Davidson -- Analyst",
+    "Steven Duong--RBC Capital Markets -- Analyst",
+    "Joe Plevelich--Boenning & Scattergood Inc. -- Analyst"
+  ]
+}

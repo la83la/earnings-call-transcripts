@@ -1,0 +1,262 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Paymentus third quarter earnings call. This call is being recorded. [Operator Instructions] At this time, I would like to hand the call over to Paul Seamon, VP, finance and strategy, for some introductory comments. Please go ahead."
+    },
+    {
+      "speaker": "Paul Seamon",
+      "speech": "Thank you. Good afternoon and welcome to Paymentus' Q3 2021 earnings call. Joining me in the call today are Dushyant Sharma, our founder and CEO; and Matt Parson, our CFO. Following our prepared remarks, we will take questions.\nOur press release was issued after close of market today and is s posted on our website where this call is being simultaneously webcast. The webcast replay of this call will be available on our company website under the investor relations link at ir.paymentus.com, Statements made on this call include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements use words such as will, believe, expect, anticipate, and similar phrases that denote future expectation or intent regarding our financial results, our market opportunity, business strategies, impact from acquisitions and other matters. These statements are subject to risks, uncertainties and assumptions that may cause actual results to differ materially from those set forth in such statements, including the risks and uncertainties set forth under the caption risk factors and our quarterly report on Form 10-Q for the quarter ended June 30, 2021, which we filed with the SEC on August 11, 2021, and our quarterly report on Form 10-Q for the quarter ended September 30, 2021 which we expect to file with the SEC on November 10, 2021, and elsewhere in our filings with the SEC.\nIn addition, during today's call, we will discuss non-GAAP financial measures, specifically contribution profit, adjusted gross profit, adjusted EBITDA and adjusted EBITDA margins our non-GAAP financial measures. These non-GAAP financial measures, which we believe are useful in measuring Paymentus performance and liquidity, should be considered in addition to, not as a substitute for, or an isolation, from GAAP results. We encourage you to review additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP results and our earnings press release issued today and available on the Investor Relations page of our website. With that, I'd like to turn the call over to Dushyant Sharma, our founder and CEO."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Thank you, Paul, and thank you everyone for joining our call today. All great things are happening at Paymentus. As you can see from our earnings press release, we had a great third quarter across our business. A strong financial performance with strong implementations and strong sales.\nOur contribution profit grew 37% year over year to $40.7 million in the quarter. This is a significant acceleration from Q3 of 2020 and from our last quarter. And we believe this is just the beginning of the network effect that we have been talking about. We have signed over 140 billers so far through Q3 and had an exceptionally strong quarter for sales, driven by a large enterprise business deal.\nThis deal alone could add in excess of 400 basis points to our current revenue run rate when fully implemented. The strong sales performance is a good example of the halo effect from the IPN ecosystem we have built. We processed 70.6 million transactions in the quarter, an increase of 45% year over year, giving us an annualized run rate of over 280 million transactions. This amount remains less than 2% of the overall domestic bill payment market of over 15 billion transactions.\nIn five of the six verticals that we currently focus on, utilities, insurance, financial services, telecommunications, government, and healthcare, we have less than 2% of the billers as clients, with utilities being the only one over 2%. Overall, we believe the sales opportunity is significant and the runway is long. In addition to the runway being long with respect to the ongoing addition of new clients, one of the key strengths of our business is the length of relationships that we enjoy with our existing clients and partners. They trust us with long-term contracts, generally three to five years, though sometimes longer.\nThis gives us a significant ability to build and creatively execute on our strategy to grow our business into a big and pervasive platform and to expand our TAM, which also gives us a great deal of confidence regarding our growth prospects for 2022, 2023, and beyond, assuming, of course, that we continue to execute on our service and the payment volumes continue based on the historical patterns in the large market, we recently expanded our relationship with J.P. Morgan Chase. We'll work closely with the bank on sales of digital payment to J.P. Morgan Chase corporate and commercial clients.\nThere will also be a revenue stream from some existing build pay clients at J.P. Morgan, which we will recognize as those clients go live on our platform. This is a very exciting relationship for us, and we have already seen the benefits in our sales and pipeline growth as billers have recognized the power of our combined resources. Additionally, in the mid-market, we have renewed our relationship with Harris Computer, a key partner for us.\nHarris is a leading provider of CIS systems to government and utilities, and we are optimistic about continuing to grow together. With the help of our partners, our network ecosystem, and our extraordinary sales team, we just had a very strong sales quarter, which continues our momentum from earlier in the year. We completed some sizable implementations in the third quarter, and fourth quarter looks as strong as well, providing strong growth going into 2022. For example, we brought one of the largest water utilities in the US live in Q3, serving well over 1 million customers, both residential and commercial.\nThey chose Paymentus to replace a legacy provider because of our platform's functionality, real-time integration with their ERP system, and our IPN ecosystem. As anticipated, we closed our acquisitions of Payveris and Finovera in the third quarter and continued to make progress integrating them. Previously, Paymentus was not capturing financial services initiative transactions, but those payments now become part of our instant payment network following the Payveris acquisition. Further, a significant percentage of the Payveris transactions are sent to non-payment of billers.\nThese billers then become targets of our sales team. We enjoy the same phenomenon across other IP partners as well. The implication is that we are no longer limited to only processing transactions for our 1,400-plus direct billers. Our reach through our IPN ecosystem massively extends our distribution and shows the power of IPN to expand our obtainable market.\nJust to make this point clear, consumers can pay bills to nonpayment distillers through technology, retail, and banking partners. We have created a modern platform and an ecosystem that allows any user, any biller and any partner to engage like never before possible and extend the flexibility of the billers ecosystem enjoyed through our platform to all these apps in our ecosystem. This results in a unique value proposition for all three and the flagyl effect. We are having a lot of fun leveraging the foundation of the ecosystem we have built by attracting the type of clients and partners we are adding.\nAs we have built an ecosystem, our four objectives remain: No. 1, find and implement as many billers as possible; No. 2, constantly grow biller payment volume through digital adoption and usage; No.3, expand the reach of IPN to process every payment from every partner as possible; No. 4, generate a long lead list of all billers that are outside of our biller-direct platform, but processed through our IPN network, and therefore, add them to our sales pipeline.\nFinally, some of the seeds we have been planting are bringing to sprout. Our B2B payment volume is over $1 billion now on a run rate basis. And similarly, our IPN network payment volume is over $1 billion as well. The reason I mentioned this is to provide proof points that both products are contributing to our financial performance and growth acceleration.\nWe are excited about the momentum and expect to continue to expand on it. It's still early days, but a very positive sign. With that, I'll pass the call over to Matt. Matt?"
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Thanks, Dushyant. As a quick reminder, today's discussion includes non-GAAP financial measures. Please refer to the tables in our press release for a reconciliation of non-GAAP items to the most directly comparable GAAP financial measure. In the third quarter, we processed 70.6 million transactions, representing a year-over-year increase of 44.9%.\nAs we add new products such as B2B, account-to-account and person-to-person, our transactions [Inaudible] inclusive of these, so the number now goes beyond pure bill payments to include other money movement transactions. This transaction growth drove a 30.3% increase in revenue over the same period in 2020, which resulted in revenue of $101.7 million. I'd just like to take a moment to highlight that this is the first time the company has crossed the $100 million mark for a quarter, which is a great achievement and milestone for us. We, as a management team of Paymentus, cannot wait for this to become our monthly revenue amount.\nContribution profit for Q3 was $40.7 million, a 37.1% increase over the same period last year. Note that the combined impact of Payveris and Finovera was less than $1 million on both revenue and contribution profit. Growth for the quarter was stronger than anticipated due to the higher-than-expected volumes from certain large billers that went live in Q2 and Q3. The average amount of payment made on our platform was lower in Q3 of 2021 than it was in Q3 of 2020.\nSome early tailwinds from the J.P. Morgan partnership and a small amount of revenue from the acquired companies. Adjusted gross profit for the third quarter was $32.6 million, which is an increase of 38.3% from Q3 of 2020. Adjusted EBITDA was $5.5 million, which represents a 13.6% adjusted EBITDA margin.\nThe 8.6% decline in adjusted EBITDA from the second quarter of 2021 is due to the cost increases related to being a public company, increased investments in R&D and sales and marketing and some small dilutive impact from the acquisitions. Operating expenses rose $10.9 million to $30 million for Q3 of 2021 from the same period last year. Overall, the increase in operating expenses from last year was driven by a variety of factors, including a corresponding increase in headcount as we continue to innovate with and for our customers, IPN partners and other partners, and we continue to invest in sales and marketing. We also experienced significant increases in G&A expense due to legal expenses and intangibles amortization related to the acquisitions, multifold increases in the cost of corporate insurance and continuing investment in public company infrastructure.\nAnd then, lastly, travel and marketing events did start to pick back up in Q3. Specifically, R&D expense increased $2.6 million or 41.7% from the third quarter in 2020 as we continue innovating with and for our customers and partners. This is a key point of differentiation for Paymentus, and we will continue to invest in it going forward. Also, a portion of the intangible amortization went into R&D.\nSales and marketing increased $3.3 million or 41.4% as we continue to add headcount to accelerate the acquisition of new customers and partners, given the significant market opportunity and strong market position that we have and also a portion of the intangible amortization winning this sales and marketing as well. Our GAAP net income was $0.4 million, and GAAP EPS for Q3 was 0. Non-GAAP net income was $1.4 million. Non-GAAP EPS was $0.01 for the quarter.\nAs expected, we closed the acquisitions of Payveris and Finovera and completed the preliminary purchase accounting for those acquisitions. As a result of the valuation performed, we recorded $53 million of identifiable intangible assets. Those intangible assets had useful lives of two to eight years. And so, the related amortization decreased our GAAP net income by $933,000 and our GAAP EPS by $0.01 in Q3, and it will have a meaningful impact on our GAAP net income and EPS going forward.\nHowever, because it's amortization, it will not impact our adjusted EBITDA. As of September 30, 2021, we had $177.5 million of cash and cash equivalents on our balance sheet. The cash decreased primarily due to the acquisitions and our share count on that date was 119.96 million shares. Now from our Q3 results, let's turn to our 2021 full year outlook.\nWe are quite pleased to be able to raise our full year outlook for revenue and contribution profit, as well as reaffirm our full year outlook for adjusted EBITDA to be at the top end of the previously provided range. Our revenue outlook for 2021 is in the range of $391 million to $393 million, which represents growth between 29.5% and 30.5% year over year. For contribution profit, our full year outlook is between $156 million and $158 million or approximately 30% to 31%. It's worth highlighting that our guidance now for revenue and contribution profit growth is at 30% for the full year.\nFor full year 2021, we also see adjusted EBITDA in the range of $26.5 million to $28 million with an adjusted EBITDA margin of approximately 17% to 18%. We expect that our full year effective tax rate will be approximately 55%, and this is due to the discrete onetime tax items that were discussed in Q2. On a normalized basis going forward, we would anticipate that our effective tax rate would be approximately 30%, assuming no changes to current US federal tax laws or rates. And with that, I'll turn the call back over to Dushyant for a closing comment."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Thanks, Matt. We are performing really well and feel very good about where we are in the final few weeks of 2021 and for 2022 and beyond. Despite processing nearly $50 billion of processing volume in the past 12 months, I still think of it as a start-up company that truly understands the overall fintech landscape and the opportunities therein. I believe we already have all of the pieces needed to be successful and continue to deliver growth results now and in the future.\nWe are very excited about where we are headed because of five fundamental factors. No. 1, a team of industry leaders. No.\n2, a strong, loyal and growing customer base and therefore, a line of sight to revenues in outer years. No. 3, a great ecosystem, leading to more biller sales and consumer adoption. No.\n4, multiple vectors of monetization. And No. 5, a multitrillion-dollar addressable market in the US alone. With that, I would like to thank our 1,000-plus employees who helped make our clients successful every day.\nWe'll now open the line to questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator instructions] The first question is from the line of John Davis with Raymond James. Your line is now open."
+    },
+    {
+      "speaker": "John Davis",
+      "speech": "Hey, good afternoon, guys. I guess, first off, great to see the upside this quarter, not only in 3Q, but it looks like you're guiding to better-than-expected 4Q results. So maybe just Dushyant, quickly, what drove the upside, I think, are in most people's expectations in the third quarter, but also that could strengthen into 4Q as well."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "I think as Matt pointed out, some of the success we have had in processing more transactions than we anticipated from the billers we brought on live on our platform, as well as some tailwinds from our relationship with J.P. Morgan Chase as well. Matt, you want to add anything."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Yeah. I'd just say it's really the outcome of all the different things we've been talking about kind of throughout the year are really starting to come together. And we are seeing good positive trends on kind of all fronts, and it's really just the impact of all the things that we've been working on, implementations, volumes, as Dushyant said, getting more volume out of existing billers, getting implementations done sooner kind of all come together to contribute to strengthen the business, and we feel very good about it."
+    },
+    {
+      "speaker": "John Davis",
+      "speech": "OK. And then, just as a quick follow-up. Maybe I want to hit on two key partnerships. You guys now have one of ones which is Miller and J.P.\nMorgan, you alluded to that this quarter. But as we think about that bigger picture, how important and impactful do you think that is to revenue growth, not just this year, but in the outyears? And then maybe also an update on kind of the PayPal rollout and where you guys stand there. Thanks, guys."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "On JPM relationship, first of all, IPN is one of the largest banks, if not the largest bank in the world and for us to be selected as a preferred provider by J.P. Morgan Chase to take our platform and the ecosystem to their largest commercial and corporate clients is something that we are very proud of. Long-term, I think this is a very exciting opportunity. We believe that the combined resources of a premium bank like J.P.\nMorgan Chase and a premium platform like Paymentus would be hugely successful in the market. So we are very, very excited about it, and so is our partners in J.P. Morgan Chase. In terms of PayPal, I think the rollout of the application has gone really well.\nWe are seeing tremendous growth in our IPN overall that includes PayPal, as well as one of the apps."
+    },
+    {
+      "speaker": "John Davis",
+      "speech": "OK. And then, just lastly for me. Your shot on J.P. Morgan specifically, was that a relationship that you guys had kind of expected that was kind of on the come, go through the IPO process? Or is that something that's kind of a net new incremental to four estimates?"
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "I think, Matt, you want to take the..."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Yeah. So, we've had a relationship with J.P. Morgan for a while as we talked about it during the IPO process. I think it was in our roadshow slides as a partner.\nBut it was really just a reseller type relationship where opportunistically, they would resell alongside us to certain clients. The announcement that they made a few weeks ago, obviously, with us was kind of a broadening of that relationship and making us a more preferred provider and included them transitioning some of their existing clients to us as well. So, it was really them \u2013 and I don't want to put words in their mouth. Obviously, we don't speak for J.P.\nMorgan, but I think it was really them putting their weight behind the payment of J.P. Morgan partnership in a much bigger way than we were kind of pre going public. We were partners with them, but it was something that I think they saw and we saw early benefits from that reseller relationship and decided that it made sense to take it even further."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "And I may add one more thing to that. I mean, more importantly, the customers also saw the benefit from it, and we have seen that in the type of success we are having in the marketplace right now."
+    },
+    {
+      "speaker": "John Davis",
+      "speech": "OK. Great. Thanks for all the color, guys."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Yeah. Thanks, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question is from the line of Ashwin Shirvaikar with Citi. Please proceed."
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Hi, Ashwin."
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "speech": "Hi. How are you? Congratulations to you all on the good quarter. I wanted to ask about the recent announcement you had, which is the launch of Bill Center by Payveris. So, first of all, I was pleasantly surprised to see it's already integrated with IPN.\nIs this a typical integration process like just less than three months? And what exactly does it mean integrated? Does it now mean that all of the bank clients of Payveris that you've got and their customers can pay bills? Or is there a further step that's needed to bring customers on?"
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Actually, thank you for the question. So Bill Center, we are very excited about the launch. And frankly, we received tremendous feedback not only from the existing and prospective clients, but also the industry analysts, they all felt that there is a need in the market to bring back into the ecosystem where they have been left behind in some ways based on the legacy solutions that exist. And there's a need in the market where a biller ecosystem can be brought closer to the banks again.\nAnd that's the pursuit we have and that's what IPN provides. In terms of Bill Center and Payveris integration with Paymentus. As you recall, we had a partnership with Payveris prior to the acquisition. So we were already \u2013 the reason for our move to do a closer tie up with Payveris in terms of an acquisition was based on the amount of success we were seeing through the integration process as to the number of opportunities that lie ahead for us by this.\nIn terms of getting all of their customers on to Bill Center, I think there's a process we'd be going through. So Bill Center is basically the new model and a new user experience for all credit unions, financial institutions and banks. And we'll be rolling that out to all the existing Payveris clients in coming quarters."
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "speech": "Understood. Got it. Got it. Could you also comment on sort of the pipeline you've often talked about Horizon 1, 2, and so on, I'm particularly interested in the large biller pipeline.\nIf you can comment on that, is decision-making easing up? Are you seeing progress in the pipeline, if you can comment on that?"
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Absolutely. Yes, we are. Actually, on a dollar basis this year is one of our best years, such as last year. And last year was better than the year before.\nSo, we are seeing that. What we are also observing is that all the things we are putting in place for years leading up to this moment are coming together. For example, a platform that provides one integration point to a billing company, while at an enterprise level, giving them a full suite of services that includes all channels, as well as access to all apps across our IPN ecosystem, it gives a huge benefit. And as a result, billing companies are more \u2013 including some of the largest in the country, are willing to take a look at our platform and in many cases, are moving their legacy systems, as well as whether they are legacy third-party providers or their in-house solutions because of the reach Paymentus is able to provide now.\nAnd frankly, if you take that and combine that with a partnership like we have with J.P. Morgan Chase, it further accelerates that for us, where we are not able to go to a client regardless of their size, maybe some of the largest ones in the country where we are able to say we can modernize your entire receivable value chain using the asset J.P. Morgan Chase has, as well as Paymentus. And that itself is driving \u2013 combine that with the ecosystem we have built on the IPN side and the reach we provide, it is acting as a catalyst."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "The only thing I would just add to that as it relates to JPM partnership. I think it's something we talked about in the kind of pre-IPO discussions was a big part of the battle for us is just getting in of those large clients. And necessarily at our size and scale, we do a very good job, but we can only have so much reach with the size and scale that we have, and that's one of the other big benefits of, say, a partnership like J.P. Morgan is, it gets us in front of opportunities that we, for whatever reason, may not have had otherwise.\nAnd so, it gets us more of that, if you will. And our track record once we get at that sure is pretty strong."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "And just a quick comment on that, we are seeing tremendous success in the domestic markets, but also J.P. Morgan's international areas as well. So very proud of that."
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "speech": "That's great. That's good. Looking forward to a conversation next week as well. Thank you."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Thanks, Ashwin."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question is from the line of Darrin Peller with Wolfe Research. Your line is now open."
+    },
+    {
+      "speaker": "Andrew Estes",
+      "speech": "Hey. It's Andrew on for Darrin. Thanks for taking the question. I'm just curious, how many did higher fuel prices or a cold winter layer into the contribution profit this quarter and possibly in the next quarter, just given you monetize bills on a per transaction basis but have to pay out the as the interchange and the utility sector is a pretty good amount of your transaction exposure."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Yeah. Thanks, Andrew, it's Matt. I appreciate the question. Interestingly, we've typically seen \u2013 you may remember, Q3 and Q1 has been the lower point on contribution profit in the annual cycle and Q2 and Q4 have been higher for the reason you just mentioned.\nBecause typically, in Q3 and Q1, you see higher utility bills coming out of the summer or the winter. This year, in Q3, as I mentioned in the prepared remarks, our average bill amount or average payment amount made on our platform was actually down from Q3 of last year. So that we did get a benefit to contribution profit in Q3 of 2021 from the fact that that average bill amount was down because that means the interchange, we pay associated with those bills is lower than it would have been, say, last year in Q3. I think we haven't seen anything yet that would indicate to us a material changes in that.\nThat's kind of our thinking around it's already built into our guidance for the full year as we gave earlier. And if we see any change, we'll obviously communicate appropriately. But as of right now, I think our belief is that we'll continue to see similar trends to what we've seen in the past. And the only other thing I'd add to that is every day that passes, as we add more and more clients, we are less and less impacted by the kind of swings you see in utilities because we're focused on, as Dushyant mentioned, six verticals.\nAnd so, it's not nearly as impactful now as it would have been a couple of years ago because our client base is much more diversified beyond just utilities."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Exactly."
+    },
+    {
+      "speaker": "Andrew Estes",
+      "speech": "Helpful. Thank you, Matt."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Sure. Appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question is from the line of Dave Koning with Baird. Your line is now open."
+    },
+    {
+      "speaker": "Dave Koning",
+      "speech": "Yeah. Hey, guys. Thanks, and maybe a follow-up on the last question, just about how your \u2013 it looked like your network fees per transaction actually went down and what always is a seasonally high quarter. Is any of that and maybe as we look into the future, is that affected by the new revenue streams that have come on now, the ramping IPN, J.P.\nMorgan, Payveris, etc., does that change the makeup in kind of network fees per transaction or other things that hit the profit yield line?"
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "It does. For sure. It's a great question, and absolutely. And there's a variety of things going there.\nAll the things you mentioned, plus if you remember, one of the things we've talked about is IPN, in particular, some of the IP transactions will be on a more of a contribution profit basis. Our revenue will not have interchange in it, and the interchange will be settled by the other party or another party as opposed to us. And so, we expect, on a per transaction basis, that will continue on going forward as IPN makes up more of the mix. The other thing in Dushyant can talk more about this is, we definitely started focusing more on driving a better contribution profit profile, if you will.\nWe thought before about how we want to get share. And our goal is to take as much share as possible. And you can see evidence that we're continuing to do that through our 45% transaction or 44.9% to be precise, transaction growth during the quarter. But we're also focused as well on making sure we do the right things as far as the interchange goes.\nAnd Dushyant, do you want to add a few more comments on that?"
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Yeah. From our perspective, if you're looking at our business, the way we think about it is let's add as much volume as we can of a number of transactions from as many sources as we can, while on the back end of it, applying the monetization strategies to increase our contribution margin. So that's our philosophy operating philosophy right now. So the goal is to keep signing as many billers and as many different transactions onboarded on our platform.\nWhile in the back, obviously, we are very focused on making sure that our take rate continues to go up as we go forward. So you will start to see more and more of those as it becomes a little bit more evident in late for the next few quarters."
+    },
+    {
+      "speaker": "Dave Koning",
+      "speech": "Got you. Got you. And maybe to follow up, a sort of related question. Your transactions are growing kind of off the charts 45%.\nBut your costs have also been ramping, and I'm sure it's kind of somewhat in proportion that your costs are ramping to support that big growth. Is there a point at which the costs start to get leveraged more? Like how do we think about the timing when the cost growth starts to level off a little bit, but I would imagine you're going to have really good transaction growth continuing. How do you balance all that?"
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "And would just clarify, when you say costs, you're talking mainly about..."
+    },
+    {
+      "speaker": "Dave Koning",
+      "speech": "Yes, operating expense."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Look, I was just going to say, actually, literally, what I was just trying to explain was that the transaction growth is representative of our business, and you will continue to see that as we go forward here. What we are trying to do is, frankly, we have a pretty good understanding of how we can monetize these transactions better as we go forward. Once a given billing ecosystem is running on our platform, we understand exactly what the payment preferences are for the customers, why they're paying, how they're paying. We are always looking at ways to make it easier for the consumers by offering different payment options and choices, which are good for our clients, building companies, as well as for the customers, but also they're good for payments.\nAnd by that, I mean that our contribution profit will start to match closer to some of the profusion grow potential."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Yeah. And I just would add on the operating expenses. There's a lot of leverage in this business. And I think we've shown that historically with the EBITDA margins we delivered over the last couple of years.\nThere's a lot of cost to be in a public company. We've talked about that. But I think we're seeing a meaningful acceleration in our growth rates now in Q3 and based on our forecast or guidance for the full year, we're seeing a pretty meaningful acceleration. And so, we're going to continue to be thoughtful about how we allocate our capital and where we spend money.\nBut if we see opportunities and can create differentiation through innovation, etc., we're going to continue to pursue those as long as we believe that they are contributing to the continued kind of acceleration of the top line growth rate. And I think given our kind of profitability profile, what it is now and in particular, what it's historically been, we've got a pretty good understanding of those levers. And as long as we think that we can drive acceleration, we'll continue to invest, but do it quite thoughtfully. And at some point in the future when that growth starts to slow, hopefully, way, way out in the future.\nWe've shown that we can dial up the leverage and create profitability, and we'll do that when the time is right."
+    },
+    {
+      "speaker": "Dave Koning",
+      "speech": "Yeah, it sounds great. Good job."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "All right. Thanks, Dave."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The last question is from Tien-Tsin Huang with J.P. Morgan. Your line is now open."
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "speech": "Great."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Hi, Tien-Tsin."
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "speech": "Great results. Just quickly I want to ask about the large win. I think when is that supposed to cut over 400 bps sounds quite large. What is that converting from? And is that a challenging implementation? It sounds like you found a good year on implementations, but I just wanted to check."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "I think, as you rightly pointed out, it's a large enterprisewide deployment, and it could take us some time, probably we'll start to see second half of next year when it starts to go live. But just as we have been doing, our goal is to get companies live as quickly as we can, and we'll try the same thing here."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Hey, Tien-Tsin, it's Matt. Just to make sure it's clear that 4 bps is on revenue, not contribution profit. Just want to make sure that's clear. It's still a great deal and a big deal, but I didn't want there to be any confusion on that."
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "speech": "For sure. Thanks."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. There are no additional questions leading at this time. I will now turn the conference over to the presenters for any closing remarks."
+    },
+    {
+      "speaker": "Dushyant Sharma",
+      "speech": "Well, thank you so much. As you've seen, it's a great quarter. A lot of great things are happening at Paymentus, and we wish you all the very best, and stay safe."
+    },
+    {
+      "speaker": "Matt Parson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 38 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Paul Seamon--Vice President, Finance and Strategy",
+    "Dushyant Sharma--Founder and Chief Executive Officer",
+    "Matt Parson--Chief Financial Officer",
+    "John Davis--Raymond James -- Analyst",
+    "Ashwin Shirvaikar--Citi -- Analyst",
+    "Andrew Estes--Wolfe Research -- Analyst",
+    "Dave Koning--Baird -- Analyst",
+    "Tien-Tsin Huang--J.P. Morgan -- Analyst"
+  ]
+}

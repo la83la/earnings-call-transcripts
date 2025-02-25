@@ -1,0 +1,317 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and welcome to Dun & Bradstreet's first-quarter 2021 conference call. As a reminder, today's call is being recorded, and your participation implies consent to such recording. [Operator instructions] With that, I would like to turn the call over to Deb McCann, treasurer and senior vice president of investor relations. You may proceed."
+    },
+    {
+      "speaker": "Deb McCann",
+      "speech": "Thank you. Good morning, everyone, and thank you for joining us for Dun & Bradstreet's financial results conference call for the first quarter ending March 31, 2021. On the call today, we have Dun & Bradstreet's CEO, Anthony Jabbour; and CFO, Bryan Hipsher. Before we begin, allow me to provide a disclaimer regarding forward-looking statements.\nThis call, including the Q&A portion of the call, may include forward-looking statements related to the expected future results for our company and are therefore forward-looking statements. Our actual results may differ materially from our projections due to a number of risks and uncertainties. The risks and uncertainties that forward-looking statements are subject to are described in our earnings release and other SEC filings. Today's remarks will also include references to non-GAAP financial measures.\nAdditional information, including reconciliation between non-GAAP financial information to the GAAP financial information, is provided in the press release and supplemental slide presentation. This conference call will be available for replay via webcast through Dun & Bradstreet's Investor Relations website at investor.dnb.com. With that, I'll now turn the call over to Anthony."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Thank you, Deb. Good morning, everyone, and thank you for joining us for our first-quarter earnings call. We are off to a strong start as we continue with our transformation and the execution of our near-term and long-term objectives. We finished the first quarter with solid financial results and made significant progress with the integration of Bisnode.\nOverall, we are pleased with the start of the year as adjusted revenues for the quarter increased 29% and adjusted EBITDA increased 37%. Organic constant-currency revenues increased 1.3% as strength in international was partially offset by the final quarter of COVID-19 headwinds and Data.com in North America. Total company revenue retention was 96.3% and we now have approximately 48% of our business under multiyear contracts. The enhancements we have made to data quality and our underlying technology are resulting in positive feedback and deeper customer relationships, allowing us to have more productive conversations about cross-sell and price opportunities of both existing and new products.\nAs we reach the two-year anniversary of our cost savings program, we finished the quarter with $246 million of annualized run-rate cost savings. Despite COVID-19 delaying some of our planned cost savings initiatives, we exceeded our original target by 23%, which ultimately contributed to the expansion of adjusted EBITDA margins by over 800 basis points from when we took the company private. While this marks the completion of our formal cost savings program, we will continue to drive ongoing improvement in terms of operational efficiency through optimizing our geographic footprint, modernizing back-office technologies, and further integrating our solutions to reduce cost and complexity. It's important to note that the cost savings figure we just discussed is a net number, meaning that while we took a significant amount of cost out of the business, we also continue to invest a significant amount in the business, primarily by enhancing and expanding our data and technology assets.\nWhile much of the heavy lifting was completed in 2019 and 2020, our transformation is ongoing as we look to leverage the foundational enhancements we've made during that time to more rapidly and effectively deploy new and innovative solutions. Our key priorities for 2021 are to continue to grow our share of wallet with our strategic customers; approach and monetize the SMB space in new and innovative ways; launch new products domestically; localize new and existing products globally; and lastly, to integrate the Bisnode acquisition. Throughout the first quarter, our team has made great strides toward executing on these priorities, and I'll now share some highlights from the quarter before I turn the call over to Bryan for a more in-depth financial review. After that, we'll finish up by taking your questions.\nWe're pleased with the ongoing success we're having with our strategic clients as they renew near 100%, while continuing to expand their relationships with us. In North America, we signed an expanded multiyear renewal with the largest online retailer to support their third-party risk management strategy. As the client continues to expand and enhance their controls around their global supply chain, we are pleased to continue to support their growing needs. We also signed a multiyear renewal with one of the largest multinational retail corporations, expanding their use of data across their business.\nThe client leverages our third-party risk and compliance solutions to mitigate risk throughout their extremely large and complex supply chain, and we are glad to extend and broaden this relationship with such a key customer. We renewed business with another strategic client, a global property and casualty insurance firm who needed access to timely, high-quality data on their current client base to ensure proper underwriting methodologies, ongoing monitoring, as well as access to data for new customer acquisition. The result was a multiyear deal for both core risk and marketing solutions. In our international business, there's been significant focus on rearchitecting our go-to-market efforts to better capture the large global opportunity.\nIn the first quarter, we rolled out a Global 500 account program simultaneously with the close of Bisnode, prioritizing the most strategic accounts. I'm pleased with the early traction we are seeing from these efforts demonstrated by several wins in the first quarter. Our U.K. team is working with Generali, a Global 500 global insurance and asset management provider with a leading position in Europe and a growing presence in Asia and Latin America, to help them identify ways to improve consistency of screening across their global, corporate, and commercial businesses, as well as reduce risk.\nThe result is a multiyear deal for the integration of D&B Data by Direct+ and our third-party risk solution into their CRM and underwriting system to provide a flexible end-to-end solution that was fully compliant with the global requirements. Another Global 500 company, Linde Region Europe North, member of Linde PLC, is a leading global industrial gas and engineering company that wanted to improve their credit checks and risk monitoring of B2B customers in a more data-driven way. We are pleased they chose D&B Finance and Risk solutions, bringing us both new business and a multiyear deal. We are pleased with the momentum we have with our growing roster of clients and expanding existing client relationships worldwide, particularly with our strategic clients.\nOne segment that we continue to see immense opportunity in is the small and midsized business market. And as I mentioned in my opening remarks, this is the key priority for us in 2021. I'm excited to update you on the progress we have been making to enhance our SMB strategy through a mix of digital marketing and delivery efforts, as well as through innovative partnerships. After a difficult 2020, the SMB market is beginning to reemerge.\nAs existing small businesses begin to recover from the effects of COVID-19, we are also seeing a significant rise in the formation of new businesses, especially gig economy start-ups that would benefit significantly from our self-service finance, risk, and sales and marketing solutions, along with software and services offered from our partners. This was the driving purpose behind the first-quarter launch of our improved digital platform. This includes personalized small business resources and offerings for each dnb.com user, driven by the utilization of our visitor intelligence solution, as well as the D&B marketplace, which makes it easier for small businesses to identify and purchase D&B solutions and those from our partners. The marketplace has two primary sections: a product section called D&B Product Marketplace and a dataset section called the D&B Data Marketplace.\nThe D&B Product Marketplace includes a curated set of our solutions along with those of our partners that creates a combined set that allows a small business to operate in a much more sophisticated manner, much earlier in their stage of maturation. But we will continue to add new D&B solutions and partners in the coming quarters. We are mindful of keeping the number of partners limited as this is not a broad-based marketplace, but one that has preferred solutions that we believe will drive the best outcomes for our SMB customers. A few examples of solutions that are available in the marketplace today are funds manager integrated with Plaid, CreditSignal, Credit Monitor, Email IQ, Analytics Studio, Hoovers Essentials, and D&B Connect.\nWe also have partner offerings such as KPMG Spark, SAP Ariba with D&B Direct+ integration, and Amazon business access with special rates. Within the D&B Data Marketplace, users can buy a broad range of data sets from alternative data providers to help them identify opportunities and mitigate risks. These data sets are already curated and matched to a DUNS number to make it easy to append to a client's existing D&B data. Today, we have 22 partner datasets, including healthcare reference data from IQVIA and commercial fleet data from IHS Markit, and we're adding more partners monthly.\nUser feedback has been overwhelmingly positive around the power of the DUNS number and how it's the key to unlock the power of the data and it's something that meaningfully differentiates us competitively. The D&B customer portal, also launched in the first quarter, allows existing clients to log in and access their already purchased products through a single sign-on, unified digital experience. While inside the portal, we offer personalized offerings of our and our partner's solutions, which has already resulted in a 60% increase in cross-sells during the first quarter. And while we continue to grow our solution set within D&B, we're also expanding our reach outside of our core ecosystem.\nA great example of this is what we're doing with Bank of America. Bank of America became the first major financial institution to offer millions of small businesses the ability to get ongoing insights into their D&B business credit score directly through their Business Advantage 360 banking platform. This is exciting for D&B because it is driving net new paid subscriptions and increased engagement with our small business digital platform. We also partnered with Plaid to bring their network to our solutions.\nBy integrating Plaid capabilities to our digital platform, small businesses can securely permission access to their bank account information for authentication purposes. This gives them instant access to update their D&B business credit profile. In addition, small businesses can share their bank transaction details, enabling us to explore new ways to establish business credit outside of traditional payment data, which many smaller businesses may lack. We're really excited as this is the first of its kind in the business credit space.\nIn the first quarter, subscriptions to our freemium products were up 43% from the prior year. The investments into our small business and digital go-to-market strategy, products, and groundbreaking partnerships are clear evidence of our determination to make this segment a priority and deliver more innovative solutions to our small business clients. The third critical priority is launching new products and use cases. Yesterday, we announced D&B Rev.Up, a solution that simplifies and automates marketing and sales workflows by providing data, targeting, activation, and measurement in a single platform that easily integrates to a customer's existing martech or sales tech stacks through the use of open architecture integrations.\nClients can purchase the full breadth of D&B Rev.Up capabilities or even start with a specific channel and build up from there. We have also collaborated with Bambora and Folloze to further extend the insights and capabilities of the D&B Rev.Up offerings by adding best-in-class intent and personalized omnichannel experiences to help increase demand generation. In addition, we've entered into an accelerate partnership with a leading data-driven martech company in support of this platform. This is a game-changer in how we approach account-based marketing through the integration of our solution sets along with complementary partnerships.\nWe look forward to providing more updates on Rev.Up as it progresses, and it's just a great example of how we're thinking more holistically about serving clients through an integrated platform. This is the vision behind Rev.Up, as well as the late 2020 launches of D&B Finance Analytics, an integrated and powerful credit to cash platform; and D&B Risk Analytics, an integrated third-party risk, and compliance platform, both within our Finance and Risk business unit. In our international segment, we continue to focus on rolling out localized solutions across our growing territories. After 20 new product launches in 2020, we continued the momentum in the first quarter, introducing the Finance Analytics platform in the U.K., Data Vision in Greater China and India, and data blocks in three additional worldwide network partner markets.\nWe're also launching multiple new products in D&B Europe, which is a newly created region that describes our recently acquired Bisnode markets. Leveraging our solutions in these markets is a key pillar of our playbook, which we're starting to execute. Regarding the Bisnode transformation, we're leveraging the same playbook that led to the successful transformation of D&B these past two years, and we're off to a great start coming together as one D&B. In Q1, we completed the first phase of synergy actions immediately following close, principally, senior leadership rationalization.\nOverall, we have actioned approximately $12 million of annualized run-rate savings and continue to see significant efficiencies through the combination of our two companies. We also established a new European operating model and expect this to be fully implemented during Q2, delivering a more streamlined and integrated business with corresponding operational synergies consistent with our business model. We developed a robust product plan for D&B Europe to accelerate sales of our modern global product solutions and support the sundown of legacy Bisnode products. Several product launches are slated for the second half, including Finance Analytics, Risk Analytics, D&B Hoovers, and data blocks, to name a few.\nThe team is also accelerating rollouts of several solutions Bisnode had recently launched prior to the acquisition. Overall, we are really excited about the progress we are making and look to capitalize on the strong momentum we have built in our first quarter together. Overall, I'm pleased with our start to 2021, and I'm excited about the progress we continue to make in terms of increasing share of wallet with strategic clients, better serving SMBs in innovative ways, developing new products domestically, and localizing them internationally and integrating Bisnode. These, along with many other projects the teams are working on are laying the foundation for accelerated, sustainable growth throughout the remainder of 2021 and into 2022.\nWith that, I'll now turn the call over to Bryan to discuss our financial results and outlook for the remainder of 2021."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Thank you, Anthony, and good morning, everyone. Today, I will discuss our first-quarter 2021 results and our outlook for the remainder of the year. Turning to Slide 1. On a GAAP basis, first-quarter revenues were $505 million, an increase of 28% or 27% on a constant-currency basis compared to the prior-year quarter.\nThis includes the net impact of a lower purchase accounting deferred revenue adjustment of $17 million. Net loss for the first quarter on a GAAP basis was $25 million or a diluted loss per share of $0.06, compared to a net income of $42 million for the prior-year quarter. This was primarily driven by a change in fair value of the make-whole derivative liability in connection with the Series A preferred stock in the prior-year quarter and a higher tax benefit recognized in the prior-year period due to the Cares Act. This was partially offset by lower interest expense, preferred dividends in the prior-year period, improvement in operating income, largely due to lower net deferred revenue purchase accounting adjustments and the net impact of the Bisnode acquisition, partially offset by higher costs related to ongoing regulatory matters.\nTurning to Slide 2. I'll now discuss our adjusted results for the first quarter. First-quarter adjusted revenues for the total company were $509 million, an increase of 28.6% or 27.7% on a constant-currency basis. This year-over-year increase includes 22 percentage points from the Bisnode acquisition and 4.4 percentage points from the net impact of lower deferred revenue purchase accounting adjustments.\nRevenues on an organic constant-currency basis were up 1.3%, driven by growth in our International segment, partially offset by the final quarter of headwinds in North America from COVID-19 and the Data.com wind down. For reference, please see Slide 8 in the earnings presentation for an organic revenue growth walk. Excluding these headwinds, the underlying business grew approximately 3%. First-quarter adjusted EBITDA for the total company was $186 million an increase of $50 million or 37%.\nThis increase includes the net impact of lower deferred revenue purchase accounting adjustment, a 15-percentage-point impact on year-over-year growth. The remainder of the improvement is due to the net impact of the Bisnode acquisition, as well as increased revenues in international and lower net personnel expenses overall. First-quarter adjusted EBITDA margin was 36.5%. Excluding the impact of the deferred revenue adjustment and the net impact of Bisnode, EBITDA margin improved 220 basis points.\nFirst-quarter adjusted net income was $98 million or adjusted diluted earnings per share of $0.23, an increase from first quarter's 2020 adjusted net income of $50 million. Turning now to Slide 3. I'll now discuss the results for our two segments, north America and International. In North America, revenues for the first quarter were $339 million, an approximate 1% decrease from prior year.\nExcluding known headwinds, North America grew approximately 2%. In Finance and Risk, we continue to see strength in our government solutions and risk aversion as both private and public sector enterprises continue to need solutions to deal with a rapidly evolving global supplier landscape. The growth in these solutions was offset by approximately $3 million of lower revenues attributable to COVID-19 and $1 million of revenue elimination from the Bisnode transaction. For sales and marketing, we're excited to see double-digit growth in our digital solutions as customers continue to leverage more and more of our modern intent-enabled solutions.\nAnd while data sales also had another solid quarter, the overall growth in sales and marketing was partially offset by $5 million from the Data.com wind down. North America first-quarter adjusted EBITDA was $151 million, an increase of $7 million or 5% primarily due to lower operating costs resulting from ongoing cost management efforts. Adjusted EBITDA margin for North America was 44.5%, up 220 basis points versus prior year. Turning now to Slide 4.\nIn our international segment, first-quarter revenues increased 137% to $179 or 131% on a constant-currency basis, primarily driven by the net impact from the acquisition of Bisnode and strong growth in our sales and marketing solutions. Excluding the impact from Bisnode, International revenues increased approximately 9%. Finance and Risk revenues were $107 million, an increase of 83% or an increase of 78% on a constant-currency basis primarily due to the Bisnode acquisition. Excluding the net impact of Bisnode, revenue grew 7% with growth across all markets, including higher worldwide network cross-border sales and higher revenues in Greater China from our risk and compliance solutions and newly introduced API offerings.\nSales and marketing revenues were $63 million, an increase of 382% or an increase of 359% on a constant-currency basis, primarily attributable to the Bisnode acquisition. Excluding the net impact of Bisnode, revenue grew 18% due to new solution sales in our U.K. market and increased revenues from our worldwide network product loyalty. First-quarter international adjusted EBITDA of $52 million increased $28 million or 114% versus first-quarter 2020 primarily due to the net impact of Bisnode acquisition, as well as revenue growth across our international businesses, partially offset by higher net personnel costs.\nAdjusted EBITDA margin was 30.3% or 37.8%, excluding Bisnode, which is an increase of 430 basis points versus prior year. Turning now to Slide 5. I'll walk through our capital structure. At the end of March 31, 2021, we had cash and cash equivalents of $173 million, which when combined with full capacity of our $850 million revolving line of credit through 2025, represents total liquidity of approximately $1 billion.\nAs of March 31, 2021, total debt principal was $3,674 million, and our leverage ratio was 4.8% on a gross basis and 4.6% on a net basis. The credit facility senior secured net leverage ratio was 3.6%. And finally, on March 30, we executed $1 billion floating to fixed swaps at an all-in rate of 46.7 bps. These are three-year slots and bring our fixed floating debt ratio to approximately 50-50.\nTurning now to Slide 6. I'll now walk through our outlook for full-year 2021. Adjusted revenues are expected to remain in the range of $2,145 million to $2,175 million, an increase of approximately 23.5% to 25% compared to full-year 2020 adjusted revenues of $1,739 million. Revenues on an organic constant-currency basis, excluding the net impact of the lower deferred revenues, are expected to increase between 3% to 4.5%.\nAdjusted EBITDA is expected to be in the range of $840 million to $855 million, an increase of 18% to 20%. And adjusted EPS is expected to be in the range of $1.02 to $1.06. Additional modeling details underlying our outlook are as follows: We expect interest expense to be $200 million to $210 million; depreciation and amortization expense of approximately $90 million, excluding incremental depreciation and amortization expense resulting from purchase accounting; an adjusted effective tax rate of approximately 24%; weighted average shares outstanding of approximately $430 million; and finally, capex, we anticipate, of around $160 million, including $7 million due to a small asset acquisition we completed in the first quarter. Overall, we continue to see the year shaping up as previously discussed, with revenue growth accelerating throughout the year as we transition from the middle of the range in Q2 to the high end of the range in the fourth quarter.\nAnd finally, as previously discussed, we continue to expect adjusted EBITDA for the second and third quarter to be below the low end of the range due to timing of certain expenses in the fourth quarter to be above the high end of the range of our guide. Overall, we are pleased with the start of 2021 and look forward to continuing the strong momentum in our building both North America and international. With that, I'm now happy to open the call for your questions. Operator, will you please open up the line for Q&A?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator instructions] Thank you. Your first question here comes from Manav from Barclays. Please go ahead.\nYour line is now open."
+    },
+    {
+      "speaker": "Manav Patnaik",
+      "speech": "Thank you. Good morning. You know, it's good to see and hear a lot of the new products and partnerships that you have put out in releases and also mentioned on the earnings call. I was just wondering if you could just help us walk through kind of whether it's the sales cycle or the timing behind when these initiatives could really start adding into revenue growth here?"
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Sure, Manav. Thanks. There's a number of things as we look overall at the revenue bridge, and we've talked about them previously in terms of the effects of pricing cross-sell, upsell, etc. And certainly, as they are newer products, they'll come on more slowly versus ones that have been obviously launched sooner.\nBut we feel really good about the momentum that we're seeing in both of them already. As you can imagine, as we launch products, we're working with our advisory councils and getting feedback and piloting with clients as well in starting the process. But on the small business capabilities, the e-commerce capabilities, we're already starting to see some really exciting things happening there. Like we're seeing -- we talked on the last call about how we're simplifying our digital web front and having a narrow corridor for all of our clients and prospects to flow through.\nAnd we've seen the site visits up about 375% from Q1 of last year. We've seen sign-ups for our freemium products up 60%. Conversion rates, high. We've seen our gross sales from our e-commerce site already up this Q1 over last Q1, 120%.\nSo we're already starting to see signs of this taking traction and working."
+    },
+    {
+      "speaker": "Manav Patnaik",
+      "speech": "OK. Got it. And then with leverage at 4.6 times, can you just remind us on your pipeline and appetite? I mean, do we need to wait to delever before doing anything else meaningful?"
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Yeah. Manav, I'll maybe start with the leverage question and then kick it to Anthony in terms of thinking about capital allocation as we move forward. But what we're dealing with and why we ended up at 4.6 times net right now is because as we did the Bisnode transaction, if you remember, we did a mix of a little bit of stock and then some debt. The debt actually comes into the calculation immediately, but then we get the full annualized run rate of EBITDA from the Bisnode acquisition by the end of the year.\nSo we'll naturally delever back into the high 3s without doing anything different by Q4. But in the meantime, that was just some of the mathematics that go into it. You get, in essence, a quarter of the EBITDA but all of the debt in that first calculation. So, Anthony, maybe from a capital allocation perspective?"
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Yeah. What I'd say is obviously, consistently, we're going to invest, first and foremost, in organic product development. We talked about some of the things on the call this morning about what we're doing lately and excited about, the flywheel that we've got spinning here in terms of product innovation. So that's obviously where we're going to focus but more so on the M&A side.\nAnd where we go from a leverage perspective, I think it's probably fair to say that the more passion we have toward an acquisition, the more that we would stretch. So with certainty and excitement of some great asset out there that we've got tremendous confidence, we could do more with -- as part of Dun & Bradstreet, we'd stretch more. But like Bryan said, we're going to naturally delever through Bisnode by the end of the year, just steady course into the high 3s."
+    },
+    {
+      "speaker": "Manav Patnaik",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Hamzah from Jefferies. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "Hamzah Mazari",
+      "speech": "Yes. Hi. Good morning. My question is around organic growth.\nCould you maybe just rebase for us what is the new organic growth guidance? I guess you talked about a 3% number in Q1, but then there's a 1% number as well. And then your previous guide, I think, was three and changed to four and change. So there's a lot of numbers being thrown out there, I was just hoping if you could just -- what is the clean organic growth number in Q1? And then how does that build through the rest of the year in your guidance? And I realize some of the new product growth may come later."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Sure, Hamzah. If we look at it, the way we talked about in the first quarter, right, from a guidance perspective was we laid out the total guidance that included Bisnode. And then when you back out the net impact of Bisnode, it's that 3% to 4.5%, which excludes, right, also the impact of the deferred revenue adjustment. And so that's quite consistent and just, in essence, reiterating what we said in the first quarter.\nThe component in the first quarter of this year, where we have the last, in essence, quarter of headwinds from that perspective, is where we're roughly at, 1.3%. When you back out that impact of COVID and you back out the last kind of quarter of Data.com, you're talking about roughly 3% from that perspective. And that really is what the core engine is producing. And so as we move into the second quarter, third quarter, and fourth quarter, we'll be clean from that perspective without the headwinds adjusting for, right, like we did in the first quarter.\nAs Anthony has said, for the back of Manav's question, as we're selling these new products upfront, they're being sold primarily in a subscription-based model. And so as the sales are a leading indicator and Anthony mentioned some of the positive things we're saying, it's building up that revenue, right, that's then amortizing into the rest of the year. So organic, again, in that 3% to 4.5% range."
+    },
+    {
+      "speaker": "Hamzah Mazari",
+      "speech": "Got it. That's very helpful. I guess the second question, and I'll turn it over, is just are you seeing any changes in the competitive environment out there, new entrants or competitors also going for new use cases on certain products? And specifically around the SMB space, I know you mentioned that as a quick priority. Is the competitive set different than your other sort of verticals that you're tackling? Just give us a sense of the competitive dynamic there.\nThank you."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Sure, Hamzah. What I'd say is from a competitive dynamic perspective, we're gaining strength versus losing strength. So the amount of great work that our team has done on improving the quality of the data, the technology, the service of our clients, the innovation that we're bringing, I feel very much like we're the ones making ground here and have momentum on our side. So coming up with some of these very unique products, it's powerful.\nSo if you think on the small midsized business side, with the Bank of America announcement. So typically, you go to a consumer account and you could see your FICO score. Now, at BofA, you can see what your PAYDEX score is if you're a business logging on. So the brand is so strong with Dun & Bradstreet that it gives us the ability to really extend our ecosystem because of the power of that brand and the innovations that we're bringing.\nSo I feel very good and I feel very much like we're the aggressors for a change when it comes to new product innovation, how we're thinking about the market, how we're being aggressive with some of the capabilities that we have to really help enable our clients. So I'm actually very bullish on how we are positioned competitively."
+    },
+    {
+      "speaker": "Hamzah Mazari",
+      "speech": "That's great to hear. Thank you so much."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Kevin from Credit Suisse. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "speech": "Thanks so much. I guess for Anthony, any thoughts as to kind of the puts and takes of this recovery relative to GSE in terms of business positioning? And then just how are you thinking about stimulus? Because my sense was 2020, you didn't get a lot of benefit from it then, but how should we think about that going forward, particularly within the context of businesses reopening as the consumer starts to come back and maybe reconcile that to just how that's factored into the guidance?"
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Bryan, why don't you start with the guidance and then --"
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Sure. So, Kevin, one of the things that we had talked about as we thought about this year was that we knew really COVID started to impact some of the small business lending and some of those components, right, in the second quarter of last year. And so we're really lapping the final, I would say, three months of that in this first quarter. As we think about the remainder of the year, right now, we're thinking about it from -- it's no longer a headwind but not necessarily a tailwind.\nNow, as businesses reopen and small businesses start to form and start to grow, I mean, certainly, we're thinking about that and how we're going to market with a lot of the SMB strategy that Anthony talked about in his prepared remarks."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Yes. And more specifically on the GSE as updated on the call, for Q4. We signed a nice renewal with the GSE with two add-on terms as well. So we're really pleased with the great work that our team is doing in the government space with the GSE and with the other government agencies.\nAnd they're all interconnected in many ways."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "speech": "Great. And then just a quick follow-up. It seems like the core margins in International, really, really strong, and obviously U.S. up as well, but International outpacing.\nIs there anything to call out there, whether it's investment, incremental investment, or just the better relative revenue growth? Anything in terms of just the margin trajectory of each one in the quarter?"
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Yeah. So, Kevin, if you look at international, and we had talked about, certainly, with core revenue growth in that 9%, the contribution margins are strong from that perspective. And you saw that flow through to their increased EBITDA margins on a year-over-year basis. North America, right, which already had very strong margins.\nI mean, Anthony mentioned, we ended up at $246 million. I think, by the end of this year, we're talking somewhere around like $300 million of increased EBITDA from where we started just, call it, two, two and a half years ago, right? So from that side, I think, again, as the business continues to grow, we will continue to see contribution margins expand from that perspective."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "speech": "Awesome. Thank you."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Jeff from BMO Capital Markets. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "Jeff Silber",
+      "speech": "Thank you so much. I'm wondering if you can give us any color between U.S. and international. I'm just curious if the vaccine rollout has had any impact.\nAre you seeing more customers coming to you in areas where we may have had a quicker vaccine rollout relative to slower? Thanks."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Sure, Jeff. What I'd say the biggest difference between International and North America, with International, obviously, we've had faster growth. It's what we had predicted, that it would grow faster when we implemented some of the changes that we had talked about previously. But over there, the headwinds subsided sooner than they did in North America.\nAnd like I mentioned, we launched 20 products last year and are continuing the momentum now. And it's really the relationship between the amounts of new capability launched in the market and the revenue growth is a bigger factor for us than the impacts of COVID and the rollouts of the vaccine. So I think the bigger difference that we see is really tied to product. And with North America, obviously, we're excited with getting toward the end of the headwinds in Data.com since it's lost a relatively large headwind in this quarter.\nAnd as Bryan said, we grow over the COVID impacts in Q2. So that, coupled with just seeing the flywheel starting to spin faster in North America, we had a couple, like I said, really exciting new product launches that we shared with our SMB space and Rev.Up, in addition to some of the new products that we launched at the end of last year. So we feel we're more, I'd say, directly in control of the growth than we're seeing in the, I'll say, the macro environment."
+    },
+    {
+      "speaker": "Jeff Silber",
+      "speech": "OK. Great. And a segue to that in terms of something that might be under direct control is pricing. I'm just wondering if you can talk about the pricing environment and your ability to raise prices in both your major markets.\nThanks."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Sure. Yeah. As we mentioned, there are a couple of facets to pricing. One was just a scientific analysis of it and where should we, shouldn't we to really create a fair exchange of cost for value that we provide.\nAnd the other was around multiyear contracts that we have in place in terms of having built in pricing escalators along the way. What I'll share with you is, we had talked -- I'm not sure if it was the last call or the one before, of looking at clients who are auto-renewing or having one-year renewals and raising the price. And from when we implemented the change, we saw a majority of our clients not having any change in price. And then after we affected the change, the majority, 70% of the contracts going up in price.\nSo what we're interpreting that to be is that our pricing strategies are working. We're being very thoughtful about them, and they're being accepted by the clients. And like we said before, we're not rushing into this headlong. We're being very thoughtful and deliberate.\nWe talked about just having over 1 point of growth this year coming from price and we feel we're on track for that."
+    },
+    {
+      "speaker": "Jeff Silber",
+      "speech": "OK. Fantastic. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Your next question comes from the line of George from Goldman Sachs. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "George Tong",
+      "speech": "Hi. Thanks. Good morning. It's George Tong.\nIn the quarter, organic constant-currency growth was 1.3%. Could you elaborate on the factors that caused organic growth to step back a bit from 1.5% in 4Q? And perhaps how you envision organic growth progressing over the remaining quarters of this year? In other words, would you expect 2Q organic growth to start off at the 3% or higher given those COVID invaded dot-com headwinds are over? And then should that growth move up into the right in each subsequent quarter?"
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Yeah. So, George, just on one point to, as we talked about and we put the bridge in the appendix of the investor slide presentation, we had another change in there, right, which was just a lag elimination. And so when we talked about being similar to Q4 at that 1.5%, they ended up on the same place. But whether it's 1.3% or 1.5%, it's right in that same range that we had in the fourth quarter.\nSo I won't call it a detail from that perspective. That being said, again, when we look at the step-through into the second quarter, third quarter, and beyond, and Anthony and I have talked about this, and he can elaborate, too, we look back to the succession of quarters that we've had, right, since we took the business over. And if you look at it, we started off with a minus 1.1, that went up to 8.5% to 6%, rise to 3%. And COVID hit along with the known headwinds, right, which kind of backed it down to minus three then minus one.\nAgain, now plus 1.5, call it, plus 1.3, right? We've been very consistent even in those quarters of 8.5% and 6% growth that the core engine, when you kind of remove the noise it's producing, in and around 3% from that perspective. And so as we're accelerating off of that kind of low single digits, that roughly 3% into more the mid-single digits by the end of the year, it's really the new products that are bridging on, the new pricing that's bridging on, right, that's bridging that gap of really, call it, 2 points of growth, right, from 3% to call it, 5-ish percent, versus going from kind of where spot is at 1.3% because, again, that COVID transitory, right, that's done. Data.com, right, that's literally at the tail end of that. So you start to get a clean trajectory.\nAnd so that's what really gives us confidence about the direction we're heading, not just for the remainder of this year but into next year."
+    },
+    {
+      "speaker": "George Tong",
+      "speech": "Got it. That's helpful. And then just a follow-up. You mentioned formally of completing your cost savings program at this point.\nCan you discuss where you see opportunity for additional cost takeout and where medium-term EBITDA margins can go from here?"
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Yeah, George. So if you look at it, one of the things Anthony mentioned was the flip side of COVID was certainly the impact on the employees, and that's been a different, I would say, situation throughout different countries, right? One of the places that we certainly see opportunity, and we've talked about it is geographic dispersion, right, from where we're doing different functions from. We already have presences in Ireland, we have some nice presences in the southern markets of Europe. Certainly, India is a place that we've leveraged from that perspective.\nAnd unfortunately, with the impact that they've seen, that's been an area where we've had to kind of, I would say, scale back in the short term, to make sure, one, that employee safety and well-being is first and foremost. And then second, as we do make that evolution, that there is that ability to recruit and ramp from that side. So there's still some, I think, right-shoring from that perspective. And then certainly, as we continue to automate functions in the back office, whether that's some of the things we're doing on the finance side, some of the things that we're doing on our operations side from a delivery perspective, those will continue to generate, I would say, ongoing efficiencies.\nBut I think to Anthony's comment is post two years, we originally had a $200 million target, we're at $246 million, right? It doesn't mean we'll stop. It just means that that big kind of chunky step function change in the recurring base, that work has been completed."
+    },
+    {
+      "speaker": "George Tong",
+      "speech": "Very helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Your next question comes from the line of Tom from Truist Securities. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "Tom Blakey",
+      "speech": "Hi, Anthony and Bryan. This is Tom Blakey from Truist. Can you hear me?"
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "I can, Tom. Yes. Thank you for joining."
+    },
+    {
+      "speaker": "Tom Blakey",
+      "speech": "OK. Great. Sorry, there was some silence there. On the -- couple of questions around sales and marketing.\nWas impressed with the organic growth internationally in 1Q. I was wondering if you could just maybe comment on any specifics there. Understanding, of course, this is off a small base. But more specifically, dovetailing that into wondering what the dynamics there are that could maybe spill over into North America and get that sales and marketing divisions growing, especially in the context of robust growth at some of the other sales and marketing service peers, and just that payment order here.\nThe second question would be about SMB initiatives, really exciting there. Any talk around ARPU or where ARPU could go? Same thing with margins. I know, again, that's a bit premature as well, but assuming you're repackaging existing data, this is all self-service and digital go-to-market. I'd be curious again about what the ultimate at-scale margins for that business could be.\nAgain, just kind of current frame where you think ARPU is and where it could go. That large opportunity set would be helpful. Thank you."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Sure, Tom. No, thanks for those questions. So International, what we're seeing on the sales and marketing side is really -- as well as what I mentioned previously, it's about the number of new products that we're launching in the market that's driving that growth. And so looking backwards to the U.S., it's the same domestically as we launch more product capability to see the revenue line growing as well.\nOn the SMB side, we're really not looking at ARPU at this stage right now and at that fine amount of detail. This is a bigger, broader initiative for us. And what we're looking at is can we move the industry in this direction? Can we drive the traffic? Can we drive the conversion rates? And we're really, I'd say, earlier stages of this versus being a little more scientific on what we expect the ARPU to be. What we'll do is we'll see it, we'll pivot, we'll react just like we do with our development.\nWe're very focused on it from that perspective. But we're pleased with what we're seeing right now in these major new product launches and excited what Rev.Up will bring here in the U.S. right now. And with our SMB, like I said, we're already starting to see some really positive signs from that.\nSo it will make its way to ARPU and more specifics. But we're focused on the big boulder right now and moving it and getting more detailed as we get more reaction from our clients in the market."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Yes. And from a margin perspective, I'll just tackle on, you said it's one of the really powerful things that we have is leveraging off of the data cloud, now leveraging through a more digital experience versus in complementing our inside sales approach, it's very, very high contribution margin. And so as these things come along, they'll be very accretive to what we're doing as an overall company from that perspective."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Yes. Maybe I'll add one more thing as well. With this SMB initiative, it's not that we're changing what we used to do and now it's only e-commerce. It's additive to what we had always done in terms of inside sales.\nAnd I'd say the month of March had the best sales month that we've seen since we've been here for the last couple of years. So really excited about the day-to-day and how that's progressing and excited about these new innovations and how they're coming to market and how we think they'll resonate with our clients."
+    },
+    {
+      "speaker": "Tom Blakey",
+      "speech": "Helpful. Thanks, guys."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Thank you, Tom."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Gary from Bank of America. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "Gary Bisbee",
+      "speech": "Hey, guys, good morning."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Good morning, Gary."
+    },
+    {
+      "speaker": "Gary Bisbee",
+      "speech": "First question. So obviously, there's a lot of focus as there should be on innovation, new products, even you mentioned things like more modern APIs driving more client interaction and interest. I guess as I think longer term, some of your information services competitors use the concept of a vitality index, what percent of revenue they think they can drive from offerings launched in the last couple of years. Is there anything like that? Any color you can give us on how you think over the medium term about all of the new initiatives you have on the product side and how they will contribute to growth of the business?"
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Yes. I've seen that as well, Gary, having something like a vitality score. And we're not measuring it that way right now, candidly. We've looked at our revenue bridge and where we're at and what are the layers of things for us to focus on to achieve the growth.\nAnd so I'd say that is, in a lot of ways, what we're doing. So when we talked about, say, finance analytics and risk analytics, in some ways, upgraded versions of previous capabilities that are built into some of those. They're just more holistic and integrated and solving a bigger and broader client problem or opportunity. So we're focusing on it by knowing what initiatives to go and what we have allocated to them.\nBut we aren't measuring it in the vitality score."
+    },
+    {
+      "speaker": "Gary Bisbee",
+      "speech": "OK. Fair enough. I guess you said -- just sticking on that point for a second. Bryan, earlier, you said basically the bridge from the 3% adjusted sort of trend growth now to higher at year-end is largely products and pricing.\nIs it safe to say that's really the key to delivering over the next couple of years to those medium-term targets you set as well?"
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Yes. I think, Gary, we continue to show the cross-sell and upsell of what we've had on the kind of the wagon, right? And that's got us to kind of in those low single digits. As we're accelerating, it will be the clear, continued acceleration, riding in growth on the international side, right, which, as Anthony mentioned, as we do introduce new products, right, even if it's existing products that's been localized, right, it's being taken, right, and it's being absorbed and it's being purchased from that perspective. The same thing here, right? So one is we've really made a lot of fundamental groundwork improvements in terms of data quality, data consistency, expanding, right, the data and technology.\nAnd so we're now in the position, as Anthony mentioned, where we are starting to have and take more price from that perspective. So as that layers in, certainly, that's a piece of that growth that's over and above where we are today. And then on the new product side, right? And so as we -- as the sales cycle rolls through and we ramp up the combination of things like the Analytics Studio, things like D&B Connect, what we're doing with more and more with Direct+ from an API perspective, now addressing the SMB side, really going after the sales and marketing side in a different way with Rev.Up, which I know Anthony and I are really excited about from that perspective. Those are the things that will take us from kind of that low single digits into the mid and then as we continue to press forward."
+    },
+    {
+      "speaker": "Gary Bisbee",
+      "speech": "And then just one follow-up. Obviously, the U.S. economy is looking a lot stronger. I know it's maybe a more mixed picture overseas.\nBut what are the prospects for the $20 million or so of transactional revenue that went away because of COVID coming back? I mean, if I look at NFIB small business confidence surveys, just business spending is picking up. Obviously, projected U.S. GDP growth is robust. What's the lever that brings that back? Is it businesses investing businesses? Is it really more lending so the banks need to be making business loans? What can we look for to see that come back? And what are the prospects for some of that coming back this year? I know that's not in your guidance.\nThank you."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Yes. That's right, Gary. So if you think about it, right, on the SMB side, clearly, the more business formation, the more businesses are active, the more businesses want to be suppliers to Walmart, etc., right? That's going to drive more and more traction, more and more volume, right, to the SMB marketplace, in the SMB customer portal, right? When you think about the larger customers and the strategics more from the usage side, which is more impacted, right, that's where when you talk about is business lending starting to pick back up, right? And is the business lending that's not being impacted by government programs like more PPP loans and things like that. And so as those kind of things get behind us and banks start to open up and do more, I would say, kind of \"normal lending\" from that perspective, those are the types of things that start to kick up more and more usage of our products."
+    },
+    {
+      "speaker": "Gary Bisbee",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Thanks, Gary."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Samir from Deutsche Bank."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "Hi, good morning. Thank you for taking my question. Something I wanted to get a bit more color on is the share of wallet. You mentioned the share of wallet is increasing.\nJust wanted to get a sense of where it is, especially in the enterprise customers and how high the number could go. Just to get some color on that, please."
+    },
+    {
+      "speaker": "Bryan Hipsher",
+      "speech": "Sure. I was going to start with maybe we're clearly north of, call it, 90% of the Fortune 500, right, which is the majority of our strategic customers from that perspective. When we start to look globally, that's certainly somewhere we used to talk about being in the 60% of the Global 500. When we did the Bisnode transaction, that actually brought us into direct contact, right, with another 50 of those Global 500 providers.\nAnd then as you heard on our last call, and we continue to make progress and expand, for instance, in Greater China with one of the top four banks there. And so when we talk about expanding share from that perspective, that's kind of the base we would talk about. I don't know, Anthony, if you have any additional color on that."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Yes. And I'd just say we're very strong. When you look at our relative strength, the larger the client, the stronger our position is with them and the more we can do with them. So we want to obviously help them in more ways and grow alongside them.\nAnd so if you look at the new Rev.Up product that we launched, it's starting with the enterprise accounts, right? We're calling it Rev.Up ABX for account-based experience and it's broader, more holistic. It's thoughtful in terms of how it enables our clients who are already using some tools like marketing automation or sales tools, etc., to integrate into Rev.Up or for us to integrate into their environment more so, but it's geared toward the larger enterprise clients in our first phase of Rev.Up. So it's really more just creating more capabilities that way where we can serve those clients, where we've got really trusted relationships. And we're doing more as well, right? It's early stages of looking at all the data we have and running analytics against it, such as ESG and what capabilities can we have.\nLook, we're early days, but we're really pleasantly surprised with the amount of information we have and the analytics we have, and the collaboration with our clients and our advisory boards of just general ways that we can help. And so as you can imagine, we're talking about these products that we're launching, but there's a lot more in the lab. There's a lot more, like I said, with this flywheel spinning where we're collaborating with clients. We've got a phenomenal client roster, right? We're collaborating with them.\nWe've got experts internally we're collaborating with. And really what we're doing is constantly looking at ways that we can help, right? Help them grow the revenue, help them improve their margin, help them stay compliant, which is what every business leader wants to do. So we're looking at ways we can drive new capabilities and increase our share of wallet in those accounts."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "Thanks. The second question I had is more along the technology lines. Is most of your data, is it hosted on-prem? Is it in public cloud? Who are the public cloud partners you're working with? Just to get an idea."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "What I'd say, in Q1, we reached about 80% cloud virtualization, combination, public and private, predominantly one cloud provider more than another, but -- which we obviously don't want to share at this stage. But more so -- and it's an architecture that we feel we're now within the strike zone of where we want it to be. So we are much lower on the cloud virtualization side, and we worked aggressively to get to this spot. Now we're, plus or minus, a few percent, 5% of where we ultimately want to be.\nBut it's putting us in a position now where we can do some other things. So we're moving more work to our other data centers or our physical ones in addition to the public cloud ones, able to close one of our data centers because of the shift of the workload. So we're starting to see the real benefits from cloud, which is, obviously, I know why you're asking the question. So hopefully, that gives you the color you're looking for, Samir."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "Got it. Thank you so much."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And there are no further questions. I will now turn the call back over to Anthony Jabbour for closing comments."
+    },
+    {
+      "speaker": "Anthony Jabbour",
+      "speech": "Thank you. As always, I'd like to thank my Dun & Bradstreet colleagues for their exceptional efforts and for our clients, for the strong relationships and trust. Thank you for joining us on our call today, and I hope you have a wonderful rest of your day. Take care."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 62 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Deb McCann--Treasurer and Senior Vice President of Investor Relations",
+    "Anthony Jabbour--Chief Executive Officer",
+    "Bryan Hipsher--Chief Financial Officer",
+    "Manav Patnaik--Barclays -- Analyst",
+    "Hamzah Mazari--Jefferies -- Analyst",
+    "Kevin McVeigh--Credit Suisse -- Analyst",
+    "Jeff Silber--BMO Capital Markets -- Analyst",
+    "George Tong--Goldman Sachs -- Analyst",
+    "Tom Blakey--Truist Securities -- Analyst",
+    "Gary Bisbee--Bank of America Merrill Lynch -- Analyst",
+    "Unknown speaker--Deutsche Bank -- Analyst"
+  ]
+}

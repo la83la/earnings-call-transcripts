@@ -1,0 +1,459 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. I would like to welcome everyone to Kennametal's First Quarter Fiscal 2021 Earnings Conference Call. [Operator Instructions]\nI would now like to turn the conference over to Kelly Boyer, Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Kelly Boyer",
+      "speech": "Thank you, Operator. Welcome everyone and thank you for joining us to review Kennametal's first quarter fiscal 2021 results. Yesterday evening we issued our earnings press release and posted our presentation slides on our website. We will be referring to that slide deck throughout today's call.\nI'm Kelly Boyer, Vice President of Investor Relations. Joining me on the call today are Chris Rossi, President and Chief Executive Officer and Damon Audia, Vice President and Chief Financial Officer. After Chris and Damon's prepared remarks, we will open the line for questions.\nAt this time, I would like to direct your attention to our forward-looking disclosure statement. Today's discussion contains comments that constitute forward-looking statements and as such involve a number of assumptions, risks and uncertainties that could cause the Company's actual results, performance or achievements to differ materially from those expressed in or implied by such statements. These risk factors and uncertainties are detailed in Kennametal's SEC filings.\nIn addition, we will be discussing non-GAAP financial measures on the call today. Reconciliations to GAAP financial measures that we believe are most directly comparable can be found at the back of the slide deck and on our Form 8-K on our website.\nAnd with that, I'll now turn the call over to Chris."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Thank you, Kelly. Good morning, everyone and thank you for joining us today. I'll start today's call with some general comments on the level of industrial activity we are currently seeing then briefly review the quarter, our strategic initiatives and expectations for Q2. Damon will then go over the quarterly financial results in more detail. And Finally, I'll make some summary comments before opening the call for questions.\nBeginning on Slide 2 in the presentation deck, sales this quarter outpaced the typical 10% seasonal Q4 to Q1 decline. Debt increasing sequentially by 6% of which 3% was due to FX. General engineering and transportation end-markets are showing the highest levels of recovery. As a reminder, those two end-markets total more than 60% of our sales.\nOn a year-over-year basis, organic sales declined by 21% on top of an 11% year-over-year decline in the prior year quarter. However, through disciplined execution on several fronts, we were able to effectively maintain profitability. Adjusted EBITDA margin improved by 40 basis points to 11.3% versus 10.9% in the prior year quarter. And our operating leverage was strong as well, while[Phonetic] continued double-digit declines in volume and associated under-absorption. Improved EBITDA margin was driven by lower raw material costs, increasing from simplification, modernization and effective cost control action. Operating expense as a percentage of sales increased 23% due to lower sales. However, in total dollar terms decreased 18% year-over-year.\nOur target for operating expense remains at 20%. Adjusted EPS was $0.03 compared to $0.17 in the prior year quarter, reflecting the factors I just named as well as a higher adjusted effective tax rate. Looking ahead, of course, visibility in this environment is still limited due to COVID-19. So it remains extremely difficult to forecast how our customers as well as our end-markets will be affected, especially with additional shutdowns being contemplated in some regions due to recent spikes and COVID-19 cases.\nWe will not be providing a full-year outlook for fiscal year '21, however, I would like to provide some color on what we might expect in the second quarter. Based on the monthly sales results in Q1, early indications from our October sales, assuming that there is no additional second wave of COVID-19 lockdowns in the quarter, we expect Q2 to see low to mid-single digit growth sequentially, which would be above our normal sequential growth pattern of 1% to 2%.\nWhile it feels like the economic recovery may be gaining momentum, as I said, it is still difficult to predict the pace and trajectory. So we continue to focus on the things we can control such as executing our operational excellence and commercial excellence strategies, and share and improve operating results throughout the economic cycle.\nOn the operational excellence side, simplification, modernization initiatives are on track to deliver approximately $80 million in benefits this year, increase of 67% over last year. That will bring the total cumulative savings from inception of the program to $180 million, which is within the original target we set in December 2017, despite much lower volumes than were envisioned at that time.\nAs a reminder, we expect to complete our original footprint rationalization activities with closure of the Johnson City, Tennessee plant, downsizing of the Essen, Germany plant by the end of this fiscal year. Also, the capital spending associated with the simplification modernization program is substantially complete. This will result in significantly lower capex levels going forward, including this fiscal year where total capex is expected to be reduced by approximately 50% to be $110 million and $130 million. In addition to our focus on these transformational operational excellence initiatives, we are equally focused on driving commercial excellence.\nTurning to Slide 3, as you recall, last quarter we announced the combination of our two metal cutting business segments, enabling us to direct our commercial resources, products and technical expertise more effectively toward capturing a larger share of wallet. In addition, we discussed our new brand strategy to reposition the Widia brand and portfolio to the multi-billion dollar fit-for-purpose application space within metal cutting, which we previously have not focused on.\nThis strategy opens a 40% increase in served market opportunity while offering better service, and tooling options to our customers. Progress on this initiative is tracking with our expectations and I'm pleased that we already have several wins with new customers and existing customers, including a recent win at a major machine tool builder to apply fit-for-purpose tooling as standard on new machines they sell.\nAlso, the reaction from our channel partners has been broadly positive, especially to be able to operate in the market with clear brand positioning, key to win share in the full-solution application space as well, with the share gain in a major machine tool builders manufacturing facility. And we are successfully leveraging one of our proven tooling solutions, developed for a wind turbine manufacturer in China to capture share of similar projects in India.\nAnd of course, we remain committed to product innovation to better serve customers and gain share. For example, during the quarter, in the full-solution application space within general engineering, we introduced two best-in-class products, HPX Solid Carbide Drill which delivers 2 to 3 times more productivity than competing products, KCFM 45 face milling cutter, which offers greater flexibility and a cost-effective user friendly solution for a broad range of CNC machines. Based on our continued ability to deliver products that are highly valued by customers and the positive reaction to our brand repositioning, we are even more confident in our ability to gain share and drive top line improvement. In addition, as you know, we are also focused on improving the bottom line.\nPlease turn to Slide 4. The last time, the company experienced a sales decline of this magnitude, it was during The Great Recession. Trailing 12-month sales is shown on the left and corresponding adjusted operating margin is shown on the right. The improvement in profitability compared to the earlier downturn, illustrating the benefits of simplification modernization, stronger cost control and remember of the present day numbers do not yet include the full run rate effect of the modernization activities we are currently undertaking. By executing our commercial excellence and operational excellence strategies we are positioning the company for improved performance throughout the economic cycle.\nWith that, I'll turn the call over to Damon, who will review the first quarter numbers in more detail."
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Thank you, Chris and good morning, everyone. We will begin on Slide 5 with the review of Q1 operating results, both on a reported and adjusted basis. Chris mentioned, demand trends improved off low levels throughout the quarter and outpaced the 10% sequential seasonal decline we normally experienced in Q1. For the quarter, sales declined 23% year-over-year. On organic basis, sales were down 21% year-over-year. Foreign currency in a business divestiture, each had a negative effect of 1% in the quarter. However, sales did increase 6% on a sequential basis, with approximately 3% attributed to foreign currency.\nAdjusted gross profit margin of 27% was down 50 basis points year-over-year. Year-over-year performance was primarily due to the effect of lower volumes and associated under-absorption, partially offset by the positive effect of the raw materials, which contributed approximately 650 basis points, incremental simplification/modernization benefits and temporary cost control actions.\nAdjusted operating expenses of $93 million were down $21 million or 18% year-over-year. Adjusted EBITDA margin was 11.3%, up 40 basis points from the previous-year quarter. Adjusted operating margin of 2.9% was down 180 basis points year-over-year. Adjusted effective tax rate in the quarter of 33.4% was higher year-over-year due to the combined effects of geographical mix and the continued effect of GILTI on the low level of U.S. taxable income.\nAlthough we expect our adjusted effective tax rate to remain elevated in the low to mid 30% range with these lower levels of earnings, we still expect our tax rate to be in the low to mid 20% range when we return to higher levels of profitability.\nWe reported a GAAP earnings per share loss of $0.26 versus earnings per share of $0.08 in the prior year period, reflecting the reduced volumes and higher tax rate, partially offset by raw materials, simplification/modernization benefits and temporary cost control actions. On an adjusted basis, EPS was $0.03 per share versus $0.17 in the prior year. The main drivers of our adjusted EPS performance are highlighted on the bridge on Slide 6. Effective operations this quarter amounted to negative $0.28, this compares positively to both the negative $0.60 in the prior year period and the negative $0.68 in Q4 of fiscal year 2020.\nThe largest factors contributing to the $0.28 was the effect of significantly lower volumes and associated under-absorption, partially offset by positive raw materials of $0.30 in strong cost control actions. Simplification/modernization benefits increased again this quarter totaling $0.20 on top of $0.07 in the prior year. This brings the total benefit since inception from simplification modernization to a $123 million.\nAs Chris mentioned, our expectations continue to be that simplification/modernization benefits will be approximately $0.80 for fiscal year 2021, driven by actions already taken or announced and bringing the total expected cumulative savings to $180 million by the end of fiscal year 2021. Incremental savings from our restructuring actions contributed to $17 million of the $22 million in simplification/modernization savings this quarter. Remember, restructuring is a subset of our simplification/modernization program.\nSlide 7 and 8 detailed the performance of our segments this quarter. Metal cutting sales in the first quarter declined 23% organically on top of an 11% decline in the prior year period. All regions posted year-over-year sales decreases, the largest decline in the Americas at negative 29% followed by EMEA at 24%, Asia Pacific posted the smallest year-over-year decline at 9%. Performance in Asia Pacific reflects more positive economic activity in the region with approximately 10% growth in China year-over-year, partially offsetting weakness in other countries such as India.\nFrom an end market perspective, although improving sequentially, we still experienced year-over-year declines in transportation of 21% and general engineering of 20%. Sales and aerospace experienced more significant declines, year-over-year and was also down sequentially driven by the COVID-19 associative effects on demand and the supply chain. Relatively speaking, energy was the best performing end market in metal cutting on a year-over-year basis with positive trends in wind and renewable energy. However, it is worth noting that the oil and gas portion of the energy end markets continues to be significantly challenged.\nAdjusted operating margin came in at 1% compared to 7.9% in the prior year quarter. The decrease was primarily driven by a decline in volume and mix, partially offset by incremental simplification/modernization benefits, temporary cost control actions and raw materials that contributed 230 basis points.\nTurning to Slide 8 for Infrastructure. Organic sales declined 18% on top of a decline of 11% in the prior year period. Other factors affecting infrastructure total sales were a divestiture of 4%, partially offset by a benefit from business days of 1%. Regionally, again the largest decline was in the Americas at 27% then EMEA at 9%, but this time followed by a 1% growth in Asia Pacific. By end market, the results were primarily driven by energy, which was down 31% year-over-year, reflecting the effect of the significant decline in the U.S. land only rig count.\nGeneral engineering was down 14%, earthworks was down 11%, reflecting a continued production decline in Appalachian coal. Adjusted operating margin of 6.5% was up 700 basis points year-over-year. This increase was mainly driven by favorable raw materials, which contributed 1,330 basis points, simplification/modernization benefits and temporary cost control actions partially offset by lower volumes and associated under-absorption.\nNow turning to Slide 9 to review our balance sheet and free operating cash flow. We need to remain conservative to ensure the company has ample liquidity to weather the current environment as well as continue to execute our strategy. Our current debt maturity profile is made up of two $300 million notes maturing in February of 2022 and June of 2028 as well as a U.S. $700 million revolver that matures in June of 2023.\nAt quarter end, we had combined cash and revolver availability of approximately $760 million and largely repaid the $500 million revolver draw from last quarter. During the quarter we also amended our credit agreement to improve our flexibility given the continued uncertainty in the economic recovery. At quarter end we were well within these financial covenants. Primary working capital decreased year-over-year to $623 million, but was up sequentially as the decrease in inventory was more than offset by an increase in accounts receivable and accounts payable.\nOn a percentage of sales basis primary working capital increased to 36.4%, a reflection of the continued decline in sales. Capital expenditures were $39 million, a decrease of approximately $33 million from prior year as expected. We continue to expect fiscal year '21 capital expenditures will be between $110 million to $130 million with the majority in the first half. Our first quarter free operating cash flow was negative $29 million that represents a year-over-year improvement of $15 million, largely reflecting the decline in capital expenditures. In addition, we paid the dividend of $17 million in the quarter. The full balance sheet can be found on Slide 14 in the appendix.\nBefore I turn the call back over to Chris, I want to spend a moment reviewing our fiscal year '21 EPS and free operating cash flow drivers, we laid out last quarter on Slide 10. As a reminder, this slide details how we expect key factors affecting EPS and free operating cash flow to play out during each half of fiscal year '21 on a year-over-year basis and our expectations have not significantly changed since last quarter. I've already mentioned our expectations for increasing benefits from simplification/modernization this year, resulting in a year-over-year tailwind in both the first and second half of the year.\nTemporary cost actions will continue to be a year-over-year tailwind in the second quarter, although less of a benefit than in the first quarter as we are increasing our customer visits and rolling back certain temporary cost control actions. Sequentially, the increase in cost in the second quarter will be in the range of $5 million to $10 million. This continuation of these actions will result in a second half year-over-year headwind as we discussed last quarter. The tungsten prices remaining in the $210[Phonetic] to $230[Phonetic] range, raw materials are expected to continue to be a tailwind in the second quarter, although at a reduced rate in neutral, for the second half on a year-over-year basis. Although, depreciation, amortization was flat year-over-year in the first quarter, we still expect it to be $10 million to $20 million higher for the full year, starting in the second quarter, as our new equipment comes online.\nIn terms of cash flow, as Chris and I already mentioned, capital spending will be significantly down this year, a tailwind in both the first and second half. Year-over-year cash restructuring will be higher in both halves as we execute the restructuring programs. In terms of working capital, we'll be dependent upon the timing of the market recovery with both accounts receivable and accounts payable likely use up cash in the year, offsetting planned inventory reductions.\nAs a reminder, our target for working capital remains 30%. Finally, as it relates to Q2, as Chris mentioned, we expect sales to be up, low to mid-single digit sequentially, despite fewer working days in Q2[Phonetic] versus Q1.\nAnd with that, I'll turn the call back over to Chris."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Thank you, Damon. Turning to Slide 11, let me take a few minutes to summarize. I'm pleased that we have continued to make significant progress on our initiatives. We are advancing commercial excellence, including a focus on fit-for-purpose customer applications, drive growth and market share gain. As demonstrated in the margin graphs earlier in the presentation, we've also made significant progress on operational excellence with our simplification/modernization program, including footprint rationalization.\nWe expect to be at target savings of $180 million for the program by the end of this fiscal year, despite much lower volumes. Timing of the completion of our simplification/modernization program as well as the renewed focus on commercial excellence will serve us well in a recovery. Strength[Phonetic] of our balance sheet and cash position will allow us to optimize capital allocation, while improving customer service and profitability even further, throughout the economic cycle. So I'm fully confident we will achieve our adjusted EBITDA profitability target of 24% to 26%, when markets recover such that sales reach the target sales range of 2.5 to [Technical Issues].\nWith that, operator, please open the line for question."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The first question today comes from Stephen Volkmann of Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Hey, good morning, guys. Thanks for taking the question. Guess if I could kick-off, Chris, you made a couple of comments around sort of the themes of the trend through the quarter and into October and I guess I'm just trying to understand, I mean, your sales are kind of at the low end, I guess, of what we would see across the industrial universe these days. I guess part of that's probably oil and gas related, maybe a little bit of mining, but can you just provide a little bit more color on the end market trends through the quarter and then specifically, do you think there is still destocking going on in your end markets? And kind of what's the outlook for that as we move forward. Thank you."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, Steve. I think if we look at Q1, sort of month-to-month sequential pattern, [Technical Issues] October also would suggest that we sort of see improvement in the markets that we talked about transportation, really across all regions is starting to is starting to recover or still well below the pre-COVID-19 levels. Knock-on effect with general engineering, again that seems to be across [Technical Issues] all regions. Aerospace, we thought that aerospace, may have bottomed out in Q4, but it actually looked like it got a little weaker across [Technical Issues] really across all regions. So [Technical Issues] it maybe settling at this low level right now, but that one we have to still wait and see. And as you said energy is -- energy was down [Technical Issues]. So I think as we look at if look at the quarter in total for [Technical Issues], we gave it as low to mid-single digits, this is kind of our best estimate of what equals the normal seasonal pattern and then these sort of positive trends that we've seen, things that give me a little pause and probably everybody is when you start to talk about COVID-19 cases increasing, for example in Europe, and maybe the government's will have to react. But I think, left to its own devices, we should continue to see some recovery sure of a government's stepping in and making some other kind of action, Steve."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Okay, thanks. And any commentary on inventory destocking, maybe in the distributor channel or anywhere else you might be seeing it?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, thanks for that follow-up. Yeah, I -- we think this destocking is leveled off, as of the end of Q1. With the exception of probably aerospace and oil and gas. In the Americas, I think the destocking is largely behind us. But we could see just a little bit more in Q2, but I think we're kind of at the low-end levels there. We do think that may be in Japan and Korea there could be some additional destocking happening there, but that's not a big part of our business anyway. And there's no question.."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "[Technical Issues] that the oil and gas customers are still paying very much attention to their inventory and [Technical Issues], accordingly. So, we could still see some destocking in [Technical Issues]."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "And would -- do you think it'll be outdone by year-end, calendar year-end?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "That's my sense, Steve. I suppose it [Technical Issues] but my sense right now, If I had to guess would be it should [Technical Issues] behind us by the end of calendar year-end."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Okay, thank you. I'll pass it on. Appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Julian Mitchell of Barclays. Please go ahead."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "speech": "Hi, good morning. Maybe just the first question around margins. So just looking sequentially, you had revenue up in metal cutting and flat in infrastructure, margins though, sequentially down in both. So maybe just help us understand -- and that's despite I think good execution on simplification/modernization. So is there something going on with the mix or some kind of sequential move saying the tungsten tailwind, I'm just trying to understand the drivers there, sequentially, on that margin step down?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "That's a good question and I think what I'd like Damon to do is kind of walk everyone through drivers, especially sequentially from Q [Technical Issues] a lot of moving pieces and if you miss one of them, you can drive it to wrong conclusions. But largely the margins and decrementals for that matter -- once we factor in what we think was going to happen on material and our temporary cost actions, than we're actually pretty happy with the decrementals and don't see [Technical Issues]. But, Damon, maybe you could walk them through the different elements of it [Technical Issues] have the [Technical Issues] from Q [Technical Issues]."
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "I think, Julian, the biggest driver that we tried to articulate in the last quarter call was the change in what we were seeing in the temporary cost actions and all of the cost control actions that were in place in the fiscal fourth quarter. And if you remember, as of fourth quarter, we did reverse a lot of our variable comp in the fourth quarter, given the effects that COVID-19 had on our profitability, and we were in a good position, I think going into the third and fourth quarter. And so what you saw there was a large reversal of variable comp, coupled with a lot of pretty much, no discretionary spending as travel was locked down as we were curtailing any cost that we could, and so as we moved into the first quarter that variable comp reversal, again, which was almost a full-year effect in the fourth quarter did not repeat. And when you look at those changes sequentially versus what we told you those temporary cost actions we're going to be in the range of say around $10 million to $15 million in this quarter and last quarter we told you that was in the range of $40 million to $45 million. So you're looking at about a $30 million headwind just because the timing of some of those temporary actions flowing through. And that's the big driver and as Chris said, when you back out the raw materials versus this quarter, the decrementals in this quarter align with what we would have expected."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "speech": "Thank you, Damon. That's very helpful. And as we are looking, I suppose, let's say, at the December quarter and the balance of the year, how sizable should that temporary cost reversal be for the next three months or nine months? I mean, I think you mentioned revenue up sequentially low mid-single-digit in December, do we assume margins moving up sequentially with that?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "So I think Julian, what we've said, we'll still have temporary cost actions in place here in the second quarter. So as again from a year-over-year perspective, those will still be a tailwind, but if we think about the sequential walk from Q1 to Q2, as we start to see our cust -- our salespeople visit customers more here as we start to roll back some of these temporary cost actions, we would expect that the sequential headwind in incremental costs would be in the range of $5 million to $10 million from what we saved or what we monetized here in the first quarter. And then as we move into the third quarter -- in the fourth quarter, what we've said is we would expect hopefully all of those things to be behind us and then you'll see some sort of, call it another sequential headwind from Q2 to Q3 in a similar range. And then again, if you look at that Q3 and Q4 year-over-year you are going to start to see some year-over-year challenges because as you remember, we started to institute some of these temporary cost actions in Q3. And then we had a very large portion of that in Q4, again, going back to the variable comp -- comment that I made earlier, and so, year-over-year, you're going to start to see those be a bigger headwind as we go -- as we look at it in the third and fourth quarter."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "speech": "Thanks. And just a follow-up Damon, on that. So when you're looking at the second quarter with the extra $5 million to $10 million headwind sequentially on cost, does that mean the margins are probably stable sequentially on operating basis?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Yes. Yeah, if you look at the high to -- low to mid-single digit revenue increase coupled with what we're saying for $5 million to $10 million of sequential increase cost, you're in the right ballpark."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "speech": "Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ann Duignan of J.P. Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Sean McMullen",
+      "speech": "Hi, thanks, this is Sean McMullen on for Ann. Can you discuss a little bit of how much the $80 million incremental simplification/modernization savings is volume-dependent? And is there a scope for higher saving if volumes continue to recover?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yes, Sean. I think the $80 million of what we said on the last call was that -- that's largely -- that particular restructuring actions [Technical Issues] simplification/modernization is largely structural, non volume-dependent. There is obviously a volume dependency associated with modernization in total, which is why we said since the inception of the program by the end of this year it will be at $180 million. There is a fair amount of that, that we'll actually do better on, because we're going to have higher volumes. As we drive higher volumes through these factories, you'll also see improvement. But in terms of your question of the $80 million, that's really structural and [Technical Issues] volume dependent."
+    },
+    {
+      "speaker": "Sean McMullen",
+      "speech": "Great, thanks. And my second question is related to aerospace. Have you seen any signs of improved demand with the 737 MAX expecting to return to service? And if not, when would you expect to see some improvement?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "In aerospace, as I mentioned when Steve was on the phone, we saw it actually decline slightly from Q4 to Q1. And as relates to the 737 MAX, what we're hearing from Boeing is that they're still running at low low levels of production on the 737 MAX, but they do expect to start to ramp up at the start of next calendar year [Technical Issues] sort of 31[Phonetic] per month, Right now, we're running lower than that. So that was based on the Boeing's earnings call, so I think that's probably the best information is that they should start ramping that up, they think, [Technical Issues] start of the calendar year."
+    },
+    {
+      "speaker": "Sean McMullen",
+      "speech": "Great, thanks for your time. I'll hop back in queue."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from again Adam Uhlman of Cleveland Research."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Hi guys, good morning."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Hey, just to start from a [Technical Issues] level perspective, what do you think that the best case scenario is for the company to, sort of, return to year-over-year organic sales growth? Do we have a shot at getting that in the March quarter or do we have to wait until the comparisons get really easy in the June quarter?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, that's hard to say. But clearly the comps get easier as we go through the year. So one of the reasons we didn't provide outlook is, I'd love to be able to have clarity around that question, but there is so much uncertainty, Adam, that I'm obviously reluctant to say something. But I think in general the comps do get easier, so we're certainly hopeful that if there continues to be this recovery then that is possible. But it's really difficult to predict exactly when that's going to happen."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Okay, understood. And then, [Technical Issues] I was hoping you could expand on your thoughts of the revamped commercial strategy and then could you maybe just talk about what's happening in the channel between Kennametal and Widia distributors? I believe some Kennametal distributors have the ability, may be in some areas to bring on the Widia brand but I didn't know if that works the other way around. If you could provide some more thoughts on that, that would be great. Thanks."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, generally the reaction from the channel partners has been positive. They especially like the fact that now there is clarity in the brand positioning. And if you think about the Widia distributors, really not very much has changed with them other than they are getting their product portfolio modified slightly in position and better in terms of price as we take cost out of the product to maintain margins. They're getting a product that they can actually sell, I think, more effectively than they had before. And then the Kennametal distribution channel will also benefit from access to the Widia product portfolio, which -- they're already -- many of these distributors are serving customers that actually need that fit-for-purpose tooling, but we haven't really set ourselves up to provide that tool and that's what we're doing now. So that's why I said in my opening comments that it's broadly been a very positive experience for the channel partners because they see this as an opportunity to bring the -- really the full capability of Kennametal's metal cutting prowess to their -- to their existing customers. So it's been a net-net positive for everyone. Adam..."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next..."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Go ahead, operator."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Joel Tiss of BMO Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Joel Tiss",
+      "speech": "Hey guys, how's it going?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Hi, Joel."
+    },
+    {
+      "speaker": "Joel Tiss",
+      "speech": "Any -- you still feeling disruption like operational -- some challenges internally or is this is more just all about kind of end market weakness?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, I think, well -- I think there is a couple of things going on. Clearly there's end market weakness, that's the biggest driver of the -- as Damon talked about the year-over-year financials. But we are still, as you know, Joel, we are still closing plants and even some of the restructuring and the plant closures we did last year we're ramping up the production in new facilities. So there still is some inefficiencies associated with that. I don't know, if I look at a year-over-year, I don't know if they're any more significant than they were in the first quarter of last year, but they still are in the the system. And as you know, those will -- once we stop those activities at the end of this year, those costs will go away. But they're still in the system right now, but I'm not sure if they're are any higher than they were in previous [Technical Issues]."
+    },
+    {
+      "speaker": "Joel Tiss",
+      "speech": "Okay. But still kind of like a transition year for this year, given all the uncertainty internally and externally for sure."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah. Exactly."
+    },
+    {
+      "speaker": "Joel Tiss",
+      "speech": "And..."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "That is the way to think of it."
+    },
+    {
+      "speaker": "Joel Tiss",
+      "speech": "And is there any way to gauge if you guys are gaining share and some maybe -- highlight some different areas where you might be like you feel a little more positive than what you were thinking, just in terms of that?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, I think as you know, share gain is the kind of thing you need to kind of measure it over multiple quarters. And as we look at what's happened to our volumes versus other companies, such as our competitors that are publicly traded or we have pretty good intelligence on, we all seem to be experiencing roughly the same, sort of, decline in end market demand. And then we also have -- internally we have the ability to track how much business we're doing with customers, we have a great, sort of, commercial excellence tools to really understand what the customers are buying, and so we can look at our customers, literally, individually and say -- and be confident that we're not actually losing any business. But we also know that we're adding business in areas that we never focused on. And I talked about a couple of examples, just in this fit-for-purpose segment where we had a major machine tool builder that we know we had a very low share of that and they've made a decision now to give us new business there. I've mentioned also in the energy, in particular, the renewable space, there's a lot of manufacturing that goes on with these wind turbines. It's directly attributable to OEMs but it also flows through general engineering in the form of bearings and these type of things and we know we're adding new customers, because of our solutions in those spaces.\nSo, I mean I think it's something we have to watch over time, but we feel like in the areas that we're focusing on because we have wins and we're sort of tracking them customer-by-customer that we, by definition, are picking up share."
+    },
+    {
+      "speaker": "Joel Tiss",
+      "speech": "That's great, thank you so much."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ross Gilardi of Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "Yeah, good morning guys."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Morning Ross."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "I was just wondering on the tax rate, can you just -- I realize it's tied to the low level of profitability but any more color on what's driving that 30% rate just geographically? And what level of revenue and profitability do you actually need to return to to get back to, to kind of, low to mid 20s?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Ross, it is -- the low level of profitability here in the U.S. is sort of triggering as you heard me on my opening remarks, the GILTI which is, I sort of refer to it that alternative minimum tax that we're dealing with here in the U.S., which is elevating the rate they are in -- it can exclude certain deductions that we get with some of our foreign income and so that's the big driver, I guess I would -- when you think about getting back into the low '20s.\nI think if you go back to when we started the fiscal year '20 and we thought that we would see revenues closer to that $1.9 plus billion dollars range, we were guiding\nYou to a tax rate in the low '20s. So again, I think without any -- without lack of clarity on geographic mix, or where things of that nature I would tell you that's probably where we got to get back up into. I do expect as we grow in profitability that rate will come down. It's not necessarily going to be linear, but we got to get back up into the where we were a year or two ago."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "Got it, thanks. And then my follow up, I guess for Chris. Chris, I think you've had some management changes, and I know Pete Dragich left, and I'm not sure if you had one or two other but could you just comment on that a little bit? I mean is that tied to the the reorg of the Metal Cutting division and just how do you sustain continuity with everything the Company has done over the last couple of years because obviously this has been a long journey that you're on and just wondering if the new folks are pivoting at all in a different direction? How you kind of manage that?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, it's a good question, Ross. The way I look at the leadership team is at any point in time do we have the talent sitting around the table, experiences to take us to the next level and you mentioned Pete, and he has done a terrific job of the company. He has -- everyone has to make personal decisions about their own situation, but one of the things that Pete made sure that we had a good hand-off with the person that is taking Pete's place and that particular person has a lot of experience about what I would call Industry 4.0 and basically it's leveraging the kind of investment that we've made in our simplification and modernization.\nAs you know, Ross, it's one thing to put the equipment in, but you got to -- to fully leverage that investment you've got to operate in a different way and scheduled your plans in a different way, connect with your customers in a different way. And also, I think train the talent in the factories and raise the game of everyone and the guy, Naeem Rahman that we've that to replace Pete has all of those experiences. And so we look, we look at him as being able to take us -- and very well-qualified to take us to the next -- the next level -- of performance. So we wish Pete well, and he has done a terrific job for us, but one of the things that is a mark of a good leader is he has left us with a situation where we've got a terrific leader just coming in right behind him."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Chris Dankert of Longbow Research. Please go ahead."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Hey, good morning everyone. Just head back to fit-for-purpose, you had some really nice wins there, Chris. I guess, thinking sequentially, going from the fourth quarter to the first quarter, was there any divergence between kind of growth in the fit-for-purpose versus kind of the more highly engineered portion of the portfolio? Anything that's worth calling out in terms of, hey, we're really seeing measurable traction yet, or it's still to too early days?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Well, I think it's still too early days, when you originally were asking the question I was trying to think what are customers more focused on, and clearly in the in the full solutions area that requires closer interactions with our engineers and customers starting to test tooling and those type of things and they are starting to ramp that up. So that activity had kind of slowed down during the pandemic. So that is ramping up.\nThe fit-for-purpose switch is a little -- and transition is maybe a little easier for customers. So it could be -- they could be going a little faster on that, but I'm not sure -- I think it's still too early to tell. So I wouldn't read too much into. I think they're both opportunities and as customers come back online and return to something that's more normal, as Damon said, that's one of the reasons why we're going to have some higher expenses as our people are now starting to interact with the customer's more -- are doing some more travel, so. Still ways away from what I would say -- what I would call is the new normal, if you will, but that's all positive activity that they are now running their factories and now getting on with the business of driving more productivity, whether be it fit-for-purpose or the full solutions."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "No -- that's a very fair. Very fair, thanks. I guess, kind of to that point-And kind of the return of some cost into the model here. With the internal sales force now kind of pushing the fit-for-purpose are we kind of through all the incremental cross training through any kind of incremental additional higher -- some of the -- I guess just how to some of these investment costs kind of run through the business as we move through this particular year?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, in terms of -- the good news about the fit for purpose is that one of those things that we just -- we weren't focused on, but it's not -- it doesn't require a different skill set or body of knowledge. Our salespeople and our technical people for sure already have that capability. Just a question of positioning the product portfolio in the right place. So we don't -- I don't see any major investment associated with [Technical Issues] making their transition to fit-for-purpose because we largely already have the product portfolio. We're doing some value analysis, value engineering to make sure that we can sell it at the right price point and still make the profit margins. We've got lots of opportunity to take cost out of the product as it turns but none of those things, including the training the sales force, are going to require a material investment, if you will."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Sorry, just to follow up on that, I guess that it includes kind of any additional commercialization changes that you guys are rolling out?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah. We have a -- we have a general or broad commercial excellence strategy where we are reassessing our channels, not just around fit-for-purpose but making sure that we have the proper coverage in whatever region that we're in. And so that work continues and we continue to advance our commercial excellence tools but those investments in those tools have already been made. We just -- we just get better using them every year. So I don't, I don't see any really substantial investment or changes along those lines. It's just more on the spirit of continuous improvement, and that's where we drive anyway."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from Steve Barger of KeyBanc Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Hey, good morning guys. Can we just go back to Slide 11, the primary EPS drivers -- if 2Q is going to look like 1Q plus or minus with a small revenue increase in similar margin and then I look at the challenges in the second half, it looks like EPS will be down versus FY '20. I just want to make sure I am I reading that slide right?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "FY 20?"
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Well, no, I'm saying -- you already talked earlier about 2Q saying it's going to be low to mid-single digit revenue growth, but I think you said the margin would be stable plus or minus with 1Q, right? So that means we can have a pretty good look at what the first half looks like and then I look at your second half, walk here with the -- on slide 11 and it just -- thinking about it, it makes me think that EPS is going to be down for the full year versus FY '20."
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Yeah, well, I guess the comment was going to depend upon what your view of the top line is, I think as we've said, we don't have a lot of visibility on where the revenues are. I think what we've tried to show you is where some of those cost actions or those year-over-year headwinds will affect the margin. You'll have to make a decision on where you think the revenues will be, as Chris have alluded to earlier, if we see the markets recover, the question -- one of the earlier questions about when we start to see organic growth, that will influence the profitability significantly and hopefully will more than offset these incremental year-over-year headwinds we would see in Q3 and heavily in Q4."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yeah. Any -- I mean, where do you think organic growth would have to come in, or what the sequential step up 2.5 from 1.5 would have to look like from a revenue standpoint to be able to show some year-over-year earnings growth?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "I guess, I'm not -- I can't do the math on the phone here, but again, if you think about our -- what we tell you guys is every million dollars of cost is the equivalent of around a penny, what we tell you we leverage at 40% on average, plus some fixed cost absorption, right now given the low levels of profitability, so you can, sort of, use that as a revenue proxy. And so we can -- if you want, we can back into that later on, but I don't think I want to tie up the call trying to do that math on the phone right now."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Sure. Fair enough. And with the $120 million of capex and $95 million of restructuring, which is mostly cash, this is going to be a pretty significant cash burn year, again, unless you have a really significant step up in revenue, which would affect operating cash flow. Is that fair?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Yeah, I think if we look at the things that we can control, what we've -- capex is significantly down year-over-year. We're in that $110 million to $130 million, range. We do have an elevated level of restructuring this year as we've pulled forward some of our commercial excellence and what we've said is that would be in $25 million to $35 million higher this year and then hopefully dropping off next year. Cash taxes are a little bit lower, but we're positioning ourselves, I think for strong cash flow generation, as this market recovers."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Got it and then I'll -- if I can just squeeze in one more, on the Infrastructure Slide number 9, just reading through that, the contribution from favorable raw material was by itself 1330 basis points, is that correct?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "So meaning margin would have been negative 6.8%, all else equal, before the other items on that line. I just want to make sure I understand the magnitude."
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Okay, thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Dillon Cumming of Morgan Stanley."
+    },
+    {
+      "speaker": "Dillon Cumming",
+      "speech": "Great. Good morning, guys. Thanks for the question. I just wanted to go back to Steve's, kind of, original question on the inventory levels. Chris, you talked about your sequential revenue guidance being kind of a bit above normal seasonality and it feels like some cap goods[Phonetic] companies in the channel. You've been talking about holding more production-related inventory, kind of, given all the uncertainty in the market and just general concerns on a strong supply chain. So I guess, is there any concern that you might have been seeing some revenue pulled forward, maybe do even some restock here, just kind of given all the case spikes?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "No, I don't think so, Dillon."
+    },
+    {
+      "speaker": "Dillon Cumming",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "It's more a decline and work down of inventories and caution in terms of the adding things back just."
+    },
+    {
+      "speaker": "Dillon Cumming",
+      "speech": "Okay, got it. Thanks for clearing that up. And then maybe switching over to wind, that's kind of been end-market, you've been calling out for a couple of quarters now. Some of your peers have been seeing more sustained strength there as well. Can you just, kind of, level set how big of the business that is for you today and to what extent growth there and kind of continue to offset some of the weakness in oil and gas?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, we're not going to give necessarily the size of the business, but I can tell you, you're absolutely right. It is growing. When we talk about energy, especially on metal cutting there is -- in U.S., the energy is mostly oil and gas related, but as it relates to China, energy -- that is largely driven by the renewable [Technical Issues] Also, we're seeing some good growth in India. So we have a -- I would say that we -- it's a market that we have been focusing on within the last few years. So we still have a fairly low share. So that the opportunity for us is to grow quite substantially."
+    },
+    {
+      "speaker": "Dillon Cumming",
+      "speech": "Got it, thanks. And then maybe just one last one, appreciate all the uncertainty, you kind of outlined around COVID and some of the recent case backs in Europe, but just wanted to make sure, to-date, have you seen anything tangible that way or kind of customer shutdowns in Europe, or what kind of government mandates that might impact your production over the coming quarter here?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "No, we haven't seen anything yet. We have our -- when we talk to our people in Germany, I'm not sure there is an -- just how much of an appetite there is there to shut things down. I think people are really trying not to do that, but it still is a possibility."
+    },
+    {
+      "speaker": "Dillon Cumming",
+      "speech": "Okay. Got it. Appreciate the time."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Steven Fisher of UBS. Please go ahead."
+    },
+    {
+      "speaker": "Steven Fisher",
+      "speech": "Great, thanks. Good morning. You basically addressed this previously for Q2 profitability with the revenues and then the margin commentary, but I just want to make sure I understand all the year-over-year moving pieces like you gave us last quarter. So if we start with the $24 million to $25 million of operating profit last year, it sounds like maybe there is a $5 million to $10 million year-over-year tailwind on -- or benefit from the temporary costs and then would we think about the simplification/modernization benefits year-over-year in the second quarter as say something like in the $40 million range? And then there is just the volume impact, which we would assume somewhere in that 40 plus percent leverage range, is that the way to think about the moving pieces, year-over-year? And are there any other things in there that I would have missed?"
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "So, Steve, I guess a couple of things, one is simplification/modernization last quarter was $22 million, I think for the full year, we said it's going to be around $80 million. So I think the -- it will change a little bit quarter-to-quarter as things rollover and new things come on, but I think you're probably more inclined to be in that sort of range of that $22 million give-or-take in the second quarter. So that would be different and the other thing, year-over-year is raw materials will still be a benefit year-over-year in the second quarter, not to the same order of magnitude of what we saw here in the first quarter, but in the -- call it mid $0.20 range, year-over-year, would be a positive year-over-year, coupled with the other comments you made on the temporary cost actions and then the volume. Did that help?"
+    },
+    {
+      "speaker": "Steven Fisher",
+      "speech": "Yeah. And the decremental in that kind of 40% to 45% range on the organic volume."
+    },
+    {
+      "speaker": "Damon Audia",
+      "speech": "Yeah, we don't -- I mean, we don't give specific decremental, but we try to give you the raw materials, we try to give you the temporary cost to allow you to sort of back that out, to figure out what you think they are, but we expect them to be in line with our normal decremental. And again, we expect them to be lower, given the raw materials versus given the raw material benefits we'll see in Q [Technical Issues]."
+    },
+    {
+      "speaker": "Steven Fisher",
+      "speech": "Okay and then given the -- some of the increased lock-downs we're seeing in Europe and some of the increased uncertainty around COVID, are you thinking at all about extending some of these temporary cost reductions at this point?"
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, we are basically [Technical Issues] the temporary cost control actions, sort of, on a quarter-by-quarter basis. The ones that we rolled back in [Technical Issues] about rolling back here at the end of Q2. We feel confident that, that's the right thing to do, all things considered for the business, but a lot of the other cost control actions are still in place, largely because of the reasons you said, there is still a lot of uncertainty out there and we need to, sort of, monitor this thing. So we're going to -- I guess the only thing I would say is that we are going to continue to look at the situation quarter-by-quarter, month-by-month, as we're doing today and will make the necessary adjustments to [Technical Issues], our liquidity and make sure that we're protecting our margins too, all things considered."
+    },
+    {
+      "speaker": "Steven Fisher",
+      "speech": "Just to clarify that, if the sales don't continue the improvement trajectory that you're seeing now, you would consider extending those temporary benefits."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Yeah, I think -- we've talked about rolling back, I was try to -- speaking of the $5 million to $10 million that Damon talked about in the roll back."
+    },
+    {
+      "speaker": "Steven Fisher",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Some of that is engaging with customers with travel and those types of things. So obviously, if volumes are not continuing to improve and customers are shutting us out then that, they're not going to travel, we'll tighten up those expenses. But some portion of that was also related to reinstating pay at normal levels and that roll-back is -- we're -- that's going to stay in place this fiscal year."
+    },
+    {
+      "speaker": "Steven Fisher",
+      "speech": "Okay, thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes the question-and-answer session. I would like to turn the conference back over to Chris Rossi for any closing remarks."
+    },
+    {
+      "speaker": "Christopher Rossi",
+      "speech": "Thank you, operator, and thanks to everyone for joining us on the call today. We certainly appreciate your interest and support. Before we sign off, I would like to mention that we recently posted our first-ever ESG report on our website. While we've been addressing ESG related items for many years, this is the first time that we've compiled a comprehensive summary outlining our progress and opportunities in this area. If you have any questions on that report or any follow-up questions on today's call, please don't hesitate to reach out to Kelly. Have a great day. Thank you, everyone."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing remarks]"
+    },
+    {
+      "speaker": "Duration: 60 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kelly Boyer--Vice President, Investor Relations",
+    "Christopher Rossi--President and Chief Executive Officer",
+    "Damon Audia--Vice President and Chief Financial Officer",
+    "Stephen Volkmann--Jefferies -- Analyst",
+    "Julian Mitchell--Barclays -- Analyst",
+    "Sean McMullen--J.P. Morgan -- Analyst",
+    "Adam Uhlman--Cleveland Research Company -- Analyst",
+    "Joel Tiss--BMO Capital Markets -- Analyst",
+    "Ross Gilardi--Bank of America -- Analyst",
+    "Chris Dankert--Longbow Research -- Analyst",
+    "Steve Barger--KeyBanc Capital Markets -- Analyst",
+    "Dillon Cumming--Morgan Stanley -- Analyst",
+    "Steven Fisher--UBS Group AG -- Analyst"
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to the Darden Fiscal Year 2020 Fourth Quarter Earnings Call. [Operator Instructions] I will now turn the call over to Mr. Kevin Kalicak. Thank you. You may begin. Thanks so much."
+    },
+    {
+      "speaker": "Kevin Kalicak",
+      "speech": "Thank you, James. Good morning, everyone, and thank you for participating on today's call. Joining me on the call today are Gene Lee, Darden's CEO; and Rick Cardenas, CFO.\nAs a reminder, comments made during this call will include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties that could cause actual results to differ materially from our expectations and projections. Those risks are described in the Company's press release, which was distributed this morning, and in its filings with the Securities and Exchange Commission.\nWe are simultaneously broadcasting a presentation during this call, which is posted in the Investor Relations section of our website at darden.com. Today's discussion and presentation include certain non-GAAP measurements, and reconciliations of these measurements are included in the presentation.\nWe plan to release fiscal 2021 first quarter earnings on September 24 before the market opens, followed by a conference call.\nNow, I will turn the call over to Gene."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Thank you, Kevin, and good morning, everyone. It has been 14 weeks since our last earnings call. I don't know about all of you, but it's felt more like 14 months. So much has happened. Over the past three months, our businesses -- our business changed in ways we never imagined. So, I want to spend my time with you this morning trying to put it all in perspective for you. Then Rick will share some of our fourth quarter and year-end results and provide our outlook for the first quarter.\nWhen I look back on all that has transpired, one thing that stands out is the resiliency of the full-service dining industry. Prior to the pandemic, total annual sales for the casual dining industry was approximately $108 billion. And while I do not know how long it will take the industry to recover from the significant impact it experienced, I am confident that this category will get back to the size it once was.\nOur industry plays a vital role in our communities, and that was evident in how the consumer relied on restaurants over the last several months, even in a To Go only environment. And while on-premise will continue to play an important role as we recover, we know that the consumer still wants to enjoy and in-restaurant experience. In fact, going out to a restaurant with friends and family is the number one activity consumers say they look forward to doing as the economy opens back up. And we've seen that as our dining rooms reopen across the country.\nAs this vital industry continues to rebuild, there's tremendous opportunity to increase market share through increased on-premise demand and incremental off-premise sales. Those executing at the highest level are going to continue to win, and Darden is well positioned to take advantage of the opportunity.\nWhen we last spoke in March, we knew the pandemic was going to have a significant impact on our business. Our ability to manage through this crisis has been driven by our commitment to prioritize guest and team member safety, invest in our team members, provide frequent and transparent communication, leverage our digital platform, and be brilliant with the basics.\nThe health and safety of our guest and team members has always been our top priority, and we have taken a number of steps to create a safe environment in our restaurants. From sourcing mask and other personal protective equipment for our team members, to developing a contactless curbside pickup process, our brands -- at our brands while dining rooms were closed. We are mindful of the trust our guest and team members place in us. Today, our health and safety commitments are focused on team member health checks, personal protective equipment, enhanced sanitation processes, social distancing and frequent hand-washing. We also provide paid sick leave for all our team members so they can stay at home if they are real [Phonetic]. But we can't do it alone, and that's why we encourage our guests to join the online wait list or make reservations, not enter our restaurants if they are symptomatic, wear a mask and utilize contactless or mobile payment options where available.\nWe continued to invest in our team members as our dining rooms closed. In addition to rolling out permanent paid sick leave, we introduced a three-week emergency pay program that provided nearly $75 million of pay during the fourth quarter for our hourly team members who could not work. When emergency pay ended, we covered insurance payments and benefit deductions for hourly team members who were furloughed. As we brought hourly team members back to work to support increased To Go volume, we introduced an additional payment to help cover unexpected costs such as transportation and child care incurred as a result of the pandemic. And to recognize the unbelievable work our managers did during the quarter, we paid their target bonus for the fourth quarter. We know our people are our greatest competitive advantage. Not only were these investments the right thing to do to take care of our team members, they've also created a deeper loyalty and strengthened engagement, while we've seen this pay off as we bring our people back to work.\nCommunication is the most important aspect of leadership during a crisis. We knew frequent and transparent communication with our team members and investors was important. Beyond daily meetings with all of our brand Presidents, who in turn met with their operational leaders on a daily basis, we have maintained a consistent communication cadence with our team members. Since this crisis began, I've provided regular business updates to our people and had been open and honest about the impacts to our business and consequently the impacts to them. We took the same approach with our shareholders and the analysts by providing four business updates during the quarter.\nThe pandemic accelerate the consumers' desire for convenience, and we saw a significant increase in digital engagement. The work we have done over the past few years, investing in our digital platform to reduce friction, prepared us to quickly adapt to consumer behavior and deliver on their expectations of convenience in a To Go only environment. During this time, we have strengthened our digital platform and made meaningful progress against our digital strategy. In addition to improving the guest experience across our digital channels, our strategy is focused on using technology to help our guest easily order outside and inside the restaurant, improve the wait to be seated, streamline the order pick-up process and speed up how they pay.\nWe've been building on our digital platform to support increased demand, and we certainly tested like never before. During the quarter, online ordering at Olive Garden grew by more than 300% over prior year and accounted for 58% of To Go sales. At LongHorn, online ordering grew by 400% and accounted for 49% of the gross sales. Additionally, we accelerated our timeline and rolled out online ordering at our brands that had not yet deployed it. We also added the ability to order alcohol online for all of our brands and markets where that was allowed.\nOur commitment to being brilliant with the basics allowed us to remain focused on operational execution, even as the environment forced us to radically change how we serve our guest. Each one of our brands did a phenomenal job delivering a new guest experience by collaborating and sharing best practices. This involved creating contactless curbside pickup that included designing what was essentially a drive-through in our parking lots. Flawless [Phonetic] execution in this environment meant enabling our guests to order and pay online and have our team members seamlessly place their sealed orders in their vehicles. Our operators displayed tremendous innovation, flexibility and passion as they continued to serve our guests.\nAnd to ensure we consistently executed at the highest level, we took the opportunity to streamline our menus and improve our processes and procedures. With these changes, we are seeing improvements in execution and direct labor productivity.\nSo, what have we learned from all this? We've learned a lot, but most importantly, this situation has reinforced that our strategy that we developed five years ago, grounded in our back to basics operating philosophy, leveraging our four competitive advantages and cultivating a portfolio of iconic brands, is still the right one today. Strong brands with loyal guests have fared better, and the trust we have earned from our guest is critical. Being brilliant with the basics by consistently delivering exceptional food, service and atmosphere is imperative. However, we know how important safety and cleanliness are to our guests right now, and we must continue to earn their trust every day.\nAnd throughout this unprecedented time, we have benefited greatly from our four competitive advantages: our significant scale, our extensive data and insights, our regular strategic planning, and our culture. Whether sourcing PPE for our team members, ensuring we're not impacted by supply chain issues or sharing best practices across eight brands, the ability to leverage our scale has allowed us to quickly react to constant change.\nFinally, as I said earlier, we know our people are our greatest competitive advantage, and I'm impressed by how our team members responded and continue to respond to take care of our guests and each other. Having a strong culture has been part of our DNA since we were founded. We were able to keep the majority of our managers employed, and we stay connected with our furloughed hourly team members. This allowed us to bring our people back quickly and get our dining rooms open safely without any delays. As you saw in our press release, 91% of our dining rooms have reopened with at least limited capacity. We have also brought 60,000 furloughed restaurant team members back to work, and we expect to bring at least another 40,000 back as business continues to improve.\nI'm incredibly proud that our culture has actually strengthened during this most difficult period in our company's history. This, above all else, is what gives me confidence in Darden's future.\nNow, I will turn it over to Rick."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Thank you, Gene, and good morning, everyone. Fiscal 2020 was on track for a solid year of performance, and the beginning of Q4 was no different. The first few weeks of sales were strong. And then, nearly overnight, the impact of COVID-19 required us to pivot toward a To Go only format. This posed unprecedented challenges for our restaurant and support center teams, and I am proud of how everyone moved quickly to increase To Go sales, reduce costs, manage working capital and improve efficiency.\nThe simplifications Gene referenced helped reduce key variable expenses in our restaurants, especially direct labor. The teams also worked to reduce or eliminate other fixed costs in our restaurants and restaurant support center, as well as eliminate non-essential capital spending. Given the significant reduction in cash flow, we also had to work quickly to ensure we had enough cash for whatever might occur. During the quarter, we suspended the dividend and share repurchases, fully drew down our $750 million credit facility, took out a $270 million term loan and raised over $500 million in a follow-on equity offering. All these efforts and the strong loyalty of our guests resulted in us tripling our prior To Go sales run rate averages and materially reducing our cash burn as we disclosed to you through our periodic business updates. Given the confidence in our cash flow trends and the ability to access it in the future, we fully repaid our credit facility in early May.\nNow turning to the results, the total sales were $1.3 billion, a decrease of 43%. Same restaurant sales decreased 47.7%, and adjusted diluted net loss per share was $1.24. Because of the significant reduction in total sales compared to last year, all of the expense lines experienced sales deleverage. So, I'll just touch on a few highlights.\nFirst, food and beverage costs were higher as a percent of sales, given menu mix related to both To Go mix and simplified menus, as well as increased packaging expense and elevated beef costs. As we look at the labor line, there was significant deleverage in management labor, including approximately $25 million in manager bonuses. However, we saw an improvement in hourly labor as a percent of sales of over 150 basis points, even with a substantial reduction in sales.\nRestaurant expenses per operating week decreased over 20%, given our focus on cost management, even as we incurred over $5 million in incremental cleaning supplies and PPE related to COVID-19. For marketing and G&A expense, we were able to reduce the absolute spend by $37 million and $17 million respectively versus last year. Included in our restaurant labor and to a small extent G&A is approximately $50 million of investments net of retention credits. This was related to emergency and furlough pay for our team members while they were not working. This negatively impacted our EPS by $0.30, which was not adjusted out of reported earnings.\nDuring the quarter, we impaired $390 million of assets as a result of lower sales, reduced profitability and lower market capitalization. The impairments related to $314 million of Cheddar's goodwill and trademark assets, $47 million of restaurant level assets and $29 million of other assets. We permanently closed 11 restaurants in the quarter, six of which were already impaired. The entire $300 million -- $390 million of impairment charges were adjusted out of our reported earnings.\nWe ended the quarter with $763 million in cash and another $750 million available in our credit facility. This gives us over $1.5 billion of liquidity available to weather the crisis and make appropriate investments to grow profitably. Our adjusted debt to adjusted capital at the end of the quarter was 61%, well within our debt covenant of 75%.\nAs we shifted to an off-premise only model, we took a disciplined approach to pursue sales opportunities with an eye toward incremental profitability and cash flow, by focusing on cost management and the guest experience, while ensuring our team members were taken care of. This approach resulted in a better finish to Q4 than anticipated and is the underpinning for the strength of our business model that is reflected in our first quarter financial outlook.\nNow, turning to fiscal 2021 performance, in today's release, we provided quarter-to-date same restaurant sales and the performance of our restaurants with dining rooms at least partially open. These results are encouraging. With last week's blended same restaurant sales down 30%, we are operating cash flow positive at these levels. Our To Go sales remain elevated in restaurants with dining rooms at least partially reopened. Olive Garden To Go sales are approximately double their pre-COVID averages and LongHorn has more than tripled their pre-COVID averages in these restaurants.\nWhile it is our normal practice to provide an annual financial outlook, due to the uncertainty in business performance moving forward, we are only providing an outlook for the first quarter. We expect to achieve approximately 70% of prior year sales levels, total EBITDA of at least $75 million and diluted net earnings per share of greater than or equal to zero on a diluted share base of 131 million shares. At this point, we don't intend to further share intra-quarter business updates since we have provided our first quarter outlook.\nFor the full year, we intend to open between 35 and 40 net new restaurants. Our first opening of the year is expected to be in early July with a few others likely to be opened by the end of the first quarter. In total, we expect between $250 million and $350 million of capital spending for fiscal '21.\nTurning to other aspects of capital allocation, as you recall, we suspended our dividend last quarter due to the level of cash flow uncertainty and the need to preserve as much cash as possible. We have been consistent in our commitment to returning cash to shareholders, and our dividend is a big part of that. As soon as we see the business begin to generate the sustainable cash flows to support a dividend and repay our term loan, we will have discussions with our Board on our dividend policy.\nAnd now, I will turn it back to Gene for some closing comments."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Thanks Rick. And as you've seen in our 8-K filing this morning, Dave George will be retiring on August 2. Dave will celebrate his 65th birthday later this year, and we've been discussing this transition for some time. Dave and I have been partners on this journey for 23 years. He was a joint venture partner for LongHorn when I joined [Indecipherable] in 1997.\nI still remember the first time I met him. We were going to visit his restaurants, so he picked me up at the airport in his Volvo with no air conditioning in the North Carolina heat. I knew at the end of the day that Dave was a special operator. I wasted no time. We bought out his interest in this joint venture and brought him into the Company. Over the last 23 years, Dave has been successful in every one of his leadership positions. He has led three of Darden's iconic brands: The Capital Grille, LongHorn Steakhouse and Olive Garden. And most recently, he served as our Chief Operating Officer. He built great teams and became a mentor to many operators and executives. His can-do approach and attitude permeates throughout Darden and each of our brands today.\nFor many of the last 23 years, Dave and I have had lunched together on Monday to discuss what happened in the previous week and talk about what needed to get done going forward. Not much has changed over those 23 years, except today, we order salads instead of two or three entrees each. And for the last five years, Dave has sat next to me during every earnings call, as he is today, helping me find the details I need to answer your questions. I'll miss seeing him when I walk into the room on these days.\nFor all the Darden team members listening today, our Annual Conference, which usually happens in August, would have been a great opportunity for everyone to see Dave, thank him and wish him well in person. Unfortunately, because of COVID-19, our conference has been postponed until next year. We will however be inviting Dave to our conference in 2021, and he has committed to come so we can celebrate all he has done for Darden and for many of you.\nIn closing, I want to say thank you to all our team members, those currently working and those who remain on furlough. And as I've said to you repeatedly, your ability to adapt, innovate and collaborate during this time has truly been inspiring. Thank you for your ongoing commitment to our guest and each other.\nAnd now, we'll open it up for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And your first question comes from the line of David Tarantino with Baird. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "David Tarantino",
+      "speech": "Hi, good morning. I first want to pass on my congratulations to Dave George on a very successful career and wish him the best as he retires. So, Gene, I guess my big picture question is related to what you think the environment could look like on the other side."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "I lost you. I lose you just -- are you there, David?"
+    },
+    {
+      "speaker": "David Tarantino",
+      "speech": "Can you hear me OK?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "I lost you. Last word I heard was on the other side. The period after that or..."
+    },
+    {
+      "speaker": "David Tarantino",
+      "speech": "No, I'd love to hear your thoughts on how you think the environment will look on the other side of the pandemic, especially as it relates to the competition and the potential for unit closures and how you're positioning Darden to potentially take advantage of that type of environment, whether its potential to grow faster. Or how do you think about those dynamics as you look longer term? Thanks."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah, good morning, David. Yeah, I think that, as I said in my prepared remarks, we went into this as a $108 billion category. And I have been really impressed with the resiliency of the consumer and how important full-service casual dining has been in everyday life of our guests. So I think the industry gets back to where it was. I think it's important. I think people really miss it, probably miss it more than they know. There's been a lot of predictions of how much capacity will come out of the system. I'm not going to sit here today and say I know what the exact number is. The one thing I do believe is there'll be less competition as we -- and less restaurants as we move forward. And I think that's a great opportunity for us. I think scale is going to matter more than ever. I think that -- we believe that we can get back to 2%, 3% unit growth pretty quickly. We're going to continue to open restaurants. We're going to continue to do new deals. We think the economics going forward here in the short term should get better for us on new restaurant development. And I think we'll go back to our basics.\nWe're going to continue to try to improve our food offerings. We're going to try to make sure we have the right value that we're offering the consumer. As we mentioned in both our comments this morning, we've improved productivity in our restaurants through more streamlined menus. So, we think the opportunity is there. We also think that off-premise will play a bigger role as we move forward. We think our capabilities in that have improved dramatically over the last 14 weeks. And we -- and I think a lot of consumers have had the opportunity to maybe use our service off-premise that hadn't used to before. I think they are really pleased with the overall experience."
+    },
+    {
+      "speaker": "David Tarantino",
+      "speech": "Great. And then, Gene, you mentioned kind of streamlining the operations and the menu. Is that something you think will continue longer term? Or do you see that maybe some of the items coming back that you've removed?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. I think, David, each brand is in a different place. Each brand went to a different place when they went off-premise only. Do, some brands, I would say, right now are probably back to 100% of where they will want to be other than maybe some promotional items here and there. Other brands still have 10%, 15% that they need to add back to their menus to make them competitive. But it was not only the menu. I think when we basically closed down the operation, except for off-premise, we had the chance to rebuild as we opened back up, and we had a chance to look at all our processes and procedures, and I think we were able to simplify and eliminate a lot of prep work in some of our businesses that will never get back into the business. I think these are costs that we're going to --we've gotten out. We've had a lot of discussion around our table is that it's been much easier, as we build the on-premise business back up, to reimagine what the operation in the back of house looks like versus trying to reimagine why you're operating. And we're really thrilled with the results so far."
+    },
+    {
+      "speaker": "David Tarantino",
+      "speech": "Great. Thanks very much, and good luck."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Brian Bittner with Oppenheimer & Co. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "Brian Bittner",
+      "speech": "Thank you. Good morning. I also would like to wish Dave George a very happy retirement. Congrats on a wonderful career. Gene, I know during this pandemic, you've instituted lower order price thresholds for delivery across the Olive Garden portfolio. What are the insights and maybe the impact you're seeing from this? And what are your updated thoughts on that opportunity as this environment has so rapidly changed these last few months?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. We've run a lot of tests there, David. I think where we're settling in right now is $50 minimum. It's still the 5 o'clock call the day before. We find that to be the sweet spot. The average order size is still well above that. We didn't see any benefit of going below that threshold. And so, that's where we're going to -- that's what we're netting out. And we think that that opportunity will continue to be there. I will -- we will tell you that we did test doing our own delivery, founded significantly -- really inefficient and wasn't that additive. And so, we're really focused on this curbside operation and think that's the future for off-premise."
+    },
+    {
+      "speaker": "Brian Bittner",
+      "speech": "Okay. And my follow-up is just, it's interesting to see the LongHorn sales recovery occur a bit more rapidly than Olive Garden, particularly in units that have reopened their dining rooms. Gene, what do you really attribute that to? And I ask that question in the spirit of the fact that To Go sales in the open LongHorn units are actually much lower than Olive Garden. So I'm surprised we're seeing such a big recovery in LongHorn versus Olive Garden more recently."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah, Brian, two things to consider. First of all, geographies is working for LongHorn. We've got the State of Georgia where we have a huge presence there, and business has come back real strong. I would also say that the Olive Garden dining room yields are higher percentage of tables available in -- with the occupancy restrictions than Olive Garden does. And so, I want to take this opportunity to talk just a little bit about occupancy. A lot of people have done a lot of work on this, and I think that you're -- I think this -- I think we need to think about just a little bit differently. Once you're past 25% occupancy, the only thing that matters is there's six feet of social distancing required. Remember, there's always significant inefficiencies in your seating capacity. We've always got twos and fours, fours and sixes. We've got tables for large parties. Our average party sizes 2.3. So different layouts even in different -- inside the same brand will yield you different seating efficiencies. We will be installing temporary barriers in approximately 100 restaurants in the next two weeks to try to improve this efficiency, especially in Olive Garden. We want to do that while maintaining the social distancing requirements. We'll analyze the sales growth after we've installed those barriers and decide how many more restaurants we want to add at it too. So that's a long answer to your question, but I think that there is some confusion out there. And we have to remember that once you're past 25% occupancy, the six foot restriction on social distancing trumps any other restriction there is, because you can't get to 50%."
+    },
+    {
+      "speaker": "Brian Bittner",
+      "speech": "Understood. Thanks for the color, Gene."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of John Glass with Morgan Stanley. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "John Glass",
+      "speech": "Thanks very much. I will -- and congratulations to Dave on your retirement. I wanted to ask about incremental margins, as you think about the recovery. So COVID's made a lot of businesses, including yours, rethink how you do things. You talked about menu simplification, but you also talked about this heavier to go mix may have influenced food costs. Do you think as your AUVs recover that you're able to get back to higher margins to [Technical Issue]?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Hey, John. Thanks for the question. As it relates to margins incrementally going forward, right now if you look at our P&L and the way our margins look, our margins are better on a variable cost basis than they were coming into the pandemic. So if we don't make other investments going forward, you would anticipate our margins to be a little bit better than they were before. However, we're still making decisions on what we'll do as the sales continue to grow, whether we bring some things back or to invest in our guest even more to grow sales even faster.\nSo I don't want to comment too much on what our margin structure is going to look like in a year or two years because we may make choices that take away some of that margin gain that we had or we may let that margin flow to the bottom line. But as of right now, our variable margins are better than they were coming into the pandemic."
+    },
+    {
+      "speaker": "John Glass",
+      "speech": "Okay, thanks. And then, Gene, just following-up on your question about the To Go being your -- or your curbside being the preferred off-premise channel. Did you take the opportunity to test third-party in this period of time? Do you look at your results and say, they're just as good as many of your peers with third-parties, so what's the advantage? I mean, how do you conclude or look at this period had changed in any way your view on third-party or maybe stiffened your resolve against it?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Hey, John. We've had third-party delivery in some of our restaurants even before the pandemic started, including some Olive Gardens, a lot of Yard House, and we actually added some third-party delivery in Yard House in a different state. And we really didn't see that the third-party delivery grew faster than our own To Go business. Our own To Go business actually grew faster than the third-party business in those restaurants. And so we're still at the point where we believe that our off-premise business is really strong and continues to grow, and we are not anticipating launching a third-party delivery model.\nNow as we've said all the time, that can change as soon as we see or if we see that those margins are equal to what we do today then maybe we'll go into the third-party model. But as of right now our resolve is strong. We believe that doing off-premise the way we do it, especially now that we've added this significant curbside business is the way to go."
+    },
+    {
+      "speaker": "John Glass",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Gregory Francfort with Bank of America. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Gregory Francfort",
+      "speech": "Sure. Thank you very much. And Dave, congratulations on retirement. I had two questions. The first is a follow-up, just to the capacity restraints. I guess, the point that average party size is lower in Olive Garden, which is what's creating the six foot distancing. I think the 2.3 was overall, but I guess, I'm just trying to understand that point? And then the other question I had was just on off-premise and how much maybe that could look like in a full AUV recapture scenario. How are you guys looking at it, because you guys gave some data in the release that maybe it's like a third of prior sales volumes now or 60% of what the peak kind of off-premise was. But I'm curious how you guys are thinking about that and try to figure out what that business is going to look like in terms of size after this? Thanks."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "As far as capacity for Olive Garden goes, I don't really think it has -- party size has an impact on that. It's just more the way the physical layout is. And we have a lot more room, we have rooms, we have less booz. And so trying to create that six feet is more difficult. Remember, some of our smaller rooms are offset. There are family tables, there are larger parties, Olive Garden does a lot of that. But the majority of our buildings right now because the booth backs are less than six feet. We can't create the same yield if we -- and we are adhering to the local jurisdictions. If we adhere to those local jurisdictions, we can't create the same percentage occupancy in the Olive -- mostly Olive Gardens that we can in LongHorn. And that's why putting some of these temporary barriers that we're building in there could help increase the yield.\nAnd where we're seeing, we're seeing -- I think when we talk about Olive Garden, I think we need to focus on the absolute sales number, which is significant. And as we get toward the weekends, our percentages come down a little -- I mean get a little bit tougher to keep up, right? So the bigger, bigger days that we have in Olive Garden are harder to match. Early in the week, our year-over-year sales declines are a little bit less.\nAs far as off-premise, I think that -- we believe off-premise will play a bigger role going forward. I'm not so sure that we expect to kind of keep these run rates once we get back to a normal environment as long as there is a threat of COVID and people have modified their personal behaviors that we think off-premise business will continue to stay robust. We think this will be a contributor going forward. We think when we level out, we'll be higher percentages of off-premise in all of our businesses. But I can't sit here today and say what I think that percentage is going to be. I do think it will be greater."
+    },
+    {
+      "speaker": "Gregory Francfort",
+      "speech": "Thanks. Thanks, Gene."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Andrew Charles with Cowen & Company. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Andrew Charles",
+      "speech": "Great, thanks. And I just also want to extend best wishes to Dave on your next chapter. Two separate ones for me. One for Rick. Can you talk philosophically for how you arrived at 1Q guidance for sales? Was this more top-down or bottoms-up just in recent news just the virus spread in some key states for Darden?"
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Well, Andrew, it was actually both. I mean, we did a top-down look at where we are geographically, what we've been running lately and our brands did our own bottom-up look at it by geography, etc, and we came to around the same number. And so if you look at what we have, we are seeing approximately 70%, which is where we are after three weeks of this quarter.\nNow mind you, the restaurants that are opened with dining rooms open are doing a little bit better than that, but we just want to make sure that -- we don't know exactly when all these dining rooms are going to open. We don't know when if there is going to be another wave or of some closures. We're hoping that doesn't happen. But that's where we came up with our 70% number for sales.\nAnd then on the profit side, as you know, as you saw in our fourth quarter, we did a much better job in controlling costs and expenses and everything else. And so we just have a stronger business model, which makes us feel comfortable with our EPS of zero or greater and a $75 million or greater EBITDA. And that's total EBITDA not restaurant level, that's everything."
+    },
+    {
+      "speaker": "Andrew Charles",
+      "speech": "That's helpful. And then a question for you, Gene. Looking beyond the 35 to 40 openings planned for 2021, you talked about how you'll be able to achieve 2% to 3% net restaurant growth in the short-term rather than the longer term. But can you talk about how the pandemic has changed your practices for site selection as well as changes the restaurant prototype to help maximize ROI for it what looks to be a more off-premise curbside focus future?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. I would say it's too early to say it's really changed our philosophy on new restaurant development at this point. The one thing I do believe is the economics are going to be more favorable than they were pre-COVID. I think that there will be a lot less people growing out there. So I think the cost of construction should come down, just like it did in '09, '10 and '11. I think the cost of the underlying land should come down significantly.\nAnd so as we look forward, I think the economics look promising. The best restaurant deals we did were after the recession in '09 and '10, especially for our specialty brand. So we'll push hard on that to get favorable economics where possible. I do think that as we look at these businesses transitioned to more curbside than folks coming into our restaurant to picking up the takeout order, and we still don't know how we can get back to a normal environment, how that's going to migrate back whether it's going to stay 100% curbside or people are going to want to come in. We've got to really go through that discovery process.\nI think the big work that needs to be done is to think about what do we need to do inside the box to better support and stage curbside if it's going to be that big part of our business. Up until recently in our existing restaurants we've been doing remodels to create capacity for inside pickup, now we've got to really relook at that as we go forward. We have been developing in Olive Garden more of a dedicated pickup space off the side of the kitchen that we are really happy with, but that might not be the way we want to go going forward. We don't know.\nAnd so we'll see as we move forward. I think what -- we'll try to build a little more flexibility in our dining rooms and think about different barriers in our floor plans so that if something like this happens in the future, we might have more flexibility. But I'm actually -- I'm really excited about the opportunity to build restaurants. I'm confident in our model. I believe the cost -- an initial investment cost is going to be less or at least not be inflating at the rate it was inflating. So we're going to be able to create significant value for Darden going forward, new restaurant growth and we'll probably be one of the few out there that's opening new restaurants."
+    },
+    {
+      "speaker": "Andrew Charles",
+      "speech": "That's helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Eric Gonzalez with KeyBanc. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Eric Gonzalez",
+      "speech": "Thank you so much. And I'd also like to add my congrats to David. Based on the discussion we had earlier about the occupancy at Olive Garden versus LongHorn, I was just wondering if you could speak to, why it seems that the off-premise sales perhaps are being a little bit -- cannibalizing a little bit more at Olive Garden versus LongHorn? And then my second question relates to the promotional environment. It seems like very few of your competitors at this time are even advertising right now. I know you had that 12.99 promote earlier this month, but wondering when you think the right time will be to restart the promotional schedule and how you think the competition is setting up with regards to advertising new deals? Thanks."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "On the first question, I think Olive -- I mean LongHorn just started at a much lower level for off-premise and that's why it's growing at three times and not two times. I don't think there's anything more to that. I think the absolute dollar is going outside on Olive Garden on takeout are impressive. I mean they're at some other CD levels of overall sales. I mean those are impressive numbers if you look at 40% last week on $81,000 per week. That's -- I mean, that's a huge business. So I wouldn't read anything else into that other than LongHorn started at a much, much lower level.\nAs far as promotional go -- promotions go, we've pulled back. Obviously, we've pulled back on almost all promotional activity. You're seeing us do a little bit of television on Olive Garden because we own the spots, we bought them in the upfronts. And so we need to -- we'll continue to advertise there. Right now, we don't think it's prudent to be promoting people into our restaurants when we have long waits to get into the dining rooms. I think we would just be creating more frustration for our guests who can't get in.\nAnd so at some point maybe we'll pivot to do some more off-premise advertising. But right now, we're looking -- we're taking this opportunity to cleanse our marketing spend to understand as we put it back in what works better. What gets us the highest return on investment as we put it back into the system, and when that's going to be a big opportunity. Again, this is where scale will matter. We can come back in and advertise our businesses at the right time. We don't think this is the right time to be advertising. We think this is the right time to pull it back, analyze the situation and we'll make -- when the situation is right, then we'll start to layer some advertising back in and promotion back in."
+    },
+    {
+      "speaker": "Eric Gonzalez",
+      "speech": "Helpful. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Chris Carril with RBC Capital Markets. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Christopher Carril",
+      "speech": "Thanks. Hi, good morning. And good to hear from you all, and congratulations to Dave on his retirement. So Gene, you referenced Georgia performance regarding recent LongHorn strength. So following-up on that, can you provide any additional detail on what you're seeing more broadly in the states that were among the first to allow dining rooms to reopen? Are you seeing sales in those states meaningfully different than that of your overall average? And how is off-premise mixing in those states now versus the average? Thanks."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Well, I think that I'll answer the first question -- last question first. Off-premise is strong. It's maintaining. We didn't see a no change in off-premise in those states for the most part. As far as how those states are performing against others, it all depends I think on what your brand strength is and what your relative share is in those markets. So obviously when you look at LongHorn Atlanta, Georgia, we've got the largest share of voice there. I mean, we have 45 restaurants in the DMA. We're very trusted brand. We're born out of LongHorn, I mean out of Atlanta.\nAnd so I think people just trust the brand. And so where we have great brand strength, whether it's a Cheddar's market, it has great brand strength or Olive Garden market has great brand strength. Those restaurants come back faster and perform at a higher level. And so I don't think it really has to do with as much as when the state opened as much as what's the brand strength in those specific markets. Another example is we do really well in LongHorn and Cincinnati is another one of those early markets. And we came back strong in Cincinnati as soon as we opened. But that's true for Cheddar's in certain markets, it's true for Olive Garden in certain markets."
+    },
+    {
+      "speaker": "Christopher Carril",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Jeffrey Bernstein with Barclays. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Jeff Bernstein",
+      "speech": "Great. Thank you very much, and congrats, Dave. It's a long time to be having weekly lunch with Gene. Congratulations. Just one question and one follow-up. Just in terms of the question, the changes you discussed that you've made during COVID, I'm just wondering maybe you can prioritize a few that you think are may be good business and will remain post-COVID? I know you mentioned curbside and we talked about delivery, but thoughts around social distancing and then you mentioned the online waitlist and reservations and the reduced menu. I'm just wondering if any of those you see as kind of more permanent? And then I had one follow-up."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Well, the most prominent and the most significant thing we've done is streamline the menus and our processes and procedures, and that's forever. This was the opportunity that a lot of us been waiting for. When we closed down our dining rooms and we knew we had to simplify for the off-premise and then we had those three weeks or four weeks to really focus at the corporate level with our teams is OK, what do we really need to come back and how do we keep this simple because we had no idea what was going to happen when we open our dining rooms. We didn't know if anybody is going to show up, right?\nAnd so we have these simple menus out there, they're all disposable, we knew that we could change them quickly if we needed to. But what we learned was we could get enough variety on the menus to satisfy the demand of the consumer and we could simplify it because we want to make sure we didn't have as much labor in the back of house to execute it. So to me, that's the biggest thing our teams have done and that's been the biggest insight that some of the, what I would call, the superfluous menu items that are on our menu that one out of hundred people that were buying when they were coming in just aren't important and most of those created the complexity in the kitchen. And so with this hopefully once in a lifetime opportunity, we were able to pull those out. And I think that's what's going to be the lasting change. It's going to have significant impact two years, three years, four years from today."
+    },
+    {
+      "speaker": "Jeff Bernstein",
+      "speech": "Got you. And then my follow-up was just -- it was mentioned earlier about the reinfections and it seems like it's ramping up in recent days and weeks. I'm just wondering if there is any color you can give directionally in states where you've seen recent spikes, how your business may be changes or maybe how your approach to decision is going to change versus the first time weather speed-to-close a duration of closure? I'm just wondering what you've seen where those spikes have happened and how your business or how you might change a process of making decisions this go around versus the first? Thank you."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "I would just say real quickly, we've seen no change in our business trends in the states that are starting to spike. Obviously, we're concerned. We're focused on it. But as a leadership team, we have all -- all we talk about is let's focus on what we can control, right? We can't control this, we're not doctors, we're not in the government. Folks are going to do what their leadership inside the states are going to do what they're going to do. What we -- if we were focused to pivot, again to more of a -- more restrictions in restaurant dining or even if we have to go back all the way on off-premise, we can pivot that way. It's going to be a lot easier this time to pivot that way because we know what we're going to do, we know how to do it. Last time we were kind of making it up as we were going. We made a lot of right decisions as we did that. But at this time, it would be a lot smoother for us the pivot back to on off-premise only experience for a short period of time.\nI think the difference this time is that this will be micro not macro, and that's how we're thinking about it. And that we've got a team set up to manage day-to-day what's happening in these local municipalities and we'll adjust. But I know as we think about it as a management and the leadership team is we're going to control what we can control and we're not going to worry about things that we can't control."
+    },
+    {
+      "speaker": "Jeff Bernstein",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Jeff Farmer with Gordon Haskett. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Jeff Farmer",
+      "speech": "Thanks. I just wanted to follow-up on the question just asked. So I appreciate that you said that so far you're not seen much of a change. But just drilling down a little bit from that level, again, is there any type of like a pivot back to off-premise from on-premise or reduce frequency? It sounds like you're seeing now that this relates to the overall volume levels, you haven't seen much of a change. But in terms of consumer behavior or taking a little bit of a deeper dive to see how those consumers or behavior or those consumers are behaving in those states that have seen a dramatic jump in COVID cases. Is there anything you can add beyond what you've already answered for Jeff's question?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "No, Peter. I mean it's -- I mean we're talking here six days or seven days since we've really seen something. We haven't seen any change in any behavior at this point in time that we can call out. And who knows, maybe something will change tomorrow, I don't know. But right now, there is nothing for us to say that could add any value to this topic."
+    },
+    {
+      "speaker": "Jeff Farmer",
+      "speech": "And then just one other follow-up question. So is it possible for some of these restaurants that are operating at 50%, 60%, 75% capacity to put up positive same-store sales numbers? Can they actually, again grow sales year-over-year, positive comps with that 50% to 75% capacity constraint?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. As of today, we have somewhere between 10% to 15% of our restaurants that are putting up positive same restaurant sales. There are restaurants that have good solid off-premise business and they've got a business that will -- that kind of goes all day, right? It's -- they're in trade areas where or even earlier in the week you've got business from two to five and after eight. So 10% to 15% of our restaurants today are positive same restaurant sales."
+    },
+    {
+      "speaker": "Jeff Farmer",
+      "speech": "All right. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Peter Saleh with BTIG. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Peter Saleh",
+      "speech": "Great. Thank you. I wanted to echo the congrats to Dave as well. Gene, I wanted to ask about how you're thinking about value. I know you said you don't really want to promote right now, but it also seems like you've got some labor productivity benefits in your back pocket with about 150 basis points of productivity. So you've got some margin I guess to spend. How are you thinking about value maybe over the next couple of months or maybe a couple of quarters? It seems like we're going to be in a relatively high unemployment environment and competition is coming more back on line, just trying to understand your perspective on value going forward?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. I think it's real simple. Once we have the capacity and if we see any lead up in demand, then we can pivot to value. We have that opportunity to invest in value to drive traffic. At this point, it just doesn't make any sense because we have no capacity to drive it to."
+    },
+    {
+      "speaker": "Peter Saleh",
+      "speech": "Understood. And then just my second question is on the -- you just talked about a competitive advantage and expenses data and insights that you guys have. Is there -- are you seeing anything on the data that would view more toward a loyalty program or away from a loyalty program in the future as things normalize? Has anything changed during this environment?"
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Yeah. Peter, this is Rick. Something did change during this environment. We actually canceled our loyalty program test. And that ended at the end of the fiscal year. And it ended for a couple of reasons. One is we've had it out there for a while. We had seen some incremental improvement over time. But we just didn't think this is the right time to continue to invest in that, we wanted to streamline everything we were doing.\nThat said, there is a chance that will bring one back in the future. We did get some good data out of a loyalty test. The delayed -- the data is richer than the data that we get from our credit cards and other things. The real question was do we have enough of that to utilize to market and to do the right things? And so we canceled the test again to streamline, to ensure that we're focusing on the things that are the most important right now. That said, we may come back with another loyalty program in the future."
+    },
+    {
+      "speaker": "Peter Saleh",
+      "speech": "Very helpful. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Chris O'Cull with Stifel. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Chris O'Cull",
+      "speech": "Thanks. Good morning. Dave, I want to wish you all the best in your retirement. I've really enjoyed covering your career at Rare [Phonetic] and Darden. So I just have a couple of questions. Rick, the first quarter guidance implies no improvement in the current trend. So I'm wondering if you're anticipating sales could be impacted when the supplemental unemployment benefits expire?"
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Well, everything that we're anticipating is in our guidance. They could, they could be impacted. That said, we don't know if they're going to be expanded, right? Are they going to be extended, are they going to be extended at different dollar amount. There is still some discussions along those lines. And so we put everything in there. There are some positives in that could happen. There are some negatives that can happen. And that's why we felt that our 70% sales number against last year was the right number."
+    },
+    {
+      "speaker": "Chris O'Cull",
+      "speech": "Okay. And then the company had 43% sales decline in the fourth quarter and lost about $1.25 in adjusted earnings. You expect 30% sales decline in the first quarter and earnings to breakeven. Can you give us a further -- a little more explanation as to what are the key line items driving that improvement in earnings sensitivity?"
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Yeah, a couple of things. One is, we had $58 million of costs that we did not adjust out of our earnings that we won't have in this quarter. As we talked about before, the $58 million of investments that we made, $50 million of that was definitely -- not definitely, but it was an impact that we wouldn't expect to happen going forward. That's one. And two, when we came into this and started declining fast, it took us a little bit of time to get some of those costs out, right? So you go from a positive sales in one week to negative 75% within a couple of weeks. It takes you a little bit of time to move those costs. Now we have all the fixed costs where we like them. And so with a 70% sales, so a 30% reduction versus last year, we can be profitable."
+    },
+    {
+      "speaker": "Chris O'Cull",
+      "speech": "Okay, great. Thanks guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Sara Senatore with Bernstein. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Sara Senatore",
+      "speech": "Thank you. I have two questions. One about unit growth and one a follow-up on margin. The new units, we had actually anticipated that you might have much lower unit growth just because there might be constrains on construction or permitting, that kind of thing. Could you just talk about what -- whether we should expect openings to be more back-end loaded or if the pace is sort of level loaded or more like normal? And then I guess the other -- and what brands would we expect to see? Is it safe to assume Olive Garden and LongHorn given the volume recovery there? So that's the first question just on units cadence and brands."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Hey Sara, this is Rick. In terms of opening cadence for the year, recall, we stopped construction in the fourth quarter, and a lot of those restaurants were either done or close to done. So the restaurant that's opening in July was pretty much already completed. And so we will have some restaurants that can open quickly if we want them to. We're opening, as I said, one in July. We've got probably a handful more that will open by the end of the quarter. And that we're doing to make sure that we can train in social distancing and make sure that we're training the teams correctly. And then after that, we've got a lot of them that can open as soon as we think that we can serve the guest need in the -- that's coming into that restaurant. And so we can flip the switch fairly quickly, but the likelihood is it will be a little bit more back-end loaded just because we want to see what the environment is before we open the restaurant at limited capacity."
+    },
+    {
+      "speaker": "Sara Senatore",
+      "speech": "Got it. And on the question about margins. Sorry. Did you say which banners you might be opening Olive Garden, LongHorn or is it sort of look back at historical ways and that's the right mix?"
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Yeah. I would look back at historical. Our plan this year is to open at least one restaurant for every brand, and some of them again were already under construction. But the majority of our openings will be Olive Garden and LongHorn."
+    },
+    {
+      "speaker": "Sara Senatore",
+      "speech": "Okay. Got it. Thank you. And then just on the margin follow-up, can you just give a little more color. You talked about labor savings, but I'm also trying to understand when we look at the margin, the complexion sort of food, labor, other, how much of that is difference in off-premise versus on-premise and what those margins look like or was there a mix? I know if LongHorn is doing slightly better, I think that is negative for food, but good for labor. Just trying to understand how much of this is sort of the expense management and the efficiencies that you found versus business mix?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. Sara, cost of sales was unfavorable to us in the fourth quarter. A lot of it because of mix in brand, mix in To Go business and the higher expense for packaging. Unlike other brands, we actually put our packaging costs in our cost of sales. It's not in restaurant expense, it's in cost of sales. So when you think about how much we shifted to To Go, and we had some value platforms in To Go. Olive Garden did buy one take one for almost the whole time for To Go. So that was the higher cost of sales.\nWe had To Go packaging for more entrees than normal. We had bundles at some of the other brands. So it was really a mix of To Go and mix of what we were selling. And then brand mix is a little bit of that, but it's not too much except for the fact that our higher end brands actually had a lower same restaurant sales, so a bigger negative. And some of those brands have a fairly good cost of sales measure.\nOn the labor front, it was all deleverage as we talked about on the -- as I talked about in the prepared remarks. We had restaurant managers. We paid them even when they were on furlough. We had -- we kept most of our restaurant managers throughout this downturn. We had the $58 million of those expenses, as Gene mentioned, those were -- that was in our restaurant labor, primarily there was a little bit in G&A, but most of it was in restaurant labor.\nSo that hurt our margin on that front too. Those are things that we don't expect to continue. What we do expect to continue is deleverage in a restaurant manager labor line, because that's a fixed cost. But we do have some, as we said, some favorability on the hourly labor side."
+    },
+    {
+      "speaker": "Sara Senatore",
+      "speech": "Got it. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Nick Setyan from Wedbush Securities. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Nick Setyan",
+      "speech": "Thank you. Appreciating that we don't really know what happens to the incremental $600 a week or other stimulus measures going forward. I mean -- but is there a sense kind of looking back internally around the extent to which the stimulus measures contributed to date to the sales recovery? That's my first question. I have a follow-up."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Yeah. When you think about stimulus, I would say it's definitely a positive. I'm not sure we can quantify how positive it is. And I would say that, yeah, right now, there is -- we think it's -- some of that's going to go away at the end of July. But I have to -- you have to -- at least I think that the government is going to have to add some of the stimulus to the economy that should be positive to us and just may come to us through a different vehicle. And so I expect the overall economy that have stimulus in it. I don't think it will come in the same form as it's coming today, but I think that we'll get our fair share of it."
+    },
+    {
+      "speaker": "Nick Setyan",
+      "speech": "And Gene, given your experience and you've navigated through a number of cycles, what's your sense that even if the capacity constraints are completely normalize over in a low sort of teens or high-single-digit unemployment environment, what's your sense in terms of where sales eventually do stabilize? And then just structurally around sort of the fine dining business or the Yard House business given its exposure to malls, etc, how do we think about those businesses in the medium to longer term?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. I think what you're asking me is impossible to predict right now because what we -- we don't really understand the competitive situation. We don't understand how many competitors are going to be out there. We don't understand the stimulus that the government is going to put in. So I don't know where this levels out. But I do think it's important to note that our fine dining businesses, and most of -- or primarily all our specialty businesses are going to return to normal more slowly than I think the casual dining will return to normal, primarily because capital grow and AVs [Phonetic] rely on business travel and entertainment as a big part of their sales, and we saw that in '09 and '10. The businesses do shift [Indecipherable] weekend focused and fine dining in an environment like this and we're already seeing that shift that are weekends are actually fairly good in fine dining. Our mid-week business is weak.\nAnd so I think to sum it up, specialty brands are going to come back a little bit lower, especially in some of like some of the Yard Houses that are tied to ballparks or stadiums or something like LA Live. As those areas come -- those entertainment areas come back slower, they will have some tough sledding going forward there. But I don't know where this all ends up. All I do know is that with our strategy and our -- and we believe with our scale and our competitive advantages that we are positioned to gain market share as we move forward, and I'm confident in that. And I believe the investments we've made in our people are going to be the biggest advantage we have."
+    },
+    {
+      "speaker": "Nick Setyan",
+      "speech": "Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Dennis Geiger with UBS. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Dennis Geiger",
+      "speech": "Great. Thanks for the question. And Gene, thanks for the commentary on the capacity constraints. I just wanted to follow-up on Jeff's question about kind of getting those AUVs headed back toward flat or positive. Just wondering if you could talk a bit more about the things you can do other than the partitions to increase capacity, your capacity utilization while the risk restrictions are in place. And maybe even more broadly, in addition to the capacity utilization, just speaking to some of the other key things that you can do to drive that AUV recovery with those restrictions in place? Thanks."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Well, I think it's tough. I think that that's -- we're balancing how much do we want, how much capital we want to invest in some sort of temporary solution. If you ask me two weeks ago, I would have thought that we're on a path, a better path to being able to see all the restrictions lifted. Obviously that has changed here in the short-term. So there is not -- we don't think there's much more that we can do than create some physical barriers without ruining the atmosphere in the restaurants to create capacity. I mean, some of our folks have been really creative with outside seating, which I applaud and I hope they continue to do that. But anyhow, as we get into the summer months down south that gets more difficult because of the thunderstorms and things like that. So I really don't see, I think we have to learn to live with what the restrictions are until such time they're removed."
+    },
+    {
+      "speaker": "Dennis Geiger",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Nicole Miller with Piper Sandler. Go ahead please, your line is open."
+    },
+    {
+      "speaker": "Nicole Miller Regan",
+      "speech": "Thank you. Good morning, and thanks for this extended time for the conversation. I want to ask about your team in the stores. How are they feeling? If you think about reopening the dining room, how many of what would have been a prior concept employee were you able to retain or not retain, but actually bring back? And is that something that you're leveraging in terms of the reopening process?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah, absolutely. That's why we think the investment that we made with the emergency pay and then paying their benefits has really paid off. We've had very little problem bringing our people back to work. They're excited to come back to work. They missed their work family. And so depending on the brand, we're anywhere between 50% and 70% of the initial workforce coming back. We are in the restaurant business. Our reputation is one of the most important things that we have.\nAnd so we have great basic hygiene processes and procedures already developed. And so our team members are used to working in this environment. Now we're enforcing some social distancing. They have to wear mask. But they're great already at washing their hands. The restaurants are already cleaned. They got great food handling procedures. And so there is a lot of confidence in our restaurants that these are great environments to work in and they feel safe. Our people are just so excited to get back to work. And even -- I would even say, even when we were in were off-premise only, the amount of people that were coming back to work and doing different types of jobs and just looking to contribute in any way was incredible. And so, that's why one of the things that we talked about is a leadership team. The first thing that we're going to do is we're going to try to take care of our team members the best we possibly could in this very, very difficult situation. And that's why we've invested in a gross level $75 million in additional pay for those first three weeks. And I think we're being paid back for that, not just today, but I believe we'll be paid back for that in two, three, four, five years. Our restaurant managers are incredibly loyal. We treated them very, very well during this process."
+    },
+    {
+      "speaker": "Nicole Miller Regan",
+      "speech": "And just to confirm and close the loop on that, if you think about being relatively back in the range of 70% of sales, the staffing levels are 50% to 70% as a match to the 70% of sales? Is that the way to think about that?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "That's how I would think about it."
+    },
+    {
+      "speaker": "Nicole Miller Regan",
+      "speech": "Okay. All right. Thanks again."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from the line of Andy Barish with Jefferies. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "Andrew Barish",
+      "speech": "Hey, guys. I'll ask one and then a quick follow-up. Just -- Gene, can you give us sort of an update, progress report on how Cheddar's has come through this? I know you were making some good strides on the people side. Obviously, this was unprecedented. But just an overview on where Cheddar's is heading."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Yeah. I think Cheddar's has made through this very well. There's two things I would highlight on Cheddar's. First of all, they've always under-indexed on off-premise. And we were able to do a couple of things through this a lot quicker than we were planning to do. First of all, we only had two antiquated phone lines going into each restaurant. And through this, we were able to get them an upgraded phone system, so people could actually call in orders and get a response from our team members. Second, we were able to transition them to online ordering, which has had a big impact. And so, their off-premise business has built and continues to build each and every week through this process, which we think will be very beneficial.\nThe most important thing that happened for Cheddar's through all this is the way that we at Darden treated them. And I think that when you think about the management and employees, especially management, this was a critical -- I always look at when we do acquisitions is always this critical moment when the management forgets [Phonetic] about the old days and they don't have that romance with it and then they are thankful for the new days. And through this process, this is the time I think that our Cheddar's leadership and people in our restaurants are just thankful that were a big part of a big company that could step up and do the right thing. And I think that is going to create incredible loyalty. We've lost very few management people through this time, and people are really excited about what they're doing. And lastly, they have the opportunity to -- and through this, they made the biggest change with their menu and per seat processes and procedures in the back of the house. That's going to have a long-lasting impact on that business and improve the overall financial performance. So, we're pleased. We think leadership did a great job. We think management in the restaurants did a great job. The team members are coming back excited. So we think this was a positive for Cheddar's when it's all said and done."
+    },
+    {
+      "speaker": "Andrew Barish",
+      "speech": "Great. And just a quick follow-up on the efficiency in the back of the house and lower prep hours. Was that simply the menu changes? Or did you also -- were you also able to layer in some supply chain changes with more value-added product or something like that?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "No. I think it was -- there's a little bit of value-add but not much. I think it was really -- there was just a -- there was a handful of products that weren't providing a whole lot of value to consumer that caused a lot of chaos and a lot of additional prep and cost in the kitchen that we just removed from the menu, and our guests haven't been asking for it back. So, there's just a lot of streamlining. But that menu has come down a lot simpler and they did some really good procedural work and -- from the back door to the front, to the dialog table that has just made it easier to execute."
+    },
+    {
+      "speaker": "Andrew Barish",
+      "speech": "Thanks guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Andrew Strelzik with BMO Capital Markets. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "Andrew Strelzik",
+      "speech": "Hey, good morning. I just wanted to circle back on the comment you made about some of the investments you're considering making going forward. And I just wanted to better understand the decision-making process there. Is there something specific that you're looking for? Is it just a matter of timing? Just curious for any color around that, please."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Are you talking about the investments in the facilities to create..."
+    },
+    {
+      "speaker": "Andrew Strelzik",
+      "speech": "There was a comment about kind of margins two or three years from now and not wanting to commit to something around that. So, I guess I'm just curious around those potential investments that you're considering."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Andrew, this is Rick. Yeah, I made the comment on margins. And there are a lot of investments we can make. One of them is to bring marketing back. And so, we took -- we're taking marketing down significantly. Now, we'll still have some number in our P&L in Q1 for marketing as a percent of sales. So, I would encourage none of you to put zero in there. And we do have some marketing but we significantly reduced it. These menu simplifications that we made, are there some items that we need to bring back as we do some more research down the road when we have full dining rooms? Do we have enough breadth of appeal? And so, if we bring them back, how do we do those? How do we bring those back with a simplified process but it would still be a small investment? So, there are other investments that we can make. We can make investments in taking less pricing because we have margin to do that. We can make investments in quality, which we're doing right now.\nLongHorn has just made some more significant quality investments in their menu even throughout this process. I don't know if it's in the restaurant yet, but it's coming. It's a higher ounce weight for one of their best products without really pricing for it significantly. Olive Garden is making some significant investments right now in their menu in terms of better quality and better value. And so, we still have a lot of investments that we can make. We're not going to talk necessarily about what we're going to look forward, whether we make those investments or not, but just be sure to know that the margin that we have today gives us room to make investments or gives us room to drive it to the bottom line."
+    },
+    {
+      "speaker": "Andrew Strelzik",
+      "speech": "Great. Thank you very much."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Jon Tower with Wells Fargo. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "Jon Tower",
+      "speech": "Great. Thanks for making time for the questions, and Dave, congratulations on your retirement. Just a few follow-ups from me, but first, kind of going zeroing in on this specifically, what percent of in-store sales can Olive Garden regain with the six-foot capacity constraints still in place?"
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Hey, Jon, this is Rick. That's actually a pretty difficult question to answer because every restaurant is different in their layout -- not every restaurant, but a lot of restaurants are different in their layout, and we actually showed in our presentation what they're doing today, so what the restaurants are doing that are open, what are they doing in total sales and To Go sales, so you can kind of get an idea of where they are. We think we can make that a little bit better over time with some of these barriers that we're looking at. But any one brand is different. It's kind of hard to tell you exactly what percent we can do. It also depends on how much people are willing to go on the shoulders of a meal period. And so, as the capacity constraints happen, are people willing to wait a little bit longer or come in a little bit earlier? And that will help us drive more sales. But I couldn't tell you exactly what percent is the right number."
+    },
+    {
+      "speaker": "Jon Tower",
+      "speech": "Okay, thanks. And then, just on the labor savings so far, how much of the 150 basis points that you saw this quarter do you think can stick when volumes kind of return back to normal? And then just lastly, I don't think anybody has asked yet and maybe I missed it, but you guys raised quite a bit of capital during the quarter. Can you just discuss your intent on use of those proceeds? Thanks."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Hey, John. As it regards to the 150 basis points, how much can stick as sales go up, all of our hourly labor is primarily variable. So, unless we're making some significant changes to our menu or we are -- we have to bring in some training again because there was a little bit less training in the fourth quarter, that would be the reason that our labor as a percent would go up, or if we determine as we look at our guest experience, did we take a little bit too much out? And so, we don't believe that was the case because a lot of this labor came out of the kitchen. But we'll look at and see that and determine whether we need to bring some of it back. But I would still say that the first quarter should have an hourly labor benefit. Now, remember, it's going to be offset by deleverage in the management labor side.\nAnd so, if you can remind me the second question, sorry."
+    },
+    {
+      "speaker": "Jon Tower",
+      "speech": "Just in terms of the proceeds you're..."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "On the capital front, yes, when we raised that additional $500 million in capital, we said it was to invest in growth and to shore up our balance sheet. And so, we believe our balance sheet is shored up. As we mentioned, our adjusted debt to adjusted capital ratio is 61% and our covenant is 75%. Had we not raised that capital, we would have been a lot closer to that covenant. We are making investments in growth. Right now, as I mentioned, some of the investments that we're making are investments in quality. We're using some of that capital to invest in quality. We use some of that capital to invest in our team, as Gene mentioned, so the things that we did that we think are going to benefit us in the long term. We now have the capital to be able to start growth again. And as we said, we're going to start opening restaurants again. We think that others might not have as much of a balance sheet to be able to do that. And so, those are the investments we're talking about today. And we'll continue to look at other ways to invest that capital for future growth. We think there is a tremendous opportunity to invest, and that's why we took out that extra equity."
+    },
+    {
+      "speaker": "Jon Tower",
+      "speech": "Great, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Brett Levy with MKM Partners. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "Brett Levy",
+      "speech": "Great, thanks for taking the call. And Dave, I think you really misunderstood what Gene was saying when he said that this is going to be a work-at-home, a stay-at-home economy. So, congrats to your time off. When you think about the capital that you provided us the outlay for, the $250 million to $300 million, how much of that is going to go in toward the new level of maintenance that these units are going to take? And also, just how are you thinking about areas like the stepped-up IT and the digital onslaught [Phonetic] that we're seeing? And then just, when you think about your portfolio, you talked about LongHorn, Olive Garden and Cheddar's a bit. Where do you still see additional need to work on at the other chains to catch them up to where you are? And I'll stop there. Thanks."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Okay. So, you've got maintenance capex, technology and brand mix. So, if you think about our maintenance capex, our number of $250 million to $300 million has probably got $100 million to $125 million -- $100 million to $120 million of maintenance, which is a little bit lower than we normally say, about $120 million. So, let's just say we take a $20 million number out of that.\nOn the technology front, we're still investing in technology. That's one of the things that we're going to continue to invest in, and we made a lot of investments in the fourth quarter. When you think about what we did to bring Cheddar's online, bring all the other brands that didn't have online ordering up, to make some investments now on our curbside and how do we make that curbside even more streamlined through technology, how do we improve payment and doing other things. So there is a lot more we're going to do in technology. That team is really, really busy. We're really, really proud of what they did over the last couple of weeks of the [Indecipherable] 14 weeks to ensure that our website stayed up and running as we drove a lot more traffic.\nAs it turns [Phonetic] to the brands that we're investing in, we believe that we should invest in all of our brands. As we mentioned in a number of -- the openings, we're going to open, I believe, at least one restaurant for every brand if we can get through all of the space limitations and the social distancing limitations in that 35 to 40 restaurants. And we are very excited about every one of our brands and their ability to grow."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question comes from the line of David Palmer with Evercore ISI. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "David Palmer",
+      "speech": "Thanks. Good morning. And Dave, congratulations on your career. Obviously, a huge work done in the past on Olive Garden. Two questions. First on seating capacity, you talked about how social distancing is more of a constraint. It sounded like it was more of a constraint for Olive Garden than LongHorn. I don't know if you meant to imply that. And if that is the case, how much of a boost to capacity can occur with those barriers? And I have a follow-up."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Well, the barriers that we're testing in Olive Garden can boost capacity significantly because the booth backs are so low in Olive Garden. And that's the difference between Olive Garden and LongHorn is the booth back is so much higher. When you think about a LongHorn, LongHorn is just one big room. What we do in a LongHorn is we use dividers to create space and to create the ambiance that we want, which ended up working in our favor that created some social distancing. Whereas in Olive Garden, everything is at a much lower level. It's like at four feet. So, we're looking at how do we -- we have gone into majority of the Olive Gardens, already put plexiglass in certain places to create some barriers to get us to the occupancy that we're at. And also in Olive Garden, you have a lot of nooks and crannies where we have four tables in there and now we're lucky [Phonetic] we can -- we're only going to use two, if we can. In some of those instances in those rooms, you only really get to use one. And so, it just had to do more with what the -- how the floor plan was and our ability to create barriers with booth backs."
+    },
+    {
+      "speaker": "David Palmer",
+      "speech": "Is this -- is that 7% difference in the recent open stores roughly the difference? How much of a boost to capacity could you get?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "There's some geography that's favoring LongHorn versus Olive Garden. A lot of Olive Garden's -- I mean, just the way it's laid out, when you think about Georgia and the percentage of restaurants that LongHorn has enjoyed during -- there are no restrictions in Georgia right now for the most part. They have really benefited from that."
+    },
+    {
+      "speaker": "David Palmer",
+      "speech": "And I guess you mentioned there was positive comps in 10% to 15% restaurants. You were talking about these capacity constraints. It's hard to get your head around how that's possible. Is there -- can you have any comment on that and how -- what sort of information that gives you about what's possible for the rest of your restaurants?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Well, it's just -- you got a significant off-premise business in those restaurants and you have consumer that probably has limited access to other restaurants that is willing to eat at 2 o'clock in the afternoon. And that's -- when I look at those restaurants, some of them are more rural, especially in Georgia. And so, I think each individual situation is -- has got a specific reason why I think that individual restaurant is performing the way it does. But it just says that combined with good off-premise, a consumer base that is willing to roll through the whole day and use the facility, you can create some volume greater than last year. Those are unique situations, though, David."
+    },
+    {
+      "speaker": "David Palmer",
+      "speech": "Yeah. You don't feel like sharing what percent capacity increase you could get from these barriers on Olive Garden? Is that something you can put your finger on?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Maybe up [Phonetic] much as 20%. When you're putting -- you probably got to put every booth and -- maybe a little bit higher. We're going to put every booth in play. Right now, every other booth is out."
+    },
+    {
+      "speaker": "David Palmer",
+      "speech": "Yeah. Very helpful. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of John Ivankoe with JP Morgan. Go ahead please. Your line is now open."
+    },
+    {
+      "speaker": "John Ivankoe",
+      "speech": "Hi, thank you. I know we've kind of touched on unit development a couple of times. Just looking for maybe some clarification and also maybe a little bit of forward guidance. 35 to 40 net, how many is that gross? In other words, how many are you expecting to actually close in '21? And obviously, I did see some impairments and wondering if that was going to lead to some closures. And that capex number of $250 million to $300 million is a low number, given the number of units that you are opening. And certainly any capex that you have '21 would also kind of foretell whatever you're going to open in '22. So are you kind of thinking that you can get back to a 2% to 3% unit development in fiscal '22? And how should we think about -- it's a lot of different questions here. How should we think about overall maintenance capex as perhaps the percentage of D&A in a post-crisis environment as you've kind of rethought the overall business models? And I'd like another question as well."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "All right, John. So the 35 to 40 restaurant is really almost gross and net. So there is -- we don't have a whole lot of closings that we would anticipate in this fiscal year. We just closed 11 restaurant in the fourth quarter. Some of them were already impaired and the rest of them we impaired when we closed them. And so, if we had something that we were going to close, we already did it unless we had something where the lease wouldn't allow us to close. So, we don't anticipate closing anymore restaurants this year unless there is a lease expiration that we could [Phonetic] move or if something gets damaged in other ways. So, the gross to net is about the same.\nIn terms of capex, the $250 million $300 million, remember, we had stopped construction of 17 restaurants that were supposed to open in Q4 -- or in the fourth quarter really of FY20. And so, a lot of that capex has already been spent. Even if we ramp up development, we wouldn't be able to ramp it up enough to spend a lot of capex in the late FY21 for FY22. We're not ready to talk about FY22 openings. So if you take out the 17 openings that we had our -- that we had delayed from FY20 to FY21, that cuts of 35.5, right? And it cuts the 40 down to 23. And so, we do believe we could get to the 2% to 3% unit growth, get back to that fairly quickly. We'll probably be close to that this year when you think about the 35 to 40. The question will be '22 and how fast do we ramp up development when we have to make sure that the landlords and the landowners and the construction folks understand there's probably a new price out there today. And so, that takes a little bit of time for price discovery. And so, we'll see how long it takes us to ramp back up. We have the team to be able to do it, and we're ready to do it when we need.\nOn the maintenance side, I think I mentioned $100 million and $120 million. It's not too different than what we've been doing before. Remember, our number one priority with capital is to make sure our restaurants are maintained beautifully, and we've been consistent in that all along. And so, we do not want to cut down on maintenance that is essential and is needed. And we believe maintaining our restaurants is essential maintenance. So, while we did reduce that during the fourth quarter because basically, restaurants weren't very busy, we will bring that back, and that's why we've got $100 million to 120 million in our capex number for this year."
+    },
+    {
+      "speaker": "John Ivankoe",
+      "speech": "Okay. And maybe thinking about maintenance capex as a percentage of D&A, maybe that's kind of something to think about over the very long term and it doesn't necessarily have to play out over a couple of years, I suppose, is what you're telling."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Yeah. It won't play out much."
+    },
+    {
+      "speaker": "John Ivankoe",
+      "speech": "Okay, understood. And the second topic, and it's kind of a completely different one, but it's a big spending bucket. A lot of companies are kind of thinking about and reevaluating their calendar '21 versus calendar '19 G&A. We're all kind of recognizing how different we can work on efficiency and how much travel we actually need to do and how much money and time virtual work and work-at-home, what have you, actually saves us. And that's something separate even than head count. But how many of the changes in terms of the organization are you making, whether it's spending per employee, not on salary but on things on top of salary, and also number of employees? Are we beginning to think it might be the right level for the organization? And if it's possible to -- because it's such an important number to put in the model and just to think about, what that calendar '21 versus calendar '19, if it's fair to think about it in that way, could look like for Darden?"
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "John, it's hard to answer calendar for us because we're a fiscal year company. We don't think calendar. So to think that way would take a little bit of mental math."
+    },
+    {
+      "speaker": "John Ivankoe",
+      "speech": "Yes, I understand. But it's like I just want to put an asterisk on calendar '20, but you [Indecipherable] right in the middle of it, so no, OK."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "And just let me give you an idea. We would anticipate in the first half of our fiscal year to have significantly less spend per employee in travel and in some of the department expenses that we have. We are also looking at our organization to see what the right size of the organization is, based on our sales levels today. And so, as we mentioned after -- in Q4, we saved $17 million in G&A. We don't anticipate to save $17 million in Q1, but we're going to save some G&A in Q1 and continue into Q2. Without talking about what the percent -- G&A percent is, it's not going to be hugely, hugely different than what it was at the end of the fiscal -- as in fiscal '20. So, I wouldn't model dramatic changes. It could be 50 basis points to 100 basis points different, but higher just because of those sales deleverage. But that's all in our guidance. It's all in what we have in Q1. And as we get better understanding of what our sales levels are going to be going forward, we'll have a better understanding of what our G&A as a percent will be, but we will spend less per person on the department stuff and the travel in the first half of this fiscal year."
+    },
+    {
+      "speaker": "John Ivankoe",
+      "speech": "Very helpful. Thanks for the patience and time."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Matthew DiFrisco with Guggenheim. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "Matthew DiFrisco",
+      "speech": "Thank you so much. I've two quick questions. One for Gene. In particular, you guys have talked a lot about the bigger -- your scale being an advantage and consolidation at the top, so some smaller independent, smaller regional players potentially falling out, some capacity coming out. I wonder if you could update us on sort of your outlook. Say, in the next six months or so, what we should look at as year-over-year capacity that potentially could come out of a full-service casual dining sector? And then, secondly, for Rick, I wanted to sort of walk through that model where you gave about 30% down on sales equates to a little over $600 million in sales in your model in 1Q. And then your EBITDA is about $200 million or so less. I wonder how do we get back to a whole basis year-over-year on EBITDA? Do we need all of the $600 million or so of sales to come back? Or could we get a portion of that to get greater than $200 million of EBITDA back? I'm trying to understand the flow-through on this new lower variable cost model. Thank you."
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Hey Matt. On capacity, I think it -- I'm not going to tell you -- sit here today and predict a number, whether that's 10%, 20%. There's a lot of people throwing around different numbers out there. The one thing I will say, I believe there'll be significantly less restaurants out there to compete against in the near term. And the longer this environment lasts, I think the more fallout you're going to have. And so, I think that is an advantage for us going forward."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "And as it relates to sales to get back to our EBITDA, yeah, you're right, it's about $600 million is what you mentioned on the 30%. We don't need all $600 million to get back to that EBITDA based on what our margin structure looks like today. I'm not going to give you exactly what we need. But it's not 100% of what we were doing before. That said, the reason I'm not going to give you that number is because we may invest some of that stuff -- some of that back. So I don't want to put out a number to say it's 90%, 95% or 100% because we are going to do the right thing for our guests and our team members to make sure that this cost structure that we have today is the right cost structure in the future. And if it's not, we'll make some investments. But I will say that those investments may take a little bit of time, so we will have a better flow-through in the first quarter on some of these sales than we would have had in the past."
+    },
+    {
+      "speaker": "Matthew DiFrisco",
+      "speech": "Excellent. Thank you for that call."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question it comes from the line of Katherine Fogertey with Goldman Sachs. Go ahead please. Your line is open."
+    },
+    {
+      "speaker": "Katherine Fogertey",
+      "speech": "Great, thank you for the question. I have a couple of questions, mainly around the menu simplification that you [Indecipherable] went through during the quarter. And I was hoping you could kind of walk through by brand where you found the greatest amount of efficiency. And you mentioned some -- or about 15% to 20% below prior menu point. What would be the catalyst to bring them back? And any kind of number you could put around the cost savings you've found on that side? And I have a follow-up."
+    },
+    {
+      "speaker": "Rick Cardenas",
+      "speech": "Hey, Kate, this is Rick. On a brand by brand level, to tell you what the margin differences are and what we've done, it's -- it would be pretty long conversation. But I would say that as Gene mentioned earlier, Cheddar's made a lot of change to their menu and a lot of change in their procedures to bring a lot of direct labor out of the system. So, if you think about kind of an order of magnitude, Cheddar's had the most change in their menu and the improvement in their labor cost over time. All of our brands are doing better in direct labor as a percent of sales than they were last year, all of them. Cheddar's is doing a lot better. But to tell you exactly what we did, again, all brands did things differently. All brands changed their menus a little bit differently, but all brands focused on -- when we went into an off-premise only model, they focus on how can we serve, what can we serve, what are our highest value items, what are our highest guest satisfaction items, and what are the items that we can actually run it with just managers?\nAnd so, if you think about brands like Cheddar's, like Capital Grille, the smaller -- the specialty brands, most of their To Go sales when they were To Go only were done with managers only. So we had to simplify that menu. And Olive Garden also simplified, even though they had team members in the restaurant at the same time. But those implementations, again, were to streamline the menu to the most value items for the guests and the ones that the guests wanted the most. And so, what's interesting now [Technical Issues] and without the menu marketing and the different things that we do on menu development, guests are voting with what they're buying. And it's amazing, as we simplify the menu, we can actually see what the guests' favorites really are. And the great thing is, for a brand like Olive Garden, it's a few products that are on a few different menu items, and so it actually is better to keep it that way because we streamline. And so, without giving you specific examples, those are some kind of high levels of how we did it. And again, all brands had hourly labor efficiency improvements, and we expect those to stay, maybe not as good as they were, but we expect the efficiencies to stay."
+    },
+    {
+      "speaker": "Katherine Fogertey",
+      "speech": "That's actually super helpful [Indecipherable]. And then my follow-up question is actually around the comments you made about investing for growth. Am I right to be thinking that M&A is a potential opportunity to [Indecipherable] you have some of the benefit of your balance sheet? And if that is right, what categories look particularly attractive to you? What do you think would help with your overall -- that fit well? Or do you have any holes in your portfolio that you are particularly excited about going forward?"
+    },
+    {
+      "speaker": "Gene Lee",
+      "speech": "Well, the management and the Board will continue to look at the opportunities that are available out there. We'll look at our own portfolio. We look at what is out there that could possibly fit our portfolio. I would -- the only thing I would say on specifics around that is that we believe we want to be in the full-service business. That's where we get the advantages of our scale. So, as we look out there at the full-service environment, I think that we'll continue to analyze the opportunities. And if something makes sense, then we'll try to bring it into our platform. Our thought process is always does it benefit by coming on our platform and does the platform benefit if they -- by them coming on the platform? You get through that screen and they can grow a little bit, then it makes sense. I think right now, it's about timing. It's about what's the right -- what the price -- the price discovery. And then, we'd have to make the decision at that point in time."
+    },
+    {
+      "speaker": "Katherine Fogertey",
+      "speech": "Okay, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "It looks like that's all the questions that we have at this time. I'd like to turn the call back over to our presenters."
+    },
+    {
+      "speaker": "Kevin Kalicak",
+      "speech": "Thank you, James. That concludes our call. I'd like to remind everyone that we plan to release first quarter results on Thursday, September 24 before the market opens. Thank you for participating in today's call."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 103 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kevin Kalicak--Vice President, Investor Relations and Corporate Analysis",
+    "Gene Lee--President and Chief Executive Officer",
+    "Rick Cardenas--Senior Vice President and Chief Financial Officer",
+    "David Tarantino--Robert W. Baird & Co., Inc. -- Analyst",
+    "Brian Bittner--Oppenheimer & Co. -- Analyst",
+    "John Glass--Morgan Stanley -- Analyst",
+    "Gregory Francfort--Bank of America Merrill Lynch -- Analyst",
+    "Andrew Charles--Cowen -- Analyst",
+    "Eric Gonzalez--KeyBanc -- Analyst",
+    "Christopher Carril--RBC -- Analyst",
+    "Jeff Bernstein--Barclays Capital -- Analyst",
+    "Jeff Farmer--Gordon Haskett -- Analyst",
+    "Peter Saleh--BTIG -- Analyst",
+    "Chris O'Cull--Stifel -- Analyst",
+    "Sara Senatore--Sanford C Bernstein & Co., LLC -- Analyst",
+    "Nick Setyan--Wedbush -- Analyst",
+    "Dennis Geiger--UBS -- Analyst",
+    "Nicole Miller Regan--Piper Sandler -- Analyst",
+    "Andrew Barish--Jefferies -- Analyst",
+    "Andrew Strelzik--BMO Capital Markets -- Analyst",
+    "Jon Tower--Wells Fargo Securities, LLC -- Analyst",
+    "Brett Levy--MKM Partners -- Analyst",
+    "David Palmer--Evercore ISI -- Analyst",
+    "John Ivankoe--JP Morgan -- Analyst",
+    "Matthew DiFrisco--Guggenheim Securities -- Analyst",
+    "Katherine Fogertey--Goldman Sachs -- Analyst"
+  ]
+}

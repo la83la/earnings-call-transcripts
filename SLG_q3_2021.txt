@@ -1,0 +1,497 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, everybody, for joining us, and welcome to SL Green Realty Corp.'s Third Quarter 2021 Earnings Results Conference Call. [Operator Instructions] At this time, the company would like to remind listeners that during the call, management may make forward-looking statements. You should not rely on forward-looking statements as predictions of future events as actual results and events may differ from any forward-looking statements that management may make today. All forward-looking statements made by management on this call are based on their assumptions and beliefs as of today. Additional information regarding the risks, uncertainties and other factors that could cause such differences appear in the risk factors in MD&A section of the company's latest Form 10-K and other subsequent reports filed by the company with the Securities and Exchange Commission.\nAlso during today's call, the company may discuss non-GAAP financial measures as defined by Regulation G under the Securities Act. The GAAP financial measure most directly comparable to each non-GAAP financial measure discussed, and the reconciliation of the differences between each non-GAAP financial measure and the comparable GAAP financial measure can be found on both the company's website at www.slgreen.com, by selecting the press release regarding the company's third quarter 2021 earnings and in our supplemental information filed with our current report on Form 8-K related to our third quarter 2021 earnings. Before turning the call over to Marc Holliday, Chairman and Chief Executive Officer of SL Green Realty Corp., I ask that those of you participating in the Q&A portion of the call to please limit your questions to two per person. Thank you.\nI will now turn the call over to Marc Holliday. Please go ahead, Marc."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Okay. Thank you, and good afternoon. Thank you all for joining us today. We have just come from the historic opening of what I consider New York's most thrilling and unique destination, Summit One Vanderbilt, opened to the public earlier today. At 11 a.m., we cut the ribbon in the transcendence room, high above One Vanderbilt with the most incredible and amplified views of New York City. The room is aptly named because everything we've done with this building has been about transcending limits and pushing boundaries. We're doing it again today, but this time, we're taking it to a much higher level literally. At the ribbon-cutting ceremony, I spoke about how One Vanderbilt is representative of what the true 21st century office tower can be. It redefines what it means to integrate excellence in design, efficiency, sustainability, amenity, health, wellness and commutability. By putting it all together, we've established a new category of building, a new icon on the skyline and a new model for the workplace.\nAs a result, we are now more than 90% leased despite COVID, and despite every dire prediction of the city's demise. Several months after we opened this building, we introduced Daniel Boulud's Le Pavillon to the Midtown restaurant scene, and that too was an important milestone for New York, marking the reopening of indoor dining. Every available table has been booked every single night since its opening in May, and there were a lot of questions when we opened that restaurant about whether the New York had enough of a population here in Midtown to support this restaurant. And the restaurant has hundreds and hundreds on waiting list every evening. So now today, at 1:00 p.m., we welcomed our first paid visitors to see and experience this new and exciting cultural destination we call Summit. This time, we've done more than push the boundary, we've completely shattered it.\nWe spent years in design, taking the best elements of observation decks, cultural institutions, experiential art and immersive technology, and combined it all into Summit. The result is an experience that has the potential to not only become one of the most sought-after destinations in New York City, but a true global phenomenon. The energy in New York has been palpable this past month. And now with international borders reopening, hotel is preparing to welcome back millions of guests, live audiences returning to sporting venues and Broadway reopening. New York is back. On certain days of the week, we are reaching nearly 40% physical occupancy in our portfolio, a substantial increase that's been building up over the past few weeks. As a sense of normalcy returns to the city, ambitious projects, like One Vanderbilt, ensure that New York remains a top global destination.\nPeople from around the world come here to shop, to be entertained, to enjoy great food, to see great architecture and visit world-class museums. Summit now becomes an important addition to that lineup. The primary drivers of this market, finance, technology, business services, media and healthcare, are all doing unbelievably well, and beginning to make space commitments that evidence net demand in our market that will stabilize the occupancy rate and hopefully turn into meaningful positive absorption toward the end of this year and 2022. With over 450,000 square feet leased in the third quarter in our portfolio and nearly 1.4 million square feet leased in SL Green portfolio to date, we are tracking well ahead of our leasing goals for the year. And we're doing that at rental levels that are ahead of expectations and almost flat with expiring escalated rents.\nWe carry this momentum into the fourth quarter with the announcement of the seismic Chelsea Piers lease. It's a 56,000 square foot lease to one of the best operators of fitness, wellness and health in New York City. It's only their second Manhattan location. We've been negotiating with Chelsea for quite a while, and they've selected one Madison to be their East side home where they'll be making substantial investment to make a fitness destination that I think is going to be second to none. It's going to be awesome. And that really bodes well for one Madison, which otherwise is already about six to seven weeks ahead of schedule on construction and significantly under budget, even beyond the numbers that we discussed back in December of last year, the buyouts, which now stand at close to 92% of the total project, have resulted in over $12 million of additional contingency savings.\nAnd that's above and beyond the savings we had already factored in to that deal through smart bidding, smart project management, and just given the overall state of the construction market right now, we're experiencing savings while the city and I think the nation at large is experiencing cost increase as a result of supply chain issues that are driving up price. So we're managing that to the best we can, staying well within our budget, and one Madison with that new lease now done and more conversations underway, we feel very, very good about that development. During the quarter, we also completed a couple of dispositions previously announced, but we closed them. Most significantly, the consummation of the sale of about a 50% interest to institutional -- overseas institutional investor in the News Building. And we have more transactions teed up that we think we'll be able to complete in the fourth quarter.\nSo we continue to have great success in monetizing our assets, our gains, and we see that continuing to Q4. That, of course, enabled us to repurchase about an additional $80 million of stock in the fourth quarter, which brings us close, but not completely rounded out -- I'm sorry, in the third quarter, my mistake. $80 million of stock in the third quarter. And that brings us close, but not completely rounded out to our repurchase objectives for the year. So as we sit here, end of October with a rigorous two month sprint to the finish line to get done, all we need to do to close out this year and then embark on what we feel is going to be a solid 2022 for this company, and more importantly, this city. We're excited. I think it's great to have the call on this day. That is really a historic event for the company to open this wonderful experience. And I hope everybody on this call will see it and see it often, experience it. It's truly -- it's fun, it's exhilarating, it's thrilling, and it's everything we set out for it to be.\nWith that, I think we'll open up to questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from the line of Caitlin Burrows with Goldman Sachs. Your line is now open."
+    },
+    {
+      "speaker": "Caitlin Burrows",
+      "speech": "Hi good afternoon everyone. I was wondering if you could just maybe talk about leasing volumes. It looked like they were pretty strong in the third quarter. Could you give more detail on what types of your properties are the most interest and ultimately signings versus which has less? And I guess, also, have you seen this activity continue into 4Q?"
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Well, we signed over 455,000 square feet, which as we said earlier, we've now exceeded what was our full year projection set out at the beginning of the year, and we're on track to beat that significantly by the end of the year. Our pipeline has grown to over 856,000 square feet, the largest that it's been at any point during 2021. And as I think we've seen earlier in the year, a lot of leasing is being driven by either financial service businesses, in particular, and -- who leased 40% of -- it was 40% of our current pipeline and TAMI, which is about 28% of our current pipeline. And a lot of the activity seems to be focused on the better quality buildings.\nThankfully, in our portfolio, the majority of our buildings have enjoyed significant capital investment over the years as we've continued to develop them as healthy workplace environments, and that's paying off for us in helping us increase our leasing velocity. We've got a couple of projects that are in development where amenities and infrastructure upgrades are part of that menu. And we're seeing a lot of good tour activity, strong proposals, and feel very good about the overall velocity as we wrap up this year."
+    },
+    {
+      "speaker": "Caitlin Burrows",
+      "speech": "Great. And then maybe just following up on that kind of investment side. I know you guys are already very active from a development -- redevelopment perspective. But how do you think about continuing that reinvestment or desire to refresh older vintage buildings that haven't been touched recently? So maybe like 1185 Avenue of the Americas, 1350 Avenue of the Americas, 110 Green Street properties like those?"
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Well, I think 1185, we did recently complete a renovation there. But we have big amenity programs going in at 85 Third Avenue, 750 Third Avenue, and obviously, one Madison development. So where we see that we can be accretive in terms of net effective rents, we'll make the investment in the amenities to attract that type of tenant. But there's also a lot of demand for affordable product, which is still a good portion of our portfolio, and we don't -- we like having space available to address that part of the market as well."
+    },
+    {
+      "speaker": "Caitlin Burrows",
+      "speech": "Okay. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Alexander Goldfarb with Piper Sandler. Your line is open."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Hey good afternoon and congrats on the opening of the Summit. Two questions here. First, just big picture. I think you guys took back the garage at 1515, but away from there, do you see parking as an area of focus for investment? Or as you look at the landscape, wherever parking does become available, it's already priced accordingly, such that there's not as much value as there would have been maybe six or seven plus months ago?"
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "Yes, Alex, it's Matt. So we did actually take back several garages during COVID. Several operators, one in particular, did not maintain their rent payments, not only in our portfolio, but across the city and more broadly. We elected to take, it's really a total of like eight or nine garages back, and we've started operating them really over the last three to six months or so, they'll be ramping up. So this year, not a huge impact, will be more material when we start get into 2022. As to additional investment, I don't know that it's hit our radar as a deep investment pool of opportunity. But within our portfolio, we have found that given the current environment, we can make good money off of garage if the opportunity presents itself within our existing portfolio to take another back, I'm sure we'd be happy to."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Okay. And then, Matt, while you're on the phone, I'll hit you for another..."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "I'm not going anywhere, Alex."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "No, I know. I know. So the two parter is on WeWork and the planned One Vanderbilt stake sale. So on WeWork, is that -- have the lease term that you booked, is that the full amount? Or is there any more that you're going to get from them? And then as far as the stake sale, you guys have talked about doing that. So I don't know if now this gets pushed into next year. I know you have the December Investor Day, you'll give us the guidance. But as we start to fine-tune our numbers ahead of the Investor Day for 2022, just trying to think what sort of onetime items like a lease term or like a stake sale we should be thinking about that may move from this year to next year."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "Sure. So specific to the WeWork lease termination we announced, that was incremental to our plan. We did not have that baked in. That was a deal that played out over several months, a huge win for us. That is the bulk of the termination payment we received, but not all. There is a portion that will come in -- supposed to come in, in early '22. And the total of those two would be 100 cents on the dollar of the guarantee and letter of credit that WeWork had on the space. So again, a great accomplishment to get that out of that entity. I think in the face of that, I got several questions as to why guidance wasn't increased by more. If you recall back to December last year, when we gave our full year guidance, we had layered in potential JV interest sales, further JV interest sales in One Vanderbilt and One Madison.\nWe are working both of those, but with regard to One Vanderbilt because it's done so well, and now we have the Summit open and the Summit just opening today, ahead of it has been exceeding our expectations, we may elect to defer that interest sale to 2022 or not do it at all. And that sale had with it recognition of incremental income at closing of $9 million to $10 million. So that was baked in our original guidance if we don't do that, which it seems unlikely we will do this year. That offsets the incremental income from the WeWork termination that we recognized in the third quarter and get back to where we increased our guidance range by $0.05 at the midpoint."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Okay. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Michael Lewis with Truist Securities. Your line is now open."
+    },
+    {
+      "speaker": "Michael Lewis",
+      "speech": "Thank you. So that was good color on the change in guidance. I had a guidance-related question as well. When I look at what the full year range implies for 4Q, it looks like about $1.35 to $1.55, and my question is really what -- with two months left this year, what's kind of driving that range? Is it kind of just giving you some flexibility on either side? Or is there a swing factor in there that could go one way or the other on us?"
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "So important, when we reset the range, we upped the bottom end of the range by $0.15. So clearly, there's not a lot of downside in our numbers, and there is room to the upside. As you look at run rate Q3 into Q4, a couple of things. One, we have the full quarter effect of some sales that we executed in Q3, not the least of which is half of 220 East 42nd Street, which is a material contributor. We also have a significantly lower other income amount in Q4. We had the WeWork termination in Q3. We also had some other fee income.\nNow we seem to find fee income every quarter, but we don't project a lot of it. So that goes down. We -- I talked about the -- taking out the sale of an interest in One Vanderbilt potentially pushing that to 2022, if we do it at all. And then we've layered into some conservatism as we always do. That's why we keep a range. So could we end up higher than our $6.65 midpoint? Sure. But that is not what we guide toward. We guide toward our expected levels in Q4, and that's what we set the range to."
+    },
+    {
+      "speaker": "Michael Lewis",
+      "speech": "Okay. Got it. And then my second question, and I've asked this one before, but as we get closer to let 625 Madison ground lease reset, is there any color you could provide on that? Or is that something you think when you lay out the 2022 guidance in December that you'll kind of address some expectations for what that could be?"
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "So there's nothing at this point to report that's new on 625. There is a very prescribed process, we're part of an appraisal process. The appraiser will set the rent, but the appraiser hasn't even been determined yet. That is not going to happen until December at the earliest, and there is no time line as to when the rent will actually be reset. So until such time the process moves along, we don't really have anything new to add to the process."
+    },
+    {
+      "speaker": "Michael Lewis",
+      "speech": "That's good to understand anyway. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Manny Korchman with Citi. Your line is open."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "Hey. It's Michael Bilerman with Manny. How are you? Marc, my kids are really excited to go up to the Summit. It looks really awesome. And I was wondering if you can just step back just on the office market broadly, you have a lot of companies that have had fits and starts to try to bring their employees back. I think that there's a lot of examples of where it's worked and a lot of examples where it hasn't. It definitely feels as though the employees may not be as excited as the CEOs or the companies may want them to be. And you've already seen some companies back off from in-office work.\nHow do you see this playing out over the next 24 months? Because it doesn't feel like a switch is just automatically going to go on and everything is going to rush back and it would seem that when companies do put those proclamations in, you could see employees just leave their companies and go to companies where they can get a more flexible work environment, having you any sort of -- and this is not just in New York, right? We're seeing this globally. This really was a trend that no one could have anticipated that we all go remote for now with the better part of almost two years. So how do you -- and by the way, while we may not have been as productive, things still got done. So how do you put all this together? And where do you see things landing overall for the office market?"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "We talked about it on the last call, slowly steadily, the numbers are building, and people are coming back to the office. I think like I said, we're averaging in excess of 30% in peak days or mid -- I think the average is close to 35%, peak days are 40%. Some companies may experiment with a day or two a week of flex, but we don't see that impacting their footprint. I mean, I can't project it's going to do in terms of are they going to be five days a week or build some flex into the system. But we have pretty good visibility into is that these same companies, regardless of whatever flexible work model they're going to are still utilizing and mapping and consuming roughly the same amount of space or in some cases, more, and we don't see that many downsizing.\nSo if somebody works four days a week and they're out of the office one day a week, that person still needs a desk or an office or a workstation. It's not like those four days they just stand there. And we don't see a lot of sharing, hoteling, hot desking. If anything, I think COVID has given rise to a little bit more personal space and larger space and partitioning. And I'd say that the era of hot desking is -- we don't see that quite as much. And we see a lot more non-office space being built into these tenant floor plans that we're building. So we will lease this year well in excess of 1 million, 1.5 million square feet.\nThese are tenants that are making 10-year plus commitments with the knowledge of whatever flexible work program they're going to with an expectation they're going to need and utilize that space or else -- these are sophisticated tenants. They're not going to make these commitments if they don't think they're going to utilize the space. So -- our role is not to try and get into the details of how they're going to work their flexible office. We put the space out there. And these tenants, the management leadership of these tenants, I would almost say to a person, says, we got to get back in the office. That's -- the good news is there's a recognition, which -- that the companies are more efficient, competitive and better if their people are together. I could -- there are few and far between the heads of our tenants who don't immediately come out and say that.\nThey're just going to evaluate whether there's a model that works for them competitively that allows them to build in some flexibility, but I don't see that in any way materially altering space demand or shrinkage of footprint. I just -- if we see it we're going to relay that to you guys. I mean the numbers sort of speak for themselves. We're still well occupied. Amenitized buildings are attracting tenants. And so we're beefing up our amenity program, as Andrew said, and we're leasing a lot of space in the pipeline. I don't know if I mentioned the pipeline, yes, it's 830,000 square feet of pipeline. So that -- these are -- this is a pipeline for tenants that have studied and studied where they're going to be with their space plans in the future, and that's where that demand is coming from. So there was flexible workspace before COVID.\nThere's going to be flexible workspace after COVID. The business activity in this city right now is as hot as we've ever seen. Financial firm and financial profits continue to break record after record. The first half of the year, Wall Street profit was over $30 billion, and we're on track for over $50 billion again this year kind of matching last year, and last year was the second best year ever recorded. The technology firms are growing. The start-ups are growing. Business services are growing."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "So I think that's the intention, right? The economy is growing, everything is doing well, but then you get headlines, PwC going all remote, Amazon saying, you know what --"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "But we don't -- our results are not based on headlines. Yeah, it more of, but it's not the headlines that result, what ends up in the results column are signed leases. And in that regard, we're sitting at 1.4 million now with an 800,000 square foot pipeline. So I'm not going to go tell all those tenants hey you're not supposed to lease that space. These tenants are coming to us and they want to lease that space. And we're going to lease it to them.\nChelsea, everybody said -- to your point, everybody said, oh, fitness centers, are going to have a really hard time. People are going to want to now sit at home in their basements, look at a wall, project an image, work out by themselves. Guess what? Chelsea just committed to a 55,000 square foot lease for a 20-year term. And we worked with them to come up with a design plan where they're going to be making a big investment in that space. So whatever the headlines say, Chelsea Piers thinks they're going to put people in 55,000 feet. And you know what? I think they're right."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "Yeah. No, I love New York. I live in New York, and I love every aspect of the interactions I get when -- in all the culture activities and when I'm in the office with my team. So that's my personal view, right, and what I feel. The question though is the office market in general and obviously, SL Green can do a lot of things for their own company, but the office market at large, just feels that the employees -- every survey that you read, the employees themselves have a lot of hesitation not from safety but they feel that they can do their job effectively. And I just don't know how all that will play out ultimately to --"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Mike, maybe that was the case before COVID, if you polled employees before COVID, we don't think there were employees who would have said, I think I could be effective at home? I mean, come on. Come on."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "No, I know. But now we went through this testified, like we just put the -- everyone around the world remote like it was an experiment and then it has continued. Now, I agree with your point that maybe the product --"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Firms who do it are going to suffer. Firms who do it, I believe, will competitively suffer and it will work itself out. And businesses are going to operate in the way that produces the best bottom line. That's our opinion. If people don't believe --"
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "It's a difference of opinion from you, Michael."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Yes, It's just difference of opinion."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "No, no, it's not my opinion. It was more, so I'm asking the question just as we look at all of this and everything that's happening, I'm just trying to get your sense of things. I'm not trying to say it's my opinion. I enjoyed being in New York."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "The dynamic in the city right now I feel is very strong, because businesses are doing well, people are hiring. It's hard to hire. There's like a land grab for human resources and an educated workforce. We have a pipeline of 826,000 feet. We're filling our buildings. I can't speak to others, and we can operate well in this environment. And the business leaders themselves say we want to bring our people back. I believe at the end of the day, that will be the last word on the topic."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "Yes, I appreciate the color Marc and look forward to Investor Day."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of John Kim with BMO Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "Thank you. I was wondering if your views or expectations at the Summit have changed at all, either visitors or revenue or now more recently the valuation of the Summit due to what's happening at the edge?"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Well, I mean, the Summit is doing -- it just opened, so I have to see what our results are from the first hour. But I can tell you that in terms of advanced ticket sales, we are at or ahead of our projections. The people online today, it was like pandemonium down there. People were excited. They were the first ones in the place I've got pictures with hundreds of people on every floor, having a fantastic time. All the feedback from our pre-soft open over the past couple of weeks, really month, has been tremendous.\nSocial media has been great. I have big, big expectations that Summit is going to be a hit. And I don't think that's driven by the edge or any other individual particular venue. I think it's just driven by what we've created, which really is differentiated from, I think, anything in the city, anything in the world for that matter. And I think as a company, it is our shareholders and this company is going to benefit tremendously from I think, an ambitious project where I think we hit the market."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "But what are your views on the valuation that you have put on the edge and--"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Yes, I don't have any views on the valuation. We just opened it today. Ask me -- I mean, generally, I would evaluate it after I see the revenue results. I have my projections of it, I think we're going to vastly exceed those projections. So, I wouldn't value it based on my projections, which are what we went through with you guys in December, we haven't revised those projections, it's still basically the same. With that said, I think we're going to blow them away.\nAnd after a year of operating history, and this is a brand -- I don't look at valuation as kind of the day the door is open. I think it's value we're going to build over the next two to three years as we stabilize this asset. And when we do, we'll look at what stabilized value looks like, but whatever valuation or projections I had nine months ago, I think we're going to do far better."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "Okay. And then my second question is on the UiPath lease at One Vanderbilt. I guess based on public disclosure, it came in at a high initial rent, but the rent bumps are pretty modest afterwards. I think it averaged a little bit over 1%. Is that common in signing leases today?"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "When you say is it common, it's not common to sign leases in excess of $200 a foot. The comp set would be zero. So I don't know how common it would be to -- if you went out and said, what is the bump average on -- how big was the UiPath lease rent? I mean, how big are the rents? I don't know if you want to go to UiPath. I wouldn't talk about UiPath."
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "They may have released rent. But UiPath was on our underwriting. It's a tremendous lease. It's a great validation of Midtown as a destination for technology tenants, which the narrative is technology tenants don't locate here and it's false. And we're very pleased with the lease."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Yes. Anyone who gave you the impression that the UiPath or any of the leases we're doing here are kind of underwhelming economics, has got their kind of screw loose."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Anthony Powell with Barclays. Your line is open."
+    },
+    {
+      "speaker": "Anthony Powell",
+      "speech": "Hi, good afternoon. Just a question on the leasing activity that's been pretty strong this year. When you look at the tenants that have been signing leases, have you noticed any tenants that have a permanent flexible work arrangement signing the same amount of floor space? Or do you see those tenants, I guess, redesigning or maybe lowering the amount that they would use on a per employee basis?"
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Well, I'm not -- let me just clarify your question. Are you asking us whether or not we see tenants leasing space that includes some component of flex office where they go to a WeWork type setup? Or are you simply saying from a design perspective, are they using their space differently to be more flexible?"
+    },
+    {
+      "speaker": "Anthony Powell",
+      "speech": "I was trying to ask if tenants who you know to be kind of going to a three or four-day in the office kind of arrangement, and are they -- go ahead."
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Okay. So -- I will say, broadly speaking -- let me set it up this way. We have the greatest number of large deals, large term sheets being exchanged, leases out that I've ever seen at one point in time being -- large being a 100,000 square foot or larger type transactions in our pipeline that I've ever seen in my entire career. Having said that, none of these tenants really know where their requirement is going to be a year or five years from now, not necessarily driven simply by a work-from-home component. They don't know their headcounts. They have confidence that their businesses are going to remain strong, but they're changing how they use the space.\nThey may or may not have some work-from-home component. And even having said that, we've seen tenants that thought they were going to have a significant work-from-home component that have reversed that decision, have come back to us, in fact, and said, hey, where I was going to give up the space. I no longer want to give up that space or, hey, I actually need to lease more space. So there's a lot of -- I think there's a lot of uncertainty from -- on the tenant side as to where their space requirements are going to go. And not to suggest it's just on the downside. Tenants are baking into their leases as much future growth as they are protecting themselves about having flexibility on the downside."
+    },
+    {
+      "speaker": "Anthony Powell",
+      "speech": "Got it. Thanks for that. And just one more on the transaction activity. Can you give more detail on 48th and Broadway, the deal there? The third-party contesting the rights, so just more details on the strategy and the overall transaction?"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "It's the subject of a pending litigation. So I think what we've released thus far is really all we're in a position to release."
+    },
+    {
+      "speaker": "Anthony Powell",
+      "speech": "Okay. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Steve Sakwa with Evercore ISI. Your line is open."
+    },
+    {
+      "speaker": "Steve Sakwa",
+      "speech": "Thanks. Good afternoon. Marc, I was just wondering if you could talk a little bit more about the disposition program. You didn't sell a lot other than what you had put under contract earlier, but you talked about a pretty big pipeline, but potentially delaying some JVs? And then how does that sort of tie in with the buyback program moving into fourth quarter?"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Well, we see delays in JV. I think there was one in particular."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "Just One Vanderbilt --"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "-- say, the issue with Steve Durels. So I think what Matt talked about was One Vanderbilt. We're not delaying it. Did you give their rationale for those --"
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "Potential -- potential --"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "We're not delaying it per se. Again, I think there may be a misunderstanding by some as to the -- what's going on here at this building and in Summit, the results are extraordinary, and it's not a delay as much as what we're assessing. Like we've done in the past is for the benefit of the shareholders, rather than sort of go forward now without leasing up the last 9% of the building and waiting for the full year results from Summit or, let's call it, one to one-and-a-half years.\nIt would just be possibly advised to go forward at this time, because the results of the building are outstripping where we thought we'd be in December of last year. So it's -- we're just sort of electively saying, if we're going to sell an additional interest in the building, let's make sure we're doing it at the optimal time. That's as it relates to OVA. I don't think there are any other JVs that we're delaying."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "And other than that, in terms of new pipeline of sales, we have several assets that are in the market where we're negotiating contracts. And hopefully, those contracts will be in the form to be executed and announceable between now and December investor, I can't make any guarantees on that. But we still see a pretty healthy market, and we still see a couple of deals in our business plan that we hope to knock down by the end of the year."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "Yes. And Steve, as it relates to use of proceeds, I think I was asked this question first or second quarter, what we would do with the proceeds of incremental sales. And we said we're going to balance out debt repayment and share repurchases. So we did share repurchase $80 million worth in the third quarter, and we used some proceeds to manage the leverage point, which is something that people push on all the time is our leverage level. So we are balancing that out.\nIf we are able to close a transaction or two before the end of the year, we'll do the same thing, look at whether it's appropriate to buy stock with that -- with those proceeds or take down leverage. We've been trying to maintain that leverage neutrality. And when we're at the leverage-neutral level, we can buy with the incremental proceeds. We'll continue to do that."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "I think that's the way of saying, as we put more assets under contract, there's good chance we'll see some more buybacks, right?"
+    },
+    {
+      "speaker": "Steve Sakwa",
+      "speech": "Got it. And then I don't know if you -- Marc, you or Andrew, can maybe just comment on the DPE activity that you're seeing. I know it wasn't -- there weren't a lot of paybacks, there weren't a lot of originations in the quarter. But just what does that business look like today? And what are your expectations moving forward?"
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Well, I think there's very, very aggressive first mortgage market, which we'll talk about in more depth at Investor Day for sure. And that does crowd out when you have higher advanced rate first mortgages, has less demand for mezz dollars. So it's a competitive market out there to find new origination opportunities. And I also think you have less transaction activity than in a normal year. A lot of times, originations come as a result of those transactions. So those two things combined, I think it's a slower sort of market out there for mezz paper. But we're also taking a very conservative approach after raising the liquidity we raised in 2000. The intention is not just a turnaround and fire it back out, and we're being very selective in terms of originations."
+    },
+    {
+      "speaker": "Steve Sakwa",
+      "speech": "Great. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Jamie Feldman with Bank of America. Your line is open."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Great. Thank you. I guess just sticking with the transaction market, can you just characterize where you think we stand today in terms of risk taking on value add? I mean, it does sound like you're kind of more optimistic about where things are heading in New York City. Is there more capital looking now? And how would you explain?"
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Well, I think there's a lot of capital raised. And I think the most notable trade that just closed probably was BlackRock CBS' headquarters at 31 East 52nd. That's an older dated 6th Avenue product that has not had any capital invested, hasn't been amenitized and has a very aggressive lease rollover schedule and that building traded for a very healthy per foot. So traded for $871 a foot. I think there is a lot of capital out there. There's a lot of owners that are refinancing rather than selling because debt is so cheap, and you can go out long term at very compelling rates. And I do think that there's a lot of activity sort of pending out there as capital comes off the sidelines and gets more comfortable putting money out in New York."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Okay. And then thinking about inflationary pressures and your ability to offset them. Can you talk about where you think -- where -- from an operating perspective, where you are seeing the most inflationary pressures and how you can pass that through? And then, I guess, at the same time, thinking about your ability to raise rents or at least improve economics on leases? Like, where do you think you have the most leverage now to improve terms?"
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Well, I think rents, we're not there yet on the commercial space, residential market is basically fully recovered. And I think 185 Broadway, which we started leasing in August, September, we'll wind up renting ahead of pro forma. Residential rents have fully sort of corrected back. Commercial rents, we don't have pricing power anywhere other than our best buildings. I think every landlord is holding the line. I don't think there's erosion in rents by any stretch. But in Class A space, demand is there to push rents a little bit. On the expense side, do you want to?"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "We're 93% leased, and the best defense against inflation is to have a well-leased portfolio where increases in operating expenses are passed through to our tenants. And at 93%, we're in a good spot."
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "I don't think we've seen ramp in..."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "No, we're going through our projections for next year. We, to this point, haven't seen a dramatic increase on the expense side. We'll be looking that again before we give guidance in December."
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Elective rates are definitely higher and that's all pass-through."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "But the other side of that is, for the first time in a long time, we're seeing a little bit of a surprise benefit on the real estate tax side, which came in. We got our builds in July, and they came in below our expectation."
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "Right. So that has certainly offset any increase on the operating expense side as it should."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Okay and thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Blaine Heck with Wells Fargo. Your line is open."
+    },
+    {
+      "speaker": "Blaine Heck",
+      "speech": "Great. Thanks. Marc, to follow up on some of the flex space questions in the context of getting WeWork out of 609 Fifth, I guess, how are you thinking about flex space in your portfolio going forward? It seems like there's a place in the market for this type of space, but there have certainly been difficulties with the operator. So how are you thinking SL Green will offer flexible options in the future, if at all?"
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "I mean, if the question is, what do we think about co-working as a viable sector that has -- could have tenancy within the building -- in our portfolio. If that's the question then, I would say we like the co-working sector. We have co-working tenants. We don't have a lot of exposure to that industry. Yes, without the WeWork lease, it's got to be below 3%."
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "Below. Yes, it's at 1% to 2%."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "1% to 2%. So I mean it's -- in the scheme of the portfolio, it's kind of -- it has no significant representation. But with that being said, we have some very good co-working businesses, some of whom have been around for like as long as I could remember, 10, 20 years, right? I mean, or longer. So I think the business model is fine. It's -- the examples of where people run that business model well, we have Emerge. And Emerge has been alive and kicking for 20 years, and we have two or three facilities at any one point in time. They stay relatively leased like they are now. And they serve a role in this market.\nSo we -- it's not a role we focus on, but I do believe there is an important and legitimate role that co-working plays as long as it's based on a sound fundamental model where those tenants are renting at rents more than they can sustain or they don't over improve the space. They improve it to a level that is sustainable. And that's what I've seen the better ones do, and that's what Emerge does. But I like the space. It's just -- it's not a very -- it's not a driver, if you will, within the city at this time. It was maybe, I don't know, five years ago or so. Three to five years ago, there was a lot more talk about that space. But I think right now, it's kind of settling back to the mean."
+    },
+    {
+      "speaker": "Blaine Heck",
+      "speech": "Great. That's helpful. And then congrats on the lease at one Madison. It seems like a great tenant to have in place to drive further interest in leasing there. Is there anything you guys can say about the rent Chelsea is paying and the concessions involved with that lease versus maybe what you were expecting in your pro forma? And then if you could give any update on any leasing process -- progress at the office space at one Madison, that would be great."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "So Chelsea lease was -- it's right on pro forma, probably a little bit more capital, but we had not anticipated. What is being built far outstrips or exceeds what we had intended for the space. So it's not a fair comparison. We were looking for a little bit more of -- not that we were looking for, but we had modeled more of a traditional build-out, if you will. We probably didn't have the 60-foot climbing wall, and we probably didn't have..."
+    },
+    {
+      "speaker": "Steve M. Durels",
+      "speech": "We didn't have full floor retail on the ground floor."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Full floor retail presence that Chelsea Piers wants because they want that retail presence. So the configuration is different, and the product exceeds our expectation, the capital is probably a little bit higher. But in the context of that deal, where we have massive savings. The excess is out of contingency, there's zero issue to the budget. And as mentioned earlier, the budget is still far under. And the use is as good as we could have asked for."
+    },
+    {
+      "speaker": "Steve M. Durels",
+      "speech": "And number one amenity."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Yeah. And now it's like it's our number one amenity for us to market off of. And Chelsea Piers knows that and wants us to, because they want to drive business to their place. And we want to use that as an example of the best of the best kind of tenants that will be attracted to one Madison, and want to make it their home or campus. This is a step in that direction. We have other negotiations going with other tenants that I think are equally consistent with that theme."
+    },
+    {
+      "speaker": "Steve M. Durels",
+      "speech": "And then, on the office side, we have very robust tenant interest. We've got active term sheets being exchanged. We're not in a position to say whether we'll make any of those deals yet. But as we sit here today, by comparison to where we were in the life cycle of the development of One Vanderbilt, the level of large-scale tenant interest at one Madison is much earlier to the game than it was at One Vanderbilt. I think that speaks a lot about what we're building, the quality of the location and the desire of these large tenants to want to be in an interesting, healthy amenitized work environment that is hard to find on the East side of Manhattan. So we're pretty pumped about that, but we don't want to count on anything. It's a little too early to the game. But lots and lots of very good positive term sheets being exchanged."
+    },
+    {
+      "speaker": "Blaine Heck",
+      "speech": "Okay. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Ronald Kamdem with Morgan Stanley. Your line is open."
+    },
+    {
+      "speaker": "Ronald Kamdem",
+      "speech": "Great, two quick ones from me, going back to, I think, the leasing question, year-to-date sort of leasing activity is above 2019, which is pretty impressive. I think you provided color in terms of some of the sub-sectors, whether it's financials or TAMI. Just curious, can we slice it a different way in terms of size, large versus medium and small? Is there any sort of notable trends or differences between sort of now and sort of pre-COVID levels?"
+    },
+    {
+      "speaker": "Steve M. Durels",
+      "speech": "Yeah. As I said earlier, I've never experienced such a large number of large prospects in our pipeline at any one time. As we sit here today, we have a significant number of large tenants being defined as tenants above 100,000 square feet. And I think compared to prior market disruptions, it always seemed -- in the past, it was a small tenant that sort of were the first ones to come back into the market, whether it was new businesses being formed, there were layoffs and people went off on their own.\nIn this case, it seems that the leasing recovery is being led by the large tenants who are looking past-COVID and, are wanting to, make long-term commitments and spend the capital to reinvent their workplaces to give their employees a reason to want to be in the office. And I think that's -- it's a unique differentiator. But the good news is there's, big boys out there and they are serious about making commitments."
+    },
+    {
+      "speaker": "Ronald Kamdem",
+      "speech": "Great. And then, the second question was just thinking about one Madison, just curious, was there any sort of lessons learned after executing One Vanderbilt, whether it's design, construction or the leasing plan? And sort of getting all those moving pieces together was there any sort of lesson learned or best practices that are applicable to one Madison as you're sort of embarking on that project? Thanks."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Yeah. Well, the lessons learned definitely translated from one project to the next because the team is almost identical, in most respects. So that's a big bonus for us. So, if nothing else, just the communication and workflow between the myriad of companies and consultants, etc, is as good now as ever. And there's no learning curve, that's great. In terms of the development plan, they're pretty different kinds of development. I think some of what we learned here is that tenants greatly appreciate, I think, amenity finish, design, thoughtfulness in a way that I think is underappreciated in the market generally, having the sort of best-of-class hospitality-like spaces where you don't really cut corners. But the tenants kind of feel it and see it.\nAnd they know when you've gotten 100% distance to deliver a great product and include great food and beverage experience as part of that and an outdoor experience and space that they can utilize for events and their own uses either during business hours or after. Sometimes, developers will build these spaces and they can advertise, they have it, but it's not spaces that tenants really want to bring their guests of hundreds to and/or there's not a food and beverage or hospitality program to support it.\nSo putting together the human resource element, which is a great hospitality division and personnel with really well-executed food and beverage with really well-designed space and functional thought, that package together is pretty powerful in trying to differentiate product. And so we're just trying to do more of that and do it better at one Madison. Health -- healthy workplace, I think, is something that is borne out of One Vanderbilt but also borne out of COVID. So we're putting extra energy and effort into one Madison to try and make it at the very top of what it can be from a health, wellness and sustainability aspect. The DOAS system that I think Steve has spoken about previously, if not today, is sort of a hallmark of that project. Steve, do you want to just..."
+    },
+    {
+      "speaker": "Steve M. Durels",
+      "speech": "Which -- it will be one of the largest-spec buildings to deploy DOAS. For those who don't know what it is, it has an ability to 100% circulate outside air as opposed to recirculating interior air. So it makes the workplace a healthier work environment. And it's something that we had designed into the project pre-COVID, but it was an emphasis on using cutting-edge technology to create and emphasize healthy workplace that we saw firsthand at One Vanderbilt that the tenants put a lot of value into that. So I think to Marc's point, great architecture, heavily amenitized, weighted toward food and beverage and outdoor spaces and a healthy working place environment, those were all key factors that has made One Vanderbilt so successful and why I think we're seeing such strong interest in one Madison at this point in time."
+    },
+    {
+      "speaker": "Ronald Kamdem",
+      "speech": "Great. Thanks."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "That's the last question then?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our last question comes from the line of Nick Yulico with Scotiabank. Your line is open."
+    },
+    {
+      "speaker": "Nick Yulico",
+      "speech": "Thanks. Just a couple of quick ones here. In terms of One Vanderbilt, can you just remind us, just on a rough number, what percentage -- or rather what is the gap NOI that was actually achieved in the quarter as you're thinking about the ramp that still has to happen? And then also on capitalized interest, can you just remind us how it's going to work with that project, when it gets removed from construction in progress and just how to think about capitalized interest over the next year?"
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "Sure. I'll get into capitalized interest more in December when I give guidance. But generically speaking, the building opened about a year ago. So one year is your time frame after which you can't capitalize on vacant space but can still capitalize while space that's leased is being built out. So we'll ramp down as space is coming online over the course of 2022. GAAP NOI for the quarter for One Vanderbilt was $9.5 million, our share."
+    },
+    {
+      "speaker": "Nick Yulico",
+      "speech": "Okay. Great. Thanks. Just last question is on, I guess, the fact that leasing volume, you're talking about it is hotter than expected this year? The pipeline is strong as well. You did hit your -- you are going to hit your guidance on occupancy for the year, but you're still down versus pre-COVID. So I guess any high-level thoughts on the ability to get back from 93% where you're at today, versus 95%, even 96%, I think you were at some point in 2019."
+    },
+    {
+      "speaker": "Steve M. Durels",
+      "speech": "It's still a very unsettled market, Nick. So we're pleased with the velocity that we've seen and we've got good tenant demand. But it's hard to predict. There is a lot with the chop still going forward. And we'll have to take one data time."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Yes. I just wasn't sure and I don't know that people are still -- I don't know how many people, but we're comparing this environment to what it was 12, 18 months ago -- six, 12, 18 months ago. And it feels really good. We are still at a level in this market right now that's starting from like a 17% or 18% vacancy rate, which is very, very high. And it's going to take a lot to absorb that space, and it will be absorbed. But I would guess most of '22 will be spent absorbing that space. The good news is going to be, directionally, we're going to be heading in the right direction. And the deals are going to firm up and we expect our occupancy to rise. But it's not flip a switch kind of thing. The deals just don't roll out that way. We can only do so much leasing in a year and the market can do so much leasing in a year.\nSo I think we're very optimistic, but I think we're also very realistic that we're going to have to be on our best game with our best product to get back to the levels we want to be back to. I think I heard it was 95%. We want to get back to like 97%. That's where -- that's when the portfolio is really cooking in, and that's when you have a market environment that's sub 9% vacancy market. We're not there anywhere closer there now. So we'll have to do our best within that framework and hope we can deliver the results in '22."
+    },
+    {
+      "speaker": "Andrew W. Mathias",
+      "speech": "And honestly, Nick, in this market where rents are not truly reflective of the value of the space because of the vacancy in the market that Marc was talking about, we actually like to just hold some space off and not lease it aggressively. So that will just -- we do want to get back to that 97%, but we're going to do it appropriately from an economic perspective as well."
+    },
+    {
+      "speaker": "Nick Yulico",
+      "speech": "All right. Appreciate it. Thanks, Matt, Marc everyone."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Thanks, Nick. All right. Operator, is that the last question?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no further questions."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "Okay. We're all going back to the Summit. So"
+    },
+    {
+      "speaker": "Matthew J. DiLiberto",
+      "speech": "See you everybody there."
+    },
+    {
+      "speaker": "Marc Holliday",
+      "speech": "This concludes the call and we'll see you in December at the event."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 62 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Marc Holliday--Chairman and Chief Executive Officer",
+    "Andrew W. Mathias--President",
+    "Matthew J. DiLiberto--Chief Financial Officer",
+    "Steve M. Durels--Executive Vice President, Director of Leasing and Real Property",
+    "Caitlin Burrows--Goldman Sachs -- Analyst",
+    "Alexander Goldfarb--Piper Sandler -- Analyst",
+    "Michael Lewis--Truist Securities -- Analyst",
+    "Michael Bilerman--Citi -- Analyst",
+    "John Kim--BMO Capital Markets -- Analyst",
+    "Anthony Powell--Barclays -- Analyst",
+    "Steve Sakwa--Evercore ISI -- Analyst",
+    "Jamie Feldman--Bank of America -- Analyst",
+    "Blaine Heck--Wells Fargo -- Analyst",
+    "Ronald Kamdem--Morgan Stanley -- Analyst",
+    "Nick Yulico--Scotiabank -- Analyst"
+  ]
+}

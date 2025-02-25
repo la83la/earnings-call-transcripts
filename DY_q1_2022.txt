@@ -1,0 +1,381 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and thank you for standing by. Welcome to the Dycom Industries Inc. Q1 2022 Results Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]\nI would now like to hand the conference over to your speaker today, Steve Nielsen, President and Chief Executive Officer. Please go ahead."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Thank you, operator. Good morning, everyone. I'd like to thank you for attending this conference call to review our first quarter fiscal 2022 results.\nGoing to Slide 2. During this call we will be referring to a slide presentation, which can be found on our website's Investor Center main page. Relevant slides will be identified by number throughout our presentation. Today, we have on the call, Drew DeFerrari, our Chief Financial Officer; and Ryan Urness, our General Counsel.\nNow I will turn the call over to Ryan Urness."
+    },
+    {
+      "speaker": "Ryan F. Urness",
+      "speech": "Thank you, Steve. The statements made during this call may be forward-looking in nature and are provided pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include all comments reflecting our expectations, assumptions or beliefs about future events or performance that do not relate solely to historical periods.\nForward-looking statements are subject to risks and uncertainties which may cause actual results to differ materially from our current projections, including those risks described in our Annual Report on Form 10-K filed March 5, 2021, and our other filings with the U.S. Securities and Exchange Commission. We assume no obligation to update any forward-looking statements. Steve?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Thanks, Ryan. Now moving to Slide 4, and a review of our first quarter results. As we review our results, please note that in our comments today and in the accompanying slides, we reference certain non-GAAP measures. We refer you to the quarterly report section of our website for a reconciliation of these non-GAAP measures to their corresponding GAAP measures.\nTo begin, I want to express my sincere thanks to our employees who have served our customers with real fortitude in difficult times over the last 15 months.\nNow, for the quarter. Revenue was $727.5 million, a decrease of 10.7%. Organic revenue excluding $3.9 million of storm restoration services in the quarter declined 11.1%. As we deployed 1 gigabit wireline networks, wireless/wireline converged networks and wireless networks this quarter reflected an increase in demand from two of our top five customers.\nGross margins were 14.8% of revenue, reflecting the continued impacts of the complexity of a large customer program. Revenue declined year-over-year with other large customers and the effects of winter weather in the first half of the quarter. General and administrative expenses were 9.2% and all of these factors produced adjusted EBITDA of $44.1 million or 6.1% of revenue. And adjusted loss per share of $0.04 compared to earnings per share of $0.36 in the year ago quarter. Liquidity was strong at $477.4 million and operating cash flow was $41.5 million. Finally, during the quarter we issued $500 million in 4.5% senior notes due in April 2029, and resized and extended our credit facility through April of 2026. These two transactions leave the company solidly financed as we look forward to better performance.\nNow going to Slide 5. Today, major industry participants are constructing or upgrading significant wireline networks across broad sections of the country. These wireline networks are generally designed to provision 1 gigabit network speeds to individual consumers and businesses, either directly or wirelessly using 5G technologies. Industry participants have stated their belief that a single high capacity fiber network can most cost-effectively deliver services to both consumers and businesses, enabling multiple revenue streams from a single investment. This view is increasing the appetite for fiber deployments and we believe that the industry effort to deploy high capacity fiber networks continues to meaningfully broaden our set of opportunities.\nIncreasing access to high capacity telecommunications continues to be crucial to society, especially in rural America. The wide and active participation in the completed FCC RDOF auction augurs well for dramatically increased rural network investment, supported by private capital that in the case of at least some of the participants is expected to be significantly more than the FCC subsidy. We are providing program management planning, engineering and design, aerial and underground and wireless construction and fulfillment services for 1 gigabit deployments. These services are being provided across the country in numerous geographic areas to multiple customers, including customers who have initiated broad fiber deployments, as well as customers who have resumed broad deployments. These deployments include networks consisting entirely of wired network elements as well as converged wireless/wireline multi-use networks.\nFiber network deployment opportunities are increasing in rural America, as new industry participants respond to emerging societal incentives. We continue to provide integrated planning, engineering and design, procurement and construction and maintenance services to several industry participants. Macroeconomic effects and potential supply constraints may influence the near-term execution of some customer plans. Broad increases in demand for fiber optic cable and related equipment may impact delivery lead times in the short-to-intermediate term. In addition, the market for labor is tightening in some regions of the country, particularly for unskilled, semi-skilled new hires. It remains to be seen how geographically broad these conditions will be and how long they will persist. Despite these factors, we remain confident that our scale and financial strength position us well to deliver valuable service to our customers.\nMoving to Slide 6. During the quarter, organic revenue decreased 11.1%. Our top five customers combined produced 68.2% of revenue, decreasing 23% organically. Demand increased for two of our top five customers. All other customers increased 31.9% organically. AT&T was our largest customer at 21.4% of total revenue or $155.6 million. AT&T grew 0.9% organically. This was our first quarterly organic growth with AT&T since our July of 2019 quarter.\nRevenue from Comcast was $131.1 million or 18% of revenue. Comcast was Dycom's second largest customer and grew organically 10.7%. Verizon was our third largest customer at 12.6% of revenue or $91.5 million. Lumen was our fourth largest customer at 485.8 million or 11.8% of revenue. And finally, revenue from Windstream was $32.1 million or 4.4% of revenue. Windstream was our fifth largest customer. This is the ninth consecutive quarter where all of our other customers in aggregate, excluding the top five customers, have grown organically. In fact, the 31.9% organic growth rate with these customers is the highest growth rate in at least nine years.\nOf note, fiber construction revenue from electric utilities was $47 million in the quarter or 6.5% of total revenue. This activity increased organically 92.1% year-over-year. We have extended our geographic reach and expanded our program management network planning services. In fact, over the last several years, we have meaningfully increased the long-term value of our maintenance and operations business, a trend which we believe will parallel our deployment of 1 gigabit wireline direct and wireless/wireline converged networks, as those deployments dramatically increase the amount of outside plant network that must be extended and maintained.\nDespite this overall industry trend, we were recently notified by customer representing less than 5% of our revenue that it had decided to in-source a portion of the construction and maintenance services that are currently provided for them by us as well as a number of other suppliers. They expect to implement this decision during the fourth calendar quarter of 2021. After this initiative is fully implemented, we expect to continue working for this customer in several markets under new contracts and perform other work on an ongoing basis. Although it currently appears at lower levels of activity.\nNow, going to Slide 7. Backlog at the end of the first quarter was $6.528 billion versus $6.81 billion at the end of the January 2021 quarter, decreasing approximately $282 million. Of this backlog, approximately $2.746 billion is expected to be completed in the next 12 months. Backlog activity during the first quarter reflects solid performance as we booked new work and renewed existing work. We continue to anticipate substantial future opportunities across a broad array of our customers. From various electric utilities, fiber construction agreements in Arizona, Oklahoma, Missouri, Arkansas, Mississippi, Indiana, Kentucky, Tennessee, Georgia, and North Carolina.\nFor Ziply fiber, construction and maintenance agreements in Washington, Oregon, and Idaho. For Charter, a fulfillment agreement covering Washington, Nevada, Montana, Wisconsin, Massachusetts, Connecticut, New York, North Carolina, South Carolina, Alabama, and Georgia. From Frontier, locating services agreement in California. And for Consolidated Communications, a construction services agreement in New Hampshire. headcount increased during the quarter to 14,331.\nNow I will turn the call over to Drew for his financial review and outlook."
+    },
+    {
+      "speaker": "H. Andrew DeFerrari",
+      "speech": "Thanks, Steve, and good morning, everyone. Going to Slide 8. Contract revenues for Q1 were $727.5 million and organic revenue declined 11.1%. Adjusted EBITDA was $44.1 million or 6.1% of revenue. Gross margins were 14.8% in Q1 and decreased 169 basis points from Q1 '21. This decrease resulted from the impact of a large customer program as well as margin pressure from revenue declines for other large customers compared to Q1 '21. Margins were also impacted by the adverse winter weather conditions experienced in many regions of the country during the first half of the quarter.\nG&A expense increased 112 basis points, reflecting higher stock-based compensation and administrative and other costs. Non-GAAP adjusted net loss was $0.04 per share in Q1 '22, compared to net income of $0.36 per share in Q1 '21. The variance resulted from the after-tax decline in adjusted EBITDA, offset by lower depreciation, lower interest expense, and higher gains on asset sales.\nNow going to Slide 9. Our financial position remains strong. Over the past four quarters, we have reduced notional net debt by $185.2 million. During Q1, we issued $500 million of 4.5% senior unsecured eight-year notes due April 2029. We repaid $105 million of revolver borrowings and $71.9 million of term loan borrowings, and we resized and extended our senior credit facility through April 2026. Cash and equivalents were $330.6 million at the end of Q1. $58.3 million is expected to be used to repay our convertible notes due September 2021.\nWe ended the quarter with $500 million of senior unsecured notes, $350 million of term loan, no revolver borrowings, and $58.3 million principal amount of convertible notes. Our capital allocation prioritizes organic growth followed by opportunistic share repurchases and M&A within the context of our historical range of net leverage. As of Q1, our liquidity was strong at $477.4 million, and we continue to maintain a strong balance sheet.\nGoing to Slide 10. Operating cash flows have remained strong and totaled $41.5 million in the quarter. The combined DSOs of accounts receivable and net contract assets were at 128 days, an improvement of eight days sequentially from Q4 '21. Capital expenditures were $28.6 million during Q1 net of disposal proceeds, and gross capex was $31.6 million. Capital expenditures net of disposals for fiscal 2022 are expected to range from $105 to million to $125 million, a reduction of $40 million when the midpoint as compared to the midpoint of the prior outlook. This deferral reflect short-to-medium term manufacturer supply constraints.\nGoing to Slide 11. For Q2 2022, the company expects contract revenues to range from in-line to modestly lower as compared to Q2 2021, and expects non-GAAP adjusted EBITDA as a percentage of contract revenues to decrease compared to Q2 2021. We expect the year-over-year gross margin pressure of approximately 200 basis points from the impact of a large customer program and from revenue declines for other large customers that are expected to have lower spending in the first half of this calendar year. We expect approximately $8.7 million of non-GAAP adjusted interest expense for the components listed as well as $0.7 million for the amortization of the debt discount on convertible notes for total interest expense of approximately $9.4 million during Q2. We expect the non-GAAP effective income tax rate of approximately 27% and diluted shares of $31.3 million.\nNow I will turn the call back to Steve."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Thanks, Drew. Moving to Slide 12. Within a recovering economy, we experienced solid activity and capitalized on our significant strengths. First and foremost, we maintained significant customer presence throughout our markets. We are encouraged with the emerging breadth in our business. Our extensive market presence has allowed us to be at the forefront of evolving industry opportunities. Telephone companies are deploying fiber to the home to enable 1 gigabit high speed connections, increasingly rural electric utilities are doing the same. Cable operators are deploying fiber to small and medium businesses and enterprises. A portion of these deployments are in anticipation of the customer sales process.\nDeployments to expand capacity as well as new build opportunities are under way. Dramatically increased speeds to consumers are being provisioned and consumer data usage is growing, particularly upstream. Fiber deployments enabling new wireless technologies are under way in many regions of the country. Customers are consolidating supply chains, creating opportunities for market share growth and increasing the long-term value of our maintenance and operations business. As our nation and industry recover from the COVID-19 pandemic, we remain encouraged that a growing number of our customers are committed to multi-year capital spending initiatives. We are confident in our strategies, the prospects for our company, the capabilities of our dedicated employees and the experience of our management team.\nNow operator, we will open the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from the line of Sean Eastman from KeyBanc Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "Sean Eastman",
+      "speech": "Good morning, Steve and Drew. Thanks for taking my questions. I just wanted to start on the comments on supply chain constraints and how that could potentially have a near-term impact on customer deployment kind of phasing? I'm just curious is that something you're seeing slowdown activity today or something you're trying to get out in front of since it's a big topic these days? And what exactly in the supply chain do we need to be monitoring, Steve."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "So, Sean, I think it is a big topic. I think the way we see it in the business so far is that the trajectory of growth as customers kickoff new programs probably could be a little bit faster if the input were a little more available. That's not unusual. We saw that 10 years ago. We've seen that at other times in the business. And so I just think it's -- in some ways it's a little counter intuitive, but obviously, would be better where all the inputs freely available, but it's also indicative of how much upturn in demand that we can see in the industry."
+    },
+    {
+      "speaker": "Sean Eastman",
+      "speech": "Okay. Okay, thanks. And then in terms of the margin guidance for the second quarter, I mean 200 basis points year-over-year, lower year-over-year gross margins. I mean, how much of that is from the challenged customer program? It would just be helpful to get some more color on why that challenge program is still having such a pronounced impact from a year-over-year perspective, and if you could give us some indication of how that drag looks into the third quarter, fourth quarter, even directionally it would be really helpful, Steve."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Go ahead, Drew."
+    },
+    {
+      "speaker": "H. Andrew DeFerrari",
+      "speech": "Sure. Thanks, Sean. So, yeah, as we talked about in the comments, we anticipate year-over-year impact of about 200 basis points. There were several things that we talked about it in there, the large customer program, and we've also had a few customers that appear to be spending less in the first half of the year and so there is some absorption around that component as well."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "I think, Sean, with respect to the large customer program, look it's a smaller part of the business. There's lots of close out activity that's associated with completing markets. There are costs associated with that. And we just got chop through one. And every day that goes by, we're chopping through more and we're on a path to to make this a much smaller effect on the business, but we got to get through it."
+    },
+    {
+      "speaker": "Sean Eastman",
+      "speech": "So I guess just a follow-up on that. I mean, how much of the 200 basis points is the challenged customer program versus absorption on the remaining balance of customers."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "It's a significant factor, Sean. But it's not the only factor. I mean, the other thing that was clear in the revenue that we had and the comments that we heard from Lumen is that they got off to a slower start to the year. They expect that to continue. But when you have year-over-year revenue declines on the order that we have there and we're still serving the same geography, there can be some absorption issues. On the other hand, we have other customers that are picking up quite nicely and. And so it's just a balance of taking a prudent view of what that does to margin in total."
+    },
+    {
+      "speaker": "Sean Eastman",
+      "speech": "Okay. Thanks, guys. I'll turn it over."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Eric Luebchow from Wells Fargo. Your line is now open."
+    },
+    {
+      "speaker": "Eric Luebchow",
+      "speech": "Great, thanks. Thanks for taking the question. Steve, you mentioned that the labor market was starting to tighten the market well. So are there any notable changes to point out in terms of wage inflation or building any of that into your near-term guide that we should be aware of?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Yeah, Sean, what we've -- or excuse me, Eric. What we've seen is in our core workforce, we're monitoring the situation, but we don't see big changes in labor cost. It's been more as we looked at higher unskilled and semi-skilled people in the marketplace, and probably those that are most affected by some of the government policies that are out there. It's not everywhere. So it's regional. So that's why we highlighted it not something that's a tremendous impact on the business at the moment, but it's something that we're paying careful attention to."
+    },
+    {
+      "speaker": "Eric Luebchow",
+      "speech": "Okay, great, that's helpful. You're still down about 900 total employees in terms of headcount versus pre-pandemic. Are a lot of those kind of administrative cuts that you've made that -- employees that are revenue producing that you don't need to bring back or should we expect that continues -- to continue to ramp as the next wave of demand hits this year?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well, we certainly made some adjustments on the G&A side as growth picks up in the business. Looking ahead, there will be some increase there, but we're not back to where we were, that's for sure. And then as we -- as we see growth opportunities across a number of customers for fiber construction, it's going to be a mix of what we do ourselves versus what we subcontract. The net of that will probably see some employee growth, but not as we've seen in the past. It doesn't have to grow as rapidly as the topline."
+    },
+    {
+      "speaker": "Eric Luebchow",
+      "speech": "Okay, great. Thanks, Steve."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Brent Thielman from D.A. Davidson. Your line is now open."
+    },
+    {
+      "speaker": "Brent Thielman",
+      "speech": "Great, thanks. Good morning. Steve, could you remind us the timing of the large customer program and sort of phasing associated with that when you sort of expect this to see more of a transition in that program?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well, I mean, we're actively closing out a number of markets as we've talked about. There is not -- as a portion of the original expectation, there's not a whole lot left, but there is still lots of activity that has to occur to close out the projects to get the final documentation done and to work through all the invoicing. So it's just a cost that we have to bear to get through the program this year."
+    },
+    {
+      "speaker": "Brent Thielman",
+      "speech": "Okay. And then, Steve I was just trying to reconcile some of the near-term challenges, supply constraints, labor constraints, things of that nature relative to -- looks like at a nice bump up in the next 12-month backlog versus your total backlog this quarter. I mean, any thoughts relative to that?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well, I think, as always, we were encouraged. If you look at our other than top five customers, they grew organically almost 32%. We have a combination of Frontier and Ziply that a-year-and-half-ago were the same entity that would have been a top five customer. And so I think it's just a question of working through some of the challenges, while we're doing that within the context where lots of customers are kicking off large fiber programs, and the largest of which, of course, is AT&T. And I think we're -- it'll be hard to be anything other than encouraged given their commentary as late as yesterday of how they're reprioritizing capex and focused on spending money on wireless and fiber. So it's just something we have to work through."
+    },
+    {
+      "speaker": "Brent Thielman",
+      "speech": "Okay. Maybe just lastly the fiber construction revenue from utilities continues to be small but really fast growing component of the revenue for you, and you also highlighted quite a few new awards this quarter from those types of customers. Maybe just, Steve, your thoughts on what you're seeing there? And can this be much more impactful kind of segment to the company in the near future near future?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Sure. So we certainly we're encouraged with the award activity, both its breadth and then the rate of growth that we saw in the work for those customers. Yeah, I think what's interesting, Brett, is that the RDOF process is not finalized. So we are seeing customers that are making decisions that these programs are strategic enough for them to begin on their own capital, confident of course, that their RDOF applications actually do get through the final approval process. But I think that tells you how important it is and what an opportunity it is for those types of entities. And so we're pleased with the exposure that we have to that customer set of the industry. I mean, it's almost as if -- if you think about it, we've created a brand new top five customers in the last 12 to 18 months."
+    },
+    {
+      "speaker": "Brent Thielman",
+      "speech": "Great, OK. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Adam Thalhimer from Thompson Davis. Your line is now open."
+    },
+    {
+      "speaker": "Adam R. Thalhimer",
+      "speech": "Hey, good morning, guys. Hey, Steve, the AT&T revenue came in above what we were looking for. Are you starting to see the benefit of that fiber build? And speaking a phasing, how do you expect that to kind of phase in over the course of the -- really, I guess the next two years."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "So Adam, we were encouraged that we returned back to organic growth with AT&T. Wireless business overall was down about 35%, and for the most part that was AT&T. And we offset that almost entirely with the increase on the fiber program and it's just getting started. So I think we're encouraged with AT&T. We think it continues to ramp. There are always in a program that size, it's distributed across a number of geographic locations for us. I think it will continue to ramp through the balance of the year. We were encouraged last week and then again yesterday when AT&T reiterated their objective to double -- approximately double the number of homes passed over the next -- through the end of 2025. And then in some comments they made yesterday, they talked about potentially extending it 10 million homes, beyond that. So it's a big program. We're serving them in a number of geographies and we're growing -- we're growing pretty rapidly."
+    },
+    {
+      "speaker": "Adam R. Thalhimer",
+      "speech": "The charter for fulfillment awards, are those related to RDOF?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "No, that's just part of the core business that we've had with Charter for literally decades at this point."
+    },
+    {
+      "speaker": "Adam R. Thalhimer",
+      "speech": "Okay. And then lastly, can you help us understand the customer who is in-sourcing? I mean you're talking about hiring 1,000 people and buying a bunch of equipment, and I'm just curious how that's going to -- how they're going to do that given the challenges that you've addressed for your business?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well I don't -- their businesses, they've to run. We had discussions with them. As we said in our comments, we're going to enter into some new agreements that covers work for next year and beyond. We expect activity levels will be somewhat lower, but they continue to remain a good customer and as they move forward, we'll support in that decision and see how it plays out."
+    },
+    {
+      "speaker": "Adam R. Thalhimer",
+      "speech": "All right, I'll turn it over. But I just wanted to say in terms of large customer program, it's not like the German [Phonetic] industry is seeing that or do you think the customer has been somewhat unfair. Thanks for the time."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Alex Rygiel from B. Riley. Your line is now open."
+    },
+    {
+      "speaker": "Alex Rygiel",
+      "speech": "Thanks. Good morning, Steve. First question, your organic growth was a negative 11%, backlog growth was somewhat limited. I suspect those two data points are not really telling us the story of what you see and feel on the ground today. Can you help us to better understand that?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Sure, Alex. I mean, if you just think about the organic growth calculation for this quarter and then Drew's guidance implied for the next quarter, we actually see the organic growth improving. But it was really in the current quarter was really focused on two clients, one who started the year slow and the other one who clearly has pivoted spending away from a large program and is much more focused in the second half of the year or getting -- or this half of the year to get ready in the second half of the year to deploy C-band. I think the C-band auction certainly had an impact on the way the two largest participants have planned about their network. But I think we're encouraged. We've already received small initial allocations of C-band work to perform for both AT&T and Verizon. So it's just one of these pivot periods in their plans."
+    },
+    {
+      "speaker": "Alex Rygiel",
+      "speech": "That's helpful. And then what does your net capex revision suggest about sort of near-to-intermediate term revenue outlook in new project awards."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "So what it really reflects is that we have lots of orders out. We've had continuing discussions with all of our suppliers from pickup trucks to directional drills to bucket trucks. And there's microchip issue is a problem on deliveries. And so, what we'll do, we got ahead of it a little bit with orders last fall and winter. And so what we've taken -- the equipment that we do get in, we will dedicate that to growth opportunities and then we'll extend the lives of the rest and when the supply becomes available at the end of the year, then we will take receipt of it then."
+    },
+    {
+      "speaker": "Alex Rygiel",
+      "speech": "That's helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Noelle Dilts from Stifel. Your line is now open. Pardon me Noelle, your line is now open."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Can you hear me, hello."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Yeah, go ahead, Noelle. You're fine now. You were breaking up before."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Oh, OK. Great. So yeah, I just wanted -- was hoping if you could touch on the labor tightness issue a little bit more. I believe kind of part of your business is -- your suppliers of labor. So in my view when we talked about this before, in scarcity situation for that kind of medium-to-long-term that tends to tell you. It sounds like this could be a little bit more of a headwind in the near-term. So how should we be thinking about that balance?"
+    },
+    {
+      "speaker": "H. Andrew DeFerrari",
+      "speech": "Yeah, Noelle. Just regarding when there is scarcity of labor, we think there are times that that's helpful. And then Steve, if you want to touch on."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Yeah. So look, Noelle. I think what we've seen, and there's lots of speculation about the impact of enhanced benefits which are set to expire in September. So I don't want to over read, but I don't also want to underplay that on the unskilled and semi-skilled side of the business for us to get new employees through the door. In certain parts of the country, not everywhere, we're having to pay more money. Now you can see the growth rate that we had with a number of customers, and obviously, we have the ability to put more field forces in the field or we could kind of have grown 32% of our business, 32% organically year-over-year. So there is an ability to do it.\nI think what it does say is that we're going to be careful where we commit our resources, make sure that we've got returns right. And that's what you always do in a period of time where the industry looks ahead to more demand than what they currently -- then what resources are currently available. We've been through this before. That doesn't mean that it won't be an issue. But it is something that we have managed through before. Okay. And then [Technical Issues]. Noelle, you're breaking up. We may want to operate and go to the next person in queue. And Noelle, if you can get a little better reception, we'll come back to you. Operator?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our next question comes from the line of Alan Mitrani from Sylvan Lake Asset Management. Your line is now open."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "Hi, can you speak to the SG&A expense? It was higher than I was looking for and the highest you've had even though your revenues were the lowest you've had in a while. Can you speak -- is there something specific in there or is this just inflation of getting price, giving salary increases and what your guidance would be going out? Thanks."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Yeah, Drew, go ahead. I mean, Alan, there was some increase in stock comp that obviously we called out. There were some administrative and some other expenses that ran through the quarter. I don't think -- we don't really have anything to add. We understand it was a little bit above trend, but we think it's manageable."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "I mean, it's manageable with your revenues [Indecipherable] I mean, that's really what needs to happen, obviously. So in looking at it and going through I look forward to that. But could we fast forward a year where maybe things are a little better, your comparisons get a little better with Verizon. Some of the stuff is all in the rearview mirror in terms of the in-between time, between when all these guys start spending and maybe an infrastructure bill might be passed. What does the industry look like a year out from now? You said there is not enough capacity to handle things, but the way it works with you guys as your top five customers really represent the bulk of the business? I realize collectively they're not growing, but there is a couple of reasons for that in between. But underneath the hood things look a little better, you got to parse the data. I just want to understand where you see the next couple of years going once we get through this?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well, look, clearly, if we start with AT&T, Alan, they could not have been any more clear about what their plans around the strategic deployment of fiber in their consumer network and in other parts of their network. And we think that, obviously, this year or essentially a restart of the program, they expect it to grow next year and they expect it to continue at least through '25, although some comments yesterday that as long as the program is performing well, that it continues. I think the the year ahead or two years ahead, Alan. What's interesting is, all of the ILEC phone companies for the most part have fiber to the home programs that are at least maintaining, if not growing, right? So clearly lots of growth with AT&T. Frontier has been very clear that they look at the deployment of fiber a strategic. Smaller companies like Ziply -- we actually, as we mentioned in our comments, we've started with Consolidated Communications, which is a smaller customer but an interesting one, in that they've been very clear that they expect to build out over the next five years about 70% of their footprint or about 1.6 million homes of fiber to the home.\nSo I just think there is a clarity around the business strategies, around network, particularly on the phone companies side, but has never been clearer both on the wireline side, so fiber, but also on the wireless side with respect to C-band. They were comments yesterday at a conference where there is an appetite for one of our large customers to really deploy a wireless broadband product throughout the country including rural America. And I think on the cable side of the business, I think they've also been very clear that they have very healthy broadband businesses that they're willing to invest in, particularly to grow upstream capacity to remain -- to maintain their competitive advantage over fiber. So I think the themes are all there. We got to work through this large customer program. We've got some absorption issues in our slow first half or top five customer, but we haven't been at 68% of revenue for the top five or 32% everybody else in a very long time. And we think that's a good sign for the future."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "Thank you for that insight. I appreciate it. Can you just give, maybe Drew, could you give us maybe just a follow-up on the Verizon. What was since we're going to see it in the Q most likely anyway. Can you give us what the 8% of total AR is for Verizon. I know it had been going down as you work through this in terms of where they stand due to the $390 million last quarter on the receivables and contract assets. Do you have that number for this quarter."
+    },
+    {
+      "speaker": "H. Andrew DeFerrari",
+      "speech": "I mean, Alan, when we publish the Q tomorrow, we'll have all of that detail. I would say that the balance tied up in this large customer program is down about 25% year-over-year. We're making progress. We understand everybody, including us would like it to be faster. But it is moving in the right direction."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "Great, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Noelle Dilts from Stifel. Your line is now open."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Noelle, it's a little bit better, we'll do our best. Go ahead."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "[Technical Issues]"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Noelle, we'll just have to follow-up with you. At least on our end, we're getting every other word."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Okay. Go ahead. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Jon Lopez from Vertical Group. Your line is now open."
+    },
+    {
+      "speaker": "Jon Lopez",
+      "speech": "Hey, thanks very much. I'm sorry, I'm wondering if we could come back to the Verizon situation real quick. And maybe if you could help me this way. At this point, if we look relative to sort of the interim peak, your revenue with that customer is down like over 50%. I guess that they're still wrestling with is, what is the baseline if we can call it that with this customer relative to the unfavorable contract stuff that sounds like you're kind of in the late stages of working through here. So, can you maybe tease those things part, like how much left before we get to a run rate with that customer? Or is kind of the whole 13% deemed stuff that you need to work out?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well, Jon, there's really three elements. So there is a portion of the work that we're working through that has been challenging. There is another portion of the work which is around their small cell deployment and network extensions, that is the work through their C-band priorities is slow this year. And that was the portion of the program that last year was more supportive because there was more work there. And then there is the BAU portions. The challenged portion is not all of the work, but it's a significant part of the work, but it's coming down sequentially as we work through the year and the cost associated with it, to a degree our operating costs, but they're really more focused around the closeout costs. And it's just something that we got to work through."
+    },
+    {
+      "speaker": "Jon Lopez",
+      "speech": "Okay. Okay that helps. My second question again just conceptually around not this customer so much, but sort of the surrounding elements. So I guess my understanding was the idea here was you work out this revenue and then there is enough other project revenue, other customer-related revenue that would be significantly more margin friendly that you can't replace this with over some, not in terminal amount of time. Is that still right? Is that still the right concept here? Or have factors, either labor, capex otherwise, perhaps constrained the ability to replace this revenue and maybe the same way that you had previously intended?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Yeah, so Jon, it's not a -- it's not an input. It's not a labor or material constraints as the customers made clear in a number of presentations with the advent of C-band and the focus on deploying that spectrum. The portion of the bill that was going to do more network extensions to more small cells is that a level that is lower than I think what everybody expected a year ago. On the same hand, AT&T is at a level that nobody dreamed of a year ago. And Joe, as always, it's a mix in the business of making adjustments as customers adapt their plans to changing priorities."
+    },
+    {
+      "speaker": "Jon Lopez",
+      "speech": "No, I get that 100%, but just follow-up on that last statement. So is the increase in the second bucket sort of un-forecast, unforeseen in your view? Is that larger than the decrease in the first bucket on forecast, unforeseen."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Okay, Jon, maybe didn't keep track of first bucket and second bucket. What I would say is that the portion of the work that's in support of extending the network this year is currently slower that I think everybody expected a year ago. And I think in part that's because of the result of the of the C-band results."
+    },
+    {
+      "speaker": "Jon Lopez",
+      "speech": "Sure, sure. No, but if you think two, three years out, if bucket two was network extension, bucket one with small cell related. I guess my question is as you think out of year Q3 or the increase -- is the increased appetite for that second cohort larger than the drop in the first cohort."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Jon, again, I've got to make sure I'm clear on your term. So network extensions in the small cells are one driver to the program, right? because you're deploying fiber off of the core to pick up new endpoints. Look, C-band requires a coverage layer. It will require a capacity layer. And I think as they figure that out, there'll be opportunities around doing that. This just is not the year that it turned out to have been as busy as I think people expected a year ago. And that's not just us, that's everybody."
+    },
+    {
+      "speaker": "Jon Lopez",
+      "speech": "Now I got you. Okay, so just one last clarification on the capex stuff. Is your view that that is a limiter industrywide or would there be some reason that you're unable to procure some of those items where I'd say peers and/or customers maybe in a more advantageous place with this?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "So with respect to the cable and the equipment, that's a factor of what the customers are doing. There is a portion of the business in rural where we might supply some material, but that's not the real driver. The driver is the uptick in demand that everybody has to deal with. On the automotive side, we enjoy as good or a relationship with all the suppliers as anybody else and we don't think we're getting things any slower. In fact, I think we're probably blessed that we had a pool of assets that we had on order from last fall. That puts us in a good -- as good a position as we can be given the supply constraints."
+    },
+    {
+      "speaker": "Jon Lopez",
+      "speech": "Okay. I got it. Thanks for all the thoughts. I appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next one comes from the line of Alan Mitrani from Sylvan Lake Asset Management. Your line is now open."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "I wanted to follow-up on the backlog issue. Did you already pull out all, whatever expectations of backlog for that customer that in-sourcing the maintenance?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "There is no need to adjust the backlog, Alan, because we contracts through the end of the period and we expect to enter into new contracts to cover next year and beyond. There is no adjustment required."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "Okay. And then, what's your expectation for backlog growth going forward in terms, I mean normally the way I'd look at your business, obviously, revenues aren't going to -- are going to trail the backlog growth. When do you expect to start seeing some of these contracts that you're talking about with fiber? Or do you expect them just to come through regular maintenance contracts and what you have in terms of, let's say, for example, increase in AT&T or others that will just be in your normal geographic geographic position?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well, certainly Alan, there is a portion that just flows through the master agreement. So for example, the projects that we've received around C-band, I mean, they're just blowing through the standard turf agreement that we have, and so that'll reflect in backlog as the run rates increase.\nWith respect to the fiber, again we had a pretty strong quarter last quarter. As an example, with AT&T, we announced a number of states where we extended our master agreements and included the scope of work to cover the fiber deployment. And so that's subject to estimate revisions as we go through that three-year period, but it's essentially reflected in the backlog now. There may be some opportunities to grow geographically. And when those are booked, then we'll add to backlog.\nI think the other thing, Alan, and again we've had this discussion about backlog before. It is not highly correlated to our growth rates in the near-to-intermediate term. And there are certain elements in the industry that are going to be a little bit different than the traditional top five customers. So for example, in all the rural work we're doing, they typically issue work in phases. We put the phase when we receive it in backlog. We completed, they give us another one. But there is not a contractual commitment to do that. We could book a big number if we wanted to torture the way we think about the definition. But I mean, we've got north of $1 billion in the pipeline just on the rural stuff that's not reflected in backlog. They may never be reflected in backlog as it just come through the business."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "That's helpful. Thank you. And then lastly on the weather. You mentioned the February, obviously we all know weather was bad this quarter. Could you just detail a little better maybe the -- of how that played out in the quarter? Or how much you think that impacted you?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "I mean, Alan, February was as bad of Februarys we've had in a long time. I mean, it was a big impact through the middle of the country."
+    },
+    {
+      "speaker": "Alan Mitrani",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time, I'm showing no further questions. I would like to turn the call back over to Steve Nielsen for closing remarks."
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Well, we thank everybody for your time and attention. And before I go, I just want to express my my thanks to Tim Estes. Tim is retiring effective today as our COO after 27 years of service. He has not been visible in all these calls, but he has been visible on growing the company from what it was when he came at $150 million in revenue to $3 billion today, plus, and we wish him well in his retirement. And then Drew has one more housekeeping items to get out."
+    },
+    {
+      "speaker": "H. Andrew DeFerrari",
+      "speech": "Yeah, just to close out the call, to break out the customer split. Telco was at 64.9%, cable was at 23%, facility locating was at 8.9%, and electrical and other was at 3.2%. Steve?"
+    },
+    {
+      "speaker": "Steven E. Nielsen",
+      "speech": "Thanks, Drew, and thanks everybody for your time and attention, and we'll speak again on our next quarter's call at the end of August. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 51 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Steven E. Nielsen--President and Chief Executive Officer",
+    "Ryan F. Urness--Vice President, General Counsel and Corporate Secretary",
+    "H. Andrew DeFerrari--Senior Vice President and Chief Financial Officer",
+    "Sean Eastman--Keybanc Capital Markets Inc. -- Analyst",
+    "Eric Luebchow--Wells Fargo Securities, LLC -- Analyst",
+    "Brent Thielman--D.A. Davidson & Company -- Analyst",
+    "Adam R. Thalhimer--Thompson Davis & Co. -- Analyst",
+    "Alex Rygiel--B. Riley FBR, Inc. -- Analyst",
+    "Noelle Dilts--Stifel Nicolaus -- Analyst",
+    "Alan Mitrani--Sylvan Lake Asset Management -- Analyst",
+    "Jon Lopez--Vertical Group -- Analyst"
+  ]
+}

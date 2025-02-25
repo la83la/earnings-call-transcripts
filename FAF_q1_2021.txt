@@ -1,0 +1,326 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings, and welcome to the First American Financial Corporation First Quarter Earnings Conference Call. [Operator Instructions]. A brief question-and-answer session will follow the formal presentation. [Operator Instructions]. A copy of today's press release is available on First American's website at www.firstam.com/investor. Please note that the call is being recorded and will be available for replay from the Company's investor website, and for a short time by dialing (877) 660-6853 or (201) 612-7415 and by entering the conference ID, 13718763. We will now turn the call over to Craig Barberio, Vice President of Investor Relations to make an introductory statement."
+    },
+    {
+      "speaker": "Craig Barberio",
+      "speech": "Good morning, everyone, and welcome to First American's earnings conference call for the first quarter of 2021. Joining us today will be our Chief Executive Officer, Dennis Gilmore; and Mark Seaton, Executive Vice President and Chief Financial Officer.\nSome of the statements made today may contain forward-looking statements that do not relate strictly to historical or current facts. These forward-looking statements speak only as of the date they are made, and the Company does not undertake to update forward-looking statements to reflect circumstances or events that occur after the date the forward-looking statements are made.\nRisks and uncertainties exist that may cause results to differ materially from those set forth in these forward-looking statements. For more information on these risks and uncertainties, please refer to this morning's earnings release and the risk factors discussed in our Form 10-K and subsequent SEC filings.\nOur presentation today contains certain non-GAAP financial measures that we believe provide additional insight due to the operational efficiency and performance of the Company relative to earlier periods and relative to the Company's competitors. For more information on these non-GAAP financial measures, including presentation with and reconciliation to the most directly comparable GAAP financials, please refer to this morning's earnings release, which is available on our website at www.firstam.com.\nWith that, I will now turn the call over to Dennis Gilmore."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Good morning and thank you for joining our first quarter earnings call. The year is off to a great start with our core businesses achieving strong financial results. Our outlook remains optimistic based on market trends, and we are confident that 2021 will be another good year. Today, I'll focus my remarks on the progress we are making on a number of key strategic initiatives as well as our venture investment program. Mark will then provide details on the first quarter results.\nA transformation is well under way in the real estate sector, as paper intensive processes convert to digital. First American is investing the time, expertise and capital to continue to lead the change within the title and settlement industry. We continue to make significant investments in technology across all of our major businesses to enhance the customer experience through digital solutions. Many of these efforts are now finding success in the marketplace.\nIn our commercial business, we've launched ClarityFirst, a platform that enables a streamlined closing process and provides greater transparency and efficiency relative to conventional methods. We believe this is the first end-to-end digital solution for commercial real estate transactions. Since the nationwide rollout in June, we have facilitated over 60,000 commercial transactions.\nEndpoint is another example of First America's commitment to innovation. A digital start-up that we've launched in Seattle in 2019 to reimagine the closing experience has captured a 2% market share in that area. Encouraged by our success, we've recently entered six new markets, and we plan on growing to 20 markets by the end of the year. In addition to providing a digital consumer experience, Endpoint is redesigning the closing process, and we anticipate significant productivity gains versus today's traditional settlement transactions.\nNot only are we deploying new digital tools to reimagine the customer experience, we are accelerating our investment in data, we need to enhance our long-term competitive position. Our data business has grown steadily over the last ten years. Years ago, we set out to create a world-class property data company. Today, we have the industry's most comprehensive and accurate property data, including title plant information. In 2020, our data business exceeded $100 million of pre-tax earnings, a significant milestone.\nA number of years ago, we set out to automate the manual data entry process. We currently hold 11 patents covering OCR and data extraction, which has facilitated us to caption over 60% of our data in a fully automated manner. We expect this percentage to continue to grow in the future. This technology has allowed us to vastly increase the amount of data we capture. We are currently capturing virtually every data point on 5 million documents per month.\nToday, we have 500 title plants, which is the largest data repository in the industry to support title underwriting decisions. Because of our patent extraction process, we have started the journey to add an additional 1,000 title plants on a go-forward basis. In short, we are leading the effort when it comes to property data. One benefit of having a strong data foundation is that it feeds automation of our title production. Today, 96% of our Company's refinance transactions run through our automated underwriting engine.\nBased on our own risk profile, we've achieved a fully automated underwriting decision on 50% of those orders, and we are semi-automated on additional 40%. Given the success we've had with refinance automation, we have turned our attention to the purchase transactions. All of these initiatives, whether related to closing data or title production, will improve the experience of our customers and our own productivity, which is why we have dedicated the necessary talent, capital and focus to lead the title and settlement industry in the digital era.\nTurning to our venture strategy. Since 2019, we've invested $225 million in venture-backed companies in the proptech ecosystem. These investments give us insight into the high growth technology companies, and most of which have become strategic partners. Not only have these investments added value from a strategic perspective, but they are providing financial upside as well, and Mark will elaborate further in his comments.\nVenture investments have continued to be a component of our capital allocation strategy. We believe the strategic and financial value of these investments to our shareholders will be attractive over the long term. Additionally, I'm pleased to announce that we were recently named a Fortune 100 Best Company to Work For, for the sixth consecutive year.\nAmid the challenges of 2020, we never lost sight of the fact that our employees are the key to our Company's success. In closing, I'm very confident that 2021 will be another great year for First American. I'll now turn the call over to Mark, who will comment on our first quarter earnings."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Thank you, Dennis. We're pleased to report excellent results this quarter. We earned $2.10 per diluted share. Included in this quarter's results were $0.46 of net realized investment gains. Excluding these gains, we earned $1.64 per diluted share. I'll start with our title business. Revenue in our Title segment was $1.9 billion, up 45% compared with the same quarter of 2020. All three of our major markets; Purchase, Refinance and Commercial, were favorable this quarter.\nPurchase revenue was up 27%, driven by a 15% increase in the number of closed orders, coupled with an 11% increase in the average revenue per order. Refinance revenue climbed at 79% relative to last year and was flat relative to the fourth quarter, as refinance closings continued to be elevated as a result of low mortgage rates.\nNotably, Commercial showed its first year-over-year revenue increase since the pandemic. Commercial revenue was $163 million, a 2% increase over last year. A number of large transactions closed at the end of the quarter, signaling the overall strength in the commercial environment. On the agency side, revenue was a record $845 million, up 41% from last year. Given the reporting lag in agent revenues of approximately one quarter, we are experiencing a surge in remittances related to Q4 economic activity. Our information and other revenues were $275 million, up 32% relative to last year.\nThis line item represents revenue from a collection of business lines that are not premium or escrow related and therefore, not risk-based. The largest component of information and other is revenue from our data and analytics business, which totaled $89 million, a 17% increase from last year.\nInvestment income within the Title Insurance and Services segment was $43 million, down 29%, primarily due to the impact of the decline in short-term interest rates on the investment portfolio and cash balances, partially offset by higher interest income from the Company's warehouse lending business.\nIn our Title segment, pre-tax margin was 17.1%. Excluding the impact of net realized investment gains, pre-tax margin was 14.1%, a record for the first quarter. I'll note that we've lowered the loss rate 100 basis points to 4% this quarter. This brings our loss rate in line with where we booked prior to the pandemic. By booking at 5% in 2020, we added $52 million to our IBNR. Given relatively low claims activity, significant levels of home equity, rising home prices and a strengthening economy, we elected to lower the loss rate this quarter.\nTurning to the Specialty Insurance segment. Pretax earnings totaled $6 million, down from $13 million in 2020. Our home warranty business, which accounts for 75% of the revenue for the segment, continued to see growth in the top line. Revenue was up 11% over last year. Importantly, revenue in our direct-to-consumer channel increased 18%. We continue to see elevated claims largely as a result of people spending more time at home.\nOur property and casualty business posted a loss of $7 million this quarter. The wind down of our property and casualty business is progressing on schedule with policies beginning to non-renewal in May. Based on our current plan, we expect at least 50% reduction in our policies in-force by the end of the year. The effective tax rate for the quarter was 23.4%, in line with our normalized tax rate of 23% to 24%.\nWith respect to the information security incident, the SEC and New York Department of Financial Services matters remain ongoing. We continue to believe that they, along with all other matters relating to the incident, will be immaterial from a financial perspective. Turning to capital management, we repurchased $65 million of stock at an average price of $52.86 during the quarter. Since March of 2020, we've repurchased $203 million of stock, which is close to the amount of our annual dividend to stockholders. We have not repurchased shares thus far in the second quarter. However, as we referenced on our last earnings call, we intend to be more active with share repurchases in the future.\nAs Dennis mentioned in his remarks, we've invested a total of $225 million in venture-backed companies. Our largest investment was in OfferPad, an iBuyer that is now party to a merger with Supernova Partners Acquisition Company, who last month announced that the value of the aggregate equity consideration to be paid to OfferPad's stockholders and option holders will be equal to $2.25 billion. If the transaction is consummated at that valuation, we would expect to book a gain later this year of approximately $237 million on our $85 million investment.\nAdditionally, this quarter, we recorded $42 million of gains related to other venture investments, including in Side [Phonetic] a real estate SaaS company that serves high-performing agents, teams and brokers. We remain optimistic about our 2021 outlook. Although refinance orders have declined, corresponding to an increase in mortgage rates, the purchase and commercial markets continue to grow. Our claims experience is favorable and the general improvement in the economy to tail into our business.\nNow I would like to turn the call back over to the operator to take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will now be conducting a question-and-answer session. [Operator Instructions]. Our first question is coming from the line of Mark DeVries with Barclays. Please proceed with your question."
+    },
+    {
+      "speaker": "Mark Devries",
+      "speech": "Yeah, thanks. Wanted to ask some clarifying questions about Dennis your comments around the title plants. Did I hear you correct that you said you're looking to add a 1,000 to the 500 you already have?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, you did it. And let me give you some background, Mark, on that. In the script, I talked about a few things. Number one that we wanted to set out to build a world-class property data company, which we have. We've got the largest repository property information and title plant information in the industry right now. And then a couple of years ago, we set out to really aggressively transform how we do data extraction from the documents into the plants, used to be all manual data entry.\nWe've got 11 patents, by the way, on that, which is probably not well understood. 11 patents for OCR data extraction that allows us now to extract over 60% of all the records fully automated. And that percentage is growing fairly rapidly as we go forward. And because of that now, we're taking -- we're touching basically 5 million documents a month or extracting from those documents, virtually all document fields from the document, and we're going to start building another 1,000 go-forward plants this year.\nNow, I use the term go forward, we'll build up the back plant when we see -- think it's necessary. So we're building 1,000 new plants. And it's just a follow-on of our strategy here that we think the data combined with the automation and technology are going to give us very unique strategic advantages over the long haul."
+    },
+    {
+      "speaker": "Mark Devries",
+      "speech": "Okay. That's helpful. And I think historically, you've only focused on larger MSAs, where there is more scale. Does this automated extraction make it more scalable to build these in much smaller markets? And in fact, are there just no markets that are too small now that you can't build one just given the efficiencies of creating the plants?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Well, there may be markets that become too small just because of the non-transaction, but you're right. It allows us to approach basically in the MSA, where we can get the data extracted information and build a plant. And again, we're extracting now everything off the document to feed either our property record database or our title plant database.\nNow I want to make sure these are go-forward plants. So we still have to build a back plant. But when you start to think about this, the competitive advantage it will give us over the next three, five or ten years is significant."
+    },
+    {
+      "speaker": "Mark Devries",
+      "speech": "Yeah, and that was my last question on this topic is, how do we think about that? I mean do you see noticeable and sustainable share gains in markets where you have a plant and maybe -- or the only one who has a plant in that market?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Not really historically, but this nuances here what I'm saying, historically, we built plants because of cost of building on with the limited record layoffs. We don't have that historical limitation any longer. We're pulling everything off the document. So we can put, ultimately, whatever we want in a plant, any document feed that we think, ultimately, the long-term will help us automate the process."
+    },
+    {
+      "speaker": "Mark Devries",
+      "speech": "Okay. But that -- will that give you in those markets a margin advantage over all your competitors?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "I'm probably not going to answer it that way. But what I will tell you, again, these are long-term buildings. We want to extract from all those data assets we have been building a long-term competitive advantage. Let's put it that way."
+    },
+    {
+      "speaker": "Mark Devries",
+      "speech": "Okay, that's helpful. All right, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next questions come from the line of Mark Hughes with Truist. Please proceed with your questions."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Yeah, thanks good morning. Dennis, I think you mentioned $100 million in pre-tax earnings from your data operations. Is that all third-party business? Does that include any allocations from your Title operation?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yes, Mark, it does include allocations from our own First American operations. I mean when you look at our data business, they sell to title companies, lenders, lots of different customers. But one of those customers is First American. So it does include kind of intercompany transactions."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "But it's not the majority."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "That maybe a third?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "I would say less a third, roughly about $30 million."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Okay. All right. And then anything you could say about the order trends here in April first few weeks?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yeah. So far in April, our refinance orders are about 1,800 a day. In March, they were 2,000 a day, so it dipped a little bit, but still we would consider pretty healthy levels for refinance. On the purchase side, we're opening about 2,400 a day for the first 15 business days in April. That's an 80% increase over last year. But of course, last year, it was a little bit of an anomaly given what was going on in the market, but 2,400 purchase transactions so far in April."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "How about commercial?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Commercial. Commercial, we were about 600, which is -- it's an 81% increase over last year. It's 8% increase over the last month. We were 600 -- and this is opening, 600 commercial orders."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "And I'll just add, I'll step back a little bit. Clearly, refinances are coming down. But when you step back, it's still at an elevated level. We're running about 1,800 orders per day right now. On purchase, very optimistic in the market going forward. We're very optimistic. We've got strong, strong tailwinds right now. Rates very good. Demographics very strong. We had all the issues that came from the pandemic, so very optimistic in purchase.\nAnd then I'll say the same thing about commercial. We said the same thing last quarter, but it's starting to really see the change in the recovery from the pandemic. Last two quarters are very strong, and we're optimistic going into '21 right now in commercial. And by the way, it's running at a very healthy margin."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Yeah, I wonder if you could -- last question would be just kind of a little more on margin. Your success ratio obviously is quite good. How much of this margin is from scale? Just the top line tailwind versus the efficiency that you talked about? And I guess the question might be on a go-forward basis, any updated thoughts about the margin targets?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Well, obviously, we're really pleased with the 14% Title margin in the first quarter. It's a combination of both. Obviously, we've got tailwinds with all three of our markets, purchase, commercial, refinance. They're all strong. So that definitely helps the margin. But we're also seeing efficiencies too. You mentioned the 44% success ratio. I mean, we're doing a good job of managing our expenses given the market that we have.\nAnd one of the things that we're seeing the benefit of is title automation, right? We don't have to process those manually as much as we used to. So we've really seen a benefit of title automation in margins, too. So it's really a combination of top line and better efficiency both. And of course, we lowered the loss ratio to a massive 100 basis points."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions]. Our next questions come from the line of Bose George with KBW. Please proceed with your questions."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Good morning. So first, just on the venture investments that you made, will that continue to be a part of the capital allocation strategy? And should we think of that is going to the same run rate you've had now since the last couple of years? And then just as you've said, as your tech spend grows, is it always just something that complements title? Or is it something that could sort of stand-alone as a segment or a business at some point?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "I think we heard the first part of your question, George -- I'm sorry, Bose just about the venture investment, but we missed the second. One thing I'll just comment on the venture investments is we've invested $225 million since 2019. It seems like it was front-loaded. We're not seeing quite as many opportunities as we did in 2019, 2020, but there's no question that we're going to continue to invest. We've got additional transactions we expect in the second quarter.\nAnd so that's going to be ongoing part of our capital allocation strategy, although probably not quite to the degree that we saw over the last call it, 2020."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yes, and this is Dennis. Bose, to your question, I'll follow it up. Yes, it's going to be part of our capital allocation strategy going forward. And it's both financial and strategic. And I think it's probably a little -- probably underappreciated with us. This gives us an opportunity to get very close to some of the emerging high-tech growth companies in the proptech ecosystem for us. And we ultimately end up being strategic partners/potentially customers for our title or data or we consume some of their products and services to help us deliver our products and services.\nSo we think it's a win-win. It's good right now. It's delivering high returns for us from a financial perspective. But we think it's the right thing to do for the long-term for our shareholders. We've struggled with your second part of the question, sorry."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Do you want me to just repeat the second part?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yes, we couldn't quite hear."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Okay. The second part was just longer term, how you thought about this, whether it's always just would be something that complements Title? Or could it be a business that essentially kind of could stand on its own?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "As we're sitting here today, Bose, we don't see our venture investments as its own segments or anything like that. It's very complementary to our core Title business. And so it's just kind of integrated in terms of that. We don't anticipate breaking it out anytime soon."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Okay. Great. And then sort of, I guess, a related question. But without sort of naming specific companies, any thoughts on companies or technologies that are out there now that are part of their value propositions that they can sort of disrupt the title market as it exists now? Any thoughts on that or comments?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Well, there's a few areas that we've been interested in, in no particular order, I mean, there's certain technologies out there that will allow us to be more efficient. We're really focused on the digital closing process. We're focused on title automation. We're focused on building great data business. So there's technologies out there that we can invest in that will help supercharge those efforts, and those have been areas we've invested.\nThere's also new types of, I'll call it, players who are trying to improve the home buying experience, trying to improve and digitize the mortgage process. And those are also -- that's also an area that we've been really focused on, too. So those will be the two areas to call on."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Okay, great. Thanks."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Thanks Bose."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next questions come from the line of John Campbell with Stephens. Please proceed with your question."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Hey, guys. Congrats on a great quarter and good morning."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "I want to touch back on the venture investments. I think that's super interesting. And Dennis, I agree, I think that's underappreciated side of your story, but it's similar to that kind of Bose's question, but I mean you guys have chalked up some pretty good gains, OfferPad's obviously out there, and it sounds like Side [Phonetic] is maybe on the path toward monetizing at some point.\nBut just curious, do you take those returns and just kind of let it ride, do you let this grow? Or do you keep that invested capital kind of at a certain level and then you've redeployed some of that back into the core title. Just kind of how you think about that, if there's a kind of structured process around that?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yes. So we're -- it's relatively new for us. I mean, again, we did our first investment in 2019, and we found just tremendous value. A lot of it, again, as Dennis mentioned, is on the strategic side. But now we're finally starting to see big financial upside as well. It's going to be a while before we're actually able to monetize some of these investments, and we'll kind of cross that bridge when we come to it. But they've been very strategic partners as a broad statement."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, but John, I would probably just add that we want to continue to have those strategic partners, but depends on how we ultimately go into. It depends ultimately how they hit the markets. We're not going to ultimately want to have highly concentrated single positions in public companies."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Makes sense. On the commercial orders, it looks like the open order is up 5% year-over-year. I mean, the 1Q comp was actually pretty difficult. So that's encouraging to see. If you guys can maybe just kind of talk to the pipeline. I don't know if it's kind of the size or characteristics of the deals. And then any additional color on kind of regional asset class performance?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, let me start on that and Mark can probably come in. It's just strong. John, as we mentioned in the last quarter, we could definitely see the strength picking up. It was a slow recovery in the residential market, but the strength has accelerated in the fourth quarter -- into the fourth quarter. It's broad-based right now across asset classes. We're starting to see the reemergence of big deal, which is encouraging to us.\nSo again, I'm not going to say there's going to be a record like '19. But definitely, as time goes on, we become more optimistic on this channel. And then John, I also want to mention that you did -- it wasn't a directed question, but I would like to mention that kind of no matter what the market rolls out -- it was a very tough market for us in commercial in the middle of the year. It doesn't ever stop us from investing in the business.\nIn my script, I mentioned, we've rolled out what we think is a market-leading, no question, new platform for commercial business. Again, 60,000 transactions for it. So kind of no matter what the market is, we're going to keep investing in these businesses to continue to grow efficiencies."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "John, one thing I'd add to that just in terms of the commercial pipelines, we do look at our open orders, obviously. But the other thing we look at is our escrow deposits because it gives you a little bit of a sense for the size of the orders. Our escrow deposits that we push to our bank have risen quite impressively so far this year.\nIn January, our Bank had $4 billion of deposits; February, it's $4.2 billion; March, it was $4.9 billion. Usually, there's a fallout at the end of the month because you're closing on transaction. So far in April, we're $5.1 billion deposits at our bank. A lot of our commercial deposits get put there. So when we see our escrow balance rise like this, it's just -- again, it's a leading indicator of economic activity for commercial."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Yeah, that's great. That's good insight for sure. Last one from me. On the April open purchase orders, it sounds like 2,400. Obviously, that's up pretty substantially versus last year on the COVID comp. But how does that compare to March just kind of sequentially?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Sequentially, it's basically flat month-over-month. 2,400 is what we had in March, same thing."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Okay, great. Thank you guys."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next questions come from the line of Geoffrey Dunn with Dowling & Partners. Please proceed with your questions."
+    },
+    {
+      "speaker": "Geoffrey Dunn",
+      "speech": "Thanks. Good morning."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Geoffrey Dunn",
+      "speech": "I wanted to follow-up on the venture investments just a little more detail in terms of just some of the logistics of it. Where are these investments taking place? Are they within the regulated entities or outside of it? And are you taking all direct equity investments? Are you going through any of the VC funds out there? Are you sticking to equities? Are there different funding vehicles? Can you just give a little bit more color?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yeah, Geoff. So we're making these investments out of the holding company, right? So this isn't like part of our First American Title underwriter investment portfolio. These are all out of excess cash of the whole company. We've made most of -- everything we talked about today are direct investments. We're investing directly into the company. We've done about ten or so direct investments. We also have done investments in three, I'll call them, proptech venture firms.\nAnd those are really earlier stage, right, Series A type companies where it gives us more reach into earlier stage companies. Most of the direct investments we've done is part of Series B, Series C, where we've got revenue, we got a product. And so we really do both direct and indirect. But most of our investments have been direct."
+    },
+    {
+      "speaker": "Geoffrey Dunn",
+      "speech": "Okay. And as we think about -- and that's what I want to really get a feel for. As we look at holding company resources, we think about common dividend, buyback, etc. Do you have a certain amount earmarked of your cash sources to be redistributed into the VC initiative? Or is it more truly opportunistic to be $0, one year could be $100 million the next?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "I would say it's truly opportunistic. I mean that's something that we've always talked about in terms of whether it's acquisitions or buybacks or joint [Phonetic] venture. We really are opportunistic depending on what the opportunities are. And we saw a lot of opportunity in venture in the last couple of years, and we decided to go big there. So there's nothing earmarked. It could be $0 one year, it could be $200 million one year, it just depends on the opportunities."
+    },
+    {
+      "speaker": "Geoffrey Dunn",
+      "speech": "Okay. And has the Board or management put a limit on how much funding you're willing to put into the VC efforts?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "No."
+    },
+    {
+      "speaker": "Geoffrey Dunn",
+      "speech": "Okay, thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next questions come from the line of Mark Hughes with Truist. Please proceed with your question."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Yeah, thank you. Mark, how much did Docutech contribute in the first quarter of last year? And if you could say how much this first quarter as well."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Give me one second here, Mark. You're talking about revenue or EBITDA?"
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "If you'd like to share both, well, and consumer, I was thinking revenue."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Okay. Hold on just a second."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Then I'll ask just one other one. There's been something of a high-profile competitor, a new competitor that's emerged in title. I wonder if you have a -- you've seen any impact from that competitor or any general thoughts?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "I'm not going to comment directly on, not really on the market impact, but something I did mention in my script, which is probably, again, poorly understood or not well understood with our company is, for example, just in our data businesses, we have 11 patents on OCR and extraction, not alone. So we've got a very, very active IP campaign going on.\nSo we'll probably give more insight on that in the future, too, and the number of patents we have across the whole enterprise, not only data extraction, but title automation. So more to come on that, OK?"
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Understood. Thank you."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yeah. So Mark, so in terms of Docutech, so the first quarter this year, we had revenue of $23 million. And that's all, again, all in info and other, and we had EBITDA of $8 million. And then the first quarter of last year, we owned it not the entire quarter, but we had $6 million in revenue and about $3 million EBITDA."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Thank you. Appreciate it."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. There are no additional questions at this time. That does conclude this morning's call. We'd like to remind listeners that today's call will be available for replay on the Company's website or by dialing 877-660-6853 or 201-612-7415 and by entering the conference ID 13718763. The Company would like to thank you for your participation. Again, this does conclude today's teleconference. You may now disconnect. Have a great day."
+    },
+    {
+      "speaker": "Duration: 36 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Craig Barberio--Vice President of Investor Relations",
+    "Dennis J. Gilmore--Chief Executive Officer",
+    "Mark E. Seaton--Executive Vice President, Chief Financial Officer",
+    "Mark Devries--Barclays -- Analyst",
+    "Mark Hughes--Truist Securities -- Analyst",
+    "Bose George--KBW -- Analyst",
+    "John Campbell--Stephens Inc. -- Analyst",
+    "Geoffrey Dunn--Dowling & Partners -- Analyst"
+  ]
+}

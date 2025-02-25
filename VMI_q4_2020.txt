@@ -1,0 +1,294 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings and welcome to the Valmont Industries Fourth Quarter and Full Year 2019 Earnings Conference Call. At this time, all participants are in a listen-only mode. A question and answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded. It's now my pleasure to introduce your host Renee Campbell, Vice President, Investor Relations and Corporate Communications. Please go ahead."
+    },
+    {
+      "speaker": "Renee L. Campbell",
+      "speech": "Thank you, Kevin. Good morning everyone and welcome to Valmont Industries fourth quarter and full year 2019 earnings call. With me today are Steve Kaniewski, President and Chief Executive Officer; Mark Jaksich, Executive Vice President and Chief Financial Officer; and Tim Francis, Senior Vice President and Corporate Controller.\nThis morning, Steve will provide a brief summary of our fourth quarter and full year results and Mark will provide additional details on financial performance, as well, as our outlook for 2020 followed by Q&A. A slide presentation will accompany today's discussion and is available for download on the Investors page of our website at valmont.com. A replay of today's call will be available for the next seven days and instructions for accessing it are included in the press release, which was distributed yesterday and also located on the Investors page of our website.\nPlease note that this conference call is subject to our disclosure on forward-looking statements, which applies to today's discussion and will be read in full at the end of this call. I would now like to turn the call over to our President and Chief Executive Officer, Steve Kaniewski."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thank you, Renee. Good morning everyone and thank you for joining us. I'd like to begin this morning by thanking our global team of nearly 10,000 associates for their performance this past year. While our full year results did not meet all of our goals, we made significant progress in many areas in 2019 and achieved sales growth in three of our four segments. We elevated our commitment to drive lean and agile throughout the organization and accelerated innovation through new products and services.\nWe also generated over $200 million in free cash flow through a heightened focus on working capital improvement. And we quickly responded to the impacts of a historic flooding event last spring, minimizing customer and business disruptions during a period of very strong infrastructure market demand. All of these accomplishments are a real testament to the operational excellence of all of our global teams. With that let me turn to a brief recap of our fourth quarter summarized on slide 3 of the presentation.\nNet sales of $683.6 million declined 2% compared to last year, primarily due to significantly lower sales in two areas of our business, Access Systems and International Irrigation. Sales in North American markets were higher across all segments, despite a challenging agricultural market environment and reduced U.S. industrial production levels. The higher sales were led by strong demand in wireless communication and transportation markets, higher irrigation technology sales, revenue from recent acquisition and sustained pricing discipline.\nDuring the fourth quarter, we finalized the agreement to purchase the remaining 49% stake in AgSense for $44 million, a significant milestone in our technology strategy. Its profitable recurring revenue model has provided a growth platform for technology sales over the past five years and has accelerated our technology leadership position in the field. We are excited to welcome the AgSense team fully into the Valmont family.\nTurning to the full year summary on slide 4, net sales of $2.8 billion were similar to last year. We achieved sales growth in all segments except irrigation, which was down nearly 8% compared to 2018, similar to other ag players and representative of continued pressure on net farm income. All segments benefited from disciplined pricing strategy and sales growth from recent acquisitions and we were very pleased to achieve 25% growth in both wireless communication and irrigation technology sales in 2019. Offsetting sales growth were lower utility volumes due to a higher mix of smaller structures and less available capacity, as well as lower volumes in irrigation and coatings.\nIn the Engineered Support Structures segment, Access System product sales were down 12% compared to last year with most of the decline occurring in the fourth quarter. Recessionary construction markets in Australia led to significantly lower volumes for the year.\nTurning to slide 5, during 2019, we made meaningful advances in our strategy to accelerate innovation and technology into our products and services. I'd like to take a few minutes to speak to you about some of these key initiatives across our businesses. In our Engineered Support Structures segment, we have expanded growth of our innovative smart pole technology solutions and our increasing investments in product development there. Investment in 5G networks is also accelerating and we are capitalizing on cities aversions to unsightly antenna locations, which is leading to increased demand for small cell structures and integrated concealment. All of these technologies are necessary elements of the Smart City evolution and our products have been favorably received by the market.\nIn our Utility business, we are piloting beacon technology on power grid structures. This solution helps utility customers identify and remediate line conditions on a real time basis at the source reducing the time and cost of shutting down an entire section of the grid. We also have a dedicated team that utilizes drone technology to quickly assess and identify issues along power lines, reducing environmental impact and operator costs. We recently partnered with a local Nebraska utility to take detailed photos of structures along a large power line. This will allow our customers to quickly and efficiently assess required maintenance work and other issues without needing to use expensive cranes on the right of way.\nIn our Coatings segment, our proprietary GalvTrac and Valmont Coatings Connector technologies are unmatched in the industry. GalvTrac optimizes zinc application by integrating standard recipes and repeatable processes across all of our global locations, a strong example of lean and standard work. The Coatings Connector provides customers with real-time visibility to their order status with interactive capabilities to communicate specific instructions. Our strategy to quickly grow customer adoption has led to over 2300 customers using the technology at 31 of our 37 global coatings locations.\nIn Irrigation, we continue to drive our technology leadership position forward. Technology sales in 2019 grew 25%, driven by the increased adoption of AgSense which has led to more than 95,000 connected devices in the fields. Last month I attended our North American dealer meeting where we announced Valley 365, our newest cloud-based single sign-on platform for connected crop management. Valley 365 eliminates the need to switch between multiple applications on a smartphone or other device and the platform allows growers to collect, control and analyze data to take action and remediate issues in the fields. One of these applications is Valley Insights, which was launched in early 2019 with our partner Prospera Technologies. Valley Insights uses advanced artificial intelligence to virtually detect and provide recommended remediation for crop health issues. Grower adoption has exceeded our expectations. We are already monitoring over 1.5 million acres and expect to monitor up to 5 million acres by the end of this year.\nAs you can see, we continue to increase our investments in technology and new product development, two very important and strategic pillars of our future growth strategy. Before I turn the call over to Mark for our financial results and our 2020 outlook, I want to briefly comment on the coronavirus situation. The health and safety of our team in China is our top priority. We are closely watching the situation and the impacts continue to unfold. As it does, our thoughts are with our Valmont China employees and their families, our customers and suppliers and many others who have been impacted. I will now turn the call over to Mark."
+    },
+    {
+      "speaker": "Mark C. Jaksich",
+      "speech": "Thank you, Steve and good morning everyone. My comments on the fourth quarter of 2019 are based on comparisons to 2018s adjusted results as outlined in the press release. Turning to slide 6, fourth quarter operating income of $55 million or 8.1% of sales was 16.8% below last year, largely driven by the poor sales and margin performance in the Access Systems product line, which impacted Engineered Support Structures segment results. In the Utility Support Structures segment, profitability was comparable to 2018, as improved performance in North America was offset by unfavorable comparisons in our international businesses, primarily driven by lower sales volumes and timing of large projects.\nIn the Irrigation segment, profitability was below 2018 due to a lack of international project sales this year. Coatings profitability was down, as well, due to some weaker demand from external customers and some unfavorable productivity associated with recent acquisitions. Lower raw material prices led to a favorable LIFO expense in 2019 as a decrease of $8.6 million compared to 2018 was realized. The increase of net corporate expense was mainly due to higher deferred compensation expense which has offset the income statement by higher investment income.\nFourth quarter diluted earnings per share of $1.66 decreased 11.2% compared to $1.87 in 2018. The fourth quarter tax rate of 21.2% was lower than 2018 due to differences in the geographic mix of earnings.\nMoving to the full results on slide 7, operating income of $237.7 million decreased 11.8% compared to last year. Operating income was 8.6% of sales, which includes a 20 basis point headwind due to increased deferred compensation expense. As previously mentioned, this has offset the income statement by investment income. In addition, corporate incentive expense decreased by $2.9 million. The main impacts to operating income this year were $26 million lower earnings in the Irrigation segment or $0.90 per share and poor performance in the Access Systems business. Offsetting these factors was an approximate $20 million benefit in LIFO.\nCurrency translation effects were not significant for the year taken as a whole. Our effective tax rate for the year was 24%, which was comparable to 2018. Diluted earnings per share of $7.06 was 7% below last year. As you know, there were a number of one-time items, we called out during the year. These items are summarized in the appendix of the presentation.\nTurning to the cash flow highlights on slide 8, as expected, we delivered very strong operating cash flows of $307.6 million in 2019, compared to $153 million in 2018. The improvement was driven by a heightened focus on working capital process improvements, including a meaningful decrease in raw material inventory and we successfully negotiated down payments on certain large sales contracts. As a result of these efforts and the benefit of a more stable raw material cost environment, we are pleased to have delivered free cash flow conversion that exceeded 1.3 times net earnings for the year.\nTurning to capital deployment, summary of our accomplishments is shown on slide 9. Capital spending for the year was $97 million compared to $72 million in 2018, driven by investments in a new steel structures facility in Poland and expansion of our irrigation facility in the United Arab Emirates and a new utility concrete structures facility in Fort Meade, Florida, all supporting strategic growth across the businesses. We deployed $82 million toward three strategic acquisitions in 2019, and the final purchase payment for Convert Italia and returned $96 million to shareholders through the share repurchases and dividends, ending the year with just over $353 million of cash.\nLet me now turn to slide 10 for our outlook on 2020. We expect full year diluted earnings per share to be in the range of $7.30 to $8. The range of earnings per share reflects timing uncertainty related to our higher project business in our Utility and ESS segments, as well as, in the International Irrigation. We are revising our organic revenue growth projection from a range of 5% to 7% to a range of 4% to 7%, which excludes any future acquisitions. The revision to the range downward is due to lower expected sales in the Irrigation segment and the coronavirus situation, which I will speak to further in a few minutes. Foreign currency translation effects based on current rates is expected to be immaterial and we expect a net 10 to 40 basis point improvement in operating margins and average raw material costs including freight are expected to be stable with 2019 levels.\nFull year free cash flow is expected to be not quite as strong as 2019 due to a couple of factors. First, capital expenditures are projected to be between $100 million and $125 million and includes strategic capacity additions to existing facilities in support of strong market demand in our North America Structures businesses and finishing up some spending from 2019 projects.\nSecond, we expect fewer large sales contract down payments in 2020, but, otherwise, should benefit from continued efforts to improve working capital performance throughout the year. We expect our after-tax return on invested capital to be around 10%. Our tax rate for the year is expected to be approximately 25% based on current tax laws and our estimated geographic mix of pre-tax income.\nTurning to LIFO, beginning in fiscal 2020, we are discontinuing the use of a LIFO inventory method in the U.S., which is the only country where it is allowed. This change will provide a better matching of cost of revenues for our product lines and this change will also provide uniformity across all our operations with respect to the method of inventory accounting and enhances comparability to prior year's results. Beginning next quarter, our financial reporting will also exclude the previous impact of LIFO from 2019 comparisons.\nWith respect to the first quarter of 2020, there are a couple of items I'd like to highlight. Last year's impact of $0.18 per diluted share from the Midwest flooding event is not expected to repeat this year and in the Utility Support Structures segment, while we expect full-year growth in both our offshore wind and solar tracker businesses, sales in the first quarter are expected to be lower by a combined $30 million compared to 2019 along with associated lower operating income mainly due to project timing. For modeling purposes, we expect first quarter revenue for the company to be flat to slightly down compared to 2019 from the lower expected sales in International Utility.\nFinally, there are some uncertainty around the impact from the coronavirus on our business. We are pleased to report that all of our facilities have resumed production and are operational, although at slightly lower capacity levels due to the mandatory quarantine restrictions. We continue to closely monitor and assess the situation. As of today, we estimate, first quarter revenue impact to be $2 million to $4 million, mostly due to mandatory extended factory closures and resulting effects on operational efficiency. These impacts have been included in our full year outlook. With that I will now turn the call back over to Steve."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thank you, Mark. Last quarter, we celebrated the grand opening of our new steel structures manufacturing facility in Poland. I was excited to personally attend the celebration with our management teams and local employees and we were honored to host several local officials and dignitaries as well as the Poland Minister of Energy. Building this facility as a true center of excellence positions us well to best serve our customers in global infrastructure markets.\nMoving to slide 11 and looking ahead to 2020, we are off to a solid start to the year. Engineered Support Structures has entered the year with a solid global backlog. Growth in transportation markets is being driven by continued government investments in infrastructure development. We expect continued growth of wireless communication products and components and anticipate carriers investments in 5G to accelerate in the second half of the year. We expect 2020 sales growth to approach 10% this year, considering our record growth in 2019 and expected market delays due to the T-Mobile/Sprint merger. As we have previously said, carrier spending can be lumpy from quarter to quarter, which can have a meaningful impact on sales and profitability.\nThe significant underperformance of our Access Systems business in Australia and uncertainty of market recovery associated with a 10-year low in construction levels has led us to reevaluate our market strategy there. As a result, we are accelerating the strategic analysis of this product line. This may require forgoing revenue opportunities to identify a path to profitability and an attractive return on invested capital profile that aligns with our stated financial goals. We are also currently reviewing other opportunities to improve ROIC across our businesses and we'll be sharing more details with you next quarter.\nIn the Utility segment, we are starting 2020 with a record year-end global backlog of nearly $500 million, supported by increased demand across all substrates from investments in grid hardening and renewables. As we have previously mentioned, we are adding capacity to existing North American plants and expect the associated revenue to ramp throughout the year for the segment.\nTurning to the Coatings segment, we expect sales to be similar to 2019, assuming current global industrial production levels remain fairly unchanged.\nIn the Irrigation segment, while we were pleased with higher North American sales in the fourth quarter, we are not yet noticing a significant turnaround in demand. We are seeing grower sentiment stabilizing in 2020, but U.S. net farm income projections are not expected to substantially improve. Without a meaningful change to these fundamentals, we expect Irrigation segment sales to be flat to down 3% for the year.\nIn international markets, we expect growth in more developed markets, including Brazil, where we have been strategically expanding our dealer network to meet increased demand. We have a good line of sight to project business, although, as we've said, the timing of shipments can be uncertain.\nTurning to slide 12, and in summary, revenues growth of 4% to 7% this year, is being driven by higher volumes in our infrastructure businesses supported by solid backlogs and pricing discipline across all segments. We expect our Coatings businesses to be flat with 2019 levels following U.S. industrial production trends. We remain cautiously optimistic on Irrigation sales growth, similar to others in the ag industry. We are encouraged that raw materials and freight are expected to remain relatively steady which helps stabilize pricing in our markets. And we will continue to perform against our stated capital allocation goals while generating good cash flows. I will now turn the call back over to Renee."
+    },
+    {
+      "speaker": "Renee L. Campbell",
+      "speech": "Thank you, Steve. Kevin, at this time, you may open up the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question today is coming from Chris Moore from CJS Securities. Your line is now live."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Hey, good morning, guys. Just..."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Good morning, Chris."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Good morning. A couple of questions on the operating margins. So, given the uncertainty in Access Systems, can you talk a little bit about what your 2020 ESS overall operating margin looks like in relation to the kind of the Valmont operating margin guidance?"
+    },
+    {
+      "speaker": "Mark C. Jaksich",
+      "speech": "Yeah, Chris, this is Mark. I would say, first of all, if you remember, in the third quarter, we had the charge we took on those detention system orders which will not reoccur since we're out of that business now. So that would certainly help but we called that out, but I would say that, overall, the margins should be pretty solid in North America. And although I think we're going to have some headwind -- continued headwind in Access System, probably through the first half of the year, it depends, as we start to develop our restructuring plans, we expect that to certainly stabilize as the year goes along."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "And at present, the current rate of where Access Systems is, is taken into account in our guidance range and so restructuring should help improve from that point forward."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Got it. The other question on the margins in terms of the USS ramp is -- we're talking about 5% for the year, you still -- it's probably going to take you another quarter or so to get full capacity there. Is there much margin impact in the first half on USS? Just trying to understand that ramp there."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, there is obviously some volume that we called out, as I said, it will take it more to the second half of the year based on both the solar projects and some of the improved pricing in our SM business, then it's really the North American capacity adds which will add the 5% volume as we go through the year. So North America will still see a very strong or a very nice gross margin -- operating margin as we kind of ramp through the year there. So really you're going to see our first half of the year, maybe be a little bit more compressed than the second half of the year as a combination of both the capacity as well as just the timing of the volume."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Got it. I appreciate it, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Brian Drab from William Blair. Your line is now live."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Hey, good morning. Thanks for taking my questions. First one, I just wanted to be clear on the capacity additions that you've made for the Utility segment that you're making. Are those in place to the -- I mean, are you able to handle the large order and the large orders that are coming through now and what's the lead time at this point?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah. So we had done some things in the fourth quarter, particularly related to just personnel that you saw as one of the reasons that we could deliver around $27 million more sequentially from the third quarter. That will obviously continue as we go through the year. There is some additional capacity additions that we put in, that are starting to come online now slowly and ramping through the first quarter and then into the second quarter. We would expect, really, things to be in place at the end of the second quarter. So really third and fourth quarter will be at run rates."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay. And are you shipping that large order at this point or what's the timing on the beginning of those shipments?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah. We've been shipping that actually since the third quarter and it was one of the reasons that the third quarter productivity was hit so hard. But we have been shipping and have ramped shipment of that product in that project all long. So that has been going and we've been delivering that project as we speak."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay, got it. And then you mentioned the solar business. I'm just wondering, can you give a little more detail on that business, what is the -- are you still expecting strong double-digit growth going forward in that business and what are the margins there relative to the corporate average margin and just how big is that business at this point?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Sure. So what we had said is, the business was approximately $80 million when we picked it up, and this year, let's say in 2019, we saw a decline based on the project timing to the tune of about maybe $25 million based on that. We do expect it to be over $100 million as we look into this year. And from a margins perspective, we said that would ramp over the course of three years, as we've built some supply chain synergies, some common specifications as opposed to very specific, and so from -- as it relates to segment margins, it's a little decretive, in the sense of segment margins, but we would expect really by, say, mid-'21 that it would be at segment margins."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay. And then I know this is always a little sensitive because, of course, competition's listening, but I'm just wondering, as you continue to highlight the Connected Solutions and the technology that you're injecting continually into the irrigation system and that segment, are you seeing any changes in share or do you feel like that's improving your share position in the U.S. or internationally?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "It -- I think, long term, we always say that the U.S. market, the share doesn't really change significantly from a a pivot systems perspective. What we are seeing is, our installed base more revenue opportunities. And so with the the connection and the AgSense unit really bringing real productivity for the grower, as well as lower input costs, that adoption rate has been strong. It has -- the retention rate has been exceptionally strong, and so it's really -- yeah, obviously share is a total of everything you go after, so from that sense, because we have more revenue opportunity, we believe we're picking it up that way. Internationally, it's definitely providing a door particularly in markets like Brazil and Europe where labor is a big component that we are seeing really good opportunities there as far as our selling opportunities to continue to increase the connected market across those markets. So there is 250,000 of our machines, 250,000 of our competitive machines, all of them can take an AgSense unit on them. And so we do believe there's still quite a bit of runway in that market."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Great, thanks. And then, can I just ask one last quick clarifying question back to my first question? That large order that began to ramp -- began to ship late last year, but the size of those shipments, I guess, is kind of what I was wondering. Does that -- does that start to ramp materially or is this kind of run rate per quarter related to that project? Have we already seen that in the numbers now in the quarter?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, I think, the way the orders were taken and to be delivered was roughly about $100 million per year. So that's the way that you have to think about those big orders."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay. All right, thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Jon Braatz from Kansas City Capital. Your line is now live."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Good morning, Steve. Good morning, Mark."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Good morning, Jon."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "In the Coatings segment, recently we've seen zinc prices come down sharply. And I guess my question, Mark, might be, are we going to see some improvement in the Coatings margin as a result of the fall in zinc prices or you're having to pass it on?"
+    },
+    {
+      "speaker": "Mark C. Jaksich",
+      "speech": "Well, I think for sure, on the internal business that we do, there is a pricing mechanism that passes that along, but in the external markets, no. I think we're making every attempt to hang on to pricing as best we can. And that kind of drives from the Valmont Coatings Connector where we -- as we continue to drive value for the customer, hopefully that that's what we are hoping to get out of, there's a little bit of stickiness in pricing as long as we have good performance and so forth. So, no, we're not -- in some cases, you do get back a little bit here and there, but generally speaking, we've generally been able to hang on to pricing with fluctuations."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay, OK. And maybe I misunderstood, I didn't hear. In terms of sort of the expectations for 2020 in terms of volume and revenues, did you give any guidelines there for the Coatings segment?"
+    },
+    {
+      "speaker": "Mark C. Jaksich",
+      "speech": "Yeah, Jon, this is Mark too. We're expecting it to be relatively flat. I don't think the growth rate in industrial production is particularly robust right now. And that's probably the best indicator across our Coatings business that we watch."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay, OK. Steve, a question on the coronavirus. We're hearing some -- that maybe there are some logistical challenges emerging in China in addition to, let's say, the direct impact that companies are feeling. Are you seeing any difficulties in moving product to the ports or any delays or anything in terms of logistical issues as a result of the coronavirus?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, in terms of moving to the ports, no, because we're in provinces that are on the coast."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "It's -- it's where we have to get steel, if it comes from a different province, as it stands right now, it's the inter province shipments that are most affected because the truckers then have to go into quarantine. So that's the only place where we really see the logistics issues occurring now. In our case was steel, there is enough steel within provinces that we can secure, it just -- it interrupts the supply a little bit from who we're getting it from and when, but we can still get it at least at this point. We've also heard that the government is well aware of the issues as it pertains to getting supplies moved around and is contemplating loosening some of those restrictions, that would be helpful. But to date, we've really not seen a dramatic impact. Our South plant was the latest to get going and we do have still maybe a handful of people that are not able to come back into the plant until their quarantine is finished as they were coming from the Hubei province, but generally, as Mark called out, we -- right now, we see it maybe as a top of maybe $4 million of revenue impact in the quarter. And again all this is subject to how this thing develops, but that's where we're at right now."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "All right, thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our next question is coming from Brent Thielman from D.A. Davidson. Your line is now live."
+    },
+    {
+      "speaker": "Brent Thielman",
+      "speech": "Great, thanks, good morning. I apologize I got on a bit late here and probably just had one. Steve, I guess just given these challenges in Australia, following some of the issues you've had in the offshore business in Europe, I guess, taking a step back, how do you think about the portfolio you have today and what should be really core and the focus of Valmont going forward?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Well, if I take Access Systems, we really do have an internal compare and contrast. Our Access Systems business in Asia does very well, but it is structured differently, it carries a different overhead profile. And so it's able to withstand the movements of revenue on that project work, kind of, over time. So we just believe that we have to go and basically look at the overhead structure within the Australian business as a way to really kind of get that back. It has been hit by, again, like I said, about a 10-year recession in construction. So, it's just at very depressed level right now. The offshore wind business, we've talked to you over time about that, there was a movement to get Utility orders put in there as well for Utility masks. We actually have been successful and have obtained a fairly sizable order that will ship later at the end of this year and into 2021 and so keeping that business there at a very tight, kind of, profile.\nWe are seeing improved margins. We called that out and we do see that coming through toward, again, the tail end of the year and into 2021. There is very long lead times, we just got on the bidding process and we're successful because of the bankruptcies that occurred with our competitors there. So they fit with our portfolio of going to market to Utilities and/or infrastructure development. We just have to make sure that they are sized appropriately from an overhead standpoint for the project business that they can take in."
+    },
+    {
+      "speaker": "Brent Thielman",
+      "speech": "Okay. And then I again apologize if this has been asked, but I guess on the Utility side, I mean, phenomenal backlog here going into the new year. As you look at the pipeline out there and obviously this would be a tough level to build off of, but do you think there is enough out there to sustain the sort of backlog through the year?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Oh yeah. We definitely are seeing the work continue, if you recall, the two large orders we have, there's three more potentials as you go forward, this year will be another $100 million plus order that will be tendered. The reliability issues in California and Florida are continuing unabated. And we're also seeing other Utilities really outlawing wood use in selected states. And so that will continue to drive the market very strongly and renewables is just going to continue to disperse the generation sources, meaning they need both substations and transmission lines to get them back to where the electricity is used. So there is nothing out there between 2020 or even, frankly, 2021 at this point that would suggest it would move anywhere, but where it is right now."
+    },
+    {
+      "speaker": "Brent Thielman",
+      "speech": "Okay, thank you."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thanks, Brent."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Adam Farley from Stifel. Your line is now live."
+    },
+    {
+      "speaker": "Adam Farley",
+      "speech": "Yeah, good morning. This is Adam Farley on for Nathan Jones."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Hey, Adam."
+    },
+    {
+      "speaker": "Adam Farley",
+      "speech": "Turning back to ESS, even excluding the loss in Access System, margins were still relatively light, you guys highlighted pricing discipline in North America. So is there any mix impact in the quarter? And then looking at your backlog, what should we expect on margins ex Access System to the core of ESS business?"
+    },
+    {
+      "speaker": "Mark C. Jaksich",
+      "speech": "Yeah, Adam, this is Mark. I'll start off and then Steve can jump in as well. But in North America, we really thought we had some timing issues with some deliveries at the end of the year that would have affected the revenue, but that's more of a carryover into next year. Telecom was still good, but the rate of growth we had over between that and '18 had tapered down a bit and we expected some of that. So I think that played into it and then collectively the international businesses were down a bit as well. So I think it was really -- North America was pretty solid for the most part and then of course we had Access and then the rest of the international businesses were actually comparatively down a tick, not substantially, which contributed to the overall margin comparison between '18 and '19."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, we kind of normalized for the Access loss. We probably -- margins were about on par with last year. And as Mark mentioned, there were some timing issues, getting some orders out and just a lower mix of telecom in the fourth quarter as compared to the rest of the year. So those were the big highlights there."
+    },
+    {
+      "speaker": "Adam Farley",
+      "speech": "Okay, that's helpful. And then looking at your backlog, how are pricing levels within that? I mean, do you expect favorable pricing there?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah. As we -- we said that raw materials being stable for the time period that they have been stable really allows you to work on pricing actions. And so that has generated some good backlog and some good margins in that backlog itself. And so, we remain optimistic of the margin profile, ESS, again as we fix Access Systems, that we can get that business over 10% as we go into 2021."
+    },
+    {
+      "speaker": "Adam Farley",
+      "speech": "Okay, that's helpful and then just shifting to International Irrigation. These larger projects in emerging markets seem to keep getting pushed, any more color there and what's driving that? Do you still have visibility to your pipeline on projects? Is it mainly timing?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, it's mainly timing and what you have is the dollar as many of you know have strengthened against a lot of these currencies in developing markets. That usually slows down our ability to get paid and therefore to ship. So that part of it is still in the process of kind of moving through. We still have a good pipeline across Africa, across the Middle East, and Central Asia. And so we feel that, albeit, the timing of stuff, that's still there. Our guidance really has minimized the impact of the international projects, so that if we were to get them, it would be more of an upside than a down, not having them is a downside. So we took a more conservative approach."
+    },
+    {
+      "speaker": "Adam Farley",
+      "speech": "That's great, thanks for taking my questions."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thanks, Adam."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is a follow-up from Brian Drab from William Blair. Your line is now live."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Hi, thanks for taking the follow-up. Sorry if there's a little noise in the background here. I'm just trying to draw the conclusion here like kind of outline of the bigger picture and just wanted to get your feedback on this. I mean it seems like Utility -- we've talked a lot about the record backlog and potentially great momentum there if we add some larger projects, but where -- if you kind of rank order the other growth opportunities that you have over the next one to two years really, where are you most -- where are you expecting to get that growth from? What are you most excited about? Is it the 5G opportunity? Is it solar? Is it some of the International Irrigation projects? Where else is the growth going to come from over the next one to two years? Thanks."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Sure. Yeah. Utility, we've obviously -- we're offering a brand new suite of products. We have a spun concrete distribution pool. We have pre-assembled substations in addition to just general strong market dynamics that are there. So we feel Utility has the highest growth potential as we look over the the near to medium term. The telecom 5G, if you recall, we said we would see a little bit of it in the fourth quarter, we did. We said then it will be slow to ramp or starting to ramp through 2020, that's what it looks like and that 2021 would be the real growth opportunity in 5G and all industry prognosticators still kind of handicap it that way. That would be our second one.\nAnd then, yes, third is International Irrigation, those projects, when they do come through are tend to be large, they tend to be sizable and they really do. As you know, Irrigation itself drives our profitability pretty substantially. So as we get any kind of -- even if markets were just flattened to move up slightly, Irrigation would have a lot of earnings power behind it as we move forward. So those are kind of the way we rank them internally here."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay, thanks very much."
+    },
+    {
+      "speaker": "Mark C. Jaksich",
+      "speech": "Yeah, Brian, this is Mark. Just to add, the telecom opportunity is a global trend. So we do have an exposure and we do have a presence in Asia-Pac. But as we continue to build off of that, we think there is some opportunity as well in other geographies as well. We don't do really quite as much telecom today."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Right. Okay, thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We've reached the end of our question and answer session. I'd like to turn the floor back over to Renee."
+    },
+    {
+      "speaker": "Renee L. Campbell",
+      "speech": "Thanks everyone for joining us today. As mentioned, today's call will be available for playback on our website or by phone for the next seven days. We look forward to speaking with you again next quarter. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Included in this discussion, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on assumptions that management has made in light of experience in the industries in which Valmont operates as well as management's perceptions of historical trends, current conditions, expected future developments, and other factors, believed to be appropriate under the circumstances.\nAs you listen to and consider these comments, you should understand that these statements are not guarantees of performance or results. They involve risks, uncertainties, some of which are beyond Valmont's control and assumptions. Although management believes that these forward-looking statements are based on reasonable assumptions, you should be aware that many factors could affect Valmont's actual financial results and cause them to differ materially from those anticipated in the forward-looking statements. These factors include, among other things, risk factors described from time to time in Valmont's reports to the Securities and Exchange Commission, as well as future economic and market circumstances, industry conditions, company performance and financial results, operating efficiencies, availability and price of raw material availability and market acceptance of new products, product pricing, domestic and international competitive environments and actions and policy changes of domestic and foreign governments.\nThe company cautions that any forward-looking statement included in this discussion is made as of the date of this discussion and the company does not undertake to update any forward-looking statement.\n[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 45 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Renee L. Campbell--Vice President of Investor Relations and Corporate Communications",
+    "Stephen G. Kaniewski--President and Chief Executive Officer",
+    "Mark C. Jaksich--Executive Vice President, Chief Financial Officer and Secretary",
+    "Christopher Moore--CJS Securities, Inc. -- Analyst",
+    "Brian Drab--William Blair -- Analyst",
+    "Jon Braatz--Kansas City Capital Associates -- Analyst",
+    "Brent Thielman--D.A. Davidson Companies -- Analyst",
+    "Adam Farley--Stifel, Nicolaus and Company, Inc. -- Analyst"
+  ]
+}

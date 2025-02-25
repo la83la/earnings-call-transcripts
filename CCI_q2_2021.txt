@@ -1,0 +1,328 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Crown Castle Q2 2021 Earnings Conference Call. Today's call is being recorded. And now at this time, I'd like to turn the conference over to Mr. Ben Lowe, Vice President of Corporate Finance. Please go ahead, sir."
+    },
+    {
+      "speaker": "Benjamin Raymond Lowe",
+      "speech": "Great. Thank you, Cody, and good morning, everyone. Thank you for joining us today as we discuss our second quarter 2021 results. With me on the call this morning are Jay Brown, Crown Castle's Chief Executive Officer; and Dan Schlanger, Crown Castle's Chief Financial Officer. Today, the discussion, we have posted supplemental materials in the Investors section of our website at crowncastle.com that we will -- that will be referenced throughout the call this morning. This conference call will contain forward-looking statements, which are subject to certain risks, uncertainties and assumptions, and the actual results may vary materially from those expected. Information about potential factors which could affect our results is available in the press release and the Risk Factors section of the company's SEC filings. Our statements are made as of today, July 22, 2021, and we assume no obligation to update any forward-looking statements. In addition, today's call includes discussions of certain non-GAAP financial measures. Tables reconciling these non-GAAP financial measures are available in the supplemental information package in the Investors section of the company's website at crowncastle.com. Before I turn the call over to Jay, I want to mention that we will take as many questions as possible following our prepared remarks, but we plan to limit the call to 60 minutes this morning. So with that, let me turn the call over to Jay."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Thanks, Ben, and thank you, everyone, for joining us on the call this morning. As you saw from our second quarter results and increased full year outlook, we continue to generate significant growth in cash flows and dividends from the deployment of 5G in the U.S. We are experiencing the highest level of tower activity in our history, resulting in a year of outsized growth as we now anticipate 12% growth in AFFO per share for full year 2021, meaningfully above our long-term annual target of 7% to 8%. Our current 7% to 8% growth target was established in 2017 when we expanded our fiber and small cell strategy through the completion of our largest acquisition. This 7% to 8% growth target was an increase of 100 basis points from our prior target since we expected a diverse portfolio to increase our ability to consistently drive long-term growth. Since that time, the strategy has worked better than expected as we have grown our dividend per share at a compounded annual growth rate of 9%, with some years being driven by outsized growth in our fiber and small cell business like last year, and other years like this one being driven by higher growth in our tower business. This record level of activity is tied to the existing wireless carriers increasing their spend to add more equipment to tower sites and DISH starting to build a new nationwide 5G network from scratch. We expect this elevated level of activity to continue beyond this year and support future growth on our towers. While driving strong growth in our tower business this year, the initial focus by our customers on towers has also led to some delays in our small cell deployment, shifting the timing of when we expect to complete the nearly 30,000 small cells contractually committed in our backlog.\nWhen combined with zoning and permitting challenges as well as the previously disclosed Sprint cancellation, we now expect to deploy approximately 5,000 small cells in each of this year and next year with the remaining nearly $20,000 from our current backlog completed beyond 2022. This delay has not impacted our view of long-term attractiveness of small cells since the fundamental need for small cells continues and the unit economics remain in line with our expectation. With more than 50,000 small cells on air, we have already seen how important small cells are as a key tool used by the carriers to add network capacity by reusing their spectrum over shorter and shorter distances. We believe small cells will be an even more important tool going forward as the nature of wireless networks requires continued cell site densification to meet the increasing demand for data, especially as 5G networks are deployed. As a result, we believe these timing factors will not alter our long-term returns on our investments or our ability to deliver on our growth objectives. Dan is going to discuss our second quarter results and our expectations for the balance of 2021 in a bit more detail, so I want to focus my comments this morning on our strategy to deliver the highest risk-adjusted returns for our shareholders. One of the core principles of our strategy is to focus on the U.S. market because we believe it is the best market for communications infrastructure ownership, with the most attractive growth profile and the lowest risk. With that view in mind, we've invested nearly $40 billion in shared infrastructure assets that we believe are mission-critical for today's wireless networks and sit in front of what is expected to be a massive decade-long investment by our customers to deploy 5G in the U.S. As you can see on slide four, our tower and fiber investments are at two different stages of development and maturity.\nOur tower investment began more than 20 years ago at an approximately 3% yield, when we built and acquired assets that we could share across multiple customers. By providing a lower cost to each customer, we have leased up those assets over the years and generated compelling returns for our shareholders. As we have proven out the value proposition for our customers over time, our tower assets now generate a yield on invested capital of 11% with meaningful capacity to support additional growth. As we realize the wireless network architecture would need to evolve with 4G, requiring a network of cell sites that would be much denser and closer to end users, we expanded our shared infrastructure offering beyond towers, establishing the industry-leading small cell business in the U.S. It's encouraging that the business is already generating a current yield on invested capital of more than 7%, given the relative immaturity of these investments. To provide additional visibility into how our investments are progressing, we've updated our analysis of the cohort of five markets we introduced a year ago. Looking at a collective view of how these five markets have performed over the last year on slide five, growth from both small cells and fiber solutions has contributed to an incremental yield of 7% on the approximately $200 million of incremental net capital investment. Adjusted for the timing impacts associated with the large in-process small cell project, where capital investment has occurred in advance of the corresponding revenue and cash flows, the incremental yield is approximately 8%. This incremental yield resulted in a modest decline in the combined cash yield from 9.2% a year ago to 9% currently.\nThis is in line with our expectations as we have invested in new small cells at a 6% to 7% initial yield that we expect to grow over time as we lease up those assets to additional customers. During the last year in these markets, we have added more than 500 route miles of new high-capacity fiber to support the deployment of approximately 2,000 small cells. Importantly, approximately 40% of the small cells deployed were co-located on existing fiber with the balance representing new anchor builds in attractive areas of these markets where we expect to capture future small cell and fiber solutions demand. We believe each of the markets shown on slide six provides a helpful representation of how our overall strategy is performing over time, given how different these markets are when it comes to the average life of the investment, the density of small cell nodes per mile of fiber and the degree of contribution from both small cells and fiber solutions. Generally speaking, we would expect markets that have a longer average investment life to have higher returns than those with less mature assets. This is true because we have more time to add customers to existing assets, which is consistent with our historical experience with towers, where we have, on average, added about one tenant -- one new tenant every 10 years. Similar to our experience with the movements in yield and tower investments over time, as we showed back on page four, sometimes the steady climb of yields on legacy investment is less obvious as we invest in less mature assets that bring down the overall market yield. This is certainly true of some of the cohort.\nVery much related to the average life of the investment is the density of small cells per route mile of fiber since, as in the tower business, the co-location of additional nodes on existing fiber is what drives the yields up over time. Consequently, we typically see a higher percentage of nodes co-located on existing fiber as the density of nodes increases. On the third characteristic, we believe the markets with both small cells and fiber solutions will ultimately have higher yields than those with only one of the two revenue streams. With this setup as a backdrop, I want to share a few observations that I think are important to highlight as we assess this data set on page six. Looking across the markets, you can see the longer average investment lives tend to correspond to higher yield. Denver has the least mature capital base and the lowest market yield, while Orlando has one of the most mature capital bases and the highest yields. In addition, the higher density of nodes per mile, which is generally correlated with the longer investment life and higher percentage of co-located nodes generates higher market yield. The financial benefit associated with co-locating nodes is apparent when looking at the incremental yield in Los Angeles and Phoenix. In the last year, about half of the small cells deployed across those two markets were co-located on existing fiber, resulting in a strong incremental yield. Meanwhile, Denver does not fit neatly into this framework, featuring the highest node density but the lowest yield. Part of the explanation is that Denver is a market where we spent more than we originally budgeted on our initial build activity, which weighed down the starting yield. Importantly, during the last 12 months, we achieved strong yields on incremental invested capital in Denver, increasing the market yield by 70 basis points.\nThis is consistent with our experience more broadly in the small cell business as co-located nodes on existing fiber come at high incremental yields, driving attractive returns over time. And finally, looking at the financial benefit of having both small cells and fiber solutions leveraging the same asset base, you can see the markets with a meaningful contribution from both offerings are generally performing better. The best example to point to here is Philadelphia, where despite having a less mature capital base and lower node density than Phoenix, it is generating a similar yield on invested capital of nearly 10% due primarily to the higher contribution from fiber solutions. Our experience in Philadelphia also highlights another important point when assessing the performance of a portfolio of assets. Similar to what we've seen throughout our long history of towers, when you zoom in on a particular set of assets and focus on a short time period, the picture may not always be perfect. Over the last year, the market yield in Philadelphia has contracted by 60 basis points due to a combination of a lack of small cell activity as this was not a priority market for our customers and more muted growth from fiber solutions. Despite this, Philadelphia is still generating a very attractive yield on invested capital, and we believe our dense fiber footprint in this top market is positioned well to capture future small cell and fiber solutions growth. In summary, the combined performance of this cohort of market provides another point of validation for our strategy, with small cells and fiber solutions growth contributing to attractive incremental yields while we continue to make discretionary investments in new assets that will expand the long-term growth opportunity. Turning back now to our overall strategy.\nAs has been obvious to all of us over the last 18 months, connectivity is vital to our economy and how we live and interact with one another. Our strategy is to provide profitable solutions to connect communities and people to each other. Our business is also inherently sustainable. Our shared infrastructure solutions limit the proliferation of infrastructure and minimize the use of natural resources. Our solutions help address societal challenges like the digital divide in underserved communities by advancing access to education and technology. As you've seen in our last two sustainability reports, we've enhanced our focus on ESG, which we believe will drive increased revenue opportunities from things like smart cities and broadband for all and lower operating costs in areas like tower lighting, electric vehicles and interest savings, which Dan will discuss in just a minute. Importantly, none of this is possible without a team at Crown Castle that embraces diversity and inclusion, ensuring that our employees and our business partners are empowered to help us serve our customers, connect our communities and build the future of communications infrastructure in the U.S. So to wrap up, we expect to deliver outsized AFFO per share growth of 12% this year as we capitalize on the highest tower activity levels in our history with our customers deploying 5G at scale. We expect this elevated level of tower activity to continue beyond this year. Our diversified strategy of towers and small cells has driven higher growth than expected as we have grown our dividend at a compounded annual growth rate of 9% since we expanded our strategy in 2017. And looking forward, I believe our strategy to offer a combination of towers, small cells and fiber solutions, which are all critical components needed to develop 5G will extend our opportunity to deliver dividend per share growth of 7% to 8% per year.\nAnd when I consider the durability of the underlying demand trends we see in the U.S. that provides significant visibility into the future growth for our business, I believe Crown Castle stands out as a unique investment that we believe will generate compelling returns over time. And with that, I'll turn the call over to Dan."
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Thanks, Jay, and good morning, everyone. As Jay mentioned, 2021 is shaping up to be a great year of growth for Crown Castle as our customers deploy 5G nationwide. The elevated tower activity drove strong second quarter financial results and another increase to our full year outlook, which now includes an expected 12% growth in AFFO per share. Turning to second quarter results on slide seven. Site rental revenue increased 8%, including 5.3% growth in organic contribution to site rental revenue. This growth included 8.6% growth from new leasing activity and contracted escalators net of 3.3% from nonrenewal. The higher activity levels also drove a $40 million increase in contribution from services when compared to second quarter 2020, leading to 15% growth in adjusted EBITDA and 18% growth in AFFO per share. Turning to slide four. With the strong second quarter and continued momentum, we have again increased our full year outlook, highlighted by a $30 million increase to adjusted EBITDA and a $20 million increase to AFFO. The higher activity in towers drove the majority of these changes to our outlook including an additional $15 million in straight-line revenue, a $45 million increase to the expected contribution from services and $15 million of additional labor costs. The lower expected volume of small cells deployed this year that Jay discussed earlier results in a $10 million reduction in organic contribution to site rental revenue, which translates to a 20 basis point reduction in the expected full year growth in consolidated organic contribution to site rental revenue to 5.7%.\nOur expectations for the contribution to full year growth from towers and fiber solutions remains unchanged at approximately 6% for towers and 3% for fiber solutions, with small cell growth now expected to be approximately 10% compared to our previous outlook of approximately 13% growth. Moving to investment activities. During the second quarter, capital expenditures totaled $308 million, including $19 million of sustaining expenditures, $60 million of discretionary capital expenditures for our tower segment and $223 million of discretionary capital expenditures for our fiber segment. Our full year expectation for capital expenditures has reduced to $1.3 billion from our prior expectation of $1.5 billion, primarily attributed to the reduction in small cells we expect to deploy this year. Turning to our balance sheet. We exited the second quarter with a net debt-to-EBITDA ratio of approximately five times, which is in line with our target leverage. Consistent with our overall focus on delivering the highest risk-adjusted return for shareholders, we have methodically reduced risk across our balance sheet over the last five years by reducing our exposure to variable rate debt in extending the maturity profile of our borrowings to better align the duration of our assets and liabilities. Specifically, since our first investment-grade bond offering in early 2016, we have increased the weighted average maturity from just over five years to nearly 10 years, increased our mix of fixed rate debt from just under 70% to more than 90% and reduced our weighted average borrowing rate from 3.8% to 3.2%.\nConsistent with that focus, we issued $750 million of 10-year senior unsecured notes in June at 2.5% to refinance outstanding notes maturing in 2022 and to repay outstanding borrowings on our commercial paper program. Additionally, in June, we amended our existing credit facility, extending the maturity date to June 2026 and incorporating sustainability targets that resulted in lower interest rates in the facility as we achieve specified sustainability metrics over the next five years. We believe this was the first time sustainability targets had been incorporated in a credit facility for tower company. Adding quantifiable sustainability metrics to our inherently sustainable business model that Jay outlined earlier highlights our commitment to delivering value to all our stakeholders. Stepping back and to wrap things up, we are excited about the record levels of tower activity as our customers deploy 5G at scale. We are capitalizing on those positive fundamentals and expect to deliver a great year of growth with AFFO now expected to grow 12% for the full year 2021, meaningfully above our long-term annual target of 7% to 8%. Our diverse portfolio of assets and customer solutions has performed better than expected since we meaningfully augmented our fiber footprint with a large acquisition in 2017 as we have grown our dividend per share at a compound annual growth rate of 9% over that time. Importantly, in some years like last year, our fiber and small cell business has driven that outperformance, while in other years like this one, our tower business is the driver. We continue to invest in new assets that we believe will allow us to grow our dividend per share at 7% to 8% per year going forward. This growth provides a very attractive total return opportunity when combined with our current approximately 3% dividend yield, and we believe our investments in new assets will extend this opportunity into the future. With that, Cody, I'd like to open the call to questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Absolutely. Thank you. [Operator Instructions] And we'll take our first question from Michael Rollins from Citi."
+    },
+    {
+      "speaker": "Michael Ian Rollins",
+      "speech": "Thanks and good morning. Curious, if you could just unpack a bit more in terms of the change in the small cell target for 2021 and 2022, in terms of weighing the impact that the customer decisions had relative to the zoning impact and some of the issues you're experiencing just on that timeline to get small cells constructed. And then just a follow-up question, curious, in the supplemental deck, there were some additional straight-line that was highlighted into the quarter. And there is an extension or an increase in duration of average lease length for the non-big three national carriers. I'm just curious if you could unpack the activity that you're seeing just outside of what you've experienced from the big three national carriers in the context of what was in the deck and how that may come through in the future. Thanks."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yeah. Good morning Mike. I'll take the first question. And then, Dan can address the second one. As we highlighted, there's three primary components of our decision to push out some of this activity beyond 2022. There's the customer prioritization, which we highlighted, the Sprint cancellation and then also the zoning and permitting challenges. Breaking that out by years, I would put the customer prioritization and some of the zoning and planning challenges as hitting us in 2021. And then, the Sprint cancellation in 2022 is the biggest impact there, along with some of the timing of the new nodes and those going out in years beyond 2022. Big picture, if I go back up to kind of what drives that and why are we seeing it. I would go back to past experiences as we've gone through technology cycles and upgrades, the network went from 2G to 3G, three to four. And now we're in the middle of this move from 4G to 5G. And the carriers go through a process of really prioritizing the sites that they're already on and upgrading those sites with the new technology. And in this case, it's a combination of new technology, and upgrading those sites with the new spectrum bands that they've acquired. And so what we've seen in these early stages of 5G is a real focus on getting those new spectrum bands out on macro sites. So there's been a reprioritization of the capital spend here in calendar year 2021 of moving toward getting those macros upgraded for 5G and be prioritizing in the near-term some of those small cells. So we think it's just timing, as I mentioned earlier, that they're just pushing out to the right. And obviously, when you look at our results and our outlook, we're seeing the push on that is going toward towers. So meaningful uplift on the services side and the tower activity and a level of elevated activity we really, frankly, on the macro tower side, have never seen in our company's history. And we think that's going to continue into 2022 as the carriers over allocate toward macro sites not only this year, but then next year. And then, we think it probably comes back to a more balanced activity level as we get into 2023."
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Yeah. Mike, I'll hit your second question around the straight line increases and extension. As we've discussed before, those straight line increases happened a couple of ways. On the first-time install, you can see it where we get a 10-year contract. And that includes some straight-line impact, but -- or on an amendment where we go and add additional equipment on existing sites. We actually extend the term of the contracts or the leases at that point. We get additional straight-line for both of those things. So what I would say is the increase in activity that Jay just talked about, across both first-time installs and across the new amendment is causing a lot more activity and then more straight line to hit our numbers this year. And some of that is also having the impact you're talking about of extending the contracts, both within the large three national carriers, but also outside of that as other companies are increasing their activity, especially like we've talked about with DISH starting to deploy nationwide 5G network going forward. So, all of those things will add into both straight line and the extension of the contract life over time."
+    },
+    {
+      "speaker": "Michael Ian Rollins",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll now take our next question from Simon Flannery from Morgan Stanley."
+    },
+    {
+      "speaker": "Simon William Flannery",
+      "speech": "Great. Thank you very much. Great to hear the commentary on the macro business and the historical rate of activity. Could you just be a little bit clearer about what you mean by activity? Where are we today? Obviously, the services business is extremely strong. But what are you seeing in terms of signed leases? And when do you expect that these commencements to impact your numbers? And in particular, is there anything materially in your numbers this year for DISH? Thanks a lot."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yes. Simon thanks for the question. Good morning. When we talk about activity, we're speaking specifically about applications for our towers. So in some cases, those applications are related to going on towers they're not previously on, then in some cases, those applications would be for amendments on sites that they're already co-located on. So, we mean it collectively in terms of total applications. I don't want to get specifically into which carriers we're getting the benefit from, but we're seeing it across the board on the tower side. Obviously, from the four carriers that everybody thinks about as well as the carriers that Dan was referencing that are outside of the large nationwide carriers, we're seeing activity increase there. And 2021 represents a pretty meaningful step-up from anything that we saw in the years prior to 2021. And as I mentioned before, we think that activity is going to continue into 2022 and will be reflected in our results. Obviously, big picture, as I spoke to the longer term, this diversification, I think, has really helped us. Last year, as we went into 2020, we saw an allocation away from towers and toward small cells. And small cells and towers really helped us as we looked at our growth rate last year. And this year, moving the other direction and an allocation more toward towers and one that we think continues into 2022 as the carriers focus on upgrading their macro sites. And I think -- and maybe this is kind of at the heart of your question around the activity. The carriers, it's very common for them in the -- through past technological upgrade cycles, and we think this will be true in 5G. They'll go back to the sites that they're already on and upgrade those sites for the new technology. That will drive activity. And then as they move toward densification activities, then we'll see more of that focused on small cells and then also some on the macro sites as they go on towers that they're not on currently. But we're in the cycle of the long cycle of upgrading to 5G, those early stages. They're focused on upgrading the sites that they're already on."
+    },
+    {
+      "speaker": "Simon William Flannery",
+      "speech": "Great. And just one follow-up on the capex point. I know you're not giving 2022 guidance, but is it fair to think then given 5,000 this year, 5,000 next year, the discretionary capex should be similar to 2021?"
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Yes. I mean I'm going to say yes to everything you just said there, Simon. We don't want to give into the guidance right now. We'll do that in three months. It's not that far from now, and we will get there. But yes, the capex does follow activity levels. So, we'll follow that along and give more specific guidance in October."
+    },
+    {
+      "speaker": "Simon William Flannery",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll hear next from Matt Niknam with Deutsche Bank."
+    },
+    {
+      "speaker": "Matthew Niknam",
+      "speech": "Hey, guys. Thank you for taking the question. First, just to go back on small cells. I'm just wondering, you highlighted three points in terms of what drove the lowered outlook for this year and next. I'm just wondering, is there a risk or are you starting to see more self-filled from the carriers taking a greater share of some of the newer small cells coming on there. And then secondly, I hate to go to 2022. But just given the strength in services, you've increased the outlook for services the second time this year. Any initial thoughts you can share in terms of how tower site leasing growth could be trending into next year just as you're seeing momentum on the tower side pick up? Thank you."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yes, Matt. On your first question, I don't see it as a risk to small cells. One of the things that we have been a hallmark of the way we thought about capital investment has been a rigorous process where we consider how we invest capital. And that process that we go through analyzes where we think demand is going to be not in the near-term, but over the long-term for a particular asset. As we're investing in assets like on the small cell side, where we're putting assets in at an initial yield of 6% to 7%, we have to depend on and count on future lease-up of those assets over a long period of time. And so we analyzed the opportunity to invest in those assets based on what do we believe the long-term prospects for lease-up against those assets will ultimately be. There are plenty of places around the U.S. where I think small cells will be built, that our analysis will point to an answer that says that doesn't make sense for us to invest our capital there. We've tried to allocate our capital to the places that have the highest return and the lowest risk against that potential lease-up. And as we talk about the cohort and look at these markets, they have a lot of similar characteristics in terms of what's driving that co-location. And obviously, given the amount of co-location that we've seen, even in just those cohorts that we were talking about this morning, have a lot of data around what leads to that co-location. And so we're trying to make sure we allocate capital based on the lessons that we've learned thus far and where we think the future demand is going to be. Now that's going to leave a lot of opportunities, for somebody else to build small cells where based on our rigorous analysis, it's just not going to clear our return threshold. And so, I believe the carriers will build some of that.\nThey may find other third parties to help build some of that. I think, in general, we have talked about publicly and I saw a public research report a few weeks ago that pointed to about half of the overall demand for small cells, we've constructed or built that. And the other half has been split between other third parties and the wireless carrier. I think as the market continues to grow, we're not so much focused on what is our percent share of the total market, but how are we doing in the particular markets where we're investing capital or have invested capital and are we seeing co-location that's going to drive long-term yield against those assets over the long-term. So it doesn't concern me. In fact, I think it points to the reality that there's going to be a lot of need for these small cells and there are going to be certain locations where it just doesn't hit our return threshold, and therefore, we won't invest capital there. On your second question around the 2022 guidance, I'm going to mostly beg off on that, other than to make the point that we try to make in our prepared remarks. I think there are -- the large portion of our business is our tower business. We're at an elevated level of activity in calendar year 2021. We think that continues into 2022. And as we assess kind of our long-term target of growing the AFFO per share at 7% to 8%, we feel good about where that target is set. We feel like we'll be able to meet that as we go into 2022. And the specific numbers about where that is and where it lands. We'll get into that next quarter, when we give you guidance for 2022."
+    },
+    {
+      "speaker": "Matthew Niknam",
+      "speech": "That's great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll hear next from Phil Cusick with JPMorgan."
+    },
+    {
+      "speaker": "Philip A. Cusick",
+      "speech": "Hi guys. I'm sorry to harp on this. I'm surprised that with all the carrier discussion of macro through the year and the long path to small cells, that something happened in 2Q that was a surprise on carrier prioritization to move away from that. Was there a particular event that happened? And the slower small cell trends and what you've highlighted as the better return from markets that get both fiber and small cell revenue, are you more interested in selling fiber to enterprise in the next year?"
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yeah. Phil, I think on the first question, we're not surprised by the fact that the carriers would focus on the macro sites first in 5G. And obviously, they've done that in past cycles, as we mentioned. I think we were a bit surprised by, how much -- how quickly it moved and how they reallocated as quickly as they did. So we got close to the final stages on a lot of these nodes, and there was a capital allocation decision on their part to invest in the equipment around macro sites over some of these small cells. So again, I mean, we said it a couple of different ways, but we think it's just timing and doesn't have any impact on the long-term returns. So a little bit surprised, but I probably would have said the same answer last year, if you asked me about the macro tower business, a little bit surprised about how allocated they went toward fiber and small cells. And the movement in any given year in the moment, I guess, maybe could surprise us a little bit. But longer term, when I look at the underlying returns of the business and the unit economics and where the activity is, I think we're on track for what we overall would have expected. With regards to -- are we looking for better returns in the fiber business, on the fiber solutions side, obviously, we're looking to grow all the revenue streams. And so to the extent there's an opportunity there that materializes, we'll pursue it. And our sales team, I think, has done a good job coming out of the pandemic as the economy starts to open back up, we've seen good activity on that front, and they've done a really nice job as companies are starting to return to the office and seeing some opportunities there."
+    },
+    {
+      "speaker": "Philip A. Cusick",
+      "speech": "Okay. Just a follow-up there. I mean so you talked about 10,000 this year, you've got a big backlog. How solid is that backlog in terms of timing and size? Is this sort of a goal over a multiyear period?"
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yes. The backlog is contractually committed. So if we show it to you, those are not nodes that we're talking about or having conversations -- just solely conversations with the carriers. Those are at the point where they're signed contracts with the various wireless operators. The discussions that we have with carriers and the opportunity for nodes would be above and beyond that contracted backlog that we disclosed."
+    },
+    {
+      "speaker": "Philip A. Cusick",
+      "speech": "Okay. Thanks, guys."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "You bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Your next from David Barden with Bank of America."
+    },
+    {
+      "speaker": "David William Barden",
+      "speech": "Hi, guys. Thanks so much. I just want to follow-up on Phil's question there. So Jay, you've talked about small cell build, nodes build being kind of a 24 month to 36 month project for new builds and add-ons. So if there's any reason to believe that the small cell business will accelerate in 2023, you would either have to know that or have to have visibility on that today in order to be preparing to kind of get that online in 2023. Could you kind of talk a little bit more specifically about the funnel and your conviction there about how this goes from 5,000 nodes a year back to the 10,000 or better? And then I guess the second piece is on the services side. Obviously, there's huge level of activity. Could you talk about how you're staffing that from a manpower perspective. Is it in-house? Is it contractual? Is that where the $15 million of higher employment expense is going? And is that going to stay with the company as long as this elevated service activity persist? Thanks."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Sure. Good morning, Dave. On your first question, yes, typically, our build cycle is about 24 months to 36 months. And when you think about where is the world going, it's an interesting year on the small cell side because while we're talking about the contraction of how many nodes we're actually going to put on this year, we signed the largest commitment of new nodes in the company's history just a few months ago. So when the carriers think about their deployment plans, they're not just thinking about them on a 12 month or an 18 month cycle. They're thinking about it over a much longer-term basis. So the 15,000 nodes that we contracted to build just a few months ago, that's in the backlog, and we're working with the customers around identifying exactly where those locations are and where they're going to be. And against that backdrop, I think we're still, as Dan and I both spoke to, the macro environment is very healthy today for macro towers, but the need for densification remains. And as we look at the 50,000 small cell nodes that we put in place, during 4G and see how those benefited the overall network, we think those dynamics are going to be at play in 5G, if not to a greater degree. And so the environment and where it goes, I mean, we'll give you guidance on 2022 next quarter. And as we get into years beyond that, we'll give more guidance as we get to it. But I think the macro environment would suggest that the fundamental view that we had about the need for small cells, complementing the macro sites that provide coverage in the market, those tenets of our strategy are intact. And that haven't seen anything that dissuades us from that longer-term view of where capital allocation will go from the carriers, the way networks will be deployed and then where good returns will be achieved by balancing the capital investment that we have between both towers and small cells. On your second question around staffing, yes, the majority of that cost is coming as we scale up for this elevated level of services. And much of that would be outsourced activity and costs in order to perform that work. There are components where we staff up internally. And then we need to scale that based on the level of activity. So if we were to see the revenues from the services business come down, then we bring back down the costs associated with it that are scaling up."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll take our next question from Jonathan Atkin from RBC Capital Markets."
+    },
+    {
+      "speaker": "Jonathan Atkin",
+      "speech": "Thank you. I'm interested with all the demand -- kind of the leasing demand on macro sites and small cells for that matter as well, but for macro for the time being. Is there any -- are there any kind of long poles in the tent when it comes to possible constraints on the ability to actually deploy the equipment, whether it's your own services division or other contractors that are used to deploy the gear? Does that have any implication on your thoughts on book-to-bill as we sort of look into the second half of the year and next year?"
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Hey, Jonathan, certainly, it's a tight labor market. So it's not without challenge. But we feel good about where we are and the activity that we're seeing on being able to deliver that level of activity. But it's a tight labor market and a challenge, but feel good about where we are and our ability to deliver on the numbers that we put out here."
+    },
+    {
+      "speaker": "Jonathan Atkin",
+      "speech": "And then I apologize if this was asked earlier, but the source of the upside that you posted, kind of how broad-based was that? And do you see the kind of the variety of demand increasing as we sort of move into the second half of the year? Or is everybody kind of equally active in there, various mid-band and 5G deployments at this point?"
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yes. I would say it's broad-based across all of the wireless operators. There's a lot of work going on right now, as I mentioned before, to upgrade the existing sites and add additional spectrum bands and get new technology onto those legacy macro sites that they were on. So it's broad-based across all of the participants in the market. And then we're also seeing, as driven by some of the IoT stuff, new entrants into the market that are outside of the four nationwide operators deploying infrastructure in various regions around the country that's also benefiting macro site."
+    },
+    {
+      "speaker": "Jonathan Atkin",
+      "speech": "And then finally, as it comes to kind of your lease contracts, is there any constraint that customers have in how they can use the spectrum, whether it's for their own retail operations, whether they want to lease it to other parties entering the MVNOs, that type of thing? How are you -- what are some of your exposures there in terms of how the customers can maybe use a spectrum in ways that don't give you the full economics? Or are you completely kind of immune from those sorts of arrangements?"
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yes. Jonathan, that's been something that we've been careful about since the beginning of the company where we wanted to make sure there wasn't an opportunity to replace our role of being the shared infrastructure provider. And so our leases prohibit network sharing and using the spectrum in a way that would, in essence, replace our role in the ecosystem. So the carriers as we contract with them, they have the right to use their spectrum for their own use and for their own network. But if we get into things like network sharing, that would be a conversation they would need to have with us, and we would -- there's a revenue opportunity there. Now obviously, we'd be open to having those conversations. So to the extent that there was economic value and return for one of our customers certainly be open to entertaining that conversation, but I think it would come with additional revenues as it's not permitted currently."
+    },
+    {
+      "speaker": "Jonathan Atkin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "You bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll hear next from Colby Synesael with Cowen and Company. Please go ahead."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Hi. This is Michael on for Colby. Two questions, if I may. First, in the past two quarters, the tower network services gross margins have been over 30% versus around 15% in 2020. Do you expect to sustain those plus 30% tower network services gross profit margins through year-end? And then second, could you give us a sense of your willingness or openness to sell fiber assets in markets in which you don't expect to build small cells? Thank you."
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Sure. This is Dan. I'll take that first question on service gross margin. We would anticipate that, that would continue through the end of the year. The increase in the service gross margin has a lot to do with the mix between which services we're providing. So we have a higher gross margin associated with what we would call preconstruction services around site acquisitions and permitting and getting the site prepared to accept any additional antennas on the tower. And then we have a little bit of a lower gross margin associated with the business of actually what we would call installation of putting the antennas on the tower. And right now, given where we are in the cycle and how we -- all the activity we see, there's a lot of that preconstruction services coming through, which is what's driving that incremental -- the higher service gross margin. And we would anticipate that continuing through the end of the year."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Michael, on your second question, it's a pretty theoretical question given the way that we've analyzed and invested in fiber. We've really focused on the markets that we think have the greatest opportunity for additional small cells long term and the wireless demand that was going to be there. So I guess in the theoretical, if one of those markets were to turn out not to have a need for small cells, I guess we would consider that. But when I look at the portfolio and where we've invested the capital, I think the likelihood of that is probably pretty low."
+    },
+    {
+      "speaker": "Michael Elias",
+      "speech": "Perfect. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll hear next from Rick Prentiss with Raymond James."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "Thanks. Good morning, guys."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Good morning, Rick."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "A couple of questions. Makes sense, obviously, with the small cell pushout, the gross discretionary capex comes down. What about what your expectations are for prepaid rent received? I think you might have been originally thinking this year maybe $550 million. Should we be thinking that's maybe more like in the $300 million range as far as what you're going to receive?"
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Yes. So going from growth to net capex is probably the easiest way to do that. We're about -- we think that now we're going to be in the neighborhood of $1.3 billion of growth where we were at about $1.5 billion in our prior expectations. Right now, we think we'll be around $900 million of net versus in the $1 billion range. And so the prepaid rent received comes down a little bit, but just exactly what you're talking about in line with what we see as the activity levels and where we are in the terms of building out those assets and getting the money back from our customers. So yes, it's coming down a bit."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "Okay. And then the non-cash amortization of prepaid rent, that takes a little bit longer probably to change that needle or are we still thinking maybe up year-over-year from 2020 to 2021, maybe in the $550 million range? Is that a fair level?"
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Yes. We think that -- yes, that's all very fair what you just said. And so we think the growth in our prepaid amortization is going to be about $40 million in total going from 2020 to 2021."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "Makes sense. Sorry for all this accounting changes. There's a lot of moving pieces here."
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "No problem."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "The change in the straight line, Michael, called it out a little bit. As you enter new leases with a company like DISH who's just now starting to deploy stuff, should we expect some future significant increases to straight-line adjustments as we look at the rest of 2021 and especially then in 2022?"
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Yes. I'll speak more generically than just with DISH. It's as we sign new leases, we will have additional straight line as we recognize the escalators over those leases on a ratable basis as opposed to as they actually come in to escalate. So we kind of straight line everything as opposed to put those escalators in place over time. And that causes that straight line revenue to come in. And it is associated with leases. And as we discussed in the DISH specific -- in the DISH contract specifically, in order to get to that treatment, we need to have a lease, which means we actually need to go put equipment on to a site. So the timing of that will be more associated with DISH going on to sites as opposed to when we would sign a lease specifically. So we got to -- or sign an application or get an application, sorry, is when we actually get it on air and starting billing is when that straight line will come in. So you will see increases of that as we see more from DISH. And -- but I won't speak specifically to when we expect the DISH work to come. We have said that there's a pretty limited amount of that DISH work in our 2021 guidance. That's been true since we gave guidance last October. We still see a limited amount of it in 2021, and we'll speak more to 2022 activity in October."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "Okay. And last one for me is augmentation capex for towers has been kind of coming down, but you've talked a couple of times about carriers going back to their existing locations first, putting more antennas and radios out there. Should we expect an acceleration of augmentation spending at the towers as we look into the future versus what we've seen, say, the last three quarters?"
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Yes, not necessarily. That's based on what -- how much we have to modify the towers in order to accept the additional weight and wind loading of additional equipment. And what we've seen is just we have more based on the towers that don't require modification that has driven that number down. So yet another reason the tower business is one of the best businesses ever is we get to add all of those revenues without having to add capital to make it happen. And that's just a function of the business itself and the towers that we own."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "Best business ever. I guess that also -- putting out mid-band spectrum, also probably smaller antenna size helps with that item?"
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "I wouldn't go specifically to which antenna band we had talked through. I would just say that -- like I said, there's additional capacity that we have on our towers, and we're utilizing that capacity and not having to spend money in order to add additional equipment."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss",
+      "speech": "Thanks, guys. Stay well"
+    },
+    {
+      "speaker": "Daniel K. Schlanger",
+      "speech": "Thanks, Rick."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll hear next from Jeff Kvaal with Wolfe Research."
+    },
+    {
+      "speaker": "Jeffrey Thomas Kvaal",
+      "speech": "Yes. Thank you very much for the question. I guess my first question is, I understand that you don't want to tell us too much about 2022, which makes a lot of sense, and we'll hear from that in a bit. I am wondering, though, if you can perhaps give us a flavor of how long we should expect this elevated activity to last, when it might translate into revenues and then how long those revenues might persist for you -- that elevated level of new leases should persist. Maybe that comparing to prior cycles would be a vehicle for doing that."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Yes. Jeff, I think -- I'm going to be careful because I don't want to get too far into really giving specific guidance around 2022. But as the tone and the activity would suggest that this elevated level of activity that we're seeing currently is going to continue into 2022. We have not spoken about what we think it will continue -- whether or not it will continue beyond 2022. I think big picture, if you look at the last decade, two decades of activity is there's a baseline level of activity that we have seen consistently in and out of cycles of deployment of new technologies that, in many ways, it's almost like maintenance capex that the carriers continually invest in their assets and that drives our top line revenue growth number from new organic leasing activity. And that has happened at the beginning of cycles, middle and toward the end of technology cycles. And I think that will continue. It underlines our long-term forecast of believing that we can grow the dividend 7% to 8% per year on a compounded annual basis for a long period of time. And everything we see in the environment today, as 5G is getting deployed suggests that, that long-term view is intact, and we feel really good about it. So how long it will last? We'll just have to wait and see as we get into 2022, we'll start to give you a view for '23 at that point. But elevated levels, certainly this year and next year compared to what we've seen over the last three to five years."
+    },
+    {
+      "speaker": "Jeffrey Thomas Kvaal",
+      "speech": "Okay. That makes sense. And I guess now I won't ask when small cells might inflect as a result. So maybe instead, could I ask you, do you think the elevated levels are correlated kind of more with the transition to a new generation of technology or more toward the addition of incremental factor in which may or may not align with technology migration?"
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Historically, it's been a combination of both. The best times to be in the infrastructure business over our history have been time when the carriers had a combination of new spectrum that they had gained either through acquisitions or through auctions at the FCC, new technology changes and enough cash flow or cash on hand on the balance sheet to be able to deploy that. And we're sitting at a period of time where those factors -- all three of those factors are true. They have fallow spectrum that needs to be deployed. They're engaging in new technologies that are going to lower their overall costs and bring more products to us as consumers. And at the same time, they have sufficient cash flows to pay for those deployments. So that's the -- those are the best of days to be in the infrastructure business. And we have multiple well-capitalized carriers who are in exactly that position with spectrum, technology and an ability to deploy it. And I think that points to why we've seen these elevated levels. You paused on your second question, and I would just circle back. I think it's a fair question to ask around, what is the timing of activity in the business. And one of the things that has held true for me, a truism about this industry is that you just can't predict with a lot of precision exactly when activity on a particular asset is going to see that lease-up activity. We often colloquially -- we talk about the fact that a tower adds about one tenant every 10 years. Well, in reality, that means that, that one theoretical tower adds a tenant in a year, and the other nine years, it doesn't add a tenant. And so looking at any short period of time can really mask what happens over a long period of time.\nThe assets that we own, whether it's fiber or towers are located in places that we believe there's going to be a lot of need for the upgrade, both for densification and for coverage reasons and these new technologies are driving the demand on those assets. And if we look out -- rather than looking at a shorter period of time of a one or a two-year period of time and look out over 10 years or 20 years, ultimately, that's how we achieve our returns. It's stacking years upon years of good growth, consistent growth in that 7% to 8% that drive toward a larger overall total return and yield across all of the assets. And the portfolio nature of the assets means that in certain markets, we'll see activity, in certain assets, we'll see activity in a given year. And the next year, the activity and the capital will flow toward different markets and different assets. And over a long period of time, the whole portfolio gets the uplift that we see that -- I pointed to there; I think it was on slide four, around the uplift in towers over a long period of time. That's the portfolio effect. But if you were to graph any one tower, it'd be a lot choppier than the smoothness that you see even on page four."
+    },
+    {
+      "speaker": "Jeffrey Thomas Kvaal",
+      "speech": "Thank you for the comprehensive answer."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "You bet. Maybe we have time to take one more question this morning."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll take our final question from Batya Levi with UBS."
+    },
+    {
+      "speaker": "Batya Levi",
+      "speech": "Great. Thank you. Two quick questions. One, could you talk a little bit about the fiber trends and what drove the sequential decline this quarter? And second question on the AT&T-DISH wholesale deal. How should we think about that in terms of the impact on overall activity that you were expecting from DISH? Is there anything you could say about the minimum requirements that -- that's maybe in the backlog right now? Thank you."
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "Sure. On the first question, we've guided toward fiber solutions, the growth this year of being about 3%. Year-over-year, I think in the first quarter, we were up a little bit higher than what we saw in the second quarter. I think that's just timing, and I wouldn't point to anything that's fundamentally going on in the business. I think for calendar year 2021, we would expect by the time we're done, the growth rate will be about 3% year-over-year. And anything you're seeing in the quarter-to-quarter changes that is just timing differences and not indicative of anything fundamentally in the business. On your second question, I'll let DISH really speak to the value and benefit of what they've recently announced. So I don't know that I have a lot of comments there. Obviously, we have a big commitment from them. And we've got a lot of activity ongoing, working to get their network up and built and appreciate the trust and commitment that they've made to us and are excited to deliver what they've committed to us and we've committed to them to get on air for them as quickly as we can. So we're working hard toward that end, and I'll let them speak to the other components of their relationship."
+    },
+    {
+      "speaker": "Batya Levi",
+      "speech": "Okay. Thank you"
+    },
+    {
+      "speaker": "Jay A. Brown",
+      "speech": "You bet. Thanks, everyone, for joining us this morning, and we look forward to catching up with you soon. And a special thank you to all of our employees. The 12% year-over-year AFFO growth is not done without a lot of hard work from a lot of folks and navigating through this pandemic and working in settings and in ways that were much different than our historical approach, our team has really done a terrific job. So I know many of them are listening this morning. I just wanted to say thank you as we close out. Thanks for all you've done and look forward to the balance of the year."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 60 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Benjamin Raymond Lowe--Vice President of Corporate Finance",
+    "Jay A. Brown--President and Chief Executive Officer",
+    "Daniel K. Schlanger--Executive Vice President and Chief Financial Officer",
+    "Michael Ian Rollins--Citigroup -- Analyst",
+    "Simon William Flannery--Morgan Stanley -- Analyst",
+    "Matthew Niknam--Deutsche Bank -- Analyst",
+    "Philip A. Cusick--JPMorgan -- Analyst",
+    "David William Barden--Bank of America Securities -- Analyst",
+    "Jonathan Atkin--RBC Capital Markets -- Analyst",
+    "Unidentified Participant",
+    "Michael Elias--Cowen and Company -- Analyst",
+    "Richard Hamilton Prentiss--Raymond James & Associates -- Analyst",
+    "Jeffrey Thomas Kvaal--Wolfe Research -- Analyst",
+    "Batya Levi--UBS Investment Bank -- Analyst"
+  ]
+}

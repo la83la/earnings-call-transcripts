@@ -1,0 +1,463 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and thank you for standing by. Welcome to the BankUnited 2021 Second Quarter Earnings Call. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions] I would now like to hand the conference over to your speaker today, Susan Greenfield, Corporate Secretary. Please go ahead."
+    },
+    {
+      "speaker": "Susan D. Wright Greenfield",
+      "speech": "Thank you, Victor. Good morning and thank you for joining us today on our second quarter results conference call. On the call this morning are Raj Singh, our Chairman, President and CEO; Leslie Lunak, our Chief Financial Officer; and Tom Cornish, our Chief Operating Officer. Before we start, I'd like to remind everyone that this call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that reflects the company's current views with respect to, among other things, future events and financial performance.\nAny forward-looking statements made during this call are based on the historical performance of the company and its subsidiaries or on the company's current plans, estimates and expectations. The inclusion of this forward-looking information should not be regarded as a representation by the company that the future plans, estimates or expectations contemplated by the company will be achieved. Such forward-looking statements are subject to various risks and uncertainties and assumptions, including, without limitations, those relating to the company's operations, financial results, financial condition, business prospects, growth strategy and liquidity, including as impacted by the COVID-19 pandemic.\nThe company does not undertake any obligation to publicly update or review any forward-looking statements, whether as a result of new information, future developments or otherwise. A number of important factors could cause actual results to differ materially from those indicated by the forward-looking statements. Information on these factors can be found in the company's annual report on Form 10-K for the year ended December 31, 2020, and any subsequent quarterly report on Form 10-Q or current report on Form 8-K, which are available at the SEC's website, www.sec.gov. With that, I'd like to turn the call over to Raj."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Thank you, Susan. Good morning, everyone. Thank you for joining us and giving us your time to listen to our earnings report. So for the quarter, earnings -- net income came in at $104 million, $1.11 per share compared to $98.8 million or $1.06 per share last quarter. The -- for the full -- for the first six months of the year, this translates to an ROE of 13.2%, ROA of 115 basis points. I'm very happy with where things came out on the earnings front. NII, net interest income continued to grow despite tons and tons of liquidity on the balance sheet, which I think is a problem with every bank these days.\nOur NII came in at $198 million. Last quarter, it was $196 million. This quarter last year, it was $190 million. NIM contracted a tiny bit from 2.39%, down at 2.37% mostly because of that elevated level of liquidity that I just mentioned. On the deposit front, again, a very strong quarter. Deposit costs came down, the mix improved, the volumes grew. So across the board, no matter how you measure it, the story of the deposit side was again very, very strong. So just quickly getting into the numbers. Our cost of deposits dropped from 33 basis points to 25 basis points in the last quarter.\nThat's an eight basis point reduction. The spot balances. DDA grew by $869 million. And most of our growth was DDA again. And by the way, DDA now stands at 31% of deposits for -- it was 25% just at the end of last year. So for those of you who have followed our story for some time, even as recently as a year or 1.5 years ago, we think of 30% as the profitability scale. I'm happy to report we're at 31%. But that doesn't mean that we're not shooting for a higher number. And I think the bar just has been reset, and we think we can actually get -- improve the funding mix even beyond this 31% that we're at today. Provision for credit losses came in at a negative $27.5 million, and Leslie will get into the specifics of how that all evolved. On the credit front, we again got some progress.\nCredit -- criticized classified assets dropped by $541 million. That's a 21% drop. Loans that are either temporarily, deferred or modified under the CARES Act also declined. They were $762 million last quarter, now they're down to $497 million. Our NPL ratio, however, went up a little bit from 1% of loans last quarter to 1.28%. If you exclude the guaranteed portion of SBA loans, that number is 1.07%. This increase is attributable to -- largely attributable to basically one credit. It's a large credit, $69 million. It's a relationship in the C&I business here in Florida. It's a relationship that we had for almost a decade.\nAnd for the large part of that decade, the first seven years or so, it was -- we were the primary bank all in the last two or three years that we become a participant in a shared national credit because the company got so large that we couldn't really support them from their credit needs. So one of the large banks in the country took over the primary, and we've been a participant, but it's a company that we've known for a decade. Some accounting irregularities came up over the last few weeks in the books of this business, which is why we took the stand of moving this to a nonperforming loan and taking a large reserve against it.\nWe have a $31 million reserve..."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "$30 million."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "A $30 million reserve against this loan. Capital -- by the way, net charge -- let's just move to financial then on the credit side. Net charge-off ratio was 24 basis points compared to 26 basis points for the full year of 2020. So fairly steady. Capital, as you know, we have tons of capital. We've announced a share buyback back in February, which is still outstanding by $37.7 million, still outstanding at that. We are adding to that. And yesterday, the Board met and approved another $150 million on top of what was already left in the last authorization.\nSo I think over the last couple of earnings calls, I've mentioned that the stand we've taken with buybacks is that we will be more opportunistic rather than just steady buy a little bit every day. And the reason for that is we expect this to be a very volatile market. Even a little bit of bad news or good news can really move stock prices a lot, which is what we're seeing right now. So we're going to use that to our advantage and be opportunistic. It's -- with the stock trading, I guess it's a fairly easy decision for us to do. CET1, one capital, is 13.5% holdco; 15.1% for the bank. Our book value, again, continues to grow. Book value was $33.91 now. Tangible is $33.08. So very happy about that continued progress upwards.\nThis quarter, after I think the longest hiatus we've ever had, this quarter, we are back in the hiring business and brought in producers both on the left and right side of the balance sheet across business -- the various business lines. So it's exciting. We have not done that for a full year, which, like I said, it was the longest we've ever gone without bringing in new producers. We even launched a new business line. We were always in this business, the HOA deposit business. We've always been in this business but not organized as a separate business line, but we did that.\nWe see a big opportunity. We've made a couple of hires again on the production side. And those hires will be starting soon. So very excited about what that business will do for us over the course of the next three or four years. The other thing is this quarter -- last quarter, excluding PPP loans, our loan growth was negative $500 million, round number. This quarter, we still have a negative number, but it's small compared to how much decline we had in loans last quarter.\nAnd as I look forward to where the pipeline is, I'm actually very optimistic about what third quarter and fourth quarter would bring to us, especially in the commercial side, especially in the C&I business. Less on the CRE front where the pipelines are also getting better, but C&I pipelines are much better, and Tom will get into a little bit details of this a little more. But as we see into the second half of the year, the best we can tell is we will most likely make up the reduction that we've had in loans, again, excluding PPP loans because that's just a different animal. So the economy is healing both in New York and Florida. Florida is further ahead than New York, like I've said in the past, but even New York is showing very good signs.\nWe are obviously watching how the healthcare numbers evolve. That can change at any time, so we do keep an eye on that very closely. But overall, it's been a very positive picture. We have opened up and brought our employees back in a capsulated way. We're not completely back into the office. But by Labor Day, goal is to get to the new normal where a number of people will work in a hybrid fashion, others will work remote and some -- a few will work permanently five days a week at the office. So all of those what we call RTO, or return to office, is being played out as we speak. And we expect that by Labor Day, we will be in the new normal. Again, the caveat, obviously, is the healthcare crisis that we're watching.\nWhat else? I am going to actually turn it over to Tom, who will get into a little more detail."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "[Indecipherable]"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "One more thing, which Leslie just pointed out to me. The other change on strategy that is very recent over the last three months or so is for the first time in the history of the company, we are beginning to think about geographies outside of just New York and Florida. In the past, we've said New York and Florida is about as much of the market as we want because it's just hard just flying back and forth between these two markets. But if the pandemic has taught us anything is that you don't have to fly back and forth all the time to cover two markets.\nIf that's the case, then there are other markets that will work well with our business model. Generally, business dense urban markets where we are beginning to look and have discussions with to see if we want to expand into these markets. There's nothing to announce. These are in very early phases, but I wanted to share at least our thinking about geographic expansion much before it actually happens. So when there is something more comprehensive, we'll come talk to you about it, but we are beginning to at least think in those terms that it's not just Miami and Manhattan, but other markets might also get added to this franchise over time. So with that, I'll turn it over to Tom, who will walk you through a little more detail."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Great. Thanks, Raj. So let's talk a little bit about the deposit side. First, overall average noninterest-bearing deposits grew by $673 million for the quarter or by $2.9 billion compared to the second quarter of 2020. On a period-end basis, noninterest-bearing DDA, as Raj said, grew by $869 million for the quarter while total deposits grew by $877 million. NIDDA has now increased 26% on a year-to-date basis. So what's really good about that is it's another quarter where we've seen really strong growth, really, in all of our business lines. It's a broad-based support of the continuance of NIDDA new relationships.\nMost of the growth was driven by new logos coming into the organization, new treasury management relationships, which is showing up strongly in our fee income lines, which were up 31% in terms of service charges. So we're seeing good support in all of these areas. Time deposits declined by $806 million. Money market and interest-bearing checking grew by a total of $815 million. So we're seeing some movement from time deposits to our money market product. As we've lowered rates on the CD side, retention has been good. And actually, as I said, a lot of this money has been moving to the money market accounts. On the loan side, I'll spend a little bit of time on this and follow up on some of Raj's comments.\nWhile we did have a decline, excluding the PPP loan forgiveness by $56 million, in the quarter, it began to feel like a more normalized quarter. Residential growth was $494 million for the quarter, including both the residential and the EBO side. And I think most importantly for us, as an indicator, C&I loans were up by $186 million for the quarter, which is really, really a good sign for us. It's one of our major business lines. It's the first time that this line has grown in the -- since the onset of the pandemic. So that was really good to see. Also even better or just as good as the $186 million, what was nice is there was a good blend of new relationships into the bank as well as existing clients increasing credit facilities during the quarter. So utilization -- line utilization has been a challenge for the industry.\nIt's been a challenge for us. We're at relatively low historic rates from a utilization perspective. So it was nice to see clients start to move back to a more normalized basis, see transactions being done in the quarter, see M&A activity being done in the quarter. So the blend was good, and we also -- within the C&I business, if we looked at the business, it was a strong back end of the quarter. June was particularly strong and we saw transactions in a number of different industries. At one point, I looked at the pipeline for closing in June, and we had something like 18 deals and all 18 were in different industries. So that was nice to see from a diversity perspective. So given the pipeline activity that we're seeing now, we expect to see growth in the second half of the year.\nWe will see a better commercial real estate environment. We had $225 million of CRE runoff in the multifamily business. That will pretty much taper off at this point. As you can see from some of the supplemental information, our multifamily New York portfolio has now been kind of reduced to what I would call a pretty stabilized level. This has been kind of a 5-year process of this reduction. And I think now we're kind of at a stabilized level. The other thing that was good, as Raj mentioned, we've made a number of key hires. The HOA segment on the deposit side, we brought in producers on both sides of the balance sheet. We've been a strong player in this market, and I think this is an opportunity for us to really significantly grow this business over the next few years.\nWe also added capability to our healthcare practice team, which is important to us, and we hired several commercial producers in kind of our -- one of our core Florida C&I-type team. So the cadence in the field, it feels like it's starting to return to kind of a normalized basis for us from a business, business production, calling perspective and whatnot. So a little update on the PPP. $438 million of First Draw PPP loans were forgiven in Q2. At June 30, there was a total of $209 million of PPP loans outstanding under the First Draw program and $283 million outstanding. Under the Second Draw program, forgiveness applications are in process for the majority of the First Draw loan programs, and slide eight in the deck provides more detail on this. A quick update on deferrals and CARE modifications. slide 17 in the supplemental deck also provide some data on this. On the commercial side, only $3 million of commercial loans are now in short-term deferral.\nAs of June 30, $436 million of commercial loans remained on modified terms under the CARES Act. The largest group of loans still under the CARES Act is in the hotel portfolio. Although the total CARES Act modified loans in that portfolio declined from $343 million at March 31 to $225 million at June 30. We've seen -- particularly in Florida where about 76% of our hotel portfolio is, we've seen a pretty strong rebound in tourism in Florida. Any of us who've been trying to book hotel rooms in Florida recently have found it pretty difficult to do at high rates. And we're seeing a strong rebound in occupancy, particularly travel-related beachfront property occupancy, within the overall Florida book.\nSo that led to the significant decline that we had there, and we expect to continue to see improvement in that. $218 million in commercial loans rolled off of deferral or modification this quarter. 100% of these loans are either paid off or resumed regular payments. On the residential side, excluding the Ginnie Mae early buyout portfolio, $59 million of the loans were on short-term deferral or had been modified under a longer-term CARES Act repayment plan at June 30. Of $532 million in residential loans that were granted an initial payment deferral, $493 million or 93% have rolled off. Of those that have rolled off, 93% have either paid off or making regular payments.\nJust some selected data on our CRE portfolio. Rent collections on commercial properties remained very strong. When we looked at larger clients in selected data that we see in the office portfolio, it's -- rent collections have run 98%, actually. Both in Florida and New York, it did do strong performance in multifamily, 96% in Florida, 91% in New York. Retail collections were 95% in Florida, 85% in New York, and we continue to see some improvement in the New York retail market. As I mentioned a little bit earlier, the Florida hotel market is particularly back stronger. All Florida and all New York properties are now open. Occupancy averaging 75% for the second quarter of 2021, excluding one New York hotel that did not open until the end of the second quarter. So we're seeing a good overall rebound in that market.\nSo with that, I'll turn it over to Leslie for some more detail on the quarter."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Thanks, Tom. So as Raj mentioned, NIM was down slightly this quarter to 2.37% from 2.39% in large part due to even stronger-than-anticipated headwinds from high levels of liquidity. Cash was elevated and liquidity was deployed into the bond portfolio, which, while accretive to net interest income is not accretive to the margin. The yield on loans this quarter increased to 3.59% from 3.58% last quarter. Recognition of fees on PPP loans that were forgiven added 11 basis points to that loan yield this quarter compared to six basis points last quarter.\nSo without the impact of PPP origination fees, the yield on loans would have declined by four basis points for the quarter just due to the turnover of the portfolio into lower-yielding assets in this environment. We have $9.8 million of deferred fees on PPP loans that remain to be recognized. $1.1 million of this relates to the First Draw program, and I would expect most of that to come into income in the third quarter. And $8.7 million relates to the Second Draw program, and I really wouldn't expect to see much of any of that in the third quarter. The yield on securities declined from 1.73% to 1.56%.\nThat was somewhat more than we had anticipated. Retrospective method accounting adjustments related to faster prepayments on mortgage-backed securities actually accounted for 10 basis points of that quarterly decline and the rest of the decline, obviously, just attributable to turnover of the portfolio in a lower rate environment. As Raj said, the cost of -- total cost of deposits declined by eight basis points quarter-over-quarter with the cost of interest-bearing deposits declining by 10 basis points. With respect to the FHLB advances, there's still $1.1 billion of cash flow hedges against FHLB advances that are scheduled to mature over the remainder of 2021 with a weighted average rate of 2.4%.\nWe estimate that -- we talked about the impact on the NIM with higher levels of liquidity. We estimate that if we simply -- if we normalize elevated cash balances, that accounts for about eight basis points. So even if cash balances have been normalized, the NIM would have been eight basis points higher. And we estimate that if we also normalize the level of securities, we would have seen 14 basis points. So that impact on NIM of high levels of liquidity is somewhere between eight and 14 basis points depending on how you think about it.\nSo pretty significant. As Raj said, we currently expect the cost of deposits to continue to decline next quarter, and we currently expect the NIM to be stable to slightly higher. However, liquidity may continue to be a headwind there. Moving on to the provision in the allowance. Overall, the provision for credit losses this quarter was a recovery of $27.5 million. slide s 10 through 12 of our deck provides some further details on the allowance for credit losses. The reserve declined from 95 basis points at March 31 to 77 basis points at June 30. Biggest drivers of that change, $19.4 million of the decrease related to the economic forecast. The largest impacts were improvement in the unemployment outlook and improving HPI in commercial property forecast.\nThe reserve decreased by $17.6 million due to net charge-offs and to $16.2 million due to portfolio changes, that bucket includes things like the net decrease in loans; shift into portfolio segments with lower expected loss rates, such as residential; as well as the impact of just loans moving in and out of the portfolio; and improving borrower financial statement spreads. $12.8 million decrease in the amount of qualitative overlays that had related to some uncertainties around the COVID pandemic that we -- that seem to be resolving themselves and an increase of $20.7 million related to risk rating migration, most of that was the $27.2 million increase in the reserve related to the $169 million commercial relationship that Raj spoke about bringing that reserve up to $30 million.\nThe largest component of the reduction in the reserve was the CRE portfolio because that model is particularly sensitive to unemployment and property forecast. Similarly, we saw a reduction in the residential allowance, again, related to improving unemployment and HPI. The C&I reserve actually increased this quarter on a loss rate basis, and that was again due to the large reserve on the one loan. Total criticized and classified loans declined by $541 million; special mention, down by $282 million; and substandard accruing, down by $299 million; substandard non-accruing loans increased by $40 million, again, back to that one commercial loan that we've been talking about. A couple of notes on other income and expense.\nWith respect to operating expenses, we saw a decline in comp this quarter. As expected, Q1 is always somewhat elevated. Deposit insurance expense came down correlating to a reduction in criticized and classified assets. We continue to see increases in deposit service charges and fees stemming from our treasury management solutions initiatives that we initiated in conjunction with BankUnited 2.0. One more thing I just want to mention real quick. With respect to the tax rate, I would expect it to remain around 26%. Consistent with the uncertain tax positions disclosure we made in our last 10-K, we have very recently entered into discussions with the state of Florida regarding several outstanding tax matters. There's a possibility that these discussions could result in recognition of a benefit somewhere in the next few quarters. These discussions have just recently gotten underway. So it's too soon for me to be much more specific than that.\nSo with that, I'm going to turn it over to Raj for some closing comments."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "While Leslie was talking, I just looked up on my deposit report, which I get every day. And so as of last night, our deposit cost was at 20 basis points. So I feel pretty comfortable in saying that we will be in the teens this quarter, might be in the teens as early as next week. So I know in the past, I've said that we think we will end the year on a spot basis in the teens. I'm happy to say that we're about five months ahead of schedule. And by the way, deposits continue to grow.\nTruth be told, while I'm very excited about deposit growth that has come in, liquidity is a problem. So it's -- this would have been an even better report if we had said to you that we actually kept the model as flat. So we're trying to -- and we are succeeding in pushing out anything that we think is quite sensitive and will hurt us in the future when rates rise. So we continue to increase the quality of the book because some day rates will rise. So it is -- if I look back six months ago when we thought the year would play itself out, overall, on the deposit side, we're much further ahead of what we thought we could do this year.\nOn the loan front, we're further behind than what we thought we would do. But I think about standing here over the next six months, I still see a lot of good news on the deposit front because the pipeline has still good money still coming in and cost of funds are still declining further than we ever thought it would. And on the loan side, pipelines are now beginning to look normal. So also, a point that Tom made that I just want to repeat, it may have gotten lost. Multifamily in New York has been the big headwind for us. The runoff from that portfolio has been a big headwind for us because exactly five years ago is when we changed strategy and deemphasized multifamily.\nThat 5-year anniversary is literally around maybe I think this month. So as that portfolio matures and those payoffs and sort of natural runoff gets behind us, as I look forward, we don't see the same velocity of payoffs happening because that portfolio is kind of getting to a normalized place. So that was also, from a payoff perspective, a good story. And I look forward over the next couple of quarters compared to the last couple over the last -- last couple of quarters over the last five years. So I just wanted to make that point. But we will turn it over to the moderator for questions.So -- yes. Okay. We'll take questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question will come the line of Ben Gerlinger from Hovde Group. You may begin."
+    },
+    {
+      "speaker": "Ben Gerlinger",
+      "speech": "Hey, good morning, everyone."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Good morning, Ben."
+    },
+    {
+      "speaker": "Ben Gerlinger",
+      "speech": "I was wondering if we could start on slide 23, it's the nonperforming loans. A big uptick, I totally understand is that one major C&I credit. But if you back that out when quarter looks to be roughly flat and as Tom worked through the credit information, it seems like everything is not only positive, but it's working in the right direction as well.\nSo I was curious if you could shed some more color on nonperforming loan balances in general. And then also the credit that you guys called out, it seems to be 30 -- you said $30 million reserve. It seems to be pretty high as a percentage of reserve relative to the total loan. I was just curious if you could shed some color on the confidence there in terms of like the SNC in performing going forward."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes. On that loan, we are still gathering a lot of information. We'll actually know a lot more in about two weeks' time about exactly the collateral coverage people have involving all the collateral there. So that was our best guess and obviously, we don't want to go back and keep doing this over and over again. So we just took what we thought was a conservative and appropriate level of reserve. But we'll know a lot more in about two weeks' time. This all has played itself out over the last few weeks.\nWhen you have accounting irregularities, it becomes much harder to understand sort of the extent of the problem that might be -- that you can't really rely on the numbers that have been presented to you. So that's -- it almost falls outside of credit losses, it becomes more like a fraud loss.\nSo that's what we're dealing with here. It's not like the business slowed down and we saw this slowly happening and we can kind of predict how it will come back up. It's just suddenly, the numbers that you've been relying on are -- weren't in the paper they're written on. That's the situation that we're dealing with. So we're valuing collateral. We think we've made an appropriate and conservative estimate of what the reserve needs to be. But we'll know a lot more, like I said, in a couple of weeks, and we'll true it up for the coming quarter."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes. With respect to the rest of the population, this is -- for the most part, I mean there's been some small ins and outs. But for most -- the most part for the last few quarters, this has been a relatively stagnant population of loans that are in our workout recovery department and just working through them. So other than this one loan that Raj just mentioned, there's a little ins and outs. But for the most part, this is just the population of loans that we've been working out for the last few quarters, and we are hopeful that we'll see that gradually start to wind down."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes. There's nothing great that stands out on this one."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "No. No."
+    },
+    {
+      "speaker": "Ben Gerlinger",
+      "speech": "Okay. Great. That's really helpful color. And then if we could just kind of switch gears here. Raj, you seem pretty optimistic in terms of loan growth. I get that you've transitioned from a giant question mark at the beginning of the year to be in a sense of positivity and now you guys are taking the offensive approach of hiring lenders and looking outside your markets. I was curious if you can kind of maybe potentially flame what your loan growth targets might be in terms of the end of this year or even a year from now. Any sort of areas you don't want to grow and growth in general? What do you think would be a good mark to have in terms of growth?"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes. So for this year, I mean look at the trajectory. Over the first quarter, we were down $0.5 billion. This quarter, we're down about roughly $50 million. And by the way, in the quarter, it closed one day early. We would not have been down, if we head to the office the very last day, which really is annoying when that happens, but we did have unexpected payoffs on the last day.\nWe were actually going to have a positive quarter. But nevertheless, the first two quarters have been negative quarters. I'm expecting the next two to be positive quarters. In the past, we've said we'll probably have very low single-digit sort of percent growth, which is kind of what it still feels like. It is hard to predict in this environment. It is not a normal environment yet. I would not even dare try what things to predict, what next year would be like. I think we need to see things settle down a little more.\nBut just for this quarter, I expect the next quarter -- third quarter, fourth quarter to be positive and for us to kind of make up for what we have lost in terms of balances over the first two quarters. I think that's -- my optimism comes really from, a, seeing the environment, but more importantly, seeing the pipeline. So when I sit down with Tom, every couple of weeks, I usually look at where the -- especially the commercial C&I pipelines are, that's -- they're at the best place they've been since the pandemic started.\nAnd line utilization, while it's still low, it has been improving. The bottom was February -- end of February was the lowest that our line utilization was. It has increased slowly, but surely every single month with the exception of June, the last year of June, when we had some paydowns, when it went down a little bit.\nBut overall, the trajectory is pretty healthy. And all we need in our forecast is -- our forecast doesn't say that we'll go back to normal by the end of the year. It just says that we'll go back to halfway to normal. And if that happens, we will have a decent second half."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yeah. I might add, that's one of the reasons why I made the comment about where our production came in the second quarter, which is there are things that we proactively control, which is new relationships, calling, bringing in new clients into the bank. And I think when we look at the pipelines coming from that activity it looks pretty good right now. The part that we don't control is the line utilization of existing clients.\nBut the fact that we saw a good portion of our production coming from line increases during the quarter, clients doing new transactions, while the utilization didn't move much because of some of these paydowns that Raj mentioned, that we had at the end of the quarter, the overall feeling and sentiment of our clients doing more activity, seeing more activity, revenue starting to go up, a lot of our credit facilities are formula-based, facilities.\nSo as sales goes, receivables go up, inventory goes up and you're going to -- we would expect to start to see as the economy continues to recover more line utilization. So if we get both of those going in the same direction at the same time, then I think that's going to be a much better story."
+    },
+    {
+      "speaker": "Ben Gerlinger",
+      "speech": "Great, that's really helpful. If I could just sneak one more in, Leslie, I know expenses has always been a little bit volatile, especially with comp and other moving pieces. Outside of technology spend which I get that is an important investment for the bank. Is this kind of one 18.5% a good run rate? Or should we expect something a little bit higher going forward?"
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "I would say, overtime, that's probably going to creep up a little bit. Tom and Raj both refer to, hiring we're doing of some producers. Do I think that's going to materially move the needle on that run rate in the near-term? No. But we are seeing that. However, on the flipside, that should also lead to more than that much.\nThese people, if they're under keeper, they're not going to be here long so that should lead to an increase in revenue offsetting it. But I would say there is going to be a little bit of upward pressure on comp because we are actively hiring.\nAnd I think the other thing that's going on in the comp number right now. Our variable compensation accruals have been increased over the prior year, again, in anticipation of a strong second half and a pickup in revenue. So that's actually great news."
+    },
+    {
+      "speaker": "Ben Gerlinger",
+      "speech": "Okay, great. I appreciate the color guys."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from the line of Jared Shaw from Wells Fargo Securities. You may begin."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Hi. Good morning everybody."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Hey, Jared."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Maybe sticking with the loan growth outlook, that's good optimism there. Is that -- on the C&I side, is that really just more broad-based with being able to start to penetrate those new customers to the bank that you brought in on the deposit side?\nOr are there certain industries that you're seeing more strength, whether it's franchise finance or whatever? I guess maybe a little color on what you're seeing in the pipeline there and help paint that picture a little more."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "No. It's not certain, for sure. We could be a little bit careful in -- from a credit perspective, we have not increased our risk appetite for credit. We're still being cautious on that front.\nBut it's mostly coming from a very healthy economy in Florida, especially and also rebounding economy in New York, which is just a few months behind. But no, that's -- it's not like we saw in our deposit line that we're not selling credit product. It's more coming from the fact that there is -- the economy is rebounding very strongly in Florida. And we are sort of benefiting from that and harvesting the good news over there."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes. I would say it's pretty broad-based. Like I referred earlier, when I looked at the closing production for the quarter, there were no two deals in the same industry. So, it did range from a multinational company in Orlando that manufactures toilet paper to our renewable energy to communications to healthcare. It was a broad number of industries across the board in the segments that we serve."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Okay. And then on the HOA business, it sounds like that's primarily or exclusively deposit right now. Is there an opportunity to have that become a lending product in conjunction with that expansion?"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes. There is a small element of credit in that business, but that's not really what the business is about. Credit is generally -- if you do 10% loan to deposit, that's probably a high number. It really is a deposit business. And I want to clarify, we have been in that business for a while, but it was just never really organized as a separate line of business or a subline of business. So, we're putting some resources behind it. We're going to spend some money on technology and then we'll go to market. And it's a national business for us actually, because while we do a lot of it in New York and Florida, we do have clients outside. So more recently, some banks have actually stepped up and bought platforms and spend tons and tons of money on goodwill and intangible. We think we can grow that organically without spending that kind of capital."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes. The production teams that we hired in terms of new people have a national footprint in terms of their client base."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Okay. And then, when you talk, Raj, about looking at other geographies as being potentially attractive, how should we think about BankUnited entering any of those? Would that be, if you come across a person or a team that has some good relationships in the market, you would do that? Or would it be a bigger -- once you identify a market, it would be a bigger entrance with potentially a branch or potentially an acquisition or a bigger splash than just one or two people?"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes. First of all, look at the way we've entered other businesses, other geographies over the last 10 years. Chances are it will be similar to that, which is going to be a small step in a new geography with a small team and then slowly grow it over time. Acquisitions, is always possible, but it's never our primary strategy. We always try to find ways to do it ourselves, and we can. If there's something so special that you have to acquire it, then we're open to that, too. But our history will tell you that that's something we lead with. We obviously lead organic growth. So, we are -- it has to be a market that makes sense for us. It has to be a healthy market. It has to be a market where our business model will work.\nNot every market is like that. It's unlikely it will be far from -- we're not going to go to Seattle, as an example. But it will be somewhere within maybe, let's say, the Eastern Seaboard. So we are looking at markets from Boston all the way down to Atlanta and beginning to engage with teams to see where we could actually get -- what's the health of these markets, what is the health of the lending markets and what are the pricing dynamics? They're quite different from one MSA to the other. What is the competition like? And then most importantly, can you find like-minded people who will work well in our family?"
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Great. And then, maybe just finally from me for Leslie. The securities portfolio went up about $1 billion this quarter. Can you give any detail around what the purchase yields and duration was like? And is that changing the overall interest rate sensitivity at all of the bank?"
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "So the purchase yields are depressing, but they are what they are. They're averaged just under 1% for the quarter. The composition of the portfolio has not changed materially because of the purchase activity. And we've made a conscious decision to keep the duration of the portfolio short. Jared, it always has been. We don't believe that this is the time to take duration. So we're still -- we're keeping the duration of the portfolio short."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "The bond portfolio is probably a little larger than we'd ideally like it to be right now, but it's better than letting it sit at the bench starting 15 basis points. So..."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Dave Rochester from Compass Point. You may begin"
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "Hi. Good morning, guys."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Good morning, Dave."
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "I wanted to go back to the loan trajectory for a minute. I appreciate all the color there. You'll definitely get some nice lift with that multifamily runoff going away, but you've also had some decent runoff in the bridge book as well. That was another I think $100 million on top of the $250 million from multifamily this quarter. So I just wanted to get your take on how you see that book trending and when you think you'll hit bottom there."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes. I would say I'd split the answer to that into two pieces. One is the equipment piece and the other is the franchise finance piece. So if you -- I'll take franchise first, it ended the quarter at about $463 million. We will probably continue to prove that a bit and take out concepts that we don't think are the long-term rate concepts in that business. I would expect that to trend down a bit over the next couple of quarters.\nWe do see some new transactional opportunity in that. We're looking at four or five deals right now in our McDonald's focus that I think are good-looking deals. So that will probably drift down, but then stabilize as we get to the end of the year. We've got a couple of more concepts that we might want to clean up a little bit, and we will probably continue to reduce one of the fitness concepts a little bit where there are sale opportunities or there's some transactional volume going on in the fitness where you see some aggregation of operators in that area.\nOn the equipment side, I think that will also continue to trend down just a little bit. There is not as much transactional opportunity in the equipment finance area right now. We're not seeing as much return to stronger capex-type spending there. And frankly, right now, the deals that we're seeing are fairly long-duration opportunities and they're at fairly thin rates.\nAnd so it doesn't give us sort of great economies as we look at the trade-off between credit risk and in return and like in other businesses that we're in, to take sub-2%-type risk for 10 years in mid-past-level credits doesn't make an awful lot of sense right now. And I think we'll just -- we'll see growth in other areas of the portfolio that have got better returns in covered deposits and treasury opportunities and things of that nature."
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "Yes. Okay. So you've got oneoffs subsiding in Bridge. You've got the multifamily portfolio basically stabilizing it sounds like in 3Q. So it seems like it's still down a little bit? Okay."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes. The rate of decline will slow considerably."
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "But it just seems like with -- to your point, the rate of decline is slowing pretty significantly and your positive commentary on the pipelines and growth in other areas, it seems like you guys are poised for some pretty decent loan growth here in the back half of the year. Is that fair?"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "Yes. Good. And just switching to capital. It sounds like you're perhaps about to get aggressive here just given where the stock is trading as buyback goes. So if you end up wrapping this up in the shorter term, do you see more excess capital behind that and would there be a willingness on your part to put out another plan? Not trying to get too far ahead here, but just want to understand how you think about excess capital right now."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes. We will be back most like that. And obviously, the Board will make the decision. But there's a lot of excess capital here. I can see us doing another $150 million right after that."
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "Great. And then maybe just switching to your -- the securities investment strategy. How are you thinking about growing the book now just given the newer, lower rate environment that we're in at this point if you end up getting more excess deposits in the back half of the year?"
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "So obviously, we see stronger loan growth on the horizon. And it would be our desire that we would not be growing the securities book from here, but the growth on the balance sheet would be -- we'd be seeing growth in the loan book instead of the securities book.\nAnd as Raj mentioned earlier, we are also in the process of actively incentivizing depositors who we believe will be rate-sensitive in a different rate environment to take their deposits elsewhere. So we would not be disappointed if we didn't see total deposits grow next quarter. We want to see NIDDA grow. So I would -- my desire would be that we don't see the securities book grow materially next quarter. However, to be honest, if we find ourselves in the same position we're in this quarter where we have a lot of excess liquidity there, that's where we'll put it."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Listen, if deposits were to decline by $1 billion, let's say,"
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "And we just reduce cash on the other side of the balance sheet, we don't lose any earnings, but you'll free up $80 million of capital, which you could buy back stock at -- what are we trading, at 1.2, 1.3 times book, that's accretive to EPS."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "So I wouldn't be concerned if we end up at..."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "On the balance sheet, yes."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "On the balance sheet would be a good thing."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "Yes. Yes. Sounds good. Maybe just one last one on fee side. I saw the bump up in lease financing revenue this quarter, and I know that can bounce around a little bit. But are you finally expecting that the decline that we've seen over the past several quarters to have subsided here, maybe stabilized going forward? Or do you still see some..."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "My best estimate, Dave, at this point is that it's pretty much stabilized for the foreseeable future."
+    },
+    {
+      "speaker": "Dave Rochester",
+      "speech": "Great. All right. Thank you very much appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "All right. Next question will come from the line of Brady Gailey from GBW [Phonetic] You may begin."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Yes. From KBW. Thanks, good morning, guys."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Brady, we thought you switched firm."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Still here. I wanted to ask just another on the C&I nonperforming. What sector was that in? And then when you look at your total loan portfolio, can you remind us what the percentage of total loans that are shared national credits?"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "The sector, this is in -- is retail and wholesale distribution of commercial sort of heavy construction equipment. It's largely in the southeast part of the country. And while technically this fall under a SNC category, I wouldn't really call it that. We have deluxe relationship here. We were the primary bank for the longest time and only because of the size of this thing growing to a place that we did not want to go, this became sort of a club deal. Overall, the deal was large enough that this has to be called a SNC. But this is not one of your typical SNCs where..."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes. It wasn't at the capital market strength."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Right. Actually, it's one like a large money center bank called 17 banks and says, who wants to take this $20 million deal. This was somebody -- a business, a company we've known at the bank for a long time. So -- which is why it's even more painful to see this go the way that's gone."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes. The definition of a SNC is over $100 million in total credit commitment in three or more banks. So I mean it's not -- as Raj said, this isn't your multibillion-dollar deal where you have 28 banks, and it's really a club deal."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes. Unfortunately, we have some long-standing relationship with this company, like Raj said, that makes this even more painful."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Yes. Okay. And then Raj, you mentioned you're back on offense, you're hiring people. Can you maybe size out how many people you hired in the second quarter and maybe just talk about how many people you could hire going forward?"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "I couldn't answer the second part of the question because it's always ad hoc how many people you'll be able to bring on. We are having multiple discussions. Tom, do you remember how many we've hired?"
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "I would say it's probably about six or 7."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Okay. And then last..."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "To some extent, the future hire is also a very opportunistic issue. I mean if we find a terrific producer in a market, whether we have an opening or not, we're going to hire them. I mean we're in the hunt for talent every day."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Yes. That makes sense. And then Leslie, I heard you have $9.8 million of PPP fees left. Can you tell us how many PPP fees were actually taken in the second quarter, the dollar amount?"
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Yes. $4.5 million."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Great. Thank you, all."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question comes from the line of Dave Bishop from Seaport Research. You may begin."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Yes, good morning."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Good morning, Dave."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Leslie, a quick question for you. Just in terms of quarter-to-quarter change, just curious how the balance sheet looks from a interest rate sensitivity positioning. Just curious if you have that updated relative to last quarter."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "Not much different. Not much different, Dave. The balance sheet has been for some time and continues to be moderately asset-sensitive. It's probably a little bit more asset-sensitive now than it was a quarter ago but still in the same range, and that's kind of what we try to manage, too."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "And in terms of I guess loan floors, just curious to get a sense in terms of how much we have to see rates rise before we start seeing some of these loans coming through their floors. Is it a big impediment in terms of repricing?"
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "It's not a big impediment. Tom, correct me if I'm wrong, but I think the only book where we have really meaningful operated floors right now is the mortgage warehouse book. So the rest of the book has some floors, but they're pretty low."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Got it. And then Raj, in terms of maybe a high-level commentary, you mentioned that the runoff I guess in the New York multifamily is probably nearing an end point here. A broader view of that as an asset class here or do you think that will eventually begin to grow again? And maybe just your view of just New York multifamily in general at this point."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "I mean it's a very wholesale lease asset class. And it's very hard to generate deposits. And you would think it will be easier than it really is. And we just saw it compete with some banks that for them, that's the only asset class, which makes it hard to compete with. It is -- overall, the New York market obviously has suffered more in this downturn than, let's say, Florida, which also applies to this asset class. So I'm still not very bullish on New York multifamily as a class in class. I would not want it to grow, but at least not very meaningfully.\nWhat we will be left with are core relationships where we have deposits, we have the entire relationship and it's not just loans that we bought from our broker. So if we can grow that business, of course, we would want to grow it. But it is such a wholesale broker-driven industry that to have real sort of substantive growth measured in billions of dollars, you really have to go through the broker channel and really think of this as almost buying bonds. That's the only way you can really get a lot of growth. So I don't suspect that we will end up with a lot of growth in the New York multifamily, but I think it will always happen as an asset class and stable in kind of the form that it is in right now."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes. I would also add that even prior to the pandemic, the regulatory changes that went through recently 1.5 years ago or so in New York dramatically changed the economics of the business."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Yes. The long-term economics are -- these are five -year loans for the most part. So if you go out and say, OK, what are the cash flow projection is going to be five years out based on those changes that happened just before the pandemic, that those thin debt service coverage ratios will look only thinner five years out. So that is a concern that we never used to have with New York multifamily, but now it's something you're going to put into your math."
+    },
+    {
+      "speaker": "Thomas M. Cornish",
+      "speech": "Yes. Operating expenses in that business are just growing faster than rent rolls can grow. And therefore, there's just compression in NOI."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Got it. And then maybe, Leslie, turning back to credit. Obviously, the improvement in the economic forecast driving the lower ACL ratio. Just curious when things do start to bottom out in terms of -- in terms of having to provide for loan growth, just curious where you see yourself maybe preserving at from a percent of loans perspective moving ahead?"
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "You mean before the pandemic hit, right? What was our CECL coverage ratio?"
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "60 basis points."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "60 basis points."
+    },
+    {
+      "speaker": "Leslie N. Lunak",
+      "speech": "And so I would say, Dave, and I've said this before, these kinds of things are difficult at best to predict with a high degree of precision, but I would say we see the economy really close to what it looked like when we put that day one CECL reserve on. If portfolio composition is consistent with where we were then, I would say we're going to drift back to that 60 basis point level. Right now, the portfolio composition is a little more tilted toward residential than it was then, which carries a lower reserve.\nSo even with more commercial origination heading back there probably makes as much sense to me as anything. Can I say definitively when we get there? No, because some of that also depends on continued upward risk rating migration, the nature of production. Believe me, I would be very pleased to get back to a place where we have a positive provision in the quarter because of loan growth. That would be a good thing. But I think my best -- the best way to look at it is probably we're headed back toward that 60 basis point barring things looking -- going in a different direction economically."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Got it. Appreciate the color."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] I'm not showing any further questions in the queue at this moment. I'd like to turn the call back over to Mr. Raj Singh for any closing remarks."
+    },
+    {
+      "speaker": "Rajinder P. Singh",
+      "speech": "Thank you, everyone, for joining us and listening to our story. We'll talk to you again in three months. Stay safe. Bye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 61 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Susan D. Wright Greenfield--Senior Vice President of Investor Relations & Corporate Secretary",
+    "Rajinder P. Singh--Chairman, President and Chief Executive Officer",
+    "Leslie N. Lunak--Chief Financial Officer",
+    "Thomas M. Cornish--Chief Operating Officer",
+    "Ben Gerlinger--Hovde Group -- Analyst",
+    "Jared Shaw--Wells Fargo Securities -- Analyst",
+    "Dave Rochester--Compass Point -- Analyst",
+    "Brady Gailey--GBW [ph] -- Analyst",
+    "Dave Bishop--Seaport Research -- Analyst"
+  ]
+}

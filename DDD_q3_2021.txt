@@ -1,0 +1,409 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Hello, and welcome to the 3D Systems Conference Call and Audio Webcast to discuss the results of the Third Quarter 2021. My name is Kevin, and I'll facilitate the audio portion of today's interactive broadcast. [Operator Instructions]\nIt's now my pleasure to turn the call over to John Nypaver, Vice President, Treasurer and Investor Relations for 3D Systems. Please go ahead, John."
+    },
+    {
+      "speaker": "John Nypaver",
+      "speech": "Thank you, Kevin. Good morning, and welcome to 3D Systems conference call. With me on the call are Dr. Jeffrey Graves, our President and Chief Executive Officer; Jagtar Narula, Executive Vice President and Chief Financial Officer; and Andrew Johnson, Executive Vice President and Chief Legal Officer.\nThe webcast portion of this call contains a slide presentation that we will refer to during the call. Those following along on the phone, who wish to access the slide portion of this presentation may do so on the Investor Relations section of our website. For those who have accessed the streaming portion of the webcast, please be aware that there may be a few seconds delay and that you will not be able to post questions via the web.\nThe following discussion and responses to your questions reflect management's views as of today only and will include forward-looking statements as described on this slide. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in last night's press release and our filings with the SEC, including our most recent annual report on Form 10-K and quarterly reports on Form 10-Q.\nDuring this call, we will discuss certain non-GAAP financial measures. In our press release and slides accompanying this webcast, which are both available on our Investor Relations website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures. Finally, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2020.\nNow I am pleased to turn the call over to Jeff Graves, our CEO. Jeff?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks, John, and good morning, everyone. I'll open today's call with a phrase that I'm sure many of you were saying to yourself this morning as well and that's wow, what a difference a year makes. At this time last year, we were seeing only the very beginning of what we all hoped would be a sustained recovery from the worst of the COVID pandemic. At the same time, here at 3D Systems, we were in the midst of executing our four phased transformation journey. We reorganized our company into two segments, Healthcare and Industrial Solutions. We have restructured our organization to gain efficiencies. And we had announced the first of our divestitures of non-core assets.\nAs we speak to you today, a year later, these first three phases are complete. We are now a company that's singularly focused on additive manufacturing with a lean nimble operating structure, global reach and breadth of metal, polymer and biological technologies that's unparalleled in the industry. These attributes brought together through an intense focus on our customers' most demanding applications has proven to be a powerful driver of value creation as reflected clearly in our organic growth rates, our profitability and our operating cash performance, all of which we will recap for you in a few moments.\nWhile we're pleased with this performance, even more exciting is that we're now in the fourth and final stage of our transformation, namely, investing for growth. Since last quarter, we completed the last of our divestitures, retiring our debt and stockpiling over $500 million of cash on the balance sheet. We subsequently announced two acquisitions that embody our strategic focus on growth, which is to invest in businesses that drive the adoption of additive manufacturing, solve customers' most complex application needs and generate high margin recurring revenue streams that are critical to sustain value creation.\nThe first of these acquisitions was Oqton, a unique software company that's emerged as a recognized leader in the creation of a new breed of intelligent, cloud-based manufacturing operating system. The driver for this acquisition is very simple; customers across our Industrial and Healthcare segments are now anxious to accelerate their adoption of additive manufacturing in full scale production environments. But in doing so, they're facing significant challenges and how to incorporate these technologies into their existing enterprise systems. To-date, they relied heavily on spreadsheets and highly skilled engineers to run production applications. This is obviously too slow, too inefficient and too expensive to scale as production volumes ramp up.\nWhile we and others have made strides in optimizing and to some extent automating the performance of single printer or even a collection of like-kind printers working in parallel, our customers' challenges extend well beyond this. What they need is a manufacturing system that can easily and intelligently incorporate a mixed fleet of printers, often from a variety of manufacturers, and in addition, one that will incorporate all of the surrounding digital production systems on the shop floor such as post-print thermal and mechanical processing, robotic motion systems and automated inspection systems.\nOqton not only provides this linkage, it goes a step further in applying cloud-based AI to optimize the entire workflow then links this workflow to the customers' existing enterprise software such as those provided by Salesforce, Oracle, Microsoft or SAP. The end result is that Oqton not only links, optimizes and tracks the customers' unique operational workflow at an individual component level from raw material to finished in respected parts, but it also builds in future flexibility to substitute new printing, finishing and automation technologies that will undoubtedly be introduced in the years ahead.\nThese attributes which are unique to the Oqton platform will remove a significant barrier to the large-scale adoption of additive manufacturing and production environments. And for that reason, we've opened the system to the entire industry, which we hope will accelerate market growth for everyone. In addition, for the first time in our history, we will now make available our full complement of market-leading metal and polymer printing software platforms to all others in the industry, which we hope will accelerate the introduction of new printing technologies to customers around the world.\nImportantly, as with all software platforms, the span in entire industry, we are committed to Oqton continuing to operate in this model of independence with a supreme commitment to customer data protection and confidentiality. I'm happy to tell you that we closed the Oqton acquisition on November 1, and the reception by our customers and partners alike has been very positive.\nBefore I move to our most recent and incredibly exciting acquisition, let me step back and explain how we look at our company holistically, which I believe is much different than others in this industry. In the decade since 3D printing was invented, we and our competitors have routinely defined ourselves as hardware and material developers, with our products sold broadly to customers around the world. While this is natural when any industry is young and when the product is mainly consumed in small quantities by labs or prototype facilities, as the industry now matures and production environments are targeted, successful companies will need to adapt their entire operating model to reflect their deepening integration with specific markets and customers. If you don't, you will remain simply a vendor and not a true partner to your customers, which will ultimately be reflected in your organic growth rate and profit margins.\nSo with this in mind, at 3D Systems, beginning a year ago, we changed the way we defined ourselves by reorganizing our entire company around key markets, and within those markets, key vertical segments that we believe will drive the most value from their adoption of additive manufacturing. We began with the creation of two business segments, Healthcare and Industrial Solutions. Using a strong application focus, these two businesses each integrate our printer, material and software technologies in unique combinations to solve the customers' product need.\nOnce complete, our customers can then ask us to scale the process for them to a certain production level. And then with increasing demand, they can elect to have us enable a manufacturer of their choosing to continue scaling to high volumes. This transfer of the workflow involves providing printing systems, materials and software along with the process definition. It results in a seamless transfer of capability to the chosen manufacturer whether it's the OEM themselves or a contract manufacturer of their choosing.\nSo fast forwarding to this year, with the acquisition of Oqton, we expanded our software capabilities into what we call broadly digital manufacturing software, which as we described earlier, enables a rapid and efficient adoption of additive manufacturing in high volume production environments. This operating model has been very well received by our customer base and we expect it to fuel exciting organic growth in the years ahead.\nMost recently, we've added a strong biotech organizational focus and invested significantly to bring our emerging biological technologies to laboratory and human applications, details of which we'll cover in a few moments. So in short, these are our five core market segments that you'll hear us talk about moving forward. While each of the five will adapt to the needs of their customers, each will also leverage our core technologies of hardware, software and materials in the unique manner needed to fulfill their customer application needs.\nLet me illustrate this approach using our Healthcare business as an example. In the mid-1990s, 3D Systems pioneered Medical Modeling, which is the printing of highly detailed anatomical models from digital images. These models have proven instrumental in support of complex surgical procedures. In a highly publicized application of our modeling technology, which was beautifully documented by CNN's Dr. Sanjay Gupta, we created a number of medical models to assist in the separation of conjoined twins, Jadon and Anias McDonald who were born with the extremely rare craniopagus condition, in which twins are joined at the head, sharing not only the skull and vasculature, but portions of the brain itself. The modeling used for the surgical planning was vital to the success of Dr. James Goodrich and his team that they had in separating the twins, both of which are alive and living independently today many years later. To date, our medical modeling technology has supported dozens of similarly complex operations around the world, along with hundreds of others, and it continues to expand each year.\nBuilding upon this foundation and investing in point-of-care infrastructure that accompany this growth, we deepened our surgical support over the next decade. And by 2005, we were working with surgeons to design and manufacture customized patient-specific surgical guides and instruments using 3D printing. As this portion of the business in turn grew, we expanded our scope once again, this time to include actual patient-specific implants, which offered an even larger market opportunity.\nFast forwarding today, we offer the broadest range of FDA-cleared capabilities for modeling surgical planning and patient-specific medical implants, which inspires our customers to continue expanding their partnership with us year-after-year. While we're very proud of our progress by now redefining ourselves as a healthcare business in this example and leveraging both our critical infrastructure and channel partner relationships, we can broaden our scope more aggressively to now include other parts of the human skeleton structure, and importantly, to advance these applications in parallel instead of in series as we have in the past.\nThis provides us the opportunity to bring benefits to a much larger patient population and at a much higher rate than ever before. This is the power of redefining ourselves as a healthcare business and not simply a provider of printing technology to healthcare customers in the market. Of note, our Healthcare business grew over 28% in our most recent quarter and over 44% on an organic basis, which is where we disregard the businesses that we have divested. This remarkable growth rate is a testament to our increasing momentum in this exciting market.\nSo building upon this discussion of our Healthcare business, I would like to end my commentary for today on the remarkable emerging market of bioprinting in our announcement last week of our acquisition of Volumetric Biotechnologies. This company, under the inspired leadership of Dr. Jordan Miller, brings specific expertise and biomaterials and regenerative medicine that combine synthetic chemistry, 3D printing, microfabrication and molecular imaging to direct culture human cells to form more organized complex organizations of living vessels and tissues. 3D Systems has been a pioneer in our industry by focusing resources on regenerative medicine since 2017. And we began a joint development program with United Therapeutics Corporation to develop the capability to print scaffolds for human lungs using a process we call printer profusion. Once developed, this bioprinting technology can be applied to other major organs in the human body as well as a wide range of other human and laboratory applications.\nWe've made significant strides in this unique technology. And as a result, we recently announced an expansion of our development program with United Therapeutics, an expansion that includes increased funding and an extension to two additional organs. This program expansion reflects the progress that our joint team has made in this groundbreaking endeavor. By acquiring Volumetric, we're adding critical skill sets to our 3D Systems' team, which we feel are a perfect complement to ours, bringing strong biological expertise and cellular engineering skills along with highly creative bioprinting systems to our development group.\nAs I realize this is an entirely new area for many that have followed our company for some time, let me quickly recap our regenerative medicine strategy and the market opportunities that we're addressing through our unique bioprinting technology. The first opportunity is the printing of human organs, beginning with the lung and expanding from there to two additional organs. We're pursuing this as a joint program with our partner United Therapeutics. The ambitious goals that we've set for this program are driving quantum advances in our technology and laying the foundation for the rest of our regenerative medicine efforts.\nIn our second regenerative medicine market opportunity, we're taking the core unique disruptive technologies developed for the bioprinting of human organs and applying it to other parts of the human body. There are tremendous number of these applications ranging from the printing of human skin for burn victims to soft tissue for breast reconstruction and repair to critical blood vessel and bone replacements and many, many more. We're now forming partnerships focused on each application area where we can combine our bioprinting expertise with the appropriate application experts to provide unique and highly impactful solutions for people in need. We refer to this second market vertical within regenerative medicine as human non-organ bioprinting.\nOur last but certainly not least market opportunity is to extend our bioprinting technologies into research labs, providing advanced printing systems and unique biological materials to those that study the basic science of regenerative medicine and in the pharmaceutical laboratories where the ability to print high precision, three dimensional vascularize cell structures can be used for the development of new, more effective drug therapies. Our acquisition of Volumetric and their unique capabilities in combination with our own will allow us to expand the pace of our efforts in all three of our regenerative medicine markets.\nIt amazes me to think of these revolutionary applications enabled by our 3D printing technologies; applications that we are uniquely positioned to deliver with our extensive history in advanced 3D printing technologies, our material expertise, our application development expertise, our deep understanding of FDA and other regulatory processes and now our biological and cellular engineering capabilities. We believe that in the years to come, bioprinting will take its place as a very significant business for our company, bringing critical relief to patients in need of life-saving procedures and great value to our company's employees and our shareholders alike.\nMoving from our strategic growth investments to our most recent quarterly performance, I'm very pleased to say that we've continued to execute well on our core business. With continuing strong demand, our operational challenges have largely centered around global supply chain and logistics issues, which are unfortunately continuing to plague most companies around the world. Our solid execution in the face of these challenges in the third quarter resulted in strong double-digit growth with revenues increasing by 15% before adjusting for divestitures. When these adjustments are made, which is a much better reflection of our core business performance, revenues were up over 36% versus 2020 and up over 20% versus our pre-pandemic 2019 third quarter, a benchmark we consider very important.\nLooking at our major business segments, our Industrial Solutions segment is continuing its rebound, seeing strong performance particularly in jewelry, automotive and transportation and general manufacturing. In Healthcare, we see continuing strong demand for personalized health services as well as solid performance in dental.\nAs Jagtar will discuss shortly, in addition to the strong revenue performance, our EBITDA climbed by over 125%. We generated positive cash from operations for the fourth consecutive quarter, the first time this has happened in four years. With our cash generation in addition with the proceeds from divestitures, we built a sizable cash balance by the end of Q3. A portion of these funds will be used to fund the strategic growth initiatives I mentioned earlier, but we will still have be left with a significant amount of liquidity to pursue additional opportunities. As I'm sure is clear to everyone, I am very excited not only about what we've accomplished this last year, but even more so about the future as our focus on growth in this final stage of our transformation has only just begun.\nWith that, let me turn the call over to Jagtar who will now describe our third quarter results in more detail. Jagtar?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Thanks, Jeff. Good morning, everyone. For the third quarter, we reported revenue of $156.1 million, an increase of 14.6% compared to the third quarter of 2020. Our organic revenue growth, which excludes divestitures completed in 2020 and 2021, was 35.9% in Q3 2021 versus Q3 2020. Since the third quarter of 2020 was beginning of the economic reopening from the COVID-related shutdowns, we think it is valuable to compare our results to Q3 2019, which was untainted by the pandemic. Again, excluding divested businesses, we are comparing on an apples-to-apples basis. Our revenue in the third quarter 2021 was 21.2% higher than pre-pandemic Q3 2019.\nAs we have discussed previously, with the completion of our Simbionix and on-demand manufacturing divestitures in Q3 2021, we have completed our planned divestitures and are now focused on the performance, growth and investment of our core additive manufacturing business. I would like to note that our -- at post-divestitures, we continue to generate nearly two-thirds of our revenue from our recurring revenue streams. These high margin lines of business highlight the strength and diversity of our core business, our ability to weather various economic cycles and around which we will continue to make strategic investments.\nTurning to earnings. We reported GAAP net income of $2.34 per share in the third quarter of 2021 compared to a GAAP loss of $0.61 in the third quarter of 2020. The year-over-year improvement was driven by gains on divested businesses as well as the goodwill impairment charge we took in the third quarter of 2020. For our non-GAAP results, we reported non-GAAP income of $0.08 per share in the third quarter of 2021 compared to a non-GAAP loss of $0.03 per share in the third quarter of 2020. The year-over-year improvement reflects higher revenue with lower non-GAAP operating expense as a result of the cost actions we took last year.\nNow I will discuss revenue by market. Healthcare grew 28.3% year-over-year and decreased 7.8% compared to the last quarter. The decrease was primarily a result of the divestiture of the Simbionix medical simulation business during the quarter. Adjusted for divestitures, Healthcare revenue increased 44.5% year-over-year as a result of strong demand for dental applications in both printers and materials. In fact, the last four quarters have seen the highest level ever of dental material sales as compared to any prior four quarter period.\nOur Industrial segment generated revenue growth of 4% to $79.7 million compared to the same period last year and was flat to last quarter, reflecting the divestiture of the on-demand manufacturing parts business during the quarter. Adjusted for divestitures, Industrial revenue increased 28.1% year-over-year and 2.1% over the last quarter. The increase was driven by higher demand in both printers and materials in a variety of sub-segments, most notably, jewelry, automotive and transportation and general manufacturing.\nNow we turn to gross margin. We reported gross profit margin of 41.2% in the third quarter of 2021 compared to 43.1% in the third quarter of 2020. Non-GAAP gross profit margin was 41.5% compared to 43.2% in the same period last year. Gross profit margin decreased primarily as a result of businesses divested in 2020 and 2021. If we exclude the impact of those divestitures, gross profit -- gross margins increased 80 basis points in the third quarter of 2021 compared to the same period last year, driven by 2020 cost actions and the higher revenue, which resulted in better capacity utilization.\nAs evidenced by our strong performance this year, demand continues to be strong for both our -- for our products in both business segments. The biggest challenge we've faced isn't unique to 3D Systems. We are all aware of the supply chain issues that are affecting everyone, from multinational corporations to small businesses to individuals on Main Street. In fact, our Q3 revenue, while strong, was impacted by supply limitations of certain products. Consistent with last quarter, we continue to see a tightening of cost and availability for certain components that go into our product. Our team is doing a heroic job as it manages through these challenges. Supply chain and not end customer demand remains the key headwind in our business and is our strong focus as we finish out the year.\nWe have taken steps to mitigate the economic impact, such as adding alternative sources for key components where possible. We have seen some cost impacts from the supply chain constraints, especially in increased freight charges and have instituted a temporary surcharge for our customers on certain types of purchases effective in the fourth quarter. Year-to-date, our non-GAAP gross profit margin was 42.6% and we expect full year gross profit margins to be between 41% and 43%.\nOperating expenses for the quarter were $81.5 million on a GAAP basis, a decrease of 35.4% compared to the third quarter of 2020. This year-over-year decrease reflects a goodwill impairment booked in Q3 2020. Our non-GAAP operating expenses in the third quarter were $54.1 million, a decrease -- an 8% decrease from the third quarter of the prior year. Compared to the second quarter of 2021, non-GAAP operating expenses decreased 2%, primarily driven by lower R&D spend.\nAdjusted EBITDA, defined as non-GAAP operating profit plus depreciation, was $16.3 million or 10.5% of revenue compared to $7.2 million or 5.3% of revenue in the third quarter 2020. Our disciplined approach to growth, cost management and focus on our core business is resulting in continued strong adjusted EBITDA.\nTurning to the cash flow statement and balance sheet. We are pleased to show $502.8 million of cash on the balance sheet, an increase of $418.4 million since the beginning of the year. The increase was primarily driven by proceeds from the divestitures of the on-demand parts business and our medical simulation business, but supported in no small part by our extremely strong cash generation from operations. During the quarter, we generated $20.7 million of cash from operations, marking the fourth straight quarter of positive cash from operations. This is the first time in four years the company has achieved four straight quarters of positive operating cash flow and reflects a strong transformation of our business.\nNow that we have demonstrated consistent profitability and cash generation and post-divestiture $0.5 billion of cash on hand, we are in a prime position to continue growing the company by taking a disciplined approach to invest organic and inorganic solutions that will solve customers' complex needs, drive adoption of additive manufacturing and generate high margin recurring revenue streams.\nWe have previously announced some of those growth opportunities, namely our acquisitions of Oqton, which closed November 1 and Volumetric Biotechnologies, which is expected to close in the fourth quarter. The cash considerations for these will total approximately $130 million, leaving roughly $370 million of cash. These acquisitions will position the company for strong growth and are core to our strategies in both high margin software to enable the adoption of additive manufacturing as well as adoption of advanced 3D printing technologies in the field of regenerative medicine where we believe we will be a leader in the market.\nAs I conclude my remarks, I want to reflect on the past year. I joined the company at the beginning of the third quarter of 2020. At that time, the company was just beginning its transformation. We had just announced results for the second quarter of 2020 that included negative operating cash flow of $21 million for the first half of that year, cash and cash equivalents on the balance sheet of only $64 million and $22 million of debt. Now fast forward to this year and the transformation we've been through. We have generated over $60 million of operating cash this year for the third quarter and ended the quarter with over $500 million of cash and cash equivalents with no debt.\nWe are 100% focused on additive manufacturing and growing strongly in our core markets. We are able to make smart and strategic investments to support our core business and are rapidly advancing our key technologies into new segments such as regenerative medicine. I continue to believe that we are uniquely positioned in our industry with a strong balance sheet growth, cash generation and a suite of technologies that continue to be in demand by our customers.\nFinally, we wanted to provide an update at our Investor Day event. You may recall that we had scheduled an event for September 9 in the Denver, Colorado area. Out of the abundance of caution for the safety of our investors, analysts and employees, we postponed the planned Investor Day as COVID infection rates increased this past summer due to the Delta variant. We are now seeing the hopeful signs of progress, with once again declining infection rate, rollout of booster shots and a newly announced pill that seems to offer promise of dramatically cutting the hospitalization rates from this infection. As a result, we are in the early stages of planning an updated Investor Day with an aim for the first half of 2022. We will provide an update as soon as possible and look forward to sharing our long-term growth strategy in more detail with the investment community.\nWith that, I'll turn the call back to Jeff. Jeff?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks, Jagtar. Well, Jagtar and I have covered the remarkable progress that we've made over the last year. We've created value for our investors, our customers and our employees by remaking the business. Our growth and profitability distinguishes us in the industry and has made us a key partner for a growing number of organizations that are considering additive manufacturing. At the same time, our transformation has also made us a more exceptional place to work to drive the future of additive manufacturing, and as a result, more talented individuals are becoming a part of the new 3D Systems each day.\nHowever, as much as we've accomplished this last year, it's more about the future. We will continue to be a valuable solutions partner with customers and deeply integrate with them as they adopt our solutions and technologies. We will also invest in our business and drive our solutions capabilities in the five key areas I spoke about earlier. I'm truly excited about the depth and breadth of technology we bring to our markets and application expertise.\nSo with that, I'll now open it up for questions. Kevin?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question today is coming from Troy Jensen from Lake Street Capital. Your line is now live."
+    },
+    {
+      "speaker": "Troy Jensen",
+      "speech": "Hey, gentlemen, congrats on great results here."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks, Troy."
+    },
+    {
+      "speaker": "Troy Jensen",
+      "speech": "I guess, for you, Jeff. I want ask a few questions. I did miss the Volumetric's call. I guess, could you talk a little bit -- we got an email from John about this and you talked about the three facets for the space that you guys look at, its organ printing, non-organ printing and then lab and research work. I mean, I don't want you to size them, but can you prioritize which one's bigger here as far as -- I guess, when I think about bio, I really think about the material as really the key secret sauce and maybe the bio players are less. But help me out we're going to prioritize which facets are most important?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Yeah. Those are two interesting questions, Troy. Let me talk about both of them. I'll start with the second one actually, the printing technology itself. Troy, I got to tell you, it's remarkable. We started this work back in 2017, frankly speaking, thinking that it was impossible to get to the resolution required for printing a long scaffold. I mean, we're talking about micron level detail in an extremely complex structure to build the scaffold and it's a large scaffold, think of the size of a human lung. And so the intricacy, the complexity and the fine detail are really, really hard. And remember, you're doing it with biomaterials. You're doing it with materials that are the basic building blocks of your body -- of the human body, materials that have really been printed before. So all of that technology, it took us a few years to really evolve that technology to the remarkable level it is today. And that's what gave confidence to us, to United Therapeutics that we can now expand that in other human organs.\nSo I wouldn't underestimate the printer technology. And to be honest with you, we not only were inventing it newly for bioprinting, but we were leveraging some of the work we've done in photo polymer printing technologies as well along the way, which was really helpful. And that's the kind of synergy -- technologies synergy we see going forward, which is really beneficial. But from a material standpoint, these are unique materials, and we will continue to involve unique biological materials.\nSo part of the driver in acquiring Volumetric was they have the biological expertise that we really needed. They have excellent printer expertise as well, but they've approached it from the biology standpoint. So they have cellular engineering and biology expertise that if we're really going to grow in this space, we needed to bring in-house. And we can now use it not only for organ printing, but to leverage into non-organ parts of the human body and then also laboratory applications. Remarkable technology, Troy.\nAnd when these organs and non-organs articles are built for your body, they're largely constructed from a patient's own cells in the end. So they're fully biocompatible and they're meant to survive in your body for your entire lifetime without the need for immunosuppressive drugs, which has been an ongoing issue for transplant patients today. So we're tremendously excited. And that organ printing effort is driving a lot of the core technology that we're taking into these other markets for non-organ printing and for labs.\nIn terms of the size of the markets, Troy, it's -- they are emerging markets. It's very hardening to get your arms around the size and scale of it. If you just strictly look at the number of organ transplants, for example, today that are done, the list is kept very small on purpose, because there are so few organs to go around. So you can put dollar estimates on a number of organs, but the market itself will expand to millions and millions of patients. So obviously, it's a very high value article and it avoid spending a lot of money on traditional transplant and medication. So we believe it's a highly valuable, highly differentiated product you're providing into a market that will be measured in billions.\nAnd then when you go to non-organ applications, I'd say the equivalent. It's hard to estimate, but you think of skin, arteries, soft tissue implants around your body, it's going to again amount to billions of dollars of market size. And then I'd say the same in laboratory, maybe a bit smaller. What we've said is $1 billion plus market for laboratory applications. We're really excited about research labs, it's a great business. We acquired Allevi early in the year, and Allevi had a really nice footprint in research labs. They're in over 300 research labs around the world. And that's the way you really develop a lot of the science of regenerative medicine. So you want to be in with those guys selling them printers and consumable materials. But the real market we're excited about beyond that just from a dollar standpoint and the benefits it bring is in drug therapy, so pharmaceuticals.\nSo the ability to print 3D cellular structures that have blood vessels in them so you flow blood through them, allow pharmaceutical companies to test drugs more quickly. So they no longer have to jump from an animal to a full scale person. They can test it in the laboratory, but with real human biological cells and blood flowing through them in and architected way or reproducible way.\nSo we see the benefits there is tremendous. And it will be in providing printers and materials, it may actually be in doing some of the testing eventually as well. But it's going to be I believe a marvelous business for us. But again, I would put $1 billion plus tag on right now for lack of a better number. But there are clearly sizable markets. And I believe, Troy, transformational to our company. It's a logical extension of our Healthcare business today with our FDA knowledge and our process discipline, but it is an entirely new market that I really want to make sure we're very well positioned. We have a lead today. We are adding really great technical resources. And we want to continue really pushing the technology in that area."
+    },
+    {
+      "speaker": "Troy Jensen",
+      "speech": "Thanks, Jeff. You've become quite the healthcare expert in a short period of time here. But a quick follow-up for Jagtar. Just gross margins I got one hit a little bit, if we get to the midpoint of the range that you called out for 2021 here, it would apply 40% to 40.5% for Q4. But we just think about going forward, I mean, this is the base level here, do we grow it from here? I know you probably don't want to give a lot of guidance on 2022 yet, but maybe just while we're working on the models now, I thought..."
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah, Troy. I mean, we put out the guidance, and what I'd say is, our plan is to absolutely grow from there. We are -- as you heard in my prepared remarks, we're investing in the types of businesses that are going to drive gross margin, right? The recurring revenue streams that we've talked about, software, materials and the like, we think will drive gross margin in the future. At the same time, we continue to enforce good cost discipline and cost management on our existing products to manage cost, I think we're going through. As you heard me talk about, some near-term headwinds with supply chain constraints and the impact that has to pricing and are managing appropriately. But I think over the medium term, you'll start to see gross margins tick back up."
+    },
+    {
+      "speaker": "Troy Jensen",
+      "speech": "All right, perfect. Good luck, guys. Keep up the good work."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Hey, Troy, just a quick thanks for picking up coverage on the company too. I know you guys are stretched thin, all of you guys. And I -- you're a well respected guy in the industry, really appreciate you following the company and picking up coverage."
+    },
+    {
+      "speaker": "Troy Jensen",
+      "speech": "Looking forward to work with you guys."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question today is coming from Greg Palm from Craig-Hallum Capital Group. Your line is now live."
+    },
+    {
+      "speaker": "Greg Palm",
+      "speech": "Thanks. Good morning, and appreciate some of the commentary around everything that's sort of occurred over the last year. It's been a pretty amazing turnaround or transformation of the company. So kudos to you and the team there."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks, Greg."
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Thanks, Greg."
+    },
+    {
+      "speaker": "Greg Palm",
+      "speech": "So maybe let's start with supply chain, you called out that being a headwind, not surprisingly. Can you quantify what the revenue impact was? And I'm curious, maybe if you just look ahead, I mean, do you think that this could be a tailwind or a driver for additive manufacturing, at least for companies that are looking to, I don't know maybe adding localized, on-demand production or at least secondary sources of supply?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Sure, Greg. I'll start with the quantification and let Jeff talk through the impact to our customers. On the quantification side, in Q3, we probably had about $3 million of revenue, kind of $3 million to $4 million of revenue left on the table that we would have captured had the supply chain issues not occurred. If you exclude divestitures, revenue was up for us Q3 versus Q2. Normally, Q3 is lighter than Q2. So if I think about revenue being up and the fact that we left revenue on the table because of supply chain, it's actually a pretty strong indicator of customer demand. I do think we'll see a little bit of impact in Q4, but like I said in my prepared remarks, we continue to do a yeoman's job of dealing with the issues out there."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Yeah, Greg. And I -- having lived through a couple of cycles before in the electronics industry particularly, these are always painful cycles when there is a real uptick in demand and as people try to expand capacity. They are always resolved and they're always resolved generally more quickly than you imagine they will be. They feel bad when you're going through them. I mean, it's hard. We have really exceptional demand out there right now for our products, but particularly for our application knowledge for the reason that you pointed out.\nThe silver lining in these supply chain shortages is virtually all of our key customers are saying, they've got to change the nature of their supply chain. They can't live any longer, especially when you look at the pandemic effects and on top of it now the supply chain shortages. They have to have a more flexible, nimble yet cost effective supply chain and perhaps a little bit closer to home so they don't have all the logistics cost compounding all the other frustrations.\nSo while it's painful for us to live through and in meeting customer demand right now, it's a -- I believe, it's a really good tailwind for us and for our entire industry, which is additive as a solution for a lot of the ailes in terms of being a real production process now that will allow them to streamline their supply chain and bring it closer to home very cost-effectively. And what we did with the Oqton acquisition is we wanted to remove a big barrier to that happening, because as customers really tried to setup production capability for printers, they were really stumbling over how do you do it. They can't afford to hire PC level engineers to run production lines and do it on a spreadsheet.\nSo they needed a software tool that would allow them to bring printers and all the supporting equipment into the factory, set it up on a plug and play approach -- with a plug and play approach, and nowadays apply machine intelligence and artificial intelligence to the workflow, and that's what Oqton does. So we tried to -- we're working hard to remove any barriers because I believe we have -- as an industry, we've got an excellent tailwind coming as big companies revisit their supply chain."
+    },
+    {
+      "speaker": "Greg Palm",
+      "speech": "Yeah, makes sense. Where would you envision that demand coming from? I don't know whether that's end market or by technology? Just outside of dental, I guess, where are you seeing the most demand and where could some huge demand come from?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Yeah. It's really interesting, and it's quite different by market, Greg. That's why, frankly, to come back to that theme, we've reorganized the company around markets now because that dynamic is different in each market segment. For Healthcare in general, the growth -- even in dental, whether it's dental or it's other med devices, the growth is being driven by this drive to personalize the solution for people. So if you've got a broken bone or you need to a tissue implant or a specialized surgical procedure, they want to -- they have -- it has to be cost effective, but they want a personalized approach to medicine to drive better outcomes. And it's a big need, it's reduced infection rates, it's higher throughput and surgical suites. That's really the driver in Healthcare.\nOn the Industrial side of the business, it's much more what you just said. It's an idea of looking at their extended supply chain and really reworking that. So when you think about it, on the Industrial side, it's the big consumers, the big OEM assemblers of products. So it's automotive, it's aerospace, it's all of the related technologies or companies to that; buses, trucks, cars, airplanes. All of those guys that are designing and building those, they want their supply chain to be closer to home and more nimble and cost effective.\nSo on the Industrial side, it's exactly what you would imagine. And because each one of those has trends of its own, like automotive today moving heavily to EV technology, again, very good tailwind for additive manufacturing. So I love being in the business we are today. And I love the structure we've adopted today with Healthcare and Industrial vertical focus because each industry moves at its own pace, with its own unique needs. So anyway, that's my view on what's driving the spaces, Greg."
+    },
+    {
+      "speaker": "Greg Palm",
+      "speech": "Yeah, that's great. And if I could just sort of sneak in one follow-up on your disclosure of your largest customer being 20% of revenue this year. That's a pretty big step-up relative to prior year. How sustainable is that level going forward?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Well, as you know, it's a result primarily, Greg, of us divesting other businesses. We've divested businesses that they were not involved with. I love the dental space. I love the customers we have. The large customer we have is tremendous. Their penetration rate in the market is still relatively low. So I think they've got a great future based on our technology. And so I think we've got a nice runway with them and have never had a better relationship. In spite of the logistics issues and things, we were able to take care of them and support their growth and their market as the economies reopened, and folks are really interested in their products. So I'm thrilled for them. I'm thrilled for us. It's a great customer. At the same time, Greg, we've got -- we exhibited, and correct me if I'm wrong, Jagtar, 15% growth in the med device. So 15%..."
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Med devices, yes. Excluding divestitures."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Yeah. So if you take our divestitures and stuff we got out of, we had 15% growth in the med device space outside of dental. If you could dental, 15% growth, which we're thrilled by. I mean, that's an exceptional number, and I see that continuing and getting bigger. So I think the whole business will get bigger for Healthcare. I love the fact that we have a very successful customer that continues to grow based on our technology. And I think we've got a great horizon with them and with many others in the dental industry and in the med device industry."
+    },
+    {
+      "speaker": "Greg Palm",
+      "speech": "Awesome. All right. I appreciate the color, and best of luck going forward."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks so much, Greg."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Your next question is coming from Noelle Dilts from Stifel. Your line is now live."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Hi, guys. And again, congrats on all the progress you've made over the past year."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Sure, thing. Just one question from me. Given that you're now moving into this invest phase, I was hoping that you could -- in a bigger way, I was hoping that you could kind of comment on what the pipeline looks like in terms of companies that you're talking to? What your conversations are like? And then maybe if you could just revisit if you had to kind of rank priorities in terms of where your interest lies. If you could talk about medical versus industrial and then software versus applications. Just kind of giving us a sense of how you're thinking about this next phase moving forward? Thanks."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Very happy to, Noelle. And again, if I miss one of those, feel free to ask me again. But in terms of priorities, it's pretty simple. We -- underneath our market focus lies our three core technologies; printers, materials and software. We want to make sure that those remain highly differentiated. So that gets down to sometimes component level investment and -- of disruptive technology. So new ways to print parts. A big priority in that area, Noelle, is materials and we have a great photo polymers group internally. We continue to look at photo polymer experts outside. But whether it's an individual person, small groups or even larger groups that are involved in materials development that could advance additive manufacturing. Those are always high on our priority list. We're always looking for them, because value-added material brings incredible value to our customers and it's really good for us in recurring revenue. So we really love that.\nSoftware obviously, is a priority. We've developed some platforms nicely internally, and we're making those available now to others. And we've invested in the Oqton platform to help our customers. So software will remain a priority. I'm not sure how many other resources in software are really out there, but it would always be high on the list of something became available. So I'd say material -- if you get down to the underlying technologies, materials are high priority and disruptive printer technology is always important.\nWhen you look at market priorities or application priorities, healthcare certainly is a wonderful business. We have a tremendous foundation. We've expanded it now into biotech. We really should grow in that area. But in our traditional healthcare med device business, what's really expanding now are the number of applications. I think we had one chart to show the human skeleton. Our past, Noelle, is pretty much been from the neck up. We've been heavily focused on the head, the skeletal structure of the head and doing good work around that with surgeons. What we're now doing is try to attack other parts of the skeletal system in parallel and go after that. So you're looking at application expertise, other things that will advance the state of the art and healthcare applications around the skeletal system in addition to biotech. So I love those.\nIn industrial, we're being a little bit more -- a little bit pickier in terms of what areas that we really believe will be differentiated in the future. So it gets back to the steam of differentiated technology. Aerospace and space technology, general rocketry, satellites, propulsion, they've always really valued technology for performance reasons and weight, obviously in many cases. So additive has a lot to offer there. And so it will always remain a priority for us.\nGround vehicles, cars primarily, are mixed bag in the past because you had -- cars that heavily price-driven kind of high volume business, which would have traditionally been tough for additive -- tougher for additive. Now with EVs, it's really interesting, because they're borrowing a lot of technology from aircraft materials and applications. So what makes you successful in aerospace can help you in electric vehicles as well. And they benefit from some of more exotic part designs that you can do with additive to basically lightweight -- create a lightweight, strong vehicle structure for battery power to go further.\nSo EVs are a really interesting area in automotive and under the hood hot applications. We have some new specialty materials coming out now. They are really good for hot applications under the hood and other demanding automotive applications. So I've probably blanketed every area there, but hopefully that gives you a sense of what our priorities would be. And we've developed a nice work shift now to go after it and we're generating good cash flow to support that further."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Great. Thanks so much."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Your next question is coming from Sarkis Sherbetchyan from B. Riley Securities. Your line is now live."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Hi. Good morning, and thank you for taking my question here."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "In the last 12-month period, excluding divestitures, your sales were just over $520 million. Just wanted to get a sense for what's your outlook on organic growth for the top-line going forward on that base?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "In terms of organic growth, it's -- everybody struggles to put a number on the industry. I would put it this way. Our organic growth rate should be equal to or better than the industry norms. And I -- people put that in nicely single to double-digit ranges. There's no reason in the world that we wouldn't meet or beat industry growth rates. And in some of these emerging areas that we're going to try to really continue to double down on, I think you'll see an even higher growth rates.\nSo I feel really good about meeting and over time gaining some share in the market. In our approach, we know it's not a big share gain approach by pricing, it's more of a technology differentiation. So I think you'd put an industry growth number, which is our exciting numbers, good solid double-digit numbers and a little bit of windage above that for us. That's how I look at our business.\nJagtar, do you anything?"
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "That's really helpful. And then [Technical Issue] operating expenses for SG&A and R&D. I guess, when considering the addition of Oqton and then Volumetric once it closes, are these dilutive to profitability? In essence, what's kind of the opex run rate as we think about integrating those businesses?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah, sure. So -- hey, Sarkis, this is Jagtar. I talked a little bit about that in the calls where we announced those acquisitions. So I'll reiterate my commentary there. So on Oqton, what I've said is in the near-term, meaning the rest of this year, we closed on November 1, don't expect much revenue contribution from them this year, although I expect that to ramp next year. Right now, their opex run rate is running about $3 million a quarter. So it will be dilutive in the near-term. But with their rapid growth, we would -- we expect over the next year or two to be less dilutive.\nOn the Volumetric side, in the near-term, I'm not expecting any kind of net opex impact until we sort of make decisions to invest further in the, call it, the non-organ side of the business. On their core business, we announced the expansion of our contract with United Therapeutics that will help support the expenses associated with Volumetric. But then as we make decisions to further advance the non-organ side, we may have additional investments, we'll talk about that in the future."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Great. Thank you. That's all from me."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks, Sarkis."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question today is coming from Wamsi Mohan from Bank of America. Your line is now live."
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "speech": "Yes. Thank you. Jeff, I'm trying to sort of reconcile some of your commentary regarding the very change that companies are implementing in terms of supply chains and how they're thinking about maybe manufacturing at different places and doing the entire manufacturing process differently versus comparing like you're Industrial revenues from two years ago to now, like you alluded for the growth in aggregate. But the Industrial side itself has not shown that much growth, whereas in some of the other industries where digital transformation has become a priority, you have seen, for instance, in software like material improvement and revenue growth as these companies are implementing digital transformation. So I'm just wondering, are you seeing any tea leaves with respect to Industrial? How should we think about Industrial as it progresses into 2022? Should we be seeing a much more material inflection in growth rate? If you've got any -- make any comments there that would be helpful? And I have a follow-up."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Yeah. And I guess more of a broad comment, Wamsi. I would say, Industrial is a very big market broadly and it will vary by vertical. And I think that's why you've seen each company because each company has a little bit different exposure in their customer base on the industrial side, some are growing faster than others. I think on average, if you look at the next few years, Industrial broadly is going to grow very nicely because I think COVID was immensely disruptive for them in terms of having, for example, their Asian supply chain shutdown and now on top of it, you've got shortages and logistics issues. So I do think broadly Industrial will be a strong grower in the next few years for everyone.\nThe individual rate by quarter will probably vary depending on what market you're really focused on. So I wouldn't worry too much about quarter-by-quarter changes. But if you look at year-over-year changes going forward, I think there will be a lift for most people participating in this space. And obviously, we tend to target the ones that are most technology-driven. Some of those will be faster growing than others coming out, but I think they all should be pretty impressive growth rates is my guess, if that's helpful to you."
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "speech": "Yeah, that's helpful. And then just a follow-up. As we think about gross margins, I understand that there are some supply chain headwinds currently as you're looking into the fourth quarter. But as you look out, I know last call you guys sort of spoke about your long-term targets of 50% gross margin and you mentioned on this call that that was largely a function of sort of increasing your levels of software and increasing level of materials, but you also made the comment that your go-to-market is much more sort of solution-based than product-based per se, like not piecemeal thinking about printers, materials and software.\nAnd so as I put those two things together, are you essentially saying that you are making a big change to your sales motion to support a solution-based selling? And secondarily, as you think about the gross margin hitting that inflection, what's the timeframe that we're talking about? I know your long-term target is 50%, but if we're tracking closer to 40% today and we're still having supply chain issues, the mix is probably not going to swing that quickly. So just help us with the trajectory as you think to what those large contributors when they kick in?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Yeah. So the big drivers -- and I'll let Jagtar supplement this with comments on the short-term. But I can tell you the big drivers for us in terms of hitting our gross margin target, which again is 50% or better. From a macro standpoint, clearly healthcare will be a big driver of that. Healthcare commands higher gross margins. So clearly, growing in healthcare is a good thing broadly. So we'll continue to drive that hard. And with the extension now into biotech, I think that's really exciting from a gross margin implication standpoint, not only top-line, but gross margin standpoint. So that's really good.\nFrom a mix standpoint, we invest a lot of money in value-added materials. So if you look at ongoing consumables once you have an installed base of printers, materials are great and then software. But the software platform upfront and ongoing upgrades software we're moving more to a subscription models now. That's a great recurring revenue stream. So if you look at the mix of what we actually sell where we are in the transactions, you should see a richer mix going forward. From a macro standpoint, you should see faster growth rates in healthcare overall, which carry a higher gross margin.\nSo those are kind of the macro trends that will drive. And we will continue to focus on technologies differentiated, so day-by-day pricing. If you wrap it into a solution and it's differentiated technology, hopefully you can command the highest gross margin upfront as well. So those are kind of the individual levers and the macro trends that will drive gross margin up to that 50% target.\nIn terms of short-term, Jagtar, I'll let you put on your crystal ball. It's hard to..."
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah. Let me talk about timing, Wamsi. So the way we've modeled it out, we approached 50% gross margins over our strategic planning period, which is sort of four to five years that we've modeled it out. The way I look at it is, in the near-term we've got the supply chain issues. So what our supply chain people tell us they are kind of projecting kind of these issues in the market for the first half of next year and then it starts to soften down. So we're looking at improvements in gross margin sort of continuously over that four to five year planning period kind of excluding kind of the near-term supply chain issues."
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "speech": "Okay. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Brian Drab from William Blair. Your line is now live."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Good morning, Brian."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Hi. Thank you for taking the questions. Hey, good morning. Could you -- did you say how much revenue was from dental versus non-dental within the healthcare business this quarter?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "We haven't broken that out. What we've said is that our non-dental business grew 15% organically after adjusting for divestitures."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay, great. So that 15% -- when you say med device, that's non-dental?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah, that's non-dental."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Right, right. Okay. Got it. And then just some other cleaning up, like modeling stuff. You gave divested revenue, but can you help us with how much of the product segment accounts? How much of the divested revenues in products versus services?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah, I don't have that breakout with me, Brian, but I can get you that offline."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay. And then, Jagtar, thanks for the comments around the Oqton $3 million in opex, but I'm just wondering, can you make a larger -- like a higher level comment around opex and what -- given the opex run rate that you exited the quarter at, what should we expect for the fourth quarter and going forward?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah, sure. So our non-GAAP opex in the third quarter was $54.1 million. You'll have the impact of the divestitures. So right now, the assets that we've divested in Q3 contributed about $4 million to $5 million in opex. So that will come out in Q4. R&D was light in Q3. The result of some R&D credits we received in certain countries as well as some attrition that we had, some hiring of backfills that we're doing. So I would expect R&D to be kind of marginally up in Q4, not by much though. So if you weigh those trade-offs, you'd sort of stay flat to slightly up on opex after adjusting for divestitures and then you add in the Volumetric, which will have about two months worth of."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay. And then Oqton?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Sorry, I meant Oqton. I said Volumetric, I meant Oqton, sorry."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Right. Volumetric doesn't come with any opex, right?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay. And then going forward, like in 2022, you mentioned you're going to be investing obviously in the higher growth businesses, but is this a -- are these big investments or is this opex growing in line with revenue?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah. I think opex will grow in line with revenue."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Got it. Okay. Thanks very much."
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Thanks, Brian."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question today is coming from Paul Chung from J.P. Morgan. Your line is now live."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Hi. Thanks for taking my questions. You typically see some seasonal strength in 4Q, should we expect to see kind of a bump here from the $137 million range in Q3 for kind of the core business ex-divestitures? And then on the kind of the recent acquisitions, how do we think about the timing of layering in the contribution there? Will it be kind of more material in second half of '22?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah. I'll answer both of those, Paul. So on the timing of the acquisitions, we would expect the second half of '22 is kind of where we'd expect to see the ramp starting up with Oqton, it's a cloud software business. So we're working hard on bookings. We see a fantastic pipeline right now, actually, but it will be more in the second half as you start to see that revenue build.\nOn the Q4 revenue forecast, I would say -- I would look to our normal seasonality Q3 to Q4. Right now, we're seeing -- I would exclude last year, last year was kind of a sizable jump from Q3 to Q4 because of the COVID dynamics. But if you look at prior years, the normal Q3 to Q4 bump where we're seeing sort of typical seasonality, obviously, supply chain is the big swing this year. But right now, as I said, we've -- we're doing all we can to sort of manage supply chain, and we're kind of seeing our normal Q3 to Q4."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Got you. And then on free cash flow, you guys have done a great job there. But what would the normalized free cash flow being kind of ex-divestiture? And how do we think about that quarterly run rate of free cash flow as we layer in layer in acquisitions as well? They've done a great job on working capital."
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah. So if I go back to what I said in the last phone call, the divestitures contributed to stuff that we did. This year it contributed about $25 million a quarter to revenue and then about $5 million a quarter to contribution margin, and there is kind of very little depreciation associated with those assets. So that's roughly a cash flow number, maybe slightly higher, so call it $5 million to $6 million a quarter."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Got it. And then lastly, just a quick modeling. Can you confirm kind of the cash outflow in Q4 and equity issuance for Q4? What's the share count expectations kind of post-acquisitions in Q4 and moving forward?"
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Sure. So we..."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "And the rationale between the cash equity split and you got to..."
+    },
+    {
+      "speaker": "Jagtar Narula",
+      "speech": "Yeah. So we released a Q today that's got an updated share count number on the first page. It's got included in that the shares we issued for the Volumetric acquisition, which was roughly about 2.5 million shares. Sorry, I got it wrong. The Oqton acquisition, I keep saying that wrong. The Oqton acquisition, about 2.5 million shares. For Volumetric, it will be half of the purchase price, so $22.5 million worth of shares. That will be based upon the trailing 20 day average. So figured roughly $30 a share there once that acquisition closes. That will be the primary issuance of stock in Q4.\nThe split that we've done cash and stock, primarily, it's been to manage cash. We have a sizable balance sheet now, but we do want to make investments and we want to reserve cash for making investments. And with some of the acquired assets, we want some of the founders' skin in the game so we've balanced it between..."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Makes sense. Okay, great. Thanks."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our last question today is coming from Ashley Ellis from Cross Research. Your line is now live."
+    },
+    {
+      "speaker": "Ashley Ellis",
+      "speech": "Hi. Thank you for taking my questions. Over the last few months and just on this call today, it seems like you're really focusing heavily on healthcare and becoming more and more of a healthcare company. So I'm wondering, how are those conversations going with your large industrial customers? How are you giving them the assurance that you're going to support them for the years to come when they're making investments of hundreds of thousands of dollars? And then at the same time, how are you thinking about sales headcount and investments in R&D for the industrial business as you're being more selective, but you want to make sure you're not going to fall behind the pack? Thanks."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Yeah, two very good questions. So I would tell you, while a lot of my examples today were healthcare examples, we are very excited about industrial. As I mentioned, we pick our markets carefully in industrial to make sure they're targeted toward folks that can get the most benefit from additive manufacturing. So that's where we target our efforts, but we're very excited about industrial.\nThere's a lot of -- if you get down to the technology level on printing and if we're -- I'll just pick one example, Ashley. You say powder bed printing with lasers. So you have metal and polymer powder bed printing that can go both directions to industrial and healthcare applications quite nicely. There's a lot of synergy and overlap with those. So by investing in the underlying technologies, we get a double bang for the buck basically. We can take them.\nWhat distinguishes the two businesses are the application expertise. So helping a rocket company build a big titanium component versus a very small titanium component that's going to be implanted in the human body in the healthcare business. The basic technology can be very similar, the application expertise is quite different. And that's why I talked a little bit about the necessity of reorganizing the company into healthcare and industrial business units, because that application knowledge is very specific to that customer base.\nThey don't want to come in -- somebody involved in orthopedic implants doesn't want to come in and talk about rocket components, right? They want to know how you can help a surgeon repair a bone with a titanium implant. And so on and on and on. So that application knowledge is where it starts fragmenting between market verticals, and that's sort of a part of the sales process.\nWe are building out a bit more of a direct sales force in certain market verticals, especially in healthcare where it's very specialized customers that require distinct application knowledge. We still have a very robust, geographically disbursed sales team around the world that cover either small emerging customers or cover industrial customers more broadly, and we plan on maintaining both of those approaches. It's a balance. We got to watch the costs. But It's certainly worth getting right. And it's one of the things we reconfigured heavily over the last, say, 18 months."
+    },
+    {
+      "speaker": "Ashley Ellis",
+      "speech": "Okay. Thank you. And then my one last question, this might be splitting hairs a bit. But I know a couple of times during the call you mentioned that you completed your divestitures, but at the very beginning of the call, Jeff, you mentioned that you had completed the first of your divestitures of non-core assets. Is that to imply you could make more divestitures or am I just reading too closely to the language?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "No, Ashley. I'm sorry if I -- if it didn't come across clearly. A year ago, what I was reflecting on as we sat here a year ago, we had done one. And now a year later, we've done them all. So we are finished. We own what we're very happy owning and feel like we're the rightful owners of. And we've divested things that are best owned by other folks. So we're finished with divestitures. I guess, you can never say it blankets risk, but we are really basically finished. We're focused on additive as a stand-alone core business, and that's the way we want to run the business going forward."
+    },
+    {
+      "speaker": "Ashley Ellis",
+      "speech": "Okay. Thank you so much."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "You're welcome. And given that that was the last question, I will just make the comment. As our general practice going forward, we'll do what we've done with the last two acquisitions. When they are really important to us strategically, and not all acquisitions are important strategically. But when they really are kind of groundbreaking, needle moving, potential as an acquisition, we'll try to hold a separate investor call the next day and just describe why we're excited about it and what role it plays in addition to the economics of the deal. But I will give you a little bit more strategic view.\nIf you go back to both the Oqton and the Volumetric acquisition, both of those investor calls are on the website under the Investor Relations tab. And you're welcome to look at the charts and listen to them at your leisure if you want to know more about them in detail. These quarterly calls are shorter by nature and probably a little less strategically deep. So Kevin, that wraps up the Q&A."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Perfect. Do you have further closing comments, sir?"
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "John, do you want to wrap up?"
+    },
+    {
+      "speaker": "John Nypaver",
+      "speech": "Thank you for joining us today and for your continued support of 3D Systems. A replay of this webcast will be available after the call on the Investor Relations section of our website. Have a good day."
+    },
+    {
+      "speaker": "Jeffrey A. Graves",
+      "speech": "Thanks, everyone."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 75 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "John Nypaver--Vice President, Treasurer and Investor Relations",
+    "Jeffrey A. Graves--Chief Executive Officer and President",
+    "Jagtar Narula--Executive Vice President and Chief Financial Officer",
+    "Troy Jensen--Lake Street Capital Markets -- Analyst",
+    "Greg Palm--Craig-Hallum Capital Group -- Analyst",
+    "Noelle Dilts--Stifel -- Analyst",
+    "Sarkis Sherbetchyan--B. Riley Securities -- Analyst",
+    "Wamsi Mohan--Bank of America Securities -- Analyst",
+    "Brian Drab--William Blair -- Analyst",
+    "Paul Chung--J.P. Morgan -- Analyst",
+    "Ashley Ellis--Cross Research -- Analyst"
+  ]
+}

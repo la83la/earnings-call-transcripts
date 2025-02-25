@@ -1,0 +1,298 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and welcome to the Trinity Industries' Second Quarter Results Conference Call. [Operator Instructions]. Today's conference call contains forward-looking statements as defined by the Private Securities Litigation Reform Act of 1995 and include statements as to estimates, expectations, intentions and predictions of future financial performance. Statements that are not historical facts are forward-looking.\nParticipants are directed to Trinity's Form 10-K and other SEC filings for a description of certain of the business issues and risks, a change in any of which could cause actual results or outcomes to differ materially from those expressed in the forward-looking statements.\nIt is now my pleasure to turn the conference over to Steve McDowell, Chief Accounting Officer. Please go ahead."
+    },
+    {
+      "speaker": "Steven L. McDowell",
+      "speech": "Thank you, Rocco. Good morning, everyone. We appreciate you joining us for the company's second quarter 2021 financial results conference call. Our prepared remarks will include comments from Jean Savage, Trinity's Chief Executive Officer and President; and Eric Marchetto, the company's Chief Financial Officer. We will hold a Q&A session following the prepared remarks from our leaders.\nDuring the call today, we will reference slides highlighting key points of discussion as well as certain non-GAAP financial metrics. The reconciliations of the non-GAAP metrics to comparable GAAP measures are provided in the appendix of our supplemental slides. The supplemental materials are accessible on our IR website at www.trin.net. These slides can be found under the Events & Presentations portion of the website, along with the second quarter earnings conference call event link.\nIt is now my pleasure to turn the call over to Jean."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Thank you, Steve, and good morning to everyone joining us today. I hope everyone is enjoying summer so far, especially as the world continues to get back to normal. As you can see from our results, we are very pleased to see the market continue to recover as well. Some demand improvement across both our leasing and manufacturing businesses is obviously a welcome development. And when combined with the great progress we continue to make on our internal effort to enhance returns, we're excited for the years ahead at Trinity.\nAs we discussed at our Investor Day last call, we see significant opportunity to drive returns through the optimization of our fleet, our operations and our balance sheet. In the second quarter, we made meaningful strides across each initiative, keeping us on track to achieve our three-year strategic goals. Let me now summarize the key themes from our second quarter. While we're still recovering from the lower order volumes and weaker demand of 2020, you can see improvement across most of the indicators for our industry.\nFirst, railcar loads continue to ramp up from the lows of last year. Additionally, the supply of existing railcars is contracting, thanks to elevated scrapping activity driven by higher steel prices. As a result, we saw improving asset demand and steady Trinity fleet utilization and rising orders. While we are only in July, from our perspective, we expect each of these industry trends to continue to improve into 2022 based on what we see in our business and the overall economy. If we turn to slide four, you can see how this backdrop in combination with our internal efforts positively impacted our summary financials.\nFirst, our second quarter revenue of $372 million was down 27% from a year ago, which was in line to slightly better than my expectations. Our GAAP EPS for the quarter was $0.12 compared to an adjusted EPS for the quarter of $0.15, which includes a $0.03 adjustment primarily from the loss on extinguishment of our partially owned subsidiaries debt. Our results were positively impacted by our Rail Products Group operations which achieved breakeven margins from our ongoing optimization efforts.\nThe last time we're at these -- excuse me, the last time we were at these low production levels was in 2010 and we lost money. We are encouraged that we achieved breakeven margins despite the near-term headwinds of input cost inflation and low volumes. As in previous quarters, Trinity's Rail platform continues to drive solid cash flow relative to our earnings. In the quarter, cash flow from operations totaled $265 million, and free cash flow or excess cash after all investments and dividends was $269 million. Eric will go into more details on our cash flow results in a moment.\nTo recap, we're very pleased to report that our operational performance and railcar inquiries continue to turn the corner, and we are increasingly optimistic about the year ahead. Let's turn to Slide five, and I can provide a little more color on the overall railcar market. First, as you know, consumer confidence is very strong, and that activity has begun to ripple into our markets as we are seeing increasing railcar loads which are now running roughly 8% above 2020. However, carload volumes have been below 2019 levels so far this year. So more recovery is required to reach the pre-pandemic levels.\nThe year-over-year carload trends continue to benefit each of the other metrics on Slide five. Railcars and storage declined 5% compared to a quarter ago, which has also been aided by strong scrapping market I mentioned. Our utilization rate remained relatively flat compared to last quarter. As a result, our future lease rate differential or FLRD metric, which is the average of the rates transacted in the current quarter as compared to the average of the next 12 months expiring rates improved to a minus 2.5% compared to last quarter's minus 14.8%, continuing the recovery that we believe began in the third quarter of last year.\nThis marks a significant inflection point and demonstrates that higher new car pricing is beginning to feed into the overall lease market. While different markets will have different trajectories, this is a very encouraging trend. Lastly, the demand is beginning to show up in orders, which were up 224% compared to last quarter. As we mentioned at our Investor Day, we continue to anticipate that industry deliveries will improve in the coming quarters and settle in line with replacement levels in 2022 and 2023.\nBefore I move on to our segment results, let me give a quick update on steel prices and inflation in general. At a high level, as I mentioned, we and other railcar manufacturers will face a headwind on the production side of our business. Although we are experiencing an increase in new car orders, some of our customers are still hesitant to place orders. Markets demonstrating the most strength are chemical, construction and intermodal. But we are seeing improving trends across many segments of the fleet.\nWhile it is important to realize, it is -- excuse me, what is important to realize though is historical inflation driven by expanding economic growth is a long-term positive for fixed asset businesses like ours. As an example, inflation has already impacted the underlying economics for many of our end customers in markets like agriculture, construction, chemical and energy. Inflation supports fixed asset prices in two key ways. First, asset replacement costs grow with rising prices for input materials like steel. Second, increasing commodity prices for asset users make higher lease rates and prices for equipment more acceptable.\nTurning to Slide six. Let's walk through Trinity segment results for the quarter. For the leasing business, Trinity's lease revenue improved compared to last year as we experienced higher per diem asset usage and lease fleet growth. This was somewhat offset by slightly lower utilization, primarily attributable to softness in energy-related markets and the corresponding effects on remarketing rates.\nMost notably, there are clear signs of a strengthening recovery as renewal success rates continue to improve to a level not seen in recent history. And renewal rates, while in total still slightly down for the quarter, moved into positive territory compared to expiring rates as the quarter progressed. Further supporting this improvement and momentum is a recovery to our FLRD rate that I mentioned previously. With respect to our cost, as noted on prior calls, we continue to maintain a strong discipline.\nIt is expected that maintenance and other operational expenses required to position the lease fleet for increasing demand will be a headwind to the leasing segment margin for the year. As part of our strategic initiatives, we continue to work toward increasing the percentages of maintenance and compliance events handled internally within our shops. Over the last few years, our service capacity has increased from roughly 1/3 to over half of our maintenance events, achieving a target we set out at the end of 2018.\nWith our current footprint, we have the ability to get to 70%, which will continue to reduce the effective maintenance cost of our fleet and improve our railcar serviceability for our customers. As a good indicator of our progress, year-to-date 2021, over 60% of our fleet maintenance spend was internal.\nTurning to our Rail Products segment, as I noted, we are pleased to have achieved breakeven margins despite a challenging near-term headwind from higher steel costs and the lowest quarterly production volume since 2010. The incremental margin progress we've made over the past six months is almost entirely attributable to our operational efficiencies, cost initiatives and internal supply chain initiatives. We are optimistic that we will see improving margins in the segment as railcar pricing potentially increases given tighter supply and rising demand.\nIn our maintenance facilities, we're expecting continued headwinds in ramping up our new Midwest facility as we are experiencing difficulties in filling open positions at that location. What is most exciting is what we are seeing in our orders, which totaled 4,570 in the quarter, up 224% compared to last quarter.\nAs you'll recall from the past few quarters, we had an increasing level of interest and inquiries, and it's now great to see those materialize in orders. This is the highest order quarter since the fourth quarter of 2018 and approximately half of our backlog value is expected to deliver in 2021, resulting in declining year-over-year deliveries, although we do expect our delivery rate to build through the year to meet demand from new orders.\nLet me wrap up our remarks on Slide seven, with an update on our return optimization initiatives. Similar to last quarter, Trinity was busy and executed against both our costs and our balance sheet goals. First, on our balance sheet, Eric will give more detail here, but we made the most of the low interest rate environment and have added significant value as a result. In total, Trinity has issued and refinanced approximately $2.3 billion of debt since the onset of the pandemic, including our partially owned subsidiaries.\nIn aggregate, we have lowered the company's borrowing cost by 100 basis points over that time. On top of that, we have continued our disciplined commitment to return capital to shareholders. In the quarter, Trinity repurchased $68 million of stock in the open market and also completed a $223 million block purchase from ValueAct as they monetized a portion of their investment. These repurchases accounted for just under 10% of the company's shares.\nTurning to our enterprise and manufacturing costs, we continue to make progress on both fronts, which is contributing to our goal to enhance returns. And we continue to optimize our fleet, as you saw by our transaction activity in the quarter. Over the quarter, trading was active in the secondary markets and booked gains on lease portfolio sales of $11 million. That said, we expect as railcar demand improves, Trinity will have opportunities to both buy and sell in the secondary markets, which continue to open and broaden.\nFinally, to update on our new product initiatives, we're proud to report that Trinsight continues to see strong uptake. Although the product is still in its early growth stage, we are ahead of plan and interest continues to build. We're also seeing strong demand for our new covered hopper project, which is hitting the market in the ag market at an opportune time.\nAlso, our redesigned intermodal products are being well received by customers and are driving some of the order activity we touched on earlier. To summarize, the whole Trinity team is executing very well against our near- and long-term plans to drive returns and add value for shareholders. We feel confident in the three-year plan we outlined at our Investor Day last fall, and we look forward to updating you on the progress in the quarters to come.\nWith that, let me hand the call over to Eric for more detail on our results."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "Thank you, Jean, and good morning, everyone. I will start on Slide eight with some summary headlines. As Jean noted, Trinity's second quarter was driven in part by the improving market dynamics for both our leasing and manufacturing segments. Additionally, our improving manufacturing margin and consolidated returns benefited from our progress on optimization initiatives. Our second quarter consolidated revenue totaled $372 million, which was down 27% compared to a year ago.\nThis was driven by the combination of lower deliveries from our Rail segment, combined with a higher proportion of deliveries to our leasing customers, which are eliminated from our consolidated results. Specifically, over 64% of deliveries in the quarter were for our lease portfolio compared to 41% in Q2 2020. Overall, our adjusted earnings improved sequentially to $0.15 from $0.07, driven by a combination of better fundamentals, gains on lease portfolio sales and our share repurchase activity.\nOur second quarter earnings and included an $11 million gain on lease portfolio sales, consistent with our ongoing lease fleet optimization efforts aided by the broadening secondary market. We did incur an expense of $11.7 million related to the early extinguishment of debt in our partially owned leasing entities. We've removed this expense from our adjusted results. That said, our segment results continue to improve, consistent with our expectation for higher earnings in the back half of the year. In regards to cash flow, year-to-date cash flow from operations totaled $335 million.\nCash flow from operations in the second quarter was $265 million, which reflects the collection of $207 million of our income tax receivable during the second quarter. Net of this impact, cash from operations was down slightly compared to the first quarter as our inventory grew, reflecting higher steel prices and a modest ramp-up in expected deliveries in the second half of the year. As a result of these factors, we are revising our cash flow from operations range to $600 million to $650 million, which was previously $625 million to $675 million.\nOur net investment for leasing in the quarter was approximately $72 million, consisting of $144 million of additions and betterments, reduced by portfolio sales of $72 million. Our manufacturing capex was $9 million for the second quarter. For the year, our expectations for net leasing and manufacturing capex is $200 million to $250 million and $45 million to $55 million, respectively. Our range for net leasing capex for the year was reduced $100 million, primarily to a shift in deliveries from the lease portfolio to direct sale.\nTotal free cash flow after investments and dividends totaled $269 million in the second quarter. The improvement in cash flow from operations is a result of the timing of the tax receivable. Additionally, free cash flow was aided by the debt financing accomplished in the quarter, which increased the loan to value on our wholly owned lease fleet to 62.5%.\nTurning to Slide nine. Trinity remains in a strong financial position and our liquidity at the end of the second quarter was $918 million. We have discussed our ongoing work to optimize the balance sheet, and we certainly took advantage of the low interest rate environment. Over the past quarter, Trinity access to debt markets for approximately $1.6 billion, which included refinancing over $1.25 billion of debt for our partially owned leasing entities and issuance of $325 million of green asset-backed securities at a rate of 2.31% and anticipated seven-year life.\nThe aggregate effect of our financing activities over the past 12 months has lowered trades borrowing costs approximately 100 basis points. Additionally, the secondary market for railcars has improved. In the second quarter, Trinity was an active buyer and seller of railcars. We sold 700 railcars, yielding the gain I mentioned earlier. We also purchased 155 railcars, which we were able to deploy at attractive returns immediately. The takeaway is that Trinity has the ability to improve our returns with our platform in various ways, and we expect to increasingly pursue these options.\nI'll end by reemphasizing that we continue to take a disciplined approach to capital deployment that drives shareholder value. As a reminder, our capital allocation priorities remain largely unchanged. We expect to make investments in our lease fleet for growth, especially in markets where we can meet increasing demand. As we see opportunities in the secondary market, we expect to be a buyer and seller to drive further optimization of our fleet and improved returns.\nAs highlighted in our release, Trinity purchased 10.5 million shares at a cost of $291 million in the quarter, which includes a direct purchase from our largest shareholder. Additionally, our dividend in the quarter totaled $24 million, bringing the total year-to-date capital return to shareholders to $375 million.\nIn closing, our strategic plan is taking hold. And I'm proud that Trinity continues to deliver on the commitments we made at our Investor Day last fall. We are focused on executing upon internal initiatives and the resulting value creation. Additionally, I'm excited about the improving market backdrop and how our platform can perform in this environment.\nRocco, you may now take us to questions from our participants."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will now begin the question-and-answer session. [Operator Instructions] Today's first question comes from Matt Elkott with Cowen. Please go ahead."
+    },
+    {
+      "speaker": "Matt Elkott",
+      "speech": "Good morning. Thank you for taking my question. Can you guys talk about the types of railcars included in your orders and some of the reasons behind why buyers are starting to finally pull the trigger on these orders? And if the inquiry activity and order activity has continued into the third quarter?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Sure, Matt. Thanks for the question, and I'll start. So when you're looking at new car demand, we're really seeing two different types of demand coming through. The first is going to be replacement demand, that's going to be in the construction, the consumer and the agricultural market. And that's where they are actually having to take older fleet out and they need the replacements because there's still strong economics or demand in those areas.\nThen, we're seeing some end market growth demand and agriculture falls there, too, but then intermodal and some chemical is also seeing some demand. So it's pretty broad. And as you look across the industries and if you look at the cars coming out of storage, it's not in one single area. It's pretty broad-based, which is very encouraging and helping us to get more optimistic about the future."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "In terms of activity during the quarter, Matt, this is Eric, inquiry levels have continued into the quarter along with order activities. I think the momentum is carried through into the third quarter."
+    },
+    {
+      "speaker": "Matt Elkott",
+      "speech": "Got it. And your utilization -- the overall realization declined slightly, but you mentioned that's because of continued relative weakness in energy cars. Does that mean that -- the rise in manufacturing orders in the quarter, does it mean that your fleets in markets where the orders came from is basically fully utilized?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "So I'm going to say it's getting close, but really, the slight decline for the quarter was attributable to one major customer that we helped out a win-win situation where we'll see that reverse later this year. And it will give us an opportunity. We kept some orders or didn't give them to them because we think we can get some higher rates for that. And so it's a short-term blip in our overall progress in that utilization."
+    },
+    {
+      "speaker": "Matt Elkott",
+      "speech": "Got it. And just one last question, Jean and Eric, we are now all familiar with the dynamic of demand for railcars rising while steel prices keeping many people from pulling the trigger on orders. For you guys as a manufacturer and lessor, does it make it any less painful to manufacture railcars in this environment? Are you able to -- are there any cost efficiencies associated with having or manufacturing for your own lease fleet in an environment where commodity prices and labor prices are putting a big premium on railcars?"
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "So Matt, let me take that. This is Eric. Generally, and this really hasn't changed recently. It's been this way for a long time. We're not taking a lot of risk in the input costs in terms of steel costs. Most of that gets passed on to customers. So in terms of the manufacturing process, I don't think that really changes whether the material prices are higher or lower.\nIn terms of the effectiveness of our -- whether we're going to add cars on lease fleet, this quarter, the mix turned out to be a little bit more direct sale in terms of the order intake and our deliveries were more for our lease fleet. That will change each quarter. But generally speaking, we're able to -- the lease rates that we put in on the railcars that we add to the fleet reflect the higher prices that were -- or the higher cost of our railcars."
+    },
+    {
+      "speaker": "Matt Elkott",
+      "speech": "Okay, great. Thank you very much."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question today comes from Allison Poliniak at Wells Fargo. Please go ahead."
+    },
+    {
+      "speaker": "Allison Poliniak",
+      "speech": "Hey, guys. Good morning. So I just wanted to touch on the lease maintenance expense, it seems like there's some competing dynamics there with some headwinds that you know to Jean, as well as, obviously, I would assume some level of benefit from bringing more in-house. Could you maybe talk about how those dynamics will play out in the back half of the year and into next year? And is there any way to sort of discern sort of that benefit that you are getting from bringing it in-house at this point?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Sure, Allison. So when you're looking at this, we're not really expecting anything out of the normal for a recovering cycle. So I wouldn't expect this to be very large. It's just the fact that we have to take cars out of storage, get them prepped and ready to go in service as we're seeing demand increase.\nSo that's a normal part of an up cycle. And I would just look at our history to see what that may be. As you look going forward, it's really going to depend on what type of prep has to happen for the car types that are going in. Typically, if it's more of a tank car, you've got to make sure it's ready for that type of service and may have a little bit more work to be done to it. But it's not anything that any of the other lessors go through."
+    },
+    {
+      "speaker": "Allison Poliniak",
+      "speech": "Got it. And then just turning to, obviously, a nice inflection in orders. How do we think about the cadence in the back half? And then I guess in line with that, costs are structurally lower, clearly by the margins that you posted today. Is there -- how do we think about that? Are there headwinds in terms of that ramp as we kind of move forward here into this recovery for you?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "We're pretty excited about having a sequential increasing volumes going through the shops, and we think that based on all the work that the teams have done that we'll be able to exploit that or use that to expand the margins as we see that volume grow."
+    },
+    {
+      "speaker": "Allison Poliniak",
+      "speech": "Got it. And then, I guess, last question related to that. I think you did touch a little bit on labor. Any concerns that you won't have the lever to sort of manage this upturn at this point?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "The majority of the labor in the areas where we're producing the cars, we're not having issues. I did bring up one labor issue for a maintenance facility that's in the Midwest. And that's because we've talked to you in the past about the ramp and expecting the second half of the year for most of that headwind to be gone.\nIt is still a little delayed. We're hoping that more people are going to want to go back to work shortly. And I think with a lot of the incentives from the government going away, we should be able to resolve that. It's just a little slower than expected."
+    },
+    {
+      "speaker": "Allison Poliniak",
+      "speech": "Perfect. Thanks. I'll pass it along."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question today comes from Justin Long at Stephens, Inc. Please go ahead."
+    },
+    {
+      "speaker": "George Sellers",
+      "speech": "Good morning. This is George Sellers on for Justin Long. I guess my first question is on your build capacity. What does that look like today? And then in a recovery scenario, where do you think that could go? How high do you think that could go?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "So when we're looking at the recovery, I think we're poised well for the recovery. We are already in the ramp mode, as we talked about. So we expect volumes to increase sequentially throughout the year and into next year. And not seeing any issues with being able to do that.\nAnd I'm going to throw one comment, in the past, I've said we've not seen any supply chain issues. We've had one minor one surface that has to do with resins for aligning, but it's in one order. So not an overall market headwind for us, just a slight bump in the road as we work through that. But we think that getting back to replacement levels, we can do that with the capacity we have internally and be able to meet those demands."
+    },
+    {
+      "speaker": "George Sellers",
+      "speech": "Got it. Okay. And then on the leasing side of things, could you talk about your sort of view on lease rate recovery in the back half of this year and then into 2022 as well and how that differs on the freight side of things versus tank cars?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Okay. So in the prepared remarks, I talked a little bit about sequentially throughout the last quarter, we saw improvements actually going positive in the last month. Even though it could be lumpy from the different type of markets in which of our car types are coming off fleets in that quarter, we overall think directionally, we'll continue to see sequential improvement."
+    },
+    {
+      "speaker": "George Sellers",
+      "speech": "Okay. And then for freight cars versus tank cars, what are the dynamics you're seeing between those 2?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "The freight cars are actually coming back in and going up faster than some of the tank cars currently, but it's not something that's overly concerning for us."
+    },
+    {
+      "speaker": "George Sellers",
+      "speech": "Great. All right. I'll leave it there. Thank you so much."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question today comes from Bascome Majors with Susquehanna. Please go ahead."
+    },
+    {
+      "speaker": "Bascome Majors",
+      "speech": "Thanks for taking my questions. You talked a little bit about the type of cars that are being ordered and the type of car -- conversations you're having with your customers. Can we zoom out a bit and do you have a sense for why this extreme elevation in steel prices hasn't really stopped that activity? I just think it's something that surprised a lot of us on iron. I'd love to hear kind of the customer mentality on that, so we can think about where that goes. Thank you."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "So Bascome, I'll start and let Eric jump in. But the other thing you have to consider is how high scrap pricing is right now, too. That scrap pricing has doubled since last year. And it's actually -- you have to go back to 2008 to get back to these levels. So if you have an older fleet and that's where you're going to come in to some of the gondolas, the box cars and grain cars, that they needed to replace anyway. It's a perfect time with those high scrap prices to go ahead and trade that out.\nAnd the next thing is customers have to respond to the demand that's out there. So in some of those end markets where I was talking about growth, agriculture, intermodal and the chemical, they just didn't have the cars to meet all that demand, so they have to go out and get some."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "And Bascome, I would -- this is Eric, I would just add that while steel prices are higher and therefore railcar prices are higher, as Jean mentioned earlier, we're seeing that -- you're seeing that inflation kind of across the industry and our railcars carry commodities, and we have seen commodity inflation. So it stands the reason that I think people can afford to pay a little bit more for a railcar when the commodity prices are up."
+    },
+    {
+      "speaker": "Bascome Majors",
+      "speech": "Thank you for both those perspectives. I want to go back to your comment about progressing to more of a mid-cycle market. A lot has changed in North America as far as some consolidation and mix shift from which cars are hot to a more broad-based market. But as we think about what mid-cycle really means, in your model, can you give us some thoughts about, I don't know if it's market share or how things might look a little different than they would last time we were at those levels. Just anything to help us think about the progression in your manufacturing business into '22 and '23? Thanks."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Thanks, Bascome. Well, if you look at our manufacturing business, nothing has really changed from our Investor Day where we talked about the improvement over the three years. And for that, I'm saying that there are a lot of actions that were in our control that we could take without the market recovery. Our team has done a great job getting ahead of that and executing on those initiatives. And I think going forward, you're going to see us get to the mid- to high single digits on that margin. Now that's the expectation. Nothing has changed. We mentioned that a couple of times in our prepared remarks and our outlook for that three-year plan that we did provide you."
+    },
+    {
+      "speaker": "Bascome Majors",
+      "speech": "And last, I mean, you addressed the labor question earlier and it certainly seems that you and your co-located competitors in Mexico have been pretty easily able to pull people back in that were displaced last year. I mean do you foresee that remaining a fairly smooth ramp-up? Or as you get more to mid-cycle or better levels next year, do you anticipate some constraints? Just anything on how you plan for the labor piece of your highest capacity region would be helpful. Thank you."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Sure. And if we look at that capacity ramp that we've had, right now, it's occurring in an area where we are the predominant employer. And we've been able to get 90% plus of our skilled trained employees back. So that's a very positive sign for us. We treat our employees well during their employment, and we try to, during the downturn, make sure we're taking care of them and they're willing to come back to us. We're not foreseeing a problem in getting back to those mid-cycle levels, something could change, but right now, that's our outlook."
+    },
+    {
+      "speaker": "Bascome Majors",
+      "speech": "Thank you for the time."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question today comes from Steve Barger at KeyBanc. Please go ahead."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Hi. Good morning."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Jean, you said half the backlog value will ship in 2021. So that's about $600 million. If you get orders in August or September, can you ship them? Or is that $600 million a good proxy for the back half manufacturing revenue?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "The majority of the orders that we're taking now will go into next year. We do have a few small areas where we could add, but the majority of what's coming in now will go next year."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Is that for 2Q, the order price were lower on those cars? Is that included in the deliveries for the second half? Or are those more slated for the first half of 2022?"
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "More of it is extending into 2022. And the reason that order price that's being lower, that's more a reflection of the mix, the types of railcars that were ordered. There were some -- we've mentioned intermodal cars, well cars..."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "... which have a lower per unit cost. So that's what's driving some of that."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Will that mix, the lower per unit cost on those car types affect margins in the first half of next year? Is that -- I think, historically, those have been some lower-margin cars. Is that correct?"
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "Historically, perhaps, but I think we're happy with the way those assets were priced in the quarter, and it reflected -- it's a competitive market. But we've seen the pricing -- as demand has recovered, freight margin expectations have gotten higher."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Sounds good."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "And as we mentioned earlier, we're expecting as volumes come back, we'll see those margins coming back also."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yeah. And so, I guess, bringing it back to the back half of this year, based on what you see for deliveries, mix, price cost, can you get a little more specific on back half margins?\nI know they will improve sequentially from the front half, but are we still low single digit? Or can you get to mid-single digit in the back half, do you think, on manufacturing?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "We're really not giving guidance. So I don't want to go there. What we've told you, I think, in the first quarter was the fact that, we expect to beat last year..."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "... in total."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "... in total. So that's probably as far as I'm going to go to that line. Hopefully, that helps."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yeah. Sure. And well, I guess, to that point, with conditions improving, do you think you'll have the confidence to restart guidance for 2022 to just help investors think about third-party deliveries, lease fleet additions, what eliminations look like?"
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "So depending on what happens with the Delta variant and all, we are considering looking at going back to some sort of guidance in 2022."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "All right. Thanks."
+    },
+    {
+      "speaker": "E. Jean Savage",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Eric R. Marchetto",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And ladies and gentlemen, this concludes our question-and-answer session. I'd like to turn the conference back over to Mr. McDowell for closing remarks."
+    },
+    {
+      "speaker": "Steven L. McDowell",
+      "speech": "Thank you, Rocco. A replay of today's call will be available after 10:30 a.m. Eastern Time through midnight on July 29, 2021. The replay number is 877-344-7529 with an access code of 10152026.\nA replay of the webcast will also be available under the Events & Presentations page on our Investor Relations website located at www.trin.net. We look forward to visiting with you again on our next conference call. Thank you, for joining us this morning."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 43 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Steven L. McDowell--Vice President and Chief Accounting Officer",
+    "E. Jean Savage--Chief Executive Officer and President",
+    "Eric R. Marchetto--Executive Vice President and Chief Financial Officer",
+    "Matt Elkott--Cowen -- Analyst",
+    "Allison Poliniak--Wells Fargo -- Analyst",
+    "George Sellers--Stephens, Inc. -- Analyst",
+    "Bascome Majors--Susquehanna -- Analyst",
+    "Steve Barger--KeyBanc -- Analyst"
+  ]
+}

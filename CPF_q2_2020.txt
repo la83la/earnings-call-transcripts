@@ -1,0 +1,379 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good afternoon, ladies and gentlemen. Thank you for standing by and welcome to the Central Pacific Financial Corp.'s Second Quarter 2020 Conference Call. [Operator Closing Remarks] This call is being recorded and will be available for replay shortly after its completion on the company's website www.cpb.bank.\nI'd like to turn the call over to Mr. David Morimoto, Executive Vice President, Chief Financial Officer. Please go ahead, sir."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Thank you, Chad, and thank you all for joining us as we review the financial results of the second quarter of 2020 for Central Pacific Financial Corp. With me this morning are Paul Yonamine, Chairman and Chief Executive Officer; Catherine Ngo, President; Arnold Martines, Executive Vice President and Chief Banking Officer; and Anna Hu, Executive Vice President and Chief Credit Officer. We have prepared a slide presentation that we will refer to in our remarks today. The presentation is available in the Investor Relations section of our website at cpb.bank. During the course of today's call, management may make forward-looking statements. While we believe these statements are based on reasonable assumptions, they involve risks that may cause actual results to differ materially from those projected. For a complete discussion of the risks related to our forward-looking statements, please refer to slide 2 of our presentation.\nAnd now, I'll turn the call over to Paul."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Thank you, David and good morning everyone. As always, we appreciate your interest in Central Pacific Financial Corp. I'd like to start with an update on the COVID-19 pandemic response by the State of Hawaii and our company. The infection rate in the State of Hawaii continues to remain very low with roughly 1,800 cases as of July 28. Hawaii continues to have the lowest per capita infection rate in the nation. Our residents are abiding by government orders including required quarantine, face mask usage and social distancing. The state's local economy reopened in June and we will be reopening out of state tourism on September 1 through visitors that provide evidence of a negative COVID-19 test. We believe this is a balanced way to reopen out of state tourism while managing COVID infections.\nWhile the tourism reopening will be at a gradual process it will help to start bringing back the much-needed business to our local economy. Travel bubbles between Hawaii and other countries of low infection rates continue to be discussed by our government leaders. At Central Pacific we continue to prudently manage through the pandemic. In the credit area we have thoroughly reviewed our loan portfolio. Adjusted risk ratings were warranted and determined that our credit risk is manageable. Our portfolio is conservative, well diversified and well collateralized. We continue to proactively work with our customers to help them through the pandemic as demonstrated by our significant Paycheck Protection Program or PPP loan originations and loan payment deferral programs.\nOverall, we remain committed to supporting the needs of our customers and community during this time while providing the excellent service that we are known for and maintaining a safe environment. Our RISE2020 initiative are continuing and making good progress despite the COVID-19 pandemic. The revitalization of our building headquarters is in full steam with major parts of the construction under way and on track for an opening date in January 2021. In the area of digital, we are in the final stages of pilot testing our new online and mobile banking platforms and are excited for the public launch in late August. Finally, we continue to rollout our newly upgraded ATMs throughout our branch network. We continue to see a decline in branch transaction activity and our digital initiatives have been well timed to meet the changing needs of our customers.\nI'd like to now turn the call over to Catherine to share more about our pandemic preparedness plan and the work of our CPB Foundation. Catherine?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Thank you, Paul. Our pandemic preparedness plan continues to be in place and we have not had any disruption in our business. We have recently reopened several of our branches that were temporarily closed and are implementing a gradual phase-in return-to-office plan that includes a portion of the workforce continuing with flexible remote work schedules. Safety remains our utmost priority. Therefore we have made appropriate changes to our branch and office setup to ensure proper social distancing and hygiene practices. The actions that we've taken, we believe will continue to enable us to provide a safe environment for both our employees and customers. The CBD Foundation continues to be active in helping the community with relevant and timely programs.\nDuring the second quarter we ran a Mahalo Meals initiative that provided 1,500 meals to local first responders and frontline heroes. Additionally, we recently launched a program called bricks to bites, which is helping local businesses through the crisis by providing free services to take their business online and more digital. We also are continuing communication and engagement with visitors particularly from Japan to keep Hawaii top of mind and encourage their return to Hawaii once the pandemic end and recovery occurs. Finally, we are continuing to work with government leaders to reopen the Hawaii economy safely with temperature screening and COVID contact tracing program.\nI'd like to turn the call over now to Arnold Martines, our Executive Vice President and Chief Banking Officer. Arnold?"
+    },
+    {
+      "speaker": "Arnold D. Martines",
+      "speech": "Thank you, Catherine. The second quarter was highlighted by the company's successful PPP loan origination efforts as well as solid mortgage banking performance. We originated over 7,200 PPP loans totaling over $550 million to both existing and new customers. This was a tremendous effort that involved employees throughout the bank. We were very pleased that our efforts not only supported our customers, but also the broader business community during these unprecedented times. We are preparing to launch our PPP forgiveness portal and expect to begin the process of assisting our customers that are applying for forgiveness from the SBA in the near future. Given the low business rate environment, residential mortgage demand was strong, which enabled the company to grow our residential mortgage portfolio by $25 million and generate $3.6 million of mortgage banking income during the second quarter.\nOverall for the second quarter, the company grew total loans by $491 million or 10.9% sequential quarter. This included $526 million in PPP loans and $25 million in residential mortgage as I mentioned earlier, partially offset by declines in other loan categories. We're also able to grow core deposits by $719 million or 16.7% sequential quarter augmented by the PPP loan funds that were deposited with the bank. Additionally, we believe part of the increase was a result of a fight to safety by our customers. Given the volatility in the markets and the current operating environment we were successful in reducing the average cost of total deposits by 16 basis points to 20 basis points. Our teams continue to be focused on expanding banking relationships with segments less impacted by COVID-19 and we continue to stay in close contact with our customers through increased find outreach efforts given the current operating environment.\nProviding best-in-class digital technology remains a key priority for us. We experienced increased customer usage of digital channels over the last several months due to COVID-19 pandemic with mobile deposit transactions up over 90% and mobile banking enrollments up nearly 15% on a year ago. The increased digital channel activity creates strong momentum as we prepare to launch our new mobile and online platforms. In addition, we rolled out new ATMs with enhanced functionality to half of our branches through June 30. New ATMs at the remaining branches are scheduled to be installed before the end of the year.\nAt this time, I'd like to turn the call over to Anna Hu, our Executive Vice President and Chief Credit Officer to provide details on our credit and portfolio risk management. Anna?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Thank you Arnold. During the second quarter we continued with our rigorous approach to reviewing our commercial loan portfolio and actively worked with our customers to determine ongoing financial impact, if any, as well as provided support and guidance through the ongoing uncertainty in the marketplace. We proactively assisted many of our customers in providing loan payment deferrals, as well as in the application and approval of PPP. The volume of loan payment deferrals printed peaked in May at $605 million in total loan balances and have since declined to $568 million or 12.7% of our total loan portfolio excluding PPP balances at June 30. Our consumer loan payment deferrals totaled $66 million and residential loan payments forbearances totaled $177 million. We continue to support our consumer and residential customers with a second 90-day loan payment deferral or forbearance as needed.\nWe expect that a majority of our consumer customers who took a first 90-day loan payment deferral has taken or planning to take a second 90-day deferral due to their continued unemployment status. The majority of the residential mortgage forbearances were still in their initial 90-day forbearance period at June 30, but we are starting to see some borrowers resume payments and come off of forbearance with the total accounts dropping from a peak of 467 at May 31 down to 350 at June 30. In our commercial and commercial real estate loan portfolio we provided loan payment deferrals of $318 million in total loan balances. The highest amount was in the real estate and rental and leasing category of $167 million or 3.7% of the total loan portfolio, excluding PPP balances and comprised of 129 loans.\nThe majority of the loans in this category are investor commercial real estate loans supported by seasoned real estate investors and strong loan-to-value ratio. We have not begun a second round of loan payment deferrals yet in the commercial and commercial real estate loan portfolio but expect to do so at a lower volume and on a case-by-case basis. Additional details on our loan payment deferrals can be found on slides 13 and 14. During the quarter special mention loans increased by $6.8 million sequential quarter to $116 million or 2.6% of the total loan portfolio excluding PPP balances. The largest exposure is in the real estate and rental and leasing category, which totaled $59 million or 1.3% of the total loan portfolio excluding PPP balances.\nThe loans in this category were downgraded primarily due to the temporary closure of tenants in commercial properties. However, we have strong sponsorship and seasoned investors with strong loan-to-value ratios and are confident these borrowers will be able to weather through the economic downturn. Approximately 24% of special mentioned balances also received PPP loans. Additional details on our special mention portfolio can be found on slide 15. Classified loans increased approximately $21 million sequential quarter to $47 million or 1% of the total loan portfolio excluding PPP balances. The increase during the quarter was due primarily to two loans that were experiencing challenges prior to COVID-19.\nApproximately 10% of classified balances also received PPP loans. We continue to feel very good about our residential home equity and commercial real estate loan portfolio. The weighted average origination loan to values in these portfolios are 61%, 63% and 60% respectively. These loans comprise of approximately $3.4 billion or 76% of our total loan portfolio excluding PPP balances. Overall, we believe our disciplined approach to credit and our diversified loan portfolio will help us weather through these unprecedented times.\nI'll now turn the call over to David, our Executive Vice President and Chief Financial Officer. David?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Thank you Anna. Net income for the second quarter of 2020 was $9.9 million or $0.35 per diluted share. Return on average assets in the second quarter was 0.61% and return on average equity was 7.34%. Our earnings continue to be impacted by higher provision for credit loss expense due to the current COVID-19 pandemic. Our pre-tax pre-provision earnings for the second quarter was $23.5 million, which increased by $3 million or 15% sequential quarter. Net interest income for the second quarter was $49.3 million, which increased by $1.4 million on a sequential quarter basis. The increase includes $2.5 million in PPP net interest income and net loan fees. The net interest margin decreased to 3.26% in the second quarter compared to 3.43% in the prior quarter.\nThe decrease was due to lower yielding PPP loans as well as the lower interest rate environment. The second quarter NIM normalized for PPP was 3.31%. Second quarter other operating income totaled $10.7 million compared to $8.9 million in the prior quarter. The increase was primarily due to higher mortgage banking income of $3.2 million and higher BOLI income of $1.4 million. This was partially offset by lower service charge and fee income. Other operating expense for the second quarter was $36.4 million, which was relatively flat to the prior quarter. In the current quarter PPP loan origination cost of $2.2 million was capitalized and deferred, which reduced salaries and benefits. This was offset by higher commissions and bonuses, as well as higher deferred compensation expense due to stock market volatility.\nNet charge-offs in the first quarter totaled -- in the second quarter totaled $2.9 million compared to net charge-offs of $1.2 million in the prior quarter. The charge-offs primarily came from the Hawaii consumer loan portfolio and the C&I portfolio. At June 30, our allowance for credit losses was $67.3 million or 1.35% of outstanding loans. Excluding the PPP loan portfolio, which is guaranteed by the SBA, our allowance for credit losses was 1.50% of total loans. The efficiency ratio improved to 60.8% in the second quarter compared to 63.9% in the previous quarter.\nThe decrease was primarily due to higher net interest income and other operating income. The effective tax rate decreased to 23% in the second quarter due to higher tax exempt bank-owned life insurance income. Going forward, we expect the effective tax rate to be in the 24% to 26% range. Our liquidity and capital positions remained strong and we continue to perform robust stress testing. Our Board declared a quarterly cash dividend of $0.23 per share, which will be payable on September 15 to shareholders of record at the close of business on August 31. Finally, we decided to consolidate four branches on the Island of Oahu later this year into existing nearby branches. This decision was driven by increased customer adoption of online and mobile banking and our RISE2020 commitment to best-in-class digital banking technology.\nAs a result of these consolidations we expect annual expense savings of approximately $1.8 million. We also expect to incur one-time charges associated with the consolidations of approximately $0.3 million in the third quarter and $1.4 million in the fourth quarter.\nThanks and now we'll return the call to Paul."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Thank you, David. In summary, Central Pacific continues to manage well through the COVID-19 pandemic. We have a solid financial credit, liquidity, and capital position to enable us to weather the storm. As the economic recovery gradually begins we remain committed to providing support to our employees, customers and the community. On behalf of our management team and employees, thank you for your continued support and confidence in our organization.\nAt this time, we'll be happy to address any questions you may have. Thank you."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And our first question will come from Andrew Liesch with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Good morning, everyone."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Good, good. Thanks. Question around the margins. You guys did a pretty good job lowering deposit costs this quarter and deposit costs are already pretty low. How much more room do you have to go there just given the rate environment? And then what are you seeing on core yields and how that's going to offset any benefits on the funding side?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Andrew, it's David. So yeah, on the net interest margin firstly, on a reported basis, our 17 basis points of compression we believe screens well relative to our peers that have reported to-date. Yeah, you're right on the funding cost. We have it down to a pretty low level and there is going to be some challenges going forward, but for the next couple of quarters the NIM is going to be impacted by the PPP program. So currently PPP loans are a drag on the NIM due to the low yield. However, they will become a NIM tailwind when they are forgiven and we accelerate net fee income recognition. So for the next couple of quarters, we're expecting the third quarter NIM to be in the 3.20% to 3.30% range before expanding to the 3.40% to 3.50% range in the fourth quarter as we start to see fee income recognition. And obviously, that forecast is -- does not assume any type of automatic forgiveness for small PPP loans. To the extent that Congress does something there, there could be an acceleration of the fee income recognition possibly into the third quarter."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Okay. That's really helpful. The PPP loans -- what are you assuming as far as forgiveness on timing? Do you expect the bulk of them to be forgiven and paid down by year-end or for many of them to remain on the balance sheet for the full-term?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Currently we're recognizing fee income over a two-year period and -- but quite honestly, with the HEALS Act and some of the activity with the SBA and the Feds, we're hopeful that as David alluded to that there would be some automatic forgiven on the loans under $150,000 and clearly that's going to be a major trigger for us in recognizing more fee income."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Certainly. Okay, that's helpful. And then just one last question on operating expenses. It sounds like there's some cost saves ahead with some branch consolidation, but also maybe some moving parts in the salaries and benefits line just with some of the deferred comp. If you look at the $36.4 million or so that you had this quarter shouldn't there be a little bit of an improvement on that just from the -- some of the branch consolidation or are there other things that might affect that run rate?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Hi, this is Paul. Let me give Catherine a touch first on the branch consolidation, some of the rationale behind that, and then maybe David you could touch on the expenses."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Okay. Sure. Thank you. So, yeah, in this quarter we announced the consolidation of four of our branches, and in the case of three of them, these were our in-stores where we were not able to practice social distancing and then even in the case of all four branches, those are in close proximity to others so that we're going to be able to support our customers. So this really all is part of a branch rationalization strategy that we've been talking about and even on these calls for quite some time. And so, as we see these opportunities where we can continue to support our customers and at the same time of course reduce expense, we are going to take a look at that. And one thing that's going to be an important driver of this is the digitalization strategy and our ability to support our customers in those channels."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "And then if I could add, Andrew, this is David. Throughout the year we've been kind of guiding to $36 million to $38 million quarterly range on other operating expense. That range was -- did not consider the one-time closure costs for the branch consolidations that we just disclosed so excluding the non-recurring one-time closure costs the $36 million to $38 million range still holds for the remainder of this year."
+    },
+    {
+      "speaker": "Andrew Liesch",
+      "speech": "Okay, very good. Thank you so much for taking the question."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Jackie Bohlen with KBW. Please go ahead."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Hi. Good morning, everyone."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Hi Jackie."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Just wanted to touch base on your outlook for mortgage banking and also for growth in the single-family portfolio since those are somewhat tied together. Just if you're -- in the beginning of the quarter if you're seeing continued strength there and how you're thinking about both the sale and portfolio of single-family loans."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "So, hi Jackie, Catherine here. I can give you some detail. So yeah, we had a great second quarter in mortgage banking, in fact it was the best in years, seven years. And so we saw production of $345 million. Even better news, we do expect a strong Q3 as well, and currently our pipe shows that the production will be in the $240 million range."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "And Catherine where did you see your gain on sale margins in the quarter?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Yeah, Jackie, it's David. So the gain on sale margins have definitely widened in the second quarter and it's industry phenomenon, right, when you have these extremely low rate environments and refi spikes. It does afford the bank the opportunity to expand gain on sale margins. I would say the second quarter it basically doubled from where it is normally."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "And are you seeing that strength continue into the third quarter?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Yeah, we do Jackie. And more importantly, we spend a considerable amount of time to further streamline and have better operational discipline in our home lending division and so we're also poised to take on what still seems to be a growing demand, especially a lot of refis. And we're also winning some new projects as well. So we see the demand continuing."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Okay, great. Thank you. That's very helpful. And then just in terms of the RISE2020 initiatives, based on prepared remarks, it kind of sounds like you're almost unfazed by the pandemic, and it's kind of full steam ahead. And if anything, I mean while there are obviously adverse impact everywhere from the pandemic, it's positive for your digital adoption rates. Am I understanding that correctly?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "There is two -- there is actually several major components to RISE2020. But on the infrastructure, especially with the renovation of our main building, once again, a lot of those costs are amortized over 39 years. I think the trades here locally regard our commitment to completing the renovation as a real positive sign because it does add to more business opportunities especially for the trade. We think it's going to be a real milestone for our financial institution especially as we continue to improve and finalize our new digital, online and mobile platform. From a digital perspective the timing was -- I wish I could tell you was strategic, but it wasn't. No one expected the pandemic, but now more than ever our investment in digital is becoming so relevant. We're looking forward to our go-live next month on our new online and mobile platform."
+    },
+    {
+      "speaker": "Jacquelynne Bohlen",
+      "speech": "Okay, great. Thanks, Paul. I'll step back."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The next question will come from David Feaster with Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Hey, good morning everybody."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "I just wanted to start on deposits. Deposit growth was tremendous. I just wanted to -- obviously, there's a lot of that that's driven by PPP dollars. Just curious I guess how that's trended early in the third quarter? How much you think is true organic like account growth? And then maybe how much of the PPP dollars have already been spent -- expectations for again, how much of this deposit growth is truly core and sticky?"
+    },
+    {
+      "speaker": "Arnold D. Martines",
+      "speech": "David, this is Arnold. So the outsized sequential quarterly deposit growth was primarily as you mentioned due to the PPP loan originations. But outside of that, we did see some commercial customers bring balances back from the money market mutual funds and in our commercial retail customers increasing deposit levels due to the operating environment, economic environment. But we do feel pretty good as we move forward. Although we will see some decline in our deposits because -- as the small business customers that did apply for PPP loans start to spend those funds, we'll see some decline there. But we do see a positive activity from our customer base despite the operating environment, we feel pretty good about that."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Okay. That's great. That's great. And then just on the other side of the coin on the loan side, just any thoughts you might have on origination activity going forward? Obviously, the PPP program and modifications have been a major distraction. Just curious, the pulse of the market, your appetite for new credit, just whether you've tightened the credit box, how much of the decline was driven by lower C&I utilization and just where are you seeing a demand for new credit? Just any thoughts on that over."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Let me start off and then maybe Arnold you can chime in. Clearly during Q2 with the pandemic, there was a lot of shock in the system and it wasn't as if there was tremendous new loan origination with the exception of the PPP. But what we're finding here in Hawaii despite our dependence on tourism, the non-tourism sector is still rather robust and vibrant. And so during Q2 with Arnold's leadership, we've been able to redirect a lot of our efforts on some of the non-tourism opportunities that exist here. And so, this has been a great learning opportunity for us to further diversify our portfolio. Anything more to add to that Arnold?"
+    },
+    {
+      "speaker": "Arnold D. Martines",
+      "speech": "No, I agree with what Paul said for our small business, for our commercial, our real estate businesses. We are seeing some activity. There are people with money on the sidelines looking for investments. And of course, as we spoke earlier, Catherine touched on it. We do expect that our mortgage -- resi mortgage business will continue to be fairly robust through the Q3."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Okay. So maybe expecting a flat to modest decline again in loan balances?"
+    },
+    {
+      "speaker": "Arnold D. Martines",
+      "speech": "It's just the timing on the PPP forgiveness prospects. I think that will be the major driver in how our portfolio changes over the next -- this quarter and next quarter. So I think it's really the PPP timing."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "And we've also -- this is Paul again. We've been -- we have high expectations for the HEALS Act as a second federal subsidy program hoping that there'll be some good loan programs for our small, medium customers here as well."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Okay, that's helpful. And last one from me, just wanted to touch on the redeferral rates. Appreciate the commentary in the prepared remarks. It looks like we're already turning down about 6% from the peak. Expect a decent amount of redeferrals in the resi book, but -- and I get that it's going to be on a case-by-case basis. But as your 90-day deferrals starting to expire what's the early read on the commercial side? And then what do you -- in those conversations are you requiring any additional collateral or personal guarantees? And then I guess lastly, what's the implications as redeferrals come through in potential risk rating downgrades and negative credit migration? Any thoughts on reserve builds going forward."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Okay, I'll start. This is Catherine here and then try to Anna for more detail but as you mentioned for the C&I portfolio, any further deferrals are really going to be on a case-by-case basis. And of course it's all going to depend on the economy and when we finally can reopen our economy here in Hawaii. We were really pleased to see however on the mortgage front that the forbearance number came down in the last month and hope that we see a continuation of that trend on the mortgage front. So with that, Anna maybe more some detail please."
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Okay. I'll add a little bit more color to the commercial book. Actually just in the last couple of weeks we started to see the commercial book deferrals trend downward. So customers coming off of their 90-day payment deferrals are resuming active payments. And as Catherine mentioned on our residential book, we are pleased to see those numbers continue to decline and we do expect to see those numbers continue to trend downwards. On the consumer front given the level of unemployment, we do expect to see it sort of remain stable at the level that it is currently."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "And then maybe on the reserve build, I will turn it to David."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Yeah, David, we've built reserves by roughly 20 basis points in each of the first two quarters and that was obviously, primarily due to worsening of the economic forecast. So going forward, it's going to be largely dependent on economic forecasts and the credit migration. To the extent that we see continued worsening we would expect continued reserve build. Having said that, we monitor our classified assets ratio and based on that ratio -- classified assets to Tier 1 and ACL we currently compare favorably to our peers there. So that is one of the ratios that we monitor pretty closely."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "That's helpful. Thanks everybody."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question will come from Laurie Hunsicker with Compass Point. Please go ahead."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Hi, thanks, good morning."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Hi Laurie."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Just wondered David, maybe just going back to Andrew's question on margin, if you can just help us think about core margin in the back half of the year excluding the PPP because I know the comments you gave included the PPP and if I just look at it and say round numbers. You've got 25% that come in next quarter or whatever it is, that's suddenly a jump of 35 basis points on your margin. So I'm just trying to figure out either how much PPP impact you're putting into the guide or rather if you could maybe help us think about it excluding the PPP because again to Andrew's point your cost of deposits is incredibly low. Thanks."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Yeah, sure, sure, Laurie."
+    },
+    {
+      "speaker": "Arnold D. Martines",
+      "speech": "Obviously a lot of moving parts here. I think the best way to think about it is, so we were at 3.26% on a reported basis. If you back out the impact of PPP you get to 3.31%. So we were down roughly 12 basis point sequential quarter. On a core basis I think we could -- on a core basis maybe it's 10 basis -- in the 5 basis points to 10 basis points per quarter compression is what we would like."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Perfect. Okay, OK, that's super helpful. Okay and then just some questions on your slides and David, I don't know if this is you or Catherine or Anna. But I'm just mainly looking at slides 9 and 14. I'm looking at your hotel book. Your hotel book is $64 million, including your $4 million of PPP and you're reporting $2 million of deferrals. So you're at a 3% deferral rate. Is that correct?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "I mean, can you help us think about it? That is, I mean that's one of the lowest in the country. And maybe too, if you've got the LTV, you're a 100% real estate secured. What is the LTV on your hotel book and any other color you can give us around that? Thanks."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Yeah. Our hotel book is relatively small, as you mentioned, it's about $60 million. Our weighted average loan-to-value is at 50%, 1.2% of our total loan book. We feel comfortable with the hotel names that we have on our books which strong sponsorship and strong access to liquidity and support. So, yeah, it's just a couple of loans on the books."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "So, yeah, Laurie -- this is Paul. The fact remains that our hotel book is -- fortunately is supported by a lot of strong mainland financial sponsors. And it's not a big piece of our portfolio."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, same question on restaurants. So your $142 million book or $77 million excluding your PPP, you are 20% real estate secured. Do you have the LTV on that?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Yes, our restaurant on a combined weighted average LTV is at 64%."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, great. And then what about on the retail? Do you have an LTV on that?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Retail also combined is at 64%. And when I mean combined, it's investor and owner-occupied together so for our portfolio."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Right, right, perfect. Okay and then just thinking about your retail. How much of your book is service retail, grocery anchored, pharmacy, etc?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "From a grocery retail point, it's actually very low, so shopping center in total about $66 million."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, OK. And you have no mall exposure, correct?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Mall exposure, no, not in the traditional sense."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, great. Thanks. And then just one more question here on loan. What is your leveraged loan book for the regulatory definition? And then how much of that is Hawaii versus mainland?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Yeah, so our total, what we call highly leveraged transaction is about $68 million, that's about 1.4% of our total loan book. Hawaii is predominant, $63 million and in the National book it's about $5 million."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, that's great. Okay and then just one last question from me, I'm sorry, actually commercial real estate. You have that figure. Commercial real estate office and then LTV, if you've got it."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "So office commercial weighted average LTV is about 56%. Our total balances there is about $155 million. For mainland it's very, very small of that book."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay. Okay, great. And then my last question charge-offs, I just wanted to go back to David, your comment. So your charge-offs were $3 million, it looks like $2.1 million came from consumer and you said most of that was the Hawaii consumer. Is that the Hawaii unsecured or what is that number?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Laurie, this is Anna. I'll go ahead and take that. So for consumer, yes, it's Hawaii consumer unsecured as well as auto."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "As well as autio. Okay. And then do you have -- what is the dollar amount of your Hawaii unsecured loan book?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Our Hawaii consumer loan book is."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "I can also follow-up with you guys offline maybe."
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Our Hawaii total consumer book is $350 million, that's about 7% of our total loan book or two-thirds of our consumer book."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay. And then the unsecured piece of that?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "The unsecured piece of it would be about $253 million or 48%."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, great, thanks. I'll leave it there."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Okay, thanks, Laurie."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, this concludes our question-and-answer session. I would like to turn the conference back over to Paul Yonamine for any closing remarks."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Great. Thank you, Chad. Thank you very much for participating in our earnings call for the second quarter of 2020. We look forward to future opportunities to update you on our progress. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 44 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "David S. Morimoto--Executive Vice President, Chief Financial Officer",
+    "Paul K. Yonamine--Chairman & Chief Executive Officer, Central Pacific Financial; Executive Chairman, Central Pacific B",
+    "A. Catherine Ngo--President, Central Pacific Financial; President & Chief Executive Officer, Central Pacific Bank",
+    "Arnold D. Martines--Executive Vice President, Chief Banking Officer",
+    "Anna Hu--Executive Vice President & Chief Credit Officer",
+    "Andrew Liesch--Piper Sandler -- Analyst",
+    "Jacquelynne Bohlen--Keefe, Bruyette & Woods, Inc. -- Analyst",
+    "David Feaster--Raymond James -- Analyst",
+    "Laurie Hunsicker--Compass Point -- Analyst"
+  ]
+}

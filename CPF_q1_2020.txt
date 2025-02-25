@@ -1,0 +1,302 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good afternoon, ladies and gentlemen. Thank you for standing by and welcome to the Central Pacific Financial Corp First Quarter 2020 Conference Call. During today's presentation, all parties will be in a listen-only mode. Following the presentation, the conference will be opened for questions. This call is being recorded and will be available for replay shortly after its completion on the company's website at www.cpb.bank. I'd like to turn the call over to Mr. David Morimoto, Executive Vice President and Chief Financial Officer. Please go ahead."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Thank you, Grant. Thank you all for joining us as we review the financial results of the first quarter of 2020 for Central Pacific Financial Corp. With me this morning are Paul Yonamine, Chairman and Chief Executive Officer; Catherine Ngo, President; Arnold Martines, Group Executive Vice President of Revenue; and Anna Hu, Executive Vice President and Chief Credit Officer. We have prepared a slide presentation that we will refer to in our remarks today. Presentation is available in the Investor Relations section of our website at cpb.bank.\nDuring the course of today's call, management may make forward-looking statements. While we believe these statements are based on reasonable assumptions, they involve risks that may cause actual results to differ materially from those projected. For a complete discussion of the risks related to our forward-looking statements, please refer to Slide 2 of our presentation. And now I'll turn the call over to Paul."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Thank you, David and good morning everyone. As always, we appreciate your interest in Central Pacific Financial Corporation. The COVID-19 pandemic is top of mind for all of us. Overall, the state of Hawaii is doing a good job at managing and containing the pandemic. Hawaii was early to put in place stay-at-home orders and mandatory curfew then quarantine. Our residents in general are abiding by government orders, as well as hygiene recommendations. Due to our geographic isolation, Hawaii was able to effectively lock down and protect the state from outside visitors with potential COVID-19 infections. We believe these measures will slow and contain the spread of COVID-19 in the state and result in a faster recovery.\nHowever, with a complete tourism shut down in Hawaii, we are seeing a dramatic impact on the state's economy. We are hopeful that we will start to see visitors returning to the island in the late summer to early fall of this year, particularly from Asia as they are closer to recovery from the pandemic. Central Pacific Financial is committed to supporting our employees, customers and community during this time of crisis. Our first focus is on our employees. Safety comes first. And therefore we have temporarily closed 13 of our smaller branches to allow for adequate social distancing and our larger remaining branches. The staff from the temporarily closed branches have been redeployed to work at the remaining branches, assist other areas of the bank or make customer telephone calls. The majority of our support staff, even at the executive level, have started working remotely on a full-time or rotating basis. We believe the actions we have taken to date will allow us to meet the needs of our customers and community while ensuring the safety of all employees.\nWe want to assure you that we are prepared to handle this crisis. I personally led companies through prior crisis, including the 2011 Tohoku earthquake, tsunami and radiation after-effects while I was in Tokyo leading IBM, Japan and the SARs outbreak in 2002 to 2004 while I was leading BEARINGPOINT ASIA PACIFIC. Additionally, many of our key team members that helped us through the 2008 to 2009 financial crisis remain with the company and are applying the valuable lessons learned.\nDespite COVID-19, our RISE2020 initiatives are continuing. The revitalization of our building headquarters is proceeding as we continue to support the local construction industry. We are also pushing ahead with our digital initiatives, including the development of our new online and mobile banking platforms and the replacement of our ATMs. Digital technology is even more critical to our business during crises like this and will remain a high priority strategy for our future. I'd like to turn the call over now to Catherine, who will share more about our business continuity plan. Catherine?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "Thank you, Paul. Our business continuity plan includes a pandemic preparedness plan, which we successfully activated in early March and is summarized on Slides 3 and 4 of our presentation. As a result, we have not had any disruption in our business. As Paul noted, our remote workforce plan has been rolled out with an overall smooth transition. We already have virtual private network, VPN technology capability over the last quarter. And we've expanded VPN access to over 70% of our employees. In addition to VPN, we are well set up with the latest technologies and enable our operations to continue efficiently.\nOur teams are using collaboration tools, including Microsoft Team and several other cloud-based software program. For our customers, we continue to offer our current online and mobile banking tools and we are making good progress on our new digital offerings as part of our RISE2020 initiatives. Banking is deemed an essential service and I've been so proud of how our CPB employees have risen to deliver exceptional service in these challenging times. I'd like to reiterate that our employee and customer safety is of the utmost priority. We are monitoring our employees' health and well-being very closely. We are providing personal protective equipment for our frontline staff and have implemented precautionary measures to ensure social distancing in our branches and all work areas. I'd like to turn the call over now to Arnold Martines, our Group Executive Vice President of Revenue, who will share how we are assisting our customers during this pandemic. Arnold?"
+    },
+    {
+      "speaker": "Arnold D. Martines",
+      "speech": "Thank you, Catherine. During the first quarter, our teams remained focused on generating revenue even as the pandemic situation began to escalate. The Bank grew total loans by $63 million or 1.4% sequential quarter. The loan growth primarily came from our residential and commercial mortgage loan categories. We were also able to grow core deposits by $45 million or 1.1% sequential quarter. Additionally, we were successful in reducing the average cost of total deposits by 5 basis points to 36 basis points. Going forward, we believe, there are still opportunities for loan and deposit growth as our teams collaborate together to support our consumer and business customers through this unprecedented time.\nWe have also moved quickly to put in place a number of COVID-19 relief programs for our consumer and business customers. The relief programs are summarized on Slides 5 to 7 of the presentation. For our customers, we are offering an employment disruption loan, as well as, consumer and residential mortgage loan payment deferral programs. For our business customers, we are an SBA approved lender and are participating in the paycheck protection program for PPP, which is part of the Federal CARES Act.\nWe've seen tremendous demand for the paycheck protection program and have made over 4200 loans totaling nearly $490 million approved by the SBA. As a result of the PPP loan demand, it was necessary to redeploy employees to handle and assist with the loan processing, including augmenting the loan process by engaging outside resources to assist. Our PPP team is focused right now to fund the loans that were approved by the SBA, as well as, to prioritize remaining applications that did not get processed in time under the initial funding and of course to submit the applications to SBA when the lender portal reopens.\nWe are staying in close contact with our customers through increased outreach efforts. Our bankers are having calls with their key customers as frequently as daily. W are monitoring our customers' financial health during this challenging time and are providing guidance and the resources they need to help them weather the storm.\nFurthermore, we are prudently making loan modifications for certain commercial customers to allow for deferral of loan principal and/or interest for short-term period. As of April 16, we have made loan payment deferrals on approximately $300 million in total balances which represent less than 7% of our total loan portfolio. I'd like to turn the call over now to Anna Hu, our Executive Vice President and Chief Credit Officer to provide further detail on our credit and portfolio risk management. Anna?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Thank you, Arnold. Central Pacific Financial has had a prudent credit risk management philosophy, which we believe will help us weather through this pandemic. Following our recovery from the Great Recession, we implemented a disciplined approach to credit that included tighter underwriting standards with a focus on making quality loans and maintaining a diversified portfolio. Our loan portfolio today is well diversified by product and by industry. While, certain industries we lend to will be impacted by the pandemic, there are other industries and portfolios that we expect to have limited impacts.\nThe primary industries that will likely experience impacts from the pandemics are summarized on Slide 9 and include accommodation and foodservice, retail trade, wholesale trade, manufacturing and healthcare. This comprises approximately $378 million or 8% of our total loan portfolio. A large portion of these balances are to well-established businesses that have weathered through the last downturn.\nSecondary industries that may also experience impacts include real estate management and other leasing, transportation, professional and administrative and other industries and services that total approximately $487 million or 11% of our total loan portfolio. These industries have thus far experienced little impact from COVID-19. Additional details on our primary and secondary industries can be found on Slide 10.\nWe also anticipate impacts on our consumer portfolio, which is approximately $560 million or 13% of our total loan portfolio. We are actively granting 90-day payment deferrals to the borrowers. Additional details on our consumer portfolio are shown on Slide 11.\nWe anticipate limited impact on our residential, home equity and investor commercial real estate loans. The weighted average loan-to-value in these portfolio are 60%, 58% and 53% respectively. These loans comprise of approximately $3.1 billion or 68% of our total loan portfolio. Additional details on these portfolios can be found on Slides 12 and 13.\nIn the final week of March, we aggressively reviewed our commercial loan portfolio and reached out to our customers to determine the initial impacts, if any, of COVID-19 on their businesses. Through this process, we identified borrowers that were likely to experience financial difficulty and proactively downgraded approximately $65 million in loans from past and special mention. These loans are primarily accounted for as part of the outstanding loan balance of the primary industries previously mentioned. It is important to note that all of these loans were performing prior to COVID-19. As part of our assessment for the downgrade, we reviewed management-end actions taken such as closing businesses and reducing expenses, monthly cash burn and access to cash liquidity and capital and the overall ability to weather through the pandemic in the near term.\nWe further note that it is still early to reach any firm conclusions and that these loans that were downgraded do not include the expected positive impact from the federal subsidy program. We are proactively working with our customers and many have already applied and have been approved for the paycheck protection program. Furthermore, we have also provided assistance with short term payment deferrals as necessary. Additional details and breakdown by industry can be found on Slide 14.\nOverall, our asset quality continues to remain strong. I'll now turn the call over to David, our Executive Vice President and Chief Financial Officer. David?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Thank you, Anna. On the finance side, we have implemented several steps to effectively manage through the current environment. We will ensure our capital and liquidity positions remain strong. Through our past experience, we have developed robust capital and liquidity stress tests and comprehensive capital and liquidity contingency plans. We also decided to temporarily suspend our share repurchase program. To manage our expenses, as well as protect our employees, we have implemented internal policies to temporarily suspend all business travel, large group meetings, meals and entertainment. We have also reevaluated or postponed certain consulting projects. And finally, hiring of new employees is on an exception basis and we are evaluating our compensation plans.\nI'd like to now briefly cover the company's financial results for the first quarter of 2020 which is summarized on Slide 15. Net income for the first quarter of 2020 was $8.3 million or $0.29 per diluted share. Return on average assets in the first quarter was 0.55% and return on average equity was 6.21%. Our earnings were impacted by a total provision for credit losses of $11.1 million recognized in the first quarter which related to a new CECL methodology and the effects of the COVID-19 pandemic on the economic forecasts. We also recorded a CECL day one impact of $3.6 million, which was an adjustment to our opening shareholders equity.\nOur pre-tax pre-provision earnings for the first quarter was $21 million. Net charge-offs in the first quarter totaled $1.2 million compared to net charge-offs of $2.3 million in the prior quarter. The charge-offs primarily came from the Hawaii consumer loan portfolio. At March 31, our allowance for credit losses was $59.6 million or 1.32% of outstanding loans. Net interest income for the first quarter was $47.8 million, which was relatively flat on a sequential basis and the net interest margin remained stable at 3.43%.\nFirst quarter other operating income totaled $8.9 million compared to $9.8 million in the prior quarter. The decrease was primarily due to lower mortgage banking income and BOLI income, driven by market volatility during the quarter. This was partially offset by additional fee income of $1.3 million related to an interest rate swap for a commercial real estate client.\nOther operating expense for the first quarter was $36.2 million, which was flat to the prior quarter. Included in the total, there was lower deferred compensation expense due to market volatility, which was offset by higher provision on off-balance sheet credit exposures under CECL. The efficiency ratio increased to 63.9% in the first quarter compared to 62.8% in the prior quarter. The increase was primarily due to the decrease in other operating income.\nThe effective tax rate was 25.3% in the first quarter. Going forward, we expect the effective tax rate to be in the 25% to 27% range. Now I'll return the call to Paul Yonamine."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Thanks, David. The global COVID-19 pandemic is an extremely challenging situation faced by all during this time. We want to assure you that Central Pacific is prepared and ready to handle the situation. We have a solid financial, credit, liquidity and capital position to enable us to weather the storm. We remain committed to our employees, customers and the community and will continue to provide support to all of these areas.\nEarlier this month, we ran a highly successful community campaign sponsored by our CPB foundation called KeepHawaiiCooking. Through this program, our foundation subsidized the cost of 10,000 take-out meals to local families struggling during this time. The purchase of these meals also provided a much needed support to our local restaurants. We are further looking at other potential initiatives to help our local economy, one of which is the campaign to continue communication and engagement with visitors, particularly from Japan to keep Hawaii top of mind and encourage their return to Hawaii once the pandemic ends and recovery occurs.\nTo conclude, we are very focused on flattening the curve with the COVID-19 situation and we are pulling together the company and communities to beat this. On behalf of our management team, thank you for your continued support and confidence in our organization. At this time, we'll be happy to address any questions you may have. Thank you."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from David Feaster with Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Hey, good afternoon guys."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "You guys have been a big part of the approved PPP loans in Hawaii. Are you just accepting applications from new client? Are you accepting applications from new clients or just existing clients? Are you able to require deposit relationships with those loans -- that I guess with regards to timing, I guess that a lot of those have already been approved. Do you think most of those fund in 2Q '20, so most of the fee revenue should come in next quarter?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Thank you, David. And I'd like to respond to all of that positively, but I don't want to take Arnold's thunder. He has been working night and day on. So Arnold, why don't you respond to that?"
+    },
+    {
+      "speaker": "Arnold D. Martines",
+      "speech": "Sure. Thanks, Paul. Yes. So we -- I would say the super majority of the applications we received were from our customers, but we do have non-customers that did apply and our position has been that the program is for support of the business community and so as we obviously support our customers, we are also supporting the over broader community. With regard to the fees we -- it is amortized over the term of the loan, but we estimate that we are in the 18 -- roughly $18 million range for fees at this point."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Okay, terrific. And then David, I appreciate the color on some of the expense saving opportunities, but how do you think about the RISE2020 initiatives? Just hearing your commentary, it sounds like things are progressing as planned. But are there any projects that -- or investments that you might like to place on hold or I guess broadly, how do you think about expenses as you have much expense leverage?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "David, let me -- this is Paul Yonamine. Let me start first by just once again explaining our RISE2020 initiative. It's largely two components. One is a technology play and the other is infrastructure. On the technology play, everything from our new online mobile platform, new ATMs definitely converting all of our employees to become VPN ready and also give them collaboration tool. This was extremely timely and nothing has stopped there. As a matter of fact, we've been trying to accelerate that. In terms of infrastructure, as of February, we already started the demolition of our first floor. And so, our plan is to continue down the path and complete the full renovation of our main building on the first floor.\nBut having said that, there are pieces and components, for example, glass materials that we're planning to place into the ninth floor of our building, many ancillary things that we feel that we can postpone just to be prudent. But having said that, we do plan to push ahead on the first floor renovation which is the lion's share of our investment. Most of it is amortized over 39 years and I think, personally, our target date of January 1, 2021, we're hoping that that's going to be a real great celebration. We're going to have COVID-19 campaign, hopefully the whole state, the city Honolulu will be open for business and we all take a really positive view on it. But, David, why don't you provide any other information on expenses?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Yeah, sure. Thanks, Paul. Yeah. So, it's David. David, as Paul mentioned, we are continuing with the major components of the RISE2020 initiative and what we will guide to on other total -- other operating expense is roughly -- we're sticking with the $36 million to $38 million range. And obviously, as we said in our prepared remarks, we're trying to manage that to the lower-end of the range."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Okay. That's helpful. And then I guess last one for me. On the allowance for loan losses, you saw a pretty big jump, obviously, 232 basis points, but given where we are today and assuming that this might stick around a little bit longer, how do you think about additional reserve builds and just kind of your overall thoughts on reserves? And just any commentary you have would be helpful."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "David?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Okay. Thanks, David. Yeah, yeah. As all banks -- it's been a challenging quarter implementing one of the largest bank accounting changes in the midst of a pandemic. But the team did a nice job implementing CECL and we took a look at the situation, as of March 31, we used the blend of economic forecast at the time that did include some of the forecast that came out in late March. So we did incorporate some of the downside that people were seeing with our COVID. And we think we ended up with the appropriate allowance 132 of loans as of 3/31. Having said that, there have been subsequent forecast that have come out in the first three weeks of April that have shown potential further downside. So to the extent that there is further deterioration in the economic environment, there could be -- there would be additional reserve build in the coming quarters. And if -- we would think it's probably the second and third quarter."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "David, this is Paul. Let me just add. Clearly, there is a lot of uncertainty on how COVID's all going to play out. As Arnold touched on, our bank has also been extremely focused on a lot of the federal subsidy programs like the PPP. We, as a bank, have over-achieved in terms -- in relation to our market share in the state of Hawaii and with some of the fees that we anticipate in Q2 and hopefully in Q3 with the additional $310 billion that Congress is considering to again put into the SBA, that we can achieve a lot of fees that we feel will help us to counter additional provisions as well."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Okay, that's helpful. I guess kind of along those same lines, what are you hearing from your customers? Like what's the pulse of it? It sounds like you're actually expecting some potential loan growth. But what are you hearing from your clients? What's the pulse and maybe at what point do they -- like how much longer if this goes on, at what point do you think they start feeling the pressure?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "David, as you'll see in our addendum, we have a very diverse portfolio of loans and the majority of it -- I think, we're in a really good place, especially with the low loan-to-values, our real estate-based clients. Clearly, the companies that are very focused on tourism, whether it be hotels, restaurants, who have completely shut down operations, there is tremendous concern. The city and county and the Mayor has just announced a stay-at-home mandate extension to the end of May. So clearly that has a huge implication for those businesses. So a lot of concern, there's not quite much light at the end of the tunnel, yet Hawaii is doing a great job in comparison to most states in the United States. So there are some companies that are cautiously optimistic and yet situation is quite fast. So what we've been doing is reaching out to all of those customers, trying to really understand their business, seeing how the bank can help and we plan to continue doing that."
+    },
+    {
+      "speaker": "David Feaster",
+      "speech": "Okay, that's helpful, thanks guys."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Grant, Next question?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Jackie Bohlen with KBW. Please go ahead."
+    },
+    {
+      "speaker": "Jackie Bohlen",
+      "speech": "Hi, good morning, everyone. Just one more quick question on Hawaii before I change topics. But I think it may have been in your prepared remarks, Paul, you mentioned that you were hopeful for visitors to return in late summer to early fall. Is that something that's come out of one of the local organizations or the Hawaii Tourism Authority or is that just an internal hope?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "I'd like to say it's a little bit of everything, Jackie. Nothing is very definitive yet. I mean our major markets, whether it be Japan, the mainland U.S., it has its challenges today. So it's not just about Hawaii. The whole ecosystem has to work. And yet, Hawaii today, with infections of a little under 600, 400 recovered and our daily new infections, I think, generally the state and the city have been doing a pretty good job at containing it. But the concern is naturally on the markets that we bring in tourists into. So -- but our view right now is, wouldn't it be wonderful if the state of Hawaii can position itself as one of the safer tourist destinations globally? And in that situation, I think people are willing to pay a premium to come to Hawaii and it really boils down to the tenacity of state government. And that's something that even our bank and all of the banks, actually, in Hawaii are working very closely with the state and city governments and providing ideas, new initiatives, new hygiene protocol, providing ideas on new technology to try and make the tourism experience a positive one. And we're very hopeful, by the end of the third quarter, early fourth quarter, that we could start seeing a gradual rise in tourism."
+    },
+    {
+      "speaker": "Jackie Bohlen",
+      "speech": "And is it reasonable to assume that the people of Hawaii would be able to return to their new normal in advance of that because the state has done such a good job of really containing the virus and just given your status as an island state, you more than any other state, in the U.S., really probably most places everywhere have been able to keep people out from introducing the virus again. Is that a fair assumption?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Again, Jackie, the city's stay-at-home mandate has been -- was just extended yesterday to May 31. And I would -- looking at all of the activity in the mainland U.S. right now, I think it is a fair assumption that a lot of businesses will be able to start moving toward normalcy from early June."
+    },
+    {
+      "speaker": "Jackie Bohlen",
+      "speech": "Okay, OK, thank you. That's wonderful color and very helpful. Just looking in terms of growth and understanding that everybody is essentially at home through the majority of the second quarter at a minimum, where -- how are your customers thinking about that? Is it all just coming from businesses that are looking for help through either the PPP or the other programs that you have available to them or are there other ways for growth that I'm not thinking of?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Jackie, in a pandemic, there still are winners, grocery stores, for example, companies that are providing health and safety type services and whatnot. So again those are reflected in our portfolio as well, but there are clearly businesses that are also benefiting from what's happening today. But having said that, the vast majority of companies, mostly in the tourism sector -- and again, I want to emphasize that we have a very diverse portfolio, and we have those companies that are still in construction, working on the Honolulu Rail Project, doing a lot of defense contracting. Those businesses are still business as usual. The ones that are facing are the tourism industry, on the other hand, with the shutdown on business. The recent CARES Act subsidies are critical, and this is why CPB has invested so much time and energy in making sure we bring those PPP dollars even to the small businesses. 4200 applications with $490 million, we average a little over $100,000 per application and that was just critical during these kind of times, Jackie."
+    },
+    {
+      "speaker": "Jackie Bohlen",
+      "speech": "Okay, thank you. And just one last one for me, and then I'll step back. Just wondering what the expectation is for mortgage banking in the near term and whether the swing between quarters was purely driven by the MSR mark or whether it was a function of volume too?"
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "I was actually going to add to Paul's earlier comment to talk about..."
+    },
+    {
+      "speaker": "Jackie Bohlen",
+      "speech": "Sorry."
+    },
+    {
+      "speaker": "A. Catherine Ngo",
+      "speech": "...growth and mortgage, but that was a perfect segue. So the volume in Q1 was -- well, I would say seasonably low and in prior years, we've seen the dip but I will share with you that in Q2, the pipe looks really good and we are projecting about $220 million in production. And a lot of that goes to some things we talked about earlier in regard to the unique nature of our mortgage business. A lot of it is purchase and we have joint ventures with key developers and realtor agencies here. And so that will continue to drive the growth in the mortgage, So it's not just in Q2, but for the rest of the year."
+    },
+    {
+      "speaker": "Jackie Bohlen",
+      "speech": "Okay, thank you. And then just the -- and this might be a technical question for David, just on the difference between MSR, and if that was the primary driver of 1Q."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Yes, that's correct, Jackie. The MSR amortization increased sequential quarter by about $800,000."
+    },
+    {
+      "speaker": "Jackie Bohlen",
+      "speech": "Okay, thank you, everyone. I'll step back."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question will come from Laurie Hunsicker with Compass Point. Please go ahead."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Yeah, hi, good morning. just wanted to start first of all on the income statement. I just wondered BOLI, a loss of $19,000 for the quarter versus, it's been running about $600,000 [Phonetic] or so per quarter. How should we be thinking about that?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Yeah, Laurie, that was the impact of the equity market volatility. So we have a BOLI policy that's used as an indirect funding source/hedge for our employee deferred comp program. So the assets inside of the BOLI policy are equity mutual funds. So that policy declined in value by roughly $600,000 and we had our normal BOLI policies with income of roughly $600,000, so they kind of offset each other and that's what resulted in roughly zero income in the first quarter."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Assuming we don't have another downturn in the equity market, if things stay stable, we would expect BOLI income to return to the $500,000 to $600,000 quarterly range going forward."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, that's helpful. And then within your net interest income this quarter, were there any non-accrual loan recoveries like you had last quarter?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Yeah, it was negligible this quarter."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay. Okay. There is no margin. Okay, good. And then just shifting over to credit, your deck was phenomenal. Thank you for the detail. On Slide 9, so your primary industries that you outline is potentially being more at risk from COVID-19. It looks like, obviously, the majority of that is C&I. Can you tell us, of the $378 million, is there any real estate secured piece to that and if you know percentage or dollar of that $378 million?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Yeah, Laurie, this is Anna. I will say that between the primary and secondary industries, $325 million, $1 billion of it is real estate secured."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay. Between those and them $325 million. Okay, that's helpful. And then, this is kind of more macro I guess both for Anna and David for you. In terms of construction lending, I'm hoping that you can just give us a refreshed update."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Laurie."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "[Speech Overlap] just your whatever your 2%, your $101 million, but just in terms of sort of a -- go ahead."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Sorry, you're breaking up. Can you can you restart please, your question?"
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Sure. Can you hear me now?"
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Yeah, just very high level, if you could just help us think about your construction book, since that's what really hurt you during the last downturn and you look so different now. Right? So you had 28% of your loan book in construction lending back at the end of '07 and today that's 2%. But can you just help us think about what are the differences in your construction book today versus back then outside of the obvious, which is size? Thanks."
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Hi, Laurie. For our construction book today, it's very different. Back 10 years ago, we were doing a lot of land development, residential construction development. What we have today is very focused on supporting the middle market to the affordable condo builds that we have here in Hawaii, on Oahu primarily. So that's where the difference is in the portfolios. We are not in what we were 10 years ago."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, and then your -- the $101 million, is that all Hawaii-based?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "Yes, all Hawaii."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, versus the last go around, it was mainly in the mainland. Is that correct?"
+    },
+    {
+      "speaker": "Anna Hu",
+      "speech": "A lot of it was on the mainland. Correct."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Okay, perfect. Okay. And then if you have it, do you happen to remember what LTVs were back then versus today?"
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "Laurie, they probably started fiduciary confirming on 60%, 65%, but they ended up upside down and obviously once we got the concession[Phonetic]"
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Right. Okay."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "But again a much different exposure, as you said, it was almost 30% of the portfolio, it was over $1 billion in construction at that time. And today, I think it peaked at $1.1 billion and today it's $100,000. So much different risk profile in the loan portfolio."
+    },
+    {
+      "speaker": "Laurie Hunsicker",
+      "speech": "Right. Coupled with the fact that your loans were a lot smaller. Okay, perfect. I'll leave it there. Thank you so much."
+    },
+    {
+      "speaker": "David S. Morimoto",
+      "speech": "All right."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Paul Yonamine, Chairman and CEO for any closing remarks."
+    },
+    {
+      "speaker": "Paul K. Yonamine",
+      "speech": "Great. Thank you. Thank you very much for participating in our earnings call for the first quarter of 2020. We look forward to future opportunities to update you on our progress. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 43 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "David S. Morimoto--Executive Vice President and Chief Financial Officer",
+    "Paul K. Yonamine--Chairman and Chief Executive Officer",
+    "A. Catherine Ngo--President",
+    "Arnold D. Martines--Group Executive Vice President of Revenue",
+    "Anna Hu--Executive Vice President and Chief Credit Officer",
+    "David Feaster--Raymond James -- Analyst",
+    "Jackie Bohlen--KBW -- Analyst",
+    "Laurie Hunsicker--Compass Point -- Analyst"
+  ]
+}

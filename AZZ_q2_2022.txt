@@ -1,0 +1,368 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning and welcome to the AZZ Inc. Second Quarter Fiscal Year 2022 Financial Results Conference Call. [Operator Instructions] Please note this event is being recorded.\nI would now like to turn the conference over to Joe Dorame, Managing Partner. Please go ahead."
+    },
+    {
+      "speaker": "Joe Dorame",
+      "speech": "Thank you, Anthony. Good morning and thank you for joining us today to review the financial results of AZZ Inc. for the second quarter of fiscal year 2022 ended August 31, 2021.\nJoining the call today are Tom Ferguson, Chief Executive Officer; Philip Schlom, Chief Financial Officer; and David Nark, Senior Vice President, Marketing Communications and IR. After the conclusion of today's prepared remarks, we will open the call for questions. Please note there is a slide presentation for today's call, which can be found on AZZ's Investor Relations page under Latest Earnings Release Presentation at azz.com.\nBefore we begin with prepared remarks, I'd like to remind everyone, certain statements made by the management team of AZZ during this conference call constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Except for the statements of historical fact, this conference call may contain forward-looking statements that involve risks and uncertainties, some of which are detailed from time to time in documents filed by AZZ with the Securities and Exchange Commission, including the Annual Report on Form 10-K for the fiscal year ended February 28, 2021.\nThose risks and uncertainties include, but are not limited to, changes in customer demand and response to products and services offered by the company, including demand by the power generation markets, electrical transmission and distribution markets, the industrial markets and the metal coatings markets; prices and raw material costs, including zinc and natural gas, which are used in the hot-dip galvanizing process; changes in the political stability and economic conditions of the various markets that AZZ serves, foreign and domestic; customer-requested delays of shipments; acquisition opportunities; currency exchange rates; adequate financing and availability of experienced management and employees to implement the company's growth strategies.\nIn addition, AZZ's customers and its operations could potentially be adversely impacted by the ongoing COVID-19 pandemic. The company can give no assurance that such forward-looking statements will prove to be correct. These statements are based on information as of the date hereof and AZZ assumes no obligation to update any forward-looking statements whether as a result of new information, future events or otherwise.\nWith that out the way, let me turn the call over to Tom Ferguson, Chief Executive Officer of AZZ. Tom?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Thank you, Joe. And welcome to our second quarter fiscal 2022 earnings call and thank you for joining us this morning.\nWe continue to gain momentum in the second quarter and completed our fourth consecutive quarter of solid performance after the disruptions from COVID in the first half of last year. I especially want to thank our employees who show up every day and do their job so well. Their perseverance through the past 19 months of COVID-19 turmoil has allowed AZZ to obtain the results we are now reporting.\nOverall sales of $216 million improved 6.4% versus the prior year, or 8% when adjusted for the divestiture of SMS. Metal Coatings turned in another excellent quarter with sales up 10.7%, almost $130 million, and Infrastructure Solutions flat at about $87 million. Sales were somewhat impacted by labor constraints and COVID-19-related material shortages in some businesses. I will get into the details of this as we go along.\nWe are pleased to have completed another strong quarter performance. We continue to generate strong cash flow during the second quarter, while also returning capital to our shareholders. We generated net income of $18.9 million and EPS of $0.76 per diluted share, reflecting the resiliency of our businesses and the dedication of our people.\nOur businesses leverage the realignment actions taken last year to improve profitability while maintaining their focus on providing outstanding quality and service to our customers. We also benefited from lower interest expense while incurring a 20.4% tax rate for the quarter. In line with our strategic commitment to value creation, we've repurchased over 290,000 shares for $15 million and distributed $4.2 million in dividends.\nIn Metal Coatings, which represented 60% of our sales in the second quarter, we achieved 24.4% operating margins on sales of $130 million. This resulted in operating income being up over 17% from the previous year. The margin improvement was primarily due to driving operating efficiencies and productivity, while realizing improved pricing in the face of rising zinc, labor and energy costs.\nWhile we have several active acquisition discussions underway, we were slowed somewhat due to the uptick in COVID Delta variant cases that reduced some travel. Our Metal Coatings team continues to demonstrate their ability to perform and deliver great results while managing labor shortages and the increasing zinc costs.\nOur Infrastructure Solutions segment demonstrated continued profitability improvement through their seasonally slow second quarter. We were up about 4.3% when considering the impact of the SMS divestiture. The team delivered operating income of $7 million or 130%, up dramatically versus the prior year. The segment benefited from its realignment actions from last year but did face some labor constraints and material delays. We are focused on strategic selling initiatives and are well positioned to deliver a strong fiscal year 2022.\nFor fiscal year 2022, while COVID continues to generate some uncertainty in many sectors, given our strong performance in the first half and due to seeing more opportunities than risk the balance of this year, we are tightening and raising our guidance. We anticipate sales to be in the range of $865 million to $925 million and EPS at $2.90 to $3.20. This excludes any acquisitions or divestitures.\nMetal Coatings is continuing focus on sales growth, including leveraging our spin galvanizing operations at several sites, operational execution and customer service as labor and operating expenses increased due to inflation.\nOur Infrastructure Solutions segment has seen more normalized business levels and entered the third quarter with some momentum in bookings activity, particularly in electrical. Our WSI business is seeing good results from the expanded Poland facility, although internationally the business continues to experience some intermittent project delays due to COVID outbreaks at certain customer sites.\nThe electrical platform is focused on operational execution and growing its e-house and switchgear businesses. We anticipate continuing to benefit from low interest rates. While we expect solid performance in the third quarter due to the continued COVID impact on our international markets, we do not anticipate quite as strong of a performance as we experienced in this past first quarter.\nWhile the fall turnaround activity is good, we're seeing several projects that are already likely to stretch into the fourth quarter. I will note that we are already seeing a lot of activity lining up for the spring season.\nFor fiscal year 2022, AZZ will continue to execute on our strategic growth objectives to drive shareholder value. Our commitment to superior customer service is unwavering. Our ability to generate strong cash flow is based on initiatives that drive operational excellence, manage costs, ensure pricing discipline and emphasis on receivables collection within our operating platforms.\nWe are confident that our businesses remain vital to improving and sustaining infrastructure. So we are actively working to position our core businesses to provide sustainable profitability and regardless of whether we see any infrastructure legislation.\nWith that said, I'll turn it over to Philip."
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "Thanks, Tom. Bookings or incoming orders in the second quarter were $231.8 million, a $23.2 million or a 11.1% increase over the second quarter of the prior year. Our bookings to sales ratio increased to 107% as we saw improving market conditions across both the Metal Coatings and Infrastructure Solutions segments. As Tom previously mentioned, second quarter fiscal year 2022 sales of $216.4 million were $13.1 million or 6.4% higher than the prior year second quarter sales of $203.4 million.\nWe generated gross profit of $55.1 million compared with gross profit of $46.1 million in the second quarter of the prior year. Our gross margin was 25.5% for the quarter, which was a 280-basis-point improvement compared with a gross margin of 22.7% in the second quarter of last year, as business in both segments continues to recover from the pandemic lows witnessed this time last year.\nOperating income for the quarter was $26.5 million compared with $652,000 in the second quarter of the prior year. During the prior year second quarter, we recorded restructuring and impairment charges of $18.7 million. We believe the difficult decisions and actions management took last year are strongly impacting our financial results in both of our segments this fiscal year. We believe we have established a strong foundation for future growth.\nOur earnings per share of $0.76 was $0.26 higher than last year's second quarter adjusted EPS of $0.50 and $0.83 above the reported loss of $0.07. The prior-year second quarter loss was significantly impacted by the impairment and restructuring charges and impacts of the pandemic as previously discussed.\nSecond quarter EBITDA for fiscal year 2022 was $36.6 million compared with adjusted EBITDA reported in the second quarter of fiscal year 2021 of $30.7 million, an increase of $5.9 million or 19.1%. Year-to-date sales through the second quarter of fiscal year 2022 were $446.3 million, a 7.1% increase from last year's second quarter year-to-date sales of $416.7 million. Excluding the impact of the SMS divestiture, sales would have increased 11% year-over-year.\nFiscal year 2022 year-to-date net income of $41.3 million was $22.8 million or 122.8% above the prior year-to-date adjusted net income of $18.5 million. Prior year-to-date net income as reported was $3.8 million. Year-to-date EPS of $1.64 was 131% higher than the prior year-to-date adjusted EPS of $0.71.\nTurning to our liquidity and cash flows. We continue to maintain a strong balance sheet and return capital to our shareholders. The following are our capital allocation highlights: During the quarter, we renegotiated and renewed our five-year credit facility, retaining our facility at $600 million in borrowing capacity, supported by a strong group of banks. Gross outstanding debt as of the second quarter is $183 million, $4 million above the $179 million in outstanding debt at the end of the second quarter of the prior year, which reflects increased share purchase activity as we have purchased nearly 70 million in outstanding shares during the last year. Year-to-date, we have deployed $13.1 million in capital investments and we anticipate to still make capital investments of roughly $35 million this year. Supply chain constraints have impacted and delayed to some extent the timing and spending of our planned capital expenditures.\nAs Tom noted, we repurchased $15 million in outstanding stock during the quarter and $21.2 million on a year-to-date basis. We declared and continued our prior history of making quarterly dividend payments.\nFor the first half of the year, cash flow from operations was $37.8 million, up $5.6 million or 17.4% from prior year as a result of strong sales and solid net income generated by the business. Free cash flow was $23.2 million, $10.3 million or 79.8% above the $12.9 million realized in the prior year. We continue to execute on several merger and acquisition opportunities and expect to make announcements regarding the same before the end of our fiscal year.\nLastly, as I celebrate my second anniversary with the company and roughly a year serving as the company's CFO, I would like to thank our employees and business partners for their support during what has been a challenging and rewarding period for the company as we navigate through the pandemic and align our operations and portfolio of businesses to our strategies.\nI'll now turn it back to Tom for his final thoughts."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Thanks, Philip. Here are some key indicators that we are paying particular attention to. For the Metal Coatings segment's galvanizing business, we are carefully tracking fabrication and construction activity, material and labor cost inflation and progress of infrastructure legislation. For the Surface Technologies platform, we are primarily focused on expanding our customer base and benefiting from improved operational performance.\nFor Infrastructure Solutions, domestic turnaround and outage activity has returned to a normal level. The fall season is currently looking to be good albeit somewhat muted as noted earlier, due to international customers being impacted by COVID-related issues. The Electrical platform is benefiting from transmission distribution, utility spending and growing data center and battery energy storage activity. In regards to the strategic review of Infrastructure Solutions, we have further narrowed the number of options we are pursuing and are increasingly confident that AZZ can and will become predominately a focused metal coatings company.\nAs we have noted previously, we are having regular meetings with the Board. But due to the sensitivity of ongoing discussions and confidentiality agreements, we cannot be more specific at this time, but realize we are rapidly approaching one-year anniversary of our announcement.\nWe remain committed to our growth strategy around Metal Coatings and achieving 21% to 23% operating margins with galvanizing performance being quite steady, while we continue to improve Surface Technologies. We will remain acquisitive, particularly in Metal Coatings. For Infrastructure Solutions, we are focused on profitability and cash flow. Our AIS business units should benefit from more normalized turnaround and outage seasons and a solid market for T&D, utility and data center, e-houses and switchgear.\nOur corporate office is actively engaged in several merger and acquisition projects, while continuing to maintain tight accounting controls and providing support to the field for acquiring and retaining talent. And finally, we will soon be issuing our first ESG report. So please stay tuned.\nWith that, we'll open it up for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Anthony, we can't hear you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from John Franzreb of Sidoti & Company. You may go ahead."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Good morning, everybody."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Good morning, John."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "I want to go back to your references about the fall turnaround season. Three months ago, I think you characterized it is looking quite good. And now, if I heard you correctly, this morning you're saying that there are some delays, be the international or domestic, I'm not sure, could you kind of in context [Technical Issues] on a year-over-year basis or...?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah, John. I think, the -- turnarounds are improved over the third quarter of last year, but some of those international jobs are often the larger projects that we would see. And it's not that they're going away, it's just they're somewhat delayed and stretching more toward the end of the quarter, which means that we'll actually recognize revenue in the fourth quarter. So, good activity, but no, we're not seeing the really large international projects. And it's either delays or also just refineries running -- kind of running through the season. So we feel good about the activity. And that's why we've tried to couch it as a good solid strong third quarter, but probably not quite at the same level as our first quarter, which was nicely strong at $0.88 of EPS."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "And you have the margin pretty well in the Metals Coatings by an uptick in prices. Can you just talk a little bit about what you're doing there to be so successful in maintaining that margin profile?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah. I'm sitting across from some of the Metal Coatings guys. So there I'm smiling. The team is highly focused on operational performance, driving customer satisfaction, creating value for those customers. We're benefiting from our digital galvanizing system giving us information that we used to have to handle manually. And now we're pulling it together in an automated fashion and it allows us to react more quickly. It also improves our customer service, our ability to respond and it's helped us manage through some of the labor shortages because they're probably operating a couple of hundred people direct labor short, but they're making up for with productivity and efficiencies. So that's what's allowing them to continue to perform at a really high level and taking advantage of some of the growth opportunities in solar and other areas. So we just feel real good about that business and really good about the leadership team and what they've been able to accomplish."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Can you push through pricing?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah, we're pushing price but I think that's mostly in relation to offsetting both labor wage increases as well as the continually rising zinc costs and -- as well as virtually all materials are up somewhat. But -- yeah, we're pushing that. We're trying to give the customers the service to deserve the pricing."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "And just one, I know you didn't know about this, but in regards to Infrastructure Solutions, [Technical Issues]"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "We're pursuing, what I would call, three transformational deals and some of those are mutually exclusive. So, we would still prefer only having one -- I don't know what you call -- one initiative versus doing anything small or not transformational."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. Right. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Noelle Dilts from Stifel. You may go ahead."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Hi, guys. I was hoping that you could just kind of walk through some of the demand trends that you're seeing within the end markets for Metal Coatings. I know you just mentioned solar, but what you're seeing in T&D and Industrial, some of the other markets, would be helpful as well? Thank you."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah. It's kind of across the board, I'd say. So, solar, ag business is really strong. We're seeing -- interestingly enough, we're still seeing some recreational-type things and I guess they're pulling docs [Phonetic] in now. And then, the OEM side, so trailers and truck and trailer type stuff has been really strong and we see that continuing. T&D has been good. We usually look at it more on the electrical side, but there has been good pole activity and poles and tower pieces or components. So it's generally across the board, but solar has been probably the bigger driver on a year-over-year basis."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Okay, great. And then, I was hoping you could do the same thing on the electrical side. Maybe talk some of the trends you're seeing with what's your hand closures and Bus Duct, etc, that would be great? Thank you."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah. We're seeing really good -- T&D has been strong, which benefits particularly our switchgear business and on the utility grade switchgear. E-houses have been really solid. We're seeing lots of activity on data centers, but the utility side is also strong. You get good solar activity with enclosures, but it's been -- I'd say, there we came in with some backlog. We've had to rebuild backlog, offsetting the big piece of our business that came from China over the last couple of years. So that's been the focus and that's been building more service work on Medium Voltage Bus side. And fairly good activity on high-voltage. So it's also kind of across the board on electrical, but T&D is strong."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Okay. Great. And then, just given the $15 million share repurchase in the quarter, maybe you can comment on just how you're thinking about priorities for cash and where repurchase stands moving forward?"
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "No, we've been continuing to follow a 10b5-1 plan and opportunistically purchasing shares in the market. As Tom alluded to a little bit earlier, we've been hampered somewhat in our M&A activities just with COVID and inability to travel to locations. So, I think, our priorities are continue to opportunistically purchase shares focused on our $35 million of capital spend on reinvesting in the business this year, continuing to make dividend payments as we move forward and then as evaluating how we split that up as the M&A opportunities present themselves."
+    },
+    {
+      "speaker": "Noelle Dilts",
+      "speech": "Great. Thank you very much."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Thanks, Noelle."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Jon Braatz of Kansas City Capital. You may go ahead."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Good morning, Tom, Phil."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. Tom, you talked about the -- on the Metal Coatings side that you're short couple of hundred workers and so on, but your productivity has been good. As you think about going forward, do you see the need to rehire those people or do you think you can continue to do what you're doing with sort of a minimum number of people?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Well, I think we look at it at a plant by plant level because it's a balance between how much overtime can we afford to work to make up for -- productivity and efficiencies are really good and have been solid, but we do make up for a lack of labor with overtime. So -- and then we do -- but we are prepared to deal with the shortages because we just aren't seeing that many applicants in certain areas of the country, not that we're not trying to hire. But yeah, I think every month, every quarter, our guys are getting more and more productive and benefiting more from the digital galvanizing system, DGS.\nSo, we're hoping to retain some of that, the product would not retain it but continue to improve it. But we are going to need some of those bodies because some of this is just the labor of material handling and you just need folks to do it. We have automated some things and we should continue to benefit from that. So, yeah -- but it's a plant by plant decision that our leadership teams look at every -- basically every day."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Yeah. Okay. Looking ahead, zinc prices have been moving up and six to nine months from now you'll be facing higher zinc costs relative to the prior year and probably prices have to go up a little further. Do you think, number one, you will be able to pass on -- fully pass on those costs and any concern about demand destruction as maybe these costs rise?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "I think so. It can's get challenging. We're at fairly high pricing levels. But I think all of our customers are also experiencing a lot of those -- that same inflationary pressure on their labor costs, on their material costs and material availability. So we're in line with that. And whether it's zinc or copper or steel, their commodities are up and wages are up. So, we'll continue to work that and try to work with, call it, innovative ways with our customers to deliver more value to them, whether it's transportation, logistics or just working more closely with them to help them streamline. So, we have a wide variety of initiatives that our folks drive on. And so, I hope customers will continue paying us for the value we're delivering and that we continue to increase that value."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Sure. Okay. All right. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question comes from Brett Kearney of Gabelli Funds. You may go ahead."
+    },
+    {
+      "speaker": "Brett Kearney",
+      "speech": "Hi, guys. Good morning. Thanks for taking my question."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Good morning, Brett."
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Brett Kearney",
+      "speech": "Wanted to ask about the opportunity you see in the marketplace for your spin galvanizing offering and kind of how you are thinking about internally. It sounds like that's an area you see an opportunity to expand going forward. So maybe the opportunities out there."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah. We see that as a good opportunity for us. You tend to get into the smaller finer finish components where you get more quantity, more pieces. And a lot of our facilities were designed more for the structural side, and then some are what I call hybrid. But having the dedicated spin lines in, I think, about six of our sites right now, I think we've seen the benefit of that. The most recent one started up in Houston at the beginning of this fiscal year. And we're seeing the business pick up for that.\nAnd if you go into one of our galvanizing plants and you look at pallet full of stuff that's gone through a spin plant versus what's going through our normal hot-dip plants, it's just the quality and finish is significantly better. So it gets us into that small component market. So we like that. It fits well for some of our sites. We're regionally focused. Two of our more recent acquisitions, Chattanooga and Rockford, Illinois, gave us really focused spin capability and some resources that have helped us ramp ours up and be able to sustain that. So we look at that as a continued growth market and are really happy with what our investments are doing for us in that area."
+    },
+    {
+      "speaker": "Brett Kearney",
+      "speech": "Terrific. And then, just one other quick one. Your international operations, I know it's a small part of the overall business and even decreasing relevance, but is the thinking that those would stay with kind of the divisions they are associated with in any possible path forward for AZZ?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah, we would, particularly in WSI, it's -- I call it a hub-and-spoke concept. So there's a lot of technology that resides in that group been in their US operations to support the international, so they're integrated. Obviously, the international operations have their own welders and craft to a great extent. But when it comes to the engineering and technology and some of the other support services, that's handled more centrally or at least supported more centrally. So that really sticks together in terms of those pieces."
+    },
+    {
+      "speaker": "Brett Kearney",
+      "speech": "Okay, great. Thanks so much."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from DeForest Hinman of Walthausen & Co. You may go ahead."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Hi. Thanks for taking my questions. Just a clarification on -- you've talked about transformational deals. I must have missed the first part of the sentence. Are you talking about transformational transactions from a sales perspective or from an acquisition perspective?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Both -- I'd say both."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Okay. And then, maybe on the acquisition side, I know you've been talking about purchasing businesses. I guess, how do you define transformational? Is it more of a scale function building on the Metal Coatings side or are we actually looking at businesses outside of Metal Coatings that we're going to be mining something?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "No, I think our acquisition path right now is mostly on the Metal Coatings -- all on the Metal Coatings side at the moment. Most of the deals we're working on in Metal Coatings are the normal galvanizing type acquisitions. There are some larger opportunities that we're engaged in. And yeah, we were a little more disrupt. We've got two factors that I have to mention. One, we were disrupted by the recent COVID Delta uptick, just some travel was more restrained and people not wanting to visit, but we're also somewhat short-handed in the corporate office, pursuing quite a few different initiatives when it comes to M&A. So we're prioritizing and getting hyper-focused on the ones that we've really -- that are really more time-sensitive in getting things done this year."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Okay. That's helpful. And then, just anecdotally or high level, how was the customers, the dialogue back and forth in regards to looking to increase price, is there much pushback or is it more conversation like we're kind of dealing the same thing?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "I'd say, for the most part, two different kinds of business. But in Metal Coatings, those are the conversations we're having with our fabricator customers particularly, because their experience in the same things. And we're -- like I said, we're trying to figure out how we can do more forum to increase the value that we bring. And those are good conversations.\nObviously when we're raising prices, it's never just -- they're never thrilled, but I do think we've got great relationships from salesforce transformation we did three or four years ago. That's paying off. We've got good relationships. We're providing great service, on-time deliveries outstanding and we're maintaining our cycle times in the vast majority of our plants in spite of labor shortages and some -- we do have plenty of zinc. So, that's always good.\nOn the electrical side, you get into more project business. And so there it's -- we're still having to bid competitively for projects and be able to perform. Our customers are seeing some of that inflation in steel and component costs, but it's still more projects than run-of-the-mill type business. So, there the conversations are more around how effective can we perform on a project and are we competitively priced. So, two different scenarios."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "And then, just for my own knowledge, but maybe also some other people to, I think you would characterize in the past in the electrical space, the bid discipline has been improving due to some structural changes in that space. Is that still the case when we're putting out those bids right now?"
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "I would say that's true. We continue to bid. And if we don't get an order in 30 days, we're repricing those orders. So we've increased our discipline and practices around our bidding efforts with the rising tide of inflationary costs."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah. And I think, we are -- part of it is just the ability to perform the schedules and expedite materials, sometimes including the components from the customers themselves. So that's just -- that's kind of a new dynamic caused by the supply chain disruption."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Okay. Very helpful. And then, on the labor availability side, maybe metals first and then the electrical side. Anecdotally, are we seeing higher volume of resumes, better inbounds for doing a job fair with some of these state and federal benefits rolling off? Is it getting better or worse or staying the same?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Getting slightly better. So, we've gone from not seen any applications that unsolicited to seeing a few and getting a few people coming in. And of course, we have -- we're doing more job fairs, doing more advertising, using more tools and doubled our recruiting staff here in the Fort Worth headquarters. So, we're drawing more in and we're getting a few more as some of the benefits, unemployment things roll-off. We do start to see applicants and -- but we're also trying to be disciplined, make sure we're getting the right quality of individuals that are going to be able to contribute. So we're trying to maintain the discipline in the face of relatively few applicants."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Okay. Perfect. And last question on capital deployment. I'm sorry, go ahead."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "No. So it is getting a little bit better. I just -- it's a battle."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Okay. No, that's very helpful. And then, the last question on capital deployment. Balance sheet remains very strong. You talked about looking at some of these deals. Do you or the Board see the company continuing to buy stock with the 10b5-1 or are these deals of size where we take a breather -- the share repurchase activity?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah, we're likely to be taken a breather or we probably are taking a breather at this point. And just because of the number of potential deals and we like to see which we can close on, so -- and we also have the ramp-up in our capex in the second half of the year. So, both those factors, where the 10b5-1 is, we're not buying right now and probably won't."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Okay. That's helpful. And then, I guess, I'll sneak one more in. In terms of timing, I think during the last call or one before that, you had anticipated transaction is potentially closing before year-end. Is that statement still valid given some of the comments you just made around the Delta variant or some of that potentially gets shifted into next calendar year? Does that previous comment still make sense?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "No. We've been able to get out more just in the last month. So we feel better about still getting some done. And interestingly enough, some of the opportunities are because folks want to close by the end of the year. So we're going to be challenged to get that -- or the end of the calendar year.\nSo we're going to be challenged to do that, but we're going to give it our best bet -- our best effort."
+    },
+    {
+      "speaker": "DeForest Hinman",
+      "speech": "Okay. Thank you for answering all my questions."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "All right."
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "Thanks, DeForest."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Bill Baldwin from Baldwin Anthony Securities. You may go ahead."
+    },
+    {
+      "speaker": "Bill Baldwin",
+      "speech": "Good morning. Good morning, folks."
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "Hey, Bill."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Bill Baldwin",
+      "speech": "First question kind of definitional question on your solar business that -- does that show up in power generation or in the industrial category when you record that in your 10-Qs?"
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Yeah, that falls within the industrial, Bill. The solar falls within the Industrial segment."
+    },
+    {
+      "speaker": "Bill Baldwin",
+      "speech": "The solar falls within the Industrial segment, OK. Okay. In the electrical, our Infrastructure segment, looking at your electrical business, what markets offer you the best visibility looking out over the next six to 12 months? Or do they have that kind of visibility in any of your markets right now in the electrical area?"
+    },
+    {
+      "speaker": "David Nark",
+      "speech": "Yeah, Bill. Again, this is Dave. I'd say, as Tom had mentioned earlier in his comments, we continue to look at the T&D market. It's performed well, continues to perform well and drive our improved order intake on the enclosures and switchgear side. And as you said, the team is also really focused on that data center and battery storage markets. Those also are doing really well for us. And in particular, as we continue to see -- you mentioned solar projects, we're starting to see more things quoted where it's a combined project of both solar and battery storage. So that will bode well for the electrical team going forward."
+    },
+    {
+      "speaker": "Bill Baldwin",
+      "speech": "Okay. And the capex $35 million, how much of that roughly will be maintenance and how much is growth? And kind of what areas are focused on the growth capex? What markets?"
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "That's a good question. We -- typically it's been $23 million, $25 million-ish on our maintenance capital with a lot of that going toward our Metal Coatings business. On the growth side, on the WSI, our Industrial segment, we're investing in the hot pulse side, since hot pulse with the -- our welding equipment refresh. So we're continuing to grow there. We recently finished our Poland facility. We moved into the new facility there and started operations in the last six months. So we're further enhancing that as we move forward. And then, we're looking at some additional international growth that will come with time."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "And on the Metal Coatings side [Speech Overlap] I'm not aware of any new stuff on the international front. But we do have a really good investment in Poland, we're thrilled with that. It's doing well.\nOn the Metal Coatings side, we are -- we do anticipate we're building out another spin operation. I'm not going to say where, just because we don't want to let our competitors know. But -- so we have that going in the back half of this year as well as some kettle upgrades and continuing with furnace upgrades.\nSo we're doing some things to streamline and improve. And then, we're also focused on continuing to beef up our powder coating plating capabilities and improve our ability to deliver high-end quality of service in that area."
+    },
+    {
+      "speaker": "Bill Baldwin",
+      "speech": "Thank you very much and congratulations to you and your team on the excellent execution in obviously difficult environment."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "Thanks a lot, Bill. Appreciate that comment."
+    },
+    {
+      "speaker": "Philip Schlom",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Tom Ferguson for any closing remarks."
+    },
+    {
+      "speaker": "Thomas E. Ferguson",
+      "speech": "I just want to thank you all and appreciate the discussion. We're excited about not only how well we've performed through difficult times, but also the outlook for our businesses, for our people, for our teams and for the things that we have underway. And while we can never guarantee we're going to close on any deals, we are hyper-focused on getting things done in the balance of this year. So, appreciate it. Look forward to talking to you at the end of our third quarter if not sooner."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 44 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Joe Dorame--Managing Partner",
+    "Thomas E. Ferguson--President and Chief Executive Officer",
+    "Philip Schlom--Chief Financial Officer",
+    "David Nark--Senior Vice President-Marketing, Communications and Investor Relations",
+    "John Franzreb--Sidoti & Company -- Analyst",
+    "Noelle Dilts--Stifel -- Analyst",
+    "Jon Braatz--Kansas City Capital -- Analyst",
+    "Brett Kearney--Gabelli Funds -- Analyst",
+    "DeForest Hinman--Walthausen & Co. -- Analyst",
+    "Bill Baldwin--Baldwin Anthony Securities -- Analyst"
+  ]
+}

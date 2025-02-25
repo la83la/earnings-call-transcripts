@@ -1,0 +1,143 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. My name is Debra, and I will be your conference operator today. At this time, I would like to welcome everyone to the Tennant Company's 2021 Second Quarter Earnings Conference call. This call is being recorded. There will be time for Q&A at the end of the call. [Operator Instructions) After the Q&A, please stay on the line for closing remarks from management. If you have joined our call today via telephone and logged onto the conference call presentation on your computer, please mute the audio on your computer to avoid potential quality issues during this call. Thank you for participating in Tennant Company's 2021 Second Quarter Earnings Conference Call. Beginning today's meeting is Mr. William Prate, Senior Director of Global Financial Planning and Analysis and Investor Relations for Tennant Company. Mr. Prate, you may begin your conference."
+    },
+    {
+      "speaker": "William Prate",
+      "speech": "Thank you. Good morning, everyone, and welcome to Tennant Company's second quarter 2021 earnings conference call. I'm William Prate, Senior Director of Global Financial Planning and Analysis and Investor Relations. Joining me today are Dave Huml, Tennant's President and CEO; Fay West, our Senior Vice President and CFO; and Dan Glusick, our Senior Vice President of Global Operations. On today's call, we will update you regarding our second quarter performance and guidance for 2021. Dave will brief you on our operations and enterprise strategy, and Fay will cover the financials. After their remarks, we will open the call to questions. Please note a slide presentation accompanies this conference call and is available on our Investor Relations website at investors.tennantco.com.\nBefore we begin, please be advised that our remarks this morning and our answers to questions may contain forward-looking statements regarding the company's expectations of future performance. Such statements are subject to risks and uncertainties, and our actual results may differ materially from those contained in the statements. These risks and uncertainties are described in today's news release and the documents we filed with the Securities and Exchange Commission. We encourage you to review those documents, particularly our Safe Harbor statement, for a description of the risks and uncertainties that may affect our results. Additionally, on this conference call, we will discuss non-GAAP measures that include or exclude certain items. Our 2021 second quarter earnings release includes the comparable GAAP measures and a reconciliation of these non-GAAP measures to our GAAP results. Our earnings release was issued this morning via Business Wire and is also posted on our Investor Relations website at investors.tennantco.com. I'll now turn the call over to Dave."
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Thanks, William, and thank you, everyone, for joining us today. Our second quarter results reflected the overall business recovery we saw across our geographic markets despite widespread global supply chain constraints and commodity inflation that cut across a number of industries and which impacted our ability to fully meet the Q2 increase in customer demand. While the demand increase exceeded our initial expectations for Q2, the impact of macro-level headwinds such as parts availability, material inflation, freight costs, and labor shortages was also greater than we had expected. In response, we've taken steps wherever possible to help minimize the effects of these challenges to our customers. In most cases, these actions build upon or otherwise benefit from the strategic improvements we have made to our operating model as part of our enterprise strategy.\nI will now walk you through some of the actions our teams have and will continue to take to mitigate some of the macro challenges in the current environment while serving the needs of our customers. To address the issue of parts availability, which is the result of our suppliers managing their own production, labor, and logistical challenges our supply chain teams are leveraging our strategic partnerships to manage component and material availability. We are also developing design alternatives and identifying additional sources to keep our manufacturing lines running, all while maintaining strict product quality controls. To ensure a smoother process in securing parts in the second half of the year, our teams have developed more robust sales and inventory operations plans to better align our supply and demand.\nThese plans not only help our manufacturing plants develop smarter strategies to meet increased customer demand but also allow us to provide longer-term demand forecast to our suppliers to secure the parts fully. To address material inflation, our teams are working diligently to find additional partners and, where possible, consolidating vendors to drive leverage and scale. At the same time, we continue to use value engineering to help reduce the parts and material that go into each machine. Our R&D and operations teams are regularly finding ways to help address material inflation while maintaining our value proposition of quality and innovation. Today's pressures in the steel, resin, and lead markets represent a significant challenge that is felt by industrial manufacturers around the world and one that we expect will persist for the foreseeable future.\nTo minimize the impact of higher freight costs, we are fortunate that as part of our enterprise strategy, we had already started to prioritize local-for-local supply chain and region-for-region manufacturing. This allows us to manufacture our products closer to our customers, which helps to reduce freight costs. This does not entirely offset current headwinds given the constrained transportation market, but we are making every effort to ensure that our manufacturing lines remain up and running and that we can deliver products with appropriate lead times. Regarding labor shortages, specifically in our manufacturing areas, we are staying competitive in the market by adjusting wages and making every effort to attract new talent by providing a safe, rewarding and fulfilling work environment. We are also investing in our equipment, processes, and systems to drive the increased productivity.\nWith respect to the overall challenges we're facing in our cost of goods sold, we are also carefully and thoughtfully managing our S&A to a level that allows us to invest in the business, serve the needs of our customers, and deliver on our enterprise strategy while also maintaining our ability to meet our full year financial targets. At the same time, we are implementing price increases where appropriate that will benefit the fourth quarter of this year and help offset some of the costs that we're not able to absorb internally. While a price increase at this time of the year is not a normal practice for Tennant, we are compelled to take this action in response to the current macro market challenges. The key improvements we've made internally as part of our enterprise strategy have helped facilitate our response to current market dynamics.\nThese improvements include value engineering, plant optimization, simplifying our product portfolio, divesting non-core businesses, and adjusting our go-to-market approach in specific regions. I continue to be extremely proud of our global teams for their efforts in addressing these various operational challenges as countries and markets navigate their post-pandemic recoveries. We are taking decisive actions to safeguard the customer experience and deliver on our financial commitments while remaining focused on our longer-term business objectives. As Fay will discuss, our full year guidance assumes our continued effective management of a challenging supply chain and operations environment and reflects our growing confidence that the long-term global recovery for commercial and industrial cleaning will continue.\nWhile we remain vigilant in our overall cost management in the face of material inflation, parts availability issues, and higher freight costs, we will continue to execute against our enterprise strategy and stay focused on delivering the best possible customer experience. With that, I will turn the call over to Fay for a discussion of our financials."
+    },
+    {
+      "speaker": "Fay West",
+      "speech": "Thank you, Dave, and hello, everyone. For the second quarter of 2021, Tennant reported net sales of $279.1 million, up 30.4% year-over-year, including a favorable foreign currency effect of 5.4% and a divestiture impact related to the sale of the company's coatings business of negative 2.5%. Organic sales, which exclude the impact of currency effects and divestitures, increased 27.5%. Tennant Group sales into the three geographies: the Americas, which includes all of North American and Latin America; EMEA, which covers Europe, the Middle East, and Africa; and Asia-Pacific, which includes China, Japan, Australia, and other Asian markets. In the first quarter, sales in the Americas increased 22.7% year-over-year with organic growth of 25.4%, including a foreign exchange effect of 1.1% and a divestiture impact of negative 3.8%.\nSales were strong, both in North America and Latin America, with growth across all channels and product categories despite a decline in the company's AMR robotics business, which lapped a large order in the year ago period. Strong customer orders resulted in higher than normal backlog levels at the end of the quarter as the company managed parts availability related to global supply chain constraints and labor shortages. Sales in EMEA increased 55.5% or 40.2% organically, including a foreign exchange effect of 15.3%, with growth across all countries and across all product categories as pandemic-related restrictions eased. Sales in the Asia-Pacific region rose 16.6% or 9.6% organically, including a foreign exchange effect of 7%. The results were driven primarily by strength in Australia across all product categories. During the quarter, organic results in China were flat year-over-year, which was due to limited parts availability.\nTurning to margins. Reported and adjusted gross margin were both 41.2% compared with 41.8% in the year ago period, which included the impact of government credits received and cost-saving measures taken in response to the pandemic. As previously discussed, the decline also reflects increased costs related to freight, materials, and labor, which were partially offset by favorable pricing and cost savings initiatives. These headwinds are expected to continue for the foreseeable future, with added pressure in the third quarter. Entering the fourth quarter of the year, we expect pricing and other actions to start driving a meaningful impact. As for expenses during the second quarter, our adjusted S&A expenses were 30.3% of net sales compared with 28% in the year ago period. The year-over-year deleverage is a direct result of the cost-saving actions taken in the second quarter of last year in response to the pandemic.\nThese actions include furloughs, reduced work schedules, adjusted to management incentives, government credits, and tighter project and travel spending. Net income was $9.8 million or $0.51 per diluted share compared with $14.3 million or $0.77 per diluted share in the year ago period. Adjusted diluted EPS, excluding non-operational items and amortization expense was $1.18 per share compared with $0.96 per share in the year ago period, which was primarily driven by lower interest expense. Adjusted EBITDA in the second quarter of 2021 decreased slightly to $35.1 million or 12.6% of sales compared with $35.3 million or 16.5% of sales in the second quarter of 2020. As mentioned in our Q2 2020 earnings call, we estimated that $15 million of savings occurred within the second quarter of 2020 due to the cost-saving measures and actions taken in response to the pandemic.\nAs for our tax rate in the second quarter, Tennant had an adjusted effective tax rate, excluding the amortization expense of 4% compared with 20.4% in the year ago period. The decrease was primarily related to a discrete tax benefit for a valuation allowance release as a result of a recent law change impacting Dutch tax loss carryovers. Turning to cash flow and balance sheet items. Tennant generated $19.4 million in cash flow from operations in the second quarter of 2021, mainly due to strong business performance. As of June 30, 2021, the company had $135.1 million in cash and cash equivalents while managing our leverage within the stated guidance of 1.5 to 2.5 times times. In April, the company restructured its credit agreement to optimize the debt structure. This change allows for greater flexibility with minimal covenants and no pre-payment penalties, while also reducing future interest expense by approximately $1 million per month, which was already reflected in our prior guidance.\nLastly, turning to guidance. As Dave mentioned, our guidance reflects management's confidence in a broadening economic recovery, our ability to implement our long-term growth strategy, and our effective management of the current supply chain and operational challenges. It also assumes there will be no significant pandemic-related restrictions in our major markets. As included in today's earnings announcement, Tennant affirms its guidance for the full year 2021 as follows: net sales of $1.09 billion to $1.11 billion, with organic sales rising at 9% to 11%; GAAP earnings of $3.45 per share to $3.85 per share, adjusted EPS of $4.10 per share to $4.50 per diluted share, which excludes certain non-operational items and amortization expense, adjusted EBITDA in the range of $140 million to $150 million, capital expenditures of approximately $20 million and an adjusted effective tax rate of approximately 20%, which excludes the amortization expense adjustment. With that, we will open the call to questions. Operator, please go ahead."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question comes from the line of Chris Moore with CJS Securities."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Good morning guys. Thanks for taking a few questions. Maybe just the big picture. I think at the beginning of fiscal 2021, the expectation was that revenue could approach pre-pandemic levels by the end of 2022. Most recently, you felt that you could get there perhaps by the middle of 2022. I just want to get your kind of take on that. Is that still at this point?"
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "That we're -- we drew some optimism from our Q2 experience. Our demand snapped back in a fairly dramatic fashion across our geographic markets, across channels, and across our product categories. So we feel really good about the demand coming in above expectations within the quarter. Having said that, it's still short of 2019 within the quarter. And so when you look at it from a trajectory perspective, we're still anticipating the first half of 2022 being the position where we cross -- crossed over into pre-pandemic demand level."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Got it. I appreciate that. Understanding, no crystal ball, but how would you characterize the current visibility on the -- both the supply chain and the input costs. I mean, for example, at this stage, do you expect improvement late in Q3? Or it's still going to likely continue to get more challenging into Q4?"
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Yes. Listen, it's a great question. That's one that we think about on a daily basis. I'll tell you the actions we've taken and relative to our guidance. So we are very close to our supply chain and working closely with our supply partners to understand what challenges they are trying to overcome. We've got our best forward-looking forecast for demand as well as a backlog that we're very interested in working down as quickly as possible. We're acknowledging the reality of the constraints that we have in our supply chain and operations, and that's reflected in our guidance. So the forward-looking view on when sort of recovery could occur, we don't see recovery in the foreseeable future. And so I don't want to get into projecting a quarter when things will improve, it's always difficult to tell. I'll just tell you that we have fully acknowledged the reality of the challenges we see today in our forward-looking guidance. And I'm really proud of the actions the team has taken to address the issues that we're aware of and can anticipate being a challenge for us as we go forward."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Got it. Appreciate that. And maybe just in terms of kind of the overall enterprise strategy, obviously, standardization of products is a huge focus, made a lot of progress there. Can you maybe just talk to kind of where you are in terms of reduction on the SKUs? And what really -- what's the longer-term goal there?"
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Yes. So we've made fantastic progress across our enterprise strategy, and you're highlighting one of the components, which is optimizing our portfolios. You look at some of the moves we've made at the enterprise level to exit businesses, divest businesses that were non-core and not accretive to where we're going to business. From a standardization process, we're standardizing across two facets, both in our models, but then also standardizing across our model portfolio and the individual products themselves, where we value engineering the products to use, harmonize and use more common components. We've made fantastic progress. We've got some internal targets that we are striving to achieve.\nWe've not pegged an end to that process and I'm not sure if you're ever done with that process. We've made significant progress over the last 18 months, and we've been public about the progress we've made. It will continue to be a focus for us as we go forward. We've mentioned that we had a 35% reduction in our models within our product portfolio. We're proud of that. That was a step change in our product portfolio, and we continue to refine that offering. At the same time, I think it's important to note, we are launching new innovative products, which represents new SKUs into our product portfolio. So really, it's a balance of the life cycle of our product, the new innovative products we're launching, and then enhancing our portfolio by pruning those and streamlining our offering in the existing portfolio."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Got it. Very helpful. Thanks for taking mine. Appreciate this."
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Thanks Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your next question comes from the line of Steve Ferazani with Sidoti & Company."
+    },
+    {
+      "speaker": "Steve Ferazani",
+      "speech": "Good morning everyone. You talked about the supply chain, supply chain challenges you're dealing with. Can you quantify that in any way in terms of sales you didn't generate in the quarter because of those supply chain challenge? Are you pushing everything to the right of this year? Or how do we need to think about that?"
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Yes. It's a tough one to quantify. I will tell you this, that, obviously, in a quarter where our demand snapped back above expectations, and we're experiencing significant supply chain and operational challenges, our backlog has grown. And so just -- I'll try to dimensionalize that. Our backlog is about 2 times normal levels. And so you think about that, that's a dramatic increase, and that's the number of customers that we would have hoped to have service in the quarter that we were not able to due to the constraints on the supply chain and the other challenges that we spoke to in the script."
+    },
+    {
+      "speaker": "Steve Ferazani",
+      "speech": "Okay. That's helpful. And then in terms of the, I know you haven't wanted to raise prices. You're kind of hesitant to do so. Now it sounds like that's something you'll move forward with. Can you talk about the timing on that the response from customers and what that might do to margins by Q4?"
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Yes. Let me take that. It's not that we haven't wanted to raise price, we're very respectful about raising price because price, there's a couple of things. One, it impacts your customer relationship. It takes your selling organization or selling organizations, time away from doing other activities like selling in new and innovative products. And so it's a -- price is a great thing from a financial perspective. But we have to make sure that the price increases we put through, we're able to command that premium. We're a premium-based product, and we have a fantastic value proposition. We have to make sure that we can command the premium that we publish. So it's not that we're hesitant to put in price. We want to make sure that we can sell it in and make it stick with our customers. So having said that, we have implemented a price increase.\nWe've announced it. We just recently announced. And so it's obviously early to gauge customer -- customer feedback about that increase. I would tell you, this is just my opinion. I don't think that anyone will be surprised. The challenge is that we're facing within our business are macro market challenges. So the market and our customers are broadly aware of these challenges. So I think they'll -- if they weren't expecting it, I don't think they'll be surprised we have in the conversation with this about the price increases. And I'll just add, I'm really proud of our customer-facing sales and service organization that have to carry this message. They do a fantastic job of selling in the price increase, demonstrating the value that we can deliver and having to stick with our customers."
+    },
+    {
+      "speaker": "Fay West",
+      "speech": "The one thing I would add is that, that we just recently announced these price increases due to the current backlog. We don't really expect a meaningful impact until the fourth quarter."
+    },
+    {
+      "speaker": "Steve Ferazani",
+      "speech": "Right. So you're not repricing, you're not repricing the backlog?"
+    },
+    {
+      "speaker": "Fay West",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Steve Ferazani",
+      "speech": "Okay. Fair enough. To switch topics a little bit. Obviously, the balance sheet keeps improving given the environment, how are you thinking about uses of cash over the next couple of quarters?"
+    },
+    {
+      "speaker": "Fay West",
+      "speech": "So our capital allocation priorities really remain the same, haven't changed dramatically. And first and foremost is reinvesting in our business to drive growth and to execute against our enterprise strategy. So that's priority #1. We are also managing our balance sheet and we want to be with the stated leverage target of 1.5 to 2.5 times because of the financial flexibility that we need that we'd like to maintain as well as optionality. We are always in support of our quarterly dividend. And we have a history of our dividends, and we'll continue to return capital to shareholders by way of dividend and potentially opportunistically share repurchases as we evaluate cash flow -- cash flow. And then lastly, is opportunistically evaluating what our opportunities are to enhance shareholder value through M&A. So those are our priorities."
+    },
+    {
+      "speaker": "Steve Ferazani",
+      "speech": "Yes. I have one last one in terms of if I know that you were lapping the big sales in the autonomous product for your first launch, given that in the last year, you've launched two more of the autonomous products. Can you provide any kind of color in terms of marketing sales, the two more recent autonomous products?"
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Let me put some color around that for you. So we are lapping a significant order with the world's largest retailers last year. We're very proud of that order. That took the majority of our capacity, frankly, our time to make sure that, that sold in really well and was deployed to the level our customers expected. I think it's worth noting that the large customers that -- the large customer orders were lapping have since reordered. I think that's an important proof point that the early adopters of the technology have seen the benefits and have bought back in. They're doubling down on the technology. It gives us confidence that we're on the right track. We since launched two additional products that you've noticed T380AMR and we are just in the process of launching our T16AMR.\nI would say the customer feedback for both of those products has been fantastic. The volumes they're talking about don't approach the levels of the orders we lapped last year, but we still have a significant customer interest in both of those products. I think the power of having a three product portfolio is that we can now address an extremely broad range of vertical market applications. We've trained up our global selling organization and have demonstration units that are deployed on a global basis. So we can now engage customers in virtually all of our important verticals in the robotics discussion and especially important -- I'm especially excited about the T16AMR because it gives us an entree into the industrial verticals.\nAnd when you think about robotics in an industrial vertical, it solves a very important compelling business problem for those customers as being labor shortage, while helping them keep it playing a keen and say, operating environment. And then on the industrial setting typically, you don't have the dynamic of having to worry about retail customers walking through your facility. Industrial customers tend to be more at depth at adopting automation and they have robots elsewhere in their facilities. So it's a really friendly environment to try to sell in robotics. We're getting fantastic customer feedback about all the products, especially the T16AMR. So we're very bullish on AMR. We're really proud of the fact that we had a couple of large customers and kudos to our selling organizations for landing in a couple of large customers right out of the gate, and now we're pursuing other customers on a global basis, still very bullish about AMR potential for the future."
+    },
+    {
+      "speaker": "Steve Ferazani",
+      "speech": "Great. Thanks Dave. I appreciate that."
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Can you have a follow-up question from the line of Chris Moore with CJS Securities. It appears that question was withdrawn. Since there are no further questions at this time, I would like to turn the call over to management for closing remarks."
+    },
+    {
+      "speaker": "David Huml",
+      "speech": "Thank you. Thank you again for joining us and for your interest in Tennant. I want to thank our global Tennant teams for all of their hard work and dedication in this extremely challenging environment. I couldn't be more proud of the team and how we're performing. This concludes our earnings call. Have a nice day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 30 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "William Prate--Senior Director of Finance & Investor Relations",
+    "David Huml--President and Chief Executive Officer",
+    "Fay West--Senior Vice President & Chief Financial Officer",
+    "Chris Moore--CJS Securities, Inc -- Analyst",
+    "Steve Ferazani--Sidoti & Company -- Analyst"
+  ]
+}

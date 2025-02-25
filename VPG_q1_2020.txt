@@ -1,0 +1,248 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and welcome to the VPG 2020 first-quarter results conference call. [Operator instructions] Please note that this event is being recorded. I would now like to turn the conference over to Steve Cantor, senior director of investor relations. Please go ahead, sir."
+    },
+    {
+      "speaker": "Steve Cantor",
+      "speech": "Thank you, operator, and good morning, everyone. Welcome to VPG's 2020 first-quarter earnings conference call. Our Q1 press release and accompanying slides have been posted on the VPG's website, vpgsensors.com. An audio recording of today's call will be available on the Internet for a limited time and can also be accessed on our website.\nToday's remarks are governed by the safe harbor provisions of the 1995 Private Securities Litigation Reform Act. Our actual results may vary from forward-looking statements. For a discussion of the risks associated with VPG's operations, we encourage you to refer to our SEC filings, especially the Form 10-K for the year ended December 31, 2019, and our other recent SEC filings. On the call today are Ziv Shoshani, CEO and president; and Bill Clancy, CFO.\nI'll now turn the call to Ziv for some prepared remarks. Please refer to Slide 3 of the quarterly presentation. Ziv?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Thank you, Steve. I will begin with some commentary on VPG's consolidated financial results and sales trends, the impact of the COVID-19 pandemic on our business, and the strategy and actions we have taken to mitigate that impact. Bill will provide financial details in the second-quarter 2020 outlook. Moving to Slide 3, I'd like to begin my remarks by commenting that VPG's team around the world for their hard work and for their dedication during these challenging times as they adjusted quickly to local restrictions and extraordinary working conditions.\nTheir commitment to meeting the needs of our customers has been truly exemplary. Moving to Slide 4, even in the rapidly changing market conditions over the past few months, and we are satisfied with our financial and operating performance in the first quarter. We have ended the quarter with a positive book-to-bill of 1.08 and grew our total orders 4.4% from the same quarter a year ago. Moving to Slide 5, I'll discuss the operational and EH&S impacts on VPG from COVID-19.\nAs the pandemic begin to unfold around the world, we took steps to keep our employees and customers safe. These measures included suspending business travel and enabling employees whose functions allowed to work from home effectively. We have also implemented workplace distancing and increased sanitizing common areas, as well as adjusting our work shifts to minimize contact with other employees. We know of four employees who tested positive for the virus.\nOf this, two have tested negative after the required quarantine period and two are currently under quarantine. As countries, states and local jurisdictions around the world implemented stay-at-home orders, we quickly made adjustments to maintain the continuity of operations while also complying with those regulations. While the majority of VPG's facilities were able to continue operations due to the essential nature of our products, our two facilities in India and in China were more significantly impacted. As we indicated in our earnings call in February, our facility in China was impacted by approximately three weeks by government-imposed restrictions.\nThat facility returned to production in mid-February when those restrictions were lifted. Our facility in India was also shut down beginning in late March as a result of stay-at-homes order imposed by our Indian government. While this order has been extended to May 17, we received approval to resume partial operations on our India facility. As of today, with the exception of our India facility, our supply chains and logistics network are functioning as we are able to meet our customers' needs.\nWe created an internal committee to monitor and manage the situation. Financially, we have implemented a companywide salary freeze and have reduced our planned capital spending for 2020 by 30%. Moving to Slide 5, in terms of the impact on demand for our products, one of VPG's strength is its broad diversity of VPG's markets, which is a major differentiator from other pure-play sensor technology companies during times of turbulent market conditions that we are seeing now. This breadth enables us to maintain our financial momentum within our segment as stronger end markets offset weaker ones.\nFor Foil Technology Products segment, first-quarter sales of $30.5 million grew 2.8% sequentially, reflecting growth in precision foil resistors and shrinkages in test and measurement and consumer markets, which offset weaker sales in the general industrial market. Order for FTP in the first quarter grew from the fourth quarter of 2019 and included significant order for advanced sensors, which resulted in our book-to-bill of 1.25 as compared to 1.18. First-quarter sales of Force Sensors of 14.7% -- $14.7 million declined 2.4% and from the fourth quarter of 2019, reflecting slower demand in the industrial weighing markets as well as modest impact from a temporary government-mandated shutdown of our China facility. Nonetheless, we saw growth in OEM-driven sales for precision ag and construction applications.\nWhile a book-to-bill for Force Sensors in Q1 was 1.02, we expect our second quarter sales for these products to be impacted by the essential shutdown of our manufacturing facility in Chennai, India that I mentioned earlier. Assuming the full reopening of this facility on May 17, we expect that our Force Sensors revenues in the second quarter to be reduced by approximately $5 million to $7 million, which is reflected in our guidance. We also expect our operating profit to be impacted by approximately $3.5 million, reflecting the lower revenues, the required payments to employees during the shutdown period and of some partial operations and higher logistics costs. Following the lifting of these restrictions, we anticipate we will be able to recover the majority of the revenue shortfall in future quarters.\nSales of Weighing and Control Systems in the first quarter of $22.5 million declined 7.9% sequentially. The decline in WCS sales was primarily due to the timing of the end user driven projects in the steel market, which offset modestly higher revenues for certain onboard weighing solutions. We expect to see lower revenue in the second quarter in WCS, primarily in the transportation market. Book-to-bill for WCS was 0.9 in the first quarter of 2020.\nAs the world contents with the residual impact from the pandemic on the business environment, we are confident in both our strategy and our strong financial position to weather these turbulent times. We believe we have ample liquidity with a net cash of $42 million on our balance sheet and a new revolving credit facility we put in place in March 2020 that not only gives us expanded borrowing capacity should we need it, but also offers us lower borrowing rates and more favorable terms. Given the high degree of uncertainty in the macro environment, we are focused on what we can control, which are our key strategic initiatives, to both grow our business and to reduce our operating cost. These initiatives, which are critical to our company's future, are intact and we are -- and we intend to be ready to realize their potential as the global economic environment normalizes.\nOn the growth side, we are moving forward with our FTP manufacturing project in Israel. As we have discussed, this project will support future growth of advanced sensors. While sales of these products were essentially flat sequentially, we have received large orders in Q1 in our other markets, such as consumer and medical. For the overload protection initiatives in Europe, our TruckWeigh and VanWeigh Solutions, which have already been tested by our key OEM truck and van manufacturers, and we have received very positive feedback.\nHowever, several of them have signaled that they are pushing out the implementation further into 2021, pending a return to a more normalized economic activity. Our aftermarket OEM sales for this product, which was expected to be booked in this year, was pushed into 2021. On the cost side, we have already implemented a number of initiatives over the past few years to consolidate our manufacturing footprint and to reduce our operating cost. We believe that these steps, which have been already contributed to the margin improvement in some key areas, will increase our operating leverage and financial returns once we see the return to more normalized economic condition.\nAs we continue to meet the challenges of the pandemic and as we can remain vigilant in protecting our employees and our customers, we are confident that we will successfully navigate to these challenges. This confidence is based on strong business model and financial position, our diverse set of markets, and the depth of experience of the VPG management team across the world. I'll now turn it over to Bill Clancy for some additional financial details. Bill?"
+    },
+    {
+      "speaker": "Bill Clancy",
+      "speech": "Thanks, Ziv. Referring to Page 7 of the slide deck. In the first quarter of 2020, we achieved revenues of $67.7 million, operating income of $4.6 million or 6.9% of revenues, and net earnings per diluted share of $0.24. On an adjusted basis, which excludes $515,000 of acquisition purchase accounting adjustments related to the DSI acquisition in November 2019 and $130,000 of restructuring costs, our adjusted operating income was $5.3 million or 7.8% of sales and our adjusted net earnings per diluted share was $0.29.\nOur first-quarter 2020 revenue declined 2.1%, compared to 69.1% -- $69.1 million in fourth quarter and were down 11.5% as compared to $76.5 million in the first quarter a year ago, which was also a historical high quarter for VPG. Foreign exchange negatively affected revenues by $600,000 for the first quarter of 2020 compared to a year ago and had no impact as compared to the Q4 of 2019. Our gross margin in the first quarter was 37%. Our gross margin on an adjusted basis was 37.8%, which improved from 36.8% in the fourth quarter of 2019.\nOur operating margin was 6.9% for the first quarter of 2020. Excluding the above-mentioned purchase accounting adjustments and restructuring charges, our first-quarter adjusted operating margin was 7.8%, which increased from 7.5% we reported in the fourth quarter of 2019. Selling, general and administrative expenses for the first-quarter 2020 were $20.3 million or 30% of revenues. This compares to $20.4 million or 26.7% for the first quarter of last year and $20.2 million or 29.2% in the fourth quarter of 2019.\nThe sequential SG&A in the first quarter reflected the inclusion of a full quarter of SG&A expenses for DSI. The adjusted net earnings for the first quarter of 2020 were $3.9 million or $0.29 per diluted share, improved from $3.7 million or $0.27 per diluted share in the fourth quarter of 2019. The impact of foreign exchange rates for the first quarter of 2020 was positive compared to the first quarter of 2019 by approximately $400,000 or $0.03 per diluted share. We generated adjusted free cash flow of $3 million for the first quarter of 2020 as compared to $4.8 million for the first quarter in 2019.\nWe define free cash flow as cash from operating activities with less capital expenditures plus any sale of fixed assets. The GAAP tax rate in the first quarter was 32.3%. We are assuming an operational tax rate in the range of 27% to 29% for 2020 planning purposes. We ended the first quarter with $82.7 million of cash and cash equivalents and total long-term debt of $40.6 million.\nAs Ziv mentioned, in March, we put in place a new revolving credit facility that gives us greater flexibility and lower interest expense as well as less restricted covenants. With a net leverage ratio of about one time, we believe that we have a strong balance sheet and ample liquidity to support our business requirements and to fund additional M&A opportunities. Turning to our outlook, given the expected impacts resulting from the COVID-19 pandemic, we now currently expect net revenues in the range of $56 million to $62 million for the second quarter of 2020, which assumes constant first-quarter 2020 exchange rates. In summary, while the COVID-19 pandemic continues to create uncertainty around the world, we are prepared to meet these challenges as we remain diligent in protecting our employees and our customers.\nOur strong operating model, financial position, diverse set of markets, combined with the commitment to our strategic initiatives, gives us confidence in our ability to not only successfully navigate these challenging times, but to accelerate our performance as conditions return to normal. With that, let's open the lines for questions. Thank you."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our first question will come from John Franzreb with Sidoti & Company. Please go ahead."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Good morning, guys. Congratulations on a good quarter."
+    },
+    {
+      "speaker": "Bill Clancy",
+      "speech": "Good morning, John."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "The first question is regarding the reduction in capex. Can you kind of put a number around what you expect the capital spending will be for the full year? And could you also discuss a little bit about how that's impacting the advanced sensor product line? What are your expectations on incremental revenue contribution, the timing of completing of the project, a little bit more detail there would be helpful."
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "So, John, initially, we have stated that the expected capital spending for 2020 is going to be around $33 million. During those times, we have decided to push out around 30%, which would reduce the capital spending to the low 20 numbers. The capital spending that has been pushed out was more equipment related, which was related for expansion for some product lines where our customers has pushed out the launch for our products as well as the India second flow expansion. We have not still -- all the capital spending, which are related to advanced sensors in respect to the construction and the transition to the new building in addition to all the capacity and the equipment that is expected to be put in place are all on plan.\nAnd at this point in time, we don't see any delays in transitioning to the new building, which is expected to be early in Q3 of this year, and we don't expect any delays in expansion or in cost reduction for all our major initiatives of the company for 2020."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "OK. Fair enough. And, Ziv, regarding India -- I guess two questions. One, what's your confidence level that you're going to be up on that -- the time line that you're talking about, mid- month? And secondly, do you expect to recover the lost orders there next quarter or it will be kind of playing over a couple of quarters or do you assume maybe some of that volume is just permanently lost?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "OK. Very good. So maybe we will start with the level of uncertainty we have in respect to reopening the plant on May 17th. As you know, John, we don't have a crystal ball, but what we hear in the field is that there is a high likelihood that our facility will be -- our facility and the whole industrial zone will now be back on track on May 17th.\nAnd the reason is that if we look at the initial shutdown that the Indian government has implemented, as of late March until May 4th, it was pretty much nationwide. Then the Indian government were looking at certain pockets where you have higher infection rates and lower infection rates. Fortunately, our facility and the industrial zone we are in, in Chennai, is marked yellow, which is not -- which we also considered as an infection rate, but not really to the highest degree, like a red zone, which other parts of India are marked like that. Therefore, we do believe that on one hand, this is a yellow zone, which means the infection rate is not so high.\nAnd given the situation and the measures that the Indian government take, and we do feel that there is a high probability that they will now reopen the complete industrial zone and to a full production as of May 17th."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "And? Go ahead, the second half of that question?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Regarding -- yes, the second half. Regarding looking, reviewing the current backlog of Force Sensors customer by customer, we have identified that the majority of the customers are an OEM customer. If you can recall, OEM customers is a sticky business. It's a design-in/win customers, where we have this unique position where we provide value-added to our customers.\nTherefore, we believe that the likelihood for being able to ship the product off, to produce and to ship the product to our customers is extremely high at this point in time. We are -- and given the fact that we also have ongoing discussions with the customers, some of our volume, whatever we can, will be transitioned to our Chinese facility. But given the fact that India represents 80% of the segment capacity or $0.04 of capacity and the fact that we have an open dialogue with our customers, we believe that there is a very high likelihood that the majority of the backlog, we'll be able to deliver to our customers. And now regarding the timing, it really depends how quickly we would be able to ramp up and to catch up.\nSo I don't believe we would be able, the complete backlog or the complete -- we would be able to offset or ship the complete backlog within a quarter. But I do believe that there is a very high likelihood that most of the catch-up could be done within the two quarters. And given the fact, again, that we would be able to reopen the facility on May 17th into a full production."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Perfect. That's exactly what I was looking for. And lastly -- I apologize if I missed this, did you mention anything about order tempo companywide in April? How that looked compared to March?"
+    },
+    {
+      "speaker": "Bill Clancy",
+      "speech": "No, John. We didn't give any in the script -- we did not give any guidance or referred to that at all."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our next question will come from Sarkis Sherbetchyan from B. Riley FBR. Please go ahead."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Hey. Good morning and thanks for taking my question here."
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Good morning, Sarkis."
+    },
+    {
+      "speaker": "Bill Clancy",
+      "speech": "Good morning, Sarkis."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "So first question's on the Force Sensors, kind of the revenue being down $5 million to $7 million in the second quarter. Is that sequentially from Q1 or is that year over year?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "No, this is sequentially from Q1, given our current backlog and given current market conditions."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "OK. And that's -- the same goes for the $3.5 million of operating profit, correct?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "The 3.5% operating profit pretty much consists of the majority of the shortfall of contribution margin we would not be able to get due to the fact that we have not -- we will not be able to ship the product and the fact that we will have to also continue to pay the employees during the shutdown time and smaller additional logistics costs."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Right. Got it. And in the FTP segment, you mentioned significant orders for advanced sensors. Obviously, the build-out continues.\nSo I guess, is there the ability to maybe quantify that or help us give kind of somewhat of a flavor of what that means?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "We did say -- we did indicate that quarter over quarter, advanced sensors' revenues are flat. And the fact is that on one hand, our traditional markets, which are industrial weighing, for example, under that falls also oil and gas and industrial automation are now way, way down. On the other hand, we have a very nice uptick in regards to consumer and medical. So in those two end markets were able to offset the significant drop in the other end markets, which have very much depressed in this environment."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "OK. And sorry if I missed this, but what were the revenues for advanced sensors?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "We did not disclose it, the revenues for advanced sensors, but we said that this is already -- I think in five quarters, we said it's already in the double-digit area but we have never provided a precise number."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "OK. I guess we can appreciate saying revenues for advanced sensors are flat, but not having the number attached to it makes it kind of hard for us to understand, looking under the hood, what that means. So as we think about consumer and medical being strong in that area, can you maybe talk about what type of application it might be hitting so that we can get a better sense for whether this is a unit volume growth story or whether you're taking market share to just kind of help us understand that."
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "OK. So regarding consumer, since as we indicated in the past, advanced sensors has unique features whereby only with our design, and we are really the only one who have a certain capability and abilities to produce certain form factor at a given cost with certain functionality. Therefore, on the consumer part, we have a unique position. Unfortunately, we are under disclosed NDA, so I will not be able to provide more information regarding the type of application.\nSo -- but regarding medical, we have many, many different new applications like infusion pumps and other applications, which are picking very nicely given the environment today."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "OK. Thanks for that. At least I tried. For DSI --"
+    },
+    {
+      "speaker": "Steve Cantor",
+      "speech": "Sarkis, this is Steve Cantor. Just want to add a little more color to what Ziv suggested. And just so it's clear, the book-to-bill in advanced sensors was a significant positive, so well over one in the first quarter. So that's including the puts and takes that Ziv described."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Thanks for that. Just moving on to the contribution from DSI in the first quarter. Can you maybe help us understand what sales contribution were and maybe profit contribution?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Sure. The DSI contribution in the first-quarter revenue-wise was $3.7 million. EBITDA -- adjusted EBITDA margin of 33.5%, which is $1.2 million and the gross margin level of 59%."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Wow. That's pretty good. Do you expect kind of that level of performance to continue or do you think you can extract some more synergies as you kind of integrate the business?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Well, DSI has been performing extremely well since we acquired them in Q4 of '19. As we move on, we have seen, and this is part of the nature of our business, some -- a little bit slower order intake, which was part of that. And we do believe that there will be a smaller effect in regards to some customers being -- and we will be pushing out deliveries due to the COVID-19 pandemic. So I do believe that the level of the integration, the cost reduction, are all in place.\nBut the revenue will be a little bit -- this will probably -- may change due to the COVID-19, which now means some of the orders that we had expected to book already in this coming quarter may be pushed by a quarter or two."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Got it. And I guess if you can maybe provide some broader color on the end markets, right? I mean you mentioned some of the more specific ones that are inside of the segments. But I guess if you step back and look at kind of the end markets, whether it's avionics, military space or test and measurement or just kind of industrial, and what looks like -- what looks exciting, call it, in the next few quarters? What looks like there may be continued challenges, and just kind of want to hear what you're seeing real time."
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Sure. So really from a high-level companywide perspective, we do see -- we have seen and we do see still a very strong demand in test and measurement, in particular, for the semiconductor equipment testing. We do see a strong demand, as I mentioned, on the consumer, specifically for advanced sensors, also on the medical part, we have seen very good order intake. For precision ag and construction, still might be more flat, while the downside or the weaker order intake on the industrial weighing and the general industrial, which consists of oil and gas, industrial automation and tooling for automotive.\nSo since VPG is highly diversified that we have some end markets, which are not performing so well, but on the other hand, we have in other end markets which are performing very well. So on a high level, one balance the other."
+    },
+    {
+      "speaker": "Sarkis Sherbetchyan",
+      "speech": "Great. Thank you so much for that. I'll hop back in."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our next question will come from Brett Hendrickson with Nokomis. Please go ahead."
+    },
+    {
+      "speaker": "Brett Hendrickson",
+      "speech": "Hey, guys. Good morning. This isn't why I was queuing up, but I just missed -- right before you said orders were flat in steel, what were the areas of strength, by the way, because I missed it in my notes."
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "The strength part of the company, the -- for the balance sheet test and measurement?"
+    },
+    {
+      "speaker": "Brett Hendrickson",
+      "speech": "Sorry, the test and measurement and what else?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Test and measurement, we speak about AMS, avionic, military and space; consumer for advanced sensors; and medical, all in all."
+    },
+    {
+      "speaker": "Brett Hendrickson",
+      "speech": "OK. Good. And advanced sensors was, I guess, where my original question was. Can you just remind us the new facility in Israel? You might probably rather talk about it on a unit basis.\nWhat's the capacity increase going to be versus your existing facility, I mean, when you get that fully up and running?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Currently, from an equipment capacity -- I mean, from a space capacity, we would be in a position to provide whatever is needed in respect to our market requirement, which could be, if you want to call it five times, seven time. From an equipment capacity, naturally, we don't buy the equipment ahead of time, but we would be able to ramp up fairly quickly for another 50 to -- 50 once we have transitioned to another 50% to some -- 50% of the current capacity, 50% to 60%."
+    },
+    {
+      "speaker": "Brett Hendrickson",
+      "speech": "Sorry, Ziv, so -- if I'm not following. So you're going to have five to seven times the space, and you could -- if you needed to, you could quickly fill up half of that space with equipment?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "No. Currently, we are configuring the products that we are going to utilize the space in a very efficient way. Naturally, as we are going to put more and more of the equipment in place, there will be some internal reorganization where we would be able to provide more capacity as needed. Regarding -- there is a certain area where we may have some extra space, which we intend, at this point in time, to lease out in order to capture the revenue until the demand is going to -- until the demand is going to be provided.\nAnd so to summarize that the complete facility is going to be utilized in an optimal way since day 1."
+    },
+    {
+      "speaker": "Brett Hendrickson",
+      "speech": "Good. Good. And can you clarify what you said about the -- I know you don't want to give the exact amount in the quarter of advanced sensors revenue, but can you quantify what you said to Sarkis about the historical advanced sensors revenue?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "I think that the -- during the prior quarters, we have been speaking about some high teens. And since then, we are beyond that but I have not provided more color on that."
+    },
+    {
+      "speaker": "Brett Hendrickson",
+      "speech": "And you're speaking on an annualized basis?"
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "On an annualized basis, yes."
+    },
+    {
+      "speaker": "Brett Hendrickson",
+      "speech": "OK. Great. OK. I'll talk to you guys offline.\nThanks for the time, Ziv."
+    },
+    {
+      "speaker": "Ziv Shoshani",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Steve Cantor for any closing remarks. Please go ahead, sir."
+    },
+    {
+      "speaker": "Steve Cantor",
+      "speech": "Before closing, I want to let listeners know that we will be participating in Baird's Virtual Investor Conference on June 4. There'll be more information on that posted on our website. And with that, we'll now close the call, and thank you all for participating. Have a good day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 42 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Steve Cantor--Senior Director of Investor Relations",
+    "Ziv Shoshani--Chief Executive Officer and President",
+    "Bill Clancy--Chief Financial Officer",
+    "John Franzreb--Sidoti and Company, LLC -- Analyst",
+    "Sarkis Sherbetchyan--B. Riley FBR -- Analyst",
+    "Brett Hendrickson--Nokomis Capital LLC -- Analyst"
+  ]
+}

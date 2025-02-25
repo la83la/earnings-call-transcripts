@@ -1,0 +1,228 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, ladies and gentlemen, and welcome to the Black Hills Corporation Fourth Quarter and Full-Year 2019 Earnings Conference Call. My name is Daniel and I will be your coordinator for today.\n[Operator Instructions]\nAs a reminder, this conference is being recorded for replay purposes. I would now like to turn the presentation over to Mr. Jerome Nichols, Director of Investor Relations of Black Hills Corporation. Please proceed, sir."
+    },
+    {
+      "speaker": "Jerome E. Nichols",
+      "speech": "Thank you, Daniel. Good morning, everyone. Welcome to Black Hills Corporation's fourth quarter and full-year 2019 earnings conference call.\nLeading our quarterly earnings discussion today are Linn Evans, President and Chief Executive Officer, and Rich Kinzley, Senior Vice President and Chief Financial Officer.\nDuring our earnings discussion today, some of the comments we make may contain forward-looking statements as defined by the Securities and Exchange Commission. And there are a number of uncertainties inherent in such comments. Although we believe that our expectations and beliefs are based on reasonable assumptions, actual results may differ materially. We direct you to our earnings release, Slide 2 of the investor presentation on our website, and our most recent Form 10-K and Form 10-Q filed with the Securities and Exchange Commission for a list of some of the factors that could cause future results to differ materially from our expectations.\nI will now turn the call over to Linn Evans."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you, Jerome. Good morning everyone and thank you for your interest in Black Hills today.\nBefore we dive into our results, I want to start this meeting as we do with all meetings within Black Hills with the safety focus. I'd like to do that by recognizing our coworkers at our Pueblo Airport Generating Station in Colorado. They recently achieved the coveted status as a Star Worksite as part of OSHA's Voluntary Protection Program. This is the highest status given by the program and requires a three-year rigorous process that's focused on creating a strong safety plan, executing on that plan and successfully completing a thorough audit by OHSA. In December, our team proudly raised the Star Worksite Flag at the Pueblo Airport Generating Station. The safety focus by our Pueblo team through their proactive planning and execution, moves us toward our goal of being the safest utility in the industry. I'd like to pause and say very well done.\nStarting on Slide 5. We reported solid operational and financial performance in 2019 and our team executed our customer-focused strategy to grow long-term value for both our customers and our shareholders. We continue to deliver safe and reliable service. We invested in significant capital to serve our customers' needs. We rolled out innovative growth solutions, and we made progress on key regulatory initiatives during the year. As a result, and as a team, we delivered earnings above our guidance midpoint in 2019. Our team delivered on our core responsibility of providing safe and reliable service to our nearly 1.3 million utility customers. We successfully executed our capital plan, investing $850 million of capital in 2019, the majority targeted toward safety and system integrity.\nWe made solid strategic progress accomplishing a number of long-term goals. In addition to successfully executing our capital investment program, despite challenging weather conditions, our team further refined our programmatic approach and long-term plan. We rolled our five-year capital plan forward adding our current capital forecast for 2024. We advanced our regulatory strategies making progress on the consolidation of our gas utilities, and planning for long-term capacity needs at our electric utilities. We implemented two innovative renewable energy solutions for our customers' needs, which also provided unique growth opportunities.\nOur board prepared for retirements with the appointment of two new directors in November, expanding the diversity and experience of our board. We maintained our solid investment grade credit ratings, with all three rating agencies affirming our debt ratings with a stable outlook in 2019. We completed 49 consecutive years of annual dividend increases. Our dividend track record illustrates our legacy of long-term and sustainable growth. We are on track to celebrate this year a milestone of 50 consecutive years of annual dividend increases, one of the longest track records in the electric and gas utility sectors. It's certainly notable for any company to consistently pay dividends for 50 years, but remarkable to increase dividends for that many consecutive years.\nMoving on to Slide 6. I'll cover some recent highlights, starting with the electric utilities. I'm pleased with our customers' response to our Renewable Ready subscription-based program with strong demand leading us to expand the program. In December, we obtained approval to increase the program in the related Corriedale wind project to 52.5 megawatts from 40 megawatts, with a revised capital cost of $79 million.\nMoving to Colorado, with our new Busch Ranch II wind project now in service, our southern Colorado system is on track to deliver 30% of our customers' energy from renewable resources in 2020. This will help us meet the state's renewable energy standard. We are further supporting Colorados emissions reduction goals with our Renewable Advantage program, which could increase our renewable generation mix up to 60%. On December 13, we kicked off the program by issuing an RFP to potentially add up to 200 megawatts of cost effective utility-scale renewable energy resources. This will be reviewed by an independent evaluator under oversight by the Colorado Public Utilities Commission. Our southern Colorado customers are currently served by wind and solar renewable generation supported by our reliable and flexible natural gas-fired generation that will support the addition of more renewals.\nIn Wyoming, we recorded a new all-time winter peak load in December for the second consecutive year, demonstrating continued overall customer and demand growth. This winter peak confirms our strategy to operate a diversified generation mix, given that the last two winter peaks occurred on days with zero wind energy available to serve customers.\nMoving to our natural gas utilities highlights. In December, we completed the 35-mile Natural Bridge pipeline project for our Wyoming gas customers on time and on budget. The project enhances supply reliability and capacity for our customers in central Wyoming and it's just one of the large capital projects we successfully completed for customers in 2019. We also continue to advance our efforts to consolidate and simplify natural gas utilities in Colorado, Nebraska and Wyoming to better and more efficiently serve our customers. In Wyoming, we received approval of a settlement agreement that completed our consolidation efforts in the state. The approval allows for statewide customer rates and to consolidate general tariffs effective March 1 of 2020.\nThe agreement also approved a general rate increase to recover approximately $150 million of investments in the state, including the Natural Bridge pipeline. The agreement also establishes a new rider to support system integrity investments. We are also advancing consolidation efforts for Nebraska. Legal consolidation was approved and completed effective January 1, 2020. We are now preparing for a rate review filing mid-year to consolidate rates to recover investments for customers in the state. In Colorado, an ALJ submitted recommended decision, which would deny our plan to consolidate rate territories, and adopted adjustments that would result in a rate decrease. We are disappointed in this recommendation and we have filed exceptions as part of the administrative process.\nWe continue to remain confident that consolidation will benefit customers by providing more efficient service to customers, and would greatly simplify regulatory processes over the long term. We believe strongly in our plant in Colorado and will continue our efforts with the regulator to streamline our operations on behalf of our customers in that state.\nMoving to our Power Generation segment on Slide 7. We filed an application last August, with the FERC asking for approval of the 60 megawatt power purchase agreement between our Power Generation segment and our utility affiliate. We filed answers to questions from FERC in late December and currently anticipate a decision in the latter part of February. On November 26, we placed our Busch Ranch II wind project in service. The $71 million 60 megawatt wind project is contracted to serve our Colorado Electric utility through 2044. Our Power Generation segment was selected in 2018 through a competitive bidding process to support Colorado's renewable resource goals\nI've already highlighted our dividend track record and new board members. So with that, I'll turn it over to Rich for our financial update."
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Thanks, Linn, and good morning everyone.\nI'll start on Slide 9. As Linn noted, we delivered strong fourth quarter financial performance, driving our full-year EPS to the upper half of our 2019 guidance range. Fourth quarter EPS as adjusted was $1.13 compared to $1.05 in Q4 2018, reflecting 13% increase in adjusted net income, partially offset by 5% share dilution. Full-year 2019 EPS as adjusted was $3.53, compared to $3.54 in 2018, reflecting 9.2% increase in adjusted net income, offset by 9.5% share dilution.\nI'll discuss operational earnings drivers by business segment in a few slides, but we'll address consolidated weather earnings impacts here. Weather favorably impacted consolidated results compared to normal in both 2018 and 2019. In the fourth quarter of 2019, we estimate weather favorably impacted EPS by $0.04 compared to normal, which was $0.02 less favorable in the fourth quarter 2018. For full-year 2019, we estimate weather favorably impacted EPS by $0.06 compared to normal, which was $0.03 less favorable than 2018.\nOn Slide 10, we reconcile GAAP earnings to earnings as adjusted, a non-GAAP measure. We do this to isolate special items and communicate earnings that we believe better represent our ongoing performance. This slide displays the last five quarters and trailing 12 months as of December 31, 2018 and 2019, and demonstrates the seasonality of our earnings. In the third quarter of 2019, we recorded a non-cash pre-tax impairment of $20 million or $0.25 per share after tax related to an investment in a privately held company. We covered that in our third quarter earnings release. Special items in 2018 not reflective of our ongoing performance were all income tax related. The first item reflected the impact of the Tax Cuts and Jobs Act during 2018. The second and larger item related to tax benefits and legal restructurings completed in 2018. The impairment in 2019 and tax-related items in 2018 are not indicative of our ongoing performance in accordingly we reflect them on an as adjusted bases.\nSlide 11 is a waterfall chart illustrating the primary drivers of our earnings results from Q4 2018 and Q4 2019. All amounts on this chart are net of income taxes. I'll add more detail by segment on Slide 13, but at a high level, our Electric Utilities, Gas Utilities and Power Generation segments had solid gross margin improvements compared to Q4 last year. Total O&M increased by less than 1% reflecting solid cost management during the quarter. Depreciation increased as a result of increased plant in service from our customer focused capital investment program. Interest expense was flat compared to Q4 2018. Other expense was higher than last year due to development costs of approximately $5.4 million related to the projects we no longer intend to construct.\nWe experienced favorability in our effective income tax rate in Q4 2019 compared to the prior year, when excluding the special items I discussed on the previous slide. Our effective tax rate for the quarter was 9.3%, compared to 18.8% last year, again excluding the special items. The reduced effective rate in Q4 2019 was driven by a tax benefit from a federal tax loss carry-back claim higher production tax credits from our new wind generation assets, and increased repair and development credits.\nSlide 12 is a waterfall chart comparing full-year 2019 to 2018. Consistent with our Q4 waterfall chart on the previous page, all amounts here are net of income taxes. Our Electric Utilities and Gas Utilities both had strong gross margin improvements compared to last year, while our non-regulated margins were relatively flat year-over-year. Total O&M increased by 3%, reflecting prudent cost management over the full year. Depreciation expense increased as a result of increased plant and service from our customer-focused capital expenditure program. Interest expense was slightly higher than 2018. Other expense was higher than the last year due to development cost I mentioned on the last slide. Our effective income tax rate in 2019 was 13%, compared to 17.6% in 2018, when excluding the special items I discussed earlier.\nThe reduced effective tax rate in 2019 was driven primarily by federal production tax credits and a state investment tax credit on our new wind farms, and from the tax benefit from a federal tax loss carry-back claim.\nOn Slide 13, segment operating income results for the fourth quarter are compared to the prior year. I'll make a few comments here and you can find additional details on Q4 year-over-year changes in gross margins and operating expenses in our earnings release. At our Electric Utilities, operating income for Q4 2019 increased by $2.3 million compared to Q4 2018. Gross margins increased by $5.8 million, driven primarily by higher industrial demand, lower purchased power capacity costs and rider recovery. Operating expenses increased $3.5 million over Q4 last year, due to higher employee costs and depreciation expense.\nAt our Gas Utilities, operating income for Q4 2019 increased by $4.3 million compared to 2018. Gross margins increased by $3.7 million, benefiting from customer growth in our service territories, higher transport and transmission margins and new rates. These benefits were partially offset by unfavorable weather compared to Q4 last year. Heating degree days were 2% above normal for the quarter, but 3% lower than Q4 2018. Operating expenses decreased by $0.5 million, primarily from lower outside services and employee costs, partially offset by higher depreciation.\nOn the bottom half of Slide 13, at our Power Generation segment, operating income for Q4 2019 increased $1.9 million compared to Q4 2018. Revenue increased in 2019, due to higher contract prices received and increased generation from our new wind generation assets we added this year. Operating expenses increased due to higher depreciation and property taxes from those new wind assets. The primary earnings benefit from our new wind projects comes through reduced income tax expense due to the federal production tax credits we receive from these projects. Operating income at our Mining segment was comparable to the prior year.\nOn Slide 14, segment operating results for full-year 2019 are compared to the prior year. Again, I'll make a few comments here and you can find additional details on year-over-year changes in gross margins and operating expenses in our earnings release. At our Electric Utilities, operating income for 2019 increased by $4.4 million compared to 2018. Gross margins increased by $17 million, driven primarily by lower purchased power capacity costs, regulatory settlement in the prior-year Wyoming Electric and rider recovery. Operating expenses increased $12 million over last year, primarily due to higher employee costs, higher outside service expenses and higher depreciation expense.\nAt our Gas Utilities, operating income for 2019 increased by $4.8 million compared to 2018. Gross margins increased by $21 million, benefiting from new rates, customer growth in our service territories, and higher transport and transmission margins. These benefits to gross margin were partially offset by unfavorable weather compared to last year and changes in unrealized mark-to-market gains and losses on commodity contracts. Last year, we had a gain of $1.6 million on these contracts, and this year, we had $1.7 million loss. Heating degree days were 5% above normal in 2019, compared to 2% above normal in 2018. This benefit to gross margins was offset by excessive precipitation that negatively impacted irrigation loads for agricultural customers in our Nebraska gas service territory during the second and third quarters of 2019.\nIn total, for the year, we estimate weather adversely impacted margins at the Gas Utilities by $2.2 million compared to the prior year, but was favorable by $2.7 million when compared to normal. Operating expenses increased by $16 million from higher outside services, employee costs, property taxes and depreciation.\nOn the bottom-half of Slide 14 at our Power Generation segment, operating income for 2019 increased $2.2 million when compared to 2018. Revenue increased in the current year due to higher contract prices received and increased wind generation, but was partially offset by higher operating expenses from higher depreciation and property taxes on the new wind assets. As I mentioned previously, the primary earnings benefit from our new wind projects comes through reduced income tax due to the federal production tax credits we received on these projects.\nOperating income at our Mining segment decreased by $3.7 million compared to the prior year. The decrease from the prior year was driven primarily by planned and unplanned outages at the Wyodak Plant, which negatively impacted sales at the mine.\nSlide 15 shows our financial position through the lens capital structure, credit ratings and financial flexibility. Our credit ratings remain at BBB+ at both Fitch and S&P, and Baa2 at Moody's, with a stable outlook at all three agencies. We remain committed to maintaining our strong investment grade credit ratings. Given low interest rates and favorable market conditions, we issued $700 million of new long-term public debt in early October to pay off maturities we had upcoming in 2020 and 2021. And we are in good shape from a debt maturity and liquidity perspective. At December 31, our net debt-to-capitalization ratio was 59.6%, slightly higher than where we were at the end of 2018, mainly due to our 2019 capital investment program of $850 million. We issued $100 million of equity through our at-the-market equity offering program in 2019 to help fund our capex. We expect to issue $100 million to $120 million of equity through our at-the-market program in 2020, an increase of $20 million on each end of the range from our prior guidance.\nThe additional equity helps fund our increased capital investment as we increased our capex from the previous disclosures by $76 million for 2019 and 2020 combined, and by $112 million in total for 2019 through 2023. While debt-to-total capitalization will likely remain in the 58% to 59% range through 2020, given our plan to invest $669 million in capex in 2020, we continue to target a debt-to-total cap ratio in the mid-50s over the longer term. Linn will speak to our capex program shortly.\nSlide 16 illustrates our dividend track record. As Linn mentioned, we are on track to deliver 50 consecutive years of increased dividends in 2020 and we've grown the dividend at a strong rate in recent years with $0.12 annual increases in 2018 and 2019, demonstrating our confidence in our future earnings growth potential. We maintain our dividend payout ratio target of 50% to 60% of EPS.\nI'll turn it back to Linn now for his strategic overview."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you, Rich.\nMoving to Slide 18. Our customer-focused strategy grows long-term value for customers and shareholders. We are focused on being ready for our customers' needs for safety, reliability, growth and a positive experience. As we grow, we continue to adapt to enhance the value of our services. We are aligning our people, processes, technology and analytics to serve our customers and grow our company. A prime example is our programmatic-based approach to safety and integrity investment to align all of our stakeholders, a long-term approach not only prioritizes investment by risk and customer need, it provides clarity and consistency. A clear line of sight creates more predictable operational, financial and regulatory processes. Being ready for our customers is being ready for our shareholders. As we invest in responsibly growing the value of our service to customers, earnings grow alongside our customers and communities through a sustainable foundation.\nBased on the system needs across our expansive infrastructure, we expect to deliver long-term earnings growth above utility average. We also expect to realize incremental growth opportunities from generation and other larger projects. Combined with our disciplined approach to dividend growth, long-term shareholder returns are expected to remain strong.\nSlide 19 illustrates the strategic diversity of our utility business and the seasonality of our earnings. You'll note that our fourth and first quarter earnings are driven by the gas utilities, while the third quarter typically has stronger electric utility results. You will also note that last quarter, we started providing in greater clarity of our diversity by including rate-based estimated by state as of the end of the prior year. The chart on the right illustrates this and is updated as of year-end 2019.\nSlide 20 further illustrates our strategic diversity. Our expansive electric and natural gas systems require significant investment to maintain, upgrade and modernize at certain customers. In addition, our presence across eight states also delivered a strong base of growth opportunities.\nForecasted capital needs are illustrated on Slide 21. Over the next five years, we are focused primarily on projects and initiatives that maintain safety and reliability, and foster customer growth. You will note that our forecasted investment far exceeds depreciation, which will translate to future earnings growth. In 2019, we completed $850 million of capital investment, exceeding our forecast mainly due to availability of contractors and materials, and the relatively mild weather that supported construction progress toward the end of 2019. We have rolled forward our five-year capital investment forecast through 2024 for a new total of $2.7 billion. We added an incremental $82 million for 2020 to 2023, and provided an initial forecast of $470 million for 2024. Our incremental capital included $22 million for the investment necessary to expand the Corriedale Wind project to the newly approved 52.5 megawatts.\nAs noted in prior quarters, we take a relative conservative approach to our capital forecast. We include opportunities we are relatively certain to occur and we add capital as we gain more clarity and comfort around incremental projects to support customer growth. We anticipate that additional capital opportunities are likely over the planned period, especially in the outer years.\nSlide 22 illustrates our capital plan is utility-focused with timely recovery on most of these investments. You'll note that 94% of our new five-year capital forecast is in our utilities with 78% of those investments receiving timely recovery.\nSlide 23 illustrates our commitment to managing our environmental and social impacts, while maintaining strong governance and ensuring we continue to deliver a sustainable and strong future for all our stakeholders.\nSlide 24. We are focused on operational excellence and serving our customers. Our team's safety performance continues to be better than the industry average, but any injury is still one to many. It's worth mentioning again that I'm proud of our team's performance in Pueblo to achieve OHSA's Star Worksite status. In terms of reliability, we are very pleased that all three of our electric utilities are in the top quartile of reliability in 2018, the result of a persistent team effort and focus on serving our customers reliably.\nSlide 25 illustrates results of executing our customer-focused strategy, delivering strong long-term total will shareholder returns. On Slides 26 and 27, you'll find our 2019 and our 2020 scorecards. To hold ourselves accountable to you, our shareholders, and our customers, we publish our major initiative scorecard each year. We group our strategic goals into four major categories, profitable growth, valued service, better every day and great workplace, with the overall objective of being an industry leader in all we do.\nTo recap 2019, we invested significant capital to serve our customers. We developed innovative energy solutions and we're advancing our long-term customer-focused strategy across all areas of our business. We managed a lot of moving parts, but that's what we do best, take care of the details, be ready for our customers' energy needs.\nThat concludes our prepared remarks, and we are happy to entertain questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nOur first question comes from Julien Dumoulin-Smith with Bank of America. Your line is now open.Good morning, guys. This is actually Ryan Greenwald on for Julien. Thanks for taking our questions."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "So on Slide 22, with the 78% timely recovery, does that take into account the unfavorable decision in Colorado?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Technically, no. That's an ongoing process. We'll see where that ends up, but it's a smaller rate request on our part. So it would move those numbers much anyway, however it comes out."
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "That rate increase request with about $2.5 million."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "And do you guys have clarity on what rate decrease would be if the decision is approved?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "No, not really. There are overcapacity of recommendations in the ALJ's recommended decision. We've made -- yeah, we filed our exceptions to that and are working our way through the process."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Got it. And then are you able to provide any color in terms of the split in Colorado with RMNG and then the consolidated entities?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Please ask that question again."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "In terms of how you guys are thinking about capex spend in Colorado between RMNG that has the rider and then the consolidated entities?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Yeah. RMNG is separate from -- we're requesting to consolidate the two Colorado Gas Distribution -- LDCs. Rocky Mountain Natural Gas is separate."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Are you able to provide color in terms of the capital for the state, the breakout between the two?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "We have not broken that out. We include Rocky Mountain Natural within -- just the Colorado Gas total."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Got it. And then just lastly, in terms of the incremental equity, what are your latest thoughts on the out years and how you're kind of thinking about that?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Yeah, what we've said in the past couple of quarters is, there are incremental capex additions. You're probably going to see $0.25 to $0.30 on the $1.00 of incremental equity. And if you think about the additional capex we added for 2019 and 2020, it is about $76 million. We increased our mid-point of our equity needs this year by $20 million. So that's about that ratio."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Got it. Thanks for the time."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you, Ryan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Michael Weinstein with Credit Suisse. Your line is now open."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Hey, good morning, guys."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good morning, Mike."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Hey, just on that last -- just to follow up on that last question. So would that imply that a normal equity I guess starting point every year is around that $60 million to $80 million mark? And maybe it goes up from there as more capital projects are added?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "No. I think if you look at our capex after 2020, Mike, there's probably minimal equity needs for the capex we've disclosed after 2020. There may be little in 2021, again to keep healing the balance sheet up a bit, but really significant equity needs based on the disclosed capital after 2020. But as we add capital, that's where the incremental in the $0.25 to $0.30 on the $1.00 of equity will come in. That make sense?"
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Yeah, that makes sense. And in terms of payout ratio, you guys are, I guess, close to the top-end of your targeted range. Is that -- you would expect that to come down into the middle of the range over time as earnings grow, or what are you thinking there?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Well, we've raised the dividend $0.12 each of the last two years. We would anticipate to continue to grow the dividend, probably at a rate like that assuming the board keeps improving the dividend increases. So I would expect the payout ratio to start to decrease as we get past 2020. So that should give you some indication of where we're thinking about earnings growth."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Got you. And in terms of the debt ratio, I know you're still targeting a mid-50s type debt ratio over time. But are you actually under any pressure from the rating agencies to lower it? Higher leverage is always a nice thing, I suppose. Are you under any pressure from regulators to lower?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Well, not on the rating agency side, Mike. Not really. We're in good shape there, we believe. Our other metrics such as FFO and so forth are all in a great shape. It's really more about the regulatory construct and we'd like to get that down, closer to the mid-50s for those outcomes."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Hey, one question on Wygen. Hypothetically speaking, if the ball is thrown back in your court on contracting or getting a competitive price for contracts, would you reconsider rate basing at that point? Is that something that you might revisit if you had to?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good question, Mike, and thank you for it. We have a number of options. Of course, we hope that FERC will improve the current PPA that we have proposed. We anticipate hopefully hearing from FERC if they follow their normal routine, about the end of this month, in February. But as you said, hypothetically, our team is focused on your what if. What if we don't get the approval from the FERC? And if you look at it from utilities perspective, there's about 60 megawatts of capacity need that will immediately come up on us at the end of 2022, early 2023. And so, our team is considering a number of options with respect to what we might do with Wygen I and how we might meet that need -- that capacity need on behalf of our Cheyenne Light customers. If you look at it from the generation perspective, there's a couple of agreements that we put into our 10-K with respect to 50 megawatts of capacity that's expiring -- the PPA that's expiring late 2023.\nWe also have an all requirements contract with another utility that expires around that time. So we will go through the process of the integrated resource plan. We plan to file that next year. And so with that process, we'll learn about capacity within our part of the country, etc. But it's -- worst-case scenario, we would probably have to build something else for Cheyenne Light, perhaps another natural gas plant, something of that nature. Again, we'll decide that through the IRP process. We'll see what the opportunities are with respect to capacity in the last, at that point as well."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Okay, all right. Thank you very much."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nOur next question comes from Vedula Murti with Avon Capital. Your line is now open."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good morning, Vedula."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Following-up a little bit on Wygen and FERC. During this process, one of the issues you had highlighted was the fact that there were very few market transactions on which to base evaluation to present to FERC. Is the transaction that's being proposed by Northwestern with regards to purchasing coal strip -- a portion of coal strip considered in market data point, that would be considered by FERC in evaluating the PPA?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "In my opinion, no, Vedula. Not at all. In fact, that's why we filed the application we did file. As you may recall, we entered into a contract to PPA with the City of Gillette actually using Wygen I. So our position in front of FERC is that that meets the quote-unquote EDGAR test. And that should hopefully give us enough evidence for FERC to approve the PPAs that we have before them. But no, we don't considering the $1.00 that Northwestern paid for the capacity of coal strip would be really a viable option for FERC to consider."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Okay. So, you expect a decision from FERC by the end of the month?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Well, potentially, if they follow their normal 60-day rule if you will, or practice. We filed the responses to two questions they asked us right before Christmas, December 23. And so, if they follow their normal practice, we would expect something in the -- yes, late February, perhaps."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Okay. And can you give me -- maybe you've discussed this before and I just don't recall. What's the context around the issue about not wanting -- in Colorado, about not consolidating the two gas utilities in terms of the current pilot that's pending? And at this point, what is the timeline for a final CPUC order?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good questions. In terms of the process and where we are, we have filed exceptions to the -- ALJ's recommended decision. We also filed comments or responses to exceptions that were filed by other interveners. As we look at the procedural schedule, technically and legally, we can put new rates into effect in the core to our allocation on March 1. So with that understanding, it's our anticipation that either the ALJ or the Commission, either one could pick up the exceptions that have been filed and then determine a decision on the pending case.\nAs to consolidation, we think it's the absolute right thing to do. We were very fortunate in Wyoming, the way we were treated there and that's -- we're going to have great success there. It's going to really streamline both the Commission's efforts and our efforts in that state. And we hope that Colorado will soon follow suit. Should they not, I think we're probably in a position where we file yet another request and another rate application to continue to pursue that opportunity."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "So for rates to go into effect on March 1, when would a decision need to be issued by the CPUC?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "We really don't know, Vedula. It's kind of the point, is that timeline that's certainly within the procedural process. So we anticipate perhaps the Commission can pick it up essentially any day."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Okay, thank you."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. With no further questions, I will return the call back to Linn Evans for closing remarks. Please go ahead, sir."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you very much for your interest in Black Hills. And I really thank our coworkers for delivering a fantastic 2019. And looking very forward to our success in 2020. So I want to make sure to just thank our coworkers so much what they do for our customers and our shareholders each day. And thank you for your interest in Black Hills. And have a safe day. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 41 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Jerome E. Nichols--Director of Investor Relations",
+    "Linden Evans--President and Chief Executive Officer",
+    "Richard Kinzley--Senior Vice President and Chief Financial Officer",
+    "Ryan Greenwald--Bank of America Merrill Lynch -- Analyst",
+    "Michael Weinstein--Credit Suisse -- Analyst",
+    "Vedula Murti--Avon Capital -- Analyst"
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. My name is Tom and I will be your conference operator today. At this time, I would like to welcome everyone to the Lindsay Corporation Second Quarter Fiscal Year 2021 Earnings Call.\nDuring this call, management may make forward-looking statements that are subject to risks and uncertainties which reflect management's current beliefs, estimates of future economic circumstances, industry conditions, company performance and financial results. Forward-looking statements include the information concerning possible or assumed future results of operations of the company and those statements preceded by, followed by, or including the words, expect -- words, expectation, outlook, could, may, should, or similar expressions. For these statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. Please note this event is being recorded.\nI would now like to turn the call over to Mr. Randy Wood, President and Chief Executive Officer. Please go ahead."
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Thank you and good morning everyone. Welcome to our second quarter earnings call. With me today is Brian Ketcham, our Chief Financial Officer, and before Brian gets into the details of our second quarter results, I'd like to share some opening comments.\nIn the area of innovation, we continue executing key elements of our smart pivot platform with our strategic partners Microsoft and Taranis. We're leveraging new technologies, including edge computing to improve the speed and accuracy of image recognition used for economic analysis and machine health diagnostics. This will give customers the peace of mind and security they need and continue to move towards autonomous management of both the crop and the machine in the field.\nWe've also announced the release of our new RoadConnect platform in the Infrastructure segment. This allows us to leverage many of the same hardware elements from our FieldNET and remote monitoring product lines to improve speed to market and reliability. This platform will provide states, municipalities and other stakeholders with the ability to remotely monitor a broad range of assets on our road ways to improve safety and service.\nIn the Environmental, Social and Governance or ESG space, we continue to make great progress on many of our initiatives. Back in March, 2018, we hosted our Water Matters event where we set a goal of helping our customers around the world save over 700 billion gallons of water and can serve over 1.2 billion kilowatt hours of energy through fish and irrigation tools like FieldNET Advisor. We're pleased to confirm that we're on track to meet our water savings goal and will exceed our energy savings goal by over 80% allowing us to remove more than 3.5 billion pounds or 1.6 million metric tons of carbon from the atmosphere. That's equivalent to the annual emissions from over 330,000 passenger vehicles.\nWe've also launched our internal ESG Council focused on addressing both the sustainability of our internal operations and the operations of our customers engaged in Transportation Safety, Traffic Management and Agricultural production. We will release our next sustainability report later this spring and we'll have more to share on our strategy and specific goals as they are finalized.\nWe continue to follow safety protocols in all of our facilities as part of our pandemic response plan. Currently all nine factories are operational and running and we are maintaining our work-from-home option for roles that can be performed remotely. As we stated in the past, safety is non-negotiable for us, so we'll continue to make decisions that keep our employees safe.\nI would like to take a moment and acknowledge and recognize our team for their continued focus and execution through the global pandemic. The business essential nature of our work in transportation, safety and sustainable agriculture production means our customers are counting on us to deliver and our teams have continued to do that well. We appreciate your dedication, support of each other and our business.\nTurning to the market environment. Conditions in North American Irrigation remained strong in the quarter. Commodity prices were high and net farm income reached near record levels as growers benefited from strong supply and demand fundamentals, including growth in export to China and government support tied to the COVID relief programs. This drove positive customer sentiment and willingness to increased capital expenditures. These positive market drivers drove strong order flow in North America leading to higher equipment sales and a large order backlog that will carry into our third quarter. The recently released planting intentions report for the 2021 growing season indicate we could see a continuation of supply constraints that will support strong commodity prices and net farm income, increased income from property seats is projected to be partially offset by a reduction in government subsidies that would lead to slightly lower net farm income for this marketing year when compared to 2020.\nWe continue to see rapid escalation of input costs primarily steel, during the quarter. Transportation and other input costs also increased due to the nationwide trucking shortage in high component demand across the industry. We've seen expedite fees and delivery delays on some inbound components in the quarter. These are actively managed daily to minimize disruptions to our dealers and customers, but we do expect tight material supplies will continue into the third quarter. Multiple price increases have been implemented this fiscal year. We continue to trail costs slightly due to the volume of incoming orders and the pace of cost increases. This will continue to put short-term margin pressure into Q3.\nInternational Irrigation again had a strong quarter in both the mature and developing market segments. We are seeing signs of strong market recovery across the Asia-Pacific region with growth in both the domestic China and Australia-New Zealand markets. Brazil continues to be a very competitive market, but a bright spot in terms of both volume and revenue growth due to strong farm income, favorable currency for exports and record soybean yield. The second corn crop or safrinha planting was delayed this year due to the late soybean harvest, this could have some impact on the market, but we still see continued strength into their fall and winter seasons.\nMoving to Infrastructure, where we saw another strong quarter. In road safety we are seeing some improvement in the volume of project tenders, but we remain below pre-pandemic levels. Construction awards are down throughout the country, primarily due to states focusing resources on their pandemic response. We're also seeing delays in Road Zipper project confirmations as states defer projects while managing their COVID response plans. We don't view these as lost sales, but it does lengthen the revenue recognition cycle and we've had anticipated projects valued at close to $11 million now move out of fiscal year 2021. We're actively managing the sales funnel to close this gap. We did see an increase in lease revenue in the quarter and our Road Zipper sales funnel continues to improve on a year-over-year basis, however, the timing of project shipments remains challenging to predict in this environment.\nOn March 31, President Biden revealed the American jobs plan valued at an estimated $2 trillion. This is an eight-year stimulus package containing $115 billion to modernize roads and bridges; $25 billion for large complex, infrastructure projects of regional significance; and $20 billion to improve road safety. This includes a safe streets for all program to fund state and local improvements that reduce crashes and fatalities, especially for cyclists and pedestrians. We believe the increased emphasis from the Biden administration on reducing carbon emissions, addressing traffic congestion and gridlock and upgrading our aging road networks will provide some longer-term funding stability that could have a positive impact on our infrastructure segment. Of course there is a long road ahead in terms of approvals and funding, so the timing of that benefit is uncertain. There is also potential that in some situations, pending legislation could temporarily freeze the market while local governments wait to see the magnitude and timing of program funding.\nNow I'll turn the call over to Brian to review our second quarter financial results."
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Thank you, Randy, and good morning everyone. Total revenues for the second quarter of fiscal 2021 of $143.6 million increased $29.8 million or 26% compared to $113.8 million in the same quarter last year. Net earnings for the quarter were $11.9 million or $1.08 per diluted share compared to net earnings of $5.5 million or $0.51 per diluted share in the prior year.\nIrrigation segment revenues for the second quarter of $118.6 million increased $25.1 million or 27% compared to the same quarter last year. North America irrigation revenues of $80.2 million, increased $13.1 million or 19% compared to last year. The increase resulted primarily from higher irrigation equipment sales volume and higher average selling prices. This increase was partially offset by lower engineering services revenue of approximately $10.5 million related to a project in the prior year that did not repeat.\nIn the International Irrigation markets, revenues of $38.4 million increased $12 million or 45% compared to the same quarter last year. The increase resulted from higher irrigation equipment sales volumes in several international markets. The overall impact of foreign currency translation differences was insignificant for the quarter. Total Irrigation segment operating income for the second quarter was $18 million, an increase of $7.9 million or 79% compared to the same quarter last year and operating margin improved to 15.2% of sales compared to 10.8% of sales in the prior year. Improved margins were supported by higher irrigation equipment sales volume. However, this improvement was tempered somewhat by the impact of higher raw material and freight costs.\nAs Randy mentioned in his comments, we have implemented multiple price increases to pass along the escalating costs. However, we have experienced margin compression as we work through the backlog of orders received prior to the effective dates of our pricing actions. We expect this margin pressure to continue into the third quarter, until increased cost pass-throughs are fully realized. Feedback received from our dealers, indicates that Lindsay has consistently led the industry in proactively implementing price increases and other than timing differences, the pricing environment has remained rational.\nInfrastructure segment revenues for the second quarter of $25 million, increased $4.7 million or 23% compared to the same quarter last year. The increase resulted primarily from higher Road Zipper System sales and lease revenue, while global sales of road safety products were relatively flat compared to the prior year. Infrastructure segment operating income for the second quarter was $6.3 million, an increase of $400,000 or 8% compared to the same quarter last year. Infrastructure operating margin for the quarter was 25.4% of sales compared to 29% of sales in the prior year. Positive margin mix from higher Road Zipper sales and lease revenue was partially offset by the negative impact of higher raw material and other costs. In addition, the prior year included a gain of $1.2 million sale of a building that had been held for sale.\nTurning to the balance sheet performance and liquidity. During the quarter, we had capital expenditures of $11 million which included $8.5 million to exercise a purchase option for the land and buildings related to our manufacturing operation in Turkey. This facility is well positioned strategically and geographically and the purchase provides us greater flexibility to take advantage of future growth opportunities in the EMEA region. Our total available liquidity at the end of the second quarter was $180.3 million, with $130.3 million in cash and marketable securities and $50 million available under our revolving credit facility. Our total debt was $116.3 million at the end of the second quarter, almost all of which matures in 2030. Additionally, at the end of the quarter, we were well within the financial covenants of our borrowing facilities, including a gross debt-to-EBITDA leverage ratio of 1.4 compared to a covenant limit of 3.0.\nAt this time, I would like to turn the call over to the operator to take your questions."
+    },
+    {
+      "speaker": "Questions and Answers:",
+      "speech": ""
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will now begin the question-and-answer session. [Operator Instructions] And the first question comes from Nathan Jones with Stifel. Please go ahead."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Good morning, everyone."
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Good morning, Nathan."
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Good morning, Nathan."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Just starting in Irrigation, obviously, really strong growth there about 27% growth year-over-year. Can you talk about what the contribution from price was to the top line growth?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, Nathan, this is Brian. I would say it was in the mid-single digits range. As you recall, at the end of the first quarter, we had a large backlog that the orders came in prior to the first price increase that we put in place. So in the quarter and I would say, incrementally year-over-year, as well as quarter-to-quarter, about mid single-digits impact on price for the quarter."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "And you would probably expect that now that you probably shipped all of that backlog to be more like double-digits contribution from price into fiscal third quarter?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, it will continue to increase. As we both mentioned, we have implemented multiple price increases and it's -- in total where we're at, is in that 20% range, but that's feathered in as -- on a month-by-month basis is how we've been approaching price."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Okay. And then I want to talk about margins, because, I mean you put up a 32% incremental margin in Irrigation, which given the level of inflation I think is really, really good. Can you talk about some of the dynamics there? I know you said you had lower engineering revenues than last year. If I recall that was some relatively low margin and you've got some of these revenue that doesn't have price increases, some of it does. Is that kind of low 30% incremental margin an area that you can maintain, as we go forward, as we're dealing with these price increases. And the shipping costs and things like that? Or is there a reason why they would get better or worse in the short-term?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yeah, I think as we said in the past, incremental margins in Irrigation generally in that 30% plus range. I would say in this particular quarter, we did have the margin headwind primarily on the US side. What really helped incremental margins this year is some pretty significant improvement year-over-year on the international business. Some of that may have been a favorable comp compared to last year, but I would say going forward, the expectation would be in that 30% plus range. But, again, continuing to have some headwinds with the cost increases that we're seeing."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Do you think we'll find a quarter here eventually when still stop going -- goes -- stops going straight up that you would have a quarter or two where you'll hit a better incremental margin as you're catching up on that pricing?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "When that point in time comes which I'm not sure if we -- anybody knows that at this point, we would expect to catch up and hopefully gain some incremental margin as steel cost stabilizes."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Great. That's helpful. I'll pass it along. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Brian Drab with William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Hi, thanks for taking my questions. I know you're not giving formal guidance for the year, but I'm wondering, can you give us any sense just roughly where you see Irrigation revenue going this year. These are big numbers, and I think it's harder to model. And again, 20% plus growth and pricing is moving around so much. Any help you can give us in modeling that?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, Brian, I would say that the growth we saw in the second quarter on a percentage basis, we would expect that to continue into the third and then as we get into the -- our fourth quarter, that's kind of post planting season and that's generally driven by storm replacement demand. So with the backlog that we've got today, again subject to some of the supply chain constraints we are seeing that would be kind of our expectation for the third quarter."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "For the third quarter, but for the fourth quarter, given that that's driven by a lot of replacement, the growth year-over-year might come down a little. Is that what you're saying?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes. I mean that there's still some positive impact from the ag fundamentals and commodity prices and a lot of different commodities. But I think the demand level falls off into the fourth quarter. So again, it's going to be primarily dependent on what happens with storms and replacement activity."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay, thanks. And your mention of replacement reminds me of the question that I always like to ask Brian the breakdown of Irrigation revenue?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, as we would expect the dry land or irrigation for the first time increased during the quarter, it was at 34% for the quarter. Conversion was at 27% and replacement at 39%."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay, thanks. And then maybe just one more for now. The large Road Zipper projects, the pipeline is very healthy. Is that a pipeline that you think will start -- maybe we'll see the next big projects coming in the fiscal '22? Or can you comment any more specifically on when some things in that pipeline might hit?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, this is Brian again, as we began the year what we had said is we had line of sight to projects in the pipeline that would cover about half of the gap of the UK project that we had last year. And as Randy mentioned in his comments, we've had projects of around $11 million that has now shifted into fiscal 2022 so that, let's say, that gap recreated by the UK project last year is probably going to remain with us for the balance of the year. But as we look at our pipeline, we're very encouraged by what we see for fiscal '22, is just the delays that we've experienced in '21, primarily being COVID related in certain states and municipalities in the US that is delaying some of those projects. But overall sales funnel is -- continues to improve."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Okay. Can I just make sure I understand that? Maybe, frame it slightly differently. I'm looking at my notes and I had in our one conversation we had, I got the impression that large project Road Zipper revenue could be in the $25 million to $30 million range in fiscal '21, is that the idea that maybe I think you said $11 million gets pushed to the next year. And there is more like $15 million to $20 million this year is that the ballpark or not?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, I'd say it's at the lower end of that range, so $20 million plus."
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": "Got it, okay. Very helpful, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ryan Connors with Boenning & Scattergood. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Hey, great. A couple of bigger picture questions. First on Irrigation, I wonder if you can give us any perspective you have Randy on where Irrigation fits in into the budget this time around versus other priorities, tractors, combines etc. Anything unique or different about this cycle this period versus past cycles that would make Irrigation more or less of a priority. I know we had the drought last time. But then again interest rates are so low now and irrigated land values are up, which is a positive. So just trying to get a feel for where you think Irrigation fits into the puzzle this time around?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Yeah, I don't see it being unique in this up cycle versus prior upcycles Ryan, if you see the releases from the public companies in the equipment space, they're seeing some increases on their sales as well. The only caveat might be availability. And then I know that in irrigation, we got to run up until spring planting season and then through Q2, we were hitting up against our capacity at the factory in Lindsay, Nebraska and we're going to run at that rate through Q3 as well and we're leveraging the global factories in our global footprint to manage demand in other parts of the world. But if we start to see deliveries of machines getting past spring, then you might see some of that capital transition into a government purchase, but that assumes they can get a tractor or plan to reveal or combine pre-delivery. So I think the one driver here on where they take their money might be, what can they take delivery of in this tax year."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Got it, okay, interesting. That's helpful. And then quick other one on the Irrigation side. What percentage -- I know the past has been a metric that about a third of purchases are financed versus cash purchases. So the question is, is that the case right now? Is that holding about that level. And what about the interest rates. And is that actually any kind of a tailwind or customers will be more to cash purchases anyway because they're doing so well?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Yes, what we see is roughly a third of the purchases are financed where we see that UCC-1 filings on those purchases and that changes a few percentage points up or down quarter-by-quarter, but it doesn't shift significantly and we're in that same band right now and talking to growers. And talking to dealers, I think there's a lot of customers really looking at their liquidity and their ability to borrow on an operating line versus the low interest rates. And I think over time we could see more customers transition to financing outside and not using their operating line, but we haven't seen a significant shift in that direction Ryan. But it doesn\u2019t make sense, if they could."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Got it, OK. And then I had one over on the Infrastructure side as well. Again a big picture, just want to get your take on it. I guess we've heard a few times so, Road Zipper deployed on a lot of toll bridges and other toll roads. Yet, there has been some talk of toll roads, sort of going out of favor under this more federally financed vision of Infrastructure. The idea, I guess, being the toll roads are somewhat a regressive way to finance infrastructure. It does seem like Road Zipper is a real good toll road solution you put up a cash flowing asset and you want to maximize throughput on that. Is that -- I mean how would you read that if the world goes away from toll roads, is that a headwind for Road Zipper or do you find ways to be involved anyway?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "I think we would definitely find ways to be involved. And I don't think it matters, if it's a toll road or state or federal government funded road, if there are congestion issues, the individual driving on our road are going to demand that somebody puts a solution in place. So I think we play a role. We make a \u2013 fix the traffic congestion gridlock issues, no matter who owns that road Ryan. So I do see that being -- no upside or downside for us."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Got it. Okay, that's all I had. Thanks for your time."
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "All right. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Jon Braatz with Kansas City Capital. Please go ahead."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Good morning, Randy and Brian."
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Good morning, Jon."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Brian, I was wondering what you might be hearing from your steel providers and the outlook for continued steel price -- steel cost increases that might put you -- might delay your ability to recover those costs. What's the outlook that you're seeing?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Well, there is a number of different -- there's a lot of noise out there, I should say. I think if you just look at that steel futures, it looks like it may be peaks in May and then stabilizes, but we've seen that all the way back to November, December timeframe when those projections indicated that. But I know there is a number of mills that are taking capacity out in the May-June timeframe. So I think that that supports keeping prices up. And then I think the other unknown is Infrastructure if that drives a lot of steel demand then you could see steel even go up further from where it's projected to be. So we don't see any real relief in steel in the near term, based on all of those factors."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. Okay. And when -- and Brian when you mentioned the margin pressure will continue into the third quarter, is that versus what you saw in the second quarter or are you talking year-over-year?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "It's really looking at recouping our -- the cost increases that we've got, Jon."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "We tend -- we intend to protect our margins generally. And so as we've said, we've been playing catch up a little bit on passing along those cost increases. So in our second quarter, I would guess there's $2 million to $2.5 million of actual margin dollar headwinds that we had and we would expect generally that to continue into the third quarter because we -- every increase, we continue to push through the increases, but that drives backlog of orders that continues to delay the recovery."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. Okay, good. The -- your corporate costs of your non-allocated expenses, I think they were up about $1.3 million. Was there anything unusual in there? Or is that more reflective of maybe incentive compensation accruals?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, Jon, that was a one-time expense of $1.5 million in the quarter and that was related to Tim's retirement and some of his equity comp that continues to bash through this calendar year. They had to be remeasured at the beginning of the year. And so that drove the incremental one-time expense of $1.5 million."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. So what will we see maybe going forward?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "I think if you took that $1.5 million out of the second quarter number that would probably be more representative of the run rate."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. So Tim -- no additional expenses related to Tim?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "No."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. Okay."
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "All behind us now."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. Okay. And then the tax rate, a little bit lower than I suppose most of us were looking for?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, yes a couple of things there. I think one was more of a shift in earnings in our Turkey facility, which is in a tax-free zone. That bought the rate down. And then as we completed our tax return there are some additional kind of one-time items, we had higher R&D credit than what we had estimated and some other discrete items that affected the quarter, but I would say, third and fourth quarter is probably around that 23%, would be what we'd say."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. It sounds great. Brian, thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Chris Shaw with Monness Crespi. Please go ahead."
+    },
+    {
+      "speaker": "Chris Shaw",
+      "speech": "Good morning, everyone. How are you doing?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Good morning, Chris."
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Good morning, Chris."
+    },
+    {
+      "speaker": "Chris Shaw",
+      "speech": "I wanted to ask about International. It is up 45% for the quarter and you mentioned different geographies and all that was doing well and it's fairly across the board mature, developing. But I guess a couple of things there. I mean it was that there is some lumpiness, there were some big projects that came through. Should we expect growth like that for the remainder of the year? And I know you said something about the comp last year was down a lot like I remember last year in the second quarter. Can you remind me what \u2013 what the reasoning was last year for the weak results in International?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, Chris, I don't think there was anything in particular. Last year I think it was just the overall market still being challenged. But as Randy mentioned, and I mentioned in my comments, we've seen improvement in pretty much all of our international regions this quarter and it's in both what we call the mature markets and project markets. Nothing in particular in this quarter in terms of the large project. But I think it's the overall increase in commodity prices that are supporting the market in most of the regions. We've seen a nice rebound in Australia-New Zealand. China has been a improving market over the last couple of quarters and I would say Europe, Brazil both very strong."
+    },
+    {
+      "speaker": "Chris Shaw",
+      "speech": "And then more broadly across all the business, I guess, looking at the third quarter and the conference last year, I -- can you also remind me last year was -- what was -- was there any sort of COVID impact you called out in the third quarter that sort of disrupted your business? Just so I can maybe understand the year-over-year impact?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, we had, I mean there was, because of border closings, delivery issue that was delayed. I think it was in that something like $3 million to $5 million range, if I recall right, but I think that got -- just got shifted from third to fourth."
+    },
+    {
+      "speaker": "Chris Shaw",
+      "speech": "Right. That's all I needed. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from William Baldwin with Baldwin Anthony Securities. Please go ahead."
+    },
+    {
+      "speaker": "William Baldwin",
+      "speech": "Yes. Thank you very much. Excuse me. I was just going to ask if you can give some color. As you expand your FieldNET capabilities is the right looking ahead over the next several years, how do you -- can you provide any color as to how important that can be to your overall irrigation revenues and earnings?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Yes, William, this is Randy. I'll take a stab at that and any time you have a recurring revenue stream like a subscription service, over time as your installed base grows, as you retain your stickiness through renewals, it does become more and more significant to earnings and our future look at FieldNET and the types of innovative technology products that we can add there, we think does create a very natural growth path. And we view it as it's almost the technology ladder. And if you start with a subscription that allows you to monitor and control your pivot in the field, then you buy up to the capability with FieldNET Advisor to plan and manage your irrigation scheduling as we rollout the Smart Pivot platform with both machine health monitoring, agronomic imagery analysis really that artificial intelligence engine that's going to create another tier of subscription that we feel our customer base will buy up to. So, we do see this as many companies and technology innovation space, this Industrial Internet of Things, creates and grows our recurring revenue stream and we do see that as being key to our strategy and our growth going forward."
+    },
+    {
+      "speaker": "William Baldwin",
+      "speech": "It looks like it offers a tremendous amount of opportunity. Randy, have you all disclosed at this time based on your installed base of center pivot systems, how many of your -- what percent of those growers are using some aspect to FieldNET at this time?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "We see the market itself being in that 40% penetration range and climbing."
+    },
+    {
+      "speaker": "William Baldwin",
+      "speech": "Is that pretty similar domestically and internationally? Or is there a difference between the two?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "It's -- the number I've given you is a domestic number here in North America. The international numbers are slightly lower. Some of that is due to connectivity issues, some of it is due to more readily available low cost labor and less improvement in cost and efficiency, because they've got access to low cost labor. But we do see those international regions growing over time just at a slightly lower rate than what we see here domestically."
+    },
+    {
+      "speaker": "William Baldwin",
+      "speech": "Okay. Thank you very much."
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "You bet. Thank you, William."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The next question is again from Nathan Jones with Stifel. Please go ahead."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Hey, guys. I wanted to just ask a couple of questions on cash flow. Obviously you've got pretty good demand growth here in the Irrigation business, plus, you've got a lot of inflation to deal with as well. So just wondering how you're thinking about cash conversion this year. Obviously, I expect it to be lower than average. Just any help you could give us on how you're thinking about cash generation this year?"
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": "Yes, Nathan. This is Brian. I think as -- on a seasonal basis, we've seen the increase in working capital here in the second quarter, which will continue into the third, but as we complete the fiscal year, we would be expecting cash flow to approximate net earnings for the full year."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Okay. That would be a very good result, I think. And then just maybe on the progression of the infrastructure business, it can tend to be a bit lumpy, but I would normally expect things to step up from 2Q to 3Q, just seasonally as we come into the summer months. Is there anything unusual going on that would change that or is it a reasonable expectation that we should see revenues from 2Q to 3Q step up as we get into the summer months?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "I think the uncertainty this year Nathan is really around the large stimulus package announced by the Biden Administration, and then whether or not that begins to freeze the market. We don't have a lot of strong leading indicators in terms of tenders being let, we're still lower than what we had seen pre-COVID. So there's just a lot of uncertainty in states, municipalities managing COVID response that is taking a lot of thought and time and attention away from some of the other infrastructure related investments and projects that might be typically taking precedence this time of year. So there are just a lot of uncertainties I think in that area, that makes it a little difficult to predict where Q3 could go, but I think it is, to me more headwind than we traditionally see this time of year and most of that's related to COVID and whether or not some of these purchasing entities are going to wait to see what this stimulus package does in terms of magnitude and timing."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "That does make sense. I mean, I remember back to the Obama stimulus and you did say quite a number of investment deferred waiting for \u201cfree money\u201d from the government. Can you talk about how that impacted your business, maybe back then, if you guys remembered how, at this point, given how long ago it was, just to give us any idea of how that might create some short-term drag on projects getting let out here?"
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "I don't think, Brian or I would have a very good opinion there for you Nathan, not being engaged in at the time. But if you look at what has been published in terms of the American Jobs plan and in some of those statistics in the document are really quite alarming. And in the documentation it says one of every five miles of highways or major roads are in poor condition. That's 173,000 miles of infrastructure that is described as poor condition, delayed due to traffic congestion cost over $160 billion per year, each motorists pays roughly a $1,000 in wasted time and fuel. So when you look at those problems and the money that's been allocated to modernize roads and bridges $115 billion, $20 billion to improve road safety, $25 billion for large complex projects, these are problems that have our Road Zipper Solution or others Lindsay Infrastructure solution attached to it. So I do think we see this long-term stability in terms of revenue that could take out some of that unpredictability. So it's not a matter of if, it's just a matter of when, but to predict exactly how that will transpire, how that funding will be approved and released and when it will get spent and left in projects, it's probably too early to speculate and we'd be guessing if we did."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Fair enough. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "All right. Thank you, Nathan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time, there appear to be no more questions. Mr. Wood, I will turn the call back over to you for some closing remarks."
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": "Well, thank you for your interest and participation today everybody. This will conclude our second quarter earnings call. We look forward to updating you on our continued progress following the close of our fiscal 2021 third quarter. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 41 minutes",
+      "speech": ""
+    },
+    {
+      "speaker": "Call participants:",
+      "speech": ""
+    },
+    {
+      "speaker": "Randy A. Wood",
+      "speech": ""
+    },
+    {
+      "speaker": "Brian L. Ketcham",
+      "speech": ""
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": ""
+    },
+    {
+      "speaker": "Brian Drab",
+      "speech": ""
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": ""
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": ""
+    },
+    {
+      "speaker": "Chris Shaw",
+      "speech": ""
+    },
+    {
+      "speaker": "William Baldwin",
+      "speech": "More LNN analysis\nAll earnings call transcripts"
+    }
+  ],
+  "q_and_a": [],
+  "participants": []
+}

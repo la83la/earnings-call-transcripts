@@ -1,0 +1,277 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, everyone, and welcome to the Manitowoc third-quarter 2020 earnings conference call. Today's call is being recorded. At this time, for opening remarks and introductions, I'd like to turn the call over to Ion Warner, vice president, marketing,\u00a0and investor relations. Please go ahead."
+    },
+    {
+      "speaker": "Ion Warner",
+      "speech": "Thank you, and good morning, everyone, and welcome to the Manitowoc conference call to review the company's third-quarter 2020 financial performance, as outlined in last evening's press release. Participating on the call today are Aaron Ravenscroft, our president and chief executive officer; and David Antoniuk, executive vice president and chief financial officer. Today's webcast includes a slide presentation, which can be found in the Investor Relations section of our website under Events & Presentations. We will reserve time for questions and answers after our prepared remarks, and I would like to request that you limit your questions to one and a follow-up and return to the queue to ensure everyone has an opportunity to ask their questions.\nPlease turn to Slide 2. Please note that our safe harbor statement in the material provided for this call. During today's call, forward-looking statements, as defined in the Private Securities Litigation Reform Act of 1995, are made based on the company's current assessment of its markets and other factors that affect its business. However, actual results could differ materially from any implied or actual projections due to one or more of the factors, among others, described in the company's latest SEC filings.\nThe Manitowoc Company does not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or other circumstances. And with that, I will now turn the call over to you, Aaron."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Thank you, Ion, and good morning, everyone. During our last call, I outlined Manitowoc's three key priorities for managing through the COVID-19 pandemic, which are: one, manage the health and safety of our employees; two, strengthen our balance sheet; and three, position the company for long-term growth. I'm proud to report that our team has done an extraordinary job delivering on all three of these priorities, and I thank all of them for a job well done. Orders for the quarter were $390 million and frankly, much stronger than we had anticipated.\nThis laid the groundwork for us to increase our factory production in certain facilities where we had an aggressive shutdown plan and allowed us to deliver on a strong quarter. We generated $21 million of free cash flow during the quarter and ended the quarter with $101 million of cash on hand. Our total liquidity of $397 million at the end of September positions us well for the cyclical nature of the Crane business and to execute on our strategic growth initiatives. With that, I'll ask Dave to take us through the details of the financial results, and I'll close with some more color on the market outlook and our strategy.\nDave?"
+    },
+    {
+      "speaker": "Dave Antoniuk",
+      "speech": "Thanks, Aaron, and good morning, everyone. Let's move to Slide 3. Our third-quarter orders totaled $390 million, an increase of 10% compared to $353 million of orders last year. The year-over-year increase was driven by improved crawler crane demand in the Americas segment, partly offset by declines in other product lines due to the continued effect of COVID-19 on our end markets.\nIn addition, we secured a couple of large mobile crane project orders in the MEAP segment, which contributed to the year-over-year increase. Favorable changes in foreign currency exchange rates positively impacted our year-over-year orders by approximately $6 million. The book-to-bill in the quarter was $1.1 million. Our third-quarter ending backlog of $465 million was essentially flat over the prior year and up $35 million or 8% on a sequential basis.\nImproved backlog in the MEAP and EURAF segments were fully offset by a decline in the Americas. On a currency-neutral basis, backlog decreased 4% year over year. Net sales in the third quarter of $356 million decreased $92 million or 21% from a year ago. The decrease was primarily attributable to softness in the U.S.\nmarket for most mobile crane products during the first half of the year due to the impact from COVID-19, resulting in a lower shippable backlog entering the quarter. Net sales were favorably impacted by approximately 2% from changes in foreign currency exchange rates. Our aftermarket revenue in the quarter declined slightly over the prior year. Gross profit decreased $23 million year over year, mainly driven by the lower volume in the Americas.\nGross profit percentage decreased to 140 basis points to 18% from the same period in 2019, primarily due to the impact of lower production levels. Third-quarter engineering, selling, and administrative expenses of $50 million decreased by approximately $5 million year over year. The decrease was primarily due to lower employee-related costs, including short-term incentive compensation costs and reduced discretionary spending. As a result, third-quarter adjusted EBITDA amounted to $25 million or 7% of net sales.\nOur flow-through on the year-over-year sales decline was approximately 19%, reflecting excellent performance in managing our costs in this uncertain environment. Restructuring costs in the quarter totaled $4 million and were mainly due to headcount reductions in the Americas. Our GAAP diluted earnings per share in the quarter was a loss of $0.01 per share versus income of $0.51 per share in the prior year. On an adjusted basis, diluted earnings per share was income of $0.10 compared to $0.54 in the comparable period.\nThe primary driver of the lower adjusted diluted earnings per share was the impact of reduced year-over-year sales volume. In the third quarter, we generated $28 million of operating cash flows, which was primarily driven by a reduction in working capital of $19 million. On a currency-neutral basis, we reduced inventories by approximately $18 million during the quarter. We continue to closely manage our working capital needs to current demand levels and remain on track to achieve our planned $80 million inventory reduction on a currency-neutral basis.\nDuring the third quarter, total liquidity increased approximately 12% from a year ago. In the quarter, we repaid the $50 million draw on our ABL facility and ended the period with zero borrowings on our ABL facility. Our liquidity remains sufficient to meet our obligations for the foreseeable future. Additionally, we do not have any significant debt maturities until 2026.\nAnd as stated in previous calls, our 2019 debt agreement simplified and eased covenant compliance, affording us greater flexibility to access our liquidity. Our net debt leverage ratio is 2.6 times, providing us with sufficient runway to deploy capital for growth initiatives. Due to the significant uncertainty regarding the impact that COVID-19 would have on our end-market demand and supply chain, on March 27, 2020, we suspended guidance for 2020. Although significant uncertainty continues to persist in the markets we serve, our line of sight to fourth-quarter results have improved.\nAccordingly, our forecast for revenue is between $425 million and $450 million and between $18 million and $23 million for adjusted EBITDA. With that, I will now turn the call back to Aaron."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Thank you, Dave. Please move to Slide 4. The third quarter was a refreshing recovery from the steep decline that was experienced in the first half of the year, but we are not out of the woods yet. The COVID pandemic continues to create uncertainty and industry confidence remains weak.\nIn the Americas, we still face headwinds, including COVID, presidential election dynamics, challenging oil prices, and elevated dealer inventory. Demand for crawler cranes has been better. However, when speaking to our customers and dealers, the consensus is that we won't see a broad recovery until mid-2021 at the earliest. In Europe, we saw good orders during the third quarter, reflecting a bounce back after business grounded to a halt in the second quarter, although looking forward we are most concerned with this region.\nThe recent spike in COVID cases is weighing heavily on the general sentiment, even more so than in the United States as certain countries have implemented severe lockdowns. And if you recall, the tower crane business in this region was already cycling down before COVID hit. In MEAP, I would describe customer sentiment as mixed. China and South Korea have been relatively strong for us in 2020, and we've landed a couple of nice sized projects in the Middle East.\nThat said, we have to see structural improvements in the Middle East economies that would give us confidence that a sustainable recovery is imminent. Southeast Asia and India remain very slow. Lastly, while Australia has been strong throughout the summer, we have seen some signs of a slowdown as the geopolitical situation with China evolves. There is no question that we are operating in unprecedented times.\nWhile we continue to manage the business closely during these challenging market conditions, we are also proactively taking actions to accelerate our growth when the market recovers. Our investment in new product development remains on track, and we are developing new strategies to get closer to our customers to grow the business. If you'd please turn to Slide 5, this will give you some insight as how we are beginning to think differently about the business. This slide breaks down the different revenue streams that are derived from a tower crane.\nHistorically, we've primarily focused on the sale of new cranes, which serves us well in markets where we have strong distributors and partners. However, there are certain geographic territories such as Germany, where some of our partners don't have the balance sheet to take advantage of rental fleet of large top-slewing tower cranes. In addition, large international construction companies rely on crane rentals to help manage their fleet, and they are beginning to shift their preferences to rent from OEMs as part of bundled deals. Beyond the obvious benefits of having a rental fleet to run cranes, this business model helps facilitate greater service revenue and use equipment sales.\nMoreover, many customers prefer to rent a crane for two years to work down the acquisition price prior to the actual purchase. We see this approach as an opportunity to diversify our revenue streams and generate attractive returns in markets where we have opportunity to grow our share. We quietly trialed this initiative during 2020 with good success and intend to expand this initiative in 2021. We will continue to share more on this initiative as it matures.\nBut we want to give you some insight on how we are changing our mindset around growth. In closing, improvement in our financial performance in the current down market is proof that we have created a sustainable stand-alone crane company. We have significantly transformed our cost structure with the implementation of the Manitowoc Way. Over the next five years, we will need to approach growth with the same rigor that we attacked safety, quality, and cost over the last five years.\nWe will continue to utilize the Manitowoc Way as our platform for driving our company culture. We believe there are plenty of opportunities for organic and inorganic growth in segments of the crane business that are less volatile and offer a better margin profile. With that, operator, please open the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator instructions] And we'll go first to Jerry Revich with Goldman Sachs."
+    },
+    {
+      "speaker": "Jerry Revich",
+      "speech": "Hi. Good morning, everyone, and congratulations on the strong quarter here. I wanted to ask, as you look at the order pipeline over the next couple of quarters, can you just rank order for us which regions you expect to drive order and potentially backlog growth? In other words, where are the prospects that are most attractive based on what you see today?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yes. So there is different seasonality and season patterns the way that orders are. But to be perfectly honest, right now, in the current environment, it's tough to get much visibility beyond a couple of months. So I think it's tough to give you a good answer in detail on that, Jerry.\nI would say that if I look at the Americas, we're at a low level and comps begin to get easier, and there's some opportunities out there. There's still projects in the Middle East that I think will help us out. And some of the new products that we've launched out of our China business, I think, will help aid us in Asia Pac. I would say, like I had mentioned in the prepared remarks, Europe is what I worry about the most."
+    },
+    {
+      "speaker": "Jerry Revich",
+      "speech": "OK. Thank you. And then can you expand on the initiative in rental cranes in Germany? What level of capex are we thinking in seeding that business? And what's the return on capital level that you're thinking about as you allocate capital in that direction?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "So we invested roughly $4 million at the end of 2019 into a couple of units that we put into the fleet, had good success with that. Right now, we're in the process of actually building $5 million of the cranes that will go into the fleet in January. And as we build our budget and look at what are the other opportunities we have to invest our cash, we're evaluating different options of maybe expanding that a little more, and we'll have more color for you on that in February. With respect to returns, I would just say that it's just prioritize what our opportunities were for all of our capex.\nThis always ranks very high on the list."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll go next to Michael Shlisky with Collier Securities."
+    },
+    {
+      "speaker": "Jacob Parsons",
+      "speech": "Hello. Hi. This is Jacob Parsons. Jacob Parsons, on the call for Mike.\nSorry for the confusion there. But I'll get right to it. Can you kind of talk about the general pricing environment for cranes? If there's any nuances between the category, but I really appreciate kind of any detail you could give there?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yeah. So I'd say broadly that we're not taking price reductions, let's say, or there are not many requests. I think it's sort of holding paces where we've been. That being said, when there's a large project, those are always negotiated.\nIn markets like the Middle East and Southeast Asia, which have been really down for a long time now, those are always very strongly negotiated, and there's downward pressure."
+    },
+    {
+      "speaker": "Jacob Parsons",
+      "speech": "OK. Gotcha. Gotcha. Thank you.\nAnd one final question here. I know it's only been a couple of days since the whole election, you still don't have a real winner in sight quite yet. But have you had any chance to talk to customers or the teams around what's your attitude now regarding post-election? And I know you guys kind of talked about how the election has been kind of a sore spot. But when it comes to getting back to buying cranes, has there have been any talk with customers quite yet?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "No. I mean, I think it goes back and forth. There's people debating with the effects it could be from a tax perspective. And then the other side of it is, of course, Joe Biden talked about infrastructure.\nSo I think it's really just a wait and see attitude."
+    },
+    {
+      "speaker": "Jacob Parsons",
+      "speech": "All right. Appreciate it. That'll be all. Thank you."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll go next to Stephen Volkmann with Jefferies."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Hi. Good morning, guys. Thanks for taking my question. I wonder if we could just talk a little bit about sort of the cadence of some of the cost actions you've taken.\nI think you mentioned, Dave, some short-term incentive comp and some discretionary savings. And it looks like based on your guidance, maybe some of those start coming back in the fourth quarter. And then I'm trying to figure out, I guess, really what does 2021 look like in terms of kind of those costs coming back. And then perhaps maybe some benefits of some of the restructuring that you've been doing as well.\nSo that's my question. Thanks."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "OK. So I'll speak broadly just in terms of the outlook on some of those items that you raised, Steve, and then I'll ask Dave to speak directly to the fourth quarter and some of those other questions around the restructuring details. And I'd say that the current situation around the globe is really dynamic with respect to this COVID pandemic. Every country, every market is being affected differently.\nOne of the things that we see out there is unfavorable mix, quite frankly, probably that's the biggest challenge that we have, whether it be geographic or even product oriented. So I think net-net, we've got some challenges there. And then with respect to these cost challenges, as we look out, there's definitely some costs that we took out, but things like lower travel that will come back as we go back to normal or some version of normal. And of course, we're not immune to some of these other costs that are out there like such as insurance, which has been a really dynamic market since COVID hit.\nDave?"
+    },
+    {
+      "speaker": "Dave Antoniuk",
+      "speech": "Yeah. So, Steve, I'll just comment that sequentially, we'll probably see an uptick in our SG&A costs, but year over year, we'll still be down. We will have less of a benefit in our short-term incentive plan in Q4 than we had in Q3. In addition to that, we had recently gone through our insurance renewal.\nOur new premiums are going to affect Q4 adversely and into 2021 as well. So a lot of the cost reductions, there was a big benefit in Q3. We're gaining some headwinds to that in Q4. So one of the reasons that we'll see an uptick in cost in Q4 versus Q3."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "OK. Great. Maybe I can push you one step further. Let's assume that next year is kind of flat, and that's my assumption, not yours, from a volume perspective.\nHow do I balance those temporary costs coming back with whatever benefits of sort of improved productivity and/or restructuring that you might have coming in next year?"
+    },
+    {
+      "speaker": "Dave Antoniuk",
+      "speech": "Yeah. Great question. So I think that there's -- we looked at a high level our puts and takes. There's a little more headwinds in our cost structure than anything.\nI think the No. 1 item coming back is when you look at salary and STIP expenses, short-term incentive plan expenses. In 2020, we did not have any salary increases nor do we anticipate any significant amount of short-term incentive compensation for us. In addition, we talked about the insurance.\nAnd finally, what I'd say is that FX is going to be a headwind for us, particularly for those products, how we manufacture in Europe and sell into the United States, which are pretty significant."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "So, Steve, as we come out of the pandemic, we believe there will be a bit of a hangover that we need to manage through."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Understood. Thank you, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll go next to Ann Duignan with JP\u00a0Morgan."
+    },
+    {
+      "speaker": "Sean McMullen",
+      "speech": "Thanks. This is Sean McMullen on for Ann. You mentioned that you're still on track to reduce your inventories by $80 million before the year-end. Would you expect these cuts to be enough to rightsize the inventories, or would you expect further reductions to be required in 2021?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "So, generally speaking, I think that we have a cycle. So typically, what our cycle does is we build inventory in the first half of the year and inventory comes down in the second half of the year. So I believe that that cycle will again exist in 2021. So it will be a use of cash at the beginning of the year.\nAnd I'd just add that in some respects it's tied to what our orders are. So if we come out of this and orders are really strong, midpoint of the year, second half, that will have an effect on what our build schedules are. So we'll continue to manage it tightly relative to what our order book rate is."
+    },
+    {
+      "speaker": "Sean McMullen",
+      "speech": "Thanks. Appreciate the color there. And then we noticed that wind projects have been a bright spot for crawler demand. Could you discuss a little bit more about your product offering in this market and kind of elaborate more on your competitive positioning by region?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yes. So, I mean, because we manufacture in the United States and where currencies have been over the last 10 years, I mean, that's really where the main emphasis is with respect to where we serve the wind market. Several years ago, we launched a couple of new MLC units of 300 and 650. These are much bigger cranes, lattice crawler cranes, and that's really where the opportunity is.\nThere's also some altering cranes that participate in that space for maintenance, but that's an eight-axle that we haven't developed yet."
+    },
+    {
+      "speaker": "Sean McMullen",
+      "speech": "Thanks. Appreciate the time. I'll get back in queue."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll go next to Mig Dobre with Baird."
+    },
+    {
+      "speaker": "Mig Dobre",
+      "speech": "All right. Thank you. Good morning gentlemen and congratulations on a good quarter. So what surprised me the most, I guess, was your order intake.\nThis is the first double-digit growth that we've seen in quite some time. And in a press release, you were talking about that metric being ahead of your expectations as well. I'm trying to understand here, based on the commentary you provided us on Slide 4, how we should be thinking about where we are in terms of demand for the cycle? And maybe size the, I'm not going to call them one-time, but I don't know what else to call them, these projects that you called out in the Middle East that might have benefited the quarter that perhaps are not sustainable on a go-forward basis. And can you kind of give us a sense as to what your view is in terms of the sustainability of growth or the path for growth going forward?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "OK. So that's I think it's a million-dollar question, Mig. I think we were very surprised by just how the third quarter played out in terms of orders. Obviously, we're trying to have the toughest contingency as we could too to make sure we can manage through it.\nSo when I look at the third quarter and think about the third quarter, the thing that Dave and I talked a lot about is that we see orders coming from the second quarter that didn't happen. And even I would say when we look at our winter campaign for the tower cranes in the fourth quarter, we see some action happening there because some people are -- they've got other projects that they're trying to get done. And yet, if you ask them about visibility into next year, there's none, and there's fewer orders. So some of our core customers that we would typically get orders from in this period, frankly, they've been much lower because they don't want to take the risk and give us a bigger order.\nSo I would say it's extremely difficult situation for us to really get our arms around because, on one hand, we look at the numbers and say, those are really good. But then when I turn around and talk to the big crane operators, and you get the feedback from them, they're extremely, let's say, conservative with respect to how they see the market. So we've been happy with the team pulled together. And so far, I would say October was good for us.\nAnd right now, we're sort of taking it quarter by quarter. With respect to the size of those projects that you had mentioned, there's really two big chunks there. Typically, when we get -- because crawler cranes are so expensive. When you get a small package of those in that $10 million to $20 million range, then those projects in the Middle East, I would describe, similarly in terms of how many of them were a handful.\nI think it is interesting. It's not the large, big crane operators. That's not where the orders are coming from currently. Right now, orders are coming from sort of smaller houses.\nThey're taking advantage, I think, of the opportunity of the timing and then some of these projects."
+    },
+    {
+      "speaker": "Mig Dobre",
+      "speech": "Understood. And then my follow-up is related to competitive dynamics, especially outside of North America, right. You've got pretty tough competitors, especially in the Middle East. And I'm wondering if you're seeing any different attitudes from them? Any changes on the ground that either benefited you from a share standpoint or anything else that you think we should be aware of? Thank you."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yeah. So the Middle East has been extremely competitive. I wouldn't say that that's actually changed on a couple of these orders that we went to get, I mean, we went to go get them. I mean, I would say that, frankly speaking, the one we took at a price that we wouldn't normally have taken, but we need to stay relevant in the market and went after, and I think that's important, especially when you look at where our order book is that we've got some units to put to the factory.\nI wouldn't say the dynamics have changed. We haven't seen any of that yet, at least."
+    },
+    {
+      "speaker": "Mig Dobre",
+      "speech": "OK. Appreciate it. Good luck."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll go next to Seth Weber with RBC Capital Markets."
+    },
+    {
+      "speaker": "Seth Weber",
+      "speech": "Hey, guys, good morning. I guess you've addressed a lot of what was on my list, but I wanted to touch on the aftermarket business being down in the quarter. I guess normally, I think we would look at that as a leading indicator, right, if trends were getting better, I would assume aftermarket would be up. And I know it's been a big initiative for Manitowoc to grow the aftermarket business.\nSo can you just sort of help us understand what's going on there? I believe it was up in the first part of the year. So did something change here to push the aftermarket business down in the third quarter? Thanks."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "OK. So I'll sort of take the broad comments and pass it to Dave. When I look at it, I mean, in the second quarter, we were down. And we got really hit hard in April time frame whenever COVID hit and they stopped all the sites in Europe, quite frankly.\nAnd then, of course, we have the summer months, which are always slow and sometimes difficult to predict. So if I look over the last six months, it really hasn't been the best period to go grow aftermarket and I think that's sort of what you see in the numbers. Dave, would you add anything in terms of color on that?"
+    },
+    {
+      "speaker": "Dave Antoniuk",
+      "speech": "Yes, Seth. So I think, generally speaking, when we look at our day rates in the aftermarket business, we just had a slow start to the quarter. And when I look at the year-over-year change, it's a small difference. It's nothing significant, right? I mean, it's probably in the 2% to 3% decline range in that particular case, and that has to do with the slow start in the July time frame.\nAnd right now, we believe that the aftermarket day rates are back to normal levels, maybe a little bit low, but it's really based upon the market and where the market conditions have at this point in time."
+    },
+    {
+      "speaker": "Seth Weber",
+      "speech": "OK. And then just your commentary about dealer inventory levels. Is that exclusive to the Americas market or is that a global situation?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yeah. That's entirely in the U.S. market, and it's been elevated for several quarters. It continues to get into a better spot, but it's still a little bit higher than what we'd like to see, especially when you look at the current environment."
+    },
+    {
+      "speaker": "Seth Weber",
+      "speech": "OK. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll go next to Stanley Elliott with Stifel."
+    },
+    {
+      "speaker": "Stanley Elliott",
+      "speech": "Good morning, guys. Thank you for taking the question. Circling back to the Middle East orders. At one point, you guys were trying to kind of make inroads of some new customers.\nI was curious if this is what's showing up in the results. And we'll leave it that for that."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yeah. I think the -- yes, it is a simple answer. I mean, some of these customers that we've been longtime customers to, just with some of the quality challenges that we had going back five years ago and reentering those accounts. And some of it, too, has been -- we're really tight in terms of maintaining our price discipline.\nAnd I think we've got to point we said, OK, we've got to be in the market, and we've been more competitive than, let's say, we would have been two or three years ago."
+    },
+    {
+      "speaker": "Stanley Elliott",
+      "speech": "That's fair. And I'm assuming that material costs have been trending favorable for you guys as a result. Is there any way to kind of highlight what that was in terms of the solid decrementals?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "No. I don't think -- no, Stanley, I don't think that's a really big driving factor in the decrementals."
+    },
+    {
+      "speaker": "Stanley Elliott",
+      "speech": "OK. OK. And then lastly, are there any other crane markets globally kind of positioned like your move into EU, where you could become more vertical and closer to the customers?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yeah. We think there's other opportunities, but we'll just take it piece by piece."
+    },
+    {
+      "speaker": "Stanley Elliott",
+      "speech": "OK. Thanks for the time."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll go next to Jamie Cook with Credit Suisse."
+    },
+    {
+      "speaker": "Jamie Cook",
+      "speech": "Good morning. I guess most of my questions have been answered but just one sort of longer-term question. Just given the length of the downturn within the crane market and just understanding COVID complicates things, but do you sort of have a new view on how you think about normalized sales or margins for Manitowoc today, I guess, relative to maybe 12 to 18 months ago and could you just help us understand how you're thinking about things? Thank you."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yeah. That's a tough one to answer because I'm not sure anything's normalized anymore even when I joined the company five years ago. When I joined five years ago, everyone said it was sort of a seven-year cycle. Right now, it's even harder to say what that cycle is going to look like when we come out of it.\nI do believe if you look over the last five, six years, the market has been way down relative to the 10 years before that. So at some point, the market is going to come back and be pretty dynamic. When that happens, I think it's anyone's guess, to be honest with you."
+    },
+    {
+      "speaker": "Jamie Cook",
+      "speech": "OK. And any change in long-term view on margins for Manitowoc, or is it still fairly consistent?"
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Yes. So from my point of view on the margins, we've done all the heavy lifting in terms of cost to really move that number because it's pretty meaningful numbers when we took out $100 million worth of cost. So it is going to be volume-dependent, as you can imagine, if you swing between where we are now and even where we were last year, that would have a huge effect on our margins. And I think the last piece is just how we really start to grow the business as I talked about in this opportunity for towers, that are going to come with better margins.\nSo as we grow and go after new business, we want to make sure that that's favorable. And likewise, any acquisitions we looked at, they are all going to be favorable for us."
+    },
+    {
+      "speaker": "Jamie Cook",
+      "speech": "OK. I appreciate it. Thanks again."
+    },
+    {
+      "speaker": "Aaron Ravenscroft",
+      "speech": "Thanks, Jamie."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And that concludes today's question-and-answer session. I'd like to turn the conference back over to Mr. Ion Warner for any additional or closing remarks."
+    },
+    {
+      "speaker": "Ion Warner",
+      "speech": "Before we conclude today's call, please note that a replay of our third-quarter 2020 conference call will be available later this morning by accessing the Investor Relations section of our website at www.manitowoc.com. Thank you, everyone, for joining us today and for your continuing interest in the Manitowoc company. We look forward to speaking with you again next quarter. Please be safe."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 33 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ion Warner--Vice President, Marketing, and Investor Relations",
+    "Aaron Ravenscroft--President and Chief Executive Officer",
+    "Dave Antoniuk--Vice President and Chief Financial Officer",
+    "Jerry Revich--Goldman Sachs -- Analyst",
+    "Jacob Parsons--Collier Securities -- Analyst",
+    "Stephen Volkmann--Jefferies -- Analyst",
+    "Sean McMullen--J.P. Morgan -- Analyst",
+    "Mig Dobre--Baird -- Analyst",
+    "Seth Weber--RBC Capital Markets -- Analyst",
+    "Stanley Elliott--Stifel Financial Corp. -- Analyst",
+    "Jamie Cook--Credit Suisse -- Analyst"
+  ]
+}

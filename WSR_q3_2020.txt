@@ -1,0 +1,232 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and welcome to the Whitestone REIT's Third Quarter 2020 Earnings Conference call. [Operator Instructions]\nAnd at this time, I would like to turn this conference over to Kevin Reed, Director of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Kevin Reed",
+      "speech": "Thank you, operator. Good morning and thank you for joining Whitestone REIT's third quarter 2020 earnings conference call. Joining me on today's call are Jim Mastandrea, our Chairman and Chief Executive Officer, and Dave Holeman, our Chief Financial Officer.\nPlease note that some statements made during this call are not historical and may be deemed forward-looking statements. Actual results may differ materially from those forward-looking statements due to a number of risks, uncertainties and other factors. Please refer to the Company's earnings press release and filings with the SEC, including Whitestone's most recent Form 10-Q and Form 10-K for detailed discussion of these factors.\nAcknowledging the fact that this call may be webcast for a period of time, it is also important to note that this call includes time-sensitive information that may be accurate only as of today's date, October 27, 2020. The company undertakes no obligation to update this information. Whitestone's third quarter earnings press release and supplemental operating and financial data package have been filed with the SEC and are available on our website www.whitestonereit.com in the Investor Relations section.\nDuring this presentation, we may reference certain non-GAAP financial measures, which we believe allow investors to better understand the financial position and performance of the Company. Included in the earnings press release and supplemental data package are the reconciliations of non-GAAP measures to GAAP financial measures.\nWith that, let me pass the call to Jim Mastandrea."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Thank you, Kevin, and I want to thank you for joining us on the third quarter investor call. We continue to hope and pray that all of you, your families and your businesses remain healthy, and are doing well as we navigate these most unusual times. I am pleased to share with you our strong operating and financial results that have sustained the economic downturn caused by the COVID-19 pandemic. Our business has recovered quickly, and in doing so produced shopping center sector-leading results.\nDave Holeman, our Chief Financial Officer, will provide a more detailed look at the drivers of our operating and financial performance. We attribute these results to owning properties located in areas with high household income neighborhoods and the fastest-growing MSAs in business-friendly states. Operating a consumer business-driven model based on consumer demographics and psychographics to design a tenant makes that drives customer visits and experiences.\nOur strategic customer focus differentiates Whitestone from other real estate owners that leads to traditional hard and soft good retailers. To enhancing our intrinsic value through redeveloping and developing, which adds value to -- value as we physically expand our real estate footprint and grow rents and to balancing a capital management structure to drive revenues, net operating income and funds from operation.\nWith this background, I would like to provide some color as to where we are today, where we plan to go in the coming months and quarters to drive long-term shareholder values, key building blocks to Whitestone's success and our progress toward the long-term goals we announced in February of 2018. First, where we are today. Since the onset of COVID-19, which injected considerable economic uncertainty, relative to the real estate industry in particular, we've had shopping center sector leading rental collections throughout the pandemic and most recently announcing 90% cash collections for the third quarter of 2020. These results are in line with our expectations and are trending upward from the first-half of the year.\nRental collections, solid leasing spreads and execution of our business model is deeply rooted in Whitestone's team culture. Since the end of the first quarter, we focused on improving our dividend payout ratio, increasing our cash on hand, paying down our debt and strengthening our balance sheet. These actions have prepared us for the next level of growth and provided greater financial flexibility.\nOur judicious and disciplined allocation of capital has produced positive third quarter operating results, including occupancy of 88.9% at the end in the quarter, revenue that approached $30 million for the quarter, up 8% from the second quarter. Property net operating income of $21.3 million, up 6% from the second quarter. Leasing spreads that were strong and resulted in a positive 11% increase for the quarter.\nCash collections, which I mentioned earlier that achieved 90% for the quarter were up from 81% in the second quarter and funds from operation core that were solid at $0.23 per share, up $0.01 or 5% from the second quarter. Dave in his remarks will follow mine, will go into greater detail on these results and comparisons to the prior year.\nOverall, I am very pleased with the way our management team is navigating the economic crisis caused by the coronavirus, stabilizing our business quickly and enabling us to refocus on extracting the embedded intrinsic value in our properties, while targeting acquisitions that are accretive and further scaling our platform.\nSecond, where we plan on doing in the coming months. We intend to maintain our disciplined capital allocation philosophy going forward, as we have over the past. Our track record of our growth from 2010 to 2019 speaks to our plan. Our long-term plan is to grow our strategically chosen markets of Houston, Dallas-Fort Worth, Austin, San Antonio and Phoenix through redevelopment and development opportunities within our portfolio and externally grow by making targeted acquisitions in our existing markets and beyond.\nThird, the key building blocks for Whitestone's success is building a portfolio of choice properties in great markets that we lease and manage with a team of well-trained professionals who continue to do what has worked for us in the past. We view Whitestone as a highly differentiated and somewhat a special really -- specializing in e-commerce-resistant entrepreneurial tenants and crafting the right mix of those tenants who ultimately meet the neighborhood consumers' needs. Our diversified mix of tenants provide essential services for lease that cannot usually be acquired online, if at all. As a result, our open-air centers provide community experiences that cater to adjacent neighborhood as an extension of their lifestyle.\nWhile we recognize that we are in the retail real estate business, our differentiated approach and contrarian business model has allowed us to profitably grow an asset base over the years despite significant overall industry challenges. Our growth since our IPO in 2010 has been steady and disciplined and we intend to continue this disciplined approach.\nFinally, we continue to make progress toward our long-term goals of improving debt leverage and scaling our G&A cost that we set in 2018. During the third quarter, we paid off $9.5 million of real estate debt from cash, lowering our net real estate debt by $11 million from a year ago and improving our ratio of debt to gross book value real estate assets to 55% from 58% a year ago. We also are making progress on scaling our G&A. These costs since the beginning of the year have been reduced through reduction of headcount from 105 to 85 or 21% through further automation, improvements in processes and all of our team working smarter and harder. Our total G&A costs for 2020 are approximately $900,000 or 6% lower in the same time last year.\nWith that background, I would now like to turn the call over to Dave Holeman, our Chief Financial Officer. Dave?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Thanks, Jim. First, I would like to take this opportunity to thank all of our associates to continue to produce the best results possible, given very difficult times. We have a highly dedicated team that works every day to create local connections in communities that drive and we feel strongly that we are positioned to withstand the current headwinds and thrive into the future.\nGiven the severe economic pressures caused by the coronavirus during the quarter, our portfolio has performed quite well. Despite having a significant amount of our tenant businesses impacted, we only had a handful of tenants close for good such that the portfolio occupancy rate held up well ending the quarter at 88.9%, down just 0.3% or 13,000 leased square feet from the second quarter. Also our annualized base rent per square foot at the end of the quarter was $19.43 and $19.38 by cash and straight-line basis. This represents a 0.5% increase on a cash basis and a 1.3% decrease on a straight-line basis from a year ago. The decrease on a straight-line basis is largely related to the conversion of 84 tenants to cash basis accounting and the associated write-off of accrued straight-line rents.\nOur square foot leasing activity was up 43% from the second quarter of 2020 and 46% from the third quarter of 2019. And we are pleased with positive blended leasing spreads on new and renewal leases of 3.3% and 11% on a cash and GAAP basis for the quarter. As Jim mentioned, for the quarter, we collected 90% of our rents, this include base rent and triple net charges billed monthly.\nWe have also entered into rent deferral agreement on 3% of our third quarter rents. As part of the deferral agreements, we have negotiated beneficial items, such as, entry into our online payment portal, further reporting of tenant sales, suspension of co-tenancy requirements, loosening of exclusive or restrictions that allow further development and stronger guarantees.\nWhile we are encouraged by how things are progressing, the pandemic has continued to impact our business in term -- in the terms of our financial results. Funds from operations core for the third quarter was $10.1 million or $0.23 per share compared to $10.9 million or $0.26 per share for the same quarter of the prior year and our same-store net operating income for the quarter decreased by 4.5%. These decreases are primarily due to the impact of the pandemic, which resulted in a charge of $1.3 million to bad debt expense and $100,000 in write-off of straight-line receivables in the third quarter. This charge was incremental to the bad debt expense and straight-line revenue recorded in the prior year by $900,000 or $0.02 per share.\nLet me add some color on our collectability analysis related to the pandemic and the related receivable balances. At the end of the quarter, we had $23.6 million in accrued rents and accounts receivable. This consists of $21.1 million of billed receivables, $1.9 million of deferred receivables, $16.1 million of accrued rents and other receivables and a bad debt reserve of $15.5 million. Since the beginning of the year, our billed receivable balance has increased $4.4 million and our deferred receivables have increased $1.9 million for a total build and deferred receivable balance increase of $6.3 million. Against this increase of $6.3 million, we have recorded an uncollectible reserve in 2020 of $4.5 million or 71%.\nOur accrued rents and other receivables had decreased by $1.1 million, largely the result of the write-off of accrued straight-line rent receivables on tenants converted to cash basis accounting and our bad debt reserve has increased by $4.3 million.\nIn accordance with generally accepted accounting principles, if the company determines that the collection of a tenant's future lease payments is not probable, the company must change the revenue recognition for that tenant to cash basis from accrual basis. In light of the financial pressures that COVID-19 has been placing on many of our tenants, we reevaluated all of those tenants in the second and third quarters, as a result have switched 84 tenants in our portfolio to cash basis accounting. These 84 tenants represent 3.6% of our annualized base rent and 3.4% of our leasable square footage.\nAs a result of this conversion to cash basis accounting we have written off $1.1 million of accrued straight-line rents for the year, but the company intend to collect all unpaid rents from its tenants to the extent possible. Our tenants on cash basis accounting paid 63% of contractual rents in the third quarter, up from 41% in the second quarter. We have provided some additional details of our collections, it can be found on Page 27 of the supplemental.\nTurning to our balance sheet. Since March, we have implemented various measures to conserve cash, including further reductions in headcount. To-date, we have approximately $39 million in cash, representing a 6% increase since March 31st. Additionally, we paid off $9.5 million of real estate debt in the third quarter and have no debt maturities in 2021. We have reduced our total net real estate debt by $11 million since the third quarter of 2019. Currently, we have $111 million of undrawn capacity and $13 million of borrowing availability under our credit facility. We are in full compliance with our debt covenants and expect to remain so in the future.\nLooking ahead, one particular trend we are seeing as COVID-19 persists is that Whitestone's best-in-class geography is benefiting from net migration of businesses coming out of the regulation-heavy gateway market. Our markets continue to attract both large and small businesses, as evidenced by Charles Schwab's recent announcement of its move of its headquarters to Dallas from San Francisco.\nWhitestone's properties are seeing this migration also. Recently, we added a successful restaurant who needed to escape the high-tax high-regulation environment of California to our Mercado property in Arizona. Examples like these prove the resilience of our markets and give us further assurance that our business model is thriving. We have seen pent-up demand in our markets, as consumers are leaving their homes and returning quickly and in force. Parking lots are filling and stores and restaurants are becoming more active. Whitestone is well positioned to capture this pent-up demand and intends to do so.\nOur team has worked together through this ongoing crisis and our shareholders will reap significant future benefits through greater collaboration, a more robust exchange of ideas, better and more effective communication and improved systems and processes that provide new actionable data and allow us to more efficiently scale our infrastructure. Whitestone is continuing to perform and deliver on our strategic plan. We operate in many of the most highly desirable growth markets in high-population growth states and expect these markets to lead the country in economic recovery from the pandemic. We look forward to providing further updates as we progress.\nAnd with that, we will now take questions. Operator, please open the lines."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And we will take our first from Michael Diana with Maxim Group. Please go ahead."
+    },
+    {
+      "speaker": "Michael Diana",
+      "speech": "All right. Jim, Dave, can you hear me?"
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Hey, Michael. Can you hear me?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Michael Diana",
+      "speech": "Yeah. Okay..."
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah. Thank you."
+    },
+    {
+      "speaker": "Michael Diana",
+      "speech": "So I'd like to ask first about leasing, which looked very strong. I noticed your new leases, you did 32 new leases. Where are those coming from? I mean, I know your general strategy. Could you be a little more -- give us a little more detail on what sort of tenants you're tracking to your new leases?"
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Sure. Yeah."
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Hey, Michael, this is Dave. Thanks for your question. Yeah, we are very pleased with the rebound in our leasing activity. As you mentioned, we've seen -- from an activity perspective, we've seen the third quarter coming back to kind of the first quarter in pre-pandemic level. We've had good activity and then good spreads in there, as well.\nIn our markets, I think we've seen resilience pretty equally among our markets. I would say the Dallas market is doing very well. And then from a tenant-perspective, we continue to see demand from kind of experiential service space tenants. We've seen a lot of activity on the pet level, we've seen restaurants continue to -- good operators continue to look for opportunities. So, I think, we're seeing demand across our unique and differentiated tenant mix and I think in our markets, they all appear to be recovering it very nicely."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Right. And the one restaurant you mentioned from California where -- was that in Arizona or in Texas that they came to?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah, that's the one I mentioned in my -- this remarks was actually to Arizona, obviously, with the proximity of our Phoenix markets, California, we've seen significant -- seen migration over the years and continue to see that. And then we're seeing a fair amount into Texas as well from some of the coastal cities where people are just looking for places where they can run their businesses a little easier."
+    },
+    {
+      "speaker": "Michael Diana",
+      "speech": "Right. Okay. And then the second area I want to talk about is your bad debt/uncollectable revenue, you -- as you said, you reviewed all your tenants, I mean, very bottoms-up. What's on the tenants that you talk to when you go through that process? What is their outlook? I mean, are they pretty optimistic about what's going on? Or how long do they think things are going to remain challenging?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "I'll start and Jim will probably give some overall comments as well. I think it's obviously a fluid and granular process right now. I think, we are seeing a lot of pent-up demand in our markets and people kind of coming back in toward the restaurants and other areas, schools are open in all of our markets. Most of those school districts are offering kind of in-person school as well as some virtual, but we're seeing demand and I think with that, we're seeing some optimism from our tenants. We're seeing tenants in our markets that are a little bit surprised by their activity levels. We have a lot of tenants that have been creative through this pandemic, restaurant operators that have created new forms of revenue. We've had restaurants that historically have not done curbside or take-outs have developed that and I think they'll continue to have that as -- in their portfolio, going forward."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Yeah, and I'll add to that, Michael. We're seeing some second-generation restaurant space, both in Arizona and Texas that is leasing up very quickly. In other words, with all the equipment there and all the tables and things and we've had been fortunate being able to -- if people don't pay, we lock them out, but the restaurants are ready to reopen again very quickly. So we're seeing that happen in that space real quickly.\nSecond thing we're seeing is that we have a product called CUBExec, which is small offices, enclosed offices, and we have sections of these in our different retail properties and what we're finding is, those are leasing up. It might be 150 to 200 square-feet, see that. We also did a new lease with a Pilates studio and we took a 25% equity position in that and it's a person who teaches teachers. So with that we have -- we will have franchise rights to open that in multiple properties and what we're seeing is a strong and maybe even a resurge in demand for the exercise called Pilates, particularly on the -- in the Texas and Arizona areas."
+    },
+    {
+      "speaker": "Michael Diana",
+      "speech": "Okay. So given you -- that there is pent-up demand and there is some optimism here, what -- your bad debt reserve cost you $0.03 a share this quarter, do you see that fading away fairly quickly? Or..."
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah, I think we are seeing improvement. I mean, our bad debt on collections for the third quarter were 90%, up from 81% in the second quarter. Obviously, there is predicting the ultimate -- when we get to the end of it is very difficult, but I think we are very pleased in the positive trends we're making. We don't want to call the end to it, but we are pleased with the progress we're making. We also reported our October collections, which were 90% through the 25th of the month. So I think that bodes well. So that being above our set -- our third quarter amount of well. So, I think, we expect overtime our collection percent to go up. With that, the related reserve rent collectability to go down."
+    },
+    {
+      "speaker": "Michael Diana",
+      "speech": "Okay, great. That's all I have. Sounds good. Thank you."
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Thanks, Michael."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Craig Kucera with Riley Securities. Please go ahead."
+    },
+    {
+      "speaker": "Craig Kucera",
+      "speech": "Thank you, good morning, guys. Can you give me some additional color on what specifically is within the entertainment bucket on table -- on Page 27 in the table? Is that mostly movie theaters or any other categories there?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah, hey, Craig. So entertainment makes up about 2% of our leased square footage, about 2% of our annualized base rent. The tenants in there, we've got, I think, we got one movie theater, we've got some -- we've got one large, I can think of child kind of entertainment venue, we've got some local theaters. So probably movie theater is the largest one and then we have community theaters and we have a like a children play area kind of entertainment facility."
+    },
+    {
+      "speaker": "Craig Kucera",
+      "speech": "Got it. And I just want to double check on the expansion of your line of credit capacity this -- from last quarter, I think it increased about $12 million. Was that due to some improvement in NOI sequentially or was that because you paid down the $9 million mortgage or something else?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah, so our credit facility availability did improve this quarter by about $12 million. That's a result of the two things you mentioned, one is our NOI is a little better, obviously with greater collections. And then we did pay off one mortgage loan, which allowed that property to be unencumbered and therefore included in the availability of our property. So that represented -- that mortgage loan was about $9 million, the creditability went up about $12 million, so about $9 million of it was from paying off debt and the rest was from improvement in NOI."
+    },
+    {
+      "speaker": "Craig Kucera",
+      "speech": "Okay, got it. Jim, I feel like early on, you worked hard in assisting your tenants in garnering government support and I think in late first quarter you said that about 40% of your tenant base had reached out and do you have a sense of how many of those tenants actually were successful in getting into programs such as the PPP as you were working with them."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Yeah, in terms of the PPP, we've had very, very good success. I'd say upwards of 80% at least and it really paid off because they -- these are small business people, and when I say small just in square footage size, usually their net worth is in excess of $1 million to $5 million, but they just -- they are not attuned to how do they work with these different banks. We were able to set up banks for them to really going and expedite that process and it's really what got really well for them."
+    },
+    {
+      "speaker": "Craig Kucera",
+      "speech": "Got it. And so what was -- somewhat unique with your collections process over the past couple of quarters is that you've got new collections. I think in second quarter it was 81%, you deferred 5%, this past quarter you got 90% and you deferred 3%. I guess, with the bucket for example this quarter of a 7%, kind of, are you thinking those are longer term tenants or are those just based on the fact that you've not -- it doesn't appear abating anything. Can you kind of give us some thoughts on the folks that aren't paying sort of their longer-term liability."
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah. So, I think, as I said earlier, it is a very fluid process. I think our business model has shown very well and one of the things about our business model is we have probably a little more hands on debt. We're not spread out like some of the others where we focus on markets. In those markets, we focus on specific tenants. So we have a lot of depth and relationships in the markets we operate. We've worked with those tenants. Many of those have got their businesses go on, the revenues go on and they paid us. Some of those, we've reached agreements where we allowed them some relief for a period of time and they paid us back -- will pay us back over 12 to 24 months. And then some frankly at this point are just -- we're working with. So I don't think that in the quarter, we had 90% collections, we had 3% deferred, at least kind of 7% that we're working with and continuing to have them -- try to help them operate their business and pay us.\nSo I think, we're pleased. If you look at our accounts receivable, I think, I reported some of the stats in our measures, we're seeing good progress in collecting and not letting that accounts receivable balance balloon up. We've been very diligent in collecting and also in doing the rent relief agreements, we've also got some favorable things that will benefit us in the future with greater sales reporting of tenants, greater entry in our online payment portal and we've also cleaned up some of the leases where they were exclusive that we would like to have a little better."
+    },
+    {
+      "speaker": "Craig Kucera",
+      "speech": "Yeah. I know it..."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "I'll add to that. Overall our properties are really very, very good and there are -- a lot of them are replicated from city-to-city and the process are replicated as well. So when we have a tenant that really looks like they're not going to make it, we just move very quickly to get them out of the space and we're able to collect anywhere from 75% to 90% of what they might owe us on the contract period of rent and then we replace them with someone else. So that's what got very well.\nWe've also found that we've opened our doors to some venues that have helped drive traffic in certain properties. For example, there is a -- in Arizona, there is a group called Coffee & Cars, which is a number of exotic high-end cars and these folks like to get together usually on the first Saturday of a month from 7 a.m. until 10 a.m. and so we've been able to capture that from some other properties within the area that have not let that continue during COVID. So we were able to open during COVID, now we capture that and we get anywhere from 40 to 100 cars there on the first Saturday of every month and they're probably range there from about $25 million to $30 million worth of cars.\nSo that's really stimulated our restaurants in certain properties where they open early in the morning, they serve tacos and breakfast and then folks who used to come back for night [Phonetic], so we're doing some thing that we continue that process of how we can serve the tenants."
+    },
+    {
+      "speaker": "Craig Kucera",
+      "speech": "Okay. Thanks, that's it for me."
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Thanks, Craig."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And our next question will come from Aaron Hecht with JMP Securities."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Hey, guys. You talked about the strength of your Arizona and Texas markets and communities, wondering if you had any metrics that you could comp the performance of those properties versus pre-COVID levels, whether it be foot traffic or revenue, anything to give us perspective there?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah, I think that's a good question, Aaron. I think a couple of metrics, one is just the leasing activity obviously is a metric we follow to see the demand from ultimately consumers driven -- consumers then drive demand of the tenants. So we've seen our leasing activity back to kind of pre-COVID levels in the quarter. So I think that's very positive.\nWe do a lot of work with looking at traffic levels in our centers and I don't have those numbers here, but I'll tell you anecdotally we are seeing in our markets, the traffic counts in our center, the consumer visits coming back to kind of pre-COVID levels. We use different software to do that, but I don't have the numbers, but anecdotally we are seeing that level.\nAs you know, we open all -- we operate all open-air centers and so we're also in markets that are tend to be warmer geographies. So we're very pleased with the activity and we look forward to actually the next few months, where our markets are great times or people are able to enjoy themselves in our centers, sit outside. Our tenant mix is really positioned for the long-term with not a lot of big boxes, more experiential tenants. And so with our real estate that we think is really in best-in-class geographies and our tenant mix, we feel very good about the activity level we're seeing."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "On the tenants, so you're continuing..."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "I want to add."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Sorry, Jim. Yeah."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Well, I was going to add to that. It's interesting because our experience with COVID that was started back in March, we have these four offices, one in Houston, Phoenix and Dallas and San Antonio, we had mentioned earlier roughly around 100 people. We've only had one person come down with COVID in those four locations and two states and that person has made a trip back to Seattle during some of the events or going back, we all watched the events on TV and came back and she had COVID and then came back to our Phoenix office and then resign -- before she -- as you saw she never really came back in office, but only one person of all those offices. We thought that was kind of interesting.\nSo our experience was very, very slim in that. The other thing we noticed is the influx from people from California, you had the COVID and the shutdowns, which were a little bit more dramatic than in Arizona and following that were the fires. And so when COVID was just reopen, there was lot of fires in California in [Technical Issues].\nAnd the smoke was intolerable in most places like San Francisco in places like that is as you probably know Aaron being out there. And so we had a lot of people found to come over, some are going back, some are not. So we're starting to see some activity, I think we have had like eight interested folks leaving who had moved here from California."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "On the collection side and I guess it does to ultimately leasing side as well. Obviously, 90% very strong, stable through October. Are there -- Is there structural impediments, given the tenant base or the size of space that you have at your communities that will make that last 10% being significantly harder to sort of collect any time soon without a fair care because maybe the movie theaters, something like that kind of any insights there into any structural difficulty that may be more difficult to get you to that file 95% to 100% as they're getting?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah. Great question. Yeah, we've made -- we're pleased with the progress we're making. As you said, we've 90% in the third quarter, up from 81%. Obviously, now the goal is to get that back to normal, up in the high 90s. There really aren't any structural impediments. I think we're very well positioned with the tenant base that's largely smaller space tenants, entrepreneurial, we don't have any one tenant that makes up more than 3% of our revenue.\nSo I think it's just going to be continued hard work. I think the next few months, as I mentioned, in warmer climate markets like we operate in will be our great months for us. So there are no structural -- there's is no big lease that's between that 90% and 100%. It's just like our normal tenant base, which is smaller tenants, service-providing tenants, entrepreneurial tenants."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "In those small tenants, are entrepreneurial type tenants in most cases where their business is important. You'll see them there 12 hours a day, not punching a clock from nine to five. But just to remind our listeners that in Texas and Arizona, we have business -- there are favorable state laws that permit us to lock a tenant out in seven days if they haven't paid their rent and that's something that tenants know that we can exercise and their business is very important to them. In other states, particularly up in the mid-west and on the West Coast and in New York, it's usually a 90-day period to lock them out and you have to go to court and you have to hire a lawyer. So the rights are very different in Texas and Arizona that's why, when we look beyond that for expanding, we look at Tennessee, for example, and Florida and Colorado. They have business-friendly laws as well. So I think that helps a lot because the tenants know it's there and we know that it's there and we're very judicious about how we use that."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "And then on the Pillarstone portfolio, looks like occupancy drops. Is there any comment around that we -- how we should think about performance?"
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Yeah. The Whitestone still has an ownership interest in eight properties that are kind of non-retail properties that represents, I think it's about -- it's a small amount for us, I think for the quarter it was $200 million impact to earnings. So I think that portfolio ultimately, Pillarstone has some plans to develop and change the use of those assets. So we are seeing the occupancy trend down just a little bit. It's not a large impact to Whitestone at this point, it's about a couple of hundred thousand of impact to FFO this quarter."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Thank you very much."
+    },
+    {
+      "speaker": "David K. Holeman",
+      "speech": "Thanks, Aaron."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And with no further questions, I'd like to turn the call back to Mr. Mastandrea for any closing remarks."
+    },
+    {
+      "speaker": "James C. Mastandrea",
+      "speech": "Well, thank you, operator, and thank you all for joining us. I would like to close by just reiterating that what we find is that the proof is in the pudding. Our management team and our Board are significant shareholders and we are shoulder-to-shoulder with our shareholders, all of you, as we strive to make our existing and our new shareholders aware of our story. We have a great story and we love sharing it. When we're able to accomplish this, we expect to break away stigma that really has dragged down the real estate retail industry.\nWe believe that our operating strength is evidenced by our track record will continue to improve as the economy gains traction and guide our Board's decision to adjust our dividend payout ratio and dividend payout and while in the meantime, we will judiciously continue to pay attractive dividends as we have and in the future.\nAs shareholders, you're all aware that our share price does not reflect our business operations that have been dramatically impacted by the COVID pandemic. The superiority of our business model and the strength of our management team's experience has really stood the test and I'm really pleased with that. During the past six months, it has and it continues to produce exceptional financial results. Our responsibility is to continue to perform and make the market aware of our story. We think that's the linkage that we have to really work on as a team here.\nWe believe that as the market becomes more knowledgeable of what we're doing, they will see Whitestone as an investment of choice. When these dynamics intersect, we expect our share price to more accurately reflect our true value. We thank our shareholders for the confidence they have placed in us and our stewardship and as we move toward the future, we remain excited and we're really -- the team are very optimistic of what we see ahead and to serve you by providing the results we have and continuing to work to provide industry-leading returns.\nWe will still recognize there will be some macro-driven volatility in the near-term, but our deep experience and strong performance during the pandemic are reminders that there is a bright, long-term future in front of us. We don't, in any of our numbers or in any of our expectations included tailwind in our plan, but if we catch one, it will really amplify tremendously the results that we've experienced and shared with you.\nAs we move ahead, we will continue to hold ourselves accountable and we intend to stay true to our core values and to execute on our strategic business model and we intend to deliver to our shareholders significant, long-term sustainable values. We know that God's hand is on our shoulders as we focus on serving our shareholders, employees and our stakeholders and we thank you all for your confidence in us.\nWith that operator, we will close."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 45 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kevin Reed--Director of Investor Relations",
+    "James C. Mastandrea--Chairman and Chief Executive Officer",
+    "David K. Holeman--Chief Financial Officer",
+    "Michael Diana--Maxim Group -- Analyst",
+    "Craig Kucera--B. Riley FBR Inc. -- Analyst",
+    "Aaron Hecht--JMP Securities LLC -- Analyst"
+  ]
+}

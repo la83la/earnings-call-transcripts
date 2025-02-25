@@ -1,0 +1,142 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good afternoon, ladies and gentlemen, welcome to AAR's Fiscal 2022 First Quarter Earnings Call. We're joined today by John Holmes, President and Chief Executive Officer and Sean Gillen, Chief Financial Officer.\nBefore we begin, I would like to remind you that the comments made during the call may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from the forward-looking statements. Accordingly, these statements are no guarantee of future performance. These risks and uncertainties are discussed in the company's earnings release and the Risk Factors section of the company's Form 10-K for the fiscal year ended May 31, 2021 and providing the forward-looking statements, the company assumes no obligation to provide updates to reflect future circumstances or anticipated or unanticipated events. Certain non-GAAP financial information will be discussed on the call today. A reconciliation of these non-GAAP measures to the most comparable GAAP measures is set forth in the company's earnings release. At this time, I would like to turn the call over to AAR's President and CEO, John Holmes."
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Great, thank you very much and good afternoon, everyone. I appreciate you joining us today to discuss our first quarter fiscal year 2022 results. Our positive momentum continued with another quarter of solid results, despite the continuing impact of the COVID-19 pandemic. Compared to the prior year period, sales were up 14% from $401 million to 405 -- $455 million and adjusted diluted earnings per share from continuing operations were up 206% from $0.17 per share to $0.52 per share. Our sales to commercial customers increased 52% and our sales to government and defense customers decreased 17%. We are particularly pleased that our sequential growth from Q4, Q1 was 4%, notwithstanding the fact that our first quarter typically declines from our fourth quarter as a result of seasonality in our business. Sequential growth in our commercial activities was 17%. This improvement was driven by our parts businesses, which is an encouraging indicator of returning demand. The strong performance in the quarter was also due to the robust demand for our airframe MRO services. Notably, the significant majority of our MRO volume has been on standard maintenance work as opposed to catch-up work. Our operating margin was 5.5% for the quarter on an adjusted basis up from 2.5% last year and 5.2% in the fourth quarter. For context, our margin this quarter was actually higher than 2 years ago prior to the pandemic even though our revenue was down $86 million or 16%. This performance demonstrates the operating leverage that we have created over the last 18 months by optimizing our MRO operations, exiting underperforming activities and reducing indirect and overhead costs.\nTurning to cash. It was another strong quarter, as we generated $18 million from operating activities from continuing operations. We also continue to reduce the usage of our accounts receivable financing program. Excluding the impact of that AR program, our cash flow from operating activities from continuing operation was $26 million. Subsequent to the end of the quarter, we announced several new business wins. First, we announced an exclusive agreement with Arkwin, a TransDigm company to distribute engine actuation and other commercial aviation product. This award reflects the power of our independent distribution offering to component OEMs as well as the strength of our balance sheet.\nSecond, we announced a contract with the Department of Energy for the conversion and delivery of a 737-700 aircraft modified to allow the DoE to quickly transition between passenger and cargo modes. Like our prior C40 aircraft delivery contract with the U.S. Marine Corps, this contract demonstrates the significant cost savings available to government customers by procuring in the aftermarket. Finally, we announced an extension of our component support program with Volotea, a growing low cost Spanish carrier which reflects the market's continued demand for this offering and our ability to drive, lower operating costs with superior operating performance.\nBefore turning it over to Sean, I would like to comment on the critical role that AAR in the U.S. withdrawal from Afghanistan. We had over a 150 people station in country primarily in support of our WASS program. Over a 36 hour period, our WASS team transported approximately 2,000 U.S. embassy personnel to Kabul International Airport to support their evacuation from the country. All of our employees subsequently departed the country safely as well and I'm exceptionally proud of our team support of state department personnel under very difficult circumstances.\nWith that, I'll turn it over to our CFO, Sean Gillen to discuss the quarter in more detail."
+    },
+    {
+      "speaker": "Sean Gillen",
+      "speech": "Thanks, John. Our sales in the quarter of $455.1 million were up 14% or $54.3 million year-over-year. Sales inour Aviation Services segment were up 19.8% driven by recovery in our commercial markets. Sales in our Expeditionary Services segment were down $17.7 million, reflecting the divestiture of our Composites business and strong performance of the U.S. Air Force pallet contract in the prior year quarter.\nGross profit margin in the quarter was 14.2% versus 12.1% in the prior year quarter and adjusted gross profit margin was 16.1% versus 13% in the prior year quarter. The significant improvement reflects the cost take out and efficiency initiatives we have implemented. As the commercial market recovers, we would expect to continue to generate higher gross margins, given the fixed nature of some of our cost of sales and the higher margin nature of our parts business, which is not yet participated in the market recovery to the same degree as our maintenance business. As we indicated during last quarter's call, one of our commercial programs contracts was terminated during the quarter. We recognized $10 million of charges primarily related to this termination and an asset impairment.\nSG&A expenses in the quarter were $49.3 million or 10.8% of sales excluding severance of about $1 million, this would have been closer to 10.6% of sales. This is down from 11.3% in the year ago quarter and 11.2% in Q4. As a reminder, last year's results had contemporary cost savings due to salary and benefit reductions that were in place through Q2 of last year. Net interest expense for the quarter was $0.7 million compared to $1.6 million last year, driven by lower borrowings. Average diluted share count for the quarter was $35.7 million versus $35 million for the prior year quarter. With respect to Afghanistan, as we discussed on last quarter's call, we had in-country activity on 2 programs, our WASS program supporting the State Department and our C130 program supporting four Afghan Airforce aircraft. In conjunction with the state department's exit from Afghanistan, we are winding down related activities and expect that to be completed later this quarter.\nThe C130 program is currently continuing with support of 2 of the 4 aircraft based in the UAE. In total, our FY'21 sales in Afghanistan were $67 million, the margins on these activities were consistent with the overall WASS program, which we have described in the past as being high single-digit operating margin. As John indicated, we generated cash flow from our operating activities from continuing operations of $17.5 million as we continue to reduce our rotables and inventory balances. In addition, we reduced our accounts receivable financing program by $8.4 million in the quarter. Our balance sheet remains exceptionally strong with net debt of $80.2 million and net leverage of only 0.6 times. Thank you for your attention and I will now turn the call back over to John."
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Great, thank you, Sean. Looking forward, we expect that demand for our MRO activities will remain strong as airlines continue to focus both on readiness to support the recovery in air travel and on preserving a healthy maintenance supply chain. With respect to part supply, while we saw increasing levels of activity during the quarter, we expect stable performance in the near term as a result of the uncertainty created by the Delta variant. On the government side, the exit from Afghanistan as well as the programs nearing natural completion points will have a near-term impact on our business. However, our Department of Energy contract is an offsetting award that demonstrates the fundamental value proposition of our commercial best practices business model.\nIn addition, we continue to build a solid past performance history. As such, we believe that over time, we remain in an excellent position to grow our government business through additional program wins and expansions of our current positions. Based on these near term dynamics, we currently expect overall Q2 performance to be similar to Q1. While there remains uncertainty over the timing of the recovery. We are confident that a recovery will occur and we believe, we are exceptionally well positioned. We have emerged from the crisis with an even stronger balance sheet, our government and commercial pipelines are full and the operating leverage we have created positions us to continue to drive further margin expansion.\nWith that, I'll turn it over to the operator for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, speakers.\nParticipants. We will now begin the question-and-answer session. [Operator Instructions] Speakers, first question is from the line of Michael Ciarmoli of Truist Securities. Your line is now open."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Good evening, guys. Thanks for taking the questions here and nice results as well. Maybe, John, just the last comments you just made there, 2Q looking similar to 1Q. Are you talking both top and bottom line or is that more just the -- the revenue side, you were referencing?"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "I think at this point, we're thinking up and down, but I would highlight that again, we remain in an uncertain environment. But when we say similar, we mean top and down."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Okay. Okay. And is that, do you think, I mean just trying to get a sense, and maybe I'll feather this in. But I mean, you had really strong, I guess the implied sequential commercial growth in Aviation Services look really strong. I mean was that from some of your additional maybe international customers and maybe, I'm thinking, Air Canada specifically coming online and as some of these other markets open up, does that continue to grow and are we just looking at the top line kind of headwind all stemming from the WASS contract [Speech Overlap] specifically?"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Yeah. So it was largely the demand. We had a great quarter in the commercial business across the board. The majority of it was really driven by the trading business, which is still considerably far off pre-pandemic levels, but they did have a nice sequential improvement. What we are seeing is that while we had kind of increasing levels of activity throughout the quarter, we have seen more stability and the pace of that recovery moderate in the last few weeks. And we attribute that to the pullback in the bookings that you've seen from our commercial customers.\nYour comments on Canada are right on. We're really happy that that Canada has opened up and that our customers there notably Air Canada are seeing more activity that was not a considerable contributor to this quarter. But we do expect it to contribute to results going forward."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Okay, got it, got it. Just on the gross margin, I know you obviously had on the adjusted gross margin good year-over-year growth, but sequentially, it dipped down a bit and you just said, parts was actually strengthening a little bit and recovering a little bit. What else went into the gross margin sequentially declining given the strong top line. Was it just more MRO general mix or anything, any more color you can add there?"
+    },
+    {
+      "speaker": "Sean Gillen",
+      "speech": "Yeah, hey, it's Sean. It was a little mix on the government side, that was down a touch sequentially. As we talked on our Q4 call, there was a few events in Q4 that drove outsized profitability on some government activity. So you saw a little bit of a decrease on that which is what drove the sequential decrease from 16.5% to 16.1% but still feel very good about the overall profitability. And as we talked about as parts continues to grow that will be accretive to the margin."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it. Just on the parts and I mean, I'll take a stab here. I'm not sure, if you guys will give much color, but any thoughts or anything, you could provide on how the relationship with Fortress is trending and sort of expectations there?"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Yeah, we, the relationship is going very well. That program is performing exactly how we expected. Fortress is a great partner and doing everything they said they were going to do. And that program at this point is a full contributor, I would say that basically at full run rate in the quarter and we expect those levels to be consistent throughout the rest of the year."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it. Helpful. All right, I'll jump back in the queue. Thanks guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from the line of Ken Herbert of RBC. Your line is now open."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Hey, John. Hey, Sean. How are you?"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Hey, great, Ken. How are you doing?"
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Pretty good. Hi. John. I wanted to first, see if I could ask you about retirements. And has your view changed on when we might see or start to see a more meaningful uptick in retirements and subsequently sort of a USM availability or what are you currently seeing in that marketplace?"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "We have seen more assets become available to us in the last, in the last few weeks. And there are some. And again, for competitive reasons, I don't want to get into too much detail, but we have seen more things come available that are interesting to us.\nI would not characterize that as too anecdotal and too soon to call it any sort of trend that would suggest a meaningful uptick in retirement [ slash or ] teardowns. But anecdotally, we have seen a few more come out recently. The activity that we saw this past quarter was largely due to material in stock."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay, that's helpful. And as you talk about your MRO business. It sounds like it's seeing some nice uptick. Is that all volume or are you starting to see some better pricing reflected in labor rates in that business?"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "The pricing that we've seen is actually been consistent over the last few quarters. We've worked very hard over the last few years to get our customer base down to a more focused long-term contract based customer. So we're operating under long-term contracts in almost all of that business. So, the pricing has been relatively stable. What we have been able to do and this was by design based on the changes that we made during the pandemic is really improve our efficiency inside the hangars and by optimizing our footprint in aligning our our hangar space with where we see the most labor availability and that's full time labor availability as opposed to a contract labor, we've been able to achieve superior performance inside the hangars."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay that's great. And just bouncing around. I know, you had a program, a contract that you exited in the quarter. Can you just comment on sort of incremental risk you see and what's left of your programs business, and how we should think about any of that risk moving forward?"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Good question. We feel good about the remaining portfolio. That was something that happened right after the end of the 4th quarter and that we characterize that when we announced the end of year results. And so in terms of anything new happening in this quarter, there wasn't anything but that program contract that was situational. And I would say, kind of a one-off and we feel good about the remaining portfolio and very excited that we extended with Volotea. They've been a long-term customer of that airline, is a great success story and the volume of work that we've done with them has grown as they've grown and we're excited to be on that contract for another few years."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Great, well thank you very much."
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Thanks, Ken."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]"
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, participants. I'll now turn the call back over to the management for final remarks."
+    },
+    {
+      "speaker": "John Holmes",
+      "speech": "Listen, we really appreciate everyone's interest and support and I look forward back and look forward to being back here in 90 days to talk about our second quarter. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 18 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "John Holmes--President and Chief Executive Officer",
+    "Sean Gillen--Vice President and Chief Financial Officer",
+    "Michael Ciarmoli--Truist Securities -- Analyst",
+    "Ken Herbert--RBC -- Analyst"
+  ]
+}

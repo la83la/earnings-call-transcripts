@@ -1,0 +1,244 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Hello, and welcome to the Ormat Technologies Q3 2021 Earnings Call. My name is Robin, and Ill be coordinating your call today. [Operator Instructions] I will now hand you over to your host, Jeff Stanlis from FNK IR. Jeff, please go ahead."
+    },
+    {
+      "speaker": "Jeff Stanlis",
+      "speech": "Thank you, Robin. Hosting the call, today are Doron Blachar, Chief Executive Officer; Assi Ginzburg, Chief Financial Officer; Smadar Lavi, Vice President of Corporate Finance and Investor Relations. Before we beginning, we would like to remind you that the information provided during this call may contain forward-looking statements relating to current expectations, estimates, forecasts, and projections about future events that are forward-looking as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally relate to the companys plans, objectives, and expectations for future operations and are based on managements current estimates and projections, future results or trends. Actual results may differ materially from those projected as a result of certain risks and uncertainties. For a discussion of such risks and uncertainties, please see Risk Factors as described in Ormat Technologies annual report on Form 10-K and quarterly reports on Form 10-Q that are filed with the SEC.\nIn addition, during the call, the company will present non-GAAP financial measures, such as adjusted EBITDA. Reconciliations to the most directly comparable GAAP measures and management reasonings for presenting such information is set forth in the press release that was issued last night as well as in the slides posted on the website. Because these measures are not calculated in accordance with GAAP, they should not be considered in isolation from the financial statements prepared in accordance with GAAP. Before I turn the call over to management, I would like to remind everyone that a slide presentation accompanying this call may be accessed on the companys website at ormat.com under the presentation link that is found on the Investor Relations tab. With all that said, Id now like to turn the call over to Doron Blachar. Doron, the call is yours."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you, Jeff. And good morning, everyone. Thank you for joining us today. During the third quarter, we completed several strategic initiatives that support our long term position, including a sizable geothermal acquisition in Nevada, new resource adequacy contract for our Energy Storage segment, a joint venture for exploration in Indonesia and several new product wins, providing further evidence that the COVID related disruption in our product segment is abating. This development support our long-term goals and further our efforts to expand our generation capabilities toward our goal to achieve a run rate of $500 million in annual EBITDA toward the end of 2022. Looking at the third quarter, our results were negatively impacted by operational challenges at three plants. We are making progress to resolve these challenges and expect them to gradually recover by the first half of 2022. Even with these challenges and the ongoing slowness in our product segment, we reported continued growth of more than 15.4% in the electricity segment, leading to revenue that was essentially flat year-over-year. This enabled us to deliver over $100 million in adjusted EBITDA for the quarter.\nWe continue to view 2021 as a buildup year. The strategic acquisition of two operating plants and an underutilized transmission line in Nevada is an example of this buildup. The new long-term resource adequacy agreement with PG&E for our Pomona-2 project is another example as other product segment wins in Nicaragua and Indonesia, which boosted our product segment backlog. With a portfolio of over 1.1 GW of generation, a rebounding product segment and a growing energy storage offering. We are well positioned to maintain our industry leadership and deliver consistent profitable growth. As we look into 2022, we anticipate increased growth as we put the short-term challenges behind us and reap the benefits of the hard work of the last year. I will turn the call over to Assi, to review the financial results before I provide further updates on our operations and future plans. Assi?"
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "Thank you, Doron. Let me start my review of our financial highlights on slide five. Total revenues for the third quarter were $158.8 billion, essentially flat year-over-year, reflecting the contribution of the Terra-Gen acquisition, offset by lower year-over-year product sales. Third quarter 2021 consolidated gross profit was $63.1 million, resulting in a gross margin of 39.8%, up from the gross margin of 34% in the third quarter of 2020. Gross margin including $15.5 million of BI income compared to $2.6 million in the third quarter last year. We delivered net income attributed to the companys stockholders of $14.9 million or $0.26 per diluted share in the quarter compared to $15.7 million or $0.31 per share in the same quarter last year, representing a decrease of 5% and 16.1%, respectively, mainly as a result of a lower operating income, driven mainly by a $9 million increase in the G&A expenses. Adjusted net income attributed to the company stockholder was $17.8 million or $0.32 per diluted share in the quarter compared to $0.31 per share in the same quarter last year. Net income attributed to the company stockholder was adjusted to exclude the transaction cost of $3.7 million pre-tax and $2.9 million after-tax related to the Terra-Gen Geothermal acquisition. Our effective tax rate for the third quarter was 9.2%, which is lower than the 38.8% effective tax rate from the third quarter of 2020, mainly due to the movement in the valuation allowances for each quarter.\nWe still expect the annual effective tax rate to stand approximately between 30% to 34% for the full year 2021. That assuming no material one-time impact or no impact from changing of lows. This will result in an overall higher tax rate in the fourth quarter of 2021. Adjusted EBITDA decreased 5.1% to $101.6 million in the third quarter compared to $107.1 million in the third quarter last year. Id note that compared to second quarter 2021, adjusted EBITDA increased 20.2%. The lower year-over-year adjusted EBITDA was due to a combination of approximately $4.6 million, lower business interruption income and approximately $4.7 million of higher G&A costs, mainly related to the special committee legal costs. I would like to note that we do not expect to incur significant costs on these issues in the remainder of 2021. Moving to slide six. Breaking the revenues down, electricity segment revenues increased 15.4% to $142.7 million, supported by contribution from new added capacity to our McGinness Hills Complex, Punas resumed operation and the contribution of the recently acquired plants in Nevada. This new added generation was partially offset by lower generation in Olkaria and Bouillante power plant due to a lower resource performance that caused a capacity reduction. And surface leak in one of the broader injection wells, which also reduced generation. We made progress in resolving these challenges and expect to gradually recover from them by the first half of 2022.\nIn the product segment, revenue declined 64.5% to $101 billion to $10.5 billion, representing 6.6% of total revenues in the third quarter. The decline year-over-year is expected to continue throughout 2021 due to the lower backlog at the beginning of the year. Energy Storage segment revenues remained flat year-over-year at $5.7 million in the third quarter. This quarter, we had an increase in the revenue from our storage operating facility of 26%. That was offset by approximately 67% reduction in demand response revenue as we expect to diminish over the next few quarters. Lets move to slide seven. Gross margin for the electricity segment for the quarter increased year-over-year to 42.8%. This was the result of $15.8 million in business interruption insurance, of which $15.5 million was included in the cost of revenues for the electricity segment, partially offset by higher costs related to the repair and the recovery of Olkaria, Brawley and Bouillante power plants. Excluding the impact of the business interruption in Q3 2021 and Q3 2020, gross profit increased 2.8% compared to the same time last year. In the product segment, gross margin was 12.8% in the quarter compared to 18.9% in the same quarter last year. The Energy Storage segment reported gross margin of 12.2% compared to gross margin of 25.6% in the third quarter last year.\nThe decrease was primarily due to the reduction in demand response and associated profit. Turning to slideeight. Electricity segment generated 96% of Ormats total adjusted EBITDA in the third quarter. The product segment generated 2% of the and the Storage segment reported adjusted EBITDA of $2 million, which represents 2% of the total adjusted EBITDA. Reconciliation of EBITDA and adjusted EBITDA are provided in the appendix slide. On slide nine, our net debt as of September 30 was $1.5 billion. Cash, cash equivalents, marketable security at fair value and restricted cash and cash equivalents as of September 30, 2021, was approximately $402 million compared to $537 million as of December 31, 2020. Marketable securities were at fair value of $46 million. slide nine breaks down the use of cash for the nine months and illustrated our ability to reinvest in the business, service debts and return capital to our shareholders, all from cash and cash dividends, all from cash generated by our operations and our strong liquidity profile.\nOur total debt as of September 30th was $1.9 billion, net of deferred financing costs, and its payment schedule is presented on slide 32 in the appendix. The average cost of debt for the company reduced to 4.4% compared to 4.9% last quarter. During the third quarter, we raised $275 million of new corporate debt to support the Terra-Gen asset acquisition and capex needs. On November 3, 2021, the Company Board of Directors declared approved and authorized payment of quarterly dividends of $0.12 per share pursuant to the companys dividend policy. The dividend will be paid on December 3, 2021, to shareholders of record as of close of Business Day on November 17, 2021. That concludes my financial overview. I would like now to turn the call to Doron to discuss some of the recent developments in our growth plan for the next three years. Doron?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you, Assi. Turning to slide 12 for a look at our operating portfolio. During Q3 of 2021, our power generation in our power plants increased by approximately 13.8% compared to last year. We benefited from the incremental contribution of the recently expanded McGinness Hills and the generation from Puna that is operating now at a stable level of 26 megawatts. In addition, we had the contribution of the Dixie Valley and Beowawe plants acquired from Terra-Gen, with a total net annual generating capacity of approximately 67.5 megawatts. These contributions were partially offset by the lower performance of our Olkaria and Bouillante power plant. As noted on slide 13, Puna resumed operation in November 2020. We stabilized Puna generation to approximately 26 megawatts as we continue reservoir study and improvement of existing wells to maximize the long-term performance of the power plant. We have continued discussions with HELCO and PUC about our new PPA and continue selling electricity under our existing PPA, which is in effect until 2027. Turning to slide 14. Let me discuss some of the challenges we experienced this quarter in a few of our property assets, and I will start with a known one in Kenya.\nOur revenue in the Olkaria complex was down year-over-year as a result of a reduction in the performance of the resource, which has resulted in an approximate reduction of 25 megawatts. This reduction in capacity and associated repair costs reduced our quarterly gross margin by approximately $3.6 million compared to last year. We are taking a few actions to restore the complex generating capacity. We reduced one of the wells that we plan to connect to the power plant by the end of the quarter. We are upgrading the equipment that will enable us to generate more capacity, utilizing the same resource. And we continue with our planned drilling campaign, which includes drilling and redrilling of wells. We are very optimistic that following these actions, we will see an increase in the production through the first half of 2022. In the Bouillante power plant in Guadeloupe, we experienced limited injection availability due to scaling that we expect to resolve by cleaning the well. We finished cleaning the well, and we are waiting to get the permit to restore capacity in the coming days. In the Brawley complex, we had a leak in one of the injection wells and a pump failure in one of the production wells that caused the reduction of the generating capacity to three megawatts since the second quarter.\nWe are working to restore production and expect a full recovery by year-end. The lower performance of the Olkaria, Bouillante and Brawley power plants are reflected in our annual guidance. We continue to monitor the recommendations of the task force created by the President of Kenya related to the review of all independent power producers PPAs. Based on a review done by the task force and the report issued by the task force of the President in September 29, Ormats rates in Kenya are significantly lower than many IPPs, as you can see in the chart that shows energy rates of other IPPs compared to Ormats rates. In the task force report, they indicate that Ken-Gen geothermal average tariff, including steam cost, is $8.05 per kilowatt hour, which is not significantly lower than our rate. Having said that, we believe that Ormat rate cannot be compared to Canadian tariffs as it is a government-owned company that receives financial benefits, grants and preferred financing terms that we are not qualified for. We remain committed to providing clean, renewable base load energy to Kenya and continue to work with KPLC for many years to come.\nTurning to slide 16. In July, we closed the accretive acquisition of the Terra-Gen assets. As a reminder, this acquisition added a total net generating capacity of approximately 67.5 megawatts to our portfolio, along with the greenfield development asset adjacent to Dixie Valley and an underutilized transmission line, capable of handling between 300 to 400 megawatts on a 230 KV electricity connecting Dixie Valley in Nevada to California. With this acquisition, we now own 10 operating plants in Nevada, generating a total of 443 megawatts, which is roughly equivalent to approximately 7% of Nevadas overall generated energy. We are currently working to increase the capacity of the acquired Dixie Valley in 2022 by adding Ormats acquisition. Turning to slide 17 for an update on our backlog. Our results for the product segment continued to be impacted by the lower backlog at the beginning of the year, we continue to see encouraging signs of recovery. We have seen clear signs of improvement in this business, including an expansion of our backlog, reinforcing our confidence that this is a short term phenomenon. We signed a few new contracts during the quarter, including a new contract with Salak energy geothermal to supply products to a new 14 megawatt Salak geothermal power plant in Indonesia.\nAnd another contract to supply equipment to a project in Nicaragua. As of November 3, 2021, our product segment backlog increased for the third quarter in a row to approximately $67 million compared to $56 million in early August this year, giving us a good start for this segment in 2022. Moving to slide 18. The Energy Storage segment continues to become a more important part of our consolidated results. This quarter, we see an increase in our storage facilities contribution. And as Assi, indicated, they were up 26%. The increase was offset by diminished contribution of the demand response activity inherited from the Viridity acquisition. Moving to slide 19 for an update on legislation. The global support for renewable energy by government continues as can be seen in the Glasgow Climate Change conference. In the U.S., the negotiations between the White House and Congress have made substantial progress over the past weeks. Last Thursday, the House released a draft bill that will serve as the basis for the final negotiation. Although not final, the new bill suggests extending the PTC and ITC until the end of 2026 for geothermal, and it includes storage to be eligible for ITC. The bill draft also allows taxpayers to elect the option to receive the tax credits in cash.\nThe commitment of the government to renewable energy is also reflected in the inclusion of credit plans beyond 2026. We believe that assuming the bill will pass, this enhanced flexibility and long-term clarity will encourage and accelerate the use of renewable energy, and we expect to be in the forefront of this growth in geothermal and in the energy storage as well as in energy storage and solar. Moving to slide 21 and 22. As we have communicated, 2021 will be a significant buildup year, comprised mainly of geothermal project. The buildup supports our robust growth plan, which is expected to increase our total portfolio by almost 50% by the end of 2023. One of the main challenges in our efforts to achieve our gross growth is obtaining permits on the time frame, we were used to before COVID. The delays we experienced in obtaining the permits results in delays in the commissioning of our future projects. Although we have delays within 2021 to 2023, we are still aiming to add an additional 240 to 260 megawatts by year-end 2023, in addition to the 83 megawatts we added since the beginning of 2021. In our rapidly energy storage portfolio, we plan to enhance our growth and to increase our portfolio by 200 megawatts to 300 megawatts by year-end 2022.\nAchieving this growth target is expected to help us reach an annual run rate of more than $500 million in adjusted EBITDA toward the end of 2022, that we expect to continue to grow as we move forward with our plans in 2023 and beyond. slide 23 displays 14 projects underway that comprise the majority of our 2023 growth goals. While we are experiencing significant delays in the permitting process, we still expect to be on track to meet our growth targets for the end of 2023. Moving to slide 24 and 25. The second layer of our growth plan comes from the Energy Storage segment. slide 24 demonstrates the energy storage facilities that have started construction. The other projects included in our growth plans are in different stages of development, and their release will require site control and execution of an interconnection agreement, obviously, all subject to economic justification. The storage facilities listed in this slide are expected to generate in todays pricing, approximately $15 million annually, with EBITDA margins of 50% to 60% approximately. Since the majority of the revenues are merchant based, we may see volatility in revenues once they will be in operations.\nAs you can see on slide 25, our energy storage pipeline stands at 2.1 gigawatt and currently include 30 named potential projects, mainly in California, Texas and New Jersey. Moving to slide 26. The significant growth in both our electricity and storage segments will require robust capital investment over the next couple of years. To fund this growth, we have over $780 million of cash and available lines of credit. Our total expected capital for the remainder of 2021 includes approximately $177 million for capital expenditures, as detailed in slide 33 in the appendixes. Overall, Ormat is well positioned with excellent liquidity and ample access to additional capital to fund future initiatives. Before I move to the guidance, I would like to update you on some ESG initiatives. On slide 27. We are moving to strengthen our ESG commitment. We build our approach and policy on four significant valuable issues as water management, taxation, suppliers and procurement policies and political communication.\nThe purpose of the move was to reflect in the most up-to-date and accurate way, our approach envision and courses of action on these issues. Im also happy to update that we are planning to publish our corporate sustainability report in the next few weeks. Please turn to slide 28 for a discussion of our 2021 guidance. We expect total revenues between 652 and $675 million, with electricity segment revenues between 585 and $595 million. We expect product segment revenues between 40 and $50 million. Guidance for energy storage revenues are expected to be between 27 and $30 million. We expect adjusted EBITDA to be between 400 and $410 million. We expect annual adjusted EBITDA attributable to minority interest to be approximately $31 million. Adjusted EBITDA guidance for 2021 includes the $15.8 million insurance proceeds received in the third quarter. This concludes our prepared remarks. Now, I would like to open the call for questions. Operator, please?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from Noah Kaye from Oppenheimer. Noah, please go ahead."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Good morning and thank you for taking the questions. Maybe I could start with the portfolio growth plans. I think you mentioned some challenge in getting permits, creating some delays in commissioning future projects. But looking at the timetables for project CODs, it appears like it stayed fairly stable. So just wondering if you could put a finer point on your comments, are you seeing permitting delays pushing projects out a quarter or 2? Or can you help clarify that a little bit because, again, the tables dont really seem to have changed from last quarter, this quarter?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "So theres two kinds of delays, some of the delays are between the year. If you take the Heber complex, I think originally, we were hoping it will be end of 21, beginning of 22. Now its moved to the end of 22. Dixie Meadows that was planned to be in 22 is updated in the table to 2023. So with this -- some of the delays are between the year, but others like Dixie are even between years."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. And I guess, if you could comment on expectations on the IRRs for these projects? And certainly, weve seen rising commodity costs, steel inflation, etc., labor availability issues and just higher logistics costs. On the other hand, I know you did a lot of your manufacturing last year for some of these projects. So, can you just kind of comment on whether an increased cost environment affects your expectations for profitability of these projects?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Obviously, raw material and labor costs are increasing transportation. I wouldnt use the word increasing, but exploding basically on the cost side. But we have manufactured, as you mentioned, a big part of it already last year with raw materials that were acquired even before the large increases. But obviously, going forward, the new projects will have to endure the higher cost. And what we see in parallel to that is increasing a demand for geothermal and increasing pricing. So, the coming projects will enjoy the lower cost that we have, but also the PPA environment of the past. And now we see an increased demand for geothermal, and we do expect to see in the coming, in the short term, increased pricing as well that will compensate us. The fact that PTC and ITC will be extended, obviously, will also support the profitability. So all in all, we dont see a significant or hardly any change in the IRR when we expected IRR when we release the projects."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. Doron, its great to hear that youre actually seeing pricing new PPAs increasing. Thats a big change from the trend in the past couple of years. Can you elaborate on that a little bit more? What sort of upward pricing at are you seeing in the U.S.?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Yes. So the negotiations that are starting today, obviously, there are negotiations that started before, which lowered pricing. But since a few weeks ago, the CPUC required to have 1,000 of new -- 1,000 megawatts of new renewable energy with an availability of higher than 80%. We see an increased demand. For geothermal, practically, this is the only renewable that meets this requirement. They need to make it by 2026. So, we have been approached and we started negotiations with several CCAs and utilities. And hopefully, this will develop into new PPAs in the coming months that will have higher pricing or pricing back to normal."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. Great. And one last question. I think you mentioned in the prepared remarks that you dont expect those elevated legal expenses to continue into 4Q. Could you please help us understand why that might be the case?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Yes. We -- as we said on the call, we -- these costs, we dont expect them to continue in the same height. Basically, the Independent Counsel that was engaged by the company reported its findings. And at this point, we dont expect to incur additional cost or lower cost going forward than what we had in the last two quarters."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "And so you said that the Independent Counsel has reported its findings already?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Yes. Yes. Because we cant, because its a customer, no we know, we cannot relate to any of these comments that until everything is finished."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. Thank you very much."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, Noah. Our next question comes from Julien Dumoulin-Smith from Bank of America Securities. Julien, please go ahead."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Hi. Thank you. Good morning. This is Adok on behalf of Julien. Just wanted to understand a bit more based on the comments that you made on the Kenya PPA negotiation and how Ormats PPA prices are among the lowest."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Regarding Kenya."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "The question I had was a couple of recent media reports indicated that the Energy Capital secretary had indicated lower energy prices after some renegotiation by unnamed IPTs by December. And I was curious whether any of those discussions pertain to or matter that was just a broader statement?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Its -- Ill refer to the two points. First of all, this was a broader statement, mainly relating to KPLC and required KPLC to start negotiations. As of today, we havent been approached to have any new negotiations on any -- on our PPAs. The task force -- the President task force issued its report end of September, early October. In the task force report, basically, there is some analysis in comparison of PPA rates, including comparing ours to Ken-Gen. It shows that Ken-Gen have about 10% to 12% lower PPA fees. However, we need to take into account that Ken-Gen is a state-owned entity. They are not bound by the same requirements that the public company in the U.S. has, they have access to funding that Ormat can get as a public company. They have also access to brands and additional concessions that the government can give them. We obviously dont know every details in Ken-Gen operation. But as all of us are aware, government-owned entity do get support from the government in different forms. So we dont think the comparison apples-to-apples. But even if you do this analysis, still the difference is around 10% difference at all."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Got it. Thats very helpful. And related to Kenya to, I think, which is serious with respect to KPLC, how the receivables were trending and whether there was any trend of for South kind of receivable payment or any of the older receivables were still being here?"
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "Were actually seeing a big improvement from payments fees from our customers, KPLC. They actually reduced the overdue to $33 million in the end of the quarter. And since then, they pay additional $14.2 million. So if you think about it right now, they are delayed roughly two months, which is something that we work with them, and we appreciate their support."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Got it. Thank you and then lastly, on Kenya, with respect to all carrier resource underperformance, if you could just provide a bit more color on the delay that we observed from the end of year 21 ramp up to now, first half of 22, what exactly is causing that delay and the certainty around the newer time line?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "In Kenya, every time that you deal with drilling and resource, there are potential complications. So we had a few delays in the drilling we have now a very detailed plan going forward. We expect generation to increase gradually over time. Its not one solution, one-hit to solve to go back to the normal generation that we have. So we do expect to see it in stages going up. Part of the issues that we encounter is the transportation, the global transportation issues. Kenya, like most countries dont have in the country, all the requirements, all the materials that are required to do the drilling, and we need to bring it from outside of Kenya. And as you know, shipment cost today or shipment time frames are very much delayed today. So, we were impacted by these delays. But we do have today plan exactly what to do and when to do it. And we see that going over the next few months, and it will be gradual. Its not that one day will get back to the full capacity. We have a few parts that we want to -- few elements to this project to bring it back to full capacity by the middle of next year."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Got it. Thank you and one last question from me, and then Ill pass it on. With respect to your 2023 target of 1.5 to 1.6 gigawatt capacity. Im just curious, given that some of the projects that you have in the development pipeline now are expected COD 2023. So how much of a buffer or leeway do you have with respect to that target now? Thank you."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "This is the target that we believe we can achieve. Obviously, from the geothermal part, it relates a lot to permitting and the delay that weve seen. But this is the target that we think is achievable that we plan to be there."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you.[Operator Instructions] Our next question comes from Jeff Osborne from Cowen & Co. Jeff, please go ahead."
+    },
+    {
+      "speaker": "Jeff Stanlis",
+      "speech": "Thank you. Good morning. A couple of questions on my end on the increased activity or confidence of the demand in California. I was wondering if you could just update us on your land position in California? Or would you be needing to use your Nevada sites that youve self-developed and I think acquired from U.S. geothermal years ago? And then correlated to that, could you give us an update on the power line that you have between Nevada and California? And if theres a way of ballparking, how many megawatts of capacity that could serve, if you were to see set demand in California?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "We have multiple land positions in California, but also and also in Nevada that we are doing exploration in 2021 and in 2022 and that we expect them to mature into a project that well be able to supply both to NV Energy in Nevada and to the various CCAs and SCAPPA in California. So, were working in both places. As you said, we did acquire from U.S. geothermal, a few land positions that we are going to explore this year. Also on the Terra-Gen acquisition, we acquired Coyote Canyon, which is a very high potential land position. And in Beowave and Dixie, we are planning to expand the generation over there due to much better resource that we think can be utilized and generate more electricity. So, on and on, we see the demand and we see -- and we are developing the assets to support this demand. And were actually very happy to see the demand coming from California, but we also see demand in Nevada for geothermal project."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "Thats great to hear. And then maybe just following up on the PPA pricing, I think, in response to Noahs question. What -- how would you characterize returning to normal? I think the SCAPPA deal was done at 75 but that, that was with some older assets. Do you think somewhere in the 80 to 90 megawatt range is reasonable and more normalized to you? Im just trying to get a sense of where you think the market is today."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Well, I would like to be able to tell you that 89 megawatt is the right pricing, but unfortunately, its still not. All I can say is that what weve seen in the last couple of months, continued reduction of PPA pricing to the 60s megawatt in that range. And following the CPUC decision, we see that this reduction basically stopped and turned. And we do hope that well be able to get new PPAs that will start negotiating in these days in the high 60s megawatt, maybe low 70s megawatt, but thats the range that we expect. I would say that due to the fact that we were able to improve significantly our manufacturing NEPC capabilities, were able to reduce the capex. Obviously, the increase in raw material has an impact. But we were able to increase and to maintain the returns that we are looking for. And the fact that the bill -- the new bill that will hopefully extend the PTC, thats another $25. And if it is a cash payment. So effectively, its another $25 per megawatt hour for 10 years."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "Got it. Thats helpful. Just two quick ones here. I think on past calls, youve talked about the Heber two repowering process. Can you talk about where that RFP stands for that additional power? And then any comments on what youre seeing in Indonesia would be helpful, just given the size of the resource there and some of the comments from the government."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "So weve -- as we talked, we issued a bid -- quite a lot of demand following that with the pricing similar to what I mentioned before, we are negotiating PPAs. And hopefully, well be able to sign one in the next few weeks. And whenever we will sign, we will obviously update the market."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "Any quick thoughts on Indonesia?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Indonesia is very, very interesting. If you look on the -- what weve been able to develop there, although it takes a bit longer in COVID obviously delays things. But on top of the Sarulla, 12.75% ownership that we have. We are drilling now in Ijen, which is a joint venture with Medco, where we own 49%, and they own 51% we are drilling, and we expect this to become a project toward the end COD toward the end of 23. The other one is the announcement we did where we have a joint venture with a large mining company in Indonesia, where we own 75%, and they own 25% of an asset in the area of Bitung. So, we see quite a lot of prospects. We have additional sites that we have exploration rights in Indonesia. And from the product segment, what we expect is that in 2022 we will see a few tenders coming out in Indonesia that hopefully will be able to boost the product segment toward 2023 and onwards."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "Thats good to hear. Appreciate the [Indecipherable] detail. Thanks."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Julien Dumoulin-Smith from Bank of America Securities. Thank you, Julien."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Sorry to follow-up here. I just wanted to clarify a little bit. Just on the Ken-Gen side of the equation here, just -- and I know you dont want to negotiate this life of the call, I get that. But when it comes to renegotiating down to the Ken-Gen tariff level versus what they term as being capital structure refinance opportunities. Are those two discrete opportunities for them? Or are they related here as they see cost-saving opportunities? I just want to make sure were clear about that because it sort of seems like theres two parallel avenues here."
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "Julian, we appreciate the question. Its Assi. So the task force report is actually a public report, and you can look at it online. And it shows very specifically that the tariff of format is basically 10% higher from the tariff of Ken-Gen. When you look at Ken-Gen cost, including the steam costs. I will also say that based on that report, Ormat is the lowest IPP in Kenya, when you exclude some very small plans that are barely operating. So, when you talk about negotiation, we are providing the cheapest electricity in Kenya, and we are quite large IPP over there. So, just those are the facts. With respect to the report, as you said, that they are using maybe potentially structuring of our debt as a way for us to reduce the tariff. But they are saying specifically thats the reason to reduce the tariff. They are not suggesting that there is a double forward reduction in tariffs. Again, this is their request from us, which we havent seen yet. Everything weve seen through the report. And as I told you before, and we said before, were always ready to talk to our customers, any customers that will talk to us and request any kind of change in the agreement, we are ready to talk to them. And Im sure there is a win-win situation, similar to what happened in Puna in the past when we lowered the tariff and we got extension and more capacity. So this is something that Im sure can be on the table. But overall, right now, there is no negotiation, and we will continue to support KPLC."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Right. And maybe actually, if I can clarify that. You talked about being 10% higher than Ken-Gen. But what about royalties, for instance, in other costs in your cost structure that may not exist, for instance, with Ken-Gen? I mean when you think about this negotiation, presumably, some of those factors would presumably try -- again, try to reconcile one versus the other there as well, I take it."
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "Exactly, as Doron mentioned during the script, our cost structure and Ken-Gens cost structure is different, including royalties. We dont have the details of exactly whats in their numbers. We know that our numbers does include a small amount of royalties that we do pay. Its a few million dollars a year. But as I said, its very clear in the report that they would like us to reduce the tariffs slightly. And we will discuss with them, and well do the negotiation between us and them and not on Wall Street paper."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "I very much respect that. Thats excellent. And -- but that -- it just relative -- a few million dollars relative to the $12 million that was identified here in annual costs, right a bit, again, its a nontrivial though, there as a percent. If I can, just to clarify on the cadence of opportunities in California as well. I know youve been asked this a couple of different ways. But when you think about the next 24 months, when you think about your resources, what you could put toward California, given how extreme the situation is with seemingly negative reserve margins in California, they need to move quickly. How much resource can you bring to bear to address the California resource adequacy deficit here that seems to lay in front of them? Especially responding to the -- what seems like upwards of a full gigawatt of resource asked from them, at least in the current RFP, notwithstanding further procurement. Again, I just want to understand what you can bring to the table in terms of resource in the very near term, 24 months, 36 months?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Okay. I think if you look on the coming 24 months, basically end of 23, you see most of the assets that we list in our presentation. I think theres maybe one or two additionals that we are in final stages of fluctuation that can come into this time frame. But looking into 24 and 25. And if I remember correctly, the requirement is until 26. So we are doing exploration in multiple sites today in Nevada and California. So well be able to add to the 24, 25 much more. And as you know, in February, when we announced our guidance for 2022, we also update an additional year, basically, 2024, focus on growth. And over there, well be able to see the exploration and prospects that we expect to have."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Got it. And the one to two additional projects you just alluded to, do they have interconnect already? Or where are you in the process with transmission there, just being able to get those done in the next couple of years? You seem to allude to actually being able to get that prior to 24?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Look, we hope we will be able to get them. As I said, and we said multiple times permitting in California and Nevada is a big challenge today, and we need the legislations and to push and to make sure that, on one hand, if they put targets for renewable energy, on the other hand, they also allow renewable energy to develop and build. So, this is a challenge that will work all the time. And thats where we -- thats what we believe well be able to do until 2023 and 2024, we are working now to get you the best number in February."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Excellent. I wish you guys best of luck and hopefully those permits come along. All right Ill leave it there. Thank you for your patience."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. This now concludes our Q&A session. I will hand back to Doron Blachar for any further comments. Thank you."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you. I would like to thank you all for joining us. We see the boost for renewable energy coming across the globe and specifically in the U.S., and we see the increased demand. And as the leading Geothermal company, we plan to supply a big part of this demand. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 51 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Jeff Stanlis--Investor Relations",
+    "Doron Blachar--Chief Executive Officer",
+    "Assaf Ginzburg--Chief Financial Officer",
+    "Noah Kaye--Oppenheimer -- Analyst",
+    "Julien Dumoulin-Smith--Bank of America Securities -- Analyst",
+    "Jeff Osborne--Cowen & Co. Jeff -- Analyst"
+  ]
+}

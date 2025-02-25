@@ -1,0 +1,347 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, welcome to the Third Quarter 2020 Badger Meter [Phonetic] Earnings Conference Call. [Operator Instructions]\nIt is now my pleasure to turn the conference over to Karen Bauer, Vice President of Investor Relations, Strategy and Treasurer. Please go ahead."
+    },
+    {
+      "speaker": "Karen Bauer",
+      "speech": "Good morning and thank you for joining the Badger Meter third quarter 2020 earnings conference call. I hope you are all doing well and staying safe. On the call with me today are Ken Bockhorst, Chairman, President and Chief Executive Officer; and Bob Wrocklage, Chief Financial Officer. The earnings release and related slide presentation are available on our website.\nQuickly, I will cover the Safe Harbor reminding you that any forward-looking statements made during this call are subject to various risks and uncertainties. The most important of which are outlined in our press release and SEC filings. On today's call, we will refer to certain non-GAAP financial metrics. Our press release and slides provide a reconciliation of the GAAP to non-GAAP financial metrics used.\nWith that, I'll turn the call over to Ken."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Thanks, Karen and thank you for joining our third quarter earnings call. I want to start by thanking the global Badger Meter team for their continued commitment and efforts to safely serve and support our customers around the globe. While the majority of our production employees continue to work from home, we have many dedicated employees at our manufacturing sites and with customers all adhering to the many layered health and safety protocols. As you read in this morning's release, our financial performance in the quarter rebounded, reflective of the resiliency of the critical municipal water market.\nAs a matter of fact, we delivered a record quarter in terms of EPS and tied the record for quarterly sales. We improved manufacturing output and experienced more consistent order demand after the trough in activity last quarter stemming from the rapid onset of widespread pandemic lockdowns. Not surprisingly, and as we anticipated, most flow instrumentation end markets remain challenged. Bob will walk you through the details of the quarter and after that, I'll come back and talk further about the market outlook and what we're hearing from customers in the current environment."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Thanks, Ken and good morning, everyone. As you can see on slide 4, total sales for the third quarter were $113.6 million compared to $108.6 million in the same period last year, an increase of 5%. As we noted last quarter, activity levels began to improve as lockdown started to be lifted in mid-May and into June and this activity stabilization continued out throughout the third quarter. In municipal water, overall sales increased 11%, a roughly equal combination of improved order rates and recovery of the backlog built in Q2, which as we noted last quarter was the result of lockdown induced manufacturing disruptions which limited our output.\nPositive revenue mix trends continued with further adoption of smart metering solutions including ORION Cellular radios and BEACON software-as-a-service revenue along with ultrasonic meter penetration. As noted and as anticipated, flow instrumentation sales declined 18% year-over-year, reflective of the broadly challenged markets and application served globally. Operating profit as a percent of sales was 17.2%, a 210 basis point increase from the prior year's 15.1% with improved gross profit margins and SEA leverage contributing to the strong results. Gross margin for the quarter was 39.6%, up 120 basis points year-over-year. Margins benefited from higher sales volumes and positive sales mix. Notably, the overall trends of ultrasonic meter adoption and AMI implementations, including higher BEACON software-as-a-service and ORION Cellular radio sales.\nWhile copper prices, which serve as a proxy for Brass have been increasing. Our average price cost in the third quarter was effectively neutral compared to the prior year due in part to the normal purchasing to production lag. Finally, a reminder that prior year's results included a non-recurring discrete warranty provision associated with the products sold only outside North America. SEA expenses for the third quarter were $25.5 million down $300,000 year-over-year with higher personnel costs, mostly offset by lower travel, trade show and other ongoing pandemic impacted expenses.\nThe expense run rate was $2.3 million higher than the second quarter's $23.2 million reflecting the lifting of the temporary cost actions taken in the second quarter in response to the rapid onset of the pandemic. The income tax provision in the third quarter of 2020 was 23.9%, slightly higher than the prior year's 22.1% rate. In summary, EPS was $0.51 in the third quarter of 2020, an increase of 16% from the prior year EPS of $0.44. Working capital as a percent of sales was 23% relatively in line with the prior two quarters. We again delivered strong free cash flow which at $19.1 million dollars was consistent with the prior year comparable quarter despite the deferral of our federal income tax quarterly instalment payment under the CARES Act from the second quarter into the third quarter.\nOur year-to-date free cash flow of $67.8 million was 22% higher than the prior year $55.6 million and is currently tracking at 187% conversion to net earnings. We ended the quarter with approximately $94 million of cash on the balance sheet as we paid down the small euro line of credit with excess cash. We continue to have full access to our untapped $125 million credit facility. Our stable balance sheet and ample liquidity remain a clear source of strength for Badger Meter.\nWith that, I'll turn the call back over to Ken."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Thanks, Bob. Unfortunately, much of the globe, including the majority of US states are experiencing a resurgence in COVID cases. Thankfully, medical professionals are better prepared now to treat individuals with the knowledge gained about the disease. While this continues to create uncertainty, we are optimistic that extensive lockdowns will not again become a necessity, regardless, we remain fully prepared to manage safely in support of our customers in the critical and essential water sector. Municipal water customer base is large and diverse. The potential for some to experience difficult budgetary challenges exist due to a variety of contributing factors. However, as we've continued to learn from our active dialog across the spectrum of customers, their activities are essential and in many cases regulated.\nSome are implementing temporary cost reduction measures such as hiring freezes and travel restrictions. However, spending on critical and necessary activities, which includes metering solutions required for billing and controlling non-revenue water continues in many respects. Our large and diverse customer base means that there will not be a sole or single response as each municipal operation is unique with different needs and priorities. Municipal water bid tenders and awards are mostly proceeding as planned, although a few have incurred extended timelines or deferrals. There have been no widespread or significant cancellations and most daily order activity has returned to near normal.\nOur supply chain and the logistics partners continue to operate with new safety protocols and processes in place to address the needs of customers with no critical shortages currently. In spite of other challenges and uncertainty, I'm extremely pleased with the level of execution of our team as evidenced by our operational and financial results. Through the first nine months of 2020. Most of this fiscal year, we've been managing in a pandemic environment with countless changes to how all of us do business and severe economic shock to the global economy. Despite that backdrop, we have delivered municipal water sales growth, strong EBITDA margin expansion, robust working capital management and cash flow and an increase in earnings per share. It is a true testament to the criticality of the water industry and the exceptional Badger Meter team.\nNow turning to the outlook. Let me start at a granular level where I do want to highlight a few items in terms of near-term outlook. First, the benefit of the backlog conversion into sales we saw in Q3. On a year-to-date basis, it is neutral, created in Q2, recovered in Q3. But as you analyze the municipal water growth rate in the quarter, order activity alone accounted for a solid mid-single-digit growth rate in sales. The second as Bob noted, copper prices on average have trended up and with our normal leg, this will be a factor in Q4.\nI remind you that, while still important, the impact of Brass on our cost structure has been moderating over time as we sell more software and radios versus primarily in meters. Lastly, you may recall, we had a seasonally strong fourth quarter of municipal water sales a year ago, which creates a tougher comp for the balance of 2020. Turning to the more important longer-term dynamics, it is clear that COVID-19 will have a profound impact on the global water sector and we will -- and we believe there will be a catalyst or increased adoption of smart water solutions. Our customers have a need for holistic integrated solutions that operationalize real time data. These digitally enabled solutions such as our smart meter AMI offering reduce overall cost and offer safer remote solutions.\nThese factors are in addition to the secular drivers that have already been evolving such as the need to reduce non-revenue water, drive conservation, address the aging workforce of utilities and connect with end consumers. With our robust cash flow and ample liquidity, we are actively investing in, and developing products and solutions to address these challenges. This includes both organic and acquisition driven growth geared toward augmenting our offerings and attractive adjacencies serving water-related markets and applications. For example added sensors and instruments for complementary data elements, such as pressure and temperature, which are used to determine system health. It also includes expanding functionality of our ion water software app [Phonetic] that helps drive consumer engagement.\nTo close out the prepared remarks, I'm pleased with our financial performance, the resilience of our business model and our organization's response to these unprecedented times. We will continue to stay close to the rapidly changing implications of the pandemic on both near term operations and longer-term trends and are prepared to successfully manage all aspects within our control.\nWith that operator, please open the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question comes from the line of Rick Eastman from Baird. Your line is open."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Yes, good morning. Thanks for the question. Just a couple of things, and maybe I'll -- I'll direct this to Bob, but I think Ken, you're welcome to take it, but could you toss some color maybe around the incremental gross margin here with the mix benefits. And I know copper has kind of moved around here been mostly favorable, but maybe turning against us a little bit. But again, the incrementals here kind of suggest that as we move into ' 21, our gross margin can comfortably kind of inch above 40%. And I'm just -- I'm just curious if I'm missing any puts and takes there or maybe, like I said, Bob, maybe you could just throw some color around that."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yes, I think, if you hit a couple of key drivers here [Indecipherable]."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Bob, I can barely hear you. I don't know, others are [Indecipherable]."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Can you hear me now?"
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Yeah. That's better. For sure."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Sorry about that. I had a mic problem. So, I think you addressed the mix comment, which is certainly relevant. If you look over, the last eight or nine quarters consistently, we've been able to generate gross margins in the upper quarter of that or upper half I should say of that normalized 36% to 40% range, I think you continue to see that tightening. When you speak to incrementals in the quarter, I think just on paper, the incrementals are pretty robust and juicy. That's -- one of the reasons is, as I had mentioned in the prepared comments, just reminding of the prior year discrete item. And so when you effectively normalize for that -- that headwind a year ago, the incrementals really fall into that 30% range, which is very consistent with what we've talked about as kind of long-term incrementals, decrementals for the business.\nSo I think, once you normalize that juicy incremental on paper to reflect that one-time item, I think you'll see they fall very close to where we've anticipated. Now, to your comment on the ability to continue to drive margins north of gross margins, again, north of 40%. I think I've consistently been on record that certainly mix is a driver, and we continue to see that. So I do see that, tightening of the range and the gross margin performance. At the same time, I like to always remind folks that we still, at the end of the day operate in an oligopoly in the marketplace and while rational, we're part of a narrow set of competitors. And I think that that constant competition within that narrow set of competitors continues to drive that constant expansion down over time. So yeah, I think you're right in terms of that incrementing north, but I just -- I caution against this kind of stairway to heaven concept that we've talked about in the past."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Okay. Yeah. I understand. And then just as a follow-up, Ken, if I look at -- if I look at the second and third quarter revenue in '19 versus the second and third quarter revenue in aggregate in '20. When I just kind of stacked those comps which kind of falls out of it is about a 1.5 point of growth, year-over-year. And then just, what's your perspective on that? I mean the suggestion is that maybe things are accelerating, you kind of mentioned, maybe mid-single-digit type of growth coming out of -- into the third quarter, but I'm just -- I'm just kind of curious, when you stack the comps and kind of try factor out, the COVID impact here on the business, is it your sense that we are accelerating off of this kind of low-single-digit type of trailing growth maybe into the -- into the mid-single digits here."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, Rick, so if you look at the impact of our industry, we've said this, I think several times, when it can be uneven and sometimes you get these periods where it may be down, and it doesn't react to a situation like COVID like a stack bar. So what happened in Q2 doesn't just roar back in Q3 and Q4. So the previous quarter to that, we were 6%, Q4 last year, we were 8%. Here we would have been mid-single-digit this quarter. Yeah. I feel -- I feel pretty comfortable that we've moved into this, back to the near normal state of mid-single-digit growth for utility."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Okay. Okay. Fair enough. That perspective is over a multiple quarter horizon."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, yeah."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Okay. Yeah, fair enough. Thank you."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Nathan Jones from Stifel. Your line is open."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Good morning, everyone."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Good morning, Nathan."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Ken, maybe I could just follow up on these orders [Phonetic], it doesn't sound like they're very widespread, but could you give us a little bit more detail about what customers are saying on the order delays, kind of, how long these order delays that you're seeing are, how widespread they are? And do you think that, something that's going to correct itself in fairly short order or is that something that utilities are way -- say what their budgets are going to look like next year, which is some potential revenue headwinds from COVID and things like that."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, Nathan. So it's mostly on the bid side, not the order side. So the orders are again back to some of what we think in near normal. And on the bids, it's been -- it's been mostly what we hear, it's a matter of months, not a matter of years. So these aren't -- these aren't long-term deferrals. It's generally around the fact that it's still somewhat inefficient people aren't all working together. So being able to do a really solid bid, sometimes a little more difficult with people being remote not us, but I mean customers. So in general, we've seen some bids move to the right, but it's really not been enough to be to be concerning."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "So your view of that is, it's really more COVID disruption than budget disruption?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, I would say that, we obviously are spending a ton of time feedback in the field with our customers. Bob and I and the leadership team are engaging constantly with our sales force. And yeah, that, I would say that is generally the case."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Excellent."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "I think."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Go ahead, Bob."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "I was just going to say, I think, Ken's comments are really addressed on kind of the sequencing and pacing of Q2 to Q3 to Q4. Your question, I think it was maybe reaching a bit more into 2021 and budget cycle, and clearly we've all acknowledge the challenges that exist in that space, but I think coming back to the point in the prepared remarks and in just some of the discussions we've had, is this concept of, we have a very diverse customer base on the water utility side of the business and each utility need is different. So there is not a one size fits all single response.\nAnd I think just like static metering adoption and AMI preferences vary utility to utility. I think the budget response and the attitudes toward cost containment versus non-revenue water management and other trends is different utility to utility and that's what we see playing out."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Yeah. We're certainly hearing that meters are not the number 1 thing on the block for cutting spending. Maybe when it comes to expenses in your own business, you mentioned in the press release this morning that there's been lot of travel and COVID related expenses. Could you assume that they're coming back into the business at some point. You're saying some rising copper prices here. You talked about 30% incremental margins and with some expenses coming back into the business, should we expect you guys to be able to maintain that kind of, call it 30% incremental, despite some of these expenses is coming back into the business in the short term?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah, Nathan, I would say the short answer is, yes. And we like every other industry, every other company, we've really learned a lot about what can be done now without travel and entertainment expense and how effective some of these technology tools have become to conduct business. So we certainly will be very prudent as we continue to analyze which of these -- which of these trends are going to stick and which of these are still going to require going out to visit people. So we've been working very closely with our customers. And we go in and we see customers whenever they want to be seen. We follow all the safety protocols. So some of that -- some of that activity has occurred. But clearly, we will keep a close eye on making sure that we can continue to conduct business, the best efficient way possible going forward and maintaining that margin."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Excellent, thanks very much for taking my questions."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Andrew Buscaglia from Berenberg. Your line is open."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Hey, guys. Could you talk a little bit about your -- so you're generating a lot of cash these days. Your cash position is pretty high. And I know you're talked about more moving on M&A in the past around, can you first update us anything going on there. But secondly, what are you planning to do with your cash? It's building pretty robust, and you talked a little bit about investing in digital solutions, maybe you can talk about where you're investing, specifically?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah, so Andrew, our capital allocation priorities, clearly based on the strength of our cash balances and balance sheet are clearly intact. So one, we're going to continue to invest in internal R&D, we've got some great projects that we continue to work on the meter and communication side. We also are investing and developing out some of our own internal software capabilities to augment the BEACON platform. Second is increasing dividends in line with earnings, so we did increase our dividend again for the 28th consecutive year. And thirdly, of course, is the M&A piece and coming into the pandemic, we have a strong funnel of opportunities that we're excited about that we're talking to, not auctions. So they're not time bound. So it's been -- it's been nice in that way that we've been able to maintain communications, although traveling, of course, has been difficult. But we still -- we still have a really strong funnel of opportunities that are actionable and just trying to get due diligence and being able to get them over the finish line, that is primarily been the challenge. So our capital allocation priorities remain the same. We would like to be moving down the paths that we've stated before of perhaps adding water quality to our water quantity strength, perhaps adding more, more data and analytics, which of course, the market is continuing to look for more. So capital allocation priorities are the same. Do I wish we could go faster? Sure. But that's one of the -- that's one of the regrets of COVID."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Okay. Okay. You talked about, we are seeing some acceleration here with the smart water metering and you put together a pretty good quarter, is there anything, any reason to believe you, you're picking up some share gains here or -- you're in conversations with municipalities there, is there any reason to believe, you could be picking up share in the future given the sort of an acceleration and what to spend on these products and you guys have a pretty broad offering."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah, so first off, as we've been pretty open about, this is a very difficult market to take share in. So am I extremely confident in the product offering that we have that we're providing value to our customers with our choice that we offer with whatever kind of meter they want, whichever type of communication platform and providing them with data that helps them monitor and operate their business? I feel great about that. Do I think we're winning share? I think we're certainly holding our own and doing quite well."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Bob Shernav [Phonetic] from RBC. Your line is open."
+    },
+    {
+      "speaker": "Bob Shernav",
+      "speech": "Thank you. I have -- I have an interesting question for you. Smart water systems represent my opinion, one of the great growth opportunities that we have here. Sensors connected to devices basically, meters that we have, especially for one of the biggest pain points, which is, water leakage in aging infrastructure, I was wondering if Badger has been working on ways to using sophisticated acoustical devices for example, to find leaks to identify changes in pressure that could predict a major water break or other problems here?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah. Hey, Bob. Thanks. Yeah. It's good question. So as we continue to take the stance of being the innovator in this market, one of the things that that we are excited about, that we released last year in fact was the 3 and 4 inch E-Series Ultrasonic Meters that come standard with pressure and temperature sensors. That then gets communicated through our BEACON system, and pressure, of course can be an indicator of pipe failures, temperature could also be an important factor.\nAnd as I was just talking about with what we're looking to invest in organically on both through M&A, that's in the lane way of your question. So obviously smart water, smart metering are critical to operations, and I think we've got a really good position with our brand name, our customer relationships and ability to offer those services in the future."
+    },
+    {
+      "speaker": "Bob Shernav",
+      "speech": "All right. Thank you."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Ryan Connors from Boenning & Scattergood. Your line is open."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Great, thanks for taking my question."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "You've been pretty comprehensive already, but I did have a couple more. So one thing, I wanted to talk [Phonetic] about warranties. I mean warranty charges, I mean that's a fact of life in the meter space, you had one in '19, you had one '16. Are there any issues there we should be thinking about as it relates to everything you're going through this year? Factory interruptions, not only for yourself, but for component vendors and then you talked about the shift in new technology, there is always some things to work out. Anything there that could arise as we move forward?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Well, to your point, in any industry, you're going to have warranty charges from here and there, but there is not anything that I think is substantial that anyone should need to be concerned about."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Okay, fair enough. And the other one -- at last call, second quarter call, Ken, you talked about the whole federal infrastructure bill. And I guess your take was that it would be a positive, if it was executed quickly and efficiently, but maybe less so if it was dragged out, process was dragged out and create an uncertainty about funding and so forth. And any update there, I mean, obviously we're days from the election now and the update there on what you're thinking, customers are thinking in terms of how this will shake out in the next 12 months, whether this could be a positive or what kind of the prevailing view is in the marketplace on federal stimulus?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Can you tell me, who is going to win? I can -- hell [Phonetic] shoot. So again, it's one of those things where truly anytime there is an infrastructure package for the long term, which we continually beat the drum on. It's going to be good for our industry and it's going to be good for us. It gets into so many different factors of, is it a Democratic sweep, and then they can just do whatever they want fast, perhaps that could be good. Is it Republican share the Senate, and there is grid lock that happens to be. I can't predict the myriad of things that will come out of it, but I do believe that there is a -- I do believe that there is a general feeling that the country wants and needs infrastructure stimulus, but again, I'm just going to -- I'm going to hope that, when it happens, it happens quickly, but either way, it's going to be good for us for the long term. And I still completely believe in the fundamentals of what we're doing in smart metering and smart water that we're going to be OK, regardless of what happens, but it can be helpful."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Got it. Okay, well thanks for your time and congrats on a great run from stock?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Rick Eastman from Baird. Your line is open."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "So I am back again. A quick question, when you look at the utility business, the muni business, can you give us a sense of the 6 and 8-inch Ultrasonic Meters kind of come in the market, was the commercial business piece of muni water, did that outgrow the residential piece? Was there any bump here in the newer product introductions?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah. So you had mentioned 6 and 8 inch, so those are not a new launch for us yet. That's obviously something that's in the funnel. But when we talk about Q3 stand-alone residential outpaced commercial, but that often flips quarter to quarter. So I wouldn't necessarily draw too many conclusions from that. But clearly, the current quarter growth was driven more by residential and commercial."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "I get you. Okay. And then just one last question, just around the globe, is the industrial coal business. You know, as you look at that business here and, you know, you talked about us staying, lower for longer, which is understandable. Are you kind of getting any sense that that business is just bottoming from a quarterly revenue standpoint? You can make that arguments when you look at it. But what's your sense in terms of, is this a U-shape bottom for that business and really kind of stabilized on here?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah. So in, honestly on this one, this one's a little more difficult for us to predict. Right. We have a great handle on the smart meter market. But you got to remember, flow instrumentation for us is a series of small -- small playing in oil and gas and petrochem and auto and wastewater HVAC and what we see in wastewater and HVAC sustainability, that was down less. And even petrochem has been has been, OK. But then the oil and gas, auto, aero are more damaged. So it's hard for us to give you a straight of an answer as we feel on the utility side. But I think it's -- I think it's probably bottomed. I mean, we -- revenue, we were slightly up, Q3 versus Q2 or activity is a little higher.\nThe other thing about that business now that I'm rambling out of the bet, is that, that's more global in nature for us. So as we saw the pandemic sweep across it, it started in Asia where we have some Asia revenue for flow instrumentation. Then it hit Europe next. Then it hit the US next. And now you've got the resurgence of cases. So I'm pretty comfortable saying it's going to be lower for longer. I'm not pretty comfortable being able to predict what and when."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "I do think you can think sequentially. Q2 is down 22% year over year, Q3 down 18% year-over-year. I do think we think that that pace of decline moderates in the short term moving forward, it's still clearly lower, clearly lower for a longer."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Yeah. And, is that business starts to come back and, we can all look out to a positive year-over-year quarter somewhere. But how, what would be the impact on the gross margin as that business starts to approach some sort of year-over-year growth rate, would it be accretive to the gross margin?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah. So, I think, we talked about this a little bit last quarter, Rick, that, really where we stand today, there is not a tremendous amount of margin differential between the two product lines. So growth in one, decline in the other doesn't necessarily have an oversized impact. And so really, they're very similar margin, gross margin profiles when you compare municipal water versus flow instrumentation product lines. So I think that answers your question."
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "With the -- again with the assumption that balanced sales means, the decremental there, for the current time, so as it rebounds, as you get a nice rebound, on the gross margin there with Bob."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "[Indecipherable]"
+    },
+    {
+      "speaker": "Rick Eastman",
+      "speech": "Okay. All right. Very good. Thank you, again and a tremendous quarter. Nice work."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Tate Sullivan from Maxim Group. Your line is open."
+    },
+    {
+      "speaker": "Tate Sullivan",
+      "speech": "Thank you. And thank you for the comments and on the muni water revenue growth, year-over-year, very impressive. I mean, it's usually a smaller portion, but any -- from international or with the -- all US driven that revenue growth rate? If you can..."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah, US revenue. That's the majority of the activity. Anyway, the international is so small. Even if it was a percent growth, it would sound great. But it's US."
+    },
+    {
+      "speaker": "Tate Sullivan",
+      "speech": "Okay, thank you. And then more, excuse me on the BEACON sales cycle, who is not selling BEACON to existing customers and is still dependent on getting the newer water meters inside the homes, or can you do something on the water mainlines? Or can you talk about the BEACON sales cycle, do they have to go tell together with selling bulk, new sale for water meters?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "So, it doesn't need the sale of a meter, but it does need the sale of an ORION radio. So if you have a fully installed meter base, you could decide, a utility could decide to come back and buy the cellular radios and then upgrade with the BEACON software-as-a-service package. Typically, what we see is the full AMI bid where people do go out and they're looking at upgrading the meters, so they can capture their non-revenue water, upgrading the communication, so they can get the efficiencies of and safer operations and efficiencies of getting billing reads and getting all that other information. So normally it's full, but it doesn't have to be."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "But also Tate, at the same time, your question mentioned that, the assumption that the radios are only at the cash register or at the metering point, there are other use case applications within utilities, where our cellular radios are being used on supply lines as well as hydrants elsewhere in the distribution network. So it's not just a use case in the home or in the commercial business can also be used on supply lines or other points within the distribution system."
+    },
+    {
+      "speaker": "Tate Sullivan",
+      "speech": "Thank you. That's it. That's what I was wondering. And then also on that, you quantify before the percent of revenue of BEACON, can you offer that today or is it similar to what you've said historically."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah. So 2019, if you recall, it was roughly 4% for the year and it has continued to grow this year."
+    },
+    {
+      "speaker": "Tate Sullivan",
+      "speech": "Okay, and then integrating water quality and my last one, thank you. For that integrating water quality, capability into existing meters or future meter sales, that -- could that be internally developed or still mostly driven by M&A?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "You know, so it's one of those things where it could be internally developed, but it could be faster with M&A. So that's kind of answering it both ways, but."
+    },
+    {
+      "speaker": "Tate Sullivan",
+      "speech": "Perfect. Okay, thank you very much."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no further questions at this time, I'd like to turn the call back over to the presenters."
+    },
+    {
+      "speaker": "Karen Bauer",
+      "speech": "Great. Well, thank you all for joining our call today. For your planning purposes, our fourth quarter full year 2020 call is tentatively scheduled for Friday, January 29. I'll be around all day to pick any follow up questions you might have a great day. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 36 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Karen Bauer--Vice President of Investor Relations, Strategy and Treasurer",
+    "Kenneth C. Bockhorst--Chairman, President and Chief Executive Officer",
+    "Robert A. Wrocklage--Senior Vice President and Chief Financial Officer",
+    "Rick Eastman--Robert W. Baird -- Analyst",
+    "Nathan Jones--Stifel -- Analyst",
+    "Andrew Buscaglia--Berenberg -- Analyst",
+    "Bob Shernav--RBC Capital Markets -- Analyst",
+    "Ryan Connors--Boenning & Scattergood -- Analyst",
+    "Tate Sullivan--Maxim Group -- Analyst"
+  ]
+}

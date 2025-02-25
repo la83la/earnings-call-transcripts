@@ -1,0 +1,314 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning and welcome to the Pitney Bowes First Quarter 2021 Earnings Conference Call. [Operator Instructions] I would now like to introduce participants on today's conference call, Mr. Marc Lautenbach, President and Chief Executive Officer; Ms. Ana Maria Chadwick, Executive Vice President and Chief Financial Officer; and Mr. Adam David, Vice President, Investor Relations and Financial Planning. Mr. David will now begin the call with the Safe Harbor overview."
+    },
+    {
+      "speaker": "Mr. Adam David",
+      "speech": "Good morning. Included in this presentation are forward-looking statements about our expected future business and financial performance. Forward-looking statements involve risks and uncertainties that could cause actual results to be materially different from our projections. More information about these risks and uncertainties can be found in our earnings press release, our 2020 Form 10-K Annual Report and other reports filed with the SEC that are located on our website at www.pb.com and by clicking on Investor Relations. Please keep in mind that we do not undertake any obligation to update any forward-looking statements as a result of new information or developments. Also, for non-GAAP measures used in our press release or discussed in this presentation, you can find reconciliations to the appropriate GAAP measures in the tables attached to our press release and also on our Investor Relations website.\nAdditionally, we have provided slides that summarize many of the points we will discuss during the call. These slides can also be found on our Investor Relations website.\nNow, our President and Chief Executive Officer, Marc Lautenbach, will start with a few opening remarks. Marc?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Thank you, Adam. And thank you everyone for joining today's call. We got off to a solid start to the year with every business making an important contribution to the quarter. Overall, revenue at constant currency grew 14% and every business improved their EBIT performance. For the second consecutive quarter, SendTech improved EBIT on a year-to-year basis. As I mentioned before, the transformation of SendTech from a business in secular decline to a business well positioned to capture new value in the shipping market is one of the most impressive transformation I've ever seen. The business has leveraged digital technologies to transform our offerings and our go-to-market strategy. SendTech's platform is built on IoT technologies that are delivered on a fast chassis and this business is very well positioned going forward.\nOur Presort business continued with the momentum we saw at the end of last year with both revenue and EBIT improving on a year-to-year basis. Global Ecommerce revenue at constant currency grew 40% for the quarter and EBIT margins improved nearly 400 basis points on a year-to-year basis. Importantly, profit performance improved throughout the quarter as our labor model continued to mature and pricing changes kicked in. In the month of March, Domestic Parcel Services per unit labor cost delivered the best performance compared to any quarter since second quarter of last year. We expect unit labor cost to continue to improve and transportation and automation efficiencies are primarily still in front of us.\nTransportation cost remain high in both our Ecommerce and Presort businesses. So further insourcing our transportation, as well as the deployment of automation will benefit both businesses. A lot of opportunity in front of us as we continue to invest in areas that will yield future productivity benefits. We also made several important additions to our Global Ecommerce team. While I'm sure the team will continue to evolve, we have a group of professionals and consultants guiding our business who have built business to consumer networks centered on induction to the USPS system.\nCash performance for the quarter was also relatively strong compared to prior year off of an improved working capital performance. The team continue to demonstrate strong operational discipline. We also executed a successful refinance in the quarter. There are two objectives to the refinancing. First, we wanted to push out the maturities, further decreasing our refinancing risk. Secondly, and more important in my perspective, we created strategic flexibility. We achieved both those objectives.\nI've described four chapters of transformations, quick wins, sustained investment, revenue growth and finally, profitable revenue growth. Last quarter, I said we are poised to enter that fourth chapter, profitable revenue growth. It's hard to call the first quarter an inflection point given the nominal EBIT increase but revenue and profit did increase and are very much like our position going forward. Each business is poised to continue to make progress during this year and for that matter, going forward beyond this year.\nAll in all, I'm quite pleased with the quarter. It turned in another strong revenue performance and improved EBIT across each segment compared to the prior year. As the revenue compares get more difficult as the year goes on, growth will inevitably moderate but the trend is quite clear and are very much like the way we are positioned.\nWith that, I will turn it over to Ana."
+    },
+    {
+      "speaker": "Ana Maria Chadwick",
+      "speech": "Thank you, Marc. Before I get into the details of the quarter, this being my first earnings call with the team, I want to share with you a few thoughts on what attracted me to Pitney Bowes. The first thing that attracted was the growth trajectory. Now that I have had a chance to go deeper into the business, I am confident that we are on the right path of achieving what Marc referred to as the fourth chapter of our transformation, which is profitable revenue growth. The second item is culture. I can feel a true sense of team, pride and passion for continuously innovating and winning in the marketplace. These are concepts that you cannot necessarily teach, they are ingrained and I consider them to be imperative to our success. And last, what I did not realize or quickly learned is how much technology is deeply needed in everything we do. It's not as evident when you look at the business from a distance, but I believe it's one of the major enablers to the company's transformation.\nNow, let me turn to our first quarter results. Unless otherwise noted, I will talk to revenue comparisons on a constant currency basis and earnings related items including EPS and cash flow on an adjusted basis. Revenue was $915 million and grew 14% over prior year. Adjusted EPS was $0.07 and GAAP EPS was a loss of $0.18. GAAP EPS includes a $0.22 loss on the refinancing of our debt as well as a $0.02 loss from discontinued operations and $0.01 on restructuring charges. Free cash flow was a net use of $1 million and cash from operations was $66 million, both an improvement from prior year due to favorable working capital changes largely around the timing of accounts payable and accounts receivable along with improved collections. This was partially offset by lower customer deposits at our PB Bank.\nDuring the quarter, we paid $9 million in dividends and made $4 million in restructuring payments. We invested $43 million in capex as part of our plan to drive future operational efficiencies. We ended the quarter with $697 million in cash and short-term investments. Total debt was $2.4 billion. We took several actions during the quarter to refine our capital structure along with reducing overall debt by $126 million from prior year. These actions further reduce refinancing risk with the reduction of our near-term bond maturities. We also improved the pricing up and substantially paid out our term loan B, improved our covenants which provides us greater strategic flexibility and extended the duration across our capital structure. When you take our finance receivables and cash into account with our debt, our implied operating debt is $690 million.\nLooking at the P&L, starting with revenue versus prior year. Business services grew 28%, equipment sales grew 12% and rentals were flat to prior year. We had declines in Support Services of 4%, supplies of 10% and financing revenues of 14%. Gross profit was $299 million and gross margin was 33%, which was down from the same period last year largely due to the mix and shift of the portfolio, but is an improvement from the fourth quarter.\nSG&A was $238 million or 26% of revenue. This is an improvement of $10 million and 5 points respectively from prior year. Within SG&A, corporate expenses were $57 million which was up about $14 million over prior year largely due to benefits recognized last year around employee variable-related costs and a sales tax credit.\nR&D was $11 million or 1% of revenue and down slightly from prior year. Adjusted EBIT dollars were $50 million, which was a slight improvement over prior year. Adjusted EBIT margin was 5%. Interest expense, including finance interest was $37 million. Our tax provision on adjusted earnings was a benefit of about $400,000 and includes a benefit associated with an affiliate reorganization. Compared to prior year, our tax provision benefited EPS by about 1.5%. For purposes of determining adjusted EPS, shares outstanding are approximately $179 million.\nLet me now turn to each segment's performance starting with Ecommerce. Revenue for the segment was $413 million and grew 40% over prior year. Revenue continues to benefit from the strong demand along with the pre-pandemic comparison. Volumes grew year-over-year across all lines of service. Domestic Parcel Services volumes grew 23%, Cross Border volumes were more than doubled and our Digital Services volumes grew 36%. EBIT was a loss of $26 million and EBITDA was a loss of $8 million. Compared to prior year, EBIT improved $3 million and EBIT margin improved nearly 400 basis points. We made progress through the quarter where earlier on we were still dealing with the receivable of peak holiday season. We continue to work to improve service levels in our Domestic Parcels Network balancing cost and quality which are all headed in a positive direction.\nAs with the industry, we all continue to see relatively high transportation costs and a competitive labor market. However, as we move through the quarter, our Domestic Parcel Network improved parcel process per hour by approximately 45% as our labor model continued to mature. Margins continue to be healthy in our Digital and Cross Border services. Of the $26 million EBIT loss in the quarter, we saw a loss of $4 million in March and reported positive EBITDA for the month. Within our Domestic Parcel Service, our initiatives to improve productivity are still largely in front of us.\nAs we have discussed in the past, investments will include new automated sorters along with streamlining our processes to improve productivity. We placed one new sorter in a high volume site in the first quarter and expect to roll out more over the next 12 to 24 months. In addition, we are implementing modern sortation processes in each of our facilities before the upcoming holiday peak season this year. This investment and related productivity actions are expected to more than double our [Indecipherable] process per hour our over time.\nIn addition, our transportation team continues to execute on the strategy of migrating outsourced lane into our own PBC. In the first quarter, we insourced several of these lanes with more plans for the second quarter, all which will improve cost and service. We also brought in third-party industry expertise to help support our execution in the area of transportation. We believe that optimizing our transportation will yield significant productivity benefits.\nFinally, we are in the process of opening two new sites and upgrading another which we expect to have completed prior to the peak season. This will allow us to handle volumes more efficiently and deliver deeper into the USPS network. Ultimately, we expect transportation and labor productivity along with optimizing final mile solutions to be critical drivers in obtaining our long-term e-commerce margins. We expect these to account for approximately 75% of the margin improvement.\nOur Presort Services saw the momentum from the second half of 2020 continue into the first quarter. The business turned in a solid performance growing revenue, EBIT and EBIT margin over prior year. Revenue was $143 million and grew 2%. Overall, average daily volumes were flat to prior year where First Class Letter Mail declined 2%, Marketing Mail grew 11% and Marketing Mail Flats and Bound Printed Matter grew 30%. EBIT was $19 million and EBIT margin was 13%. EBITDA was $27 million and EBITDA margin was 19%. EBIT and EBITDA improved from prior year due to both revenue growth and lower expenses.\nWe have been able to maintain double-digit margin in the Presort Business even as we continue to invest in our talent and equipment. Compared to prior year, we improved pieces fed per labor hour by 4% resulting in 85,000 less processing hours. Within SendTech, we also picked up on the momentum from the second half of 2020 as we continue to soften the decline in our revenue and maintain strong EBIT margins. Revenue was $359 million and declined 3%. We continue to differentiate ourselves in the market with our end-to-end mailing and shipping offerings to enterprise and small office providers that are attractive to both existing and new clients.\nWe have a growing revenue stream around office shipping that carries with it high margins approaching that of our legacy mailing business and a software business. And like the legacy mailing business, the shipping opportunity in SendTech provides multiple paths for us to add profit and revenue like supply, financing and professional services. SendTech's shipping related revenues grew at a low double-digit rate to approximately $30 million in the quarter. The number of labels printed through our shipping offerings grew over 40% and paid subscriptions grew approximately 80%. Additionally, we are seeing good growth in shipping volumes that our US clients are financing which grew nearly 80% over prior year. These positive metrics show that our clients are adopting and using these new offerings as they see the value it brings to their business.\nEquipment sales grew 12% over prior year driven by strong placement of our SendPro C, which include a large government deal and we continue to see good placements of our new central mail station, multipurpose device. It is important to point out that like others, we have experienced transportation issues related to our supply chain. We have been able to properly manage our inventory and grow our equipment sales despite these challenges and it is an area that we are closely monitoring. We are also keeping a close eye on the semiconductor industry and are looking to mitigate any potential second half supply shortage by repositioning our solutions as necessary.\nWe turned in a strong EBIT performance of a $114 million which represents growth of $8 million over prior year and is the second consecutive quarter of EBIT growth. EBIT margin was 32%, which improved 250 basis points over prior year. EBITDA was $122 million, EBITDA margin was 34%, both improving over prior year. As you may recall, prior year included an increase to our credit-loss provision to reflect macroeconomic conditions resulting from COVID-19 in connection with the application of the CECL accounting standards. One other point that I would like to make is that this team has done a tremendous amount of work, not only to transform its products and offerings, but also its channel.\nToday, about 80% of all US sales transactions are happening through our web or inside sales channel. This has allowed our field team to concentrate on larger enterprise deals and this has been a great contributor to maintaining the very healthy margins that we see in this business. I am pleased with the performance of our key trend in the first quarter. We entered the year with good momentum and continued to concentrate on the opportunities in front of us, and we expect to make good progress throughout the year.\nAs discussed during our last earnings call, we continue to expect annual revenue at constant currency to grow over prior year in the low to mid-single digit range making this our fifth consecutive year of constant currency revenue growth. We also continue to expect adjusted EPS to grow over prior year. Free cash flow is expected to be lower from prior year primarily due to specific items which benefited 2020 such as higher customer deposits, lower finance receivable and lower capex, which are not expected to continue at the same level in 2021. Within our segments, we expect Global Ecommerce revenue growth to be stronger in the first half compared to the second half as the revenue comparisons will get more difficult as we move through the year. We also expect e-commerce to demonstrate significant profit improvement and deliver positive EBITDA for the full year.\nWithin SendTech, we expect the momentum we saw in the second half of 2020 and first quarter to continue, particularly around our shipping capability and new multipurpose devices and help partially offset the decline in reoccurring related revenues. We also expect the improvement in volume trends we saw in Presort in the second half of 2020 and first quarter to continue through 2021. There are a few headwinds to be aware of on a year-to-year basis that will partially offset the overall business unit improvements. In 2020, we recorded write [Phonetic] insurance proceeds. In 2021, we expect higher employee-related costs as it relates to variable compensation. Additionally, we expect a higher tax rate in 2021.\nLooking at the timing through the year, our portfolio continues to shift to markets that are growing particularly around shipping. As a result, the fourth quarter will continue to be our largest quarter of the year for revenue and earnings. For the second quarter, we expect revenues to grow in the mid to high single-digit range. Similar to first quarter, we also expect adjusted EPS to grow modestly over prior year.\nThat concludes my remarks. Operator, please open the line for questions."
+    },
+    {
+      "speaker": "Questions and Answers:",
+      "speech": ""
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question comes from the line of Ananda Baruah from Loop Capital. Please go ahead."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "Hi, guys, good morning. Thanks for taking the question and congrats on the solid start to the year. You just answered what was going to be my first question, which is how you feel about potential for e-commerce profitability as we move through the year. But let me ask it this way too. So you're mentioning EBITDA positive for the full year. Do you feel like you have any opportunity for EBIT positive, if not for the full year, by the end of the year? And then I have a couple of quick follow-ups. Thanks."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Sure. Thanks, Ananda. Listen, we're pleased with the progress that the Global Ecommerce team is making to get the profitability and being EBITDA profitable for the year is an important milestone, but it's just that, that's a milestone, we have more work to do. My expectation is we're on a trajectory as we exit this year to be EBIT profitable next year. So I think that's probably one way of answering your question. So we like the trajectory. I would also point out we made 400 -- nearly 400 basis points of EBIT improvement year-to-year. If we do that for the next couple of years, we're on the long-term model in 2024 as we have outlined. So good progress, more to do, and as Ana said, the benefits around transportation and automation are still in front of us, and with that, we'll carry better labor."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "And it sounds -- thanks, Marc. That's great. Listen, I mean, you did a great job of laying out sort of the upcoming initiatives in e-commerce with transportation, automation, labor, etc. In any way, and it sounds like -- it sounds like you're talking about a 24-month time frame for the ones that you're speaking to today. Any way to frame for us when you think you'll reach sort of when in that 24 months you'll hit kind of sort of I guess the bulk of the normalized impact just so we can sort of frame for ourselves as we model out, quite frankly '21 and '22, because that's what we have to do. Like when we might expect those initiatives to layer in, in a really critical mass kind of way. And I have one last quick one. Thanks."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Sure. It's a little bit hard to predict with precision just because you take transportation in particular, there is a lot of unknowns, not the least of which is how quickly you can get trucks and truck drivers which right now are remarkably scarce. So as I said, we think even a positive this year on a trajectory to be EBIT positive next year is kind of how we're thinking about it."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "Okay, that's helpful. And then the last one -- the last one from me is any way you can give us a sense of what the e-commerce gross margin profile look like for the quarter, just reported the March quarter and then relative to the December quarter and then relative to year-over-year March quarter over the last year as well. Just so we can get a sense of what progression is there too."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Yeah. So there is two different things that affect gross margins in Global Ecommerce. One is the various deficiency of the businesses and the second is a mix. So as you look at the gross margins for the Cross Border Business as well as the expedited business and the Digital Business, those margins are all very healthy. Delivery margins improved, but they still have a way to go. So I would say, gross margins were a touch down in the business, but it was -- it was due to mix more than anything else."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "Yeah, on the Q-over-Q basis of touchdown?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Year-over-year."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "Year-over-year. Got it, got it. Okay. Okay, great. Thank you, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Shannon Cross from Cross Research. Please go ahead."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Thank you very much. I have a few questions about e-commerce. FedEx had mentioned China outbound is back to normal. So just overall, what are you seeing in terms of Cross Border and maybe you can talk about the regional performance?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Cross Border Business was quite strong across almost all ends, including China."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Okay. I mean, is it -- I guess, my question is that do you think you're back to normal or is there still some improvement to go related to some of it?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Yeah, no, I think that has a very different personality depending on where in the world you are. So, obviously, if you're in India or Brazil right now, those economies or those silos are suffering a lot. So it's very different depending on where you are. Most of our lanes are into Europe, as well as China. So for the most part, we're for the moment not being dramatically affected in the Cross Border Business and candidly, the currency rates helped us as well."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "And what about pricing, and you've taken prices up. Do you think there is room to take them up again given the improving demand or are you feeling pretty good about where your prices are?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "So as I said in my comments, base pricing is the highest we've had in the last 12 months. The peak pricing -- and this is an important dynamic for Global Ecommerce. So the peak pricing we reinstated -- we did reinstate it until the end of January. So if you look at, as Ana said in her comments that the texture of the quarter we got off to a more difficult start in Global Ecommerce but it was expected because you had all of the increased costs, but you didn't have peak pricing. So what I would say, so far, is the base pricing as well as the peak pricing is held in terms of the possibility of increasing prices further. Obviously, we'll pay attention to what the other industry players do. To a degree, Shannon, it\u2019s going to depend on what happens to transportation costs. So labor costs are, I think, going to stay high, but we've got ways with automation to deal with that and candidly as the model matures, it will become more efficient.\nTransportation is the one that if -- if transportation costs don't moderate then I would expect that there'll be pressure on prices upward."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Okay, great. And then just one last question with regard to equipment. Like how much was related to the large government deal in terms of the growth and then how should we think about the pipeline that you're seeing for equipment sales as we look through the year? Thank you."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Yeah. So, Adam or Ana will give you the specific. I think $5 million a quarter was from the -- from the government deal. So it's an important contributor, but again the low end of that product line as well as the mid range of that product lines is done well and continues to do well. In terms of backlog, we like how the backlog is situated second quarter for SendTech is a pretty easy comparison. I think you're going to see pretty strong relative performance into the second quarter and to a degree into the third quarter and that will moderate as the year goes on.\nAdam, do you have a specific number for the government deal?"
+    },
+    {
+      "speaker": "Mr. Adam David",
+      "speech": "Yeah, that's correct, Marc. So, Shannon, without the government deal, we would have still grown equipment sales in the mid to high single-digit range."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Okay, great. Thank you very much."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Kartik Mehta from Northcoast Research. Please go ahead."
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "speech": "Good morning, Marc and Ana. Marc, you've talked obviously with the Global Ecommerce business and transportation costs being a headwind, but it seems like transportation costs, labor costs and automation all three help you. Out of the three, what's the most important? Is transportation just a near-term issue you have but longer term, one of the other two have to be -- have to moderate. And so I guess in a long-term standpoint, what's the most important out of the three?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Transportation is the most important of the three. So if you look at the cost complexion of that business, 50% postal costs, there is some percent there, 25% or so is transportation cost. There is, we believe a lot of opportunity there. I mean if you look at spot rates on a year-to-year basis in general that have gone up 40% plus and candidly they went up from January to March. So it continues to be pressured up and then labor cost is around 12% of the total. So as you look at transportation and labor, those are the -- the preponderance of the opportunity for improvement. And as Ana said, our place is pretty simple here, and it gives me high confidence that it's executable. I mean, we are simply trying to insource more lanes. So we insourced seven lanes in the first quarter, we're going to insource another 20 lanes in the second quarter. So that not only gives you better economics and makes you less vulnerable to the spot rate, but it also provide better service because if you're in the spot rate then your volume, that doesn't get necessarily the same priority as others.\nSo this is a win-win and it's not spinning atoms. We just -- we need to -- we need to get the trucks and the truck drivers. So we've got a lot of -- a lot of pressure on the team to add the resource."
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "speech": "And then on the Presort Business, obviously, a good margin quarter. And you talked about, it seems like the revenue momentum should stay for the remainder of the year. Is the margin -- would you anticipate the margin momentum to also stay the rest of the year?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "I think the margins are probably going to stay pretty close to where they are. There is -- on the one hand, the work that we did a couple of years ago around transforming that business saved us a lot of labor hours. I think we saved 85,000 or 90,000 labor hours in the quarter on a year-to-year basis. So that was good. On the other side of it, like Global Ecommerce, they're susceptible to transportation price increases and labor obviously is becoming more scarce. So we're looking at some accelerated opportunities to apply automation to our Presort Business that will help, but my expectation is margins will stay kind of in the zip code that they are this year with the opportunity to make substantial improvement going forward. And we're looking at automation opportunities that can make a real difference in that business."
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "speech": "Well, thank you very much. Appreciate it."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Allen Klee from Maxim Group. Please go ahead."
+    },
+    {
+      "speaker": "Allen Klee",
+      "speech": "Yes, hi. For the debt that you've paid down and refinanced, where does that put you in terms of how much debt and notes are now due in '21 and in '22?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "I'll let Ana, and Allen, take a swing at that one. But we're in pretty good shape for '21 and '22."
+    },
+    {
+      "speaker": "Ana Maria Chadwick",
+      "speech": "Yeah, absolutely. So the maturities that are coming due now for the remainder of '21, we really don't have any, and the maturity profile for '22 is a small amount is around $72 million. So really we truly accomplished what we set out to do when we issued our -- our debt refinancing and not only did we pushed out some of our maturities, but we also improved some of the terms. And we believe we're much better positioned now for having more flexibility as we execute our strategy."
+    },
+    {
+      "speaker": "Allen Klee",
+      "speech": "Great. And you had announced the partnership with UPS a couple of quarters ago to have them as one of your carriers. Could you just give an update on how that's going?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Yeah, it's early. So we continue to be very optimistic about the possibilities. They are a great company and an important provider in the industry. So early days. We'll have more to say about that as we go forward."
+    },
+    {
+      "speaker": "Allen Klee",
+      "speech": "Thank you. Last question. I thought SendTech was great. I mean, the quarter, how do you think about now kind of where the top line, the trend rate longer term for the top line and the bottom line given that you have more shipping. Maybe you could also just remind us. Maybe I missed it. How much of your revenues are coming from shipping and if you could break out maybe the three components of -- well, anyway, no, forget that last one. It's to do with another segment, but just what I just said. Thank you."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Okay. We'll come back so you can finish off the last question. Listen, I felt really good about SendTech. When I've started in 2012, I thought there was great opportunities to extend the life of that business. If you ask me today, that's no longer my paradigm. My paradigm is that it's going to be an important business in Pitney Bowes future indefinitely. So I think the top line will continue to moderate. No, it was minus 3 in the first quarter, a little bit better than that of actuals. Second quarter is going to be an easy compare. So that's going to look pretty positive, but we had talked about low to mid single-digit decline in that business. I'm feeling right now it's closer to the low part than the mid. And the shipping, it\u2019s an important opportunity. So just to dimensionalize it for you, the shipping revenue for SendTech was $30 million in the quarter against the total. It grew depending on how you want to look at it. There were some anomalies and noise in the numbers, but somewhere between 10% and 15%, I would say without the noise, closer to 14% or 15%.\nSo as you look at that, that number getting bigger and beginning to offset the top line and importantly the bottom line decline in the Mail business, that's improving dynamic and one that we're excited about. And as Ana said, it's a similar margin profile. So if you look at that $30 million, I mean, there's probably $15 million that's a pure software margins and there's other ancillary businesses, whether it be supplies or financing or rebates from suppliers that come at a very high margins. So -- and the addressable opportunity for shipping in the office space is twice the opportunity -- twice the addressable opportunity in Mail. So it's -- those dynamics all bode well for the mid to long -- mid to long-term.\nAnd the other thing that I would say is the whole shipping dynamic doesn't really account for the fact that our meter attrition rate has moderated a bit and there's lots of different reasons for that. We've clearly got some great products now and we're in a really good cycle. But also, as you drive more value to those relationships, the devices are stickier. They're stickier in terms of people keeping them and people keeping them longer. So really good dynamics in that business going forward and lots of opportunity."
+    },
+    {
+      "speaker": "Allen Klee",
+      "speech": "Thank you. Could you give us an update on Wheeler Financial in terms of how much money was put to work and how you're thinking about that for the year?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Yeah. And I'm going to defer to Adam on the specific amount of money that was put to work. But, I mean, in general, I would say our vision for that business continues to be very positive. The nature of the opportunities that we're pursuing has changed slightly. So they went from a business that was focused on leasing mission critical assets to loans around mission critical assets. More and more of the opportunity that we've seen is now around working capital in the shipping market.\nSo if you think about the whole genesis of the Financial Services Business for Pitney Bowes, it was around providing a service to mailers that they could either prepay postage or conversely buy postage on credit. That same paradigm applies to shipping. So we've kind of evolved our way into where I think the sweet spot is. So it's a place that's highly accretive to our shipping business. It's a natural extension, obviously, at the space that we understand very well. So as our thinking has evolved on the target markets, and that's not to say we don't continue to put money to work in those other markets around equipment leases and loans, but more and more it's around shipping working capital which just feels right.\nSo, Adam or Ana, do you have specific number that we put to work in the first quarter on Wheeler?"
+    },
+    {
+      "speaker": "Mr. Adam David",
+      "speech": "Yeah, we funded about $4 million, Allen, in the first quarter relative to Wheeler."
+    },
+    {
+      "speaker": "Allen Klee",
+      "speech": "Great. I apologize for so many questions. The last one I had is within Global Ecommerce, could you say what percent of the revenue was from your three big buckets of Domestic, Cross Border and Digital?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Adam, is that a number we made public?"
+    },
+    {
+      "speaker": "Mr. Adam David",
+      "speech": "Yeah, we don't publicly make that number visible. I think, Allen, Ana talked about in her comments, prepared remarks growth in all three areas and gave some growth rates there. So -- but we don't publicly disclose the exact amounts for each one of those."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "[Speech Overlap] market size. I mean, the delivery business is clearly the biggest. And that's what kind of affects the -- you had a question earlier about gross margins. So as the opportunity is the biggest there, the flood of demand, and that our business reflects that."
+    },
+    {
+      "speaker": "Allen Klee",
+      "speech": "Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Anthony Lebiedzinski from Sidoti & Company. Please go ahead."
+    },
+    {
+      "speaker": "Anthony Lebiedzinski",
+      "speech": "Yes, good morning, and thank you for taking the questions. So just wondering if you guys could provide a little more details as far as the expected timelines for some of the automation initiatives that you talked about."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Sure, we bought -- well, I mean, so let me talk about both for Presort as well as Global Ecommerce. So Global Ecommerce, we put one sorter to work in the first quarter in a large site. Second is I believe installed in the second quarter. We will continue to roll out the sorter technology throughout this year. We're looking at accelerating some of those investments if we can get the equipment. In Presort, well, I don\u2019t think it requires big invention or innovation. The kind of equipment that we're looking at doesn't exist yet. So we're working with some automation companies to invent or bend a little bit metal to help with some of the work there. But, again, it's a tremendous opportunity.\nSo if you look at the capital budget this year, we'll spend more money on capital this year and that's principally because of automation, and we're looking to accelerate that."
+    },
+    {
+      "speaker": "Anthony Lebiedzinski",
+      "speech": "Right. So, Marc, you just said that if you can get the equipment. So what are, I mean, I know there is a lot of constraints in the supply chains with the ocean shipping containers and so on coming from Asia. So, is that -- what -- why you said that if you can get the equipment and as they like what are your -- how do you feel about that? What will be your confidence level about being able to get that equipment?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "So, listen, it's -- we kind of step back. It's not so much around the back up in the court. It's just more around the availability of equipment. So if you look at the overall demand for Global Ecommerce logistics and shipping, it's increased dramatically over the last 12 months since COVID. So everyone is trying to get this automation. So I'm highly confident we'll get it. I'm not as confident that we will get it as soon as I want."
+    },
+    {
+      "speaker": "Anthony Lebiedzinski",
+      "speech": "Okay, got it. Okay, that's fair. Thank you. And then I don't know if you guys talked about this, but just overall COVID-related incremental costs, can you give a better sense as to how much that\u2019d impact the quarter?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "I don't have a specific number off the top of my head. I mean, it was -- I think we've done a really good job adapting to this new unfortunate world that we find ourselves in. So it wasn't a material impact from my perspective in terms of expense and, obviously, the place that we're paying close attention right now is around AR and delinquencies. And, again, that's been relatively stable but that's the place where there's, I'd say, our strongest focus.\nAdam or Ana, if you want to add anything?"
+    },
+    {
+      "speaker": "Ana Maria Chadwick",
+      "speech": "No, I think you've covered it."
+    },
+    {
+      "speaker": "Anthony Lebiedzinski",
+      "speech": "Got it, okay. And then last question from me. I think you mentioned before that you expect a higher tax rate for this year. Can you give us a sense as to how we should think about the tax rate for 2021?"
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Ana or Adam?"
+    },
+    {
+      "speaker": "Mr. Adam David",
+      "speech": "I would say 20% to 25%, that type of range, Anthony."
+    },
+    {
+      "speaker": "Anthony Lebiedzinski",
+      "speech": "All right. Well, thank you and best of luck."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And at this time, there are no further questions. I'd now like to turn the call back to Mr. Lautenbach for any closing remarks."
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": "Thanks, operator, and thanks for everyone's attention this morning. Listen, I thought we got off to a really solid start. We hit the ball in every business. Clearly, with that being said, we've got good opportunities to continue to improve our margins in Global Ecommerce, I\u2019m highly confident we'll do that. The team has laid out a pretty good roadmap, a very good roadmap for what needs to be done. The timing is a little bit varied and there's some things out of our control, but as you look at the list of things in Global Ecommerce that need to get done, they're highly doable. And as I said in my remarks, we've made some really important additions to the team in terms of people that have experience building these types of networks. I mean, building a business to consumer logistics network with postal ingestion is a little bit of a rarity, but it's a highly effective model. So I feel very good about where that business is headed.\nPresort is back on its feet, hit the ball well in the first quarter and I think is very well positioned for the year. And SendTech is just -- I am as excited about the possibilities in SendTech as I am about the possibilities in Global Ecommerce. So all in all, good start, more to do and we'll be back with you soon. Thanks for your time this morning."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 51 minutes",
+      "speech": ""
+    },
+    {
+      "speaker": "Call participants:",
+      "speech": ""
+    },
+    {
+      "speaker": "Mr. Adam David",
+      "speech": ""
+    },
+    {
+      "speaker": "Marc B. Lautenbach",
+      "speech": ""
+    },
+    {
+      "speaker": "Ana Maria Chadwick",
+      "speech": ""
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": ""
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": ""
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "speech": ""
+    },
+    {
+      "speaker": "Allen Klee",
+      "speech": ""
+    },
+    {
+      "speaker": "Anthony Lebiedzinski",
+      "speech": "More PBI analysis\nAll earnings call transcripts"
+    }
+  ],
+  "q_and_a": [],
+  "participants": []
+}

@@ -1,0 +1,293 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. Thank you for standing by, and welcome to Booz Allen Hamilton's earnings call covering third quarter results for fiscal year 2021.\n[Operator Instructions]\nI'd now like to turn the call over to Mr. Rubun Dey."
+    },
+    {
+      "speaker": "Rubun Dey",
+      "speech": "Thank you. Good morning, and thank you for joining us for Booz Allen's third quarter 2021 earnings announcement.\nWe hope you've had an opportunity to read the press release that we issued earlier this morning. We have also provided presentation slides on our website and are now on Slide 2.\nI'm Rubun Dey, Head of Investor Relations. And with me to talk about our business and financial results are Horacio Rozanski, our President and CEO, and Lloyd Howell, Executive Vice President, CFO and Treasurer.\nAs shown on the disclaimer on Slide 3, please keep in mind that some of the items we will discuss this morning will include statements that may be considered forward-looking and therefore, are subject to known and unknown risks and uncertainties, which may cause our actual results in future periods to differ materially from forecasted results. Those risks and uncertainties include, among other things, general economic conditions, the availability of government funding for our company's services and other factors discussed in today's earnings release and set forth under the forward-looking statements disclaimer included in our third quarter fiscal 2021 earnings release and in our SEC filings. We caution you not to place undue reliance on any forward-looking statements that we may make today and remind you that we assume no obligation to update or revise the information discussed on this call.\nDuring today's call, we will also discuss some non-GAAP financial measures and other metrics, which we believe provide useful information for investors. We include an explanation of adjustments and other reconciliations of our non-GAAP measures to the most comparable GAAP measures in our third quarter fiscal year 2021 slide.\nIt is now my pleasure to turn the call over to our CEO, Horacio Rozanski. We are now on Slide 5."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Thank you, Rubun, and good morning, everyone. Thanks for joining the call.\nToday, Lloyd and I will take you through our third quarter results and the dynamics that drove them. And we will put the results in the context of the successful culmination of our three-year investment thesis and the strength of our business in the near and long term. As you saw in our press release, we had a mixed quarter. Our revenue grew more slowly than expected. Conversely, our bottom line results, profit margins and cash flow are excellent and ahead of expectations.\nSince the beginning of our fiscal year, we have described three macro environmental factors that created uncertainty about our second half, the outcome of the election, the status and outlook for the federal budget, and the course of the COVID-19 pandemic. Let me talk specifically about how those are playing out on the demand front, on the supply front and the impact on revenue and profits.\nUnderlying demand for our services and solutions remains quite strong. In the third quarter, we saw delays in some procurements in the intelligence market, largely due to the pandemic. And in the civil market, we saw movement to the write on awards and even some pullback on funding, which we believe is due to the turmoil surrounding the presidential election. These shifts in procurements and funding were greater than we anticipated and greater than we normally experience during a change in administrations. We expect these dynamics to be temporary with a return to more typical market rhythms over the next six to nine months. Secondly, on the demand side. I'll note the reduction in billable expenses in comparison to our third quarter last year. We have said previously that billable expenses are unpredictable and not a significant source of profitability. The third quarter drop-off was partially due to COVID and is another dynamic that may last for a couple more quarters.\nTurning now to the supply side. There were two factors in play. The first was a fast return to more historical productivity rates. During the first half, we spoke of meaningful jump in productivity because of high retention and low use of paid time off. We always knew that was temporary. Our expectation was that we would see a gradual shift to typical patterns as COVID vaccines rolled out. Instead, we saw a quick snapback to more normal, albeit lower productivity levels in November. Early indication is that our fourth quarter productivity levels may remain closer to historical norms.\nAlso in the third quarter, the combination of lower-than-desired recruiting rates and the strategic divestiture of a small defense contract led to a sequential decline in headcount. As productivity declined in the first half, we were comfortable with slower headcount growth. But with the snap back to normal levels, we need to accelerate recruitment. We have already ramped up and expect to see improvement in three to six months.\nShifting to our other key metrics. Let me highlight the strength of our margins, bottom line and cash flow. While the reduction in billable expenses helps margins, our over performance at the bottom line and in cash flows is primarily driven by our strong execution of the business. Despite the challenges of the past year, our team has remained focused on the fundamentals that drive our performance, high-quality client delivery, smart capture of new business, targeted cost management and continued investment in our differentiators, especially our people. As a result, we have made our business leaner and more competitive, enhanced our brand in the market for talent and doubled down on our growth drivers, all while delivering outstanding value to shareholders and strengthening our balance sheet. We expect both the headwinds and tailwinds I just described to be with us for the next few months, and that is reflected in our updated full-year guidance, which Lloyd will talk through in detail.\nIn addition, noting our confidence in the business, we are pleased to announce a $0.06 increase in our quarterly dividend and an increase in our share repurchase authorization, which will continue to support our ongoing share repurchase program. We are proud that through all the challenges of COVID, social unrest, natural and man-made disasters, budget uncertainty and the most difficult election and postelection period in our lifetimes, Booz Allen is on track to deliver another year of growth and value creation.\nAnd we also know we have some work to do. As the fourth quarter gets under way, the leadership team has prioritized four specific areas. Converting a rich opportunity pipeline into awards and revenue as quickly as the market permits, ramping up recruiting to take full advantage of growth opportunities, continuing to reshape our intelligence portfolio to drive growth and maximizing value creation from our very strong balance sheet by deploying capital against strategic opportunities such as a recent investment in Tracepoint and other levers of shareholder value creation.\nAfter that summary of our near-term performance and priorities, let me take the discussion up a level and put it in a fuller context. My leadership team and I are confident and optimistic about the direction of our business and the meaningful difference our people continue to make in support of client missions. COVID vaccinations are under way, a federal budget is in place, and the new administration has hit the ground running. We view these as important stabilizing forces in the overall economy and in our market. The President has nominated an experienced team of leaders to execute the business of government. They have clear agendas and understand the value of using technology to accelerate mission.\nInside Booz Allen, even as we focus on day-to-day operational excellence, we continue to plan for the long term. Our overriding objective is to expand and strengthen our unique market position at the intersection of technology, mission and consulting. We do that by staying close to our clients, anticipating what they will need next and investing in the right talent and capabilities to advance missions. The investments we've made to grow and reshape our portfolio over many years, are both driving today's performance and bolstering our prospects for the future. For example, we believe we are the largest provider of artificial intelligence services to the federal government with 60% year-over-year revenue growth in our AI services portfolio, albeit from a small base. This is an addressable market that we expect to increase tenfold in the next five years and we are in the pole position to shape it.\nWe also support key federal agencies that form the epicenter of US cybersecurity across the civil, defense and intelligence domains. With our ranking by Frost & Sullivan as the leading provider of cybersecurity services in North America, we view ourselves as uniquely positioned to both help the nation and capture opportunity in this critical area. The new administration is already signaling renewed focus on cyber in the wake of the solar winds attack.\nWe're also building scale and depth in 5G and in the next-generation tech stack. A 5G network requires the integration of hardware, software, IoT devices, security, analytics and emission insights, which plays to our strengths and our brand in the federal market. We're standing up a 5G lab to support research and development. We have partnerships with leading 5G technology companies and we are prototyping integrated capabilities. These key technology areas and others from edge computing to digital warfare to cloud solutions and open data platforms, to immersive technology and human performance. They all inform our thinking as we develop our next strategy. We continue to make good progress and look forward to sharing our strategy with you later this year, along with an updated multi-year financial outlook.\nI'll make one final important point before giving the floor to Lloyd. With less than one-quarter remaining in the three-year time horizon of our investment thesis, we are on track to deliver greater than 80% growth in ADEPS against an already ambitious 50% goal we originally set in June of 2018. Even in the most turbulent times, our firm has translated its differentiated market position into high-quality performance and shareholder value, as expected of an industry leader.\nOn the strength of this performance and with our purpose and values as a guide, we will continue to succeed and strengthen this institution over the short, medium and long term.\nLloyd, over to you for additional perspective on the third quarter and our outlook ahead."
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Thanks, Horacio, and good morning, everyone.\nAs we approach the end of our 2021 fiscal year, a year of unprecedented challenge, we are proud of how well our people have consistently executed on our clients' most important missions. As Horacio mentioned earlier, in outlining our 2021 annual operating plan, we identified three major sources of uncertainty, the November election, the budget outlook and the COVID-19 pandemic. After an exceptional top-line performance in the first half, helped by unusually strong staff utilization, we expected slower growth in the second half as PTO trends began to normalize. We also anticipated the potential for a slowdown in award activities following the November presidential election.\nWe factored these elements into the annual guidance we provided at the end of the second quarter. However, we did not correctly anticipate the timing and magnitude of the top-line impact of those dynamics. Our cost management efforts to date enabled us to hold the line at adjusted EBITDA. I'll now run through our third quarter results.\nPlease turn to Slide 6, starting at the top line. Revenue and revenue excluding billable expenses increased 3% and 6.2%, respectively, compared to the same quarter last year. Revenue growth was primarily driven by solid operational performance, indicative of continued demand from our clients, tempered by lower billable expenses largely attributable to COVID. Let me give you more color at the market level, starting with the demand side. Revenue in defense grew 6% year-over-year, against a challenging third quarter comparable. I'd note that revenue excluding billable expenses, continued to grow strongly, but our defense business carries the bulk of Booz Allen's exposure to billable expenses. These were lower than expected in the third quarter due to less travel during the pandemic, and they were elevated in the prior year period due to significant materials purchases on aircraft programs.\nAs Horacio mentioned, underlying long-term demand for our services and solutions remain strong, but we did experience lower-than-expected starts on existing defense contracts and a few large awards slipped to the right. We expect these to be resolved over the next few months. In civil, revenue growth was 7% in the third quarter. Here, we believe the chaotic postelection period shifted some awards to the right. In addition, there was a pause on a large cyber program due to funding availability. We expect the pause to have a larger impact on the fourth quarter. But given that it is a critical cybersecurity program for the customer, we believe work will ramp up again longer term. Lastly, I would note that we expect increasing demand in civil as the new administration starts implementing its priorities. Revenue from our intelligence business declined 3% in the third quarter. Our focused efforts to reshape that portfolio continue, and we expect to see stronger performance in FY '22.\nLastly, Q3 revenue in global commercial, which accounted for approximately 3% of our total revenue, declined 35% year-over-year. The drop was driven by our international business based in part on market dynamics, but also due to our own decision to shift our strategic focus to our cyber business in the US in the port of that, we made a minority investment in Tracepoint, a digital forensic rand incident response company serving clients in the public and private sectors. We are excited to partner with Tracepoint and see a significant opportunity to cross-pollinate with Booz Allen's own digital forensics expertise. That covers the demand side. Now let me step through the supply side dynamics as well as our expectations for the rest of the year.\nIn the first half of the year, given the limited ability to travel during the pandemic, our employees took very little time off from work. We encouraged our people to take PTO in the interest of their personal health and expected a gradual return to normal productivity levels as a result. Instead, PTO utilization returned back to historic levels in November, and we believe that trend may continue. We note that the timing around the rollout of a COVID vaccine could have a material influence on PTO utilization.\nRegarding headcount, while attrition remained low, we did not add as much headcount in the third quarter as we had planned, in part due to a strategic contract divestiture. Our hiring needs were somewhat lessened in the first half of the year due to unusually strong staff productivity, but we intend to pick up the pace on recruiting. This will take us some time to address, but we expect to be back on track by early next year. We ended the quarter with 27,566 employees, an increase of 390 or 1.4% year-over-year. Excluding the impact of the 110-person workforce transferred as a part of the army-related contract divestiture, we would have ended the quarter with 1.8% headcount growth year-over-year.\nOn Slide 7, you'll see that total backlog increased 6.1% to $23.3 billion. Funded backlog was up 2.8% to $3.6 billion, unfunded backlog grew 12.5% to $6 billion and price options rose 4.3% to $13.7 billion. Our book-to-bill for the quarter was 0.3 times, and our last 12 months book-to-bill was 1.2 times. The relatively low quarterly number is attributable to two factors. First, seasonality following our historical pattern, and second, the aforementioned delay in awards. Note that we continue to expect volatility in quarterly book-to-bill as we pursue larger and more technically complex bids.\nMoving to the bottom line. Adjusted EBITDA for the third quarter was $205 million, up 7.7% year-over-year. Adjusted EBITDA margin was 10.8%. Adjusted EBITDA performance was driven by strong execution across the portfolio and ongoing prudent management of discretionary expenses. Adjusted EBITDA margin was also impacted by lower billable expenses. Third quarter net income and adjusted net income grew 29% and 28% year-over-year to $144 million and $145 million, respectively. Diluted earnings per share and adjusted diluted earnings per share each increased 30% to $1.03 and $1.04, respectively. The increases were due to solid operating performance and the release of a large tax reserve stemming from our previous Aquilent acquisition in fiscal year 2017. This reserve release was factored into our previous guidance.\nTurning to cash. We generated $233 million in operating cash during the third quarter, an increase of 133% over the prior year. Cash ended the quarter at $1.3 billion. Exceptional operating cash flow was driven by the overall growth of the business, continued strength in collections and reduced payables attributable to cost management. These first three quarters of cash generation represent our strongest year-to-date performance since our IPO, a truly phenomenal result. Capital expenditures for the quarter were $16 million. This year, we continue to prioritize technology and tools that enable a virtual work environment. Also, we are nearing the implementation of our next-generation financial system, which will support the company's growth into the future.\nPlease turn to Slide 8. During the quarter, we repurchased $27 million worth of shares at an average price of $83.76 per share. Including dividends and the minority investment, we deployed a total of $142 million in the third quarter. As Horacio noted, our share repurchase authorization has expanded. As of January 26, with the $400 million increase, we now have a total authorization of $747 million. In addition, the company has authorized a dividend of $0.37 per share payable on March 2 to stockholders of record on February 12. With $1.3 billion in cash on hand, we continue to view our balance sheet as a strategic asset. We remain committed to preserving and maximizing shareholder value through patient, disciplined capital allocation. We see ourselves as well positioned to act quickly on opportunities as they arise.\nNow on to our updated guidance. Please move to Slide 9. While revenue growth was slower than expected, we are proud of our team's ability to manage the business and gain efficiencies amid the many macro environmental challenges of this fiscal year. Margins, ADEPS and cash flow are all trending above our expectations. In our view, this speaks to the strength and resilience of the Booz Allen business model. In the fourth quarter, we are focused on fundamentals. We plan to continue investing in our people and our long-term growth initiatives. We will continue to recruit aggressively to sustain long-term organic growth and intend to reward our people for their strong execution through the first three quarters. We are also nearing implementation of our new financial system, which will further support our business leaders. Our revised guidance reflects these efforts, in addition to the third quarter performance and trends I just outlined.\nLet me run through the numbers. For the full fiscal year, revenue growth is now expected to be in the range of 4.8% to 6%. Our revised range reflects $150 million to $250 million of revenues tied to the second half uncertainties we outlined earlier, the election, the budget and COVID-19. They break down as follows. Temporary programmatic shifts of $50 million to $100 million, $50 million of risk tied to a material incremental step down in staff utilization, and lastly, lower than forecast billable expenses of $50 million to $100 million, largely from lower pandemic-related travel.\nFor your models, we also note that fourth quarter working days will have a difficult year-over-year comp because last year was a leap year. We expect adjusted EBITDA margin for the year to be in the mid-to-high 10% range. We have raised the range for adjusted diluted earnings per share by $0.10 to between $3.70 and $3.85. And the ADEPS guidance is based on 136 million to 140 million weighted average shares outstanding and a tax rate in the range of 20% to 23%. On operating cash, we have raised the range by $25 million to between $625 million and $675 million for the full year. And finally, our outlook for capital expenditures is unchanged at $80 million to $100 million.\nBefore opening the line for questions, I'll briefly touch on our investment thesis. We have confidence in exceeding 80% ADEPS growth over the three-year period. This growth is supported by 6% to 9% annualized revenue growth since fiscal year 2018 at mid-to-high 10% EBITDA margins in fiscal year 2021. We also are proud of our option value initiatives over the period and our progress toward $1.4 billion in capital deployment. I am pleased to say that we are well positioned to exceed our three-year ADEPS growth goal organically while, retaining the strongest balance sheet in the history of the company in spite of the turbulence of the last three years.\nAs we move toward our next investment thesis, I believe that the people of Booz Allen will rise above the challenges that emerge in order to continue meeting the high standard our shareholders have come to expect. We remain confident in the long-term trajectory of the business and focus on maintaining our role as the industry leader.\nWith that, Rubun, let's open the lines for questions."
+    },
+    {
+      "speaker": "Rubun Dey",
+      "speech": "Thanks, Lloyd. Operator, please open the lines."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nOur first question comes from Carter Copeland of Melius Research. Your line is open."
+    },
+    {
+      "speaker": "Carter Copeland",
+      "speech": "Hey, good morning, gentlemen. I hope you're all well."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Carter Copeland",
+      "speech": "Two -- just two quick ones for me. One of these seems sort of strange to ask. But given the importance on the top line, I guess, it's important to know how it works. On the PTO impact, to the extent there's unused PTO for the staff on the year and you roll that forward to next year, I realize you're not guiding for next year yet. But how should we think about, is there a is there an impact of shifting some of that productivity impact into the following year that we should be mindful of as we think about next year's growth?"
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Yeah. I'll start, Carter. As we said, there were three main reasons for slower growth in Q3, and one of those is definitely tied to lower productivity than what we were running in the first half. If you look at the reasons for that, not only is it higher PTO driven by lower available labor, but also lower staff utilization. So we definitely saw a snapback with productivity faster than what we expected. We think as things normalize, it will go back to, as we said in our prepared remarks, at historic levels. And we think that will occur over the next couple of quarters."
+    },
+    {
+      "speaker": "Carter Copeland",
+      "speech": "Yeah. I guess my question is, Lloyd, is there a way for thinking mathematically about it, is there a way for it to go beyond normalized because you've got built up balances of PTO that then suddenly need to get burned down, if you know what I mean? Isn't -- so I guess I'm just asking what normalized means, I suppose."
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Yeah. For the balance of this year, we think it's a $50 million range. And we're not, at the moment, seeing it any different than what we said or what we're seeing occur for the balance of this fiscal year."
+    },
+    {
+      "speaker": "Carter Copeland",
+      "speech": "Okay. And then on the headcount impact of the -- getting out of the program, the strategic decision to get out of a defense program. Can you quantify how big that was?"
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Yes. It impacted about 300 of our folks, most of which we've redeployed on to other programs in our portfolio. But as we also indicated, we expect that it will continue to grow over time. With regard to the divestiture, that was about 120 people tied in our army account."
+    },
+    {
+      "speaker": "Carter Copeland",
+      "speech": "Okay. Thanks for the color, Lloyd."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Jon Raviv of Citi. Your line is open."
+    },
+    {
+      "speaker": "Jonathan Raviv",
+      "speech": "Thank you, and good morning. So some shifting from sales to margin rate, Lloyd, just your thoughts on the margin run rate, clearly, very strong here, pointing to higher for the year. Is that a new sort of base off of which you guys can improve with some of the new efforts that you're making in new lines of business, or maybe talk about the pressure perhaps as some of this COVID rolls off and people start to travel again and you start to spend a little more money?"
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Sure. So we're very pleased with our margin performance year-to-date. From our perspective, it's a combination of strong execution of the portfolio as well as prudent management of discretionary expenses. We didn't get here, as you appreciate, overnight. It's been a work in progress, but we believe that the things and the dynamics that have contributed to this will remain, which is solid contract performance, management allowables. And also, as we've made in our -- made comments in our prepared remarks, lower billable expense. Going forward, we are going to continue to invest long term in terms of hiring, rewarding our people, the infrastructure improvements that we mentioned and investing in capabilities. So we believe that the mid-to-high 10s range is sustainable, and we're going to continue doing the things that got us in this position."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Hey Jon, I'll just add a couple of quick points. First one is that in some ways, the margin percentage can be tied to the volatility of the billable expenses because, as you know, most of our margin comes from our labor. Having said that, I agree completely with Lloyd that our focus is on EBITDA dollar growth, and that has been solid. It's been running ahead of revenue and even revenue ex billables growth, and that is a constructed effort becoming more efficient, and we're going to keep on that."
+    },
+    {
+      "speaker": "Jonathan Raviv",
+      "speech": "Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Cai von Rumohr of Cowen. Your line is open."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "Yes. Thank you very much. To go back to PTO, do you allow employees to carry PTO over from one year to the next, or do they use it or lose it?"
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "We have a couple of programs. We have to use it or lose it by the end of this fiscal year. And then on accrual basis, it sort of grows with the level and seniority of the individual. So a portion of it will go away by the end of March."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "Got it. And then cyber, clearly, is a priority. We had the Russian hack. Biden is basically putting $9 billion to update federal IT infrastructure. Could you give us some color? So you're ranked number one by Frost & Sullivan. But obviously, you've got -- any color you can give us on your business there? For example, your position in the intel business, which isn't covered by Frost & Sullivan. And maybe some metrics, like what percent of your employees roughly are involved in cyber. And given the focus -- I apologize, it's a long question. How come we have the slip in the cyber program given the increasing priority?"
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Let me try and start with that. I think Lloyd will probably want to chime in on your multipart question, Cai. The first thing I would say is our position in cyber is in fact even stronger in the intelligence community than it is broadly across the government or the commercial sector. The work that we do in intelligence, it's in some ways, the crown jewel of our cyber programs. We are very bullish on the medium term, long-term outlook for our entire cyber business, including commercial, which is why, and we can talk later about the Tracepoint investment as a part of that.\nIt is actually difficult to break down the specific numbers of how many people do this and how many people do that, which is why we don't do it because we approach cyber from an all of mission approach. If we look at the intersections between cyber and cloud, cyber and AI, cyber and 5G, cyber and intelligence and so forth. What -- on the specific contract that you were asking about, what actually happened is that contract was actually burning at a faster rate than it was programmed to do. Because of -- frankly, because of the increase in the attack surface from so many people in the government working from home and the like.\nAnd there was an expectation that the last administration would ramp up the funding to keep up with that. And at the last minute, they chose not to do so. We believe that is temporary. As you pointed out, the Biden administration is looking to make investments in cyber. We are talking to a lot of our clients about the remediation from SolarWinds. And so we see a lot of opportunity in that space, and we're pursuing that opportunity very aggressively."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Gavin Parsons of Goldman Sachs. Your line is open."
+    },
+    {
+      "speaker": "Gavin Parsons",
+      "speech": "Hey, good morning."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Gavin Parsons",
+      "speech": "I want to carry through on the cyber question, but maybe a little bit more on the commercial market. It's always been a little surprising to me that companies haven't utilized yourselves or other government contractors cyber offerings more given, right? You are the ones who are actually doing cyber for the US government and for the Department of Defense and the intel community. Presumably, you've got some of the best capabilities in the world. So curious if you could talk about that dynamic if you think that the nation-state sponsored type attacks increased the commercial opportunity and how that could play out."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "We do, Gavin. I think we are -- as we talked about in the prepared remarks, we're actually shifting our global commercial focus more back to the US and much more double down on cyber for this very reason. I think as the adversaries get more sophisticated and clients get more sophisticated, the demand for what we do grows. Quite frankly, when we first got into commercial cyber, I think we were so far ahead of many of our clients that it was hard for them to consume the type of cyber services, cyber capability that we could offer. Our clients are moving very fast or catching up. A lot of them are super sophisticated. And so that's why we see a significant opportunity and increasing demand.\nThe Tracepoint investment is directly related to our desire to be more involved in incident response. We do a good level of incident response, but that is a business that has evolved toward needing to have channel with insurance companies who are early players, obviously, when an incident happens and so forth. And Tracepoint does a spectacular job of that. And we believe that their ability to access our channel and our expertise can create real synergies and acceleration."
+    },
+    {
+      "speaker": "Gavin Parsons",
+      "speech": "Great. That's helpful. And then just coming up on the end of your three-year plan, they're not guiding forward. And I imagine it's difficult to predict with the priorities of the or how the priorities of the new administration will play out, but what's your anticipation of what budgets will look like over the next few years and what that means for your top-line growth relative to the last few years of elevated budget growth? Thanks."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Sure. I think it's trying to predict too far out with the new administration just coming in and everything else is beyond what we should try to do we are thinking, in general, that budgets are not going to grow as fast in the next few years as they grew in the last few years, and so this is why we continue to invest and double down on these key technologies and capabilities that I've talked about before, cloud, cyber, AI, 5G because we believe that demand for those types of services will remain strong and in fact, accelerate even as the overall budget gets potentially more constrained than it's been in the past.\nAnd we believe that on two dynamics. One is because you can actually save a lot of money by implementing these technologies, right? And two, which is what we focus on so far. You can enhance mission success against some of these very critical missions that they're not going away, if anything, are becoming more important."
+    },
+    {
+      "speaker": "Gavin Parsons",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Tobey Sommer with Truist. Your line is open."
+    },
+    {
+      "speaker": "Tobey Sommer",
+      "speech": "Thank you very much. I was wondering if you could talk to the hiring plans and to sort of reaccelerate your headcount growth and how that may influence continued margin expansions as part of your sort of next three-year plan? Thank you."
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Sure. I'll start. We have always prided ourselves on being a people first business, our employee value proposition plays into that. And we clearly are going to accelerate and pick up the pace from where we ended in Q3. There are a couple of reasons we are confident that we're going to get there. The first, as I mentioned, is our employee value proposition and the content of the work that we provide to our clients. The second, a mechanical point, over 30% of our candidate pools come from our existing workforce. So can it have familiarity with Booz Allen, understand what we're doing and it accelerates the recruiting process. This is critically important because the labor market, as we often appreciate, is very competitive. Pre-pandemic and in the midst of COVID, it has remained so. So we're going to lean even more so along the levers that we've historically done and then also increase the pipeline, as I've mentioned.\nOn a margin basis, this investment is going to put a little bit of downward pressure on where we are currently. And this is historically what we've done in the fourth quarter anyway, which is really ramping up our people, our bench as we go into the next fiscal year. But even with that being said, we still are confident we're going to end up in the mid- to high 10s with margin."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "One of the things just to add one last thought on this is, that I think is really interesting in a good way about the fiscal year that we're about to end is we have managed to lower our overall cost position while increasing our investment in people. And I think that tells you how we're thinking about the business, what our priorities are and what we think about for the future."
+    },
+    {
+      "speaker": "Tobey Sommer",
+      "speech": "Thank you for that. My second question, could you speak to the most promising areas in the civil business under the Biden administration and discuss how your current portfolio lines up against those? And maybe the areas where you have to position yourself slightly different in order to capitalize on that? Thank you."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Sure. I'll give you maybe a bird's eye view on that. The strongest part of our portfolio, the largest part of our civil portfolio has been our health business, and it continues to be. We saw through the Obama years significant investment by the country and significant agenda against healthcare access. We expect some version of that to reaccelerate under the Biden administration. And that's an area where, again, I think Booz Allen is in a very good position to assist our clients should things move in that direction. Our citizen services business is going to be underpinning the overall digital transformation of our civil government, which is also something that's being talked about, not just from a cyber perspective, but from the ability to move online many of the services that we as citizens demand and are now expecting to see online.\nWe need to think, take a step back and think about what role we think we can play, if there's a significant environment agenda that has -- we have a digital play into that. We need to consider whether we need or want a broader play in that area. But that is, again, under consideration. And as we think about our strategy, these are the kinds of questions we're asking ourselves. But I keep coming back to we don't want to underpin old infrastructure, old technology. We want to leverage new technology into some of these areas of expansion and continue to be viewed by all of our clients as the people who insert new technology, new thinking, commercial best practices into their missions."
+    },
+    {
+      "speaker": "Tobey Sommer",
+      "speech": "Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Joseph DeNardi of Stifel. Your line is open."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "Thanks. Good morning. Lloyd, can you speak to M&A a bit, maybe the nature of your pipeline? Is that still a priority for capital deployment? Would you characterize the pipeline as smaller opportunities or larger? And then maybe just kind of your level of comfort in using equity to finance anything there. Thank you."
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Sure. We believe that, as we've said, our balance sheet is certainly a strategic asset, and coupled with our strong generation of cash, really puts us in a good position to not only pursue M&A opportunities, but also as we did this quarter, the uptick with the dividend and the increased authorization with our share repurchase program. Specifically regarding M&A, our pipeline has been growing consistent with the capabilities Horacio and I have long talked about, software, systems development, AI, digital, data analytics. And we're looking at a variety of opportunities and different ways to deploy that capital as we did with the Tracepoint investment. These are all at different maturation points. Increasingly, these are opportunities that we've cultivated, which has been really good and consistent with the individual market strategies and where we think increased demand is going to come with our clients.\nAs you know, we have a pretty high bar. We have historically don't look for capability tuck-ins. So I'd characterize them as that's very much consistent with what we've always said. But I'm very pleased with the volume and remain confident that the inorganic contribution will pick up over time."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "Okay. That's helpful. And then, Horacio, can you just update us on the classified intel business or customer set there? Maybe how that's going with the semi recent leadership changes at this point and visibility you have into that customer again being a driver of growth for you all? Thank you."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Sure. It's always difficult on this call to talk about our intel business in any detail, but let me say the following. There's -- we are seeing more pickup in both proposal opportunity and even some really interesting awards, albeit small, against, again, the use of technology to help drive those missions. I think if we had fallen behind a little bit on that part of the business, is we were not implementing or absorbing these new technologies into that business as quickly as we were in our defense and our civilian portfolio, and that has changed. There's a bit of an overhang with some old contracts that, frankly, we were going to be out of one way or the other. And so the numbers, as you see them right now, reflect that mix shift that is working its way through the system.\nBut I am very optimistic about where that business is going. I think once the awards that we are expecting finally stop moving to the right and get awarded, I think in the next year, we're going to see that business, I'd like to see, for sure, see that business return to a healthy growth rate. It's a good business, and we do some really just extraordinary work there for our clients. And our clients value it, which is really where it all begins for us, is if our clients value, we need to figure out how to do more of it, how to do better and how to grow the business over time."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Louie DiPalma of William Blair. Your line is open."
+    },
+    {
+      "speaker": "Louie DiPalma",
+      "speech": "Horacio, Lloyd and Rubun, good morning."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Good morning, Louie."
+    },
+    {
+      "speaker": "Louie DiPalma",
+      "speech": "Horacio, you have demonstrated a leadership in data analytics in addition to AI. And in 2018, you announced that you won a very strategic $885 million eMAPS contract for machine learning and data analytics. We have heard that there will be a eMAPS sequel contract that is significantly larger than the existing eMAPS contract, something in the $1.5 billion range. And I was wondering because I thought that your existing eMAPS contract had a five-year duration, are they recompeting your existing contract? And is the DoD happy and satisfied with your existing performance with machine learning, data analytics and AI in general? Thanks."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Let me answer the sort of the last question first and work my way back to the front of your question. The answer is yes. Across all of our work, we continue our leadership on AI, on data analytics and machine learning and on being able to deliver those kinds of capabilities to a mission, eMAPS being one of those examples. Our work at the JAIC demonstrates that and so many other places.\nI don't want to speak specifically about any one contract on this call. But I will say this. It is not unusual for contracts to run at a ceiling ahead of their five-year timeline. And I think that is, in some ways, a demonstration that there's so much value being created that was originally expected ceiling that was originally expected to last five years, sometimes gets worked through in three or four again, not because the clients see so much value that the mission set expands and then the recompete will come along and the recompete will be larger to accommodate, call it, the higher burn rate -- annual burn rate in the contract. And so we have a good number of contracts in our portfolio, some very large ones that actually will get recompeted early. And almost every time, it's because, again, there's been mission expansion because of the quality of the services being provided in the contract, not because the client is dissatisfied with the services."
+    },
+    {
+      "speaker": "Louie DiPalma",
+      "speech": "Thanks, Horacio. That's all I have. That was very help."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Seth Seifman of JP Morgan. Your line is open."
+    },
+    {
+      "speaker": "Ben",
+      "speech": "Hey good morning, everyone. This is actually Ben [Phonetic] on for Seth."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Good morning, Ben."
+    },
+    {
+      "speaker": "Ben",
+      "speech": "I guess I kind of wanted to go back to the kind of the questions about revenue. The high end of the guidance for this year implies another quarter of growth at about 3% in Q4. I guess how should we kind of think about the trajectory of organic growth beyond this year? It sounds like some of the issues are going to last a couple of quarters. So any color you can give on that? And then is it still reasonable to think about getting to an organic growth rate that was something closer to the original guidance for this year as you move past some of these headwinds?"
+    },
+    {
+      "speaker": "Lloyd Howell",
+      "speech": "Yeah. For the balance of the year, as we said in our prepared remarks, there are a couple of dynamics that would have to be less than what we're expecting certainly, the impact of billable expenses, though we have long said we're focused on revenue ex billable expenses, it has an impact on revenue, as you know. So if that is not as much of a headwind than what we're expecting, that sort of helps a lot. And then the productivity topic that we talked about where we are seeing a normalization with available labor and PTO usage. If that were to slow down or feather down like we had originally expected, we could see that become a contribution to getting toward the high end of the range.\nAnd then, lastly, the one that Horacio and I feel we have a fair amount of control on is recruiting. If we execute in the manner that we expect to, it'll slowly build back up and would also be a tailwind to pushing us to the top end of the range. I think it's too early to get into looking out beyond the next couple of quarters. And as we've said, we expect this to be a building process. But at the appropriate time, we'll give guidance as to what FY '22 is going to look like."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "If you don't mind, let me build on that and leave you with three thoughts, perhaps. The first one is, as we've discussed during this whole call, we view our business as very robust with lots of opportunities in the pipeline. Timing is a bit uncertain, but we are well positioned to win in the market. And the medium and long-term trends, we believe, are in our favor.\nPoint number two, as Lloyd said, we expect top-line performance to be a little choppy for the next couple of quarters, potentially into the early quarters of next year, but we have some work to do. Both are on capturing the opportunities that are out there and ramping them up as quickly as our clients will allow us and hiring aggressively against them, and we are all over that. And then the last point that I don't want to lose is how strong our bottom line performance has been, how solid it is, even with some volatility at the top line and the expectation that that will also continue over time."
+    },
+    {
+      "speaker": "Ben",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no further questions. I'd like to turn the call back over to Horacio Rozanski for any closing remarks."
+    },
+    {
+      "speaker": "Horacio Rozanski",
+      "speech": "Thank you, everyone, for your questions.\nI hope the discussion today gives you a deeper understanding of the dynamics driving our third quarter performance and our areas of focus going forward, both in the near and in the long term. As an institution that has evolved and succeeded for more than a century, Booz Allen is constantly striving to improve. And we are especially focused on living up to our purpose, empowering people to change the world. So on that note, I'd like to close today by calling attention to our recently released environmental, social and governance impact report. It is another way for us to convey our firm's aspirations, our vision and our impact.\nToday, our stakeholders have broad expectations for transparency. Our clients and our investors, non-profits and community partners, regulators and suppliers and especially our employees, they all want to understand a company's values and performance as a corporate citizen. Our 2020 ESG impact report takes a fresh approach to providing that transparency. It's informed by our stakeholders and is aligned to the GRI standards, the world's most widely used standards for corporate sustainability reporting. It's a snapshot in time and will evolve as we mature the governance and measurement of our corporate impact. If you haven't yet seen it, the report is called, The Future Can't Wait, and it is available on our website. I invite you to take a look.\nOnce again, thank you for your time and your participation this morning, and have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 58 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Rubun Dey--Director of Investor Relations",
+    "Horacio Rozanski--President and Chief Executive Officer",
+    "Lloyd Howell--Chief Financial Officer and Treasurer",
+    "Carter Copeland--Melius Research -- Analyst",
+    "Jonathan Raviv--Citi -- Analyst",
+    "Cai von Rumohr--Cowen and Company -- Analyst",
+    "Gavin Parsons--Goldman Sachs -- Analyst",
+    "Tobey Sommer--Truist Securities -- Analyst",
+    "Joseph DeNardi--Stifel Nicolaus & Company -- Analyst",
+    "Louie DiPalma--William Blair & Company -- Analyst",
+    "Ben--JP Morgan -- Analyst"
+  ]
+}

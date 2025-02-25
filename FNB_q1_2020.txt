@@ -1,0 +1,754 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and welcome to the F.N.B. Corporation First Quarter 2020 Quarterly Earnings Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. Please note this event is being recorded.\nI would now like to turn the conference over to Matt Lazzaro. Please go ahead."
+    },
+    {
+      "speaker": "Matthew Lazzaro",
+      "speech": "Thank you. Good morning, everyone, and welcome to our earnings call.\nThis conference call of F.N.B Corporation and the reports it files with the Securities and Exchange Commission often contain forward-looking statements and non-GAAP financial measures. Non-GAAP financial measures should be viewed in addition to and not as an alternative for our reported results prepared in accordance with GAAP. Reconciliations of GAAP to non-GAAP operating measures to the most directly comparable GAAP financial measures are included in our presentation materials and in our earnings release. Please refer to these non-GAAP and forward-looking statement disclosures contained in our earnings release, related presentation materials and in our reports and registration statements filed with the Securities and Exchange Commission available on our corporate website.\nA replay of this call will be available until April 30th and the webcast link will be posted to the About Us Investor Relations and Shareholder Services section of our corporate website.\nI will now turn the call over to Vince Delie, Chairman, President and CEO."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "Good morning and welcome to our earnings call. On today's call, I'd like to address three key topics. First, I'll begin by providing an update on how we are navigating our business through the COVID-19 pandemic, while supporting our employees, customers, communities and shareholders. Secondly, I'd like to briefly comment on a few points about our first quarter financial performance and finally, I'd like to revisit several key strategic initiatives and programs.\nOur company's existing pandemic preparedness plan and ongoing pandemic exercises enabled F.N.B to stay at the front of this escalating crisis. Dating back to 2018, our management team went through a pandemic simulation and collaborated with our business continuity team to develop a formal pandemic response plan. During this process, sustainability was thoroughly evaluated and ultimately formed the foundation of the comprehensive plan currently in place. Additionally, our ongoing commitment to invest in our digital channels and technology played a critical role in our ability to provide convenient banking options for our customers, who were not able to leave their homes.\nOur investments in technology also enabled us to build and establish an automated process to handle nearly 15,000 business applications for the SBA Paycheck Protection Program in just one week's time. Our efforts resulted in approving and processing 75% of those applications in the first round of funding, representing $2.1 billion in loans. We anticipate processing the remaining applications during the second round of funding. As I mentioned, when Phase 1 of F.N.B's technology initiative called clicks-to-bricks began, we had previously introduced online appointment setting and we're able to quickly make specialized COVID-19 content and offerings available in our solution centers.\nWe tapped into the strength of our established communication channels for both customers and employees, keeping both audiences informed of any update. Our employees' response to this crisis has been exceptional. Their professional, compassionate, positive, and resilient attitudes have been a bright light in helping each other, our customers and our communities while navigating these unprecedented times. Protecting the health, safety, and financial well-being of our employees remains critical as we find ways to address any impact to their health or the health of their families. For example, F.N.B provided our team with up to 15 days paid leave and also expanded our existing paid caregiver leave program. Additionally, to assist with any possible financial hardships resulting from the coronavirus, F.N.B provided a special assistance payment to essential employees working on the front line and in our operations areas, who ensure that our customers continue to receive vital financial services.\nWe also leveraged our IT infrastructure by making accommodations to give employees the ability to work remotely where appropriate. To-date, we have approximately 2,200 colleagues working remotely, which represents about half of our workforce and largely non-retail position. This capability also speaks to our investment in technology and IT infrastructure. As we focus on our communities, the F.N.B Foundation committed to provide $1 million in relief in response to COVID-19, benefiting food banks and providing essential medical supplies. Many of our employees began reaching out to our clients and our communities to provide support. At our Pittsburgh headquarters, F.N.B's vendor management team has been using our vetting process to assist Allegheny County and quickly researching new vendors, offering medical supplies and services to combat COVID-19.\nWith respect to our retail branches, we have focused on drive-up services and closed our lobbies, reverting to appointment only practices, which are supported by the appointment setting capability within our clicks-to-bricks platform. As you can imagine, the monumental commitment of our leadership team and employees to operate in this challenging environment required to sustain 24/7 effort. I would like to commend our employees for the actions they've taken to execute and abide by our safety measures, while continuing operations.\nWith these key priorities and actions in place, let me pivot and comment briefly on our first quarter performance. Given all that's happened in a noisy quarter, our underlying core performance remained solid. Our philosophy is to maintain our approach to risk management through varying economic cycles and serve as the primary capital provider to our clients. While F.N.B like many banks will be subject to a difficult economic environment, this philosophy and the actions we have taken to strengthen our balance sheet and reduce risk should position F.N.B well as we move through the current crisis.\nLooking at the quarter's result, GAAP EPS of $0.14 included $0.15 of bottom line impact from significant items primarily related to COVID-19 and the adoption and implementation of CECL in the corresponding reserve build under these macro economic conditions. Topline results were solid as revenue increased to more than $300 million, driven by strong loan and deposit growth and positive results across our fee-based businesses. Average commercial loans grew $225 million or 6% as we saw activity pick-up in late March, particularly in C&I with growth of 17%. I'll note there was limited impact to average balances from anticipated liquidity draws.\nCompared to the first quarter of 2019, average deposits increased 5% with growth in non-interest-bearing deposits of 7%, leading to an improved funding mix. The net interest margin expanded to 3.14%, supported by strong loan growth, a 7 basis point improvement in total cost of funds and higher accretion levels compared to the prior quarter. The fundamental trends in non-interest income were strong with capital markets revenues of $11 million, setting another record in the first quarter. Insurance and mortgage banking income also had strong underlying performance. Due to the significant shift in the interest rate environment, our non-interest income includes $7.7 million of impairment on mortgage servicing rights. Excluding changes in MSR valuation, mortgage banking income totaled $6.7 million, up more than 50% from the first quarter of 2019 with significant pipelines moving forward.\nOn a core basis, expenses remained stable compared to the fourth quarter and disciplined expense management will continue to be a top priority as we move beyond this crisis.\nVincent and Gary will provide more detail on the implementation of CECL and additional details on the financials in their remarks.\nWith that, I'll turn the call over to Gary."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Thank you, Vince, and good morning, everyone. We closed out the first quarter of 2020 with our credit portfolio remaining in a satisfactory position in the midst of the current global challenges that have come as a result of COVID-19. The first quarter also marked the adoption of the CECL accounting standard, which as I communicated last quarter, brings additional changes to the reporting of credit quality metrics. I will also review the steps we are taking to monitor the books and manage the emerging risks, while continuing to meet the credit needs of our borrowers and the communities in which we operate.\nLet's now review our first quarter results. The level of delinquency at March 31 totaled 1.13%, up 19 basis points over the prior quarter and included a temporary uptick in early stage, a majority of which has already been brought current NPLs and OREO totaled 64 basis points, a 9 basis point increase linked-quarter. This increase does not reflect credit deterioration, but rather changes non-accrual reporting moving from the former PCI pool accounting to the new CECL standard. Net charge-offs remained low at $5.7 million for the quarter or 10 basis points annualized.\nProvision expense for the quarter totaled $48 million of which $38 million relates to a reserve build for adverse macroeconomic conditions tied to COVID-19. The ending reserve stands at 1.44%, up 15 basis points compared to our day one CECL reserve of 1.29%, providing NPL coverage of 256% at quarter-end. It's worth noting that inclusive of unamortized loan discounts, our period ending reserve represents 66% of our 2018 DFAST severely adverse scenario charge-offs.\nOur teams have been working tirelessly over the last several weeks, meeting with borrowers, reviewing credits, tracking performance metrics and administering government-backed lending programs as part of our response to the COVID-19 crisis. We entered the crisis with our credit portfolio in a position of strength due in large part to our core credit philosophies that I have discussed with you before, including consistent underwriting, proactive management of risk, attentive and aggressive work-out, and a balanced asset mix spanning our entire footprint. We have taken many actions over the last several years to maintain a lower risk profile to position our book to withstand various economic cycles and adverse conditions, similar to those we are currently experiencing.\nOver the last four years, we have sold approximately $700 million in loans to proactively de-risk the balance sheet, a large portion of which were higher risk acquired loans that we were able to move off the books at a financial benefit to the company. We've also historically limited our exposure to highly sensitive industries like travel and leisure, food and accommodation and energy with exposure to these three industries remaining very low, totaling only 3.8% of our loan portfolio.\nAs it relates to relief programs, we were able to quickly mobilize our credit teams to review and approve payment deferral plans for qualified borrowers, which to-date totals approximately 6% of our loan portfolio. As an SBA preferred lender, we have also been working diligently to support our small business borrowers in securing PPP financing that is fully backed by the SBA. The volume and key performance metrics for these relief programs are monitored daily through a specialized set of reports developed in response to COVID-19. Using our holistic credit systems, we have been tracking daily utilization rates, deferral activity, PPP loan volume and borrower impact assessments, which are broken down further to allow us to monitor our credit portfolio by line of business, loan product, geography, and industry. In addition to expanded analytics, we have also leveraged our existing allowance and DFAST frameworks to conduct scenario analysis and stress testing including select loan portfolios. All of the actions taken will help us manage through the challenging conditions faced by the industry today.\nAbove all, I would like to take a moment to recognize our team of bankers and credit support staff for all of their hard work and dedication to help meet the credit needs of our customers and communities during this challenging time. We'll continue to draw on the leadership and experience of our credit and banking teams to manage through this challenging environment as we have in past cycles.\nI will now turn the call over to Vince Calabrese, our Chief Financial Officer for his remarks."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Thanks, Gary, and good morning, everyone. Today, I'll cover our results for the first quarter and provide an update on the current environment.\nAs noted on slide nine, first quarter GAAP EPS totaled $0.14, which includes $0.15 of significant items. The TCE ratio ended March at 7.36%, reflecting 16 basis points of CECL adoption impact and another 15 basis points for the $48 million of after-tax items. These significant items are listed in the reconciliation tables with the biggest piece being the COVID-19 related reserve build of $38 million during the first quarter. We used a pandemic driven recessionary scenario in evaluating the macroeconomic projections.\nLet's start with the review of the balance sheet on slide 14. Linked-quarter average loan growth totaled $278 million or 5% annualized, attributable to commercial growth of 6% and consumer growth of 2%. The average commercial growth includes less than 1 percentage point annualized for COVID-19 related increases in commercial line utilization that occurred in the month of March. Continuing on the balance sheet slide, on a linked-quarter basis, average deposits were relatively flat as normal seasonal outflows impacted average balances. On a year-over-year basis, average deposits were up $1.2 billion or 5.2%.\nFrom an overall liquidity standpoint, we are comfortable with our current position, including the benefit of opportunistically accessing the debt capital markets to raise $300 million in holding company liquidity at very attractive spreads on February 20th. We also executed a portion of our previously announced share repurchase program, buying back 2.4 million shares prior to March 12th, representing 0.7% of our total shares outstanding.\nTurning to the income statement on slide 15, net interest income totaled $233 million, up $6.2 million or 2.7% from last quarter. The net interest margin expanded 7 basis points to 3.14%, driven by solid average loan growth, lower cost of funds, and higher discount accretion levels now that we are in a CECL environment. During the first quarter, the higher discount accretion offset the pressure on variable rate loan yields, given the significant decline in the short end of the curve. On the funding side, the total cost of funds decreased 7 points to 1.01% from 1.08%, reflecting lower borrowing costs as well as the shift in funding mix and a 10 basis point reduction in the cost of interest bearing deposits.\nSlide 16 and 17 provide details for non-interest income and expense. There continues to be strong performance in capital markets, mortgage banking, insurance and trust as well as for operating non-interest income as a whole. As Vince noted earlier, we are consistently receiving positive contributions from our fee-based businesses, which diversifies our revenue base and helps to mitigate the impact of a volatile interest rate environment. Looking at the first quarter, non-interest income totaled $68.5 million, a 7.4% decrease from last quarter, due mainly to the impact from the $7.7 million MSR impairment, given the moving down in interest rates. Excluding the impairment, non-interest income increased $2.2 million or 3% with capital markets posting a record of $11.1 million, increasing 29% from the fourth quarter, driven by strong origination volume.\nTurning to slide 17, non-interest expense on a run rate basis remained stable compared to fourth quarter levels. This excludes $2 million of expenses associated with COVID-19, $8.3 million of branch consolidation costs, and $5.6 million of expense related to changes in retirement provisions for new grants under our long-term incentive program that do not affect the total cost of the grants, but do affect the expense recognition timing. Bank shares and franchise taxes increased $1.7 million, reflecting the recognition of a $1.2 million state tax credit in the prior quarter and higher year-end 2019 bank capital levels while other increases and decreases essentially offset each other. The efficiency ratio equaled 59% compared to 56% as the other unusual or outsized items increased current quarter's efficiency ratio by over 3 percentage points.\nRegarding guidance, the outlook we shared in January is no longer relevant, given the impacts of the COVID-19 pandemic on the overall economy and the uncertainty around the length of time it takes to recover. However, in the spirit of transparency into our short-term forecasts, we are providing our current directional outlook for the second quarter of 2020 on slide 18 based on what we know today, which is subject to change, given the very fluid situation we are all managing through. We expect second quarter net interest income to decline mid-single digits from first quarter levels as the net interest margin reflects a full quarter's impact of the current interest rate levels. We expect average loan balances to be up mid-to-high single-digits, reflecting higher March 31 spot balances and $2.1 billion of PPP loans from the initial phase of the program that are expected to fund during the quarter. The second phase of the program would be additive to these figures as we strive to accommodate all of our customers that want to participate. We expect expenses to be flat from the core level of $178 million this quarter. We expect our core fee trends to continue from solid levels in the first quarter with service charges expected to decline due to COVID-19 impacts on certain products and services. We expect the effective tax rate to be around 20%.\nWith that, I will turn the call back to Vince."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "Thanks, Vince. I'd like to touch on several initiatives that stand out as we move forward. In January, we launched our new interactive website designed with enhanced functionality that creates a one-stop shopping and interactive digital experience. Online appointment setting, a streamlined account opening process and deploying interactive teller machines throughout our footprint are just a few of the functionalities that our clicks-to-bricks digital strategy affords us. Combined with our network of nearly 40 ITMs and 550 ATMs and our robust award winning mobile applications, we are well positioned to continue to provide service to our customers through multiple channels and meet their needs during this time of social distancing and economic challenges.\nWe've invested heavily in our mobile and online platform, which is critical during a time of limited operations in the physical channels. Mobile deposits are up more than 40% in the last two weeks of March compared to the year ago period and pre-COVID-19 first quarter levels. F.N.B will continue to build-out our digital capabilities as previously planned. To protect our customers and communities from economic disruption, F.N.B was one of the first banks to develop a structured deferral program and announced several measures to support customers who may be enduring financial hardships and were directly impacted by COVID-19. Furthermore, we instituted an outreach program and activated an outbound calling initiative to contact thousands of customers across all business units during the crisis, ensuring their needs were being met. We also continue to participate in the previously mentioned Paycheck Protection Program and evaluate other COVID-19 related federal government relief programs to determine their suitability for our customers and communities.\nRegarding our outlook, liquidity and overall capital position, we consistently run stress test for a variety of economic situations, including severely adverse scenarios that have economic conditions like current conditions. Under these scenarios, our regulatory capital ratios remain above the thresholds and we are able to maintain appropriate liquidity levels, demonstrating our ability to continue to support all of our constituencies under stressful financial conditions. As we gain more clarity on this evolving health pandemic and the resulting challenging economic environment, we will continue to update you on key business drivers and expectations.\nIn closing, I'd like to express how proud I am of our team's efforts during this very difficult time to identify new and creative ways to connect with those in need. This is an unprecedented time for our nation and our industry. Our mission has always been to improve the quality of life in the communities we serve. Now more than ever, we must work together to support those impacted by this public health crisis. As such, I want to again say thank you to our employees and all those serving on the front line in our communities, who are making a difference as we navigate through this together."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from Jared Shaw with Wells Fargo Securities. Please go ahead."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Good morning, guys."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "Good morning, Jared."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Good morning, Jared."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "First on the margin. Walk us through some of the moving parts as you look out into second quarter? I would think that with the strong growth in PPP that would offset some of the pressure in second quarter. I guess maybe on the PPP, are you accounting for those fees or do you anticipate to account for those fees through NII and then what is the blended fee rate on the $2.1 billion that you have there?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Sure. I can make a few comments, Jared. So just kind of walking through the outlook for the net interest income going forward. As we've talked about in the past, the changes in one month LIBOR and prime have a significant impact on our net interest income and margin. If you look at where our average LIBOR was for the last couple of quarters and projection for this quarter, it was 1.84% in the fourth quarter, 1.68% in the first quarter and projected to be around 0.70% [Phonetic] on average for the second quarter. We have $8.5 billion in LIBOR-based loans and another $2.9 billion, it is prime-based. So the projected move down obviously impacted those loan portfolios.\nNow offsetting the impact, we continue to reduce the rates on our interest-bearing deposit costs, as we've talked about. We're projecting another 33 basis point reduction in the second quarter from first quarter levels. And then we will have benefits, as you mentioned, from the PPP program as we fund this quarter. The $2.1 billion, you'll have our average fee rate. We're estimating it's around 3% is how that would kind of calculate out when you go through the tiering. The spread is 65 basis points. So kind of an all-in margin is around 2% to 2.25% for those loans. The way we're going to account for it is, you put them on the loan system kind of loan-by-loan, so it's accreted in over two year period. And then once the loans are forgiven and paid off, you would bring in the remainder of the fees into interest income at that point in time.\nAnd then lastly, the last piece I would comment on to is just the accretion that we had this quarter running through and kind of a CECL environment versus the pre-CECL environment. So it was about $17 million this quarter is up about $7 million from the fourth quarter, so that contributed to the first quarter. I don't expect it to be quite at that level in the second quarter, but I don't know because it's a function of prepayments and with under the CECL accounting, there's a lot more variables that get factored into that with prepayments being a big contributor. So I still expect it to be a meaningful contributor in the second quarter just not quite at that as high as that $17 million. If you looked at the last third and fourth quarter last year we were running 10 basis points to 12 basis points from accretion. It's probably a reasonable run rate subject to change based on what happens with the prepayments during the quarter."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Hey Jared, a couple of other points on the PPP program. Of the 15,000 applications that we brought in, we have kind of originated an average loan size of about $180,000. So we run the lower end of the spectrum in terms of size maybe more small businesses coming through that pipeline. We still have 25% that are still out there that totals about $650 million that we processed and are ready to be processed in round [Indecipherable] once the funds are available and we would expect some additional fundings on top of that just in the spirit of transparency. We've also funded about 90% of the $2.1 billion already. So they're closed on the books."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "On the loan growth this quarter, did I hear you right, did you say that there is only 1% of the growth was from increased line utilization or was that line utilization went up 1%?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "No. It was 1% on average, right. So the line utilization occurred later in March that we would have had. So on average it's 1% of the 5% growth that I mentioned, the average balance growth."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Hey, Jared. I can add to Vince's comments there. Our usage was running around 42%, little over 42% prior to the COVID impact. It peaked at just under 47% as business has build some cash positions. We're already back down to 43.8%. So it's really getting close back to a normalized level at this point."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "But we really don't have a significant amount of large corporate exposure that essentially was funded up either to put liquidity on their balance sheet or to back up commercial paper offerings. We don't have a tremendous amount of that in our portfolio. So the liquidity draws were much lower than what others would have reported."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Great, thanks. And then just finally from me. Yeah, sorry, on the deferrals, you said that 6% of total loans are in deferral. Are you seeing any concentration in either category of loan or geography?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Right now, we're at about 5%. We expect with the pipeline to be at about 6% or just a touch over 6% based on the pipeline that we have. In terms of those deferrals, we're seeing those in the industries that you would expect restaurant, travel, tourism those books are very small from our perspective as we've strategically really not had a focus on lending into that space as we've talked in the past. So it's really concentrated kind of there."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "And if you look at the dispersion of deferrals, it's pretty similar across the loan types in terms of percentage of the size of the portfolio, right, Gary, I mean, it's ranging around 2.5% to 2.9% is pretty much where it is."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "So it's pretty consistent. We're not seeing a spike in one particular area."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Okay. All right. Thanks for the color."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "That's helpful. Yeah."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Thanks, Jared."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Frank Schiraldi with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Good morning, Frank."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Good morning, Frank."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Just curious on if you can give any more detail Gary around stress testing. And we sort of think about the baseline outlook, how loss expectations stack up to the last cycle to '08, '09 at the Legacy Bank, I guess excluding Florida from back then?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yes. Frank, what I would say to you that we have been very proactive and strategically de-risked the balance sheet over the last number of years like I mentioned earlier and we're coming off some very solid charge-off levels. Over the last 18 months, naturally the world has changed. We expect that consistency in the underwriting that we talk about with you all the time on the front-end to play a meaningful role as we go forward here. In terms of charge-offs, all banks are going to experience credit deterioration as is typical in any downturn and this one is rather severe at this point.\nIn our last stress test, we remained well capitalized and expect to be able to fully execute our business plan from a charge-off standpoint under those adverse scenarios. And to the extent that the forecasted economic conditions under the CECL methodology are worse than COVID-19 conditions are at this point that we used at March 27th date, so we're using some very current COVID information around our modeling. We would expect any potential reserve build to occur for normal levels based on movements from this point in time. So from a loss perspective, we're not going to forecast losses as we go forward, but we do expect the portfolio to perform as well as possible through the cycle that we're dealing with right now based on the consistency that we've talked about in the underwriting."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah. And if you go to page 13 in the deck, Frank, there is a comparison on F.N.B's performance, our net charge-offs over average loans back historically, Gary, maybe you could comment on that. I mean it does exclude Regency and the Florida portfolio that we divested."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. So back in the 2009 and '10 great recession that we all experienced a number of years ago. On page 13, you see F.N.B's performance through that cycle. This is basically the core bank at that point in time, it does exclude Florida and Regency as those portfolios are now no longer a part of the company's balance sheet. That consistent underwriting that we had in place back then remains today and we do expect that will allow us to perform better than the industry as a whole as this cycle moves through itself."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Okay. And then just back to the margin and NII guide for 2Q, Vince. I'm sorry does that include any accretion in NII expectations or I don't know. Have you left yourself enough wide enough range there? Just curious."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "No, it would include my comment earlier about kind of 10 basis points to 12 basis points. If you look at the third and fourth quarter kind of run rates, which were pre-CECL. I would expect that to be kind of more normal run rate next quarter, right. Again it's a function of prepayment. So prepayments end up being high again, we would have more."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "So I think it's kind of a reasonable number I would say Frank and I truly won't know until kind of quarter plays itself out, but there's definitely that kind of 10 basis points to 12 basis points in there for the second quarter if that's baked into our number. And then also I should clarify too that we mentioned the $2.1 billion in the PPP activity, that's on the books for two months of the quarter. So you don't have two-one, you have two-thirds of that just from a modeling standpoint and that's included in the number two."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Into the target."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "But I guess it wouldn't be included as if they are only on the books for two months. Well, I guess, it's late in the quarter. So you don't have anything from the 3% being accelerated because some of the stuff is going to be forgiven. Nothing like that is in 2Q?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "No. It's just -- what it would include is normal accretion in that two-year timeframe. It's going to probably -- that forgiveness process probably going to get you to June 30th. There's going to be a process."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "I would expect it would get you beyond June 30th, Frank. So we'll probably look at the third quarter event there starting with those with the forgiveness items to go through."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yes. I don't have any acceleration of that fee in my number, Frank. It's just kind of normal accretion for a two-year period."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "And then just finally what is your expectation for LIBOR in this guidance. Is it just sort of steady state from here?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Well, I mentioned in my earlier comments that 70 basis points is kind of what we're projecting. I mean we're in the, I think, we're in the high-50s right now. So for the quarter on average 70 basis points. We started the quarter a little bit higher. So that's what's baked into our numbers."
+    },
+    {
+      "speaker": "Frank Schiraldi",
+      "speech": "Got you. I missed those, sorry. Thank you."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "That's OK. Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Michael Young with SunTrust. Please go ahead."
+    },
+    {
+      "speaker": "Michael Young",
+      "speech": "Hey, good morning."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Good morning, Mike."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Good morning, Mike."
+    },
+    {
+      "speaker": "Michael Young",
+      "speech": "Thanks. Good morning. I wanted to start maybe Gary with just the additional COVID-19 reserve that you put up this quarter. Can you just talk about sort of the assumptions that went into that, the macro economic assumptions and any weightings that you used or management overlays to arrive at that number?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Sure. I can give you an overview of that. We're using a pandemic recession scenario where we see significant deterioration in the economy upfront with slight improvement later in the year and then a continued economic weakness throughout 2021. We're not taking into account in our analysis, any of the government stimulus programs around our modeling. So there is no benefit from any of that. We review and incorporate really about a dozen variables just like we always have in the DFAST modeling scenarios that we continue to run and those variables include a few examples. I'll give you such as the Dow, housing consumer confidence levels, GDP and unemployment are a number of the examples there. But that's really what's driving our models and the analysis that we've done around the portfolio."
+    },
+    {
+      "speaker": "Michael Young",
+      "speech": "And I would assume that was timestamped kind of end of March. So commissions maybe have worsened a little bit since then if we stay on kind of a similar trajectory that would require more reserve build potentially next quarter just to be on where we stand?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Well, we continue to run these scenarios. We've run them as recent as the last couple of days. Based on the update, again, our model was run as of the March 27th timeframe. And as of our most recent run with the updated data, it's really not a material difference albeit slightly, but nothing material based on just simulated models that we're running."
+    },
+    {
+      "speaker": "Michael Young",
+      "speech": "Okay. And Gary, I think, you've done a great job on the slide here breaking out kind all the COVID sensitive industries, etc. Are there any areas that we should be particularly watchful over that you think may have more near term risk than others whether it would be less liquidity, less cash or more severely impacted collateral?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. I would say that from an industry standpoint, naturally, restaurants are severely impacted, hotels are severely impacted, energy is in a tough spot right now, also being impacted. These are some of the categories, specifically hotels and the energy, we do have a small restaurant book and some very good clients there that -- we stopped lending into the hotel space 4.5 years ago. It was a strategic decision and it's proven to be a very good one. We got some assets as we've talked in the past from the acquisitions, we have de-risked that portfolio and not been active in lending into that at all. As for energy, I mean, you can see by the slide deck, I mean, we're not an energy lender. We got a few customers that are very sound and as well as a few publicly traded entities there that continue to perform well. But those are the industries that I would be initially concerned about as we are in the early stages here and with all the uncertainty that everyone is still facing that have the potential to become more problematic at a faster pace. Again strategically, we've positioned ourselves and made decisions over-time to maintain very, very small portfolios there and I think that's going to pay dividends for us as we move through this cycle."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "And I think in the past we disclosed our energy related exposures back a few years ago, right Gary when there was a downturn. I think it was about three maybe four years ago."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "We've cut that exposure in half. So I mean I think it's pretty evident that we've not been active in these areas. I think you should comment on the retail exposure as well because as you look at operations in the current environment I mean difficult for many retailers. If you look at the granularity of our book as well on the retail side there are some segments within retail that are going to continue to perform, right. Grocery, there is a number of them in."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. And I think, that's an important point as well, Vince because that -- naturally there are concerns there. The key point here, the grocery, gas station, automotive that makes up two-thirds of our retail C&I book. So that's a heavy dose of it. A number of those industries have remained open as essential industries. So we feel fairly good about the position of our retail book coming into this as well as working its way through a soft spot here from an economic standpoint."
+    },
+    {
+      "speaker": "Michael Young",
+      "speech": "Okay, thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Casey Haire with Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Casey Haire",
+      "speech": "Yeah, thanks. Good morning, guys. I guess first question on the second quarter guidance as it relates to the balance sheet. Should we just assume that earning assets track loan growth here because securities book was flattish and deposits were down, just trying to get a sense as to what kind of balance sheet we can expect in the second quarter?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah. It will probably be a little lighter than that because the investment portfolio actually shrank during the quarter just given reinvestment. I think we reduced it almost $200 million, $191 million during the first quarter. So my guess is the cash flow on that -- it's a $1.6 billion over 12 months. So I would expect that to kind of run down a little bit from there. Again, a function of prepayments, I mean, we're doing some investing just not fully reinvesting the cash flow. So the earning assets would be a little bit lower than that."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "I think you want to remember that the depository balances for us are seasonal."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "So it will build over-time."
+    },
+    {
+      "speaker": "Casey Haire",
+      "speech": "Yeah, understood. And just on the loan growth, I mean, because $2.1 billion is, I mean, that's 7% of the earning asset base in the first quarter here. And I know you had some line draws toward the end of the quarter. So you're bleeding in positively on a core loan growth basis into the second quarter. But what is the expectation for and it sounds like that utilization has come down. So I guess my point is, what is the core loan book? What's the expectation for core F.N.B loans outside of PPP in the second quarter?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah. I think, it's a little tough to tell at this stage in the game. I mean, I think, we've got a good solid customer base. We're not seeing a lot of movement. I don't think anybody is really eager to move at this point. So I would expect the balances that we have today to be pretty solid. I think that the pipeline is still pretty good. But like I said, we're kind of in a standstill because you can't really visit prospects. I know that we are winning business in the marketplace for a number of reasons. I think our execution on PPP was extraordinarily good relative to what I've seen. We had a capture rate on our customers alone of 80%. We had about 10% new customers when we opened it up to new customers initially. So the execution has been good and the comments have been pretty favorable. So I would expect after this all starts to settle down later in the year that there'll be an acceleration in activity.\nI don't know what else to -- I don't know if you want to add anything, Gary."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah, I mean, Casey we will -- and we've seen some good steady business throughout the last month, month and a half from our client base, I mean they're still investing specifically around some certain investments that they had planned. A few of them have temporarily held those off, But we've seen some pretty decent lending activity right through the last month and a half or so at this point."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "And obviously you have to be careful because we're in the midst of a crisis and we understand the impact that could have on financial performance of the borrowers. So we're being cautious, but I think we're positioned pretty well as we move through this crisis on the other side."
+    },
+    {
+      "speaker": "Casey Haire",
+      "speech": "Understood. The TCE ratio at 7.40% at the quarter, I know that PPP could put some pressure on that and it's -- it carries a [Indecipherable] risk-weighting. But you guys are a little bit more levered than most on that ratio. What is your appetite? How low are you willing to get that ratio? I'll let that ratio go?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Well, we're supposed to be growing that. So I think that was our strategy prior to the crisis. I think we're, again, I think our capital position relative to the risk in the portfolio is good. I think that we've mentioned we've stressed our capital position in a variety of scenarios, including the pandemic scenario that Gary mentioned. So I feel pretty good about that. I would expect as we move into the future to see an acceleration in the benefit of the fee income really helping us in the third quarter in terms of capital build because I think that you'll see an acceleration and hopefully and forgiveness on these loans as people comply with the requirements that will be laid out, I mean, they're not out there yet, but will be laid out. So I think all of that keeps us in a pretty good place from a TCE perspective and tangible book value per share perspective. Vince, I don't know if you want to add anything or have I missed anything."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "Yeah. I would just add that a couple of things. I mean absent the PPP impacts, we would expect that ratio to be slowly building on a quarterly basis to your point that it was building. So I think it's important to remember that, that's kind of went underneath. The temporary impact of the $2.1 billion brings us down just under 7% and we're comfortable with that for all the reasons that Vince mentioned and the strength of the balance sheet. And then whatever happens in Phase 2 as far as the funding, that would incrementally bring it down from there. But $2 billion brings you from basically 7.36% to 6.95%. So it's about 21 basis points or so for $1 billion worth of those loans. And again they are temporary. And as you know they don't affect the regulatory ratios at all, but they do affect the TCE ratio. So we're comfortable with that temporary level and then kind of rebuilding from there once those loans go back off the books."
+    },
+    {
+      "speaker": "Casey Haire",
+      "speech": "Okay, thanks. Just last one from me, Gary, apologies if I missed this in your script. But the forbearance and the modification, can you just give us a sense, has that 6% -- has that reached a peak similar to like the line draws that they peaked and then they came back down. Just trying to get a sense for the pace of forbearance."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. Just to clarify Casey, we're at about 5% right now. And with the pipeline, we're anticipating that it's going to get to just a touch over 6%. It has slowed dramatically. At this point, we do expect continued trickle there, but it has slowed dramatically from a commercial borrower perspective. We're still working through some of the mortgage portfolio at this point, but that has also slowed as we sit today."
+    },
+    {
+      "speaker": "Casey Haire",
+      "speech": "Great, thank you."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Thanks, Casey."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Russell Gunther of D.A. Davidson. Please go ahead."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Hey, good morning, guys. Just a couple of follow-up."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Good morning, Russell."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Good morning, Gary. So for you I appreciate all the granularity. Just wanted to circle back. On the COVID-19 sensitive exposure as you called out restaurant, hotel, energy. Anything you can share from an underwriting perspective as to where LTVs and debt service coverage stands? And then the follow-up would be, you mentioned internal stress test that you're performing. Just curious as to type of loss rates you would be assuming within those three at risk buckets as well?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. In terms of the industries from an LTV standpoint, generally speaking you're going to see 70%, low 70% range around LTVs around those spaces. And that's going to run fairly consistent across our portfolio. What was the second piece of the question, Russell?"
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Just any detail you could share, Gary, in terms of the internal stress testing that you mentioned in your comments and assumed loss rates within some of the more at risk portfolios?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Okay. Vince is going to cover that."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah. I would just say, Russell. I mean that we wanted to put that 66% out there. So just to restate what was in Gary's note. So if you include the unamortized loan discounts, our period end reserve at March 31 is 66% of the severely adverse charge-offs over nine quarters from the last stress test that we did, just to put it in perspective that it's a significant reserve against those charge-offs and we haven't really disclosed all the different pieces of the different loss rates. But I can tell you, we hit it very hard in that severely adverse scenario as every time we've done it."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "I appreciate it guys. Thank you for taking my questions."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "All right. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Collyn Gilbert with KBW. Please go ahead."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Thanks. Good morning, everyone."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Good morning, Collyn."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Good morning, Collyn."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Just to stick to the credit discussion for a second. So if we kind of assumed, Gary, you mentioned kind of 6% of -- you're seeing in terms of deferrals right now. I guess that's like $1.4 billion. Do you know how much of those deferrals would be included in that, I guess, roughly $3.5 billion of sort of COVID sensitive loans that you classify in slide 11?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. In terms of the deferred loans in the retail IRE book, it's a total of $470 million. The food and accommodations is about $75 million and let me find the lodging here. The lodging is about $175 million and the retail right at about $145 million."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. And then the rest is I'm guessing just smaller granular numbers."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "That's correct, Collyn."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. All right. That's helpful. And then I just wanted to clarify, Vince, on the news. Just to make sure I've got these numbers, right. So the actual accretion dollar amount that you guys saw this quarter was what, if we compare that to like the $9.6 million you guys saw in the fourth quarter?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah, it was $17 million, $17.1 million."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. So then on the core NIM basis. Is that, I guess, that would imply maybe then the core NIM fell about 4 bips in the first quarter. Is that right that core NIM would settle out it like 0.90% [Phonetic]?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah. If you exclude that, I mean, it's kind of all in there, right as we go forward into a CECL environment. So $17 million, I'm trying to think of -- hang on a second. Yeah, I guess, that's about --"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "That's about right."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "5 basis points to 6 basis points would be -- $8.8 million is 3 basis points of margin. So, yeah, it's around 5 basis points or so."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay, got it. Okay. And then just lastly on kind of the loan growth discussion. I'm trying to reconcile Gary kind of your comment about the pipeline and you still have some customer activities still flowing through. But yeah, obviously there's a lot of activity that also come to kind of a screeching halt, but then just thinking about kind of I guess capital markets. It sounds like you, I mean, you obviously had a great quarter in capital markets this quarter and it sounds like the expectation there based on your guidance is that those levels should hold into this quarter. So I'm just trying to understand, I guess, you're seeing there's a visible pipeline there that would cause you to say that or just trying to reconcile maybe the thought that activity would start to slow pretty meaningfully there? So just trying to understand why you still have -- go ahead."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah. I think you have to look at fee income in total, Collyn, because the mortgage bank is -- their pipeline is huge. So and they took the big impairment. I don't anticipate. I'm not sure what's going to happen with interest rates. I don't want to forecast, but I would expect that their fee income in the next quarter will be significantly higher. And then you have the SBA business outside of the PPP program that had a pretty solid pipeline going into this situation. And then there is a lot of activity. The first two months of March were pretty darn good from an origination perspective for us across the geographies.\nSo I would expect that capital markets activity would continue into next quarter. I can't predict at what level, but I would expect it to continue because there are a number of companies that would like to fix their debt and there are several deals that we were working through from a syndication's perspective. So again there's a lot of uncertainty. We're trying to do the best we can with the forecasting, but we were looking pretty good going into this. We'll see what happens if it all shakes out."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Yes, that's great. Okay, that's all I had. Thanks guys."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Thank you very much, Collyn."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Brody Preston with Stephens Inc. Please go ahead."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Good morning, everyone. How are you?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Good. How are you?"
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Good. I just wanted to circle back on the PPP income recognition. So I just wanted to better understand why would I guess we pushed out to 3Q because just from an accrual accounting perspective you did most of the activity here, early in the second quarter, and then there's the eight-week period which gets us to sort of the beginning weeks of June. And so I would think that you would have a sense for at least for around one what's been utilized by June. And so what will be forgiven? And just so why would you accrue for that in 2Q as opposed to 3Q?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Well, there's a process. They start to put out the guidelines on the forgiveness as to how that process is going to work, Brody. So you're really not going to know what certainty that every single loan will get that forgiveness. They're a 100% guaranteed. So from a risk standpoint, you cover there, but from a kind of loan accounting standpoint, you can't really bring in the unamortized or unaccreted fee until the loan forgiven and paid off. So since you don't know with certainty that all 100% of those are going to be forgiven when they go through that -- still to be defined SBA process that's why and will accrete some of it, but the full amount really doesn't come in until the loan is truly paid-off and then you would bring it in."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "And I would say given the size of our client coming through, I mean, the last batch that we funded was under $100,000. So I think that there is going to be a bigger delay. We have more small businesses that we brought through here. Our average is way lower than many out there. So the timing of when that -- they prepare the information to get forgiveness in the queue on the process that we don't have yet is a big question mark. So I think for us it's going to be maybe a little slower because the customers aren't as sophisticated, right. So it might take them a little long."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Well, plus there's an eight-week period that's baked into that, Brody, right. So you first have to wait till after eight weeks and then you have to follow whatever the processes that the SBA lays out as far as how it's going to work. So that gets you through June 30th. It gets into the third quarter."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Right. Okay."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. They're matching the fee up with the loan on a per loan basis and then kind of baking it into the yield, I guess, so it will show up."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Okay, got it."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "All right. Okay. That's helpful. And then just wanted to go back, Gary, you said you are at 5% of loans on deferral right now, expect to get up to about 6% just given what's in the pipeline. So it's about $1.4 billion. You all, I guess, in the slide that you're starting the 90-day deferrals for these customers, but FASB and the regulators have sort of given levy to get up to 180 days deferral periods. Do you expect to go there for the bulk of these loans. Are you seeing, I guess, like if you could give some color on the type of borrower taking advantage of the deferrals. Are you seeing a mix between borrowers that actually need it and maybe some borrowers that are pretty strong and maybe just wants an extra liquidity?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "We are seeing that and what I can tell you Brody is a significant piece of the -- significant percentage of the commercial borrowers, which we've offered interest-only payments to or essentially deferring the principal only or a full deferral. We are very heavy on the interest-only side of that equation. So the borrowers are choosing north of 70% of the time to pay the interest and just defer the principle. So I think that speaks to the quality of the borrower and the portfolio that's looking for deferrals here. I think they are looking for -- to preserve cash and deferrals are available. So they are taking advantage of that appropriately. As far as the 180 days concerned, we will support borrowers that need it for an additional 90 days. So we will be working with those borrowers as we go forward. I would expect the restaurant industry would be an industry that would need an additional 90 days as potentially that hotel industry as well. So primarily, I think they're going to be heavily focused there."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Okay, that's great color. And the reason I'm asking is just like -- I'm trying to gauge whether or not you would expect to see a significant increase in your accrued interest receivable line item, which just based on the fact that 70% of your commercial borrowers are continuing are asking for IO. I'm assuming that you don't expect to see your accrued interest receivable move significantly higher."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "And some of it capitalized into loan too."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Right. No, we don't."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Okay. Yeah. Just because I guess I'm wondering like with some of these borrowers like where you're accruing interest or maybe you're not necessarily receiving it. That will get capitalized into the loan balance maybe on the back end, but I'm assuming that that would flow into accrued interest receivable in the interim, correct?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Not if you're capitalizing it, if you're capitalizing it, it becomes part of the loan balance."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Essentially funding the payments."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah, you're right."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "Yeah, you're funding it and then packing it on to the end of the loan."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Accruing interest on a higher balance over a period of time."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "That's what's happening."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Albeit small it is."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yes, smaller, but it is a small piece, but it's higher, OK."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Okay. And you mentioned the current reserve would be 66% of the 2018 DFAST on the severe loss scenario. So that severe loss sort of fits to about $520 million just doing the math. Is that a one-year loss scenario or is that spread out over multiple years in that stress test?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "That's over nine quarters. The way you do the stress test. That's cumulative losses over a nine quarter period."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "So it sounds like just based on that and just given what the PPNR run rate is that you wouldn't even need to dip into the reserve because PPNR would more than cover the losses. Is that fair to say?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Not sure I'm following you Brody. Can you restate that?"
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Yeah. Like your PPNR levels are more than adequate at that level over that time to cover those losses if you provision for it every quarter where you wouldn't necessarily need to dip into the reserve?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "I see what you're saying. Yeah, well, it depends on how --"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "How it plays out."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "How the economy plays out. Let's hope right, yeah."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Right. And then Vince you mentioned an interesting stat. Mobile deposits being up 40% in the last two weeks. And I know the situation is fluid, but that's a pretty big number. So I just wanted to better understand. Has anything happened in the last month or so that's changed how you're thinking about your footprint? Are there any geographies where customer behavior has surprised you in terms of mobile adoption during this timeframe or you hand't previously considered branch cutting and now maybe you're thinking about it?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Well, we've cut a lot of branches, in fact we cut 16 leading up to this. We probably would have left them open have we not already gone down the path. What I'm finding -- what's interesting is that we're still seeing about 65% of the normal volume in the branches from a transaction perspective. So what that's telling me is that while people are willing to use remote capture and that's remote capture end-to-end. So that could be small businesses instead of going to the branch using their device in their office. It's mobile people using their mobile device like I mentioned and we increased the limits to permit more checks to flow through there.\nI would expect and what we've witnessed is a number of customers that may have been older that weren't using our online and mobile products are now signing up for it. So we're walking them through it in the branches. So I would expect adoption of those products to be accelerated. We've significantly reduced the number of branches. I think we're getting to the point where the version of those branches is good and if we continue to cut at this rate without making some sort of capital investment in the delivery channel, it will begin to erode our ability to grow. Aand we're looking at that and what I mean by that is we're going to have to be strategic about closures. We may have to build a new facility and take two out in an area where we can accommodate a consolidation, but it requires capex spend. That's where we are I think in the evolution of branch closures."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Okay. And then a couple of real quick one."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "The other thing I will mention is we also saw a significant uptick in ITM transactions obviously. So we have about 40 ITMs, the interactive teller machine where you can actually speak to a human being, cash a check down to a penny. The utilization on those has increased in the last several weeks. Again, the more comfortable consumers become using these devices and the equipment I think that bodes well for the future in terms of utilization, which could lead to more efficiency in the branches from an HR perspective. So there's other ways to look at it. But it's a good question and I appreciate the question. Thank you."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "Yeah. And then one last one from me just with capital. I'm just assuming the buybacks are on hold. I'm sorry if you had said that, I missed it."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "The buyback is on hold. I think, Vince, mentioned in his prepared comments, we acquired about $25 million worth of shares prior to everything in floating and then we put it on hold to preserve capital."
+    },
+    {
+      "speaker": "Brody Preston",
+      "speech": "All right. Great. Thank you very much everyone."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Okay. Thanks, Brody."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Brian Martin with Janney Montgomery. Please go ahead."
+    },
+    {
+      "speaker": "Brian Martin",
+      "speech": "Hey, good morning, guys."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "How are you Brian?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Hey, how are you Brian?"
+    },
+    {
+      "speaker": "Brian Martin",
+      "speech": "Hey, most of my stuff has been covered. But just -- maybe I just on the -- back to the PPP for just a minute, Gary, or I guess maybe Vince. I'm sorry the -- if you talk about the 3% rate and you talk about the $2.1 billion. Just so I understand the -- what you're talking about as far as when the benefit is realized or how you guys are thinking about it just given there's not a lot of disclosure on it or how you're going to do that? If you take 3% and you're talking $60 million and you kind of -- as you recognize it the next couple of quarters or just kind of what you guys are thinking about. Can you give any sense for just how that $60 million just on the fee part, not the spread part was, as you're thinking about it today with flow through from a high level perspective. How much of the benefit are in the third and fourth quarter?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Yeah. I would come in over the two years, Brian, absent stuff once it's forgiven then you would bring in whatever is left. It's accounted for loan-by-loan. So basically the figure you quoted the $60 million-ish, which is what the math would work out to be. It just gets spread over the two-year period, which is the life of the loans, the stated life of the loans, I guess, I should say. And then what we were saying earlier is that the way the process we expect it to work, the loans are not going to be forgiven until you get into the third quarter when they would get paid off. And then we would bring whatever is left on each loan that's forgiven you would bring that into income during the third quarter."
+    },
+    {
+      "speaker": "Brian Martin",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "So I quoted like a 2.25% kind of all-in yields that we would have is what was kind of baked in for the second quarter."
+    },
+    {
+      "speaker": "Brian Martin",
+      "speech": "Got you. Okay. That's helpful. And then just on the, I guess, as it relates to the balance sheet and capital. I mean, Gary, you talked about the loans you saw that -- the assets you sold over the last couple of years. Is there anything, I guess, you would consider, I guess, is that something you guys are thinking about now any other asset sales here going forward or is that not really something you're thinking about today?"
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. We are constantly looking at the balance sheet, Brian. And we don't have anything positioned at all that we have any interest in selling at this point. That being said, we're always looking at the mortgage portfolio. So if there would be anything, it would just be a normal type of mortgage pool that would be sold, but nothing other than that."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "And it would be a challenge, I mean, we sold those portfolios during a more robust time. So I think -- and we were able to get out of those exposures in most cases at a premium. And I go back I reflect back on the calls, I know we were under tremendous pressure to grow revenue, but Gary made the strategic decision to exit certain asset classes. Hospitality was a large component of those loans that were sold and they were past credits in many instances. So I think we've taken a big bite out of the apple in terms of risk management. And if you look back, getting out of Regency, moving away from certain mortgage products that we decided to sell, looking at the credit portfolios, the acquired portfolios that had heavy concentration in hospitality and other areas that we didn't have an appetite for we packaged and sold. And we sold them at a time when you could get gain on the sale because there was more certainty at that time. Credit spreads were narrower."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Yeah. The other thing I would add around that Brian is our workout team. We've really strengthened it over the course of the last two, 2.5 years and they have been doing some tremendous work moving assets off the books that we won off the books and we're seeing that continue today. So we're benefiting from that as well and that's something that is a core focus of the company and will continue to be."
+    },
+    {
+      "speaker": "Brian Martin",
+      "speech": "Got you. Okay. That's helpful. And as I said it looks like a great move. So just the last one from me, just on the fee income part. Just two questions. Did I hear you right? I know the service charges were down this quarter, but you would expect them to go down further. And just if you gave any color on, just given the market conditions kind of how you're thinking about the wealth of the trust business today, if that also comes under pressure you already saw some of that, are you seeing any of that?"
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Last part then I'll go back to the forecast."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Go ahead."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Okay. All right. I guess what I would say, the guidance that we have there is expecting kind of core non-interest income to be stable from where we were except for the weaker service charges. I mean, we do expect -- we've seen some increased waivers, not a big number, I mean less than $1 million that we've seen in say the first four weeks of this. So there is some impact there. And then there's just less activity. So the comment was that expecting to see weaker service charges on the deposit transaction. So that will kind of run against what's happening in the other businesses. We're still looking for strong contributions. When you -- if you look at the non-interest income slide that we have in the debt. I mean we could see the movement up year-over-year and versus the fourth quarter and trust insurance Securities Commissions capital markets was all very strong. I mean the percentage growth versus both the fourth quarter and first quarter a year ago is up very nicely and we've invested in those businesses. We've continue to build out the teams there. So I think those contributions have been very important to mitigate the interest rate impacts. And then mortgage, we would expect to without an MSR impact this quarter, we would expect that number to kind of come back to a normal normal good solid level in the second quarter."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "But from an earnings from an earnings perspective, if you're speaking about net asset values declining because of the overall market decline, I would not expect that to be meaningful or material, right. So on an earnings perspective, but I'd say it's not going to be material."
+    },
+    {
+      "speaker": "Brian Martin",
+      "speech": "Okay, that's all I have guys, I appreciate all the color and the details in the release today."
+    },
+    {
+      "speaker": "Vincent J. Calabrese",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Gary L. Guerrieri",
+      "speech": "Thanks, Brian."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to management for any closing remarks."
+    },
+    {
+      "speaker": "Vincent J. Delie, Jr.",
+      "speech": "Well, first of all, I'd like to thank everybody for the thoughtful questions. I hope you found the information valuable. We tried to provide additional information on the credit portfolio so that everybody could have a better understanding of how we ran our model or what methodology we were using to run our model, where our exposures could potentially be. I think we're in a pretty good place. And I appreciate everybody's thoughtful analysis and questions and I just hope that everybody stay safe and look. We'll look to see you next time. So next quarter, hopefully, we'll have more clarity on where we stand economically. So thank you very much. Take care."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 79 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Matthew Lazzaro--Institutional Investor Contact",
+    "Vincent J. Delie, Jr.--Chairman, President and Chief Executive Officer",
+    "Gary L. Guerrieri--Chief Credit Officer",
+    "Vincent J. Calabrese--Chief Financial Officer",
+    "Jared Shaw--Wells Fargo Securities -- Analyst",
+    "Frank Schiraldi--Piper Sandler -- Analyst",
+    "Michael Young--SunTrust Robinson Humphrey -- Analyst",
+    "Casey Haire--Jefferies & Company Inc. -- Analyst",
+    "Russell Gunther--D.A. Davidson & Co. -- Analyst",
+    "Collyn Gilbert--Keefe, Bruyette & Woods, Inc. -- Analyst",
+    "Brody Preston--Stephens Inc. -- Analyst",
+    "Brian Martin--Janney Montgomery Scott LLC -- Analyst"
+  ]
+}

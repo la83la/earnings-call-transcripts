@@ -1,0 +1,317 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings, and welcome to the Thermon Group Holdings, Inc. Second Quarter Fiscal 2021 Earnings Conference Call. [Operator Instructions] It is now my pleasure to introduce your host, Mr. Kevin Fox, Vice President, Corporate Development. Thank you, sir. Please go ahead."
+    },
+    {
+      "speaker": "Kevin Fox",
+      "speech": "Thank you, Donna. Good morning and thank you for joining today's fiscal 2021 second quarter conference call. Earlier this morning, we issued an earnings press release, which has been filed with the SEC on Form 8-K and is also available on the Investor Relations section of our website.\nDuring the call, we will discuss some items that do not conform to generally accepted accounting principles. We have reconciled those items to the most comparable GAAP measures in the tables at the end of the earnings press release. These non-GAAP measures should be considered in addition to and not as a substitute for measures of financial performance reported in accordance with GAAP.\nI'd like to remind you that during this call, we may make certain forward-looking statements regarding our Company. Please refer to our annual report and most recent quarterly report filed with the SEC for more information regarding our forward-looking statements, including the risks and uncertainties that could impact our future results. Our actual results may differ materially from those contemplated by these forward-looking statements, and we undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by law.\nAnd now, I'll ask Bruce Thames, our President and CEO, for his opening remarks."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Thank you, Kevin, and good morning. We hope everyone listening is staying safe and in good health. We appreciate you joining our conference call and for your interest in Thermon. Jay Peterson, our CFO, is with me and will provide additional information on our Q2 financial performance following my remarks.\nSince our Q1 call, the Thermon team has remained focused on the safety and security of our employees, customers, suppliers and the communities in which we live. As a supplier to critical infrastructure, we remain open for business and have focused on supporting our customers around the globe. As we look across the world, our teams and our customers are adapting to the new normal. In many locations, we continue to suspend business travel, work-from-home where possible, and follow the applicable local health protocols.\nI'd like to thank our Thermon employees around the globe for their commitment to our customers and our shareholders through these challenging times. Our employees are incredibly resilient and have quickly adapted to this new way of working. I especially want to thank our frontline employees that have continued to be on site serving our customers each and every day throughout this pandemic. Their commitment to our core values of care, commitment and collaboration as well as our industry-leading safety performance is both admirable and appreciated.\nWith the uncertainties surrounding this pandemic, our team has remained focused on value preservation and cash management. In Q1, the team took decisive action to reduce SG&A by $16 million in the fiscal year and just over $17 million on an annualized basis. During the second quarter, the team has further reduced expected SG&A spending by an additional $9 million in the fiscal year. And we expect this reduction to continue on an annualized basis going forward.\nIn addition, we have reduced manufacturing overhead by an additional $6 million, including a rooftop consolidation that will improve absorption on lower volume in Q4 and beyond. Many of these savings are the result of the work this team has done over the last four years to improve the systems, processes and tools to generate efficiencies and unlock scale from engineering to back office processes. We also believe we are well on track to deliver the $3.9 million in continuous improvement cost savings through our manufacturing operations.\nWe believe these changes have fundamentally repositioned the business to be more profitable during the downturn and generate meaningful operating leverage during the recovery. It is important to note that these cost reductions were made while preserving investments in key areas that will help drive future growth, such as front line sales, resources to drive globalization of the process and environmental heating product lines, and new product development.\nI'd like to turn now to our Q2 results. Overall, we were pleased with the improvements we're seeing in the business during Q2. We believe our Q1 represented a quarterly bottom in terms of both revenue and EBITDA. Our second quarter showed sequential improvement in many areas with revenue of $66.4 million. While down 35% from a record prior-year quarter, revenue grew 17% sequentially. We did see shipment delays due to logistics and supply chain shortages in some key electrical components that negatively impacted the top line during the quarter.\nAdjusted EBITDA of $10.5 million was down 50% from prior year, but up 661% or $9.1 million from Q1 on improved volume and cost reduction actions. Gross margins for the quarter were 43.6%, down 57 basis points from prior year, but up 120 basis points sequentially. We continue to benefit from the receipt of the Canadian Emergency Wage subsidies, which have been excluded from the adjusted numbers. GAAP and adjusted EPS were $0.06 a share and $0.12 a share, respectively, during the quarter, showing positive momentum on the sequential volume growth and cost reduction efforts.\nWe were pleased with bookings for the quarter at $75.7 million, which were down 18% from prior year, but up 25% sequentially relative to the Q1 27% shortfall to prior year. This represented a sequential double-digit improvement even when adjusted for seasonality. Our book-to-bill of 1.14 was positive for the third consecutive quarter with backlog growing by 8% sequentially and 16% year-over-year.\nIn addition, margins in backlog improved by 420 basis points during the quarter on a positive mix of business. We continue to see weakness in our MRO business due to safety measures our customers have implemented in an effort to prevent the spread of the virus. Many have suspended project-based maintenance activities to limit the number of contractors on site and manage cash.\nWe did see sequential improvement in our Q2 quick turn business of 14% when compared to Q1 on a relative basis to prior year quarters. While we do expect to see further sequential improvement in Q3, we believe the deferral of maintenance is building pent-up demand that will create incremental opportunities for MRO/UE as COVID-19 restrictions ease.\nWe anticipate capital spending to be weaker in the second half of the year, particularly in the US and Latin America, representing a headwind in the near term. We continue to generate positive cash flows from our operations of $9.3 million during the second quarter, which enabled $4.4 million in debt repayment. We see further opportunities to free up an additional $10 million in cash from the balance sheet by year-end.\nTurning now to a discussion of our end markets. The oversupply of oil resulting from the Saudi-Russia dispute combined with the unprecedented decline in demand due to COVID-19 lockdowns has had a profound impact on our customer and end markets. However, we are seeing that some customers are better positioned to weather the storm.\nUpstream, which represents approximately 14% of our revenues and integrated oil companies have been the hardest hit. Chemical companies and customers with more exposure to natural gas has seen much less decline in demand, and commodity pricing has been more resilient. We also see strength in agro-chemicals as well with capital investments in nitrogen and ammonia processing plants for fertilizers.\nAs we look forward, there are a number of fundamental shifts under way. Thermon is well positioned to capitalize on the transition to natural gas as a bridge fuel with LNG projects moving forward. The shift to renewables also creates opportunities for our business in bio gas and biofuels. We are currently executing a sizable biodiesel project in the US with many more projects in various stages of planning in the US and across Europe.\nWe also see numerous oil to chemical projects creating future opportunities where producers and refiners are seeking growth markets for their capacity as demand for transportation fuels stagnates. Growing demand for power across Asia and other emerging markets will also create additional opportunities for our business going forward. Finally, tightening environmental regulations that require lower sulfur fuels and higher CAFE standards drives demand for a wide range of Thermon solutions as well.\nTurning now to transportation. Transportation represents around 3% of our revenues in fiscal year 2020 and is a growing segment of our business that offers an opportunity to diversify our end markets. After securing two large orders in light rail in the last two quarters, we continue to see large transit opportunities that will expand the installed base in the US and Canada to generate stable recurring revenues. We also see additional opportunities to grow our presence in less cyclical end markets, such as food and beverage, to further diversify our revenue streams going forward.\nTurning now to our investments in research and development. We continue to invest in new product development that creates value for our customers and differentiates Thermon solutions in the marketplace. Key areas of investment include connected and smart control solutions, advanced heating technologies and material science.\nWe were excited to recently announce the new Genesis Network, which extends our leadership position in smart connected control solutions. This introduction builds upon the technology platform of our Genesis Controller by creating a plantwide ecosystem, employing a self-healing mesh network with an IIoT gateway and browser-based supervisory software.\nThe combined system, which is backwards compatible, enable operators to have real-time operational awareness to improve the safety, reliability and efficiency of their processes. The mesh network also lowers total installed cost while enabling brownfield locations to be cost effectively upgraded to the newest technology. The Genesis server represents Thermon first subscription-based operational software platform that will create opportunities for future product and service revenue streams from the installed base.\nWhile visibility is improving, we continue to experience near-term uncertainty due to the number of variables influencing our end markets. As a result, we remain focused on managing the five key priorities communicated last quarter. They are: First, the safety of our employees and customers; second, aligning cost structure to the level of incoming business; third, driving continuous improvement programs to achieve the targeted $3.9 million in savings during the fiscal year; fourth, cash management; and fifth, investing for future growth. Executing on these five priorities will position the business to perform during this downturn and more importantly, profitably grow as our end markets recover.\nLooking forward, given the current level of uncertainty, we do not intend to provide formal guidance for fiscal 2021 at this time. We do believe that Q1 represented the quarterly bottom in terms of revenue and earnings due to COVID-19 restrictions that were in place combined with the normal seasonality of our business. With Q2 revenues down 35% from prior year and bookings down 18%, we expect the revenue shortfall to prior year to begin to moderate in Q3 and Q4.\nWe also expect the cost reductions to begin to have a meaningful impact to bottom line performance in the back half of the year with decremental margins in the 25% to 30% range. As a result, we anticipate a small step down in trailing 12-month EBITDA in Q3, representing a bottom with trailing 12-month EBITDA expansion in Q4 on lower volume. The actions we have taken this year have positioned the business to deliver 100 basis points or more of EBITDA margin expansion during a downturn, and the team is hard at work to build a path to deliver similar or greater margin expansion in the subsequent year.\nWe continue to actively manage the business while remaining focused on executing on our strategic, operational and financial plans. As we look ahead, I want to emphasize the strength and resilience of our business model and our ability to drive EBITDA and generate cash through the cycle. We have a talented team that remains committed to serving our customers and creating value for our shareholders. By focusing on the priorities outlined, Thermon is well positioned to emerge a stronger, more profitable business as our customers and end markets adapt to the next normal.\nWith that, I'd like to pause here and hand it over to Jay for more detailed review of the financials. Jay?"
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Thank you, Bruce. Good morning. In light of the protracted depressed capital spend environment, our focus continues to be on value preservation in addition to funding specific strategic investments. During the quarter, we recorded $2 million of restructuring cost related to the Q2 cost out actions. And we expect these cost out actions, including the Q1 reduction in force, to reduce SG&A to approximately $34 million to $35 million for the second half of this fiscal year. And we believe approximately 80% of these reductions are structural in nature and will provide incremental operating leverage when growth returns. And since May of this year, we have reduced our SG&A by approximately 24% from $100 million down to $76 million to $77 million.\nAlso during Q2, our Canadian subsidiaries qualified for and received a $1.4 million benefit from the Canadian Emergency Wage Subsidy program. And $400,000 of this benefit was recorded under cost of sales, while the remainder impacted SG&A. And While we have faced significant challenges in our P&L-related to COVID-19 and the sustained decline in oil prices, our balance sheet remained strong and our cash and investments balance at the end of September improved by $51.4 million. And we also paid down $4.4 million in debt and generated $7.2 million in free cash flow. And that marks our ninth consecutive quarter of positive free cash flow.\nOur capex spend for the second quarter totaled $2 million, and that's inclusive of both growth and maintenance capital. And we expect fiscal '21 capex to be approximately $4.6 million and that's a year-on-year reduction of 54%. Our net debt to EBITDA ratio was 2.9 times at the end of Q2.\nAnd lastly, our capital allocation priority is to continue to reduce our debt through continued optional debt repayment. And we remain confident in our current liquidity and ability to generate cash during this fiscal year and we plan to pay down additional debt in the second half of this year. And regarding M&A, our pipeline remained strong. However, due to our current leverage position, we do not anticipate any acquisitions in the near term.\nNow turning to revenue and orders. Our revenue this past quarter totaled $66.4 million and that's up sequentially by 17% and down by 35% against the prior year quarter, and was in line with our expectations for Q2. Our legacy revenue mix between MRO/UE and Greenfield was 64% and 36%, respectively, versus a 53% and 47% in Q2 of fiscal year '20. And FX decreased total revenue by $1.1 million in the quarter. And in constant currency, our revenue declined by 34%.\nOrders for the quarter totaled $75.7 million, up sequentially by 25%. And relative to the prior year quarter, our orders declined by 18%, and that's an improvement from the Q1 decrease of 27%. And our backlog of orders ended September at $118.7 million, and that's the highest level in the last 18 months, albeit under depressed revenues. And due to cost out actions and higher margin projects, we have seen our backlog margins improved to 33.4%, and that's a 420 basis point improvement on a sequential basis. Our book-to-bill for the quarter was positive at 1.14, and that marks the third consecutive quarter of a positive book-to-bill.\nIn terms of gross margins, margins were 43.6%. And although they were down by 57 basis points versus the prior-year comp period, they were up sequentially by 114 basis points. And gross margins were positively impacted by 63 bps due to the Canadian Emergency Wage Subsidy program. Gross profit in the quarter declined by $16.5 million and that's attributable to the volume and revenue decline of 35%.\nAnd looking forward to the second half of this fiscal year, we expect gross margins to improve by 100 basis points or more due to the benefits of cost reductions, even in light of the anticipated reduction in year-on-year volumes and an increase in the mix of our high margin on both a gross and net construct maintenance business.\nMoving on to OpEx. Operating expenses for the quarter, that is SG&A and this excludes depreciation and amortization of intangibles, totaled $21 million versus $25.4 million in the prior year. And SG&A expenses included $2 million of restructuring cost. Normalized for the Canadian Wage Subsidy program and the restructuring charge, our SG&A on a pro forma basis totaled $19.9 million. And as mentioned earlier, we expect our second half SG&A to be in the $34 million to $35 million range, inclusive of the recent spending reduction actions. And going forward, we would anticipate incremental spending in travel and other expenses to grow as volume returns.\nGAAP EPS for the quarter totaled $0.06 a share compared to the prior year quarter of $0.21, and that's a decline of $0.15 a share. Adjusted EPS, as defined by GAAP EPS less amortization expenses and any one-time charges, totaled $0.12 a share relative to $0.29 a share in the prior year quarter. And versus the prior year comparison period, adjusted EBITDA declined by 50% and adjusted EBITDA as a percent of revenue improved to 16%, and that's an increase of 1,300 basis points versus the prior sequential quarter. And adjusted EBITDA totaled $10.5 million this past quarter.\nFree cash flow was positive for the quarter by $7.2 million. And as I said before, our ninth consecutive quarter of positive free cash flow. And we remain confident in our ability to generate cash and service debt going forward. For Q2 of '21, we generated pre-tax income of $1.2 million and recorded a tax benefit of $627,000. And this benefit was due to U.S. Treasury regulations that provided updated guidance to the tax reform law of 2017 and the associated GILTI tax rules. And as a result, we reversed $1.4 million of previously recorded GILTI tax.\nAnd for the remainder of fiscal year '21 and the out years, we expect our tax rate to be 26% on a consolidated basis. In the quarter, cash grew by $3.1 million to $51.4 million, and we generated $9.2 million from working capital. And over the last 12 months, we have paid down $30.3 million in debt.\nAnd finally, given the continued impact of COVID-19 to our end markets, we will not be providing formal topline guidance at this time. And I would like to reiterate that we will continue to manage what we have control over, including our operating expenses, cost reduction efforts, continuous improvement initiatives and the continued management of our working capital.\nI would now like to turn the call back over to Donna to moderate our Q&A session. Donna?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question today is coming from Scott Graham of Rosenblatt Securities. Please go ahead."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "Yeah. Hey, good morning all."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Good morning, Scott."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "Very well done, very good execution."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "I do have a couple of more a 40,000-foot questions and then maybe a couple of 5,000-footers. As you look at the market right now, and I'm certainly speaking largely oil and gas, and frankly, even -- maybe even more specifically greenfield. It does look like Brent is sort of landlocked at this $40 level. What are your customers saying that that means for their greenfield, their capital spending, where it bottoms? In other words, so, if it's down this year in the calendar year, but will it be down again next year because of that level?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Yes, Scott. This is Bruce. I'll tell you, there is still a lot of uncertainty on capital spending with our customers. But as I mentioned in my script, what we're seeing is there are a number of customers that are much more impacted than others. And I think it's important to reinforce that if we look at the last downturn in the oil and gas sector where Thermon -- prior to that downturn in 2014, 2015, Thermon really benefited from the investments in the oil sands. Since that time -- and at that time, upstream was a much larger percentage, probably 2.5 times the percentage of our business that it is today.\nToday, we've repositioned the business much more -- we're much more exposed to gas, we're a lot more exposed to chemicals and petrochemicals, and we were able to drive growth kind of in -- following that last downturn in those areas, it really wasn't an upstream spending. So I suspect the price of oil will continue to have a pretty significant impact on upstream operators as well as integrated oil companies.\nBut as I mentioned there are others, pure chemical plays that -- chemical companies, they are less impacted. In fact, some of the, in certain areas because of some other supply disruptions we saw in the Gulf Coast, particularly with the hurricanes that have hit Louisiana, we've actually seen resin prices spike. So in some of those areas, we expect them to be healthier, have better cash flows and and capital investments to move ahead. So I guess that would be how I could characterize it. I don't really think I could necessarily quantify it."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "That's fine. Thank you. I think we're all grouping for that answer. If we were to look at your backlog right now, obviously, it's -- the number looks good. But would you be able to quantify how much of the backlog, let's say, six months ago was expected to be shipped and was not was -- like, how much of your backlog increase was not necessarily planned right, so pushing out of shipments versus what you expected..."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Yes, Scott. A rather minor amount, less than $5 million. And recall we are very late cycle with our projects where the last oftentimes 1% or 2% or 3% of the activities needed to do the full commissioning, so a rather, rather minor amount. And we have not seen a significant protraction in the execution of our backlog at this point in time."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "Okay. So let me just connect those two dots. The question that Bruce answered and the question you just answered Jay, thank you. To this end, in the past you guys have, in greenfield, been about two to three quarters behind general purpose capital spending in oil and gas, again, on the greenfield site. And do you guys see anything different this cycle? Again, notwithstanding when capital spending improves, but has that extended? Do you think that you will still be in that two to three quarter lag of when capex bottoms."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Scott, this is Bruce again. I expect it to be similar. During the last downturn, we did see timelines move out. Normally, our backlog we execute in 12 months. Some of that could -- we saw that extend as much as 18 months. As we look forward, I still expect us to lag by, I would say, two to four quarters the capex recovery just because where we are in the cycle.\nI do, however, want to point to a fundamental difference in our business. When you look at the environmental and process heating products, which is about 25% of our revenues, those are about -- those are much earlier in the recovery. So we saw those turn down more quickly and we expect those to rebound sooner. So that's an important shift to consider when you're kind of looking at the business on a go-forward basis."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "Yeah. Thanks. Last question. This is maybe for Jay. Jay, could you kind of give us the specific this quarter cost reductions. I think the numbers you gave for annualized, correct me if I'm wrong, right? For -- within SG&A and within cost of goods sold, what the specific benefits were this quarter. Do you have that?"
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Yeah. For SG&A, we exited last year for SG&A approximately $100 million, slightly over $100 million. And in Q2 we discussed that the reduction would go down to $88 million. And we are now viewing somewhere between $76 million and $77 million for the year. So, Q1 was $12 million and then add another $1 million-ish, maybe $2 million, for this current quarter. In Q2, we've gone from $25 million to a pro forma basis of $19.9 million, ex the Canadian Wage Subsidy and the restructuring charge."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "So that would be the operative number in the second quarter, right, Jay? The $6 million."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "And then on the cost of sales side?"
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "We have -- let me give you this fiscal year, because a lot of these still need to blend in. We've identified $1.8 million worth of overhead-related cost reductions. On a future basis, a 12-month basis, we believe that will be $3.8 million. So $3.8 million over the next 12 months, of which $1.8 million will be realized.\nAnd then Bruce talked about the strategic sourcing and the cost reduction initiatives, and that will be over and on top of the overhead cost reductions I just mentioned."
+    },
+    {
+      "speaker": "Scott Graham",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Joe Aiken of William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "Hi. This is Joe on for Brian a day [Phonetic]. Good morning."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Good morning, Joe."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "So, I guess I'll start. I'm curious if you could just talk in a little more detail about any large project activity you're seeing right now. You mentioned a couple of projects you're working on. Are there still some large projects being bid on in those markets or anything to highlight?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "There is certainly a fewer number of capital projects out there. I mean, we expected that. Coming into this year and that's certainly been reflecting in our -- reflected in our incoming order rates. The larger projects that we see today tend to be in the Eastern Hemisphere. We see particularly weakness in the near term in larger projects in the U.S. and Latin America, and to a lesser extent in Canada. But -- so right now, the overall capital spending without question is down in the 25% to 30% range from what we had seen a year ago."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "Okay, thanks. And can you just clarify for me kind of the order trends, how that trended through the quarter? I think on the first quarter call, you said it was down 33% in July. And you said that ended up being down 18% for the full quarter, is that right?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Yeah, that's correct. So we saw improvement in the incoming order rate during the quarter sequentially. I think the really important thing to anchor on as we saw, we've been seeing improvement in our quick turn business, which is really the -- our MRO -- it's a proxy for our MRO business and it's the most profitable piece of our revenue on the installed base. So we are seeing some sequential improvements there and that's certainly promising although they are still well below prior year levels."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "Okay. And did you say what your incoming order rates for October order?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "I have not mentioned it. I did say we expected to see some sequential improvements in our quick turn business and that we have seen. But as I mentioned, also during the script, we do expect headwinds in the capital projects in the back half of this year, particularly in the U.S. and Latin America."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "Okay. So just to stick on that for a second. So sequential improvement, will that be compared with the full quarter incoming rate of down 18% sequential improvement from that?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "You have to understand that's both maintenance and capital, so that would not be a good way to look at it. It's -- I see sequential improvement on our maintenance incoming order rate and I see weakness in the capital, so."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "Okay, thanks. And then just turning to margins. I think you, Jay, you said you'd expect gross margin to improve 100 basis points or more in the second half of the year. Is that on a year-over-year basis? And would you expect -- given there is some moving pieces there with the cost reductions and the overhead reduction. Would you expect to see more expansion in the fourth quarter compared to the third quarter?"
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Yeah. That 100 BP improvement or more was on an annual basis."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "Okay. And would you expect more of that to come in the fourth quarter compared to the third?"
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Yes, because some of these cost out actions have to -- they take a little time. So -- and depending on how costs are rolled and such in manufacturing absorption, that doesn't all happen immediately."
+    },
+    {
+      "speaker": "Joe Aiken",
+      "speech": "Okay. Thanks for taking my questions, guys."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Yeah. Thank you, Joe."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Thank you, Joe."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Jon Braatz of Kansas City Capital. Please go ahead."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Good morning, Jay, Bruce."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Good morning, John."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Bruce, you talked a little bit more about some of the alternative energy projects, biodiesel, biogas. I'm curious what type of content -- heat tracing content is on a project like that. How does that compare to a petrochemical plant or a refinery or what have you?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "It certainly -- Jon, it certainly depends on the size of the processing facility, that certainly has a great influence. But for example, I think it's important to note, historically, refineries have been heavily weighted toward steam. When you move toward things like biodiesel, they are almost exclusively electric. So that's a big shift or a transition from steam to electric that we see. And maybe for those of you, an update, it's around 48% steam, 52% electric when we look at the markets globally. A big part of that's been in refining.\nSo as we look at, let's say, a biodiesel plant that I had mentioned, those may range from -- depending on the size and the scope of work, from $0.5 million to $2 million in total heat tracing content, and that's almost exclusively electric heat tracing. There are additional opportunities in process heating and temporary power, which are not included in the numbers I just shared."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. Any other alternative energy type of projects. A lot -- there's been a lot of talk about hydrogen. And I don't know, if heat tracing required for hydrogen. But anything beyond biodiesel, biogas?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "There are other opportunities. The one that really is real today is concentrated solar power. Those are pretty significant when it comes to heat tracing opportunities and we've done a number of those projects around the globe. We don't play much in the photovoltaic solar today. Limited opportunities in wind. But those are at least a couple of examples. Hydrogen, it's a little early there. And certainly that would be an area that we would continue to explore as that becomes a greater part of the overall energy mix. We think that's probably beyond the five- to 10-year mark."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Sure. When you say concentrated solar power, do you mean utility-sized projects?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Absolutely."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. All right. Okay, that sounds good. And Jay, one sort of forward -- really forward-looking question. You've obviously taken a lot of cost out of the business. And when the revenues return, should they return to prior levels and so on? What do you think -- how do you think your margins could be relative to where they were in the past, they were up by -- up toward 20% something like that. But given a return to \"more normalized revenues\" and then given the costs you've taken out, are we beyond that 20% in a better environment?"
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "We are. Recall back four, five years ago, when a lot of the upgraders in Canada were happening -- and by the way, we are not planning for that to reoccur. We had EBITDA often times at the 25% range going forward. We think it will be somewhere in the 22% to 25% range once we see upticks in volume."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "EBITDA margins?"
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay. All right. Jay, thank you very much."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Thank you, Jon."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our final question today is coming from Andreas Nicholas [Phonetic] of Evercore ISI. Please go ahead."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Good morning, Andreas."
+    },
+    {
+      "speaker": "Andreas Nicholas",
+      "speech": "Hey, guys. Thanks for taking my questions here."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Andreas Nicholas",
+      "speech": "So definitely understand where you're coming from on not providing new guidance for the remainder of fiscal year. There's just a lot of uncertainty out there and the recent resurgence of COVID in Europe, for example, is just one of many reasons that would give people pause. I guess, this is more just a qualitative question for you, but as leadership of companies operating globally in the industrial and energy markets, what kind of things would you need to see take place in your markets or and what you're seeing [Indecipherable] in order for you to feel confidence in providing or reinstating that near-term forward outlook?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Yeah. I mean, we are looking toward that in the coming quarters. Certainly I mean, just one quarter later, our visibility is improving. But as you noted, there is still some uncertainty around, some of the resurgence and things like that and how that may impact a whole host of things. But we would like to see just the rates under control and see a little more consistency in some of the demand environment that we are seeing with our end customers. And so I think COVID is -- and really getting that at least to manageable levels will be important for us to have a better visibility for -- to provide forward guidance."
+    },
+    {
+      "speaker": "Andreas Nicholas",
+      "speech": "Okay. I hear you on that. If we move on to, let's say, some of the inroads that you've made in the digital area and some of your new products. How do you think about ensuring that you're able to capture some of that value that's being provided to the customer, whether in terms of greater efficiencies for them or savings or is that just increasingly viewed as table stakes in [Indecipherable] space. Just curious kind of hear how you can capture some of those?"
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Some of these technologies are available in other areas in the industry, but within our space, we're really out in front here. It's really -- we're seeing a significant amount of demand from our customers for these types of solutions. And we really have seen since COVID-19, it's accelerated the need for these types of technologies.\nAs we look forward, we said this is our first subscription-based software. It's an operational software that our customers can use as -- to manage their asset base. It also sets up the opportunity to drive additional revenues on services on the install base, whether that'd be online and virtual type of services around a predictive maintenance and troubleshooting things like that, to even on stream, online and, excuse me, and on-premise type of maintenance opportunities and really driving MRO sales.\nSo I believe this is well beyond just a kind of a me-too and also needed, we're out in front here. And we see some really significant opportunities to drive additional revenues on the installed base. And there are real true value propositions when you look at the impact that can have on our customers and how they manage their assets."
+    },
+    {
+      "speaker": "Andreas Nicholas",
+      "speech": "Okay, great. Thanks for elaborating on that and that makes sense. That was all the questions I had at this time. And thanks again. I'll hand it back over."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "Thank you, Andreas."
+    },
+    {
+      "speaker": "Jay C. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time, I'd like to turn the floor back over to management for closing comments."
+    },
+    {
+      "speaker": "Bruce A. Thames",
+      "speech": "All right. Thank you, Donna. I would like to thank you all, again, for joining us today and appreciate your interest in Thermon and enjoy the rest of your day. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 49 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kevin Fox--Vice President of Corporate Development",
+    "Bruce A. Thames--President, Chief Executive Officer and Director",
+    "Jay C. Peterson--Chief Financial Officer",
+    "Scott Graham--Rosenblatt Securities -- Analyst",
+    "Joe Aiken--William Blair -- Analyst",
+    "Jon Braatz--Kansas City Capital -- Analyst",
+    "Andreas Nicholas--Evercore ISI -- Analyst"
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, ladies and gentlemen, and welcome to The Toro Company's Second Quarter Earnings Conference Call. My name is Daniel and I will be your coordinator for today. [Operator Instructions] As a reminder, this conference is being recorded for replay purposes.\nI would now like to turn the presentation over to your host for today's conference, Nicholas Rhoads, Managing Director of Investor Relations for The Toro Company. Please proceed, Mr. Rhoads."
+    },
+    {
+      "speaker": "Nicholas Rhoads",
+      "speech": "Thank you and good morning. Our earnings release was issued this morning by Business Wire and a copy can be found in the Investor Information section of our corporate website, thetorocompany.com. On our call today are Rick Olson, Chairman and Chief Executive Officer and Renee Peterson, Vice President, Treasurer, and Chief Financial Officer.\nWe begin with our customary forward-looking statement policy. During this call, we will make forward-looking statements regarding our business and future financial and operating results. You are all aware of the inherent difficulties, risks and uncertainties in making predictive statements. Our earnings release as well as our SEC filings detail some of the important risk factors, including those related to COVID-19 that may cause our actual results to differ materially from those in our predictions. Please note that we do not have a duty to update our forward-looking statements.\nIn addition, during this call, we will reference certain non-GAAP financial measures. Reconciliations of historical non-GAAP financial measures to reported GAAP financial measures can be found in our earnings release or on our website. The company believes these measures may be useful in performing meaningful comparisons of past and present operating results to understand the performance of its ongoing operations and how management views the business. Such non-GAAP financial measures should not be considered superior to, as a substitute for or as an alternative to and should be considered in conjunction with the GAAP financial measures presented in our earnings release in this call.\nWith that, I will now turn the call over to Rick."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Thanks and good morning.\nI'll start by acknowledging the sad and disturbing recent events in the Minneapolis-St. Paul metro area and across the nation that began with the horrific death of one of our community members George Floyd. Our hearts go out to the family and friends of Mr. Floyd and the communities directly affected. Regrettably, these events are representative of larger social and systemic issues. As our communities work together through these tragic circumstances, we must stand for what is right. The Toro Company has a long-standing focus on the importance of respect for all in our workplaces, in how we conduct business, and in the communities we serve. In addition to the events of the past week, we all continue to deal with the effects of COVID-19. We hope all of you and your families are safe during this difficult time. It was humbling to see how so many people and organizations moved forward without hesitation to do what was needed to help others as the COVID-19 pandemic spread around the world. In response to the coronavirus, we prioritized the safety, well-being and support of our employees, customers and communities.\nIn addition to our value of respect for all as previously mentioned, some of our other core people values include carrying relationships, trust and integrity. Even through significant personal and family challenges, our team has transformed the way we work to protect the safety of one another, support our customers, and help our communities. I am deeply grateful for all of our employees around the world, many who are coming into our facilities each day, to develop, test, build and ship our products. The team's flexibility, resourcefulness and resolve is being demonstrated as we've acted to make our facilities safe and implement work-from-home policies. At the same time, we are maintaining the critical functions of our manufacturing operations. All of this is vital, given The Toro Company's standing as an essential business.\nIn support of our communities, we launched a special COVID-19 giving initiative called Together We Can Do More. Through this initiative, we directly donate and match all employee contributions made to COVID-19 relief efforts. In addition, The Toro Foundation contributed $500,000 to organizations supporting families and communities most directly affected by the pandemic. Recognizing the financial strain among our employees and their families, we expanded the availability of the Melrose/Hoffman Employee Critical Need Fund. Additional voluntary contributions were made to that fund by our leadership team and the Board of Directors. To quote our legendary former Chairman and CEO, Ken Melrose who sadly passed away last month, everyone has the potential to contribute to achieving the goals of the company. If you unleash that potential, success will be a natural byproduct. These words mean a lot coming from Ken who successfully led The Toro Company through some of the most challenging times in our history. Thanks again to our amazing team, who have certainly lived up to Ken's model of excellence during the past two [Phonetic] months.\nI will turn now to our business and financial review. From a business perspective, our focus has been on maintaining ample liquidity, growing our position in the market, and balancing short and long-term objectives. Our results this quarter were net sales sales of $929 million, down 3.4% from the prior year, primarily due to reduced Professional segment retail demand as a result of COVID-19. We reported adjusted diluted earnings per share of $0.92, down 21.4% from the prior year.\nTo provide specific information by business segments, in the Professional segment, total net sales were $661 million, down 8.6%. Sales benefited from incremental contributions from the Charles Machine Works and Venture Products acquisitions. This quarter, we passed the one-year anniversary of the Charles Machine Works acquisition. We are fortunate to have this business and its employees as part of our company. Charles Machine Works added scale and diversification to our portfolio, open access to new markets and provided additional opportunities for synergy and value creation across the company. We are on track to achieve or exceed our stated synergy targets.\nOffsetting the gains from acquisitions were declines in most of our Professional businesses as a result of soft retail demand due to COVID-19. The declines were most pronounced in commercial golf and grounds which saw fewer shipments of turf equipment and irrigation products. This was driven by budget deferrals at golf course and municipalities, landscape contractor businesses which had fewer shipments as our channel partners aligned field inventory levels which reduced retail demand and rental specialty and underground construction businesses which have experienced reduced sales volumes as a result of global economic slowdown and impact on the construction and oil and gas markets.\nIt's important to note the Professional segment performance was tracking consistent with our expectations of modest growth until mid-March. In April, we experienced additional and significant declines in most of our Professional markets. We typically do not discuss the current quarter in our earnings calls. However, we appreciate that this quarter is very different. So, we'll share some color on what happened in May. For the Professional segment, it was largely a story of new equipment purchase deferrals and focus on service and repair. We're seeing continued challenges across golf and grounds, landscape contractor, and rental specialty and underground construction businesses. These challenges stem more from lower budgets and deferred purchases than from temporary facility closures. For golf, most play has resumed and demand for rounds has been robust. However, lower food and beverage and event revenue has negatively affected club budgets, putting pressure on new equipment purchases. For our municipal grounds customers, budgets have been lowered or diverted to non-ground support which has resulted in reduced equipment demand. The repair and defer story is the same with landscape contractors. However, with the lessening of stay-at-home restrictions, there were some improvements in these categories starting in late May.\nIn rental, specialty and underground construction, 5G infrastructure and broadband spending increased modestly in May with high demand for system capacity as a result of stay-at-home orders. Underground infrastructure, rehab and repair projects remained steady. However, this is being offset by continued construction and oil and gas project softness, reduced capital spending from national rental accounts resulting in new equipment purchase deferrals and lower dealer retail.\nIn the Residential segment, sales were up 12.9% in the second quarter. This was mainly driven by incremental shipments to our expanded mass retail channel and strong retail demand. Some of the demand drivers were favorable spring weather, new products and consumers focusing on home and garden improvements during stay-at-home orders. Our product sales through captive and partnered e-commerce sites were up significantly in the second quarter. For May, Residential segment momentum continued, driven by the same trends.\nRegarding operations, all of our facilities are currently open with some operating at reduced capacity. During the second quarter, some sites closed temporarily due to government orders or to manage inventory levels. We will continue to align production to customer demand, comply with government orders and ensure the safety of our teams. We had no supplier-related shutdowns in the quarter. Regarding cash and financial flexibility, we continue to have a strong balance sheet and ample liquidity. We took measures in the quarter to ensure that we have sufficient cash given the economic climate.\nFor the remainder of fiscal 2020, we are taking, across the board, pay cuts inclusive of leadership and eliminating merit increases and discretionary retirement plan contributions. We also reduced expenses and paused new hires except for critical positions. At the same time, we have preserved jobs and retained key talent. We continue to benefit from productivity initiatives and enterprise synergy opportunities as a result of recent acquisitions. As with past periods of economic challenge, we know what works and how to play to our strengths. Our culture and business management approach are well adapted to respond to uncontrolled external variables. While certain factors do lie out of our control, our diverse portfolio and flexibility, help us adjust to shifting situations, while continuing to provide long-term growth and sustained free cash flow. We will continue to invest in the future for the benefit of all of our stakeholders.\nWith that, I will now turn the call over to Renee for a more detailed discussion of our financial results."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Thank you, Rick and good morning everyone.\nThe Toro Company is comprised of a balanced portfolio of products that enhance our customers' productivity across the seasons. The company has a strong balance sheet that enables us to allocate capital effectively among a variety of alternatives, including new product development, acquisitions, dividends, debt pay down and share repurchases. Q2 was no exception. While the COVID-19 pandemic affected our results, we were able to adjust our operations and move the business forward. We reported net sales of $929 million in the quarter, a 3.4% decrease from the second quarter of fiscal 2019. Diluted EPS was $0.91 for the quarter compared to $1.07 last year. Adjusted diluted EPS was $0.92, down 21.4% compared to the second quarter of fiscal 2019.\nFor the first six months of fiscal 2020, net sales increased 8.4%. Diluted EPS was $1.55 compared to $1.62 in the first six months of fiscal 2019. Year-to-date adjusted diluted EPS was $1.56 compared to $1.69 a year ago.\nBefore I review segment results, I'll cover liquidity. Back in March, we entered into a three-year term loan agreement for $190 million. This was to refinance our revolving credit facility borrowings, incurred in connection with Venture Products acquisition which closed on March 2. With the funding of this new term loan, the company now has liquidity of approximately $800 million including cash and cash equivalents of $200 million and availability under our revolving credit facility of approximately $600 million. We have no significant debt maturities until April 2022. We continue to work closely with our banking partners and monitor credit markets. Receivable collections continue to track similar to last year. All of this gives us confidence in our ability to weather the current and potentially extended period of macroeconomic uncertainty.\nI'd like to provide more color and some of the actions we've taken so far to maintain the strength of the company given the unprecedented speed and depth of the pandemic. From a demand perspective, we've executed business continuity plans and work to ensure product availability in areas where demand remains strong such as in our Residential segment. Additionally, we scaled back production in areas where demand was weaker. As Rick discussed, we have taken actions to align costs with near-term demand and we'll continue to look for ways to make our cost structure more flexible and competitive. Meanwhile, we focus on maintaining productivity and synergy intiatives which were driven by recent acquisitions and then extended across the enterprise.\nNow, to the segment results. For the second quarter, Professional segment net sales decreased 8.6% to $661 million. The top line benefited from the Charles Machine Works and Venture Products acquisitions which together added incremental net sales of $142 million. Professional segment sales declined compared to the second quarter of 2019, due to lower shipments driven by COVID-related demand pull back. Until mid-March and the impact of COVID-19, sales were tracking to modest growth in line with our expectations. We saw a modest sales decline in the second half of March and a more significant reduction in April as compared to prior-year performance.\nFor the year-to-date period of fiscal 2020, net sales increased 6.6% compared to the same period of fiscal 2019. Professional segment operating earnings for the second quarter decreased 29.2% to $106 million, reflecting a 460 basis point decline in segment operating earnings as a percent of sales, primarily due to manufacturing variance as a result of COVID-19 related facility closures and social distancing initiatives, incremental marketing, engineering and administrative costs as a result of the Charles Machine Works and Venture Products acquisitions, higher warranty expense and unfavorable product mix. This was partially offset by favorable net price realizations, productivity and synergy gains, lower commodity and tariff costs and decreased incentive compensation expense. Year-to-date Professional segment operating earnings declined 12.3% compared to the same period in the prior fiscal year. Professional segment operating earnings decreased 360 basis points to 16.6%.\nResidential segment net sales for the second quarter were up 12.9% $262 million, mainly driven by incremental shipments of zero turn riding and walk power mowers to the expanded mass retail channel as well as strong retail demand. Year-to-date fiscal 2020 net sales increased 13.4% compared to the same period of fiscal 2019. Residential segment operating earnings were up 68.5% to $37 million. This reflects a 470 basis point year-over-year increase in segment operating earnings to 14.2%. This improvement was largely driven by productivity and synergy gains, lower commodity and tariff costs, lower freight costs and SG&A leverage. This was partially offset by unfavorable manufacturing variance and higher warranty expense. Year-to-date Residential segment operating earnings increased 67.2% to $58.7 million. On a percent of sales basis, segment earnings increased 440 basis points to 13.7%.\nMoving to our operating results. We reported gross margin for the second quarter of 33%, a decrease of 40 basis points over the prior year period. Excluding acquisition-related charges and one-time costs associated with the inventory writedown of the Toro branded underground business, adjusted gross margin decreased 100 basis points to 33.4%. The decrease in adjusted gross margin was primarily driven by manufacturing variance due to production downtime and inefficiencies as a result of COVID-19 related closures and product mix with higher Residential segment net sales compared to Q2 of 2019. This was partially offset by productivity and synergy gains, favorable net price realizations within our Professional segment and lower commodity and tariff costs. For the first six months of fiscal 2020, gross margin was 35.1% compared with 34.3% in the prior year period. Adjusted gross margin was 35.3% compared with 34.9% in the first six months of fiscal 2019.\nSG&A expense as a percent of sales increased 40 basis points to 19.5% for the quarter due to incremental marketing and engineering costs as a result of the Professional segment acquisitions as well as higher warranty expense. These cost increases were partially offset by decreased incentive compensation costs and lower transaction and integration costs. SG&A expense as a percent of sales for the first six months of fiscal 2020 was 22.3%, up 130 basis points from the prior year period.\nOperating earnings as a percent of net sales decreased 80 basis points to 13.5% for the second quarter. Adjusted operating earnings as a percent of net sales decreased 240 basis points to 14%. For the first six months of fiscal 2020, operating earnings as a percent of net sales were 12.8% compared to 13.3% a year ago. Adjusted operating earnings as a percent of net sales for the first six months of fiscal 2020 were 13.1% compared with 14.7% a year ago.\nInterest expense increased $2 million and $5.4 million for the second quarter and year-to-date, respectively, compared to a year ago. These increases were due to higher debt outstanding related to the Professional segment acquisitions. For the full year, we anticipate interest expense of about [Phonetic] $34 million. The effective tax rate was 18.9% for the second quarter and the adjusted effective tax rate was 20%. For the first six months of fiscal 2020, the effective tax rate was 18.8% and the adjusted effective tax rate was 20.4%. For the full year, we anticipate an adjusted effective tax rate of about [Phonetic] 20.5%.\nTurning to the balance sheet and cash flow. Accounts receivable totaled $400 million. This was down 6.6% from a year ago as a result of lower professional segment sales at the end of the second quarter, driven by reduced demand due to COVID-19. This was partially offset by incremental residential segment sales to the expanded mass retail channel and additional receivable as a result of the Venture Products acquisition. Inventory was up 16.8% to $714 million from a year ago, primarily due to higher finished goods in our Professional segment due to COVID-19 related sales reduction, increased raw materials and work in process as a result of production downtime due to facility closures and production inefficiencies and incremental inventories from Venture Products. Accounts payable decreased 16.4% to $327 million from a year ago. This was mainly due to decreased material purchases as we align production levels with reduced sales volume. Incremental payables from Venture Products partially offset the decline in purchases. We expect depreciation and amortization for fiscal 2020 of about $100 million which includes approximately $3 million of fair value step-up related to the acquired inventory from Venture Products. We are now estimating lower capital expenditures of $80 million versus our prior expectation of $100 million.\nFree cash flow for the quarter was below prior year amounts, primarily due to decreased net earnings, lower accounts payable, and higher inventory. Our disciplined capital allocation strategy includes investing in organic and M&A growth opportunities, maintaining an effective capital structure and returning cash to shareholders. Our keen focus on near-term liquidity has reaffirmed our capital allocation priorities for the year. Consistent with our objectives following the Venture Products acquisition, we will continue to prioritize debt repayments in order to manage our leverage target, curtail share repurchases for the year and consider strategically compelling acquisitions. In May, we declared our regular quarterly dividend. Based on our current outlook and strong financial position, we expect to maintain our dividend.\nAs a result of the many and evolving COVID-19 related factors we discussed today and more that could emerge, should the current economic climate extend for a prolonged period, we do not have the ability to predict its impact on our businesses and financial results. As such, we withdrew our second quarter and full-year guidance late in March and will not be providing new detailed financial third quarter or full-year guidance on this call.\nThat said, we do want to share with you some of our thinking about the remainder of the year. At this point, based on current information regarding the global economic outlook, the company expects the most pronounced year-over-year sales and EPS percentage declines in the third quarter of fiscal 2020. We also expect negative year-over-year fourth quarter sales and EPS growth. This assumes continued customer behavior changes that include lower capital outlays and cash preservation, mostly in the Professional segment. On the positive side, our products have a natural replacement life. So we anticipate net sales will rebound in future periods. COVID-19 related factors that could impact these expectations include: first, the company's ability to continue operations and or adjust our production schedules due to governmental actions that have been and continue to be taken in response to the COVID19 pandemic; second, supplier risk and the company's ability to obtain commodities, components, parts and accessories in a timely manner and at anticipated costs; and finally, prolonged periods of economic stress that may affect customer liquidity and could impede customer buying patterns. While we do not know how long this COVID-19 uncertainty will continue, we anticipate an easing of these pressures as we head into fiscal 2021.\nIn summary, with our flexible business model and strong culture as our foundation, we have taken the necessary steps to be in a position to grow as we enter fiscal 2021. We have preserved jobs, lowered costs, strengthened our financial position, served our partners well and continued to invest in technology and innovation and we are prepared to take further actions to serve our customers in multiple potential economic scenarios.\nI will now turn the call back to Rick."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Thanks, Renee.\nAs we've seen so for so far in 2020, we have been agile in our response to the pandemic and remain committed to our core values of innovation and caring relationships built on trust and integrity. While our near-term visibility is limited, we've taken measures to ensure a solid financial position as we move forward. We are confident in our ability to continue serving our global customers throughout and far beyond the pandemic. As we look ahead, we are optimistic about our many exciting opportunities, our investments in alternative power, smart connected products, and robotic and autonomous technologies will drive an entirely new cycle of innovative products across our markets. We continue to expand our full future portfolio of battery-powered products as customers see convenience and an opportunity to reduce emissions. We expect the customers who deferred new equipment purchases will return to historic buying patterns as the economy improves. In past recessionary times when we saw new equipment purchase deferrals, we experienced strong growth in the recovery.\nIn construction, the buildout of 5G and rural broadband should benefit sales of our underground equipment like the new JT24 horizontal directional drill. In golf and grounds, we will continue to innovate to increase productivity and solve customer challenges. For example, our IntelliDash course management platform professionals helps turf professionals integrate data and use information to simplify operations and use water and other resources more efficiently. We continue to support contractors with an expanded line of high productivity equipment solutions. For the snow and ice season, this includes the BOSS Snow Raider and Ventrac SSV and for the growing season, the Exmark Staris and Toro GrandStand Multi-Force. These are just a few examples of how we're creating long-term growth through new product development and strategic acquisitions. We also expect continued homeowner interest in home and garden improvement. We have an exciting array of new products, including an expanded portfolio of 60-volt solutions, refreshed brand content and marketing and a new channel partner that is broadening our reach.\nIn closing, our strategic priorities are enduring. Now and long after we emerge from this challenging time, we remain focused on accelerating profitable growth, driving productivity and operational excellence and empowering people. I'd like to again recognize the dedication and resilience of our employees and channel partners, and offer my sincere thanks to our customers and shareholders for your continued support.\nWith that, Renee and I would be happy to take your question."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question comes from David MacGregor with Longbow Research. Your line is now open."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Yes, good morning everyone. And thanks for taking the questions."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "I guess where I'd like to start is -- and thank you for the additional color. That's helpful. But you talked about the third quarter as being potentially the worst from both the revenue and earnings standpoint. I wonder if you could just open that up a little bit and just talk about some of the individual business units and the dynamics that you expect would contribute to that net result?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Sure. I could talk -- just maybe hit a few of the businesses. I think the most important thing to watch would be the general and macroeconomic trends and general consumer confidence, business confidence throughout the next period here as being a significant factor along with what the weather does throughout the summer and the trajectory of the COVID virus. So there's those macro pieces, if you look at some of the individual areas. If you look at golf, for example, we've all seen in the news that the rounds played have been very positive since the COVID government restrictions were released. So there's a strong demand for golf rounds. However, that's the one piece of cost of revenue. So, we need the food and beverage, the events sort of revenues to continue coming back as the restrictions are released and the rate at which that happens will provide more revenue flexibility to continue investing in equipment.\nIf you look at LTE, that's a business confidence factor for those small businesses in many cases, and a solid mowing season this year will put revenue in their pockets. And so, we've got confidence that the economy is recovering. They'll return to making capital purchases because that equipment does get consumed as part of the usage process for them. Ground, what happens to municipal budgets or some of them may hold the Federal CARES Act and other acts that are helping to offset some of the expenses that they've had elsewhere. Our Residential, if there's strong growing conditions, we see the trends continuing with the interest in investing in your home and making that a place that you want to spend time.\nUnderground, the resumption of 5G and broadband projects. So, we're seeing signs that spending in those areas with contractors and the groups that are installing those systems is coming back. So, that would be something to watch there. And then construction and rental, we know that some elements of construction will be a more extended recovery, but any signs there. Then on the rental side, we've seen strong rental usage from homeowners. So, the smaller rental shops in municipalities that particularly rental homeowners have done extremely well. It's really more of the construction elements, the larger national rental accounts that a lot of the business tied to construction, that's a factor. So, that gives you just a little bit of flavor of what the kinds of factors that we're looking at going forward. The other thing to watch would just be COVID as it relates to our operations and our supply chain if there are widespread disruptions caused by that or specific regions that were affected by, those will be factors as well, but just gives you a little bit of flavor of the factors that we're looking at as we go forward."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "And I would just offer, David, that this is similar to what we saw. There's many parallels to the '08, '09 recession, where we saw the residential segment really hold up well, again, as Rick said, more influenced by weather. And we saw more deferrals within the professional segment with a pretty strong recovery when we came out of that recession. And also, I would just offer, keep in mind, in Q3, we don't have that incremental benefit from Charles Machine Works as an acquisition. As Rick mentioned, we've passed that one-year anniversary and so that's integrated into our business going forward."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Right. Is there any way of assessing just how much revenue was dislocated from 2Q into 3Q due to plant closures and product availability, backlog and those types of issues?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Sure. We had -- as you can imagine, with the multiple directives by state and by region, it was an incredible challenge to keep our operations running, but our team did a great job of making sure that our facilities continue to operate, and we had no disruptions from a professional side and from a residential side. A few product categories, we had some delays. Some of that could fall into this next quarter, but for the most part though, it's actually a bit of the opposite story. We've been able to take some sales opportunities because we have availability versus our competitors."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Right. And last question for me is just the decremental margins were rather large in the quarter. Obviously, things get -- it's hard to be nimble with your costs. But how should we think about decrementals moving into the third quarter and fourth quarter? Do you have an opportunity to start maybe normalizing costs down to reflect the -- what's going at the top line or how should we think about that?"
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Yes. Well, if you look at history, I mean, what we've seen, first from an incremental standpoint is, we tend to be between 20% and 25% incremental margins, really depending on product mix and segment mix as well. If you, again, using maybe the '08, '09 downturn as an example, what we saw there in the short term, we saw a higher than that rate from a decremental standpoint, just as we adjust our cost structure. And we tend to continue to invest in innovation and new products. That serves us very well in that particular case, coming out really strong and able to again capture market share coming out of the recession. If we view this as a longer-term economic downturn, we certainly would take some other more aggressive fixed costs, actions as well. But at this point in time, we haven't tried to take out capacity or anything like that because we do expect that although this will fill into next year, that we're going to see that recovery, we want to make sure that we are able to respond to that recovery when it occurs."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Got it. Thanks very much and good luck."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Mike Shlisky with Dougherty Colliers. Your line is now open."
+    },
+    {
+      "speaker": "Mike Shlisky",
+      "speech": "So, hi, guys. Good morning."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Good morning, Mike."
+    },
+    {
+      "speaker": "Mike Shlisky",
+      "speech": "So, you've been talking about some of the pro customers reducing their capex, that's certainly not surprising. They just came in a tough time of the year, during the first part of the spring. I'm kind of curious, do you think you have actually [Indecipherable] for the year? If you didn't get it in March or April, it's not going to happen because of the way that the seasons run. And perhaps as a related question, is there a certain base business? Is there -- can you give us as [Indecipherable] percent of that segment that runs on a three-year or four-year lease cycle? And do you feel like you've got a good sense as to everyone who is off-lease is trading in and buying something new even though it's a tougher environment if they tend to have no machine? I'm kind of curious as to kind of where is the base business in the Professional segment?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Great. To answer the first part of the question, we think it's probably a combination of all of those possibilities. So what definitely happened is when our professional customers realized that we were in an economic downturn situation, they responded like we did. They pulled back on expenses. They held their capital purchases and they persevered their cash. As we start to see the economy begin to grow again, those projects that have been on pause are what they are now evaluating, obviously, most of our products are consumed as they are used to some extent. So, the products has been used, golf courses have to be maintained regardless of the economy. The grass has to be mowed. There are other projects that continue on with or without the economy. So in that respect, for the capital projects that are delayed, it means that it moves out, but it does not, in most cases, go away.\nTo answer your question about the lease renewal that are three-year or four-year leases, that's pretty typical in our golf environment. And I don't have exact information on the renewal or trend for those."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Yeah. I would say for the golf and ground -- for the golf in particular, it's probably close to about half of the business goes through lease, but that's not a typical thing within like landscape contractor. So that would be specific to the golf portion of the business."
+    },
+    {
+      "speaker": "Mike Shlisky",
+      "speech": "And again, folks can't just end the lease, bring back machine and not have anything. So in general, you're seeing renewal on new machine out the door? Or they're still kind of holding off temporarily?"
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "With -- from a golf leasing standpoint, I think they would be more likely to renew their lease. It's more the individual who isn't leasing today, and they're making that decision to buy or not, we tend to see that particular customer migrate more toward repair."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "So, it'd really be those leases that are coming due, they happen to come due right now in the middle of the situation. They've got to make a decision if they go ahead and renew normally, which is probably most likely they could also extend leases or they've got other options as well."
+    },
+    {
+      "speaker": "Mike Shlisky",
+      "speech": "Okay. And then turning to residential, you had a large channel partner rolling out in the quarter. Some reason you didn't name them. I won't name them either, but you know who they are. I'm kind of curious, has the sell-through there, even with the crisis, has it been as good as you expected? Let's say, six months ago, is it kind of going to your expectations? Also kind of curious, are you able to ship everything into the stores, whether it was signage and the actual products themselves in time before the COVID prices hit? And also, kind of curious, are you able to shift any kind of restock now? Are you up and running on that level?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "We are extremely pleased with new partnership with the Tractor Supply Company, and that is going on as planned. And in spite of overall economic situation and COVID situation, the sales there have been well within the bands that we would expect. So, we've been very happy with that. And it's complementary to our other channel partners. The Home Depot, for example, has done extremely well. Our other mass partners in total have done well. The dealer business has seen incremental growth. So, it's a customer-driven demand, and we are pleased with all of our mass partners as well as the progress that's been made with dealers. Tractor Supply extends and is complementary and breaches further into the rural and farm markets and large acreage owners."
+    },
+    {
+      "speaker": "Mike Shlisky",
+      "speech": "That's great to hear guys. I'll pass along. Thank you."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Joe Mondillo with Sidoti. Your line is now open."
+    },
+    {
+      "speaker": "Joe Mondillo",
+      "speech": "Hi, good morning everyone."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Joe Mondillo",
+      "speech": "Just want to say I appreciate your opening remarks, Rick. My first question just related to golf. I was wondering if you could sort of talk about equipment versus irrigation. Have you -- were you seeing any maybe positive performance or better than equipment on the irrigation side given that that's more sort of capital projects that you have any projects undergoing. And so, as those capital projects run off, does irrigation get worse or just talk about irrigation versus equipment?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Yeah, I think equipment would be very much in keeping with the discussion that we've had about capital purchases and consumption of the product, if you will, through its life cycle and leases, those kinds of considerations. For irrigation, there are other factors. So, the fact that some courses were shut down for the COVID restrictions created some opportunities to get onto the courses and do some some work from a irrigation standpoint. Our irrigation business for golf has held up very well partially also because of we've had good availability. So, we've had the components that they need, and that's been an issue in the marketplace.\nAnd then, for major projects that have been -- that were planned, a few of those dropped out, but they were quickly replaced by other projects that were in the queue, because there is -- the constraint is, there are a handful of contractors that are sort of the trusted people to do the installations. And so, where there is availability for them that freed up, it was immediately filled with a project in the queue. Now, what happens at the end of the line, do some of the projects that were delayed come back and again there's a little bit more question, a little bit further out, but in the near term perspective, golf irrigation has done well and projects -- the mix was a little bit different on projects, but the total has been very solid."
+    },
+    {
+      "speaker": "Joe Mondillo",
+      "speech": "Great. And when you look at -- or when you look at the channel inventory levels at the Professional business, maybe if you compare it to 2009, it looked like this quarter, the organic growth was off similar to maybe one of your worst quarters in 2009. So, when you think about channel inventories and the way that's even more specifically, the timing of this sort of economic shut down, right, your prime time, seasonal time, how do you think about channel inventories as we go through the year and into next season. I know it's sort of early, but just wondering your thoughts on that."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Yeah, from a -- I mean from a positive standpoint, our field inventories for the Professional side are actually in great shape and we've been able to continue -- over the last couple of quarters, we talked about higher field inventory in some categories like landscape contractor and maybe commercial. Both of those have been able to manage those down in spite of the current situation. So, we're making good progress there. That leaves capacity as well in those channels as we begin a recovery process as well. So, we're in good shape from a Professional side."
+    },
+    {
+      "speaker": "Joe Mondillo",
+      "speech": "Are you referring to your -- the Toro inventories in the channel or industry because I'm sort of curious on industry, just how that's potentially going to affect later this year or into next year?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Yeah, I'm really referring to our channel inventory. I don't have as much visibility on other professional competitor inventories in the field, especially right now given the change."
+    },
+    {
+      "speaker": "Joe Mondillo",
+      "speech": "Okay. Okay. And then last question for me, just on your specialty construction and CMW business, specifically, I think in your prepared remarks, you stated that things were trending actually relatively pretty positive. I think maybe it was -- you stated a little offset by construction and oil and gas, but just curious how does that -- have you seen the worst in that business, sort of in this trend given April, a lot of cap equipment is expected to sort of see the worse than April time period maybe May. Do you anticipate improvement in that business sequentially, going through the rest of the calendar year or how do you view that business and where we're at today?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Yeah. First of all, we've talked about one of our tests for acquisitions, which is how do we feel about it a year later and I will say we feel even better about it a year later. We could not be more pleased with the acquisition of Charles Machine Works and now Venture Products. From underground businesses that are covered by Charles Machine Works, they had a similar response to Toro legacy products in this end markets -- in this economic situation and roughly the same response back in 2008, 2009, 2010 in terms of coming back.\nThe separate factor would be oil and gas. So, roughly 10% -- a little bit more than 10% of the business is tied to oil and gas and that's going to be on a different cycle though it will probably be a slower recovery, bringing those markets back. But the big drivers that are different than 2008 through 2010, are the 5G and the broadband and we have already seen signs that even if they pause some of those projects or they had to because of Board restriction, there's a lot of momentum about completing those buildout of 5G and the recognition of broadband gap for many parts of the country in the US here and actually around the world.\nI mean the positive thing is that, we are on track with our synergies and we have been very pleased to see how those synergies extend beyond the intersection of Charles Machine Works and The Toro Company to other parts of our business, including just as an example, the positive margins that you see in residential in a part are due to the benefits that we've seen from additional scale in some of the categories."
+    },
+    {
+      "speaker": "Joe Mondillo",
+      "speech": "Okay. And just a follow-up. In the context of the economic shut down and whatnot, would you expect Charles Machine Works to sequentially improve through the calendar year? Is that visible or..."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "I think when you look at the overall -- maybe answering it from an overall standpoint, if you adjust for the impacts that we saw -- the benefit that we saw from Charles Machine Works in Q2, we would expect at the overall company level that we will see improvement as we go through the remainder of this year. Again, Q3 is a larger decline, but driven by the fact that in Q2, we saw the benefit from the acquisition. So overall, we're seeing that and I think the same is true for Charles Machine Works."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "I think it would follow the rest of the company with regard to essentially it's a sequence of less negatives as time goes on that's going to nominally match the economic cycle."
+    },
+    {
+      "speaker": "Joe Mondillo",
+      "speech": "Okay. All right, thanks for taking my questions. Appreciate it."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Tim Wojs with Baird. Your line is now open."
+    },
+    {
+      "speaker": "Tim Wojs",
+      "speech": "Hi, good morning everybody. Thanks for the details."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Tim Wojs",
+      "speech": "Maybe just on the guidance or the qualitative guidance for the third quarter, I just had a clarification. Is the guide of Q3 being kind of the most pronounced on a sales basis on a year-over-year basis, is that a total growth number or an organic number just because Charles Machine Works was kind of included in the second quarter still and I'm just trying to kind of clarify that comment."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Yeah. No, Tim, that would be a total number, not an organic number. The organic number would show, as Rick just said, improvement as we go -- less negative as we go through the remainder of the year. So that's a total."
+    },
+    {
+      "speaker": "Tim Wojs",
+      "speech": "Okay, OK. perfect. And then, maybe just on the golf side, if we do start to see -- if we see continuation of good rounds played and then also just a pickup in food and beverage, do you think golf could see a rebound in terms of new equipment sales over the summer or do you think that that really just kind of gets deferred into next year, if you had to give us your best guess?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Yeah, the best response is it will be a combination of those. So, some of those, especially in areas where the restrictions have been released more quickly, will come back quickly and in some cases they just committed to buy the equipment that's needed because that's recognized that that's what the organization is about. There are other parts of golf, that will definitely be slower to come back and those would be resort golf, for example, on an international basis, especially places that you fly to play golf and that is TBD in terms of how quickly travel comes back where people start to feel more comfortable going through airports. So, that will be on a little different cycle. Individual business decisions, I mean, right now, there are a few -- there are -- we have customers that -- we don't see this as a long-term issue. We're going to go ahead and maintain our equipment replacement cycle. Others have said we lost all of our food and beverage revenue and weddings and banquet. So, we're going to hold off. So, it's really a spectrum. I'd like to give you a clean answer, but that's what's happening."
+    },
+    {
+      "speaker": "Tim Wojs",
+      "speech": "No, no, that's helpful and I appreciate that. And then, maybe just last question on residential. I know the sell-out and kind of sell-in has been pretty strong here to kind of begin the year, but just given the expansion into Tractor Supply, do you think the structural margins and Residential -- there is a new level that you're kind of getting to and that we can continue to see that improve over the intermediate term, maybe back to kind of that low-double-digit type frame you were in four years, five years ago?"
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Yeah, what I would say, Tim, is we're not providing specific guidance in this quarter, but we did talk about residential margins in Q1 and what we had shared is, we expected Q2 to remain pretty strong. I mean it is the benefit of that incremental volume and also some of the productivity and synergy actions that Rick just mentioned. We did say that based on the outlook at that point in time, we expected them to moderate in the second half of the year and that's very consistent with what we normally see. And at that time, we thought it would be more moderating into the low-teens. So maybe a little lower than that because of the impacts of COVID-19, but we do see -- definitely see a benefit from some of the synergy and productivity actions across the portfolio as well as volume benefit by having an expanded channel that should carry forward as well."
+    },
+    {
+      "speaker": "Tim Wojs",
+      "speech": "Okay. Okay. That's it. That's all I had. Thanks guys and good luck and I'll see you."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Sam Darkatsh with Raymond James. Your line is now open."
+    },
+    {
+      "speaker": "Sam Darkatsh",
+      "speech": "Good morning, Rick. Good morning, Renee, and I hope you and your families are well, and safe."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Great, Sam. Thank you."
+    },
+    {
+      "speaker": "Sam Darkatsh",
+      "speech": "So, just a couple of clarification questions and if this was covered and I missed it, I apologize. Could you help specifically quantify what May sales were down, just so we can get a sense of as things improve at least what's the base from where it would improve?"
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "We didn't specifically talk to May sales from a quantified standpoint. What Rich said, I believe, was that we did see improvement in May versus what we have seen in April. So, kind of recounting some impact the second half of March, a more significant decline in April, and we saw May improving as far as that trend."
+    },
+    {
+      "speaker": "Sam Darkatsh",
+      "speech": "Could you quantify one of those, maybe April or May just for scope for us, if you could?"
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "As a seasonal business, we don't have all the monthly detail with us because every one of our months are a little bit different within the quarter, but I think we felt good about the trend we were seeing in May and I'm seeing that improve across all of the businesses."
+    },
+    {
+      "speaker": "Sam Darkatsh",
+      "speech": "Got you. Okay. And then -- and again, if I missed this, I apologize. Snow, the snow season was challenging this year again, particularly in the Northeast, which I think you're underweight, but how would you look at the snow inventories and the perspective pre-season to come if you could, Rick."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Sure. Yeah. If you look at particularly at snow in the second quarter that was year-over-year below the prior year, both on the Residential side and Professional, but that would be probably a little bit more typical. The last couple of seasons have been, the winter season, at least in the Midwest has extended well into April, some would argue the first part of May. So, there were stronger late season sales last year than this year. Overall, the snow season for us both on the Residential and the Pro side has been a decent snow year for us. I think it reflects two things.\nWe have done a lot of work with the Residential team on our product line-up. We have great products with a lot of innovation that people are responding to and then we are, as you said overweighted to the Midwest, and we had a decent winter in the Midwest -- upper Midwest, especially in this last season. So pre-orders, as you can imagine, in the middle of the COVID situation were a little bit less than we had hoped for the coming season, but the channel is telling us that's not reflecting their lack of confidence in the business, but they're are more likely to make those purchases within the season versus pre-ordering them. And from a professional side, the Snow Raider we've talked about in the past, but that continues to be very solid and now the Ventrac SSV Sidewalk vehicle, those are open spaces for us that have a huge productivity story associated within that our customers really see."
+    },
+    {
+      "speaker": "Sam Darkatsh",
+      "speech": "My last question -- and thank you for that. That was helpful. My last question would be, there is a fair amount of noise with the acquisitions on some of the balance sheet items. Could you help us, Renee, in terms of where your goal is for fiscal year ended inventories?"
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Certainly. So, when we look at inventory, they are higher at this current point in time due to the sudden change in demand and the efforts to realign and Rick talked about field inventory also being lower. When we look at year-end, we do expect, Sam, that we'll probably carry a little more inventory than we traditionally have just because of the desire to try to buffer some of the potential supplier issues that could occur. That serves us well as we look at how we managed through this year and we plan to continue the same unless the supplier environment really improves substantially. And then, social distancing and the impact that it has on our capacity will also impact us. We're assuming social distancing is going to be something that's in place for the foreseeable future, so we're kind of planning around that. And that has some impact on the inventory that we would carry based on certain plant locations, it's not every plant location.\nAnd then the last thing is just being ready for the recovery. We do view this as something that we'll see that recovery as we go into F '21 and what we have seen from past recessions is that recovery for us happens pretty quickly and we want to be prepared -- based on the financial strength of the company we feel that would be a good investment."
+    },
+    {
+      "speaker": "Sam Darkatsh",
+      "speech": "So, inventories and dollars would be up on a year-on-year basis by the end of the fiscal year -- by the end of October, is that how to think of it then, despite the sales declines?"
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Yes, that would be accurate."
+    },
+    {
+      "speaker": "Sam Darkatsh",
+      "speech": "Okay. Thank you very much, I appreciate it. Again, be well."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Thank you. You too."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Tom Hayes with Northcoast Research. Your line is now open."
+    },
+    {
+      "speaker": "Tom Hayes",
+      "speech": "Thank you. Good morning, Rick and Renee. Appreciate you taking my question."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Morning, Tom."
+    },
+    {
+      "speaker": "Tom Hayes",
+      "speech": "I guess just quickly -- most of my questions have been asked and answered, but maybe, Rick, on a year-to-date basis, it looks like your international revenue is up slightly. Just wondering if there's any markets or products that are kind of driving that stood out to you?"
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Yeah, let's see. I think overall, I'm not sure we are up overall for international on the Pro side. We are up a little bit and that would be driven really regionally. So in Europe for example, driven by golf projects that continued until -- right up until the COVID things happened, would be the biggest driver. Parts of Asia had a very good year. Their counter-seasonal [Indecipherable]. So those would be the big drivers, but no major standout sort of factors there. And together, Residential and Professional, I think we're actually -- we may actually be down a little bit."
+    },
+    {
+      "speaker": "Tom Hayes",
+      "speech": "All right, thank you. Appreciate the color."
+    },
+    {
+      "speaker": "Richard M. Olson",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Renee J. Peterson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. This concludes our question-and-answer session. Mr. Rhoads please proceed to closing remarks."
+    },
+    {
+      "speaker": "Nicholas Rhoads",
+      "speech": "Great, thank you all for your questions and interest in The Toro Company. We look forward to speaking with you again in September to discuss our results for the third quarter. Thank you"
+    },
+    {
+      "speaker": "Operator",
+      "speech": ".[Operator Closing Remarks]"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Duration: 65 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Nicholas Rhoads--Managing Director, Investor Relations",
+    "Richard M. Olson--Chairman of the Board, President and Chief Executive Officer",
+    "Renee J. Peterson--Vice President, Treasurer and Chief Financial Officer",
+    "David MacGregor--Longbow Research -- Analyst",
+    "Mike Shlisky--Dougherty Colliers -- Analyst",
+    "Joe Mondillo--Sidoti -- Analyst",
+    "Tim Wojs--Baird -- Analyst",
+    "Sam Darkatsh--Raymond James -- Analyst",
+    "Tom Hayes--Northcoast Research -- Analyst"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, ladies and gentlemen, and welcome to the Black Hills Corporation Third Quarter 2020 Earnings Conference Call. My name is Josh and I will be your coordinator for today. [Operator Instructions] As a reminder, this conference is being recorded for replay purposes.\nI would now like to turn the presentation over to Mr. Jerome Nichols, Director of Investor Relations of Black Hills Corporation. Please proceed, sir."
+    },
+    {
+      "speaker": "Jerome Nichols",
+      "speech": "Thank you, Josh. Good morning, everyone. Welcome to Black Hills Corporation's Third Quarter 2020 Earnings Conference Call. You can find our earnings release and materials for our earnings call this morning at our website at www.blackhillscorp.com under the Investor Relations heading.\nLeading our quarterly earnings discussion today are Linn Evans, President and Chief Executive Officer; and Rich Kinzley, Senior Vice President and Chief Financial Officer. During our earnings discussion today, some of the comments we make may contain forward-looking statements as defined by the Securities and Exchange Commission and there are a number of uncertainties inherent in such comments.\nAlthough we believe that our expectations and beliefs are based on reasonable assumptions, actual results may differ materially. We direct you to our earnings release, Slide 2 of the investor presentation on our website and our most recent Form 10-K and Form 10-Q filed with the Securities and Exchange Commission for a list of some of the factors that could cause future results to differ materially from our expectations.\nI will now turn the call over to Linn Evans."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you, Jerome. Good morning, everyone. Thank you for joining us today.\nMoving to Slide 4, I'd like to start, as we always do at Black Hills, with a focus on safety, the safety and the well-being of the people we work with and the communities we serve is paramount and we are committed to being on the forefront of safeguarding our co-workers and our customers at all times and especially now. We continue to monitor the pandemic and its impact to our business, our customers and our communities. While some of the service territories are experiencing an increase in infection rates, we are not anticipating significant lockdowns to close our local economies. For our customers who need financial assistance, we are continuing to support them as well as local non-profits in our communities.\nI'm extremely proud of our team's dedication to support and serve our customers. They truly are going the extra mile to provide safe and reliable energy that our customers depend on as we improve life with energy every day. Overall, financial impacts from COVID-19 are trending as expected for the year. We continue to maintain strong liquidity to support our businesses. And our supply chains and capital projects are operating with little impact.\nMoving to Slide 6, we had an excellent third quarter. We executed operationally and exercised diligent expense management delivering a 32% increase in earnings over the same period last year. Based on the strength of our earnings and outlook, we are increasing this year's earnings guidance to a range of $3.60 to $3.70 per share. We're also introducing guidance for next year in the range of $3.75 to $3.95 per share, reflecting our expectation for solid growth year-over-year. We also increased our five-year capital forecast to continue serving the growing needs of our customers and communities. We've identified an additional $239 million of capital projects. And that increases our total five-year forecast of $2.9 billion. 95% of that $2.9 billion will be invested in our utilities.\nSlide 7 lists the excellent strategic progress we made this quarter. We obtained final approval from FERC for the Wygen I power purchase agreement. The approval of this agreement allows us to continue to provide critical base load capacity and energy for our Wyoming Electric Utility. We filed our new rate review and rider request for Colorado Gas. Last Wednesday in Nebraska, we had a constructive hearing on a settlement agreement regarding our pending rate review. We also maintain strong liquidity to support our capital investment program. We're delivering on our promise to enhance communications on our ESG initiatives. We recently disclosed new ESG reports using the EEI and AGA qualitative and quantitative templates. And we will announce our greenhouse gas emissions reductions goals later this week in tandem with our updated Corporate Sustainability Report.\nI'm very pleased that we welcome two highly experienced corporate leaders to our Board of Directors and we also marked a historic milestone for our dividend track record. Not only did we announce a 5.6% increase in our dividend, we also completed 50 consecutive years of annual dividend increases, a remarkable achievement that exemplifies our legacy of sustainable growth. Overall, it's been an outstanding quarter of strategic execution and we are confident in our strong outlook and continued success in delivering what we told you we would accomplish.\nNow, I'll turn it over to Rich for a financial update. Rich?"
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Thanks, Linn, and good morning, everyone. I'll start on Slide 9. As Linn noted, we delivered strong financial performance for the quarter with EPS as adjusted of $0.58, up $0.14 from last year, driven by strong year-over-year Q3 results at our gas utilities. Notable in the quarter were returns on invested capital of our utilities, favorable weather impacts, customer growth and favorable tax items. We estimate weather positively impacted Q3 EPS by $0.05 compared to normal and by $0.11 compared to Q3 2019. Results for the third quarter of this year include negative COVID impacts of approximately $0.03 per share, in line with our expectations. Net income as adjusted increased 35% quarter-over-quarter, while EPS as adjusted increased 32% quarter-over-quarter, the difference driven by dilution from additional common shares outstanding from our equity issuance earlier this year.\nOn Slide 10, you see we increased our 2020 earnings guidance and initiated our 2021 earnings guidance, as Linn noted earlier in his remarks. Our earnings guidance assumptions are shown in more detail in the appendix.\nOn Slide 11, we reconcile GAAP earnings to earnings as adjusted, a non-GAAP measure. We do this to isolate special items and communicate earnings that we believe better represent our ongoing performance. This slide displays the last five quarters and demonstrates the seasonality of our earnings. There were no special items in the third quarter this year.\nSlide 12 is a waterfall chart illustrating the primary drivers of our earnings results from third quarter of 2019 to third quarter of 2020. All amounts on this chart are net of income taxes. While I talk through the gross margin comparisons, I will refer to pre-tax margin impacts. Our Electric Utilities gross margin benefited from rider revenues, power marketing results and a pickup related to the Tax Cuts and Jobs Act, which I will cover more in a moment. Our Gas Utilities gross margin benefited from new rates, favorable weather conditions that increased agricultural loads, customer growth and mark-to-market gains on gas commodity contracts.\nA bit more color on agricultural loads. Last year was a record precipitation year in our Nebraska service territory and our irrigation loads were correspondingly low in the third quarter. This year was hotter and drier than normal in Nebraska. Compared to normal for agricultural loads, last year's Q3 pre-tax margins were negatively impacted by approximately $5 million, while this year's Q3 pre-tax margins were positively impacted by approximately $2 million. So we had a $7 million pre-tax swing related to the agricultural loads comparing Q3 2019 to Q3 2020. When looking at weather overall for this year's Q3, including the agricultural impacts, our Electric Utilities gross margin benefited by $1.6 million pre-tax compared to normal and our Gas Utilities gross margin benefited by $2.6 million pre-tax compared to normal.\nThe final comment on our Utilities gross margins relates to COVID impacts, which generally played out as we had forecast. The combination of COVID net load impacts and forgiven late fees impacted our Utilities gross margin by approximately $1 million pre-tax. Our non-regulated margins were slightly higher than last year, reflecting higher revenues from our new wind assets at our Power Generation segment, partially offset by lower tons sold in our Mining segment. Total O&M increased compared to the prior year, largely driven by a $2.4 million after-tax expense from the retirement of certain assets at our Power Generation segment. Net COVID-related O&M of $800,000 after-tax resulted from higher bad debt expense accruals and sequestration of the essential employees, partially offset by lower costs related to travel, training and outside services. Depreciation increased as a result of additional plant placed in service. Interest expense increased due to higher debt balances resulting from new debt issued to fund our capital investment program. Other income expense was unfavorable to the prior year, reflecting additional expense for our non-qualified benefit plans this year related to stock market performance and higher pension expense.\nWe had a favorable effective tax rate in Q3 compared to the prior year. This was driven by additional production tax credits from our wind assets placed in service last year and the release of reserves associated with the Tax Cuts and Jobs Act. A bit more color on that. We finalized certain regulatory proceedings around the TCJA during the third quarter and we're able to release associated reserve amounts, benefiting our Electric Utility gross margins by $1.5 million and income taxes by $2.1 million.\nAdditional third quarter detail on segment earnings can be found on Slide 24 in the appendix and you can also find additional details on Q3 year-over-year changes in gross margin and operating expenses in our earnings release and in our 10-Q that we will file later today.\nSlide 13 shows our financial position through the lens of capital structure, credit ratings and financial flexibility. We are in excellent shape from a debt maturity and liquidity perspective and we continue to maintain solid investment grade credit ratings. In February, we issued $100 million of equity to help support our 2020 capital investments. We don't expect to issue any more equity in 2020. You'll note in our 2021 guidance assumptions in the appendix we expect to issue $80 million to $100 million of equity through our at-the-market equity offering program in 2021. We've mentioned previously the need to issue up to $50 million of equity in 2021 based on our previously disclosed forecast. And the addition of $142 million to forecasted capital investments for 2020 and 2021 drives the increased equity need.\nIn June, we issued $400 million of 2.5% 10-year notes to term out our short-term debt and support our ongoing capital investment program, further enhancing our liquidity position. This debt issuance was a great outcome and provides our customers low cost debt for the next decade. At quarter end, we had $84 million of borrowings on our credit facility with no material debt maturities until late 2023. As at the end of October, we continue to have over $600 million of liquidity available from capacity on our revolving credit facility.\nSlide 14 illustrates our dividend growth track record. We completed 50 consecutive years of increasing dividends in 2020 with strong and consistent increases in the past few years. We maintain our target for a long-term dividend payout ratio of 50% to 60% of EPS, demonstrating our confidence in our long-term earnings growth prospects.\nI'll turn it back to Linn now for his strategic overview."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thanks, Rich. Moving to Slide 16. Our customer-focused strategy is designed to deliver sustainable long-term value growth for customers and shareholders. We're aligning our people, processes, technology and analytics to serve the growing needs of our customers and our growing communities. We are investing in our customers' needs for safety, reliability, resiliency, growth and an overall positive customer experience. These investments for customers positions us to deliver both long-term earnings and dividend growth for shareholders. Our programmatic approach to these investments also provides greater consistency and clarity for the benefit of all of our stakeholders.\nTurning to our capital investment plan on Slide 17. We added $239 million to our five-year forecast for a total of $2.9 billion focused on projects and initiatives that maintain customer safety and reliability and foster customer growth over the next five years. Most of the increased capital is related to additional programmatic investment in our Gas Utilities and more than half of the increase is planned for this year and next year. For this year, we are increasing our capital investment by $64 million to $733 million and for next year, we're increasing our capital investment by $78 million to $633 million.\nGoing forward, we fully expect to invest at least $500 million annually to support our customers. We continue to take a relatively conservative approach to our capital forecast. We include opportunities that have a reasonable degree of certainty and then we add capital as we gain more clarity around incremental projects that will support our customers. We anticipate that additional capital opportunities are likely over the planned period, especially in the outer years.\nSlide 18 illustrates that our capital plan is utility focused with timely recovery on most of our investments. 95% of our forecasted investments are for our utilities and we anticipate 83% of our Gas Utility investments and 51% of our Electric Utility investments received timely recovery.\nOn the regulatory front, we've listed our current activity on Slide 19. As noted earlier, rate reviews are under way for our Gas Utilities in Nebraska and Colorado. We appreciate that we had a constructive hearing last Wednesday in Nebraska. The hearing focused on our settlement agreement for the rate review, the rider we requested and for the consolidation of our two utilities in Nebraska.\nIn other regulatory initiatives, we continue to advance our Renewable Advantage program to add up to 200 megawatts of renewable energy in Colorado. We're currently negotiating with the winning bidder on a 200 megawatt solar project to be constructed in Pueblo, Colorado. We're excited to complete our Renewable Ready subscription-based program for our South Dakota and Wyoming Electric Utilities, our 52.5 megawatt Corriedale wind project, we are building to support that program is nearly complete and we expect it to be in full service prior to year end. The wind facility is located near Cheyenne, Wyoming, one of the best wind resources in the United States.\nOn the ESG front, we have a strong legacy of sustainable growth and we're guided by our core values to safely and cost effectively serve our customers as we provide opportunities for our people to develop and advance their unique skills. At Black Hills, we have a strong ESG commitment and we're prepared to tell our story more holistically. An important initiative for us was the publication of our first ESG reports. We use the EEI and AGA templates that I mentioned earlier, which will soon be followed by our greenhouse gas emission reduction goals, which we will release later this week. We are adding or expanding renewable energy in all three of our Electric Utilities in Colorado, South Dakota and Wyoming. This year, we were once again awarded Gold Star status in Colorado's Environmental Leadership Program. Gold Star is the highest achievable status and I am proud that we have held this distinction since 2014. In fact, we were the first utility in Colorado to achieve this designation.\nWe also recently voluntarily joined EPA's Methane Challenge program to reduce methane emissions beyond regulatory requirements in our Gas Utilities. We continue to rigorously promote our strong safety culture with a goal to be the safest utility in the industry. Our team is already delivering results better than industry average and they are staying on the forefront of processes and safeguards to keep people safe during the ongoing pandemic. We're also very engaged in serving the needs of our customers through financial aid and supporting organizations like the United Way that offer critical assistance in times like these. In 2019, we provided over $5.5 million in charitable giving and we continue to support our strong commitment to the economic viability of our customers and our communities.\nOn the governance front, we're pleased to welcome Barry Granger and Scott Prochazka to our Board of Directors. Their impressive credentials and experience are already being instrumental in driving future growth while fulfilling our ESG commitments. They participated in our Board meeting last week and are already adding value.\nIn closing, we are confident in our future. We are well positioned as a low risk utility investment and complementary gas and electric utility businesses. We're privileged to operate and stable in growing territories, which continue to be resilient even during the ongoing pandemic. We have a solid financial position and liquidity. And we are investing and being ready to serve the growing needs of our customers and communities as we improve life with energy.\nThat concludes our prepared remarks. And Rich and I are happy to respond to questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question comes from Michael Weinstein with Credit Suisse. You may proceed with your question."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Hi, guys. Good morning."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good morning, Mike."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Hey. On the ESG review and on the greenhouse gas review that's coming up, maybe you could give us an idea of where you're headed, especially after announcing coal-free Colorado generation fleet. Is that going to be something you can -- you're targeting over the long-term to replicate in other states as well?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thanks, Mike. Good question. And good morning by the way. Yeah, we're very excited to announce our ESG goals, which we'll do on November 5. It's our current plan. We've been working on those very hard for about a year. We really started digging into what we could do with respect to ESG and be a little more holistic in our approach and how we talk about ESG and setting some goals. As you'll see on a couple of days when we share those goals, we are sharing goals that are true to our values in that you're not going to see a lot of caveats in those goals. They're going to be goals that we can achieve through current technology and things that we are currently doing and considering the life of our plants that we're currently operating.\nWe are going to remain committed, as you'll see, in the short-term to our coal plants. Those are vital to our customers in terms of the low price energy that we're able to provide them, especially reliable energy. But we've learned a lot about adding renewables, especially adding renewables that have been cost effective, especially for our customers. And as you pointed out in Colorado, Colorado has taken a very aggressive approach and a different approach and we've been very much at the helm with respect to that. We now have by far, well, the cleanest utility perhaps in the country, certainly there in Colorado. So you won't see again, you won't see a lot of caveats about the technology that yet to be invented things of that nature, but you're going to see goals that are aggressive, and the ones that we can achieve.\nAnd then, importantly, the next element of our ESG, especially with respect to our stakeholders, shareholders and customers will be when we plan or prepare the integrated resource plans. We'll be filing the IRP in Wyoming in mid-July. We'll also do South Dakota with that because we do those typically simultaneously and together. So that will be when we will then approach the commissions with the additions of renewables and things of that nature, Mike."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Is the extra gas utility programmatic capex for the next two years, is that mainly surrounding or is that for methane leak reduction or is that -- is this something that we can expect in another year or two, you'll be rolling forward and you'll have that -- you'll be increasing the plan again in another two years or is this something very specific to the next two years that you're focused on right now?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Yeah. Good question, Mike. And thanks for that. You will see a very programmatic approach to our pipeline replacement. We've got about 4,000 miles of steel that we need to replace to get about 2,500 miles of plastic pipe and pipe. And then, by the way, we've got more than 160,000 meters that we call out risk that we're replacing as well. So our programmatic approach is really replacing that pipe. And along the way, as you'll see in our ESG goals later this week, you'll see that we get the benefit of reducing greenhouse gas emissions through that investment. And we see this as essentially a multi-decade type of investment going forward. So what we're showing you, we anticipate we will do for frankly a couple of decades."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "So, I mean, is another way of asking that is, can we expect additional increases in the five-year plans as -- with every roll forward that we see going forward?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Yeah. Thank you, Mike, for clarifying that. Yes, the answer to that question is yes. Well, we certainly anticipate, yes. It's just like you've seen in the past."
+    },
+    {
+      "speaker": "Michael Weinstein",
+      "speech": "Right, right. Okay. I'll step out for now. Thank you."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you, Mike."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Julien Dumoulin-Smith with Bank of America. You may proceed with your question."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Hey. Good morning, team. And frankly, congratulations all around here. Well done."
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good morning, Julien. Thank you."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Absolutely. Question, you talked about \"no material net impact from COVID\" on your '21 earnings guidance. How are you thinking about the various puts and takes? And I want to acknowledge, you talked a little bit about this, but just want to think about the various sort of offsetting factors that you have explicitly reflected and that you could reflect as they move around here into '21, i.e., what's your level of confidence to able to sustain that no material net impact, if you will?"
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Yeah. This is Rich, Julien. I'll start in and Linn can fill in the blanks. What we've seen is a really nice trend relative to loads. Certainly in the second quarter, we saw the load impacts pick up on the small commercial side and a few large industrials with residential loads offsetting that partially. But as we work through the third quarter and now into the fourth quarter, we've really seen those load trends improve. Most of the large industrials are fully back on line. The small commercial loads have come back as our economies have reopened and residential loans have remained strong. So that's the load side of things. On the bad debt, we think we've got pretty good accruals. At this point, we accrued $3.7 million additional bad debt above what we normally would year-to-date through September.\nAnd then, on waived customer late fees, this is all on Slide 38 by the way in the appendix. On waived customer late fees, we think that's pretty much done now, given that we were able to reinstate disconnect policies for all of our utilities except Arkansas through the third quarter. Our rearranges [Phonetic] have come down substantially from peaking out in the third quarter. We're now quite back to normal, but getting much closer to normal there. So when you look at all of those together, the last one being sequestration costs we incurred. We're done with that as well, we believe. When you look at all that together and then consider that we're continuing to save costs on travel and outside services, we think the impact in the fourth quarter is going to be pretty minimal. And as we work into 2021, the net impact is going to be immaterial as well.\nLinn, what would you add to that?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Yeah. I think, Rich has done a nice job answering your question, Julien. I'd say, we've learned a lot. We've learned a lot about the virus, certainly more than what we knew back in May when we did some of our initial forecast with respect to the impact. We know how to keep our employee team safe. We know how to keep our customer team safe. We know more about how the virus spreads, things of that nature. And frankly, our customers have learned a lot more about and how they operate. And that shines through -- through their usage and the loads that we are seeing beginning to really come back. As Rich indicated, bad debt is declining or bad debt is down about 20%..."
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Our rearranges. [Phonetic]"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Our rearranges, apologize, rearranges [Phonetic] is down about 20% from the height of the pandemic. And as Rich said, also some of our largest expenses were relative to sequestering employees now that we have processes and understand that in place and know more about the virus. We don't anticipate having to do that as we go forward either."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Got it. Excellent. Well, good stuff. Listen, if I can pivot a little bit more strategically here. It's more of a Linn question perhaps. How do you think about the bifurcations and valuations out there across various kinds of utilities. Certainly, I'm curious to hear how you think especially if this is a bad administration how decarbonization of Gas Utilities perceive. But separately how do you think about the sharp deviations out there in the SMID caps and especially Gas Utilities today. You can comment a little bit."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Yeah. Thank you for that, Julien. Yeah, we've got questions, just like you do. We're kind of surprised frankly by how SMIDs have not seen valuations respond of our business essentials. Our business metrics are very good right now, very solid as we've been able to establish over the last couple of quarters as we've dealt with the pandemic. You mentioned the Biden administration and we've been watching that very closely, very engaged in terms of the campaign promises and statements that have been made. We'll see how that actually translates into either legislation or orders, assuming that it becomes President Biden in the White House.\nWe think that typically that means, we might have to accelerate some of the ESG goals that we're going to express next week as we drafted to those. We did not try to consider a change in the While House. We make goals that we felt strongly that we could do and we could accomplish with current technologies and what we know today. Should there be a much more aggressive stance against climate change and greenhouse gas emissions, etc, we may have to accelerate some of our investments on behalf of our customers.\nAnd you mentioned natural gas specifically. We see natural gas as a long-term fuel. I don't see it simply as a bridge fuel, especially in the territories that we currently serve. We take that very seriously when it comes to customer choice. We have pulled our customers and things of that nature across our northern Great Plains tiers and Rocky Mountain region. It's very clear to them that their natural gas and their choice around natural gas is very important to them, especially when it comes to heating bills and things of that nature. So we're certainly not ostrich with our head in the sand around natural gas. We're at the table with the American Gas Association and other entities when it comes to the use of hydrogen, things of that nature. So we have a group of people very focused on, what we call, force electrification across our organization. How we actually combine our efforts with other utilities in the region, we partnered with other investor owns, especially in Colorado, in response to, for example, the commission information meeting that the PUC is going to have there shortly, partnering also with the AGA in terms of our comments, etc. So, kind of a broad question and broad answer, but maybe that shares with you some of the thoughts I have in my head and how we're looking at our strategy here at Black Hills."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "I appreciate it. Let's start to go [Phonetic] back real quickly on O&M [Phonetic]. Just a detailed question for Rich here, if you don't mind. On the equity, you obviously tweaked that a little bit here. Can you talk about like the timing perhaps a little bit. You all did it quite well this year. So I'm just curious on thought process there. And then, more importantly, as you move out, right, you obviously rate things as well. You talked about that $5.5 billion range give or take. What are you thinking out there at this point, Rich?"
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Yeah. So what we've said in the past is that with the previously disclosed capex, we would need upwards of $50 million of equity next year. And then, we would need $0.25 to $0.30 on the dollar for additional capex, of which we just disclosed an additional $239 million, about a little over half of which $142 million is in 2020 and 2021. So that's really what drove the $80 million to $100 million next year that math should make sense. And then when you think beyond next year. We did add about $100 million of capex to those years. So we probably will need some equity after next year, not a substantial amount. But again, as we continue to increase capex. We're going to continue to sprinkle equity in there to help fund that. That makes sense, Julien?"
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Absolutely. Thank you for the clarity rather. Appreciate your patience and best of luck. We'll see you soon."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thanks, Julien."
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Thanks, Julien."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Andrew Weisel with Scotiabank. You may proceed with your question."
+    },
+    {
+      "speaker": "Andrew Weisel",
+      "speech": "Thanks. Good morning, everybody. First question, just to elaborate on that last comment you are making. Going forward, should we still think of $0.25 to $0.30 of equity for every incremental dollar of capex, is that still a good rule of thumb?"
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Yeah. I think that's fair, Andrew."
+    },
+    {
+      "speaker": "Andrew Weisel",
+      "speech": "Okay, great. Next, I wanted to ask about the capex recovery. You talked a bit about this, but it looks like the numbers have moved around with less spending now considered eligible for timely recovery. It looks like it's about 70% now versus 80% previously. Just wondering, have you reclassified certain projects or is something else going on there, may be something to do with recovery of the incremental spending?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Well, our Gas Utilities are over 80% timely and electrics over 50%. Total is, I think, similar to past quarters. I'll have to verify what you're asking."
+    },
+    {
+      "speaker": "Andrew Weisel",
+      "speech": "Well, I just mean you have -- in the past, you've talked about 80% as being recoverable and now you're saying it's about $2 billion out of the $2.9 billion. And just based on your disclosures on Page 32, you can sort of -- I'm getting that around 70% versus 80% in the past. Just wondering if there's anything noteworthy there."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "The $2 billions is a new sub-header we added. There's probably some rounding involved there, I would say, Andrew. But when you think of the timeliness of recovery. I think the reality is, it's fairly consistent with what we've seen in past disclosures [Indecipherable]."
+    },
+    {
+      "speaker": "Andrew Weisel",
+      "speech": "Okay, great. Maybe I'll follow up on the numbers offline. Then one last one, with the new capex outlook, what's your latest thinking as far as rate-based growth going forward."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Well, we haven't disclosed a specific rate base growth rate. As Linn said, we plan with our year-end earnings release to put some more color around long-term growth rates, whether that's earnings growth or rate based growth we're going to give you some more color in a quarter on that as you just work with the information we've disclosed. Obviously our rate base growth spend very strong in 2019-2020 and it's looking good in 2021. And as you think about the opportunity to increase capex in those outyears, we think it's going to remain strong. So that's the employee you got to work with right now more to come."
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Sounds good. I'll do my best to be patient for a few more months. Thank you guys very much."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thanks, Andrew."
+    },
+    {
+      "speaker": "Richard Kinzley",
+      "speech": "Thank you, Andrew."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our next question comes from Brandon Lee with Mizuho. You may proceed with your question."
+    },
+    {
+      "speaker": "Brandon Lee",
+      "speech": "Hey. Good morning, Linn, Good morning, Rich. The first question is around COVID, the impact on your load. Since the third quarter, it looks like the cases have picked up in your service territory. Have you seen any changes in load since the end of the quarter?"
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Good. We have seen actually -- while we've seen a tick up in cases, you are correct there. We continue to also see load usage continue to rebound through the third quarters and into the fourth. So they don't necessarily seem to be connected, at least in our territories. It doesn't mean they could not be at some point. But currently, as I indicated before, it seems our customers are learning how to operate in spite of COVID, if you will. And so, we're seeing the residential load continue to be strong. We anticipate as people continue to work from home in much of our territory that will remain strong and that will probably translate perhaps into the natural gas side of the business as well in the early heating season as people might be staying home. We're also seeing a very strong industrial loads in Wyoming. That's probably because of our strong focus, it is because of our strong focus on datacenters there, which is offsetting some softer loads that we tend to be still be seeing in Colorado and South Dakota, but overall seeing good load increases but trending very much back toward normal and frankly growing, especially on the natural gas side. Hopefully that helps you there. Yeah. Great. And then, also just given the decline in the LDC multiples, have you noticed any change to new jurisdictions regarding gas capex or any pushback from regulators on your planned capex. I would say, the short answer is no. But it's obvious in Colorado, that the Commission is looking at how they implement the Clean Energy Plan is what I will call it the Clean Energy plan does not necessarily. It does not call out natural gas, it really focuses on the electric business. But given the commission or information meeting that's scheduled to come up soon would be watching that very closely there with respect to our ongoing opportunities. I will put it with natural gas. But again, our customers in Colorado are pretty enthusiastic about their natural gas usage and really want the customer -- that mix of energy available to them. So much more to come with respect to that."
+    },
+    {
+      "speaker": "Brandon Lee",
+      "speech": "Great. Thanks. That's very helpful. That's all I have. Thanks a lot."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] And with no further questions, I will turn the call back over to Linn Evans for closing remarks."
+    },
+    {
+      "speaker": "Linden Evans",
+      "speech": "Thank you, Josh. Thank you all for joining us this morning. I will look forward to sharing our ESG goals later this week. We're really looking forward to virtually seeing many of you at the EEI Financial Conference next week. And thank you all for your interest in Black Hills Corp. Please remain safe healthy, enjoy a safe day and thank you again."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 40 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Jerome Nichols--Director, Investor Relations",
+    "Linden Evans--President and Chief Executive Officer",
+    "Richard Kinzley--Senior Vice President and Chief Financial Officer",
+    "Michael Weinstein--Credit Suisse -- Analyst",
+    "Julien Dumoulin-Smith--Bank of America -- Analyst",
+    "Andrew Weisel--Scotiabank -- Analyst",
+    "Brandon Lee--Mizuho -- Analyst"
+  ]
+}

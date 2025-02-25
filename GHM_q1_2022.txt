@@ -1,0 +1,432 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings. Welcome to Graham Corporation's First Quarter Fiscal Year 2022 Financial Results. [Operator Instructions]\nAt this time, I'll now turn the conference over to Deborah Pawlowski, Investor Relations for Graham Corporation. Ms. Pawlowski, you may now begin."
+    },
+    {
+      "speaker": "Deborah Pawlowski",
+      "speech": "Thank you, Rob and good morning, everyone. We certainly appreciate your joining us today to discuss Graham's first quarter fiscal 2022 financial results.\nWe announced those results earlier this morning and you should have a copy of that along with the slides that will accompany our conversation today. If you do not have the releases or the slides, you can find them on the Company's website at www.graham-mfg.com.\nWe also simultaneously this morning announced the planned retirement of Jim Lines, our Chief Executive Officer. He's on the call today with us and will be making some formal remarks. Also joining us are Jeff Glajch, our Chief Financial Officer; and Dan Thoren, our President and Chief Operating Officer, who has been named effective with Jim's retirement, our new Chief Executive Officer. Jim will start with his overview and then cover the brief results of the quarter. Jeff will then review details of the financial results and then we'll have Dan close out with his remarks.\nAs you are aware, we may make some forward-looking statements during this discussion as well as during the Q&A session. These statements apply to future events and are subject to risks and uncertainties as well as other factors, which could cause actual results to differ materially from what is stated on the call today. These risks and uncertainties and other factors are provided in the release and in the slide, as well as with other documents filed by the Company with the Securities and Exchange Commission. These documents can be found on our website or at sec.gov.\nI'd like to point out that during today's call, we may also discuss some non-GAAP financial measures which we believe are useful in evaluating our performance. You should not consider the presentation of this additional information in isolation or as a substitute for the results prepared in accordance with GAAP. We have provided reconciliations of comparable GAAP with non-GAAP measures in the tables accompanying today's release.\nSo with that, it's my pleasure to turn the call over to Jim Lines. Jim?"
+    },
+    {
+      "speaker": "James R. Lines",
+      "speech": "Thank you, Debbie, and good morning, everyone.\nI will begin my remarks at Slide 3 and provide a brief review of the financial results, before discussing my planned retirement.\nRevenue in the quarter was $20.2 million, $16.7 million was organic and $3.5 million was due to the acquisition of Barber-Nichols that closed June 1. Defense revenue was 35% of total revenue in the quarter. We do expect that defense revenue will approach 50% of total quarterly revenue with Barber-Nichols fully in future quarters. This acquisition and the shift in revenue mix is a major transformation for Graham and measurably advanced our diversification strategy. On an organic basis, revenue was similar year-over-year. However, it was for different reasons. You might recall that our first quarter last year operated at nominally 50% capacity due to COVID-19, thus impacting revenue and profitability due to under-absorption.\nIn the most recent quarter, our workforce utilization was at capacity. However, mix was very different. Orders from our crude oil refining and chemical/petrochemical markets were very low during the third and fourth quarters last fiscal year where non-Navy orders totaled $17.5 million for both quarters. Consequently, greater production resources were pulled into Navy backlog, which are lower margin due to first article work and also due to contract structure for a large order in backlog. Those headwinds work out of backlog across the next few quarters and largely behind us as we exit this current fiscal year. Organic revenue and profitability are expected to improve across the fiscal year.\nOrders in the first quarter were $20.9 million and were principally organic. Barber-Nichols orders were $200,000 for the month of June. Somewhat encouragingly, there were strong orders from our crude oil refining market in the quarter that totaled $11.5 million. We did have a significant win in the quarter for a domestic refinery revamping their facility to improve crude oil feedstock processing flexibility. That particular win was gratifying for me. I still remember losing the original order to a domestic competitor in the mid-1990s. And now, 25 years later, we won back the installation and replaced the original supplier with our own vacuum systems.\nConsolidated backlog at June 30 was $236 million, of which 80% is for defense. Importantly, as we work through the more challenging margin backlog, that impacts the current fiscal year. Margin potential for our defense backlog improves measurably. Barber-Nichols acquisition provides additional market diversity to our profile as it also adds backlog for new markets including space and advanced energy industries. While we put considerable cash toward acquiring Barber-Nichols to strengthen and diversify revenue along with earnings, our balance sheet remains strong and our opportunity to drive our return on assets improves.\nAs announced earlier today and as Debbie had mentioned, I'm very pleased to confirm that I will retire effective August 31 at the end of this month and Dan Thoren will succeed me as President and CEO of the corporation. He also will join our Board of Directors at that time. It has been a tremendous honor and great privilege for me to serve Graham shareholders and the corporation as its Principal Executive Officer since 2006. I believe I am departing on a high note as this is an incredibly exciting time for the Company, considering first the strength of our organic defense strategy having advanced to preferred supplier status for many of the products the Company provides to the US Navy, and in some cases, we are now bidding on a sole-source basis. The credit goes to Alan Smith and his team for executing well our defense strategy.\nSecondly, the progress we have had innovating execution to become successful in price-focused international crude oil refining and petrochemical markets. The sales team has proven we can take market share, and also the operations team has shown we're able to realize or beat target margins.\nThirdly, the investments we've made in IT tools, systems and resources to leverage our installed base and the expected benefit that will provide. I believe crude oil refining and chemical/petrochemical customers will invest in existing facilities, with greater throughput before investing in new capacity. I feel we are ahead of competitors regarding commitment to the installed base.\nLastly, the transformational acquisition of Barber-Nichols creates a new strong growth platform for both organic and M&A expansion.\nI've had the opportunity to work with Dan through the acquisition process for over nearly three years and most recently, the last two months as he onboarded with the Graham team. I believe that Dan is well equipped to lead Graham and has a terrific and broad vision for the next phase of growth for the Company. I'm thrilled this acquisition has proved to be as transforming as we had envisioned. And part of that transformation is building out the bench strength of our leadership team.\nUltimately, over the last couple of months, it became more clear to me that this has provided for my succession plan as well. I'm thrilled that the Board saw the same potential in Dan that I had seen. As a Graham shareholder, I'm looking forward to benefiting from the value of Dan's strategic direction. Congratulations, Dan. You have my full support, not only through this transition, but well into the future. I also want to take a moment as well to thank our shareholders. I have enjoyed our many conversations all these years and have very much appreciated your ongoing support.\nWith that, I will turn the call over to Jeff for his review of the financial results. Jeff?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Thank you, Jim, and good morning, everyone.\nIf you can move to Slide 4. As Jim mentioned, we had a very rough first quarter. As I discuss that first quarter, I would like you to keep in mind that our full year guidance is unchanged. Therefore, we expect to see improvements as the year goes on and we expect sequential quarterly improvement across each quarter for the rest of fiscal 2022. Sales in the quarter improved by $3.5 million, which was due to the one month that we owned Barber-Nichols. The comparable quarter last year was early on during the COVID pandemic. And as Jim mentioned, we ran the Company at half capacity during that quarter. However, in that quarter, we did have a $5 million project which was recognized on a completed contract basis and because of COVID had shifted from fiscal 2020 into Q1 of 2021.\nGross profit and EPS were dramatically affected by a very poor mix of projects and some timing and some cost items. Namely, we had some liquidated damages due to COVID in the quarter and some timing of expenses which were pulled into Q1. We also had a small amount of acquisition expenses, about $169,000 pre-tax, and the first month of purchase price accounting related costs for Barber-Nichols. To clarify the latter, the purchase accounting amortization costs were $225,000 before taxes in June.\nBefore we move on, I want to mention that we expect approximately $2.7 million pre-tax and $2.15 million after-tax related to acquisition purchase accounting. 90% of this is amortization costs, with the rest being a step-up in depreciation and inventory. We will be filing an 8-K later this week with much more detail on the purchase accounting and pro forma income statements. We expect the amount of amortization will be similar in fiscal 2023 as fiscal 2022 since we will have 12 rather than 10 months of amortization in fiscal 2023. It will decrease in future years and level off at approximately $1.1 million pre-tax.\nOn to slide 5. With the acquisition of Barber-Nichols, we have moved from a very inefficient to a much more efficient balance sheet. We have added $20 million of low-cost term debt as part of the acquisition and we have access to a much larger revolving line of credit. This term loan and the line of credit will provide ongoing flexibility. We expect the acquisition of Barber-Nichols to be accretive in fiscal 2022, even with the $2.15 million or approximately $0.20 a share in added amortization costs. We will continue to look for both organic and M&A-related growth opportunities and believe we have the financial strength to invest in both areas. With the addition of Barber-Nichols, we believe there are some excellent opportunities in both arenas.\nOn to slide 6. Orders in the commercial markets picked up in Q1 off a very low base in the previous two quarters. With a $236 million backlog, we are well positioned for long-term growth. 80% of that backlog is in the defense market, which provides an excellent baseline for our business, not just this year, but in upcoming years as well. We expect approximately 50% of our forward-looking business to come from the defense market, and with the opportunities for growth in the space market and recovery in the energy markets, we are excited about the future.\nBefore I pass it over to Dan, I would be remiss if I didn't recognize Jim for his 37 years of service at Graham, the last 15 years being as leader. He has transitioned Graham from a company which has -- which was capacity limited and had minimal growth engines to a much broader organization with strong footprints in defense and the Asian energy markets to couple with our long history in the United States and Middle East. Look nearly anywhere in the world and you will see Graham equipment in many world-class refining and petrochemical facilities. You will also see Graham equipment playing a key role on US Navy vessels which support our country's national defense.\nI also want to welcome Dan. I've known Dan for the past three years, including negotiating the acquisition with or perhaps against him during part of that time. Dan is a very high character leader with a great history at Barber-Nichols and I expect him to do the same at Graham. Over the past many months when the Board members have asked for my view as Dan as a potential CEO, I was and continue to be unequivocal in my belief that Dan is the right CEO to take Graham forward.\nNow that I've set the bar high, Dan, I'll pass the call over to you."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "Thank you, Jim. Thank you, Jeff. Very kind words, very kind introduction.\nGood morning, everyone. I'd like to start by thanking the Board of Directors and Jim Lines, specifically, for placing their confidence in me to lead Graham Corporation. I've spent two and a half years getting to know Graham, their leadership and at a high level their business. Indirectly, I've learned a little about their culture, their people, their customers and their Board. Over the last two months, I've met with the executive team, managers, employees, customers and the Board to understand the Company in more depth. These interactions have helped me understand the proud engineering and manufacturing heritage at Graham, the importance of the Company in the community of Batavia, New York and how they have become a trusted partner to their customers across the world in the critical process industries that they serve.\nAs I go through my slides, I'll give you an idea of how we are developing our strategy to build upon our strong legacies while leveraging our opportunities in the defense and space industries. Specifically, we'll be working to generate sustainable earnings growth, reduce that earnings volatility, improve operating performance, generate strong cash flows to reinvest in our business and provide a dividend to stockholders. The ultimate goals are to provide an acceptable return to our stockholders and provide benefit to all of our stakeholders.\nNow let's focus on slide 7. With Graham Corporation acquired Barber-Nichols, we recognize that the two businesses have individual strengths, serving their respective markets that we do not want to disrupt. Our strategy is to leverage the strengths of each as platforms that provide potential for both organic and inorganic growth. As such, Graham operations and BN operations both operate under the Graham Corporation umbrella. As we consider future capital investments, our plan is to add new companies and technologies with related engineered product that can stand alone yet collaborate to win bigger business.\nLeverage best practices between subject matter experts in the companies, share services across the organizations and provide career paths for key employees. When we do these things, each member company can remain focused and agile while accomplishing more than they could alone. As you look at slide 7, this depicts our two platforms for expansion. Barber-Nichols is currently in space and defense predominantly. Graham manufacturing is currently in Defense, Energy and Petrochemical.\nFor the space industry, we believe there are acquisition opportunities in this expanding market as it gains more interest in private investment. We will be looking for small acquisitions that we can tuck in as well as medium acquisitions that can stand on their own and are complementary to our current businesses. We are also focused on internal investments to develop new products and technologies in that space industry. Both Graham and Barber-Nichols are well engaged in the defense industries. We'll be looking for new areas to provide value as well as internal investments and acquisitions that can help us grow into new and more sophisticated product.\nGraham has been a world leader in vacuum and heat transfer products for energy and chemical/petrochemical applications. As Jim and Jeff had discussed over many years, the domestic market is flat and the international markets have room for growth. We intend to focus on our domestic installed base and provide customers the support they need to keep those plants running at an optimized level. We'll continue to invest in international markets and grow our presence around the world through our successful shared margin strategy. More recently, both companies are seeing opportunities to engage in the alternative and clean energy markets through turbomachinery and heat transfer products. Clean energy is actually an area where synergy between companies is possible. Strategically, we plan to both service and grow our legacy business while having the engineering and new product capability to participate in these new alternative and clean energy markets. Now each one of these markets that have gone over have their own risk and reward profiles. Having teams focused in each area is paramount and we are well along with the organizational changes needed to successfully execute our strategies in each of the markets.\nLet's move to slide 8. As Jim and Jeff discussed earlier, we look at fiscal '22 as a transition year, with a tough start, getting better sequentially by quarter. Meanwhile, we are seeing a stronger pipeline with more inquiries and new orders in the second quarter. Graham manufacturing second quarter orders are $9.5 million to date, while Barber-Nichols has booked $9.1 million. Based on the timing of customers' projects, we are holding our revenue guidance at $130 million to $140 million of which Barber-Nichols is expected to contribute between $45 million and $48 million. Combined, the Defense segment is expected to account for almost half of the revenue and EBITDA is expected to be in the $7 million to $9 million range. Capital expenditures are planned to be in the $3.5 million to $4 million range, including the Barber-Nichols capital expenditure.\nLet's go to slide 9. As alluded to in my initial remarks, we are transforming Graham Corporation. Barber-Nichols was the initial transformational acquisition. We will be looking to solidify the Barber-Nichols investment through further investment on its platform to enable growth in the defense and space industries as well as other industries as opportunities arise. Coincident with the acquisition, we believe we are at or near the bottom of the energy and petrochem cycle. We have been preparing for an up-cycle expansion that we believe will start in FY 2023. Our welder training program has been very successful in refilling our pipeline of future employees. We are qualifying additions to our supply base to enable additional capacity with the expectation of a potential up cycle.\nOur plans include expanding our international offices with sales, quality and project management personnel. Both Barber-Nichols and Graham have leading market positions and strong brand recognition. We believe that strong engineering, working hand-in-hand with customers on challenging applications and delivering high-quality products on time will enable us to maintain those brand strength and market leadership positions.\nAs we advance our transformation, we will be improving our market presence with linked and updated websites and social media. We believe that this will expand our exposure to a broader audience that doesn't yet recognize our growth and earnings potential. Personally, I have a strong interest in being a great corporate citizen and working with all of our stakeholders to build a better stronger business for us all.\nWith the BN acquisition, Graham puts its large cash reserves to work and created a more efficient balance sheet. As we continue to improve our business and further our strong cash-generating capabilities, we'll intend to make smart choices to allocate that capital for further growth with a keen focus on returns. We are very optimistic about this new combination and the future it presents for all of us.\nWhen you have a talented team of people that can see problems for your customers, work with them to design and build solutions to those problems and then shift when the markets change, you will be successful. At Graham Corporation, we have that ability and we will be looking to add more.\nWith that, operator, we are ready to open the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from the line of Theodore O'Neill with Litchfield Hills Research. Please proceed with your question."
+    },
+    {
+      "speaker": "Theodore O'Neill",
+      "speech": "Yeah. Thanks very much. So first question, in your slide presentation you used an image of the Blue Origin New Shepard reusable launch vehicle. Can you give us a little more detail on Graham's opportunity in space development programs?"
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "Yeah. Barber-Nichols is involved in quite a few different new space as well as existing space applications. And so historically, we've been involved in the propulsion side. So rocket engine turbo pumps, the pumps that basically take the fuel out of the tanks and supply it to the combustion chamber to provide propulsion. We're seeing more and more applications for the next journey in space. So you worry about launch first and then you worry about or think about living in space or operating in space second. And so, we're starting to get more opportunities for turbomachinery, fluid and power systems for space-based vehicles. And so I won't talk about specific customers or very specific applications. But think about launch and then think about living and operating in space as kind of the follow-on to that. And that's where Barber-Nichols has been involved and has future opportunities."
+    },
+    {
+      "speaker": "Theodore O'Neill",
+      "speech": "Okay. In the prepared remarks, you say that margins were impacted by your aggressive strategies to enter the naval nuclear propulsion program, which clearly was successful. Does this mean you underpriced the project to get the business?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Theo, this is Jeff. No, we aggressively -- we did aggressively price to get in. Some of these are first projects in a particular vessel, so they have some -- they obviously have some operational challenges to them also. But we knew going in that these were going to be some rough jobs but we're successful in getting them. We've been successful from a customer standpoint executing them. And very importantly, we've transitioned the business where the vast majority of our current backlog is sole sourced. So if you look at what's in backlog today, and I'm speaking specifically on the historic Graham side, not talking to Barber-Nichols here. Most of what's come into backlog over the past couple of years has been sole-sourced."
+    },
+    {
+      "speaker": "Theodore O'Neill",
+      "speech": "Great. Thanks very much."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Thanks, Theo."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from the line of Dick Ryan of Colliers. Please proceed with your question."
+    },
+    {
+      "speaker": "Dick Ryan",
+      "speech": "Thank you. On the margin question again, can you give us the impact? And which vessel programs those were tied to? And then maybe, looking down the road, with being a sole-sourced, what kind of margins should we consider going forward?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Dick, I can't really provide much detail on your first question other than I will say, it was really -- it is across multiple boats. As we look forward -- as we look forward, as we get -- particularly as we get into fiscal 2023 and beyond, we expect a pretty substantial step-up not a couple of hundred basis points, but well beyond that to a more reasonable and more normal level of profitability. So I can't provide again that specific margin number, but I assure you, it's not a couple of hundred basis points, it's much more than that."
+    },
+    {
+      "speaker": "Dick Ryan",
+      "speech": "Okay. Thank you. Well, on your commercial side, the increased business coming through there, how does that margin profile stack up? I thought you said it was more domestic business. And I know, the Chinese and Indian markets are probably more price sensitive. So can you kind of handicap that going forward?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Dick, as Jim mentioned, we had the one order in the first quarter. I believe he was speaking of on the domestic side. But we've also had some orders of -- some of the ones that Dan mentioned, were in the international markets. Even the ones that are in the international markets are not at a poor margin level. They're actually at a pretty decent margin level. So the orders that have come-in -- in the first quarter and the ones so far in the second quarter that Dan talked about are all a better margin level than what we've been pulling out of backlog over the past -- this past quarter. Again, a lot of that was due to a really low order level in the second half of fiscal 2021."
+    },
+    {
+      "speaker": "Dick Ryan",
+      "speech": "Yeah. I know, you haven't published your target model, but when you get into '23 and '24 with the rebound in energy and defense kicking in, can you give us a range of where do you think gross margins should be coming in when kind of both sides the commercial and the defense market are operating more efficiently?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Dick, at this point, we've not provided anything in the future looking at gross margins. I will talk a little bit about EBITDA margins. And those we do expect -- if you look at this year's EBITDA margins relative to our guidance, you'd see that they would be kind of in the 5% to kind of 6% range. We expect those to noticeably step up as we get into fiscal '23."
+    },
+    {
+      "speaker": "Dick Ryan",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "You're welcome, Dick."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from the line of Andrew Shapiro with Lawndale Capital. Please proceed with your question."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Hi. Thank you. Sorry to pile on on this the issue, but margins are I think the main focus here. Maybe I could throw out the question in a different way. If you could help clarify or maybe bridge the steps to achieving the normalized range of margin? And can you at least identify what kind of range of margin would be appropriate? And when I'm asking about the clarification of bridging us from our current below expected margins to a normalized margin, this is independent of the overhead absorption of revenue growth. I want to get to that in a follow-up question."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Okay. Andrew, this is Jeff again. As we -- a couple of things. First off, if you look at the first quarter results and we talked about that -- of the $20 million in revenue about $3.5 million was Barber-Nichols, the rest being the historic Graham business. Most of the challenges that we had from a margin standpoint, and I'll talk EBITDA margin, if that's OK. We're on the Graham -- historic Graham side. Those will start to work their way out in the second half of the year, and we would expect those to turn positive in the second half of the year. Some of it will be due to the transition from the mix of -- away from the mix of some of the lower profit projects that we had that will run through the first quarter and we'll be running through some -- be running throughout the year, but will be a lesser percentage of our business going forward, and we'll be through with most of that as we get through the end of the year. So some of it is a mix of projects on the Graham side, and again, we'll move that toward a positive profitability level. In addition, the first quarter only had one month of Barber-Nichols in it. And had Barber-Nichols probably at a little lower revenue number then we would expect to cross the year. Dan mentioned $45 million to $48 million is our guidance for the full year for Barber-Nichols. Since that's only 10 months, do the math it's $4.5 million to $4.8 million on a monthly basis. And our Barber-Nichols revenue in the June quarter was only $3.5 million.\nSo it was a lower revenue number than normal for them. And the profit was also tagged down a little bit because of that. As we move into the current quarter and as we move through the third and fourth quarter we expect Barber-Nichols to be executing at a higher revenue level and that will help their profitability also. So if I look at the business combined, you'll see the historic Graham business moving toward positive EBITDAs as we get -- particularly in the third and fourth quarter. And the Barber-Nichols business, if you think about the direction that we provided on the Barber-Nichols call on June 1. We had -- we talked about on EBITDA level that if you kind of backed into you would get into low double-digit EBITDA levels, we would expect to be in those -- that level in the second, third and fourth quarters in general. They may be a little higher on quarter a little lower another, but throughout the next nine months of the year. So the EBITDA which was obviously quite poor in the first quarter, if you look at the last three quarters, our expectation of revenue, again just taking our guidance and backing up the first quarter is $37 million to $40 million of revenue per quarter and a positive a EBITDA margin, sequentially growing lower in the first -- in the second quarter, but growing into the third and fourth quarter.\nI do want to expand on one thing if I can, probably related to your question and certainly related to Dick Ryan's question that he asked a few minutes ago. If we think about the EBITDA margins this year at 5% to 6%. And quite frankly, you back out the first quarter, you get to high single-digit EBITDA margins. As I think about without giving a lot of direction in fiscal '23, but as I think about fiscal '23, I'm expecting that we will be into that -- transitioning into the low double -- at least the low double-digit EBITDA margins as we step into fiscal '23. So I probably should have been clearer on Dick's question and perhaps this is a little bit of the bridge as you're looking for as we see our EBITDA margins grow. So I hope that helps [Multiple Speakers] there please let me know."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Yes. No. It very much helped in terms of the follow-up. In terms of the coming rest of the fiscal year and then early into the next year is -- and you talk about the revenue streams. Is that revenue streams with respect to existing backlog in orders, or does that include certain anticipated growth in revenues above and beyond what you have as booked business already?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Sure. The vast majority of it includes things that are already in our backlog. And I will include our backlog to include some of the orders that Dan mentioned that came in during the month of July."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Okay. That's fine."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "And let me, if I can expand a little bit here because I think it will help think. So if you think about our guidance, so $130 million to $140 million, I'm going to make math easy and put it right in the middle and take $135 million. And you talk about Barber-Nichols which is $45 million to $48 million. So I picked that midpoint at $46.5 million, back that out and you look at the historic Graham business and I talked -- already talked about the growth we expect to see in Barber-Nichols. That would back into about $88.5 million for the historic Graham business. The first quarter was 16.5% or so which means there's about $72 million left for the rest of the year. So that sees a revenue number on average in the next three quarters for the historic Graham business of something around $24 million a year. So that's an increase of about 50% from what we saw in the first quarter. That growth, I don't expect it to be $24 million, $24 million, $24 million and rather I actually expect it will grow as the year goes on. So the second quarter may be lower than that. Certainly, it will be lower than that. But the third and fourth quarter, we would expect to be at or above that number. So I think part of that ramp to get you more comfortable with the ramp in profitability is a pretty significant ramp in the historic Graham business along with a ramp in the Barber-Nichols business. So I hope that a little extra color was helpful."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Yes. And then regarding the shortfall or the disappointment in the margins of some of the Graham -- the legacy Graham business, would these -- I would -- my assumption is these are fixed-price contracts. Did they encounter unexpected difficulties? Were they bid too tight and they were just low-margin businesses? What was encountered in these projects that eventually obviously they worked themselves out and then leave the books to be the drag on this quarter and somewhat of a decline in arbitrage in the coming quarters?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Sure. Much of the above that you mentioned, they were bid aggressively. We knew when we bid them that they were going to be -- they weren't going to be fantastic projects, but they weren't going to be terrible projects. And as we've executed -- the team has executed well, but particularly when you're looking at a first project of a particular vessel that can provide some challenges from an operations standpoint. I think our team has done a great job of overcoming those challenges, but there's cost and cost typically falls in the category of additional labor to get those executed. There's one additional thing that's a little hard to explain, but I'll try it. On some of our orders on the -- we've received some short-term material orders which ultimately became part of a full -- a larger order. Unfortunately, the way the profit worked out, we ended up with a little more profit in that material portion of the order, which makes the execution part of the order a little less profitable also. So, all of those weighed in together.\nAs we talk about the projects going forward, again, what's come into backlog that are sole-sourced are at a better position, because they're not aggressively competitively bid. They're certainly not projects that we're going to make an enormous amount of percentage margin on, but they will be much fairer to both the customer and to Graham as the vendor."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Got it. And -- go on."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "If I could add a little bit of color to that. Barber-Nichols had seen that same thing on some of our DOD projects, Navy projects where -- and it's fairly typical across the industry where you're relatively aggressive when you're competing for this new work and trying to break into a particular area. And so you're bidding it aggressively, not overly aggressive, but you are bidding it tight. The first articles, you're learning a lot. There's process that you're developing. There's engineering that you're putting into, developing these processes, etc. And that investment in the first article is not reinvested in the second and the third. And so you kind of have the steep learning curve where the first one is it's a challenge for sure. And as we're recognizing this revenue over time and as we go through each one of these subsequent units, we're getting better and better and better. And so I think Jeff and Jim have described what we've seen at Barber-Nichols where these first articles are a drag. And once you kind of get through those first articles, then the subsequent ones start to get better and better. And frankly, that's kind of what we're predicting going forward is this improvement sequentially kind of quarter by quarter. And that follows a pretty typical new project for Navy business."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "So, these projects that contributed to the disappointment in this quarter and then are going to be worked off, if you could clarify, the bulk of these are on products or programs that are not like working themselves off and they're done. These are like the first round of whether it's going to be successive orders and successive similar products for which you will have obviously developed production efficiencies and workarounds, etc. Is that correct?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Andrew, that is correct. And not only are they projects -- programs that we are continuing to be in, but in most cases we already have those in our backlog for the next article."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Okay. So that actually helps a lot. I do have some knowledge in some of this Navy work, but I didn't know if this was like -- these are projects that you're just finishing up and we're just so happy to be done with them versus this is really the inefficient initial ramp-ups for what will then be follow-on similar business for which you'll have efficiencies, and it sounds what I just described here in the latter is what was the bulk of the issues here in Q1. Correct?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Correct. We are -- we're actually happy that we have article two and beyond. We're excited about not only executing, but also the profitability of these projects going forward -- these are our programs going forward."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Okay. And then moving on to -- go on, Dan."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "I would say, Andrew, that this is good business, and we'll continue to chase additional Navy opportunities where we will do first articles and the first articles will be a challenge to get through, and then subsequent ones will get better and better. So this will be kind of a recurring theme, and we've seen it in Barber-Nichols too where, when you first get into it they're tough."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Yeah. The challenge is, that was a much heavier portion of the quarter than normal."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Right. I saw this at Sparton Corp with their [Indecipherable] as well. So moving on to one last other topic here was your discussion on future growth deploying of capital, capital allocation opportunities. And one of those things you described was, it seems like then there was greater language of this than in the past maybe is an acquisition focus. And so I was wondering on acquisitions is where is your focus? Is it just in space, as you mentioned there are some opportunities? Is there already a pipeline of acquisitions you're evaluating? And I know Barber-Nichols acquisition was three years in the making. Do you have somewhat of timing thought process on all of this? Is there a certain amount of absorption swallowing integration to go on with Barber-Nichols before the next acquisition is compelling and teed up for the Board and for you to present to our shareholders?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "So, Andrew, this is Jeff. I'll start and then I think I'd like Dan to add his thoughts also. You're correct, the Barber-Nichols was three years and I will facetiously blame Dan for the negotiations there. But no, that was not it at all. But to answer one of your questions from an integration standpoint, because of how the businesses are run and the leadership that's in place there's not going to be too much of a challenge from an integration standpoint to -- it's not going to take us an enormous amount of time to integrate and then that will slow down our acquisition process. But rather, what we're doing now is we're looking at the organization, looking at the capabilities that we have in the markets that we have, looking at the markets themselves and trying to identify which of the markets that we want to go after more aggressively. We want to prioritize. We don't want to try to go after and say hey we're going to go after everything. We're looking at prioritizing. And so part of the activity over the next couple of quarters is looking at those markets, having the Barber-Nichols and historic Graham team work together to look at where those opportunities are and what are the right ones for us to be going after.\nIs space an opportunity? Absolutely. Is defense an opportunity? Absolutely. Is energy an opportunity? Perhaps to some extent, but not to the level maybe that those other two are. But we want to look at the markets and look at how we want to position ourselves in those markets and do it thoughtfully. So rather than running out and saying here's the -- there are a pipeline of a bunch of companies, but I really don't want to be chasing those too hard immediately until we get our feet under us and a little better on where do we really want to focus that activity. There's fruitful opportunities out there. I'm not worried about the number of targets that are out there. What I'm worried about is let's make sure that we laser in as best as we can on the ones that we want to go after.\nAnd with that, I'll pass it over to Dan if he has anything he'd like to add."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "That's actually very well said. The prioritization is going to be probably our biggest internal challenge. We feel like we've got lots of different opportunities that we can go chase. And ultimately, from a direction standpoint what we're looking for is these smaller companies that we can either tuck in to one of our existing companies or a company that can stand on its own and is complementary to our other businesses. We like to think about companies that are complementary and can join together to go after larger business. That engineered product is really key. That complementary piece is very key that enables us to go after larger, more sophisticated systems. So the challenge will be again where do we prioritize. And we're definitely deep into that process right now."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "And is the focus primarily defense, or if you -- or would you be looking for something in petrochemical or something like that as well?"
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "We're very open. We're evaluating space, defense. There's fluid systems in general that we're looking at that you can kind of apply fluid systems across a bunch of different kits. So yeah, we're pretty open at this point and trying to understand where the best opportunity is earliest that would provide the focus that we want to go chase for our next acquisition."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "And Dan, that -- we'll call it acquisition infrastructure. Obviously, Graham had been spending three years focused on acquiring Barber-Nichols, and Barber-Nichols had been spending three years in a sense focusing on its perspective being acquired. Is there -- was there looking for acquisition type of focus at all at Barber-Nichols that was brought in other than of course yourself and your strategic vision that was brought in? Or is it primarily the Graham acquisition infrastructure that you're obviously layering on top of?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Hey, Andrew, this is Jeff. I'm going to jump in first and then let Dan add on. From my perspective, the acquisition team that we have at Graham, which is relatively small -- it's mostly myself and Chris Johnston, our Head of Business Development -- we've always been focused on external -- looking at the external opportunities for us and we will continue to be going forward. What's exciting to me about the Barber-Nichols team is they have done a great deal of work looking at the platforms within their business and looking at what -- not from necessarily as much from a company -- other companies out there standpoint that they want to grow but rather what technologies, what areas, what products they would like to grow on.\nSo I think there's has probably been more of a market focus and less on a specific company focus and now we're marrying the two groups together. In fact we're doing it as currently as today. There are meetings today with our external -- with Chris Johnston and his team and with the Barber-Nichols -- Chris Johnston and some folks with him from the Graham business as well as a large contingent from the team here at Barber-Nichols. So I'm excited about the ability to pull out that knowledge from Barber-Nichols, and then have them work with the -- I'll call it, the corporate acquisition team, which is again really Chris and I at how we go after it. And Dan has a tremendous amount of knowledge in the markets of Barber-Nichols they're in. And so he's providing a tremendous amount of guidance and direction to our team as we're looking forward. So Barber-Nichols was probably less focused on acquisitions per se, but they did a really, really deep analysis and continue to do a deep analysis of the markets that they're in and where the opportunities would make sense to expand Barber-Nichols whether it was organically or perhaps inorganically. We're going to take advantage of that as a total company and see what we can do, again, both organically and via the M&A route."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Awesome. Thank you, guys."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "For me, I think I would just throw out an example, and say for -- as Barber-Nichols looks at our markets, we provide very simplistically we will supply a pump for transferring fluid between point A and point B. There's lots of other things between point A and point B. There might be control valves. There might be plumbing. There might be a skid that everything sits on. There might be heat exchangers, etc. And so when we think about fluid systems, for instance, we think about the system and what are all the pieces. And as Jeff alluded to, we've done a pretty decent job of understanding where our gaps are. And before the acquisition, we really looked at more organic growth, what is the next piece that we would want to bring on to enable us to move higher in the food chain and provide that next level of system or subsystem. And so, got less on the specific companies but a very clear vision of what are the pieces that we would need to build up to the next higher sophistication or system."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line of William Bremer with Vanquish Capital Partners. Please proceed with your question."
+    },
+    {
+      "speaker": "William Bremer",
+      "speech": "Hey, gentlemen, can you hear me?"
+    },
+    {
+      "speaker": "James R. Lines",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "William Bremer",
+      "speech": "First thing, Jim, it's been a pleasure all these years. Congrats on the retirement. Daniel, welcome. I look forward to meeting with you. And Jeff, you did a great job just now in that clarity, not just on the financials but in end market. My question is specifically on -- you just touched on this on the fluid handling systems. I'd like you to go into your opportunity primarily in hydrogen and what you're seeing there. And educate us a little bit on if you -- if these projects that -- they're dicey, they're bit lumpy, I understand that -- a little bit on the permitting issues that you may be seeing and how long it takes but more importantly, your exposure and potential margins there. Thanks."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "Yes. So it's -- the hydrogen economy is very old and it's very new. So Barber-Nichols played in the hydrogen economy very early when a lot of the automotive companies were looking at hydrogen-powered fuel cells. And so -- gosh, 15 years ago, some of the larger automotive companies were starting to look at that and we were providing anode cathode blowers for their R&D types of systems.\nKind of fast forward to today, and hydrogen economy is still a discussion. I think the position that Graham and Barber-Nichols play there is really on the component side and less on the system side. We are -- both companies are talking to various potential customers and customers about what they are doing with the hydrogen, how you make hydrogen, how you distribute hydrogen how you fuel different vehicles with hydrogen. And so, we're involved in all of those discussions. Boy, it's way too premature to talk about exactly what our play will be there as well as what our margins will be, but you can be sure that we are engaged in that and having some very great conversations with customers that we hope to be able to talk a lot about in the future, but right now, too premature."
+    },
+    {
+      "speaker": "William Bremer",
+      "speech": "No. Completely agree, fair. Would you be selling this potentially direct or through distributors?"
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "I would guess it's going to be direct, yeah. I don't see it really getting to the point where it's commercial off the shelf for quite a while. So it would be going direct to the OEMs that are building the larger systems."
+    },
+    {
+      "speaker": "William Bremer",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The next question is from the line of Gary Schwab with Valley Forge Capital Management. Please go ahead with your question."
+    },
+    {
+      "speaker": "Gary Schwab",
+      "speech": "Yeah, hi. In your fourth quarter conference call, one of the priorities was to speed up your backlog conversion by growing your workforce capacity. I think Jim said he wanted to grow up by 20%. He also said that Batavia currently has the infrastructure to handle the workforce expansion. Can you just talk us through that growth plan and its timing? I know that you said that the welder pipeline is picking up."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Gary, this is Jeff. We are looking to -- continually looking to grow. Obviously it's -- as many companies are finding it's challenging to bring on new employees. So what we're doing -- Dan talked about part of it with the welder training that we have in-house. We also have engaged with a third-party to provide additional welder -- really to source additional individuals and provide additional welder training for us. And then -- and some of these folks come in fairly fresh with minimal capabilities on the welding side. But they're being taught what we need them to have those capabilities to ultimately join our organization.\nSo I don't have a great time line on you just because the uncontrollable variable is the number of individuals that are available or they're making themselves available. And certainly, we've seen as many other companies have seen challenges in hiring, but we're trying to bring on, kind of, five or six a quarter if we can possibly do that as we go forward. Do we get there in the next 9 to 12 months we hope so. But I can't guarantee anything because again there is that uncontrollable variable, which is there needs to be the supply. But we're putting out multiple approaches rather than simply saying we're doing our own recruiting and just letting them come to us. We're looking for other avenues and our operations team and our human resources team has done a great job of expanding those areas such as this new program that we just signed up for a couple of weeks ago."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "Yeah. And, I guess, I'd add on to that. From Barber-Nichols' perspective, as we've grown, you can grow too fast. The people that were looking to train and develop have to have very consistent skills, the ability to produce our equipment, our fabrications in a very, very consistent high-quality manner. And so, you can absolutely grow too fast. I don't think that we're quite there with Graham. We're still kind of bottlenecked on the training piece. But absolutely, Alan and his team have done a great job of developing curriculum and being very proactive in priming our pipeline. And I think we're seeing benefits from that. So I can't quantify it real well right now but we're definitely headed in the right direction."
+    },
+    {
+      "speaker": "Gary Schwab",
+      "speech": "Okay. And also when you talk about backlog conversion speeding it up can you just -- you have a tremendous backlog now but do you also have set delivery schedules? In other words, if you speed up your conversion, can you do that? Or do you have to basically base it on your delivery rates, on your delivery schedules?"
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "Both. So yes, we have long-term contracts and then we have delivery dates with those contracts and they're aligned with the shipbuilders so that they get there at the right time. Certainly, there's the ability to speed it up to some level. But if we go too fast, then the shipyards actually can't use them they won't accept them. And so, there's certainly some give and take there. And we've got enough different programs that in some cases they're looking to accelerate our deliveries. In some cases, there might be something that's lower that's bottlenecked their production and potentially they don't need it as fast as we've got it scheduled. So -- but there's enough of those variables, enough of those programs that we actually have some operational ability to kind of speed up here slowdown there if need be."
+    },
+    {
+      "speaker": "Gary Schwab",
+      "speech": "Okay. And then I just have one more. I have a housekeeping question. The acquisition of BNI is now 2.5 months old. But when you go onto the Graham website, you still have your old website up. And if you look at the Graham's corporate profile, it doesn't say anything about defense. If you do a financial search on Yahoo or Wall Street Journal, it says Graham's an industrial machinery company. So anybody who's doing a search for defense companies, Graham doesn't even show up. When will that be updated?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Hi, Gary, this is Jeff. And I appreciate you bringing this up and you and I have talked about this one-on-one. We are working on updating our website both with Graham website and the interaction with the Barber-Nichols website. We recognize that if there's one area we've let slip through the cracks. That's clearly been it. But we are working on improving our website and we should hopefully be seeing some impact to that soon and then over time much greater impact. Barber-Nichols has done a great job over the last year focusing on their website and improving it. And we're looking to do the same for the Graham website and linking the two. So I appreciate your frustration. I have it also but that's on us and we need to get that to work."
+    },
+    {
+      "speaker": "Gary Schwab",
+      "speech": "Can't you at least change the wording on your profile and send out contact information to different financial companies saying that you're now a new company, please change our profile don't put us in industrial machinery anymore?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Yes, we are doing that. We are actually working on that, Gary."
+    },
+    {
+      "speaker": "Gary Schwab",
+      "speech": "Okay, great."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Gary Schwab",
+      "speech": "Thanks Jeff."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time I'll hand the floor back to Dan Thoren for closing remarks."
+    },
+    {
+      "speaker": "Deborah Pawlowski",
+      "speech": "We do have one more -- I'm sorry. But we have one more in the queue, if you'd like to take that call right now."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Sure. My apologies. That's one of Andrew Shapiro with Lawndale Capital."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Great. Hi, thanks for the follow-up. It's actually a follow-up on Gary's comments or questions. In addition to obviously the website and then it sounds like changing the wording and all of that, what are your planned investor outreach or engagement events in terms of -- I know I think you're doing the Seaport Global. You may be doing Midwest Ideas or something. But what are the planned upcoming Investor Relations events and steps that you might take to position the company to be in front of defense sell-side analysts, not just industrial machinery analysts themselves? Because we only have a few sell-side that covers the Company, and I think there may be more people on the sell side around in the defense space."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Andrew, this is Jeff. Thank you for that question. You are correct that the two conferences at the latter part of August, I believe the last Wednesday and Thursday of August, which would be the 25 and 26, we have those. Colliers is having a virtual conference the second week of September. Don't put me on the date but I believe it..."
+    },
+    {
+      "speaker": "Deborah Pawlowski",
+      "speech": "The 9th [Phonetic]."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "The 9th, thank you Debbie. And then Sidoti has a conference in late September that we're attending that's also virtual. There's -- we're also planning on attending the Southwest New Ideas Conference, which is in the middle part of November. That right now is set to be in person in Dallas. And beyond that we are welcome -- we're certainly having calls and video calls with investors. And I would greatly welcome some in-person meetings, if investors are willing to see us in person. Dan and I have met with a couple of investors in person, actually both here in Denver back in June, but we're more than open to going on the road and seeing people in person if they're willing to have us, given some of the COVID concerns -- ongoing COVID concerns. So we're doing all of that.\nWith regard to looking on the defense side, we're looking into that right now. And Debbie Pawlowski and her folks at Kei Advisors are helping us there to look and seeing what other arenas that we can reach out to and not move away from being an industrial company, but refocus toward being more in the defense and aerospace arena. So, we're doing all that. We want to get our message out. And probably the biggest frustration to me is like it's hard to do it in person these days. But gosh darn if we can do it in person we'll be there."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Yes, if you can get into some of the databases and then you'll show up in the relative comp tables that will be a start?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Absolutely."
+    },
+    {
+      "speaker": "Deborah Pawlowski",
+      "speech": "So if I can add in for everyone I'm kind of sake in all of this to. Those will start to switch over as the definitions change in our SEC filings. That's where most of the information systems pick up the changes. And I think you'll see when you see our next 10-Q that we are advancing the discussion regarding being a defense company in those disclosures."
+    },
+    {
+      "speaker": "Andrew Shapiro",
+      "speech": "Great."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Thank you, Andrew."
+    },
+    {
+      "speaker": "Deborah Pawlowski",
+      "speech": "And operator, we will take John please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Sure. The next question is from John Deysher with Pinnacle Capital Management."
+    },
+    {
+      "speaker": "John Deysher",
+      "speech": "Hi, thanks for taking my question. First of all, I'd like to congratulate Jim. It's been a pleasure working with you. I appreciate all the assistance you've provided over the years and helping us better understand Graham. So we wish you well in your retirement."
+    },
+    {
+      "speaker": "James R. Lines",
+      "speech": "Thank you very much, John. I enjoyed working with you and everyone else that was on the call and other investors over the years."
+    },
+    {
+      "speaker": "John Deysher",
+      "speech": "Good luck. And my -- I just had two questions. One, regarding the margins, what was the liquidated damages amount that you highlighted?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Sure, John. I can't disclose that but what I will say is that it did have a -- it certainly wasn't an enormous percentage of the impact but it did have an impact -- a noticeable percentage of the impact on the quarter."
+    },
+    {
+      "speaker": "John Deysher",
+      "speech": "Can you frame it, somewhat for us?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Yes, it's a couple -- a few hundred basis points."
+    },
+    {
+      "speaker": "John Deysher",
+      "speech": "A few hundred basis points impact on gross margin?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Yes. Yes a couple of hundred -- let me clarify a couple of hundred basis points on gross margin and obviously on EBIT or EBITDA margins also."
+    },
+    {
+      "speaker": "John Deysher",
+      "speech": "Good. That's helpful. And I'd like to welcome, Dan. My question to you Dan is, perhaps I would guess you have an employment agreement. And I would be curious hopefully, a large percentage of your comp is incentive-based. And I'd be curious, how that's structured? I presume it might be disclosed in an 8-K or we're certainly going to see it when the proxy comes out. But I'd be curious as to, what's your incentive compensation is tied to, specifically?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "John, this is Jeff. I'm going to jump in for one second and then let Dan jump in. The 8-K on the employment agreement will be filed over the next couple of days. It does not delineate the specifics of Dan's, variable comp. It does talk a little bit about it but it does not very -- delineate the specifics. But I can assure you that his variable component, is a very large percentage of his total compensation. And I'll let Dan, jump in and talk about, what areas he is focused on to meet those goals."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "Yes. The conversation I had with the comp committee really pushed toward a less fixed and more variable. I am a person, that is long-term driven. And I wanted to make the statement that I'm invested in this long term. And so, I think you'll see that my compensation tends to head in that direction. Coming from a private company, I am really driven by planning and building the organization to execute the plan. And so a chunk of my compensation will be tied to my ability to get a strategic plan in place for the Board that meets their expectations. Another piece as a private company leader has been that I don't have experience with Investor Relations, and a lot of this quarterly earnings call and investor conferences and all of that. And so again one of my areas of learning and need, to help Graham going forward is, absolutely in this Investor Relations piece. And so I've got several different things that I'm doing there to get up to speed quickly, so I can be a more effective leader there."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "John, one last piece for me. This is Jeff, again. Across our long-term incentive program while half of it are time vested shares, the other half are performance vested and the performance vested now all going forward not just for Dan, but for all the executives are completely tied to relative total shareholder return. So we think it's important and Dan is very strong on this. He and I have spoken about it a couple of times that we want to align our interests, with the interest of the shareholders. And the long-term incentives are tied that way. The shorter-term incentives are more focused on the next one- or two-year performance but ultimately all of our focus is on total shareholder return. And quite frankly Dan, when Graham bought Barber-Nichols, took a meaningful portion of his proceeds from the sale in Graham stock. And so he is absolutely tied into the return to the shareholders."
+    },
+    {
+      "speaker": "John Deysher",
+      "speech": "Okay. Great. And in terms of those short-term metrics, I mean is it growth driven? Is it EBITDA driven? What are the key metrics there?"
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Historically, and I think if you look at our proxy from last year that'd probably be a good gauge. There typically are three components. There's a component, which is related to in-year financial performance. Last year that was 40%. And this year it's also 40%, of the short-term incentive. Another 40% is related to our bookings. So critically that -- while it has a little bit of an impact on this year. More importantly, it has an impact on next year and the years beyond. And then the last 20% are based on the personal goals and Dan talked to you about a couple of his personal goals going forward."
+    },
+    {
+      "speaker": "John Deysher",
+      "speech": "Great. Okay. Thanks very much."
+    },
+    {
+      "speaker": "Jeffrey F. Glajch",
+      "speech": "Thanks John."
+    },
+    {
+      "speaker": "Daniel J. Thoren",
+      "speech": "Thanks John. Thank you all for your questions and your interest in Graham Corporation. We'll look forward to updating you again, in late October."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 76 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Deborah Pawlowski--Investor Relations",
+    "James R. Lines--Chief Executive Officer",
+    "Jeffrey F. Glajch--Vice President-Finance & Administration, Chief Financial Officer and Corporate Secretary",
+    "Daniel J. Thoren--President & Chief Operating Officer",
+    "Theodore O'Neill--Litchfield Hills Research -- Analyst",
+    "Dick Ryan--Colliers -- Analyst",
+    "Andrew Shapiro--Lawndale Capital -- Analyst",
+    "William Bremer--Vanquish Capital Partners -- Analyst",
+    "Gary Schwab--Valley Forge Capital Management -- Analyst",
+    "John Deysher--Pinnacle Capital Management -- Analyst"
+  ]
+}

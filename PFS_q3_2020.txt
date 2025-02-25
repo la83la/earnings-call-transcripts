@@ -1,0 +1,449 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Provident Financial Services, Inc. third quarter earnings call. [Operator Instructions] [Operator Instructions]\nI would like now to turn the conference over to Leonard Gleason, Investor Relations Officer. Please go ahead."
+    },
+    {
+      "speaker": "Leonard G. Gleason",
+      "speech": "Thank you, Matt. Good morning, ladies and gentlemen. Thank you for joining us for our third quarter earnings call. Today's presenters are Chris Martin, Chairman and CEO; Tony Labozzetta, President and Chief Operating Officer; and Tom Lyons, Senior Executive Vice President and Chief Financial Officer.\nBefore beginning their review of our financial results, we ask that you please take note of our standard caution as to any forward-looking statements that may be made during the course of today's call. Our full disclaimer is contained in this morning's earnings release, which has been posted to the Investor Relations page on our website, provident.bank.\nNow I'm pleased to introduce Chris Martin, who will offer his perspective on our third quarter. Chris?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thank you, Len, and good morning, all. I hope that everyone on this call and their families are healthy and safe. Our third quarter earnings improved as the economy recovered in a measured way, with protocols in place allowing businesses to reopen safely and for consumers to return to a semblance of normalcy. At the end of July, we were able to close on the SB One acquisition, which substantially increased both our balance sheet and earnings potential.\nEarnings per share were $0.37, including merger-related expenses of $2 million recorded during the quarter compared with $0.22 in Q2. Total assets at quarter end rose to $12.9 billion. The impact of COVID declined substantially during the quarter and related loan deferral levels to 3.2% of loans as of October 16, as we have seen a significant reduction in the number of consumers and businesses requesting part persistence. The allowance and the related provision reflects the ongoing impact of the COVID-19 pandemic on economic activity, including the hospitality, retail-related CRE and restaurant sectors.\nIt remains uncertain when and if additional economic stimulus will be provided or when a vaccine will be approved, which may impact the ultimate collectability of certain commercial loans where borrowers have requested multiple deferrals or forbearance. And we have proactively downgraded our most vulnerable loans, and we continuously review credit quality loan by loan. We still do not know if and when losses will materialize, but we believe the first half of 2021 will be telling absent government assistance to trouble businesses and consumers.\nNow Tom will go over the loan payment deferrals in more detail, but suffice it to say, we have performed a deep dive analysis of full borrower requests for relief and are pleased that so many have recovered and resumed normal payments with approximately 2/3 of those remaining in deferral currently paying interest. Our credit quality is performing in line with our expectations at this point. And the key to credit risk management has always been staying consistent with our policies, underwriting discipline and conservative loan structures.\nWe have been and continue to be proactive at identifying potential credit issues and working problem lines to minimize losses. And in the end, we believe we're going to continue to have a strong credit quality performance through this cycle. As a result of our combination with SB One, the loan portfolio increased by $1.77 billion, further augmented by net organic growth for the quarter of $218 million on loan originations of $587 million. The pipeline improved during the quarter and the volume of loan opportunities has increased.\nRegarding the $475 million of PPP loans we held at September 30, like many banks, we anticipated that forgiveness might have started by now. However, we see a lack of urgency from the SBA, and the program is still being politicized by Congress. As a result, PPP loans will remain on our balance sheet longer than expected, which will modestly impact our margin. The yield on PPP loans is approximately 2.75%, and we have about $8 million remaining in related deferred fees.\nDeposits increased $2.46 billion, including $1.76 billion added from the SP One transaction. Included with the SB One deposits were $577 million in CDs, which were adjusted to market rates on acquisition, adding four basis points to our margin this quarter. Core deposits represent 88% of total deposits, and our total cost of deposits was 33 basis points, among the best in our market. Overall, our favorable cost of deposits reflects our strong long-standing client relationships.\nBorrowings increased with $201 million coming from SB One, while the cost of borrowings declined during the quarter. Capital levels remain strong and exceed all regulatory requirements. And with PFS currently trading at 87% of book value, we see the repurchase of our stock as an effective use of capital and a great return for long-term stockholders. The net interest margin held up well this quarter, and our expected earning asset growth will support total net interest income.\nBut the effect of historically low long-term rates will continue to challenge our net interest margin. Funding costs will move marginally lower as borrowings and CDs reprice at maturity, but this may not be sufficient to fully offset declines in asset yields. And while we have negotiated interest rate floors on the sizable portion of our portfolio and the rates on loans in our portfolio have improved, loan yields on new originations remain lower than portfolio yields.\nAdditionally, our loan portfolio is approximately 57% adjustable rate and has repriced downward, putting further pressure on the margin. But our continued disciplined management of deposit pricing has mitigated this impact. With the SB One merger completed, noninterest income increased as SB One Insurance Agency income was incorporated into the P&L, and we are excited about the prospects for this business line, given our substantial customer base.\nFees on retail banking services rebounded during the quarter, and wealth management fees improved with the market rebound from COVID shutdowns. Loan level swap income was also up for the quarter. Reflecting the addition of two months' worth of SB One expenses, the increase was primarily in compensation expense, legal and consulting expenses and severance costs related to the transaction. Operating expenses to average assets and efficiency ratios remain strong, and we look forward to a decrease in expenses upon converting SB One to our data systems in November.\nWith that, I'll ask Tom to give some more detail. Tom?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you, Chris, and good morning, everyone. As Chris noted, our net income was $27.1 million or $0.37 per diluted share compared with $14.3 million or $0.22 per diluted share for the trailing quarter. Earnings for the current quarter reflect the $15.5 million acquisition date provision for credit losses on nonpurchased credit deteriorated loans acquired from SB One, partially offset by the favorable impact of an improved economic forecast. In addition, costs specific to our COVID response fell to $200,000 from $1 million in the trailing quarter.\nThese improvements were partially offset by merger-related costs that increased to $2 million in the current quarter from $683,000 in the trailing quarter. Core pre-tax preprovision earnings, excluding provisions for credit losses on loans and commitments to extend credit, merger-related charges and COVID response costs were $44.4 million. This compares favorably with $35.9 million in the trailing quarter.\nOur net interest margin expanded four basis points versus the trailing quarter as we reduced funding costs and grew noninterest-bearing deposits, while earning asset yields stabilized and we deployed average excess liquidity. To combat margin compression, we continue to reprice deposit accounts downward and emphasize noninterest-bearing deposit growth. Including noninterest-bearing deposits, our total cost of deposits fell to 33 basis points this quarter from 41 basis points in the trailing quarter.\nNoninterest-bearing deposits averaged $2.21 billion or 25% of total average deposits for the quarter, an increase from $1.85 billion in the trailing quarter, reflecting the SB One acquisition and organic growth. Noninterest-bearing deposits totaled $2.38 billion at September 30, and average borrowing levels increased $43 million and the average cost of borrowed funds decreased 12 basis points versus the trailing quarter to 1.19%. This rate reduction was partially offset by subordinated debentures acquired from SB One that had an average balance of $16.4 million at an average cost of 4.99% for the quarter.\nQuarter end loan totals increased $2 billion versus the trailing quarter, reflecting $1.8 billion from the SB One acquisition and organic growth in CRE, construction, multifamily and C&I loans, partially offset by net reductions in consumer and residential mortgage loans. Loan originations, excluding line of credit advances totaled $587 million for the quarter. The pipeline at September 30 increased $71 million from the trailing quarter to $1.4 billion. The pipeline rate increased 12 basis points since last quarter to 3.55% at September 30.\nThe increases in pipeline volume and rate reflect the acquisition of the SB One loan pipeline and are requiring higher spreads and floors. Our provision for credit losses on loans was $6.4 million for the current quarter compared with $10.9 million in the trailing quarter. This reflects a day one provision of $15.5 million for the acquired non-PCD loans partially offset by the impact of improvements in the economic forecast. We had annualized net recoveries as a percentage of average loans of less than one basis point this quarter compared with annualized net recoveries of one basis point for the trailing quarter.\nNonperforming assets increased slightly to 42 basis points of total assets from 37 basis points at June 30. Excluding PPP loans, the allowance represented 1.16% of loans compared with 1.17% in the trailing quarter. The allowance for credit losses on loans included $13.6 million recorded as part of the amortized cost of PCD loans acquired from SB One. Loans that have been or expected to be granted COVID-19-related payment deferrals or modifications declined from their peak of $1.31 billion or 16.8% of loans to $311 million or 3.2% of loans. This $311 million of loans includes $48 million added through the SB One acquisition and consists of $27 million that are still in their initial deferral period, $85 million in the second 90-day deferral period and $199 million that have completed their initial deferral periods, but are expected to require ongoing assistance.\nIncluded in this total are $92 million of loans secured by hotels with a pre-COVID weighted average LTV of 56%; $44 million of loans secured by retail properties with a pre-COVID weighted average LTV of 56%; $31 million of loans secured by restaurants with a pre-COVID weighted average LTV of 49%; $15 million secured by suburban office space with a pre-COVID weighted average LTV of 66%; and $43 million secured by residential mortgages, with the balance comprised of diverse commercial loans.\nNoninterest income increased $6.3 million versus the trailing quarter to $21 million, as swap fee income increased $3.2 million. The addition of SB One Insurance Agency contributed $1.7 million for the quarter. And wealth management income increased $870,000 versus the trailing quarter. In addition, deposit ATM and debit card income increased $750,000 for the quarter with the addition of SB One's customer base and the easing of pandemic-related consumer restrictions, partially offset by a decrease in bank loan life insurance benefits.\nExcluding provisions for credit losses on commitments to extend credit, merger-related charges and COVID-related costs, noninterest expenses were an annualized 1.92% of average assets for the quarter compared with 1.86% in the trailing quarter. These core expenses increased $9.7 million versus the trailing quarter, primarily due to the addition of SB One personnel, operations and facilities. Our effective tax rate increased to 25.5% from 20.6% for the trailing quarter as a result of an improved forecasted taxable income in the current quarter. We are currently projecting an effective tax rate of approximately 24% for the balance of 2020.\nThat concludes our prepared remarks. We'd be happy to respond to questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from Mark Fitzgibbon with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Hey, guys, good morning and belatedly congrats on your SB One deal."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you, appreciate it."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "First, I wondered, of the $199 million of loans that you referenced in the press release that have completed their initial deferral period, what percentage of those would you say are making partial payments?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "2/3, Mark, of the deferred loans are paying at interest."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Okay. Secondly, as you look at the cash balances, Tom, it looks like you have a little over $500 million of liquidity. How long do you think it takes you to kind of whittle that down? Is it -- will you buy securities or do other things with it? Can you give us a sense for the timing of deployment?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Some of the elevated position there, Mark, is related to collateral pledged on out of the money swap positions on the loan level hedge program. But the balance of that, yes, we would like to deploy, obviously, in the highest earning assets we can find preferably loans."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Okay. And then I wonder if you could share with us your thoughts on maybe issuing sub debt to support additional buybacks."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Certainly under consideration. I think just on a normal basis, with cash from operations, we can resume buyback this quarter. We took a little pause last quarter, as we wanted to evaluate the capital position, once the combined entities were in place and get a little better handle on the potential impacts of the COVID event. But I think being back in the market makes a lot of sense, certainly, at these levels below tangible book."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "And Mark, this is Chris. We have about 1.2 million shares remaining in our current repurchase program."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Okay. And then I guess, if you -- Tom, you and Chris had both referenced the fact that the margin is going to be under some pressure. Can you help us sort of think about the magnitude of that? How that plays out maybe over the next couple of quarters?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. I actually don't think it's that bad, Mark. We have a couple of levers left on the funding side. There's probably one to three basis points depending on the quarter of improvements that we see or mitigation of any asset pressure from repricing of time deposits. We have a number of exception priced, non maturity deposits that we're looking to make a move on, on November one as well as the potential to do some other things there as the rate environment evolves.\nSo, we have some levers to mitigate the asset compression. The challenges that we face is we have a largely variable book. It's close to $2 billion worth of floating rate loans that are tied to LIBOR. And as you saw the slide this quarter, our 30-day LIBOR was down around 16 basis points for most of the quarter. So, that's where the pressure is coming from. But I guess the shorter answer to your question is, I think it's probably between one and three basis points on any given quarter. I think we bottomed out around the 2.94 kind of level over the course of next year."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Great. And then, the last question is on expenses, Tom. I know you don't have a full quarter of expenses yet for SB One in the numbers, and you also have some cost reductions going on. When do you think we'll get kind of at a normalized run rate for operating expenses? And where do you kind of see that level?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. We are in the budget process currently. But I think next quarter and probably for this, I think we're in the low 60s per quarter is where we're going to end up in the 62% to 64% kind of range. Hopefully, I'm a little conservative on that."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Steven Duong with RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hey, good morning, guys. Congratulations on the quarter. Just -- your provision is down to almost like a pre-pandemic level, let's say, 29 basis points. So, it's still a little elevated. If we look at your dividend, even with today's solid performance, your payout was north of 60%. Where do you ultimately want the payout to be? And what are the levers you're looking to pull to get there given this lower for longer rate environment?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "This is Chris. I'll start out with -- well, we'd love it to be a lot lower, which we mean we're earning a heck of a lot more, but that would be not in this 0 rate environment. We've always targeted right around between 50% and 55% because that was a good return for our shareholders. We could go ahead and put more loans on the books, which we're looking forward to doing with the combination with SB One. That's a great return for our shareholders. So, I think as we hopefully get to a more normalized environment, we'll be back in that 50% range. Obviously, as the recovery from COVID and CECL, I think that we'll be back down at that level fairly soon, absent another shutdown."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Great. And then just along the lines of payouts with buybacks, you referenced the $1.2 million in capacity. So, that's about $16.8 million with the current price. And I think that's about a quarter's worth of earnings. Subsequent to that, are you looking to add another buyback potentially in the beginning of next year?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Yes. We would have to go through -- if we finish this program, again, we have a quiet period that will come up in the middle of December. We would probably go to the Fed to put together another program, which would be a little more detailed as the Fed has taken more earnest interest on buyback program. So we will be going to the Fed with a program request."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it. And just along those lines, is there a capital level that we should be thinking about to guide us on the buybacks if you continue to trade below tangible book?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. I mean I think we've talked about an 8.5 to 8.75 TCE being a comfortable level."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Great. That's it for me. Thank you, guys."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Peter Kowalsky, a private investor. Please Go ahead."
+    },
+    {
+      "speaker": "Peter Kowalsky",
+      "speech": "First one is welcome Tony aboard, and I wish you much success. I've known Tony back in the old Interchange Financial days working with Tony Abbate. So, welcome aboard, Tony."
+    },
+    {
+      "speaker": "Anthony J. Labozzetta",
+      "speech": "Thanks, Pete. How are you?"
+    },
+    {
+      "speaker": "Peter Kowalsky",
+      "speech": "Good, good. In like 25 years."
+    },
+    {
+      "speaker": "Anthony J. Labozzetta",
+      "speech": "Where do you go?"
+    },
+    {
+      "speaker": "Peter Kowalsky",
+      "speech": "No great here. The question I have is, it's a 2-part question. It kind of pertains to the kind of the out migration we're starting to see out of New York City, hearing about vacancy rates going up, rent concessions being taken place. The first is, are you -- currently, are you seeing any effect from this out migration with maybe real estate appraisals, credit quality, loan demand in the city versus the suburban markets? Are suburban markets getting better? Is the city getting worse?\nAnd then the second part is more a long-term view. Cities tend to have a life cycle of their own, which starts with the rebuild growth, then decline and decay. And these cycles are very long, multiple decades long. And I remember back, I guess it was 1976 when New York City almost defaulted on their bonds. And I would say that was probably the bottom. I remember the condition of New York City at that time, which was not too great.\nAnd I'm wondering if this is maybe potentially the beginning of a multi-decade decline as they go into a down cycle. And the question I have is, has the Credit Committee discussed this potential decline? And if so, how would you want to limit your geographical exposure to these markets and maybe be more conservative in your financial projections when underwriting multifamily and commercial real estate?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Pete, I'll jump on that one first and pass along to my colleagues. First, I'll start off by saying that neither of our banks and on a combined basis, we don't have much exposure in the New York City market, meaning Manhattan Proper. SB One had a little bit more in the story Eastern -- Western Long Island markets. In those areas, we really haven't seen much in the way of change. Vacancies are still strong in those markets, not many clients in deferrals at all. And so that's remaining strong.\nI think the areas outside of New York are preferring a lot better than New York City proper. With regards to our underwriting, I think we have enhanced our diligence a bit. And not doing highly leveraged transactions and looking at great sponsors in terms of doing deals. Again, I would say that New York City is not a market that we've played in. I do believe it will recover at some period of time, that's an opinion, two or three years. However, that's not where we've played."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. I think to a degree, the out migration from the city strengthened some of the markets we do country trade in. Certainly, residential markets are improved. And even suburban office space is, I think, finding a better floor as people look to move the low-rise with greater space and commute by car rather than mass transit."
+    },
+    {
+      "speaker": "Peter Kowalsky",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Anthony J. Labozzetta",
+      "speech": "Thanks a lot."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Russell Gunther with D.A. Davidson. Please go ahead."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Hey, good morning, guys."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Good morning. I wanted to follow up, Chris, on your comments in the prepared remarks about the improved volume of opportunities on the growth side. I heard you on the pipeline being up. If you guys could just spend a minute talking about where you would expect those opportunities to pull-through from a loan mix and any kind of geographic contribution as well?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Sure. I think one of the pleasant things we saw this quarter was our volume, our production numbers were strong. Now you can say some of that was attributable to the pent-up demand that we had in the second quarter. The real crystal ball effect that's a challenge for us is trying to figure out how to continue to build that pipeline. The lending teams as we talk, they're seeing the activity out there, but we all are very cautious on where that pipeline is coming from.\nIt's certainly not material in the multifamily space. I would say industrial space has been strong for us. And that's where we see most of that pulling through. Again, neither one of us were really strong heavily on the multifamily side. So that's where I would see it pull through. But again, cautiously optimistic in what we're seeing, but I think the challenge remains on building the pipeline moving forward."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. A piece of it is as simple as the combined organization, too, Russell. We added eight revenue producers in terms of lending and cash management through the acquisitions. We brought on the SB One pipeline. So, day 1, we picked up opportunity there."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Understood. Okay. Great. Thank you, guys for that. And then just a follow-up, Tom, on the expense guide. I know you guys are still going through the process. But within the 62% to 64%, could you just provide some color on what that assumes from a timing and magnitude perspective from the deal-related cost save?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. I'll go back to the initial assumptions, which was about a $13.5 million plus save of SB One's expense base on an annualized basis. I think we've realized about $3.5 million of that through personnel so far this year. That's again annualized, so you don't see it fully reflected in the financials, but that -- those actions have occurred. A little bit more of that, obviously, come through. We have a core conversion scheduled for November 13. So we're moving along with the integration, and there will be some additional cost saves to come as we reduce some of the duplicative costs around data processing with the balance to follow in 2021, early part of 2021, which I expect as kind of 75."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Awesome. Thank you, Thom. I appreciate it. And then just a little ticky tacky question, but on the margin expectation. Could you just give us a sense for what purchase accounting would contribute in the near term?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. The purchase accounting was four basis points, and it really all happened on the funding side. So, I almost don't even view that as noncore because I'm very confident that we'll be able to replace that funding at market levels with the deposit-generating capabilities that we have, and where market levels are and are expected to remain. So I don't think that goes away. I think that's a long-term benefit we pick up."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Okay, that's very helpful. All right, guys. That's it for me. Thank you so much."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Collyn Gilbert with KBW. Please go ahead."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Thanks, good morning, everyone."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "First, just a housekeeping question. Tom, was there not a double count in the provision because of bringing SB One over for CECL?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "There is. The non-PCD loans get double counted, right? The $15.5 million in provision on the non-PCD is also reflected in the fair value more."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. Okay. All right. Got it. And then just back, Chris, to your -- in your opening comments, you had indicated you guys had downgraded a handful of credits. Just curious what you saw this quarter in your criticized and classified loan trends? And if some of those downgrades were reflected there?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Yes. They're increasing, Collyn. Obviously, I think we're quick to recognize the potential risk there and ensure that the loans get the proper scrutiny. So, with the combination of the two portfolios, as we mentioned, about $11.5 million came through in non accruals through the acquisition. And just as deferrals in general, as they continue to extend their period, we make sure we do risk rate appropriately. So, we have seen a fairly sizable increase in criticized and classified."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. Do you happen to have any numbers around that? Or do we just have to wait for the Q?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Yes. Excluding PCD, it's around 4.30, 4.40, I think. And the PCD portfolio is about $305 million."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. Okay. Got it. And then just thinking about the reserve going forward, Tom, and how -- obviously, the expectation on charge-offs is going to play into that. But just kind of broadly, how you guys are thinking about the reserve?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. For me, the charge-offs don't play in as much. I'm assuming CECL works the way it's supposed to. Those future charge-offs are captured in the current provisioning. Of course, that's easy to say and hard to convince your auditors up later. But I think the 116 ex-PPP levels that were at nail make a lot of sense to us. I don't see a dramatic change unless there's a significant shift in the economic forecast. Do we see a dramatic resurgence in the reimposition of shutdowns?"
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. Okay. So then, I guess, part two of that is then, I know it's hard to get a sense where charge-offs are going to lie. And you ran through the LTVs, which was really helpful. But -- so there's nothing -- I'm putting words in your mouth, but maybe asking the question, is there anything in the book that gives you concern or thoughts that you'll start to see like material upticks in net charge-offs as we move into the fourth quarter and into the first quarter?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "I don't think we see significant loss content, again, partially based on those LTVs and more intimate knowledge of the customers. But even our hotel book, which is probably where I have the most concern, just because of the nature of the business, we're seeing reasonably OK occupancy levels. I mean they range as low as 30 and as high as 80 depending on where they are.\nWe don't have any of the stuff that I think is seeing the most stress in the market that the Manhattan-based tourism business-driven stuff. It's more New Jersey that's performing OK. We've done a process of risk rating our deferral loans, red, yellow, green kind of is what we expect to see move into a -- potentially move into a non performing category, but even within the red of those -- of that group, we don't see a whole lot of lost content."
+    },
+    {
+      "speaker": "Anthony J. Labozzetta",
+      "speech": "Yes. I would echo that, Collyn. This is Tony. We drill down on a loan-by-loan level. And there's nothing -- I mean, obviously, we're in an environment where things are fluid, but the best available information we have today gives us no reason to think that these charge-offs are going to show up from nowhere. Can we expect to see one of the items that we classify red potentially go NPA? Sure, but it's not vivid. So we're not having an expectation that losses will be magnified."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. That's great. Okay. And then, Tom, I think you ran through some of this, sorry. Can you -- would you mind just breaking out again on the PPP side? What the impact was this quarter? And how that splits between you guys in SB One in terms of balances and then also income?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. SB One added about $75 million in PPP loans to our existing roughly $400 million, let's say, that we had recorded. In terms of income, we did not have any forgiveness in the quarter. So it was all coming through regular yield, which is about a 2.75 rate. The remaining unaccreted deferred fee income that's subject to acceleration, if we start seeing forgiveness coming, is about $8 million, a little bit over $8 million."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. Got it. Yes. Okay. Thank you. And then just to tie back on the expenses. So your 62% to 64% outlook is a fair bit higher than what I was projecting, which I just could have been slightly wrong. But just trying to understand and sort of correlate that with your fee outlook, right? Because obviously, SB One coming over, the insurance is a more meaningful component. So just -- I guess kind of perhaps give us an outlook on where you think the fee growth can go? And then is -- in that 62% to 64%, is there some assumption there on costs related to just higher expected fee revenue?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "On the fee-side first, I think $17 million to $20 million is kind of the range I'm expecting. The insurance business for two months that we are a combined entity did bring us $1.7 million. So just because we haven't talked about before, it is a nice business. The profitability metrics are kind of consistent with wealth management. I think you're looking at about a 22% to 24% net margin, roughly 68% to 70% efficiency ratio in that business.\nSo that should give us about $0.025, $0.03 of EPS as a contribution. On the cost side, I hope I haven't factored in. I hope your math is better than mine at this point. I caveat all this that we are still in the budgeting process, so I tried to lean toward the conservative side where I can. But that does reflect expected cost saves as well as cost increases in the normal course as we get to the next year."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. Okay. And then just back on the insurance front. Is -- I think, Tony, the third quarter is seasonally the highest, right, for you guys on insurance?"
+    },
+    {
+      "speaker": "Anthony J. Labozzetta",
+      "speech": "Is what? I'm sorry?"
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Seasonally the highest?"
+    },
+    {
+      "speaker": "Anthony J. Labozzetta",
+      "speech": "No. The first quarter is seasonally the highest. Third quarter, we did OK as well. The second quarter tends to be -- and the fourth quarter tends to be the lowest historically. First quarter is the highest."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay. Got it. I will leave it there. Thanks, everyone."
+    },
+    {
+      "speaker": "Anthony J. Labozzetta",
+      "speech": "I was just going to characterize -- I mean, since you brought up insurance a couple of times, I think the -- that's something looking forward, that's exciting to all of us because now we have a bigger footprint that the insurance group certainly can work with, and we're already seeing some of the dynamic and the prospects looking -- going forward should be really healthy. So, I'm excited about that."
+    },
+    {
+      "speaker": "Collyn Gilbert",
+      "speech": "Okay, great. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Erik Zwick with Boenning and Scattergood. Please go ahead."
+    },
+    {
+      "speaker": "Erik Zwick",
+      "speech": "Good morning, guys."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Good morning, Erik."
+    },
+    {
+      "speaker": "Erik Zwick",
+      "speech": "First question. Just looking at the unfunded loan commitments that went from $1.7 billion at June 30 to about $2.3 billion at the end of the third quarter. Just curious what drove that? And if it was all in the legacy book? Or is some of that attributable to SB One as well?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Certainly a piece attributable to the SB One and the unused lines, the biggest component of that."
+    },
+    {
+      "speaker": "Erik Zwick",
+      "speech": "Got it. And then just with the kind of changes in updates to the New Jersey corporate tax rate. Tom, any expectations for how the 4Q tax rate will shape up and then going into 2021, if you've got that guidance yet at this point?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Best guess right now, obviously, subject to change, is 24% for both of those items."
+    },
+    {
+      "speaker": "Erik Zwick",
+      "speech": "Excellent, thanks. That's all I had today."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thanks, Erik."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Jake Civiello with Janney. Please go ahead."
+    },
+    {
+      "speaker": "Jake Civiello",
+      "speech": "Hey, good morning, guys, how are you doing?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "How are you, Jacob?"
+    },
+    {
+      "speaker": "Jake Civiello",
+      "speech": "Chris, I know you mentioned in some of your earlier comments that the new loan origination yields remain below the current portfolio yields. Can you give us what the new commercial loan origination yields were at the end of the third quarter?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Yes, I'll handle that. 3.25 to 3.5."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "We're in the low three there."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "3.25 to 3.5. Some of the pipeline -- some of the stuff we're seeing in the pipeline is closer to 3.5 range."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. I think the overall pipeline rate is 3.55."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Getting closer, Jake, to that point. And obviously, we're always ratcheting up pricing a little bit, and it's tougher to move the deposit costs down. So our team is putting floors in place. There's a discipline regarding the return on equity on those loans, making sure our pricing models are accurate with this 0 rate environment, which is always difficult. And you have to ratchet those back a little bit differently, as for when you had an upward sloping yield curve.\nAnd again, we've been doing still swaps on things going out 10 years and longer. I know some of the competition is doing things out 10 years, which we don't think that's the right place to play. So as -- the competitive factors are involved in that also. So -- and I know that we see that out in our Pennsylvania market, a little more so than New Jersey is that the smaller players are protecting their book very closely, and the big players are leading with some pretty low rates, and they probably have the balance sheet to go ahead and do that. So we're trying to be very disciplined in how we're going forward with new business."
+    },
+    {
+      "speaker": "Jake Civiello",
+      "speech": "Great. I appreciate those thoughts. Thanks. Just one more question from me. Have you evaluated any alternatives to potentially reduce the cost of some of your borrowings to include the subordinated debt?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "I guess on the sub debt, just the consideration of doing an offering on our own partially to use everything mark-to-market, obviously, at the acquisition date, but when we get to the point where it no longer qualifies for Tier one capital, I think we could take that out and reprice it to market."
+    },
+    {
+      "speaker": "Jake Civiello",
+      "speech": "Have you thought about prepaying any of the borrowings?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "I don't think that there's much there that's still out of the market that would be worthwhile. And as you know, as you look at and Tom has run the numbers a lot. When you look at the economics of that, it never really is a good value for shareholders. What you're doing you have taken the hit now for a little bit better future possibly later. So I think for our -- our borrowing book is pretty well structured that we don't have a lot of high-cost borrowings at the home loan bank to do any prepayment situations."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. And short duration as well. So those things will mature our roll to market in short order. That's part of what I was talking about earlier when I said that there are opportunities both on the CD and the borrowing side, where the price is going to roll down and help to maintain the margin."
+    },
+    {
+      "speaker": "Jake Civiello",
+      "speech": "Understood. Thank you very much."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Chris Martin for any closing remarks."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "We are extremely excited about the prospects for our combined companies, and we have the capital, the market and the team to drive prudent growth and expansion of our relationship banking model. And we hope that the election results and the holiday season bring our country together to tackle the many issues that confront our society. We thank you for your time on the call, and we want you to be well and stay safe. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 40 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Leonard G. Gleason--Senior Vice President And Investor Relations Officer",
+    "Christopher Martin--Chairman And Chief Executive Officer",
+    "Thomas M. Lyons--Senior Executive Vice President And Chief Financial Officer",
+    "Anthony J. Labozzetta--President And Chief Operating Officer",
+    "Mark Fitzgibbon--Piper Sandler -- Analyst",
+    "Steven Duong--RBC Capital Markets -- Analyst",
+    "Peter Kowalsky--A Private Investor -- Analyst",
+    "Russell Gunther--D.A. Davidson -- Analyst",
+    "Collyn Gilbert--KBW -- Analyst",
+    "Erik Zwick--Boenning and Scattergood -- Analyst",
+    "Jake Civiello--Janney -- Analyst"
+  ]
+}

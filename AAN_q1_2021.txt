@@ -1,0 +1,325 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you for standing by and welcome to the Aaron's Company First Quarter 2021 Earnings Conference Call. [Operator Instructions]\nI'd now like to hand the conference over to Michael Dickerson, Vice President of Corporate Communications and Investor Relations for Aaron's. Mr. Dickerson, Please go ahead."
+    },
+    {
+      "speaker": "Michael P. Dickerson",
+      "speech": "Thank you and good morning, everyone. Welcome to the Aaron's Company first quarter 2021 earnings conference call. Joining me this morning are Douglas Lindsay, Aaron's Chief Executive Officer; Steve Olsen, Aaron's President; and Kelly Wall Aaron's Chief Financial Officer. After our prepared remarks, we will open the call for questions.\nMany of you have already seen a copy of our earnings release issued this morning. For those of you that have not, it is available on the Investor Relations section of our website at investor.aarons.com.\nDuring this call, certain statements we make will be forward-looking, including our financial performance outlook for 2021. I want to call your attention to our Safe Harbor provision for forward-looking statements that could be found at the end of our earnings release. The Safe Harbor provision identifies risks that may cause actual results to differ materially from the content of our forward-looking statements. Also, please see our Form 10-K for the year ended December 31, 2020, and other periodic filings with the SEC for a description of the risks related to our business that may cause actual results to differ materially from our forward-looking statements.\nOn today's call, we will be referring to certain non-GAAP financial measures including EBITDA and adjusted EBITDA. Non-GAAP net earnings and non-GAAP EPS, which have been adjusted for certain items which may affect the comparability of our performance with other companies. These non-GAAP measures are detailed in the reconciliation tables included with our earnings release.\nWith that, I will now turn the call over to our CEO Douglas Lindsay."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thanks, Mike and thank you for joining us today. I'm very pleased with the strong start to 2021 and the positive momentum in revenue and margins we delivered in the first quarter, demonstrating the strong operating leverage in our business. Consolidated revenues increased 11.1% year-over-year in our first full quarter as a stand-alone public company. The revenue increase included same-store revenue growth of 14.8% and we reported adjusted EBITDA margin that improved to 15.4% of revenues. This is the first quarter in over a decade that the Company has delivered double-digit same-store revenue growth. Our teams in the field and our store support centers and Woodhaven are performing at a very high level and are energized and engaged.\nAs I visit Aaron's stores around the country to support our operations team, I'm seeing a strong sense of pride and optimism about our brand and our competitive position. Our team members and customers are embracing the innovation that we are delivering and the dynamic lease-to-own market. Over the last five years, we've significantly transformed the company for the goal of continuing to provide an exceptional customer and team member experience while also driving greater efficiencies in our operating model. I'm proud to say that as of today we have a centralized decisioning platform that provides greater control and predictability resulting in a higher quality lease portfolio.\nWe have enhanced digital payment platforms that are enabling over 75% of monthly customer payments to be made outside of our stores. We have an industry-leading, fully transactional e-commerce platform that is attracting a new and younger customer, and we have a portfolio of 51 GenNext stores that is currently outperforming our expectations with many more store openings in the pipeline. All of these initiatives are underpinned by the investments that we have made in enhanced analytics and when combined with our more efficient operations are enabling us to deliver strong revenue and earnings growth. These transformations to our business model are contributing to our outstanding performance in the first quarter of 2021.\nWe are encouraged by the continuing improvement and the quality and size of our same-store lease portfolio, which ended the quarter up 6.2% compared to the end of the first quarter of 2020. This improvement was primarily driven by strong demand for our products, few release merchandise returns, and lower inventory write-offs. In addition, our customer continues to benefit from the ongoing government stimulus, one of the most meaningful contributors to our strong portfolio performance was centralized decisioning, which we implemented across all Company-operated stores in the U.S., in the spring of 2020. Today, nearly 70% of our portfolio is made up of lease agreements that were originated using this technology. Centralized decisioning delivers consistency and predictability in the performance of our lease portfolio. It enables store managers the flexibility to focus their time on growth-oriented activities such as sales and lease servicing. We believe our algorithms provide better outcomes for both the customer and Aaron's with the goal of having a greater number of customers achieve ownership while at the same time reducing our cost to serve. We continue to refine this decisioning across our various channels, and we expect this will continue to drive greater productivity from our lease portfolio.\nAnother contributor to our strong performance in the quarter was our e-commerce channel, which represented more than 14% of lease revenues. Our e-commerce team has really delivered, driving traffic growth to aarons.com by 12.8% and increasing revenues by 42% in the first quarter as compared to the prior-year quarter. E-commerce lease originations increased as compared to the year-ago quarter despite the significant shift of customer activity through our online platform in March of 2020 as stores closed during the early days of the COVID-19 pandemic.\nIn addition, e-commerce write-offs improved by more than 50% compared to last year's quarter, primarily as a result of ongoing decisioning optimization, operational enhancements, and strong customer payment activity. Our e-commerce team continues to deliver ongoing improvements through our online customer acquisition, conversion, and servicing capabilities, which is leading to margin growth and continued positive momentum in this important channel. Our e-commerce growth in the quarter is enabled by our stores, which are not just showrooms and service centers but are also last-mile logistics hubs delivering an expanded assortment of products with same or next day delivery.\nFinally, our Real estate repositioning and reinvestment strategy is gaining momentum and we expect it will drive future growth. Our new GenNext stores have larger and more modern showrooms, expanded product assortment, and improved brand imaging and digital technologies. To date, we have opened 51 new GenNext stores and have generated results that are meeting or exceeding our targeted internal rate of return equally as encouraging, monthly lease originations in the first quarter. Our plan for 2021 is to plan to open in the second and third quarters. While we're excited about both the early financial results and the infrastructure we're building to accelerate our progress, we continue to maintain a disciplined approach around our execution of this strategy.\nBefore I turn the call over to Kelly, let me reiterate how pleased I am with the strong performance of our teams and the results we have delivered in the first quarter of this year. We remain focused on our key strategic initiatives of simplifying and digitizing the customer experience, aligning our store footprint to our customer opportunity and promoting the Aaron's value proposition of low payments high approval rates and best-in-class service.\nI'll now turn the call over to Kelly Wall to discuss our financial results."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Thank you, Douglas. For the first quarter of 2021, revenues were $481.1 million compared to $432.8 million for the first quarter of 2020, an increase of 11.1%. The increase in revenues was primarily due to the improving quality and increased size of our lease portfolio and strong customer payment activity during the quarter, aided in part by government stimulus and partially offset by the net reduction of 166 Company-operated and franchised stores compared to the prior year.\nAs Douglas called out earlier, e-commerce revenues were up 42% compared to the first quarter of the prior year and represented 14.2% of overall lease revenues compared to 11.3% in 2020. On a same-store revenue basis, revenues increased 14.8% in the first quarter compared to the prior-year quarter, the first double-digit, same-store revenue growth since 2009, and our fourth consecutive positive quarter. Same-store revenue growth was primarily driven by a larger same-store lease portfolio and strong customer payment activity, including retail sales and early purchase option exercises. We believe this growth is partially a result of the government stimulus programs passed in 2020 and 2021. Additionally, the company ended the first quarter of 2021 with a lease portfolio size for all company operated stores of $128.8 million, an increase of 3.6% compared to the lease portfolio size as of March 31, 2020. Lease portfolio size represents the next month's total collectible lease payments from our aggregate outstanding customer lease agreements. Please see our Form 10-Q filed this morning for additional detail.\nOperating expenses excluding restructuring expenses, spin-related transaction costs and the impairment of goodwill and other expenses, which were both recorded in the first quarter of 2020 were down $1.5 million as compared to the first quarter of last year. This decrease was primarily due to a reduction in write-offs, store closures and the impact of the COVID-related reserves recorded in 2020, partially offset by higher personnel costs related to variable performance compensation, higher marketing expenses and an increase in bank and credit card related fees.\nAdjusted EBITDA was $73.9 million for the first quarter of 2021 compared with $34.7 million for the same period in 2020, an increase of $39.2 million or 112.9%. As a percentage of total revenues, adjusted EBITDA was 15.4% in the first quarter of 2021 compared with 8% for the same period last year, an improvement of 740 basis points. The improvement in adjusted EBITDA margin was primarily due to the items that drove the total revenues increase and a 310 basis point reduction in overall write-offs to 3.1% of lease revenues, including both improvement in the e-commerce and store origination channels compared to the prior year. The improvement in write-offs was due primarily to the implementation of new decisioning technology, improved operations, the benefit of government stimulus and the impact of COVID-related lease merchandise reserves recorded in the first quarter of 2020 and not repeated in 2021.\nOn a non-GAAP basis, diluted earnings per share were $1.24 in the first quarter of 2021 compared to non-GAAP diluted earnings per share of $0.30 for the same quarter in 2020, an increase of $0.94 or 313.3%. Cash generated from operating activities was $20.2 million for the first quarter of 2021, a decline of $36.6 million compared to the first quarter of 2020, primarily due to higher inventory purchases, partially offset by higher customer payments and other changes in working capital. During the quarter, the company purchased 252,200 shares of Aaron's common stock for a total purchase price of approximately $6.3 million.\nAs of the end of the quarter, we had approximately $143.7 million remaining under the company's share repurchase authorization that was approved by our Board on March 3rd of this year. The Company's Board of Directors also declared our first quarterly cash dividend of $0.10 per share last month and we paid the dividend on April 6. As of March 31, 2021 the company had a cash balance of $61.1 million, less than $500,000 of debt and total available liquidity of $295.5 million. Turning to our outlook, based on our performance in the first quarter of 2021 and the passage of the American Rescue Plan Act in March, we have revised our full-year 2021 outlook. For the full year, we expect consolidated revenues of between $1.725 billion and $1.775 billion representing an increase in our revenue outlook of $75 million.\nWe also expect adjusted EBITDA of between $190 and $205 million, representing an increase in our adjusted EBITDA outlook of $35 million. For the full year 2021, our outlook for the effective tax rate, depreciation and amortization and diluted weighted average share count are unchanged. We have also increased our full-year same-store revenue outlook from a range of 0% to 2% to a range of 4% to 6%. Similar to our original outlook, total revenue and adjusted EBITDA in the first half of 2021 are expected to be higher in the second half of 2021. This outlook assumes no impact from the expansion and acceleration of the child tax credit payments expected to begin in July 2021. Additionally, our updated outlook assumes no significant deterioration in the current retail environment or in the state of the U.S. economy, as compared to its current condition and a continued improvement in global supply chain conditions. With that, I will now turn the call over to the operator who will assist with your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Anthony Chukumba with Loop Capital Markets, your line is open."
+    },
+    {
+      "speaker": "Anthony Chukumba",
+      "speech": "Good morning, thanks for taking my question and wow, I mean just wow, great results. Congrats on that."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Anthony Chukumba",
+      "speech": "I guess I have a couple of questions. First question, you mentioned, Kelly just mentioned on the supply chain, just wanted you to give us an update, I know supply chain was a bit of headwind late last year. I was wondering if what you're seeing in terms of supply chain now [Technical Issues] market maybe that [Technical Issues] drivers. Thanks."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Hey, Anthony. It's Douglas. Thanks for the question. Yeah, I just want to say, I'm really proud of the team. We got a lot of momentum and energy in the business right now and both channels are really performing well. I think in terms of supply chain, we're seeing continued improvement there in our inventory levels, and we definitely have sufficient inventory to run the business right now. I'm going to kick it to Steve Olsen, just to give you a little bit more detail on what's happened in the last quarter and our outlook for supply chain."
+    },
+    {
+      "speaker": "Steve Olsen",
+      "speech": "Yeah, thanks Douglas. Good morning, Anthony. Yeah. As Douglas said, we're seeing continued improvement and that continued throughout Q1 and absolutely supported the high level of demand that we saw across categories. As we look through the balance of the year, we believe we're going to see continued improvement from Q2 to Q3 and it's really now just about fine tuning that inventory across categories and across price points just to get to that exact level we're looking for."
+    },
+    {
+      "speaker": "Anthony Chukumba",
+      "speech": "Got it. And then just one, outlook [Technical Issues] but I am going through my notes and you had said when you provided your guidance [Technical Issues] expecting about a 4% to 5% write-off rate in 2021, given the reduction, the write-off rate and given the improvements that you've talked about with centralized decisioning and [Technical Issues]. I was just wondering if you could -- if that guidance could change at all. Thank you."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Yeah, hey, Anthony, it's Kelly. That guidance still kind of holds for the rest of the year. I mean as a reminder, right, as we go through Q3 and certainly into Q4, absent the impact of the changes to the child tax credits, the stimulus is going to start delaying. And so we will kind of model our business to be in that 4% to 5% write-off range as we're fine tuning the optimization of our lease decisioning and so we expect to continue to see that flow through into the P&L."
+    },
+    {
+      "speaker": "Anthony Chukumba",
+      "speech": "Got it. Thanks again and keep up the good work, guys."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Kyle Joseph with Jefferies. Your line is open."
+    },
+    {
+      "speaker": "Kyle Joseph",
+      "speech": "Hey, good morning guys, congratulations on a really, really strong start to the year. I just want to dig into the impact on -- of stimulus on the quarter and I don't know if you can give us kind of the trajectory of the comp between January, February and March and even into April, just based on when we saw stimulus hit. I just want to get a sense for consumer behavior and buyout activity versus new leases, if you could walk us through that?"
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Sure I'll start. It's Douglas. From what we're seeing with the customer, they are more liquid than we've really ever seen. We recognize it's difficult time where there is higher unemployment right now but our customers are receiving cheques and getting stimulus payments and despite the unemployment challenges, they are making more payments than we've seen in a while, more online payments, more customers achieving ownership and there is really strong demand for our product. And you saw that come through in our comp store sales up 14.8%. I would say as we sort of chunk that same-store sales number, I'd say, about a third of that performance is relative to the larger lease portfolio size and that's in part due to lower churn out of our portfolio because of the liquidity in the marketplace, but also because of our centralized decisioning. So that's a third of that and as I mentioned on the call, our same-store lease portfolio is up about 6% in the quarter, which at the end of the quarter, which is a good number. About another third of our same-store comp in this quarter was related to just strong customer payment activity, renewal rates of our customers and our lease portfolio were much higher, and we saw that really spike when the checks came out in March and so that was super helpful. And then about a third of our performance in our comp stores of 14.8% was related to higher retail sales and higher early payouts that we've seen in previous years. And so that's kind of the way we're looking at it. So how much stimulus contributes to each of those pieces. We definitely know the retail sales in EPO was helped by stimulus. It's hard to disaggregate on the payment side and on the lease portfolio side, the contribution of stimulus relative to all the other things we're doing in the business to streamline payments and decision our customer to have a healthier portfolio. We know those are influencing the business and we're really pleased with where the business is today. In terms of outlook, I mean I'll let Kelly really speak to -- as we look at that -- those comps going forward."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Yes, Kyle. So obviously we posted a very strong first quarter and then we're guiding to between 4% and 6% for the year as we see that play out in Qs 2, and 3, and 4. First, want to remind you that for Q3 -- Q3, and Q4, we're comping over nice increase in the last year, right? 7.3% up in Q3 last year, 3.4% up in Q4. So what you're going to see is Q2 will be strong and in Q3 and Q4 will be less than Q2 as that kind of flows through the course of the year, get a little a comp in over. But again, in total that up 4% to 6% for the year, something we're very excited about."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Yes, and one thing I also want to mention about the health of the portfolio, since we rolled out centralized decisioning, we have more levers than ever to control our performance and really optimizing performance of our portfolio. The churn or the reduction in our product returns and write-offs that we saw this quarter is nothing new. We've been experiencing that since we rolled out centralized decisioning in April last year, and so when you combine sort of our ability to move the levers up and down and control the health of the portfolio with the strong demand we're seeing, we're optimistic about what we've done in the business and our ability to drive portfolio performance in the future."
+    },
+    {
+      "speaker": "Kyle Joseph",
+      "speech": "Got it. Very helpful. One follow-up for me. Obviously, you guys have two quarters now as an independent company, going back to the longer-term kind of five-year plan you guys laid out in November. Given the really strong two quarters out of the gate, can you talk about your confidence in executing on that longer-term plan?"
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Yes, Kyle. It's Kelly. I'd say that we're as confident as we've been at any point since the decision was made to split the two businesses last year. Just the performance across the business, obviously Q1 speaks for itself. But what you're not seeing behind the scenes is us continuing to fine-tune our model, right, and the investments we're making around on the marketing side, the investments we're making around our real estate strategy, the investments we're making in technology, the people that we brought on board. As Douglas mentioned in his prepared remarks, everyone is super excited about where we're at and where we're headed. So yes, I'd say we feel really good about that five-year plan."
+    },
+    {
+      "speaker": "Kyle Joseph",
+      "speech": "Got it. Congrats again on a good quarter and thanks for answering my questions."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Thank you, Kyle."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thanks, Kyle."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Alex Moroccia with Berenberg, your line is open."
+    },
+    {
+      "speaker": "Alex Moroccia",
+      "speech": "Thanks. First one is about your addressable market. In many cases, we've seen consumer balance sheets that are stronger today than pre-pandemic. However, have you seen anything that implies customer credit quality has improved through all the government stimulus?"
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Yes, this is Douglas. Yes, it's tough to say. We've got, we have customers that are graduating. First of all, we believe our market size is roughly the same, we know in recessionary times our market expands, we're in actually very unique times right now because of the stimulus that's in place. What we're seeing with our customers, our customer has more liquidity than they've had in the past. And with that liquidity, they're not necessarily going out and buying more things for cash. They're still using our product offering, which is the lease to get into low monthly payments and they're paying their monthly obligations at a more regular rate. So that's one general thing about the customer. In terms of credit, we are approving more customers. They're are coming in through our portfolio and seeing a higher quality customer in our portfolio and we believe that's happening for two reasons. One, there's just the liquidity out there is making our customer have better credit quality and two, that the -- we have customers coming into our space or falling down into our space from credit tightening up above. So we -- we're seeing definite demand in this space more so than we saw in the past year or two."
+    },
+    {
+      "speaker": "Alex Moroccia",
+      "speech": "Okay, great, and second, the strength in e-com really stood out to me. Given the amount of online competition, can you remind us how your customer acquisition and retention strategies differ between e-commerce and in-store?"
+    },
+    {
+      "speaker": "Steve Olsen",
+      "speech": "Sure. Hey, Alex. This is Steve Olsen. The key difference is on our acquisition strategy. It really starts with our digital marketing efforts. So we are -- continue to invest in direct more of our marketing dollars to these digital marketing efforts and really about targeting the right audience and then engaging them with a relevant content and messaging and then from there it's about giving them a great user experience on our website. We continue to expand our assortment that we offer on our website. We continue to get more visibility to both our inventory, both in our FC, and our stores, and then give them the right functionality to navigate. And that calls the third piece and Douglas has talked about. I'll just mention that e-commerce decisioning engine. It's been the backbone of our e-commerce platform for over five years, and it really helps us to make the right decisions with our customer."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Yes, Alex. The last thing I'd say on that is, we feel like we have a real competitive advantage in the e-com. If you think about our embedded infrastructure stores, our stores are not just retail showrooms. They are service centers, and they are last-mile logistics hub. So as we expand our product assortment and find better ways and more efficient ways to convert the customer online, it's a high margin business and we're attracting a new and younger customer, and in many cases, we're getting more and more products online that we can deliver same day or next day. So, that's super encouraging and I'm really proud of the progress the team has made not just in customer acquisition but in conversion and delivery. And it's an exciting channel for us."
+    },
+    {
+      "speaker": "Alex Moroccia",
+      "speech": "All right, that's helpful. Thank you all."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Thanks, Alex."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Jason Hass with Bank of America, your line -- your line is open."
+    },
+    {
+      "speaker": "Jason Haas",
+      "speech": "Great, thanks for taking my questions. I wanted to dig into the guidance change a little bit. So you had a really strong 1Q, so I'm curious to know how much of that raising guidance was due to heeding expectations you are bidding your plan in 1Q versus whether anything changed with your outlook for 2Q, 3Q, and 4Q."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Yes, great question, Jason. It's Kelly. So certainly, a large part of that raise is the fee that we had in Q1, but that's kind of got to piggyback on some of the things that, Douglas and Steve have been talking about. We continue to see great performance in terms of our customers making payments as well as us driving demand and new agreements. So with the larger portfolio size, the higher customer payment activity and the resulting lower write-off. we felt it was prudent to just kind of take out that outlook, not just for the QNB, but also for the performance that we expect to see through the remainder of the year."
+    },
+    {
+      "speaker": "Jason Haas",
+      "speech": "Got it. That's very helpful, and then as a follow-up, can you give a little bit more longer-term. I'm curious, just given the recent strength, if that causes you to change your plans for reducing the store base if you feel like maybe it made sense to us to keep some of the more stores open just given the strong performance. And then I think there has been some questions that I've received just about any potential to accelerate that pace of closures. So I'm curious if anything has changed with regards to that long-term plan?"
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Hey Jason, nothing's really changed. We continue to assess it, but our strategies are the same. Our objective is to have fewer more profitable stores in the same margins we're serving today. So -- but having a bigger storefront presence that's also a logistics hub, servicing hub but also having a growing e-commerce presence and that's not about sort of shrinking to grow. It's effectively being optimizing our markets and being more efficient in our markets, lowering our cost of service, still servicing those markets. And I mean we're super excited about that strategy and as you see during the quarter. I mean we've opened to date 51 stores and that's a combination of renovations in place, repositioning and these 2 to 1 or 3 to1 merge strategies, which in the case of those mergers, we think we're just creating a more efficient store footprint for the markets we're serving.\nIn terms of moving faster, I do want to call out which I've done in the past. So, we've intentionally shortened lease term over the past few years to be able to pivot our portfolio and we're really are optimally positioned to do that and we're really making great progress there. We have scaled our operations teams and our real estate teams to move faster and we have implementation teams on the ground actually, real time implementing these store roll-outs. However, we're really trying to take a disciplined approach to our site selection, given the long-term commitments of these leases which are, let's call it 5 to 7 years. So, we may do a 100 stores next year, which is approximately 10% of our portfolio, which would effectively be kind of where we are at the end of this year as well. And again, this will be a combination of renovate in place and relocations. But it's, of course, always as with real estate subject to market conditions permitting landlord negotiations and construction timelines which limit us but our efforts will be if this continues to work, which we believe it is and we'll try to accelerate our progress as much as possible in a disciplined way."
+    },
+    {
+      "speaker": "Alex Moroccia",
+      "speech": "Great, that's very helpful color. Thank you."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Tim Vierengel with Northcoast Research. Your line is open."
+    },
+    {
+      "speaker": "Tim Vierengel",
+      "speech": "Thank you. I guess, just one quick maybe higher level question just centered around your sense of decisioning commentary and based off maybe my understanding or our team of here, e-commerce write offs versus in-store typically been much higher historically and I was wondering in a normalized environment outside of all this noise from stimulus if you guys think that e-commerce write-offs can be in line with the expected write offs longer term or e-commerce will continue to be held at more risky than brick and mortar. Thanks."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Yes. I'm really proud of what the team's accomplished with their e-commerce business and optimizing decisioning there, we've made several changes to our decisioning over the past few years. As you may know, our e-com decisioning, centralized decisioning is sort of more established -- we've had it out there for 5 plus years and really seeing the benefits of that. We don't approve as many customers in e-com, but we're getting smarter about our approvals. Our loss rates there have come down considerably they improve year-over-year about 50% and they continue to improve.\nThe delta is now much lower than it used to be between in-store and e-com write-offs and -- but I don't think however that they will ever sort of match each other and there's a couple of reasons on e-com, we have a much higher occurrence of new customers as we go and attract a new customer, a new customer naturally has a higher write-off and on the e-com, it's mainly new product, which if you think about our stores have a mix of pre-leased and new products and pre-lease products are more highly depreciated and have a lower book value and so when you're writing off an asset or a piece of inventory on the e-com, it tends to have a higher book value per skew. So combination of new customers and new product always naturally have higher loss rate but we're really, really pleased with the way we're performing there."
+    },
+    {
+      "speaker": "Tim Vierengel",
+      "speech": "Thank you. That's all from me."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Brad Thomas with KeyBanc. Your line is open."
+    },
+    {
+      "speaker": "Bradley B. Thomas",
+      "speech": "Hi, thanks. Good morning. Let me add congrats as well on a great start to the year here."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thank You."
+    },
+    {
+      "speaker": "Bradley B. Thomas",
+      "speech": "I just wanted to follow up on that last, sure, well deserved. I just want to follow up on that last question about the write-offs, you're obviously doing some really compelling things like around the central decisioning and so I guess as you kind of piece apart this unusual time we're in where customers are behaving in a much more capable in the year to ahead here, where do you target the write-offs?"
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "And I appreciate you kind of calling that out. I mean, I'd be remiss if we didn't also point to just the great performance of our teams in the field. The centralized decisioning one part of it and important part, but the daily activity that goes on across our teams to work with our customers to ensure that they are in a position to make those payments and to collect on those monthly payments is making a big difference as well. So we're running a much more balanced business today than really, you know I've seen, since I have been here for sure, and that's helping.\nAs it relates to kind of the longer-term view here, it's very hard for us to kind of parse through the data and understand exactly how much of this improvement is attributed to the government stimulus, but we do know just in looking at our modeling and going off our expectations coming into the cycle with our centralized decisioning that, that piece of the business is performing well and we would expect that to continue. Just a little bit of insight right as we think about the back half of this year and certainly as we start to put our thoughts around the following year. Our expectations is that the business will continue to perform at levels north of what we saw in -- call it that, 2017-'18-'19 fiscal periods and that kind of underlines our confidence that it's as much what we're doing on our end to drive the business forward as it is the increased flexibility that's been provided by the government. So, hopefully that helps a little bit as what we're thinking about longer term and just a reback, I think we've mentioned before, right, our target is 4% to 5% write offs. That's unchanged as we sit here today. That may change going forward as we continue to give -- improve and get even better, allow managing the portfolio centrally, but right now that's what we're -- worked from the global managing of business."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Yeah, Brad and I can't emphasize when we talk about our portfolio have been up 6% year-over-year. How big an influence the lower returns and lower write-offs are to the size of the portfolio is not just a P&L metric where we look at net book value about of our revenue reduction in our churn, which is a reduction and returns of write-offs increases the value of our lease portfolio, which is a recurring revenue portfolio we benefit that for that in future periods."
+    },
+    {
+      "speaker": "Bradley B. Thomas",
+      "speech": "Absolutely, that's really encouraging to hear. I want to follow up on the new store concept as well, Douglas, you gave some comments on it and it sounds like it has some encouraging results. Could you talk a bit more about how you parse out -- how the your stores are doing versus sort of other factors and you talked about -- I think overall store strategy but can you talk more on that about the potential to accelerate their openings?"
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Sure. Yeah, so I mean I think I mentioned we have 51 stores to date, we've been keenly watching their performance, as you might imagine and we measure them on two factors, one is against the pro forma and we've got pro forma expectations that are in terms of buyback in IRR and as I've said, these stores are exceeding our pro forma, but we also look at them versus a control group and early in the sort of rollout of these stores we're really looking at demand curves and kind of how we are driving new originations in these stores and what we're seeing on the demand side is delivery lift that about 19% greater than our legacy stores in the first 12 months.\nSo that's very encouraging and we're tracking to our pro forma, we're tracking to our targets for capital deployed in our payback periods and so we're really encouraged by that. We'll continue to monitor it as we open more stores, the way we think about these things in the future is it's not a one size fits all, we have a suburban strategy, we have our rural strategy, we have concepts of work in each of those markets. Some of our stores will be larger stores with static showrooms and about I'd say 60% of those that we've built to date are like that. And about 40% will be in smaller markets, we have smaller showrooms we'll still introduce the technology and the footprint in the modern brand image that we wanted to display in those stores. So, we're super excited about that. We've invested heavily in analytics to drive our strategy. We've built a real estate analytics team that -- where we believe we know where our customer is and how to position those stores in markets. We believe we can serve our 700 markets with fewer stores as we've said before and do that efficiently while freeing up working capital and driving earnings growth and free cash flow. So we're very bullish on that initiative and so far, everything's working according to plan."
+    },
+    {
+      "speaker": "Bradley B. Thomas",
+      "speech": "That's, very helpful. Thank you so much."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Thanks Brad."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Bobby Griffin with Raymond James, your line is open."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Thank you and good morning everybody. Congrats on a good quarter. Appreciate you taking my questions."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thanks Bobby"
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "The first thing I want to dive into is more just kind of the changing business model here E-commerce continues to mix up very impressive results. As you're seeing that happen, are you able to find and notice incremental labor savings opportunities in the store infrastructure given that bigger and bigger portions of your business is coming from online."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Hey Bobby, it's Douglas. I would say generally, yes. But I wouldn't point directly to e-com. E-com's increasing volumes in our store, which is great. Our average customer per stores continues to grow and so we need labor to serve those customers, as you know, e-com has an acquisition channel and what enables our e-com platform is our built-in infrastructure stores and so to the extent we're driving greater volumes we may need more servicing. That being said, however, we're getting leverage on that labor and the technology that we're putting in place is freeing up our people to do more value-added things in the stores, such as selling and are renewing leases. We have definitely seen lower staffing levels this quarter coming out of the pandemic than we have in the past and I attribute that not only to sort of efficiencies in e-com but efficiencies in our payment platforms and efficiencies in our centralized decisioning. Centralized decisioning alone, we took a transaction that used to take 30 to 45 minutes and turned it into a transaction that takes 8 to 10 minutes to do and so we're freeing up capacity for our people to do other things, which is great and not needing as much labor in the stores. That being said, the business continues to grow and so we will prudently scale labor as it grows over time."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Okay, that's very helpful. And I guess secondly, for me, when you look at great 1Q big EBITDA at be maybe $30 million versus street, increase in the guide as well I think by $35 million. So most of the guidance came from the 1Q numbers lease versus our street model, which could have been off versus how you guys looked at it, but is that just a sign that you think most of the stimulus impact will be contained in 1Q so the favorable impact from the $1400 cheques and things like that will be a mostly 1Q '21 benefit or is there just some conservatism built in there too, because we don't exactly know how the stimulus will play out in the second quarter, anything around how you guys framed up stimulus carrying forward inside that guidance range would be helpful."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Yeah, hey Bobby it's Kelly, a little bit of color there. So I think you hit on a key point that $30 million references versus consensus. That's not -- that would be versus our internal plan. So, as you know, we provide an annual guide. We don't provide quarterly numbers, what I'll tell you is that from in terms of stimulus impact on our customer and then how that impacts us as a company, we believe that the upfront check that they received December and then also working all our we've cheques received recently. That's kind of largely in Q1 and it shows up some degree, varies beginning in Q2. There is a continued benefit associated with enhanced unemployment that's been provided. Obviously unemployment rates are coming down, which is good for us but those customers of ours that rely on the unemployment cheques. We expect them to continue to see elevated levels through August when those cheques run out at least on the government side, or the federal government side of the ledger. So long story short, Q2, Q3 continue to benefit at some level from this enhanced stimulus that we've been seeing. Again, we called it out in our prepared remarks. But what we haven't factored in yet is any impact from the change in the child tax credits, right. But then we do know based upon what the government has said and with the IRS has said is that our customer will start receiving some form of refund in July. What we don't know yet is exactly how that's going to be used here, it could in effect the second tax season. Right. In the course of fiscal year or something our industry has never seen before. So, if you want to think about an area where we're being conservative maybe that it, but I guess we just don't know yet enough to be able to factor that in with any specificity that inform our guidance to you all."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Bobby, the only thing I would add to that is when large cheques come out like the $1400 cheques there tends to be different behavior in terms of payouts and other things and then the smaller cheques over time and so we'll wait to see what that looks like a later of part of these are."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Okay, I appreciate that. That's very helpful. I guess 2 quick follow-ups. I mean, one on the COVID-related reserve that were booked in 2020. Kelly, do you guys already release those or will you release those back to more normal levels at some point?"
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "They're the ones that are specific to write-off of lease merchandise. We've not released them completely, right, I think just as the way our reserve calculations work as we continue to see very strong customer payment activity, and as a result, low write-off activity, that percentage is naturally kind of coming down in terms of the percentage of the portfolio that we're going to get. So it's to be seen how that's going to play out through the course of this year and certainly into next year. And we do expect at some point it will return back to some more normal level of activity by our customer. But to answer your question specifically, we haven't released any material portion of that of the items, just a small piece."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Okay. Okay, that's helpful. And I guess the last thing for me was the utility on the balance sheet. Just how do you -- you guys great cash balance, no debt basically I mean when you think about using funds for buyback and different things like are you managing for a target liquidity or how are you considering like -- do you want to keep $300 million of liquidity dry powder or anything like that to help us think about how you frame up looking at the balance sheet for buyback in different activities?"
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Yeah, great question. As we think about our balance sheet right now and specifically the liquidity, the one thing we want to make sure of is that we have as the supply chain continues to normalize, right, which we is going to use cash in the short term, as that happens right. As we continue our real estate repositioning strategy as well as the investments we're making on the technology side, we want to make sure we have adequate capital to fund those strategies, which at $300 million of liquidity, we believe we do and then Douglas mentioned wanting to accelerate as best we can, the execution of those strategies, we kind of run scenarios to say we're able to do that without taking risk of site selection and things like that. We want to make sure we are capital to fund the business. Outside of that, it's just continuing to be opportunistic as to where we see the share price and then just time, right. If you look at Q1, our Board approved the $150 million share repurchase authorization at the beginning of March. So, we had about 3 weeks in the quarter to execute on that plan and so if you start to think about what that might look like over the course of the year. I hope that informs some of the thinking there but we're not targeting anything specifically to inform at. We are kind of taking it on a quarter-by-quarter basis, again with a view toward how we see that liquidity is going to be needed in the upcoming quarters."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Absolutely, that's very helpful. I appreciate all the details and best of luck here and for 2Q and the rest of the year."
+    },
+    {
+      "speaker": "C. Kelly Wall",
+      "speech": "Great, thanks, Bobby."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thanks Bobby."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no further questions at this time, I would now like to turn the call back over to CEO Douglas Lindsay for parting remarks."
+    },
+    {
+      "speaker": "Douglas A. Lindsay",
+      "speech": "Thank you. Thank you all for joining us today. Really appreciate it. Really appreciate your interest in Aaron's and as you can tell, we're very excited about the momentum and the strategy for future growth in our business. Want to thank you for your support and we look forward to talking to you again next quarter. Have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 49 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Michael P. Dickerson--Vice President, Corporate Communications and Investor Relations",
+    "Douglas A. Lindsay--Chief Executive Officer",
+    "C. Kelly Wall--Chief Financial Officer",
+    "Steve Olsen--President",
+    "Anthony Chukumba--Loop Capital Markets LLC -- Analyst",
+    "Kyle Joseph--Jeferries LLC -- Analyst",
+    "Alex Moroccia--Berenberg Capital Markets -- Analyst",
+    "Jason Haas--Bank of America Merrill Lynch -- Analyst",
+    "Tim Vierengel--Northcoast Research -- Analyst",
+    "Bradley B. Thomas--KeyBanc Capital Markets, Inc. -- Analyst",
+    "Bobby Griffin--Raymond James -- Analyst"
+  ]
+}

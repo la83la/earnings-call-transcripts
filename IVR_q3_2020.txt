@@ -1,0 +1,174 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to Invesco's Mortgage Capital Inc.'s Third Quarter 2020 Investor Conference Call. [Operator Instructions]\nNow, I would like to turn the call over to Jack Bateman in Investor Relations. Mr. Bateman, you may begin the call. Thank you."
+    },
+    {
+      "speaker": "Jack Bateman",
+      "speech": "Thank you, and welcome to the Invesco Mortgage Capital third quarter 2020 earnings call. The management team and I are delighted you've joined us, and we look forward to sharing with you our prepared remarks and conducting a question-and-answer session.\nBefore turning the call over to our CEO, John Anzalone, I wanted to provide a reminder that statements made in this conference call and the related presentation may include forward-looking statements, which reflect management's expectations about future events and our overall plans and performance. These forward-looking statements are made as of today and are not guarantees. They involve risks, uncertainties and assumptions and there can be no assurance that actual results will not differ materially from our expectations.\nFor a discussion of these risks and uncertainties, please see the risks described in our most recent Annual Report on Form 10-K and subsequent filings with the SEC. Invesco makes no obligation to update any forward-looking statement.\nWe may also discuss non-GAAP financial measures during today's call, reconciliations of these non-GAAP financial measures may be found at the end of our earnings presentation. To view the slide presentation today, you may access our website at invescomortgagecapital.com and click on the Q3 2020 Earnings Presentation link under Investor Relations.\nAgain, welcome and thank you for joining us today. I'll now turn the call over to John Anzalone."
+    },
+    {
+      "speaker": "John Anzalone",
+      "speech": "Good morning and welcome to Invesco Mortgage Capital's third quarter earnings call. I'll give some brief comments before turning the call over to our Chief Investment Officer, Brian Norris to discuss the current portfolio in more detail.\nAfter a tumultuous start to the year brought on by the impact of the COVID-19 pandemic, the financial markets continue to recover during the third quarter. At IVR, we have made tremendous progress in implementing our Agency MBS focused strategy and opportunistically reducing our exposure to credit assets.\nFor the quarter core earnings came in at $0.06 share, exceeding our recently increased dividend of $0.05. Book value is $3.47 at quarter end, which represents an increase of about 9.5% for the quarter. The combination of the increased dividend and our book value appreciation produced an economic return of 11% for the quarter. The improvement in book value has continued since quarter-end, as we estimate that book value is up approximately 6% since quarter-end through last Friday.\nResults of our activity can be seen on Slide 3 of our presentation. During the quarter, we purchased $5.6 billion in specified pool agencies and invested an additional $900 million in Agency TBAs. This brought our allocation to agency mortgages up to 93% of assets and 60% of equity. We also reduced our credit exposure significantly selling $1.1 billion of credit assets, while repaying the remaining balance of our secured loans that were collateralized by credit. This leaves us with a notably smaller credit portfolio that is completely unencumbered.\nAs you look out over the next several quarters, our outlook is quite constructive. We have continued to make progress in reallocating the portfolio during October, as additional credit sales combined with agency investments will continue to improve our earnings power. We remain positive on agency mortgages, as we expect demand from the Federal Reserve and commercial banks to remain strong. While the economic outlook remains uncertain, we expect to Fed to remain supportive by continuing large-scale asset purchases and by keeping short-term interest rates low for the foreseeable future.\nPost-election, we expect interest rate volatility to remain subdued, which is also supportive of agency mortgage assets. Increased levels of prepayments remain a potential headwind, but our focus on purchasing specified pool collateral helps to mitigate that risk.\nI'll stop here, and let Brian go through the portfolio."
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "Thanks John, and good morning, and thank you to everyone listening to the call.\nI'll begin on Slide 4, which summarizes our Agency RMBS assets and trading activity during the third quarter. Consistent with the strategic transition we've communicated since June, we purchased $5.6 billion of Agency RMBS specified pools during the quarter. Strong demand for our credit assets provided opportunities for dispositions at attractive prices, freeing up capital for allocation to the agency-focused strategy.\nAs detailed on the chart on the top left, we were able to source attractively priced new issue collateral stories, including loan balance, low FICO, high LTV and geo pools, which consists exclusively of borrowers in slower paying states such as New York, Florida and Texas. We also focus a significant portion of our purchases on new production pools originated and serviced exclusively by banks in order to mitigate our exposure to pay-up premiums, while benefiting from improved prepayment protection relative to non-bank originators and servicers. While pay-ups on our specified pool holdings range from less than a 0.25 point up to 4 points, the weighted average pay-up on our portfolio was approximately 1.25 points, representing approximately $70 million of market value at quarter end. We believe low mortgage rates and historically fast prepayment speeds should continue to keep pay-up premiums near current levels, as strong demand for prepayment protection support valuations.\nAll purchases in the quarter consisted of 30-year collateral with coupons ranging from 1.5% to 3%, with the majority in 2s and 2.5s, as indicated in the chart on the bottom left. Given our expectation for continued pressure on prepayment speeds at mortgage rates fell to all time lows, we focused our purchases on lower coupon pools, which typically experienced experienced slower prepayments due to lower mortgage rates on the underlying loans and benefit from lower purchase prices which reduces the negative impact of prepayments. In addition, these coupons have been targeted by the Federal Reserve as a part of their bond purchase program, the valuations also benefit from positive supply and demand technicals.\nOur specified pools paid only 1.8% CPR during the quarter, reflective of the focus in newly issued lower coupon pools, given mortgage loans tend to pay slowly in the months immediately after after closing, before prepayments typically begin to ramp higher around month six. This dynamic benefited the performance of our Agency RMBS pools during the quarter as the weighted average yield was an impressive 1.91%.\nThe prepayment protection in our specified pools and active management should lessen the impact of faster prepayment speeds due to further seasoning of our holdings in the months ahead. In addition, we added $900 million notional in agency TBA contracts, given the attractive implied financing rates and hedged carry available in the forward market for Agency RMBS, due to the significant demand from the Federal Reserve and commercial banks for lower coupon pools. Given the current attractiveness of certain TBA contracts due to this favorable technical environment, we expect our investments in Agency TBA to grow commensurate with the growth in our overall assets, as we continue to implement our agency-focused strategy.\nTurning to Slide 5, and as John mentioned, we made significant progress in reducing our credit exposure during the quarter. Demand for our credit assets was robust, and the notable improvement in valuation drove the majority of our gain in book value. In particular, higher quality CMBS was the beneficiary of the June launch of the TALF program, as spreads tightened dramatically in the AAA and AA rated assets we financed at the Federal Home Loan Bank through our captive insurance subsidiary.\nSubstantial credit dispositions at attractive valuations allowed us to pay off our secured loan at the FHLB in August, and redeploy capital into Agency RMBS investments, which further improved the earnings power of the portfolio, allowing us to increase our third quarter dividend to $0.05.\nSlide 5 details the seasoning and senior capital structure positioning of our remaining credit investments as of September 30. As shown in the chart on the left, our credit assets consist of predominantly seasoned investments with over 80% of our holdings issued prior to 2015. In addition to the benefits of seasoning, given the improvement in property valuations over the past five years, our CMBS credit holdings also benefit from substantial credit enhancement, as detailed in the chart on the right, with over 82% of our holdings maintaining at least 10% of credit support. In addition 69% of our remaining credit investments are rated A or higher.\nWe've been encouraged by the renewed investment demand for CMBS, which has led to spread tightening and contributed to book value appreciation. The pace of spread tightening slowed over recent weeks however, as increasing concerns related to the COVID-19 pandemic combined with heavy focus on the U.S. election dampened investor demand. We believe yesterday's positive announcements regarding the timing and efficacy of the vaccine should prove beneficial for our credit holdings, as the global economy continues to navigate the pandemic.\nRegardless of near-term headlines, we believe our bonds are well positioned for long-term incremental spread tightening given the notable subordination detailed on Slide 5 and favorable supply and demand dynamics.\nSlide 6 details the growth of our funding and hedge book during the third quarter as shown in the chart on the upper left. After paying off our secured loans at the FHLB in August, all of our remaining credit holdings were held on an unlevered basis, eliminating the mark-to-market funding risk on that portion of our book. Repurchase agreements collateralized by Agency RMBS grew to $5.2 billion as of September 30 and hedges associated with those borrowings also grew during the quarter to $4.6 billion notional of fixed-to-floating interest rate swaps.\nInterest rates on our borrowings drifted lower during the quarter and that settled in near 0.2%, and we took advantage of historically low interest rates further out the yield curve to lock-in low funding cost to be a longer maturity interest rate swaps, given the potential for a steepening yield curve as the Federal Reserve keeps short-term rates anchored for the foreseeable future.\nOur economic leverage, when including TBA exposure increased to 5.1 times debt-to-equity as of September 30, indicating significant progress toward the transition to the agency-focused strategy.\nGiven notable changes in the portfolio since quarter-end, Slide 7 summarizes the progress we made in continuing to transition the portfolio through the end of October. Demand for our credit assets continued during the month, as we were successful in disposing of $112 million of credit exposure at attractive valuations. These sales provided further opportunities to continue the ramp in Agency RMBS, as we purchased $1 billion of specified pools and an additional $300 million notional in Agency TBA contracts, bringing our total to $6.5 billion of pools and $1.2 billion of TBA.\nOur borrowings and hedging grew commensurate with these purchases, with repurchase agreements of $6.2 billion hedged with $5.2 billion notional of interest rate swaps at month end.\nAs noted on Slide 7, our liquidity position remains substantial, with $351 million of unlevered credit investments in addition to $340 million of unrestricted cash, combining to represent approximately 8.5% of our investment portfolio.\nTo conclude our prepared remarks, we've been very pleased with the transition of the portfolio and our ability to restore meaningful dividends for our investors, and believe we are well positioned to continue to benefit from the current market environment. The Agency RMBS market continues to be well supported by the Federal Reserve purchase program as well as significant commercial bank demand. And our credit assets continue to recover from the impact of the COVID-19 pandemic and March's liquidity crisis. While the prepayment environment in Agency RMBS remains challenging, we believe our careful selection of prepayment protection and active management will mitigate the negative impact of what has become a highly efficient process for mortgage loan refinancings.\nLastly, monetary policy remains very supportive. We expect that to continue well into 2021 as the Federal Reserve communicates a desire to maintain an accommodative stance over the medium term.\nThank you for your continued support for Invesco Mortgage Capital. And now, we will open the line for Q&A."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Our first question will come from Doug Harter with Credit Suisse. Your line is now open."
+    },
+    {
+      "speaker": "Douglas Harter",
+      "speech": "Thanks. Hoping you could just give a little more color behind the fourth quarter book value move, kind of how you would see that between credit and agency? And then just also directionally, obviously some big moves yesterday, kind of, if that was kind of a further positive to book value?"
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "Yeah, hey, Doug, this is Brian. I can start with that one. And I think for the month of October and here in the first nine days of November, agencies -- particularly lower coupon agency mortgages have performed pretty well. So we do think that a good portion of the increase that John mentioned, the up 6% through Friday is related to mortgages, agency mortgages. But our credit investments continued to trade pretty well and hang in there. So I think, there could be a small bit of tightening in those as well. Since that -- as we reduce that credit portfolio, it becomes less of an impact on the portfolio, obviously. And yesterday mortgages actually held in really well, so we don't have a number for that quite yet, but we believe that, given that mortgages performed pretty well until yesterday's back up, and they're performing pretty well this morning as well. So we don't think that that number would change dramatically."
+    },
+    {
+      "speaker": "Kevin M. Collins",
+      "speech": "Yeah, this is Kevin, and for additional context, as you pointed out, the positive news of a vaccine has certainly reenergized interest in our sector. So we saw some positive price action in CMBS and that cash bonds to be clear, a little too early to forecast the magnitude in cash bonds since the news is so fresh. But just early indications is, in case if we're seeing, I'd call AA CMBS 5 to 15 tighter, As, maybe 20 to 30 tighter and BBBs somewhere around 40 basis points to 75 basis points tighter, but again that's all based on very limited data, since the news, really just hit."
+    },
+    {
+      "speaker": "Douglas Harter",
+      "speech": "And then I guess just, if those were to be -- if those were to translate to cash prices, how might that influence your timing for the disposition of the remainder of the credit portfolio and rotation into agency?"
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "Yeah, this is Brian again, I'll cover that. Kevin, feel free to chime in then. Our portfolio of credit assets now is just a little over $300 million through the end of October. So our goal is to continue to to reduce that. We don't have any liquidity reasons to do that immediately. So we're going to take a measured pace and see where things shake out. Like Kevin said, it's been but little too early to really translate these recent moves into into price performance for CMBS assets, but our goal over the next few months is to continue to reduce those assets at the pace that we've seen over the last month or so."
+    },
+    {
+      "speaker": "Douglas Harter",
+      "speech": "All right. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Trevor Cranston with JMP Securities. Your line is now open."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Thanks. You just mentioned briefly in the prepared remarks that the yield on new pools you bought was benefiting from very, very low CPRs as they're still pretty early in the seasoning ramp. Can you say for where you would expect the yield to shake out once those are sort of fully ramped and over six months old, relative to the 1.91% yields you show on Slide 4. Thanks."
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "Sure, Trevor. This is Brian. Good morning. Yeah we -- the portfolio paid 5% CPR last month. So we have started to see that ramp up. The yield of maturities on the bonds that we're buying had been in the 1.5% range. So we would expect that 1.9% to come down. But again that's assuming, obviously, a static portfolio and at the rate levels that we purchased on that. So things, obviously, will be changing as we move forward here. But I would call it around 1.5% currently on new purchase for yield of maturity."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Okay, got it. And then thinking about the earnings impact of the portfolio rotation and the agency purchases in 3Q, looking at Slide 6, it looks like there is a decent increase in repo in September, does that does that imply that a significant amount of the Agency MBS purchases in 3Q occurred in September? Or is there a timing difference between when the assets were bought and when the repo's settle?"
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "So, Slide 6 on the financing and hedging, I'm sorry, you said that the repo..."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Yeah, the increase in the repo balances from August to September. I was wondering if that also implied that a lot of the agency purchases occurred in September."
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "Sure. Yeah, so I believe last quarter we had updated through July, and we had made a decent amount of progress through the end of July of a couple of billion. So the other, you're at $5.5 billion, so the other $3.5 billion were purchased in August and September. I believe that a decent amount of that was in September, as August was a little bit more quiet, but we've been pretty consistent. The timing of our agency purchases tends to correlate with the timing of our credit asset sales, so as we find opportunities to sell those assets, that's when we redeploy those proceeds into agencies."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Got it. Okay, that helps. And then last question, last quarter we talked a little bit about you guys exploring ways to optimize the capital structure. Can you give any update on that? And if you continue to evaluate things like preferred share exchanges or preferred buybacks? And how you're thinking about that currently? Thanks."
+    },
+    {
+      "speaker": "John Anzalone",
+      "speech": "Yeah, this is John. Yeah, we're continuing to evaluate that. I think our goal was to first reallocate the portfolio and get a more normalized earnings stream, and to have -- a little bit more clarity for investors in terms of where our dividends are going to be. And so I think we grew well in the path there. So we continue to evaluate either exchanges, more likely or buybacks, and I think as we've seen book value improvement, obviously as book value improves and hopefully commensurate with that will be an improvement in the price to book that gives us a lot more flexibility. On the capital side, the better we are trading the more flexibility. So, we continue to evaluate that and that's going to be a focus in the next couple of quarters."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Okay. Appreciate the comments. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question will come from Jason Stewart from JonesTrading. Your line is now open."
+    },
+    {
+      "speaker": "Jason M. Stewart",
+      "speech": "Thanks, good morning. Can you give us an update on the way you allocate between spec pools and TBA, and if there is a limitation on the whole pool requirements still, that keeping you from allocating more toward TBA?"
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "Hey, good morning, Jason. It's Brian. We're well past the requirement for whole pools. We've -- vast majority of our purchases since the beginning of July have been whole pools So the 55% test is well beyond that. So the limitation on TBA is not related to that. It's more, we expect it to kind of be in this 15% to 20% range of total assets. And it's more because of the attractiveness of TBA tends to be a little bit more transitory. So we don't want to depend too much on drop income to drive our earnings for any particular quarter."
+    },
+    {
+      "speaker": "Jason M. Stewart",
+      "speech": "Okay. That makes sense. And then you have one commercial loan, I think is fair valued at about $22 million. Could you give us the par amount? I think it matures in early 2021, maybe February and what your plans are as far as discussions with there with regard to that one?"
+    },
+    {
+      "speaker": "Kevin M. Collins",
+      "speech": "Yeah, this is Kevin. I don't have the detailed financials with the exact amounts in front of me now, but it's around $20 million and should be in our financials."
+    },
+    {
+      "speaker": "Jason M. Stewart",
+      "speech": "Okay. And I'm guessing that extensions are on the table as that comes up. I don't know if you could give any details on the particulars of the loan would be helpful."
+    },
+    {
+      "speaker": "Kevin M. Collins",
+      "speech": "Yes, so that particular loan is in a commercial real estate mezzanine loan that has been extended to a hotel property. At this point, interest, payments on the loan are current and obviously given the backdrop with COVID-19, it's an asset that we're monitoring closely, but feel really good about the sponsorship and the long-term viability of the asset."
+    },
+    {
+      "speaker": "Jason M. Stewart",
+      "speech": "Okay. That's incredibly helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And I'm currently showing that our next question will be from Derek Hewett with Bank of America. Your line is now open."
+    },
+    {
+      "speaker": "Derek Hewett",
+      "speech": "Good morning, everyone. Does yesterday's vaccine announcement impact the pace of credit asset sales and then redeploying that capital into the agency-focused strategy at this point?"
+    },
+    {
+      "speaker": "Brian P. Norris",
+      "speech": "Hey, good morning. This is Brian. We think that as Kevin mentioned, we did see CMBS tightened quite a bit yesterday. We haven't seen a lot of color yet on cash bonds and where they're trading. I think that -- certainly news of the vaccine is positive and we do expect spread tightening to occur off of that positive news, but our pace of selling will likely continue at its current level or at least near where we sold in October over the near term. It kind of just depends on what we're seeing in the market as available transaction models. Kevin, if you have any other thoughts on that?"
+    },
+    {
+      "speaker": "Kevin M. Collins",
+      "speech": "No, I mean I think the only thing that I would add is that, it certainly creates a more favorable backdrop and opens the options that we have. So at this point, we will kind of take a look and do some additional price discovery and ultimately decide if we think, there is additional room for improvement or if there is opportunities to make dispositions, we'll certainly look to do that as well. But, yeah really encouraged by that news. And I think regardless of near-term headlines, we believe our bonds are well positioned for long-term incremental spread tightening, just given notable subordination and limited bond supply and increased investor demand, not just because of this news, but because we have seen a lot of investors that are looking to put capital to work. And this is a sector that, by and large has lagged the corporate bond market price appreciation, and you have a backdrop where new issuance has slowed, as loan originations have declined notably. And although it may not be directly benefiting bonds that we own, the continuation of the Federal Reserve's Term Asset-Backed Securities Loan Facility that is in the place and provides non mark-to-market term financing to the most senior bonds in the capital structure, we think is a positive and helps create stability in the market and really benefits the entire capital structure."
+    },
+    {
+      "speaker": "Derek Hewett",
+      "speech": "That's it for me. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And that was our last question for today's conference."
+    },
+    {
+      "speaker": "John Anzalone",
+      "speech": "Okay. Well, I'd like to thank everyone for joining us, and we look forward to meeting again next quarter. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 30 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Jack Bateman--Investor Relations",
+    "John Anzalone--Chief Executive Officer",
+    "Brian P. Norris--Chief Investment Officer",
+    "Kevin M. Collins--President",
+    "Douglas Harter--Credit Suisse Securities -- Analyst",
+    "Trevor Cranston--JMP Securities -- Analyst",
+    "Jason M. Stewart--JonesTrading -- Analyst",
+    "Derek Hewett--Bank of America -- Analyst"
+  ]
+}

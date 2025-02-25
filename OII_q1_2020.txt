@@ -1,0 +1,439 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "My name is Marcella and I will be your conference operator today. I would like to welcome everyone to the Oceaneering's First Quarter 2020 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer period.\nWith that, I will turn the call over to Mark Peterson, Oceaneering's Vice President of Corporate Development and Investor Relations."
+    },
+    {
+      "speaker": "Mark Peterson",
+      "speech": "Thank you, Marcella. Good morning, everyone, and welcome to Oceaneering's first quarter 2020 results conference call. Today's call is being webcast and a replay will be available on Oceaneering's website. Joining us on the call are Rod Larson, President and Chief Executive Officer, who will be providing our prepared comments; Alan Curtis, Chief Financial Officer; and Marvin Migura, our Senior Vice President.\nBefore we begin, I would just like to remind participants that statements we make during the course of this call regarding our future financial performance, business strategy, plans for future operations, and industry conditions are forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.\nOur comments today also include non-GAAP financial measures. Additional details and reconciliations to the most directly comparable GAAP financial measures can be found in our first quarter press release. We welcome your questions after the prepared statements.\nI will now turn the call over to Rob."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Good morning and thanks for joining the call today. What a difference a quarter makes? We began 2020 with the expectation of marginal growth and improving business fundamentals across all of our segments and then the COVID-19 pandemic erupted and fueled the further deterioration of the crude oil market fundamentals, as well as the theme park business. This deterioration has brought about swift changes to our customer spending plans that will negatively affect our businesses as long as these conditions persist.\nAs a result, we're taking decisive action to reduce costs in order to drive financial performance in this environment. With the continuing threat and uncertainty around COVID-19, Oceaneering is actively taking steps to support the safety and well-being of our employees and their families, our customers, and the communities where we live and work. We've implemented preventative measures and developed corporate and regional response plans based on guidance received from the World Health Organization, Centers for Disease Control and Prevention, International SOS, and our corporate medical advisor. Our goal is to minimize exposure and prevent infection, while ensuring the continued support of our customers' operations.\nNow for our results. For the first quarter, we reported a net loss of $368 million or negative $3.71 per share on revenue of $537 million. These results included the impact of $393 million of pre-tax adjustments, including $303 million associated with goodwill impairments, $76.1 million of asset impairments and write-offs, $13.7 million in restructuring costs and foreign exchange losses recognized during the quarter. Adjusted net income was $3.5 million or $0.04 per share.\nDespite significant global challenges, we are pleased that our first quarter adjusted results exceeded expectations. The key factor in achieving these results was better-than-anticipated performance within our energy-focused businesses, which included the benefit from cost reduction measures implemented during the fourth quarter of 2019 and the first quarter of 2020. Each of our operating segments generated positive adjusted operating results and positive adjusted earnings before interest, taxes, depreciation and amortization or adjusted EBITDA. And our consolidated adjusted EBITDA of $51.6 million surpassed both our forecast and published consensus estimates.\nNow let's look at our business operations by segment for the first quarter of 2020. Compared to the fourth quarter of 2019, ROV average revenue per day on hire decreased 4% on flat days on hire. As expected, ongoing cost control measures and efficiencies, along with fewer installations and mobilizations, resulted in improved adjusted operating performance and adjusted EBITDA. Adjusted EBITDA margin increased to 32% and ROV utilization improved slightly to 65%. Keep in mind that although reported fourth quarter 2019 utilization was 58%, it did not include the impact of the 30 ROVs that were retired at the end of the fourth quarter. For comparison, pro forma fourth quarter utilization, reflecting these vehicles as if they had been retired at the end of -- at the beginning of the quarter, was 64%. During the first quarter, our fleet size remained at 250 vehicles, the same as year-end 2019. Our fleet use during the first quarter was 68% in drill support and 30% in vessel-based activity compared to 64% and 36% respectively for the fourth quarter of 2019. At the end of March, we had ROV contracts on 95 of the 153 floating rigs under contract, resulting in a drill support market share of 62%.\nTurning to Subsea Products, first quarter 2020 adjusted operating results exceeded expectations and were comparable to the results of the fourth quarter of 2019. Manufactured products revenue and operating results met expectations. Service and rental results outperformed largely due to higher activity in Norway and West Africa. Our Subsea Products revenue mix for the quarter was 74% in manufactured products and 26% in service and rental compared to a 72-28 split, respectively in the fourth quarter. Our Subsea Products backlog at March 31, 2020 was $528 million compared to $630 million at December 31, 2019. Reflecting the higher level of throughput and lower level of market activity, our book-to-bill ratio for the first quarter was 0.5.\nSubsea Projects sequential adjusted operating results declined on lower revenue as a result of seasonally lower vessel and survey activity. Asset Integrity adjusted operating results improved, benefiting from cost reduction activities undertaken in the fourth quarter of 2019 and the first quarter of 2020.\nFor our non-energy segment, Advanced Technologies, our first quarter 2020 adjusted operating result was sequentially flat. Adverse impacts of COVID-19 to our entertainment theme park business results offset gains from our government service businesses. As compared to the fourth quarter of 2019, unallocated expenses declined during the first quarter of 2020 as a result of lower accruals for incentive-based compensation.\nDuring the first quarter, we used $32.2 million of net cash in our operating activities and $27.2 million of cash for maintenance and growth capital expenditures. These two items represented the largest contributors to a $66.2 million cash decrease during the quarter. As anticipated, our cash balance decreased during the quarter, primarily as a result of a difference in timing associated with customer progress, milestone cash collections, and payments to vendors on several large contracts. Additionally, during the quarter, we disbursed accrued employee incentive payments related to attainment of specific performance goals in prior periods.\nAt the end of the quarter, we had $307 million in cash and cash equivalents, no borrowings under our $500 million revolving credit facility, and no loan maturities until November 2024. As a clarification, our revolver debt-to-cap covenant is based on adjusted cap, not equity on the balance sheet. To determine adjusted cap, we get to add back all previously recognized impairments. Based on our determination, as of March 31, we could draw down the entire $500 million and still be in compliance.\nMoving on to our second quarter and full-year outlook. We are not providing operating or EBITDA guidance for the second quarter and full year of 2020 due to the lack of visibility in the majority of our businesses. Many of the markets we serve are being profoundly affected by the effects of and the associated responses to COVID-19, as well as the significant reductions in our oil and gas customer spending as a result of the lower crude oil price environment. We maintain our guidance that unallocated expenses are forecasted to be in the mid -- excuse me, in the high-$20 million range per quarter. We are further revising our capital expenditure guidance by lowering the range to $45 million to $65 million and 2020 cash tax payments guidance by lowering range to $30 million to $35 million.\nDirectionally, we expect decreased demand for our services and products within our energy businesses. We anticipate further COVID-19-related impacts to our entertainment business. Theme park operators are dealing with significant challenges, including the reduction in revenue as a result of closed facilities and the uncertain timing of their reopenings. Our government-supported businesses, which represented approximately 16% of our consolidated 2019 revenue, are not closely tied to the crude oil or public entertainment markets, so contracting activities should be relatively unaffected, absent any COVID-19-related delays.\nNow turning to our liquidity and balance sheet. In any environment and especially during this complex time, the top priority is to preserve our liquidity and balance sheet. We are taking decisive action to reduce costs by resizing and restructuring our businesses and leaning our operations in this evolving energy environment. We are currently targeting a reduction of annualized expenses in the range of $125 million to $160 million by the end of 2020, inclusive of $35 million to $40 million of reduced depreciation expense. Cost reduction actions being taken include efficiency-enabling projects are for some process improvements and rationalizing facilities, which include increasing focus on remote operations to reduce the number of people working offshore, the consolidation, reduction, or elimination of facilities to reduce lease and operating expenses, and driving our quality tenants throughout the organization to eliminate non-value-added cost.\nSimplification of our operating structure. We've recently and will continue to take actions to simplify the way in which Oceaneering does business by better aligning like-for-like activities to leverage people, assets, and facilities to perform services and provide products in a more efficient way. Actions taken to-date include permanent headcount reductions and elimination of management layers and [Phonetic] compensation reductions. The base salaries for our senior leadership have been reduced by 15% for myself, 10% for all of our Senior Vice President positions, and 7.5% for our Vice President positions. In addition, we have reduced the Company match on our 401(k) plan by 50% and reduced the expected payouts under our short-term and long-term incentive plans. Other cost reduction activities being undertaken include implementing supply chain savings, where we can bundle purchases across business lines to achieve lower pricing and renegotiate contracts with vendors in light of current market conditions. We're also taking steps to eliminate non-productive assets, which will benefit us with lower inventories and lower carrying costs.\nIn addition to these categories, we also expect to see a benefit from an estimated $35 million to $40 million reduction in depreciation cost as compared to 2019. Although this is a non-cash expense, it is worthy of highlighting because it will benefit our operating performance and position us to return to profitability sooner. Since launching this effort, approximately $70 million of annualized cost reductions have been initiated, and that's net of depreciation expense. Additional savings are expected to be achieved throughout the remainder of the year, with the majority occurring in the second and third quarters. We expect the cash costs associated with these actions to be around $15 million.\nNow, before I wrap up the call, Marvin Migura, who is well known to many of you will be retiring from Oceaneering at the end of May, and I wanted to offer a special thank you to him before he starts his next chapter. Over the past 25 years, Marvin has served as our Chief Financial Officer, Executive Vice President overseeing all of Oceaneering support functions, and over the past several years as a strategic advisor to me and our executive management team. And did you know that Marvin has not missed one quarterly earnings call during his 25 years? Marvin's extensive knowledge of the Company, his ability to focus on the critical issues at hand, [Technical Issues], common sense, business guidance, and sense of humor have made him an invaluable asset to Oceaneering. Best wishes for your retirement, Marvin. You'll be missed.\nSo in summary, I'm pleased with our first quarter results. I believe these results show that Oceaneering had successfully adapted to the market realities in place at the beginning of the quarter. Clearly, significant changes have occurred since then that have drastically changed the anticipated activity and pricing for our services and products moving forward. While there will undoubtedly be many challenges presented as a result of these new realities, I'm confident that with the actions already under way, the quality of our services and products and the health of our balance sheet, we will be successful in adapting and succeeding in this changing market environment.\nWe appreciate everyone's continued interest in Oceaneering and we'll now be happy to take any questions you may have.\nMarcella, we open this up for your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Your first question comes from the line of Sean Meakim. Your line is open."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Good morning, Sean."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "Good morning. So, understood on the difficulty of giving formal guidance at this point, but could we just maybe go through some more granularity around how you're seeing some of these different issues, impact to businesses? And I think probably, I want to focus mostly on ROVs, but obviously, there's impact across each of the businesses. So, in terms of expectations around customer decision-making in the near term, folks are trying to shed costs, anything that's not nailed down, they're trying to take out. And then on the second side, I would also say COVID-19-related issues, how you're managing through those both on the supply chain as well as in the field from an activity perspective? Some critical pieces there, would love to hear some more granularity around those issues, how you see them to provide some context for us in the next couple of quarters."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Yeah. I mean, Sean, I guess the challenge here has been we do see that -- you're watching the weekly rig count, the rig counts drop pretty significantly since the beginning of April. So we're very cautious that we're not sure exactly what's happened. I mean, we've had operators that took all us one week and say, we're going to have to discontinue this project and then they get a little relief on moving people in and out of some of the countries where we work and they pick it up the next week. So it's really hard to get a clear picture of what's going on.\nBut I will say we're coming off a quarter with good ROV utilization. We think market share will persist even as rigs drop. So it's just I think -- the best thing I can tell you is keep an eye on what's going on with rigs and we're likely to follow that rig count pretty closely. [Technical Issues] business, I don't think will deviate much from the way it's paralleled the rig business in the past. We may see a little more brownfield activity on the vessels where people are doing some of the remedial work that they continue to do to keep that production going even if big projects start to get stalled out, because people don't want to make that capital expense. Our customers preserving money for those who are still paying a dividend or just really challenged to come up with the cash to do some of the big projects. So, I think those things are the things to watch. That's the best thing I can tell you on granularity.\nAnd then, as far as products go, yeah, same story, right? I think what we're seeing is we're seeing more delays than cancellations. So we do see things where people would like to slow down a little bit, but even that in the manufactured products business hasn't been tremendous yet, but stay tuned. I think everybody is still getting their feet under them in making those decisions."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "All right, thanks. I appreciate that detail and the context is helpful. So then, just thinking about the cost-out initiative, looking at your cost structure, as you're going through this process, have you done much competitive analysis looking at what your fixed cost structure looks like relative to maybe direct comps or even just other public companies in your sphere? How is your cost structure [Phonetic] compared to peers? How will it look once you've completed this latest round? I guess I'm trying to get a sense for resizing the business relative to make yourself more competitive from a margin and returns perspective on a medium-term basis. I'd like to learn more about that process and how you've come to this level of cost-out as being sufficient at this stage."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Sure. And we -- so we did benchmark against competitors, Sean, and we -- and not just that sort of the -- just the G&A level, we actually drilled down and said, what's our headcount and cost to serve in HR, in IT, and in all different groups, so that we can get that focus on those places where sometimes you don't always know exactly where you're being non-competitive. So we try to get that level of granularity so that we can attack those things effectively. So, I think what I would guide to is, I believe that the numbers we gave are in that range of -- we range from anywhere -- at midpoint we would be at midpoint, and if we didn't hit the high-end of those savings, we're going to be better than the peers.\nAnd I would say that we opened a pretty wide aperture for peers just to make sure that we were comparing against not just those that are close to us, but some best in class industrials as well. So we're shooting for, I think, a pretty aggressive target when we get to the high-end of that range. And again, as the market changes and for perhaps a smaller Company as it feels like right now, that will be more aggressive target. So we're going to have to keep working on that."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "Understood. All right, thanks for the feedback."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of George O'Leary from TPH & Co. Your line is open."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Good morning, George."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "Good morning, Rob. Good morning, guys. How are you all?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Doing good."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "First place I wanted to start off was you guys talked a little bit about incremental asset rationalization. You've already done some of that and there were some asset impairments and write-offs, which is completely understandable in this environment. One, I just wanted to better understand how that impacts DD&A going forward and then just kind of what types of long-lived assets fell in that write-off for impairment bucket."
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Yeah, I'll take that one. The ongoing kind of DD&A, I'd say, incrementally is going to be another $1.5 million a quarter reduction in depreciation. When I look at what kind of assets, some of it was shallow water vessels that we had that we took some impairments on was the primary component. So a lot of this was not assets that were actually being written off, this was assets that had impaired values going forward."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "Okay. That's very helpful. And then, if you think about the geo markets across which you work today and kind of your global presence, kind of, a two-pronged question, which offshore deepwater theaters do you expect share the most resilience in 2020, and part of that question is, where would activity naturally hold up if crude oil prices were below level and some of that is also where you're seeing the biggest impacts driven by just COVID, any inability to get shift changes done efficiently. And then conversely, which offshore geo markets have you seen the greatest impact from both crude oil price and COVID and where do you expect to see the most incremental weakness as 2020 progresses? So, apologies for multiple questions rolled into one but it's all kind of tied together."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Wow. George, I wish I could give you like really good clarity, but as soon as I start talking about all the moving pieces, it's going to get really muddy, but I will say that Norway has just kept clicking. It is one of the places that we saw greater opportunities in Norway, great activity there. So that's kind of a high point and part of that is, number one, Norway has just got a longer-term focus. So much of the work is done by Equinor there, and so that was one of those places where we saw less disruption. Of course, we've got a very indigenous workforce in Norway. So we didn't have to worry about getting people in and out. So really, it was just about -- really specifically, if there was a COVID event on a platform like we saw some of that happening during the past quarter, that was minor.\nWest Africa has been more challenging because you just have less indigenous workforce there. Even though we think we've done a great job, we still have people that need to rotate in and out. They go through long quarantine periods. It slows things down. We've been able to maintain business continuity. But it's at, I think, a more labor-intensive process because you got so much inefficiency as people have to go through those quarantine periods.\nBut when I compare and contrast these places, one of the things that we also have to say is, there is ongoing commitments with the local governments that sometimes those commitments seem to be driving projects ahead to where the operators can quite as quickly pull up stakes and move to the next thing or just conserve cash and follow through on those commitments. So, while some of those places are more challenging to work, they also have a little more inertia in the projects.\nAnd so, Gulf of Mexico, we've only been able to keep the vessels -- our vessels going. The Evolution has been able to keep doing work and so we've had good business continuity there, but then, I think there -- the operators in the Gulf of Mexico are more in control of their own budgets. So they are able to slow down and speed up and do things without as much, other than their partner agreements, not as much impediment, I guess, to making their own decisions.\nSo the challenging question to answer, but right now, I think it's still playing out, but we see good things happen in a lot of places. One of the nice things is we haven't seen a big impairment in offshore wind activity in the North Sea. So that's been fairly good other than the small hang-ups with trying to move people around during COVID, but I'm just really -- for us, it's been great because we've been -- we're listed as essential in almost all the work we do, even some of the entertainment work. And so we've been able to keep busy. We haven't seen -- really seen very few work stoppages. We had a shift that wasn't able to come to work, while they were deciding what the right procedures were, but we are able to adopt new ways of overcoming it and keep people going to work and keep our customers working. So that's been great."
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "And George, I want to add one component. I kind of got a little bit short on my answer as far as the asset impairments that we took in the quarter. We also had fair amount that was in our Subsea Products segment, most of which we call within our Subsea distribution, which is umbilicals and hardware-related. So we took some impairment issues related to the facilities in Brazil, Angola, and Rosie. So that would be the other component."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "Okay, that's helpful. Yeah, I noticed that $54-ish million dollar impairment that definitely caught my attention. So that helps to kind of square the circle there."
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Yup."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "I appreciate the color from you guys."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Thanks, George."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Marc Bianchi from Cowen. Your line is open."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Thanks a lot. I guess just following up to some of the market commentary and questions about kind of how things could progress, I think what I'm hearing here is that maybe ROV probably has maybe the most downside and then AdTech would have the least downside and the other segments would be somewhere in between with perhaps products maybe being closer toward the ROV side, and then the other couple of segments closer toward the AdTech side. Is that as you see it may be a fair way to think about it? Or is there anything you'd correct in that summary?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Yeah, Marc, I think you've got them. We just got to break up the mix a little bit. Government is probably the least affected. So, when you take ad -- split AdTech, because government is probably the least affected, entertainment is the most affected. I know that's not a probably, it's not a maybe, because those parks, they just -- they shut down, we couldn't get into do work. Other than completing vehicles that we happen to be working on in our shops, they're just really shut down. Now, longer term, we expect them to pick up and they'll find their way to serve customers again. We might get to participate in some of the -- I would say, some of the technology or ingenuity values to make it safe to get people back in the parks. So we were hoping to participate with that, but they're definitely the hardest hit.\nWe've -- in the past, we've seen Asset Integrity get pretty hard hit because it seems like a lot of that is manageable costs for our customers if they can postpone some of that activity and push it out. So they tend to see volume reductions happen pretty quickly. ROV gets a little bit -- it's the same kind of thing, but they get a little more of a hangover because you got to finish drilling the well or maybe they just want to get to a certain part in the campaign before they stop. So they get a little more run over.\nAnd then, you're right, products run longer, because you're working on orders that have already been placed. We came out of the year with a pretty good amount of backlog. So we get to work through that. But we've seen this phase before, right? We've seen it where, say, survey and ROVs kind of get the first downturn if normal oil cycle and if the product backlog plays out, that's fine, you get coverage for another year, but following that, when the orders don't come, then when ROVs are picking back up, then we start to see that low backlog or low absorption of the manufacturing side. But I think you've got it, I would just look at the finer points of AdTech and maybe the star business, the Service and Rental business which is really based on what the customers want to do in the -- because a lot of that is the well remediation, the light well intervention, stuff like that, that if they've got a well that shut in, that's an important production that could happen almost any time."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Okay. That's helpful, thanks for that. I guess, in terms of the operating leverage here, do you guys have the cost cuts which should dampen kind of the decremental margin affect somewhat? If I look back to '15 and '16 and I know things are choppy from quarter-to-quarter, but just looking back to those years, the annual decrementals that you had were kind of in the low- to mid-30% range on an EBITDA basis. Should we expect you guys to do better than that now, just given this cost cutting program? Because I don't remember that we had a major cost cutting program like this in the prior downturn, but maybe that I'm recalling things wrong there."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Marc -- yeah, I think it depends on how low it goes, right? I mean, because we're starting from a lower point, but on the other hand, you can also take into account that I think we've got more of a floor support on price, because we've been -- our customers are understanding that we never got any price relief in the '18 and '19 time, really nothing meaningful. So I don't think we'll see the same pressure that we saw in those years. And yeah, I think we have definitely done better at sort of the G&A, the structural part. So I think that will be working to our advantage as well. But there is -- [Indecipherable] if activity drops to some of the lower edges of the -- lower ends of the range that we've been hearing, it will be hard to fight the decrementals if we get that quote."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Yup. Makes sense, Rob. Thanks a lot for the comments."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Scott Gruber from Citigroup. Your line is open."
+    },
+    {
+      "speaker": "Jeff",
+      "speech": "Hey, good morning guys. Hey, good morning guys, this is Jeff [Phonetic], Scott's associate on his behalf."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Hey, Jeff."
+    },
+    {
+      "speaker": "Jeff",
+      "speech": "So if you guys could help me kind of us understand that with the new cost-out program, does that $125 million to $160 million guide include the cost savings from -- that were implemented in 4Q of '19 as well as 1Q '20? Is that that $70 million?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Yes, that's part of it."
+    },
+    {
+      "speaker": "Jeff",
+      "speech": "Okay. How much of that -- of the cost savings has been realized from those previous programs that have been implemented?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "I would say it's predominantly the depreciation that was taken into account in Q4 of last year."
+    },
+    {
+      "speaker": "Jeff",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "We haven't announced any programs. It's been kind of a fluid process. So, most of the non-depreciation ones, we started some of it with Asset Integrity that Rod alluded to on the call last time, but it's just been a fluid process from the whole Q4 forward."
+    },
+    {
+      "speaker": "Jeff",
+      "speech": "Okay. I appreciate that. And I know you guys said that the volume-related cost reductions are not included in that guide, but kind of given the current market activity, how much additional savings could you see from the -- from the variable side?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "I mean, that's going to depend on the volume, so if FIDs don't happen with umbilicals or hardware being a key component and we see a significant reduction in activity there, that would be a tremendous -- that's the savings we don't want to see offside. That's going to impact top line as well."
+    },
+    {
+      "speaker": "Jeff",
+      "speech": "Okay. And then just lastly for me is your capex looks like it's going to be, kind of on a run rate basis, $9 million a quarter for the remainder of this year, just kind of wondering if that levels considered sufficient maintenance level? And kind of if we move into 2021 with a kind of a continued activity lag, is that kind of a run rate basis we can kind of model or expect for next year as well?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "I think there is still a little bit of growth capex that's being completed here in Q2 associated with the drill pipe riser contract for Brazil. So I would say that the $9 million is not going to be amortized equally among the three quarters, it will probably be a little bit more heavy in Q2, as net equipment is about to go on higher this quarter. So, I expect Q2 will have a heavier capex demand as we complete those assets and then it will be lighter in the back half of the year. And that will probably be the -- more of the run rate from a maintenance capex that you could look at modeling for '21."
+    },
+    {
+      "speaker": "Jeff",
+      "speech": "Okay. I appreciate it. That's all from me. Thanks."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Thank, Jeff."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Kurt Hallead from RBC. Your line is open."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Hey, good morning everybody, and I hope all your families are doing well."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Hey, Kurt. Good morning."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Good morning. And Marvin, congrats on your retirement. All the best."
+    },
+    {
+      "speaker": "Marvin J. Migura",
+      "speech": "Thanks, Kurt."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "You're welcome. You're welcome. So, gentlemen, I just hoping that you'd be able to -- going to help me with some of the logic that I've tried to run with all the information you guys provided in the press release last night and on the conference call today. But if I were to take all the components you provided in terms of the cost reductions and capex reductions and tax dynamics, so on, if I take all those -- midpoint of all those components, I think that adds up to around $80 million of positive cash contribution on a full year basis. Just wanted to double check to make sure my math kind of matched up pretty closely with the math you provided so far."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Mike Sabella..."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "So, what happened there?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Hang on. So..."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "I didn't think it was that tough of a question that you needed to [Speech Overlap]."
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "So, if you think about..."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "All those components add up to about $80 million at the midpoint, is that about right?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "You're taking the amount from the CARES Act?"
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Yeah, I took that into account kind of offset your cash tax. I took the depreciation change and concluded that in that dynamic. So, took your opex, your capex, your cash tax, your CARES Act and your depreciation. Took the midpoint of all that, you add that up, that's about $80 million. Just want to make sure I was understanding that dynamic correctly as you thought about free cash flow for the year."
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Compared to depreciation on free cash flow."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Well, again, you get back that out. So, it'd be more maybe in the $40 million, $50 million range, right, something like that?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "That's yes, I agree there."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "All right, thanks. And then, just curious on the last conference call, you guys suggested maybe working capital contribution of $5 million to $10 million for 2020. I know a lot has changed since that point in time, but you did indicate in your commentary, you did expect a positive contribution from working capital in 2020. To what magnitude do you think that that working capital contribution could be?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "I don't think we're prepared to give a range, but we do still see it being positive and unfortunately a lot of it's going to be generating cash through liquidation of receivables."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Okay, that's fair. And then just one last thing, so let's just say, if we were to take a revenue decline, the number doesn't really matter. So, let's just say revenues go down by 20% on a broad-brush. You guys indicated that a 30% EBITDA decrement on that per Marc's earlier question could be a reasonable starting point to kind of think about the impact on profitability. And then we -- I would -- assuming we'd be adding back your operating expense savings, which again at the midpoint, would be on an annualized run rate of about $100 million. So, as I think about the exit on EBITDA, is the logic of that process correct? So the revenue decline, the decremental margin, then add back the operating expense savings kind of look at that on an exit basis for 2020. Is that that a fair way to look at it?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Yeah. I'm trying to follow all of that."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Say revenues declined by $100 million, your EBITDA will go down by $30 million, right? And then you got cost savings on top of that, which is $100 million. So you basically add that $100 million onto that and your EBITDA really doesn't go down by $30 million, it goes down by something less because of the cost savings. So that's all [Phonetic] I'm trying to get a -- just trying to understand the logic on that you guys are thinking about it. Is that right?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Yes. I apologize."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "No, that's fine. Sorry about making it more complicated than need to be. All right. That's it on my end. Thanks guys."
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Mike Sabella from Bank of America. Your line is open."
+    },
+    {
+      "speaker": "Mike Sabella",
+      "speech": "Hey, thanks. Appreciate the warning that I was coming next also. So as we kind of think through how probably IMR market sort of develops and I know it's pretty uncertain at this time, but if we just kind of think of a normal cycle, can you just walk us through IMR in a normal cyclical environment and then kind of in an environment where operators are shutting in wells versus in an environment where they're bringing them back on?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "I think -- yeah, I think you've hit on the important thing. I think it will be interesting to see if this plays out to be a normal cycle, because I think in a normal cycle, when we don't see wells getting shut in, we just see people managing the spend, we initially would see sort of a decline, just the knee-jerk reaction of stop everything and we see a fall-off in activity and then when they decide that they've kind of restabilized the company at whatever the new oil price is, then it's one of the first thing that comes back, because, hey, you're talking about getting more production from infrastructure that's already in place. So, it's generally the cheapest next barrel. I think it does pretty well.\nWhat could happen in this case is it could be, I would say, even more extreme, meaning when you start shut in wells, when you go to restart those wells, there could be additional work to do, right? And so, I think when we think about especially some of the hydraulic work we do, some of the flow line, hydrate remediation and things like that, I think you can actually see a bigger bow wave of that sort of activity that kicks in when you try to restart wells. So I think it's a probably an exaggerated version of what a normal cycle would be."
+    },
+    {
+      "speaker": "Mike Sabella",
+      "speech": "That's helpful and makes sense. And then, I'm sorry, I had to hop on a little late. Did you walk through kind of how the cost cuts will focus on the segment or is it as we just really [Phonetic] thinking this is cutting across the board?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Yeah, I think, you can think of it is more broad-brush, Mike, it's -- because it really is. I mean we've gone through a pretty significant org redesign. We've got, like we've mentioned in the call, we're combining like with like. So trying to allocate those to one or the other is going to be less meaningful than just looking at overall what's it going to be, because we are, for example, how much do you allocate to each group when you move three groups into the same facility. So, those kinds of things better -- look better from the top level."
+    },
+    {
+      "speaker": "Mike Sabella",
+      "speech": "That's great. Thanks a lot guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Blake Gendron from Wolfe Research. Your line is open."
+    },
+    {
+      "speaker": "Blake Gendron",
+      "speech": "Thanks very much. Good morning, guys. I appreciate the commentary on the covenant by the way, missed that. My first question is on the ROVs kind of digging in there. Can you just update us on sort of the commercials on the rigs follow-up side? I would imagine there is contractual component to that and it's going to be a little bit stickier because floaters, kind of like what we saw in '15, should be bridged at least over the near term. But if we do see rig terminations kind of in a lower oil environment, how does that impact your ROV business? Are there -- is there any sort of termination payment component to that? And then kind of following on that question, I'm wondering what you can do in this downturn as offshore rigs potentially are stacked to gain share on the back-end of this downturn as rigs go back to work. Thanks."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "So, Blake, I don't -- there is no magic in termination fees or anything like that for us. I mean, really it's going to be when those rigs get term and they quit work or even when they're contracted and they quit work and it's -- that's revenue loss for us. That working day is lost. So it's -- you just kind of watch the working rig count and you'll know how it's affecting that drill support side of our ROV business. The upside to market share and everything else is that we're really leveraging and we've been working really hard on remote operations, de-manning, some of the hybrid ROVs that we're using, some of the resident ROVs that we're using that can number one, reduce carbon footprint, because you don't have to have a vessel to support them, but also because we can get -- we can be operating those from a few support [Phonetic] centers around the world and get people off the rig. So that -- I mean, we've already seen that, get more interested than it ever has before as people start to realize moving people is hard to do, especially in a situation like this. So being able to have the people not have to travel, have the machines moving around or the machines already in place, I think that's what we're going to have to leverage. And it's also why, if you look at some of the new build capex, not the maintenance capex but the new build, that's where we're going to continue to put money is in some of that automation, resident vehicle, those kinds of things that we believe are pertinent to the new oilfield, not necessarily the way we've always done things in the past.\nSo we're going to have to lean into kind of the leading edge of what technology is going to look like on the other side of this, and I think that's the way."
+    },
+    {
+      "speaker": "Blake Gendron",
+      "speech": "That's helpful perspective. In Advanced Tech, you gave us a good run down of the government versus the entertainment business. It's been a focus of R&D spend to the degree that you guys focus on that, specifically on the software side. Wondering if there's any sort of change in focus, just given some of the uncertainty with not just oil and gas, but some of the markets globally. You can -- do you plan on continuing to kind of put R&D spend toward that part of the business more so now just given that maybe it's a little bit more resilient in the current commodity tape?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Oh, yeah. And I would say that even though -- from a technology standpoint, even though entertainment's challenged right now, if you look at the flip side of it, the software, the vehicle control systems, all the things we do to make those ride systems work for entertainment, that's all directly applicable. It's the same stuff we do in the AGV business. So continuing to invest in that, it's going to be I think -- again, just like I said about automation in ROVs, automation in the factories and everywhere else where we're going to be able to reduce the number of people, they have to work elbow to elbow in a lot of these places, by using some of the vehicle technology we have, I think that's -- the demand for that's going to go up. So we have to continue to invest. That is -- I really like what you've said around resiliency. I think it's very much the case for those two businesses."
+    },
+    {
+      "speaker": "Blake Gendron",
+      "speech": "Got it. Thanks a lot guys. I'll turn it back."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Thanks, Blake."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of David Smith from Heineken [Phonetic] Energy. Your line is open."
+    },
+    {
+      "speaker": "David Smith",
+      "speech": "Hey, good morning. Dave Smith from Heikkinen Energy. Wanted to ask, given your significant cash balance and expectation of free cash flow for the year, I'm curious how do you view the opportunity to take advantage of the wide discounts that your debt is trading at?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "So, I mean, I'll jump in first and I'll let Alan finish the thought, but we are very much focused on opportunities there. I think we've talked about how use of cash is shifted and looking at our debt is really why we carried those cash balances so far. Just trying to -- during this of time dislocation, we've been trying to look at our best options because our bonds are pretty thinly traded. So whether or not we can make a big move and buy back bonds wasn't entirely clear to us. So we're evaluating options, but I think we see it very much the way you do.\nAlan, would you add anything?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "No, I think you captured it quite well there, Rod. I think it's one that should we do anything, we'll report on it when required."
+    },
+    {
+      "speaker": "David Smith",
+      "speech": "I appreciate it. And I was going to ask if you're getting more traction with remote ROV piling. It sounds like you are. Just wanted to make sure I understood. Are you getting real interest in remote piloting for drilling support?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "We can do it for some of the drilling support, but really platform work and things like that, where we've got the ROV station for, I would call it, more intermittent work is probably where we will see it most often, and that's where we can have that opportunity to be able to launch an ROV that's not as frequently used as it would be on a vessel, especially, but on a drilling rig as well."
+    },
+    {
+      "speaker": "David Smith",
+      "speech": "Great, thank you very much."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Yup. Thanks, Dave."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your next question comes from the line of Ian Macpherson from Simmons. Your line is open."
+    },
+    {
+      "speaker": "Ian Macpherson",
+      "speech": "Thanks. Good morning."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Good morning, Ian."
+    },
+    {
+      "speaker": "Ian Macpherson",
+      "speech": "Rod, I wanted to ask how do you feel this most recent crisis has changed the calculus on industrywide M&A? Obviously, from our seats, we see the need for the industry to consolidate more and rationalize overhead, etc. And from your seat, I know that no one likes crystallize their value at dropped prices but how do you think it's going to unfold from here and what do you think the opportunity looks like for Oceaneering to participate?"
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "I think that, Ian, absolutely true. There is no denying that as all of the service companies sort of our peer group have gotten smaller and the opportunity set, the activity levels, if we see a longer-term suppressed activity level, it just makes good sense, right, to try to find those partnerships and those combinations. Challenge, you nailed it, I mean, there is two challenges. Number one, you want to find things where like-for-like is there. So you get the synergy, you don't just get the G&A bump. And so looking for those things and then trying to strike on, we're going to have to stabilize a little bit, because I would say, it takes a while for us all to believe that this is what our value is and it's been a tremendous shock on share price since the beginning. So everybody that's got to settle in and not just the realization for ourselves what it is, but also that we believe that the relative values have settled out, so that those combinations going to happen, but I think it's just -- it's a matter where we have to get the timing right.\nI would tell you from an Oceaneering standpoint, just when we look at that, I think the first order of business is to do exactly what we're doing it. If you want to be -- for example, if you want to be a consolidator, you have to prove it you can do all the things it takes to be a good consolidator. And that's exactly what we're doing today right now is combining our own like-for-like, rationalizing our facilities, being really good at making these things work together having the functions that work across the organization that can serve all different businesses with the centralized function. I think those things are what make -- kind of give you the right to be out there in the market looking to do some of those deals in the future. So even though we're waiting for some of that other stuff, I think we are definitely preparing the Company to be able to do that when we -- when everybody is ready to go."
+    },
+    {
+      "speaker": "Ian Macpherson",
+      "speech": "Got it. Thank you, Rod. And then Alan, I had a follow-up for you. We've already kind of tackled to some degree the guidance questions. But just on free cash flow for the year, obviously, starting at a deficit in Q1, we assume -- I assume anyway that EBITDA is probably degrading sequentially through the year, so we would look for probably a good free cash flow print in the second quarter, probably with some working capital to release to help derisk that target of free cash flow neutral or positive for the year. Is that a fair assumption that Q2 should be a pretty significant reversal of the cash movement that we saw in Q1?"
+    },
+    {
+      "speaker": "Alan R. Curtis",
+      "speech": "No, I think it's going to be more Q3, Q4. I think Q2, as I alluded to, we will have heavier capex in Q2 than we do in the back half of the year. We anticipate getting some of that cash tax refund in the back half of the year as well, and with lower levels of revenue, we should be able to generate more from our balance sheet in the back half of the year as well. Revenue hasn't dropped off that precipitously yet, so that will probably a back half of the year story."
+    },
+    {
+      "speaker": "Ian Macpherson",
+      "speech": "Okay, thanks for that clarification. Thanks for the answers today, guys."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Yup. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no other questions at this time. I will turn the call back over to the presenters."
+    },
+    {
+      "speaker": "Roderick A. Larson",
+      "speech": "Thanks, Marcella. Since there are no other questions, I'd like to wrap up by thanking everybody for joining the call. And this concludes our first quarter 2020 conference call. Thank you, everyone."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 53 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Mark Peterson--Vice President, Corporate Development and Investor Relations",
+    "Roderick A. Larson--President and Chief Executive Officer",
+    "Alan R. Curtis--Senior Vice President and Chief Financial Officer",
+    "Marvin J. Migura--Senior Vice President",
+    "Sean Meakim--J.P. Morgan -- Analyst",
+    "George O'Leary--Tudor Pickering Holt & Co. -- Analyst",
+    "Marc Bianchi--Cowen & Company -- Analyst",
+    "Jeff--Citigroup Global Markets -- Analyst",
+    "Kurt Hallead--RBC Capital Markets -- Analyst",
+    "Mike Sabella--Bank of America, Merrill Lynch -- Analyst",
+    "Blake Gendron--Wolfe Research -- Analyst",
+    "David Smith--Heikkinen Energy -- Analyst",
+    "Ian Macpherson--Simmons -- Analyst"
+  ]
+}

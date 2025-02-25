@@ -1,0 +1,312 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Participants will be announced by their name and company. In order to give all participants an opportunity to ask their questions, we request a limit of one question per person.\nI would now like to introduce Michael DeVeau, Head of Investor Relations. You may begin."
+    },
+    {
+      "speaker": "Michael DeVeau",
+      "speech": "Thank you. Good morning, good afternoon, and good evening, everyone. Welcome to IFF's First Quarter 2021 Conference Call. Yesterday evening, we issued a press release announcing our financial results for the first quarter as well as our outlook for the full-year 2021. A copy of the release can be found on our IR website at ir.iff.com. Please note that this call is being recorded live and will be available for replay.\nI ask that you please take a moment to review our forward-looking statements. During the call, we'll be making forward-looking statements about the Company's performance and outlook based on the current state and our expectations for 2021. These statements contain elements of uncertainty, which we have laid out on Slide 2 under the cautionary statement. For additional information concerning the factors that can cause actual results to differ materially from our forward-looking statements, please refer to our cautionary statement and risk factors stated in our press release.\nToday's presentation will include non-GAAP financial measures, which exclude those items that we believe affect comparability. A reconciliation of these non-GAAP financial measures to their respective GAAP measures is available on our website. Please also note that we'll be using combined historical results for the first quarter as defined as three months of legacy IFF results, and two months, February and March, of N&B results, in both the 2020 and 2021 period, to allow for comparability in light of the merger completion on February 1, 2021.\nWith me on the call today is our Chairman and CEO, Andreas Fibig; and our Executive Vice President and CFO, Rustom Jilla. We'll begin with our prepared remarks and then take any questions that you may have.\nWith that, I would now like to turn the call over to Andreas."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Thank you, Mike, and thank you to everyone for joining us today. I will begin today's call by providing an overview of our first quarter results, including a review of our performance by region and segment. I would also like to share with you an update regarding our efforts to integrate DuPont, N&B business, which continues to progress well, following the completion of our transaction in February. Rustom will then provide a more detailed financial review of the business, highlighting segment level business dynamics and performance and cover cash flow and leverage as well.\nIFF is off to a strong start in 2021, and I'm confident that the momentum we have built will continue for the remainder of the year and beyond.\nNow beginning with Slide 6, I would like to review our performance and notable developments in the first quarter. We achieved 3% in combined sales growth, or 1% in currency-neutral basis, compared to the first quarter of 2020. Also because of our change to a fiscal calendar rather than a traditional 4-4-5 calendar, we have had less -- two days less in first quarter. If we were to normalize for that, our combined currency-neutral growth in the first quarter would also have been approximately 3%. And on a two-year average basis, to factor in our strong 7% year-ago comparison, growth would be strong at approximately 5%.\nOur adjusted operating EBITDA margin improved by 30 basis points, reflecting our team's diligent execution of our cost management strategy. IFF also continues to generate strong free cash flows, and we remain on track to meet our deleveraging target. For the first quarter, our leverage ratio was 4.3 times.\nI'm also pleased to say we have reached an agreement to divest our fruit preparation business to Frulact, who specializes in fruit preparations for the food & beverage industry. The divestiture is expected to close in the third quarter 2021, pending customary closing conditions, including regulatory approvals. The fruit preparation business contributed approximately $70 million to IFF's Nourish segment pro forma sales in 2020. This is our first step in terms of our portfolio optimization strategy. So, I expect more news as we progress through 2021.\nAs you can see, we have established a solid foundation to carry us forward. We have started with solid momentum, thanks to our disciplined focus on execution. As we have said before, the opportunities in front of us and our mission is to execute on our plan to deliver industry-leading returns for our shareholders. As we move into the second quarter, we remain squarely focused, leveraging our new capabilities to reach our business objectives, and further establish ourselves as an innovation leader in a global value chain for consumer goods and commercial products.\nNow on Slide 7, I would like to briefly discuss the regional sales dynamics that have influenced our first quarter financial results. As you all know, there are notably significant differences in how different countries are managing the continued impacts of the pandemic. So we want to talk to the dynamics we are seeing in our business across the world. We are pleased to report that most of our operating regions saw sales growth in Q1.\nIn North America, we achieved solid performance across our portfolio with growth in nearly all of our segments. This performance in North America reflects the impressive results in our Scent segment. We continued to see healthy performance across our Asian markets, achieving a 6% increase in combined currency-neutral sales, primarily driven by double-digit growth in China and India. While we are pleased to see growth across many of these key markets, we must recognize that our growth in India could be challenged in the near term as the country is grappling with hardship related to the pandemic. We wish everyone in India, our Indian colleagues and their loved ones the very best, and hope to see rapid improvement in conditions.\nIn Latin America, we saw an 11% increase in overall sales for the region with growth primarily driven by local currency sales. Two highlights, that I would like to call out, in Brazil and South Cone, where both grew double-digits in Q1. COVID-19 and related ongoing restrictions continue to heavily impact Western and Central Europe, which has resulted in challenges across the entire EMEA region and a 5% decline in overall sales. That said, we remain optimistic about the region's recovery as global vaccination rates increase and related restrictions ease. As we press ahead, we will continue to work diligently with our regional teams and communities, particularly those that remain on the most pandemic-related pressure to adapt our [Phonetic] supply chain ensure that our customers continue to receive the leading solutions they have come to expect.\nLet's move to Slide 8. I would now like to review our first quarter sales performance across IFF's key business segments, so you can get a more granular view. We are pleased to report solid growth across our Nourish, Pharma Solutions and Scent divisions. Our largest group, Nourish, achieved combined currency-neutral sales growth of 1%, led by robust performance in Flavors. We continue to see pandemic-driven headwinds in Food Design, which is driven primarily by continued declines in Food Service. This channel, while improved from the fourth quarter trends, was down mid-single digits in the first quarter.\nScent continued its strong performance, achieving combined currency-neutral sales growth of 5%, the largest growth driver across our four divisions, led by continued strengths in Consumer Fragrances, double-digit growth in Cosmetic Actives, and a strong rebound in Fine Fragrance. For our Pharma Solutions division, we achieved combined currency-neutral sales growth of 3%, with continued strong performance across the entire division and all sub-categories. For Health & Bioscience division, combined currency-neutral sales decreased 3% against a strong double-digit year-ago comparison. Increases in both health and home and personal care were offset by pressures in Microbial Control and Grain Processing. Together, we have an in demand and diversified portfolio that is meeting that needs of our core end markets. I feel, we are very well-positioned to continue executing our ambitious growth initiatives and the complexity of the global marketplace.\nNow turning to Slide 9, I want to show a summary that highlights our business performance, particularly with regard to the segment-level adjusted operating EBITDA margin. As you know, we are focused on driving overall group operating efficiencies as we execute on our integration plans. Rustom will cover our first quarter segment performance in much more detail, but I wanted to present this slide as it will be included in our standard earnings package going forward, specifically focusing on year-to-year performance.\nSome highlights for Q1, that are worth mentioning; within our largest division, Nourish, I'm very pleased to see early progress on margin expansion. We achieved strong results in our Scent division. The team did a great job, driving higher volumes, benefiting from the rebound in Fine Fragrance, which drove favorable mix and continued, therefore, to capture productivity savings. In H&B and Pharma Solutions, adjusted operating EBITDA margins were pressured by increased raw materials and logistics costs, which overshadowed the strong cost discipline the team has accomplished.\nNow on Slide 10, I would like to provide you with an update on our integration progress with N&B. Since completing our combination in February, we have achieved several financial organizational integration milestones, which reflect the incredible efforts of our global team. From an organizational perspective, we have established a comprehensive operating and leadership structure for our combined company, having identified and announced roles all the way from CEO, down to third level leaders. These leaders are working closely with the integration management office to ensure that all employees are provided for the tools and resources they need to succeed.\nThey've also completed all IT migration from DuPont to IFF, and are on schedule regarding exiting many of our transition service agreements with DuPont. On the revenue synergies front, we have a robust pipeline of projects, including both cross-selling and integrated solutions, that we expect will accelerate our ability to meet our $20 million synergy target this year. This quarter, we achieved a significant cross-selling win within our Health & Bioscience divisions by detergents, and we've invoiced our first sales in April. We are pleased with our project pipeline and with the efforts so far, and continued expressions of demand from customers. We are confident in our ability to meet our three-year run rate synergy target of $400 million.\nFrom a cost synergy perspective, we are under way and already seeing modest P&L benefits, given we are in early days. We expect these cost savings to increase over the course of the year, putting us well on track to meet our $45 million cost synergy target in the full year 2021, and our year three run rate cost synergy target of $300 million.\nI would now like to pass the call over to Rustom, who will provide a more detailed review of our financial performance in the first quarter."
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Thank you, Andreas. First, let me go a bit deeper into our consolidated financial results. In the first quarter, IFF generated $2.5 billion in sales, a 3% combined year-over-year increase, including foreign exchange benefits, or up 1% on a currency-neutral basis, primarily led by strong performances in our Scent and Pharma Solutions divisions. As you may recollect, from 2021 onwards we are applying prior-year average FX rate to our current year non-US dollar revenues to derive currency-neutral growth rates. This is the more common practice and makes us more comparable to our competitors.\nOur gross margin was impacted in Q1 at Nourish, H&B and Pharma by higher raw material and logistics costs headwinds arising from input cost inflation and higher freight rates, tight inventories and weather-related plant disruptions. Meanwhile, our aggressive cost management program led by headcounts and other expense reductions, enabled us to improve RSA to sales by 120 basis points and deliver year-on-year adjusted operating EBITDA growth of 4%. As an aside, Q1 2020 was our most difficult comp with 7% combined currency-neutral sales growth and strong adjusted operating EBITDA growth. IFF also delivered adjusted earnings per share, excluding amortization of $1.60 for the first quarter.\nNow on Slide 12. I'd like to discuss the first quarter performance of Nourish, which now includes the enhanced capabilities of N&B's pharma, food and beverages business. Nourish sales totaled $1.3 billion for the quarter, representing 1% growth on a combined currency-neutral basis. Adjusted operating EBITDA grew 6%, with a 60 basis point margin expansion led by strong cost management. Looking at Nourish's performance by business, Flavors drove growth in nearly all our regions. Within ingredients, which was flat year-over-year, Protein Solutions grew double-digits, but this was offset by softness in emulsifiers and sweeteners. Continued pandemic-related challenges impacted Food Design, particularly Food Service, which declined mid-single-digits year-over-year. As the effects of the COVID-19 pandemic lessen, and retail and away-from-home channels continue to recover, returning to growth in this area, while maintaining our strong performance in Nourish's other segments will remain a top priority for the remainder of 2021.\nMoving to Health & Biosciences on Slide 13. As Andreas noted, H&B had a combined currency-neutral sales decline of 3%, but this was against a robust 11% positive year-over-year comparison. It should be noted that on the two-year average basis, currency neutral growth was solid at 4%. Adjusted operating EBITDA was also pressured and operating margin declined by 70 basis points, primarily driven by lower segment volumes and higher raw material and logistics costs. Our Home & Personal Care business grew strong double-digits this quarter, supported by evolving consumer buying trends related to the pandemic that has persisted through Q1. But declines in Animal Nutrition this year, when compared to mid-teen growth in the prior-year period, offset that performance and impacted overall year-over-year growth.\nMicrobial Control & Grain Processing were also impacted by continued pre-COVID cycling, which impacted H&B's overall growth by approximately 5 percentage points. We are pleased to say that over the course of the first quarter, these businesses showed improvement and were positive in April as we cycle the comparable. We are encouraged by the tremendous performance of Home & Personal Care, which is a testament to evolving consumer trends that prioritize individual health more than ever before.\nTurning now to Slide 14 to discuss the results of our Scent division. Overall, we are very pleased with Scent's strong performance, which has been a significant contributor to our Companywide growth. Our Scent division generated $569 million in total sales, representing 5% combined currency-neutral growth against a strong 7% growth in the year-ago period as well. On a two-year basis, growth is exceptional at approximately 6%. Adjusted operating EBITDA improved 8% with a 70 basis point margin expansion predominantly driven by volume growth across the entire segment, as well as favorable mix from Fine Fragrance recovery and continued productivity.\nAs we began to see last quarter, our Fine Fragrance business experienced a solid recovery as away-from-home restrictions continued to lift and consumer behavior returned to more traditional levels. Coupled with this rebound, continued strength in Consumer Fragrances and mid-teens growth in Cosmetic Actives, resulted in another quarter of strong performance for the entire division, driven by volume recovery and new business wins across the segment. Our new core wins also providing strong contributions with all three customers growing double-digits in the first quarter.\nNow on Slide 15, I would like to discuss the results of Pharma Solutions, our fourth division. As previously mentioned, Pharma Solutions had an impressive quarter of broad-based growth and made a solid contribution to IFF's overall higher Q1 sales. Pharma Solutions delivered $162 million in net sales, representing 3% in combined currency-neutral growth while adjusted operating EBITDA grew 2%. Taken in the context of the 11% growth in the prior-year period, growth is impressive on a two-year basis -- average basis at approximately 7%. Looking at Pharma Solutions performance by business, Core Pharma and Industrial Pharma led the division with volume growth for METHOCEL, seaweeds and coatings, providing -- proving instrumental to Core Pharma. And Global Specialty Solutions and Nitrocellulose supporting the success of Industrial Pharma. While we are very pleased with Pharma Solutions' sales performance in the first quarter, we saw adjusted EBITDA margin declined due to higher cost of goods related factors. More specifically, gross margin was hurt by higher raw material and logistics costs related to supply chain challenges and force majeures due to the bad weather in the Midwest earlier this year. We had two plants shutdown temporarily, which impacted raw material availability and caused higher distribution costs.\nNow turning to Slide 16, I'd like to review our cash flow dynamics and capital allocation, which remain a top priority. As you will see, our operating cash flow was very strong at $358 million. We are quite pleased with Q1 cash generation. For legacy IFF, Q1 is usually the lowest cash flow quarter of the year. We typically have net working capital headwinds, as we reset off Q4's loss and we make annual bonus payments in March. And this year, we also had large deal-related costs such as, cost to achieve investment banking fees, consulting expenses, etc. A large part of our Q1 success came from core working capital, where we generated $193 million, a great job by our global team and a great outcome. But we don't expect this quarter after quarter, as we like to build inventory up in some of our legacy N&B business areas to support future growth.\nIn the first quarter, capex was approximately $93 million or 3.5% of sales, up from last Q1's combined comparative $76 million or 2.6% of sales. Free cash flow generation was, therefore, strong $265 million, and we distributed $82 million in dividends to our shareholders. Our leverage, which is net debt divided by credit adjusted EBITDA ended at 4.3 times, as Andreas noted back on Slide 6. This is ahead of our expectation of 4.5 times first quarter post-merger leverage.\nNow to provide some full year context. Legacy IFF generated $520 million of free cash flow in 2020 and combined, we expect to generate $1 billion in 2021. In 2021, we will invest more in legacy N&B production capacity to meet expected strong future demand, but will only be slightly above our original full-year capex projection of approximately 4.5% of sales. The dividend payment this year will be -- this quarter will be $197 million reflecting our higher post-merger share count. And we remain on track to meet our long-term deleveraging target of 3 times net debt to credit adjusted EBITDA in 24 months to 36 months from deal close.\nTurning to Slide 17, I'd like to provide an update on our full-year 2021 consolidated financial outlook. But before doing so, I want to remind everyone that in mid-April, we provided sales and adjusted EBITDA metrics for each of IFF's four segments on a 2020 pro forma and combined basis, and additional detail on a segment level via our Learning Labs series. We are now, in the appendix of this presentation, providing an additional look back at the combined company's historical quarterly results for 2020, as part of our commitment to transparency and helping our shareholders understand the new IFF.\nOn a combined basis, IFF generated $10.6 billion of revenue for the full year 2020, with currency neutral growth of approximately 2%. And our combined adjusted operating EBITDA margin for 2020 was approximately 22%. Please remember that combined includes 11 months of N&B and 12 months of IFF in 2020 and 2021.\nIn our fourth quarter conference call in February, we gave initial pro forma guidance, which assume the full 12 months of IFF and N&B, in order to be directly comparable to our previously provided S-4. Moving forward, to be more aligned with actual results and reporting, we are transitioning to guiding on 11 months of N&B, which excludes January and 12 months of IFF in the 2021 year, in light of the merger completing on Feb. 1. Also, please note that in January 2021, N&B's actual sales were approximately $507 million and adjusted operating EBITDA was $107 million.\nGiven our first quarter results, our April preliminary sales, our rest of year FX expectations incremental pricing to recover costs and the fact that Q1 was our toughest comparative period quarter, we are forecasting stronger sales growth through the rest of 2021. We have, therefore, increased our sales expectation for 2021 to be approximately $11.25 billion in combined revenues, or plus 6% growth with an approximately 23% adjusted operating EBITDA margin.\nSince the beginning of the year, we have seen a rise in the cost of goods, driven by input cost, including raw materials and logistics. In terms of raw material costs, we are seeing a large increase in selected commodities, soy, locust bean kernels, vegetable oil, turpentine and propylene glycol. In addition, freight costs are higher as a result of greatly increased rates. For example, the global freight index is up three times due to non-availability of containers at contracted rate. And we're also seeing an uplift in air freight volumes due to strong demand and supply chain challenges like force majeure earlier this year.\nThis has required us to go back to have additional pricing discussions to cover our exposure. While we are confident that over time we can fully pass along the increase, there is a time lag before pricing is fully realized, which can pressure gross margin in the short-term. Ultimately, by the end of the year, we are confident that through pricing and our ongoing focus on cost reduction, we can achieve our full year adjusted operating EBITDA goal on a combined basis.\nWith regard to Q2, we are pleased that we've started the quarter strong, a nice growth acceleration versus where we ended the first quarter. We are optimistic that for the full second quarter, revenue growth including currency benefit should be in the high-single-digits range, with an adjusted EBITDA margin also around 23%.\nTo assist with understanding and modeling the new IFF, we are also sharing our expectations with regard to depreciation, amortization, interest expenses, capex, our adjusted effective tax rate, excluding amortization and our weighted average share count on a combined basis. While, most of these metrics probably don't need to be elaborated upon, it's worth noting that we expect moderately higher capex in 2021, as we invest for growth and work to exit some of our IT-related transition services agreements with DuPont more quickly than planned.\nWe're also providing a 2021 adjusted effective tax rate, excluding amortization for the first time. And the 21.5% is broadly in line with our early expectations. This is still preliminary and will change as we finalize purchase accounting and intangibles by jurisdiction. The equivalent for heritage IFF on a similar basis for the full-year 2020 was approximately 18.5%. Collectively, these metrics and decisions reflect our confidence in IFF's ability to deliver solid results even in this volatile global environment.\nWith that, I'd now like to turn the call back to Andreas, who will provide some closing remarks."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Thank you, Rustom, and thanks again to all for joining us today. I would like to wrap up today's call by first giving an enormous thank you to our thousands of employees around the world, who have worked tirelessly over the last quarter to successfully execute our business initiatives, deliver for our customers and achieve solid top and bottom line business results, all while making exceptional strides integrating N&B to the IFF family. It has truly been a busy quarter, and we all have much to be proud of, especially as this all was accomplished during a global pandemic.\nLooking beyond our solid Q1 financial results, I want to reemphasize the important first step that we took in tightening our business and optimizing our portfolio strategy, by agreeing to divest our fruit preparation business. By divesting this non-core business, IFF will be more efficient organization with a greater capacity to focus on growth and innovation across our key businesses, ultimately generating greater value for our shareholders. As we enter Q2 together, we are confident that we have the right team and the right structures in place to ensure that our newly combined company will meet our financial and operational goals.\nAs I mentioned, we are targeting strong year-over-year financial improvements with accelerated sales growth over the coming quarters, backed by our commitment to delivering industry-leading innovative products and services to our customers around the world. And as Rustom stated, we are pleased that we have started Q2 strong, and optimistic that our full second quarter sales growth should be in a high-single-digit range.\nI'm tremendously proud of all we have accomplished, and I firmly believe that the best is yet to come. We're taking each and every learning from the N&B integration process to create a stronger, more agile and diversified company, that defines the future of our industry and showcase of what it means to be a leading ingredients and solutions partner.\nWith that, I would like to open the call for questions. Thank you."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] We'll take our first question from Mike Sison with Wells Fargo. Please go ahead."
+    },
+    {
+      "speaker": "Mike Sison",
+      "speech": "Hey guys, nice start to the year. In Slide 8, I thought that was really helpful, you do show some businesses at that 4% to 5% sales growth range. If you think about, you've on the business for about three months now, can you maybe talk about what needs to happen to the other businesses below that 4% to 5%? And your confidence, since you've owned the business now that you can get each of these product lines, sort of in that range over the next couple of years?"
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yeah. Thank you, Mike, for the question. Yeah, first of all, I think that we really expect that the growth will accelerate over the course of the year. And that's driven, as Rustom said as well, with good start into the second quarter, which was actually -- the first quarter was our toughest comparison. So that's the reason why we raised our sales expectations for the year. I think that's important. So now coming to the different parts of the business, I would say, first of all, we see, if you look at the Scent business unit, a real good recovery on Fine Fragrances, which is really fantastic, in the first quarter and also starting of the second quarter, which is good. We see still a great growth on Cosmetic Actives, so that's basically super important for us as well. And the Consumer Fragrances stay on a elevated level. If you go to the Health & Bioscience business, here you see a couple of elements. You see that health and the cultures and food enzymes business should grow mid-single digits. And you will see a recovery of the Microbial Control business, which was very much varied by the situation last year. So that's important as well. And then on the Nourish side, very solid performance on taste, particularly the legacy Flavors doing very well. But on the new parts, Protein Solutions where alternative proteins are doing -- going very well. And then you will see a turnaround in the Food Service as well. The countries and economies are opening up, and that's probably a general remark. We have seen good growth as you've seen in the presentation in most of the regions. But in Europe -- and Europe will turnaround as soon as these economies are opening up, after the pandemic as well. So, I hope, Mike, that gives you a bit more color here."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Mark Astrachan with Stifel. Please go ahead."
+    },
+    {
+      "speaker": "Mark Astrachan",
+      "speech": "Yeah. Thanks, and good morning, everyone."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Mark Astrachan",
+      "speech": "I guess, broader question, it's something that we hear probably most frequently from folks out there asking about your company is, why or what gives confidence that IFF can sustain the share gains implied by the 4% to 5% currency-neutral long-term targets that you have when growth has been below peers in recent years, even adjusting for FX changes? And I guess, related to that, first quarter growth was below peers who also had tough comparisons not as tough this year's, but still tougher comparisons. So what gives confidence that you can see an acceleration implied by the guidance over balance of the year as well as longer-term? And I want to just kind of squeeze-in a related question, which is just, how do we measure or how do you measure maybe your peer performance? What does the group -- did you use to measure your share performance versus peers? And traditionally it's been Giv [Phonetic] and Symrise now, [Indecipherable] who should we all be paying attention to? Thank you."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "So, let me start with the last question first. I think you basically named all the companies, which are relevant for us. Maybe you should put Kerry in the mix as well, in particular for food service and some of the ingredients. And then you have actually a very nice peer group together. So what we wanted to do on the mid-term is actually what we are doing. We have done completely our strategic assessment of all the categories where we believe that we have growth and margin potential. We certainly will emphasize in terms of our resources behind these categories. Some of these categories are just for example, on health, like the probiotics business, for example, where we put a good resources behind to make sure that we can outgrow the competition here. And I think, if you look at the start into the year, it's 3% growth, if you adjust for the days and it was a very strong comparison, the 7% in the last year. So, we are actually quite happy with the start. And we have seen some of the portfolio pieces are performing very well, like the Flavors business is coming well. You see it in the everything, which is plant-based and protein-related. And we see some, let's say, turnaround as well, I mentioned before, when Mike Sison asked on the Microbial Control, which is coming back. We see the Food Service business are coming back, and these are all good signals that we're on a really solid track now to accelerate our growth and that's the reason why we said we raised our expectation for the rest of the year."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we will take our next question from Adam Samuelson with Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Adam Samuelson",
+      "speech": "Yes. Thanks, good morning, everyone."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Adam Samuelson",
+      "speech": "So, I was hoping to ask about some of the color on raw materials and cost trends. Obviously, a very dynamic kind of raw material environment, the increases in freight are noted. Just trying to make sure I understand kind of the magnitude of how much that has increased relative to your initial look at the year provided a few months ago? How much incremental price you're calling for -- or expecting and a reformulation, and how we think we end the year on that kind of price cost balance?"
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Right. Adam, it's Rustom. Let me take that actually. So we started 2021 expecting our inflation to be low-single-digits, OK, with some modest increases, mostly offset by cost declines, right, some cost declines. But since then we've seen some large increases in raw materials, as we kind of talked about them, soy, locust bean kernels, whole bunch of them, right. Also higher freight costs due to sharply increased rates plus higher air freight volume in specific areas, where we have strong demand, coupled with inventory and the supply chain challenges. But in any case, to answer your last part of your question, we do now expect raw material and logistics inflation combined to be in the mid-single-digits this year. And obviously, this requires us to go back to our customers."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we will move next with John Roberts with UBS. Please go ahead."
+    },
+    {
+      "speaker": "Lucas Beaumont",
+      "speech": "Hey guys, this is Lucas Beaumont on for John. Thanks for the Learning Lab videos on the website for the four segments. The extra details there were quite helpful. Just on the fifth one, on R&D, could you provide some breakdowns of the new R&D budget? Do you spend roughly the same percent of sales for each segments? And how much of the R&D centralized versus how much is in control of the four segments? Thanks."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Lucas, thank you for the question. So the combined company budget for R&D is approximately $620 million, it's round about 5.5% of our annual sales. And we are certainly a leader in terms of R&D within the industry. What we have done is, we went through all the different categories and technologies, and looked what we can put actually on the best R&D dollars behind. So, we are characterizing our investment toward the highest return opportunities. And that means that we spend actually a fair amount of money on Health & Bioscience. I think that's very important. So the biotech area is one of the main investment areas. For example, probiotics, enzymes and cultures, just to name one. And then we have certainly a centralized R&D approach. And we have probably at least half of it on the centralized R&D and then rest goes into a application labs. But as I said, a big piece of our investment goes into the biotech area, which I think is super important for our customers and certainly for the development of some of our technologies going forward. I hope that helps."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we will take our next question from Faiza Alwy with Deutsche Bank. Please go ahead."
+    },
+    {
+      "speaker": "Faiza Alwy",
+      "speech": "Yes. Hi. Good morning. So, I wanted to ask about, we're in a time when a lot of CPG companies are looking to reduce their costs. And I know for a legacy Flavors & Fragrances business, these only comprise about 2% to 5% of COGS. So, often we've seen customers leaning in on these ingredients to differentiate their products, while cutting some more expensive items, or more expensive maybe active ingredients. But how should we think about the sort of in context of the combined business? [Technical Issues] enzymes can be used to lower other more expensive ingredients? But just would be great to get some more color from you on this, and if there are any sort of early examples of how IFF is being impacted so far by your customer need to lower cost? And if there are any sort of areas of the business that stand to benefit versus those that tend to get hurt? Thanks."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Look Faiza -- thank you. Good question, and it ties very well with the R&D question previously. So certainly, we are not just offering, let's say the Flavors & Fragrances, so we have now a much broader set of technologies and innovative solutions. So we can play with it. And that can, first of all, differentiate us in the marketplace, but also can help to reduce cost. For example, on the legacy IFF side, we can partner with our customers. We formulate allowing them to reduce cost, for example, we can use our modulation technology for that, to reduce cost for sweeteners in that products. But also in terms of on our new platforms, we are now the leading biotech platform, and that gives us really endless opportunities to use our fermentation technology, reduce input costs, and basically create some of the ingredients via biotech pathways. So, actually bringing everything together gives us a very synergistic approach to help our customers not just to find super innovative solutions, which are helping them to win their own clients and customers, but also reduce costs. I think we are in a very, very good spot and position here."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Matthew DeYoe with Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Matthew DeYoe",
+      "speech": "Hi, yes. So, you probably made some comments about India exposure in the legacy N&B business on its 1Q earnings call. Just kind of wondering, if you could walk through what your exposure is to India, and what you're seeing there? Is it -- the commentary made it seem like there was some elevated exposure, perhaps its relative to their current portfolio, but we did receive a number of questions on it in at the end of the quarter."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yeah, Matt. Thank you for the question on India. We're -- probably we're round about 5% of our business in India. Actually, the Q1 was up double-digit, so it was a very good performance. And it's interesting that you're asking because it's such a, let's say, desperate situation in terms of the pandemic right now. So, I talk on a regular basis with our country manager and we haven't seen any slowdown of the business, which is kind of interesting, but we are cautious with India. So, so far, we haven't seen any negative impact on the business, but we are cautious and the business is around about 5% of our total business."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will move next with Ghansham Panjabi with Baird. Please go ahead."
+    },
+    {
+      "speaker": "Ghansham Panjabi",
+      "speech": "Thank you. Good morning, everybody."
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Ghansham Panjabi",
+      "speech": "Andreas, as vaccines get deployed and mobility has improved in regions such as the US and China, are you seeing a related increase in new product development at the customer level as they sort of position for perhaps a broader recovery? And then also separately to clarify in the earlier question on raw material cost inflation, what are the positive offsets as it relates to the updated EBITDA guidance, given your cost inflation has been raised from the low-to-mid single-digits? Thanks so much."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yeah, let me get started, then I hand it over to Rustom for the raw material part. So, we see more demand coming in from our customers, which is really good. So, new product development is happening and we don't see it just with our big customers. We see it with some of the small customers coming back as well, which is, I think is, a good and excellent sign. And we see it in many of our categories, even on the Fine Fragrance side, which has shown actually very strong development in the first quarter and a good start or excellent start into the second quarter as well. So short answer, yes, we see an uptick. Second part of it, and we see it also with smaller customers as well. Rustom, if you go on to raw materials?"
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Yes, absolutely. So we do expect negative pressure on the -- on our gross margin this year. And that's because it takes us time to go back to our customers, [Indecipherable] have the additional pricing discussions and all the rest of it. So we do not expect to be able to, in this fiscal year to be able to recover the full extent of the raw material increases that we are seeing, and we envisage, OK. However, I mean, we do have positives, we do have positives coming from FX coming through. We do have positives from higher sales volumes, and we do have the positives from lower RSA as a percentage of sales. So, on a operating margin perspective that reduces the negative down quite a bit. And at the end of the day, EBITDA, I mean, combined with our focus on everything we've talked about the cost reduction or the rest of it, we are confident that we can achieve our full year adjusted operating EBITDA goal on a combined basis, the dollars."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "I think that's an important point for customers just saying because we have now with the integration good flexibility on the RSA side, basically to buffer these developments."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we will take our next question from Gunther Zechmann with Bernstein. Please go ahead."
+    },
+    {
+      "speaker": "Gunther Zechmann",
+      "speech": "Hi. Good morning, Andreas, Rustom and Mike. Can I just ask on your organic sales growth outlook, you have in the Slide -- Page 17, 6%, I believe that's reported sales growth. Can you, first of all, split out how much of that is like-for-like, please? And then coming back, Rustom, to the discussions around raw materials, how much of that would be pricing? Because I believe when you last gave guidance still with 12 months, you gave a 3% organic sales growth guidance, but most, if not all of that would have been volumes. Thank you."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yeah. Look, maybe I get started and then as you wish, Rustom can comment on the raw materials. The organic sales growth will be 4%, that's what the currency-neutral, that's what we are planning. Rustom?"
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Okay. So, I mean, that was the -- I mean, I was going to say the same thing, that effectively FX has been as well in the 6% [Phonetic] number, as we see for the whole year. So on the -- Gunther, the other part of your question was just in terms of recovery, right? And we do expect to recover parts, but not all, we haven't quantified that yet in specified, but part, but not all of the increase in material costs. Does that clarify?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we will take our next question from Jeff Zekauskas with JPMorgan. Please go ahead."
+    },
+    {
+      "speaker": "Jeff Zekauskas",
+      "speech": "Thanks very much. I was wondering, what's the magnitude of the divestitures that you contemplate? You said $500 million in sales or $700 million in sales, or $1 billion, what's the scale? And secondly, in looking at your global sales review, it seems that the issue was Western and Central Europe, which contracted 5%. What is it about your business in Europe that's so different than your businesses in the other region, such that you have a negative growth rate? And how does that region look for the remainder of the year?"
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yes, let me -- Jeff, thank you for the questions. The magnitude of the divestitures for the non-core businesses might be round about 5% of sales growth, that's what we are targeting right now. And in terms of euro, I think what is really important that you see the COVID impact on Europe. And that's probably the biggest impact we see right now, because the composition of the business has a lot of Food Service in. For example, we have the -- at least up to end of last year, Fine Fragrance was impacted because a lot of it comes out of Europe as well. And that was probably the main impact. And now we see, hopefully, opening up of the economies in Europe and increasing vaccination rates, we expect actually good turnaround on -- with our European business. And actually, we have seen the first signs already in April, which is really, really good for us. I hope, that helps to answer that question here."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will move next with JP Juvekar [Phonetic] with Citi. Please go ahead."
+    },
+    {
+      "speaker": "JP Juvekar",
+      "speech": "Yes. Hi. Good morning."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "JP Juvekar",
+      "speech": "Andreas, you talked about Food Service business and Fine Fragrances, two businesses that kind of took a hit during the pandemic. As the economy opens up and people start going out, how quickly can they get to pre-pandemic levels? And then one question for Rustom, you mentioned sort of your top raw materials rattled them off. But can you talk about sort of your Top 5 or 6 rank order them, so we understand what is the raw material exposure of the combined company? Thank you."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Okay. Let me get started first, I would say, on the Fine Fragrance side, faster than we had expected. I believe, we expected end of last year is still that it takes us until '22, to get back to pre-pandemic levels. But now, I will be more optimistic in what we are seeing right now, which is really good. Food Service might take a little longer. And particularly out of Europe, to get back to the pre-pandemic levels. I think we will hit it probably next year. But I would say, it's a very, very dependent, what's happening now in the second and in the third quarter. But as we said, Fine, more optimistic than end of last year, Food Service, we will see it and the focus here is on Europe. Rustom, I hand it over to you."
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Yes. I would say that soy and locust bean kernels do stand out as two of the largest in there. The -- and the vegetable oils are much smaller, and several of them. And then -- I mean, turpentine is something we have as well, but much smaller than I mentioned. And of the last one that we mentioned, propylene glycol, that one is fundamentally it was force majeure related, and we work its way back."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Ryan Tomkins with Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Tomkins",
+      "speech": "Thanks very much. Hello, everyone. Yeah, I'm just wondering if you could give an idea now that you've secured your first invoice for cross-selling and solution selling. What you might think the profile of the customer will be or who you are getting better traction, maybe in terms of size, geography, products or any information would be interesting there. And then just more of a housekeeping one. I noticed since Q4, the G&A guide has gone up a little bit, and it looks like the tax rate guiding for is quite a bit higher than what was implied in Q1. So, whether we could just have a comment about that, that would be appreciated. Thank you very much."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Sure, absolutely. I take the first one, Rustom takes the second one. So the first thing we are seeing in cross-selling is that we had the first big win with a big customer. And it was actually a cross-selling between our Scent business and our Health & Bioscience business. So it's a combination where basically we get something on the enzyme side because we have good access to our Scent business. So bigger customer, a European -- a global customer. And I think on the product side, as I said, it's in the detergent area, which I think is very, very good, and very promising. Because we see a good pipeline now also on the fruit side coming in, so -- our Nourish division. So it's going actually very, very well. And actually, we can make the $20 million we were promised for this year, actually quite nicely in 2021. And I'll hand it over to Rustom."
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Thanks, Andreas. Yeah, there is no change, really. I mean, we had never before actually specifically guided to the P&L ex-amort. We thought that would be more useful because as people have pointed out just that when doing the modeling, I mean, we are talking about our EPS ex-amort EBITDA, all the rest of that. So that's really what we did. I mean, if you look at 2020, to clarify, I mean the adjusted P&L number that we had for the whole year was 17.5% and the P&L ex-amorts 18.5% right. And so the number this year what we are going to at 21.5% is reflects the roughly about 100 basis points, simply for the difference between those two. And then the rest of it is just the fact that N&B came with a higher tax profile, which we had communicated and expected."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Mark Connelly with Stephens. Please go ahead."
+    },
+    {
+      "speaker": "Mark Connelly",
+      "speech": "Thanks. Rustom, if we look past the nice progress on working capital, do you think that's a normal progression of working capital has changed very meaningfully, leaving out any discrete benefits you continue to get from the merger integration?"
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "No, look for the rest of the year, I wouldn't be looking [Phonetic] working capital to improve the same way at all. I mean, we had a very, very strong first quarter. I mean, we had roughly an eight-day improvement in working capital days, right. And that was driven by HIF, and IFF inventory, the legacy IFF inventory and legacy N&B payables driving performance. As we go forward in the year, we will actually be building inventory at legacy N&B to satisfy demand investment to strengthen our supply chain. And also the raw material cost increases we are talking about, are going to increase the dollars on hand, right. I mean, DSO pretty stable through the rest of the year. So we haven't specifically forecast core working capital. But basically, by the end of the year, I would think we'd expect it to go up a little bit. And that's all factored in. We're still pretty much able to deliver the $1 billion of free cash flow, that we have in mind for the year as well. And that's with the working capital, with the capex, with everything."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Lisa De Neve with Morgan Stanley."
+    },
+    {
+      "speaker": "Lisa De Neve",
+      "speech": "Hi, guys. Just two from my side. So, so far we've talked about the segments where you expect sales to return back to growth. So, talking about the other side of the coin, I mean, which segments should we perhaps consider to normalize as we're going through the coming quarters, especially as it relates to, for example, the Consumer Fragrance, immunity expert sales with some categories have done incredibly well, but as well some of your peers have flagged quite level of stocking in some categories in the first quarter. So it would be very helpful to sort of get your view on this. Thank you."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Sure, Lisa. Absolutely. If I look at the different categories here, the good news is, if we look at our forecast, actually almost all of the categories will see some growth going forward, which is actually a great situation where we are being in. I agree with you on the Consumer Fragrance side, where we had double-digit developments in the last -- our last year. We might see a bit of a normalization, but we still expect good growth and maybe single-digit growth in that very important category. Another, let's say, category where we have very strong comparables is probiotics. You might have seen this for a couple of months. It was for legacy N&B double-digit growth last year. So we will see a normalization here, but still a growth in the mid-single-digit range going forward. So these are the two categories, which I would call out. All the others are looking actually quite strong going forward in terms of growth."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from James Targett with Berenberg. Please go ahead."
+    },
+    {
+      "speaker": "James Targett",
+      "speech": "Hi, good afternoon. I just wanted to go back to pricing, and just ask about, is there anything about the new N&B business, which makes cost price through harder or easier on legacy IFF? Thinking in terms of, how long pricing soy input cost may take to pass on that? And just to follow up on the -- I think on the last question, we just did [Phonetic] in the Health & Biosciences division, and you are flagging softer growth in health and negative in cultures and food enzymes. Is that just down to the tough comp, or is there anything sort of more underlying in terms of market demand there? Thank you."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yeah. Let me take it and start with the second question first. It is basically tougher comparisons, that's what it is, because last year or end of first quarter and then into the second quarter, it was very, very, very strong, very double digit, and that was hard to, let's say, to make up this year. We have seen, let's say, in Q1, for example on the Health & Bioscience piece, we did double-digit growth. And as soon as that normalizes, we will see good growth coming out of H&B as well. Because the underlying business is actually very, very good, and the demand is strong. On the pricing side, it's basically a pass through, as you're saying, it's easier to raise prices compared with some of the legacy F&F businesses. And so that the time lag is not as long as it is for some of the F&F businesses. I hope that answers your question, the first part."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we will take our final question from Lauren Lieberman with Barclays. Please go ahead."
+    },
+    {
+      "speaker": "Lauren Lieberman",
+      "speech": "Great. Thanks. Good morning. I know we've covered a lot, one more thing I was curious about was the free cash flow guidance being at $1 billion for this year. It just strikes me a bit low, given that I think the IFF, the management case for N&B was originally calling for something closer to like $1.3 billion for '21. I know that's a 12-month number, we're only looking at 11 months, but that wouldn't really explain all the difference. So, I was just curious, kind of thoughts on why that lower free cash flow guidance for the year? Thanks."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Rustom?"
+    },
+    {
+      "speaker": "Rustom Jilla",
+      "speech": "Yes. So, Lauren, hi. The 12 months versus 11 months is a factor, of course, right, coming through the number. We expect slightly higher capex than we originally envisaged as we invest in the business, integration unit capacity, normal run, maintenance, all the rest of that, right. We are also building as we said a little bit more inventory than we expect it to, and in the legacy N&B end of the business, and so that's going to add as well. And fundamentally, I mean, the rest of it is a strong EBITDA and then the business just flows through."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And it shows that we have no further questions at this time. I would now like to turn the call over to Andreas Fibig for any closing remarks."
+    },
+    {
+      "speaker": "Andreas Fibig",
+      "speech": "Yeah, thank you for the participation. Certainly, a very busy and good quarter for us, because it was the first two months as a combined company. And you've seen lots of moving parts also in the external environment. But I believe, IFF handled that well, and I would like to thank the employees again for that first -- robust first quarter. And then -- and also we see actually a positive sales development and expectations for the rest of the year. With that, I wish you a productive and good day, and talk to you soon. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 62 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Michael DeVeau--Senior Vice President, Chief Investor Relations & Communications Officer",
+    "Andreas Fibig--Chair of the Board and Chief Executive Officer",
+    "Rustom Jilla--Executive Vice President, Chief Financial Officer",
+    "Mike Sison--Wells Fargo -- Analyst",
+    "Mark Astrachan--Stifel -- Analyst",
+    "Adam Samuelson--Goldman Sachs -- Analyst",
+    "Lucas Beaumont--UBS -- Analyst",
+    "Faiza Alwy--Deutsche Bank -- Analyst",
+    "Matthew DeYoe--Bank of America -- Analyst",
+    "Ghansham Panjabi--Baird -- Analyst",
+    "Gunther Zechmann--Bernstein -- Analyst",
+    "Jeff Zekauskas--JPMorgan -- Analyst",
+    "JP Juvekar--Citi -- Analyst",
+    "Ryan Tomkins--Jefferies -- Analyst",
+    "Mark Connelly--Stephens -- Analyst",
+    "Lisa De Neve--Morgan Stanley -- Analyst",
+    "James Targett--Berenberg -- Analyst",
+    "Lauren Lieberman--Barclays -- Analyst"
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by, and welcome to the BankUnited, Inc. 2019 fourth-quarter and fiscal-year earnings conference call. [Operator instructions] Please be advised that today's conference may be recorded. [Operator instructions] I'd now like to introduce your host for today's call, Ms.\nSusan Greenfield, corporate secretary. Please go ahead."
+    },
+    {
+      "speaker": "Susan Greenfield",
+      "speech": "Thank you, Liz. Good morning, and thank you for joining us today on our fourth-quarter and fiscal-year 2019 earnings conference call. On the call this morning are Raj Singh, our chairman, president,\u00a0and CEO; Leslie Lunak, our chief financial officer; and Tom Cornish, our chief operating officer. Before we start, I'd like to remind everyone that this call contains forward-looking statements within the meaning of the U.S.\nsecurities laws. Forward-looking statements are subject to risks, uncertainties and assumptions, and actual results may vary materially from those indicated in these statements. Additional information concerning factors that could cause actual results to differ materially from those indicated by the forward-looking statements can be found in our earnings release and our SEC filings. We do not undertake any obligation to update or revise any such forward-looking statements now or at any time in the future.\nWith that, I'd like to turn the call over to Raj."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Thank you, Susan. Welcome, everyone, to our earnings call. Thank you for dialing in giving us your time. We're coming to you from beautiful Miami with a beautiful day, and it's even more beautiful because of our earnings.\nWe closed the year and the quarter on a very, very strong note. For the year 2019, net income came in at just a little over $313 million, that's $3.13 per share. I think that makes this, from an EPS perspective, our highest EPS year, excluding that one tax benefit that we got a few years ago. So we're very happy with the performance.\nRemember, this is just -- this is our first year without loss share, and we're hitting record EPS numbers, so we're really happy about that. Let me do a quick comparison to the prior year. The prior year, our earnings were $325 million or so, an EPS of $2.99, 2-9-9, that included loss share. So even with the fact -- with incurred loss share, getting to a $3.13 EPS from $2.99 in a year is about 5% growth.\nAnd if you were to actually just look at non-loss share earnings in '18 and compare them to this year's earnings, EPS grew, I think, about 33%. ROA came in at 95 basis points and ROE came out at 10.6%. For the quarter, we are reporting net income of $89.5 million or $0.91 per share. This is the time of the year when we give you guidance, which we will in a second.\nBut before we talk about what we're looking forward, let me just recap. I think our earnings release in first quarter of 2019 was also on the 23rd of January. So exactly a year ago, we said to you that we think loans will grow mid-single digits, deposits will grow mid-single digits. At that time, 2.0 efforts were not finalized so we said, earnings should grow low single digits, later on, we said they would actually shrink -- I'm sorry, expenses.\nAnd we gave you some guidance around margin, which is always a harder thing to do, but we said we'll probably be in the 2.50% to 2.60% range. Now -- and I think we never talk about EPS guidance, but you all obviously put out EPS targets. I think this time last year, your expectation collectively was about mid-280s, I think, or so. I could be a little off on that number.\nBut if you compare that to where we came out, I think loans grew by 5% in the year, deposits grew about 4%. Not only the deposits grow 4%, 73% of the deposit growth was DDA, which we are very, very proud of. And expenses actually shrank about 4.5%, in large part to the efforts of BankUnited 2.0. And all of that's all to $3.13 EPS, which is nicely better than what the expectation was 12 months ago.\nSo all in all, we're very happy with how 2019 came out, and we were even more happy and excited about where we think we will -- we are headed in 2020. So just a few quick more detailed numbers on this quarter and this year. The biggest news in the fourth quarter of 2019 was that deposit costs came down by 19 basis points from 1.67% in the third quarter to 1.48% in the fourth quarter. We have said this -- we set the expectation at the last earnings call that you should expect a meaningful drop, and here it is 19 basis points.\nLargely through that, we've been able to hold our NIM flat. I think the guidance we gave at third-quarter earnings was that we may be down a couple of basis points, but we actually did a little better, and we came in flat at 2.41%. Leslie will get into more detail behind that. DDA growth for the fourth quarter, so we grew DDA by $168 million and total deposits grew by $438 million.\nFor the year, DDA growth came in at $674 million, and total deposit growth was $920 million. So 73% of that $920 million was DDA growth, which is I think the thing that we're most proud of. Loans for the quarter grew $300 million or so. And for the year, about $1.2 billion.\nSo that's about a 5% growth rate for the year, as I said a few minutes ago, and Tom will get into more detail around where that growth came in from, and it was pretty widespread. Let me give you my take on credit. NPLs increased to 88 basis points from 60 basis points last quarter. And that increase, as we had talked at the last quarter, was largely attributed to one loan in the C&I portfolio in the Florida region.\nAnd we've been working on that, and we've taken a special provision for that loan this quarter. So total NPAs increased by $67 million, $41 million of that was that one particular loan. The rest is largely attributed to SBA loans that we put on nonaccruals, which are guaranteed. So that's about $13 million.\nSo between those two things, that makes up a vast majority. Now you will notice while NPLs have gone up, our criticized and classified loans are actually down a couple of basis points. So within that category, what has happened is stuff that was criticized and classified but accruing last quarter, we made the $67 million that was nonaccruing. So it's moving from that bucket to the other.\nThe overall bucket of loans that we keep a very close eye on actually went down by 2 basis points from 1.92% to 1.90%. Net charge-offs for the year came in at 5 basis points. This compares to 10 basis points or so previous year, excluding taxis, including taxi, it was even higher, it was 28 basis points. But ex taxi, we were running about 10 basis points in '18 and 5 basis points in 2019.\nSo a progress over there. In terms of systemic risk in the portfolio, still -- we are only seeing -- the only place where we see systemic concerns are in the restaurant franchise finance space, which is about a $360 million or so size portfolio for us. That's what we are keeping a very close eye on. And other than that, we don't see any systemic issues on credit anywhere in the portfolio.\nQuickly talking about BankUnited 2.0. We're kind of halfway at the halfway point in terms of this two-year effort. We're very happy with the progress that we've made. Like I said last quarter, I think on the cost side, we're a little further ahead than what we thought we would be at.\nAt the revenue side, we are a little further behind than where we thought. This is not in terms of numbers. Numbers, we're still very comfortable with what we gave you, which is about $60 million total benefit, $40 million of it cost and $20 million of it in revenue. I'm referring to is the timing.\nSo on the cost side, the timing came out better than we had expected, and the revenue a little worse, but in terms of achieving both those numbers, we are still very confident that we will achieve them easily. In fact, the success that you see this year, if you just look at our expense line, down 4.5% from last year, that -- a lot of that goes to the progress that we made in 2.0. Guidance quickly for next year. I would say it's very similar to what we gave you last year, mid-single digits, loan growth, mid-single digits.\nOur deposit growth, our focus within deposits will continue to be DDA. 2019 was $674 million, the year before that was $550 million in DDA growth. I would love for the number to be even higher this year. But it's notoriously difficult number to predict, but we still think it will be similar to last year.\nWe also -- on expenses, we think we'll be flat this year. If you do nothing with the expenses, they tend to grow 3%, 4%. I think with -- what essence will be done in 2.0 will help us keep expenses basically about flat. Share buyback, we are under the $150 million buyback program.\nWe did about $4 million of that this quarter, and we'll continue to execute on that opportunistically over the course of this quarter and from thereon. With that, let me turn over to Tom. He'll give you a little more color on the numbers."
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "Thanks, Raj. As Raj mentioned earlier, growth for the quarter from a loan portfolio perspective was $301 million, it was a solid quarter for us. We are really happy to see that we had broad growth across really many of our key business lines within the company. Our C&I book grew by $130 million.\nIn commercial real estate, excluding multifamily, we grew by $230 million for the quarter and had growth in both markets. Residential business grew by $90 million. We had just over $30 million of growth in the Bridge Funding Group. So it's really a broad spread, nice quarter across all lines of business.\nSo we were happy to see that. Multifamily portfolio for the quarter, probably comment on that just a little bit, remained relatively flat. We had $53 million of growth in Florida, which was offset by a decline of $57 million within the New York multifamily portfolio. For the year, the New York multifamily portfolio declined by just under $350 million, which was kind of in line with our expectation.\nMortgage warehouse business, one of our newer faster-growing businesses, was actually down a bit seasonally. In Q4, it was down by $137 million, kind of reflective of normal seasonality and lighter utilization that we tend to see at that time in the quarter, but overall commitments continue to grow in that area. Looking ahead, in 2020, we still continue to see obviously good overall economic conditions in the markets that we operate in. We're seeing growth opportunities in our corporate and commercial banking lines in both Florida and New York, our specialty finance businesses.\nFlorida commercial real estate lending, we continue to expect to see quality growth, overall growth in the commercial real estate portfolio, non-multifamily focused, expect good growth in the small business lending area and continued growth in the residential portfolio. While there's certainly opportunities in the New York commercial real estate world, run-off of the multifamily portfolio will likely continue to offset the overall growth in the New York real estate portfolio in 2020 as we have a fairly large group of maturities in 2020. So we expect to see net run-off in that area. As Raj mentioned on the deposit side, also a similar story, good growth across virtually all of our major operating lines, which, again, is encouraging to see.\n$438 million of growth, 38% of that, as Raj mentioned, was in noninterest DDA, and we continue to invest substantial amounts of time and energy and effort in increasing treasury management business, fee-based business and operating accounts across all of our business lines. So overall, from a loan and deposit quarter, I think a very solid quarter for us. So with that, I'll turn it over to Leslie."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "OK. Thank you, Tom. Getting into a little bit more detail on some of the quarterly results, talking first about yields and the net interest margin. Net interest income was essentially flat quarter over quarter but declined by $110 million compared to the fourth quarter of the prior year.\nObviously, as you all know, that was primarily due to the $107 million reduction in interest income from the formerly covered loans. The NIM remained flat quarter over quarter at 2.41%, down from 4.01% for the fourth quarter of 2018, again, primarily due to the decline in those high-yielding covered loans. Those decreases were expected, given the termination of the loss share agreement in the final portfolio of sale of covered loans in -- toward the end of last year. The overall yield on loans was 4.27% this quarter, down from 4.43% for the immediately preceding quarter.\nThe decline is mainly due to coupon resets on floating rate loans and payoff of loans at higher rates than some of the new originations coming on. The yield on loans for the fourth quarter of the prior year was 6.35%, again, the decline attributable to the demise of the loss share portfolio. The carrying value, because I know you guys are going to ask me this, the current carrying value of formerly covered loans at December 31, that was $158 million. The yield on those loans was 34.91% for the quarter.\nAnd we expect the yield on those loans to be between 34% and 35% going forward and the balance to continue to decline at a fairly consistent rate. And hopefully, I'm talking about those for the last time. The yield on the investment portfolio was down to 3.18% for the fourth quarter of 2019, compared to 3.40% for the immediately preceding quarter and 3.59% for the fourth quarter of 2018. The decline was primarily due to coupon resets, lower reinvestment rates and higher prepayment fees on securities owned at a premium.\nThat accounted for 6 basis points of the quarter-over-quarter decline this year. Duration of the portfolio remains low at 1.3%. As Raj mentioned previously, the total cost of deposits was down 19 basis points linked quarter to 1.48%. The cost of interest-bearing deposits was 1.81% this quarter, compared to 2.01% for the preceding quarter and compares to 1.80% so relatively flat to the fourth quarter of 2018.\nNoninterest-bearing demand deposits were 17.6% of ending deposits and 16.7% of average deposits for the year, compared to just over 15% for both -- for the prior year. For the fourth quarter of 2019, average noninterest-bearing deposits were 18.1% of average total deposits. So great progress there. NIM.\nFirst, our NIM guidance, going forward, is based on an assumption that there'll be one Fed rate cut in the back half of 2020. We do expect pressure on asset yields, both loans and securities as coupon resets continue and assets come on at a little bit tighter spreads than some of the assets that are running off. However, we also expect the cost of deposits to continue to decline, particularly in the CD book, though there may be fewer catalysts for reducing deposit costs in 2020 if the Fed only cuts rates once. On balance, I think, as Raj said, we're projecting the NIM for 2020 to be pretty much flat to the fourth quarter of 2019.\nTurning a little bit to the reserves and the provision. The provision for the quarter was actually a little lower than we initially expected, in part because we had recovery this quarter of about $4.2 million that we were necessarily anticipating at the time of last quarter's call. And that partially offset the provisioning we did related to the $41 million commercial relationship that Raj mentioned. Within, buried in the provision, there's an increase of $10.5 million in specific reserves, but in addition to those recoveries, we had an offsetting reduction in reserves on the past portfolio as the historical loss ratios that drive that continue to come down.\nTalking for a moment to CECL, our current estimate of the initial adjustment to the reserve on adoption is an increase of $25 million to $30 million in the reserve. That will bring that to a ratio somewhere between 58% to 61% of total loans, compared to the current 47 basis points, and we also expect a $5 million to $6 million increase in our reserve for unfunded commitments upon adoption. The CECL provision, I'll be honest with you, is pretty challenging to forecast, because you find yourself trying to forecast a change in your economic forecast, which is pretty much impossible to do. So it is a challenging thing to forecast, but we do obviously expect an increase in the level of provisioning in 2020 just due to providing for those lifetime losses versus incurred losses.\nAnd currently, I would say we expect that CECL reserve to remain around that initial range of 58 to 61 basis points throughout 2020. However, I emphasize that that can be volatile, and it will be impacted by changes in things such as our economic forecast, forecasted prepayment fees and portfolio mix. I'll give no comments on CECL. I want to briefly comment on the securities gains that you saw this quarter.\n$5.7 million of those gains related to opportunistic sales of securities we were still holding from way back the original acquisition of a failed bank in 2009. Most of those were related --- rated -- continue to be rated below investment grade, and we just took the opportunity to kind of clean up that segment of the portfolio, and that's what the majority of the gains we recorded this quarter relate to. A little bit on expenses, noninterest expense for the year ended December 31 included $14.8 million of costs specifically related to BankUnited 2.0. For the fourth quarter, those costs were pretty insignificant, only about $300,000.\nAs Raj alluded to, for the full-year 2019 compared to 2018, if you just do nothing and let things run, your expenses are going to go up 3% to 4% a year just as you give people their normal merit increases and whatnot. Because of the impact of BankUnited 2.0, we do think those expenses will remain flat year over year in total. I would say that the one-line item I think you will see some increase in, as you probably noticed as we move through 2020, is the technology expense line as we start to see some of the impacts of some of the technology investments that we've been making begin to hit the P&L. And that's in part the reason that we think those expenses, in the aggregate, will be flat next year instead of down.\nIncome taxes, let me comment on that for a few minutes. Obviously, the ETR was very low this quarter at 14.4%. All of that really was a result of the fact that we filed all our state returns in the fourth quarter and we fine-tuned all our portion of factors. And the estimates we have made around with the portion of factors came down, and we realized the benefit of that this quarter.\nWe will continue to see that benefit reflected in a lower ETR going forward. I expect the ETR for next year to be between 22.5% and 23%, which is consistent with where we landed for the year for 2018. The other thing that happened is Florida actually reduced its corporate tax rate by about 1 percentage point in the fourth quarter so that also gave us some benefit. With that, I'll turn it back over to Raj for any closing remarks."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah. It seems that the only thing I would add, which I forgot, is just generally talk about the environment. Florida and New York, our primary markets, both continue to do extremely well. We don't see signs of an aging business cycle.\nI know when we all look at our Bloomberg screens or at least as we were looking at them a couple of months ago, it was a different story. But on Main Street, we don't see that. And we're happy for it. It's something we don't control, but obviously, it impacts our numbers.\nSo as far as we can see, the view on Main Street is very good. With that, we'll turn it over to you guys for Q&A."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our first question comes from the line of Brady Gailey with KBW. Your line is now open."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Hi. Thank you. Good morning, guys."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Good morning, Brady."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "So Raj, buybacks have really slowed in the back half of '19, and you only repurchased not even half of 1% of the company. I mean that's -- if you look at the first half of the year, you repurchased 4% of the company. Last year, it was about -- or in 2018, it was about 8%. Is the buyback pretty much over? Or do you think in 2020, you'll step it back up and get more aggressive repurchasing stock? And stock's still relatively cheap at 115 times tangible?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah. I mean, Brady, we don't -- if you go back and see when the buyback was authorized, literally the day or when we were having those discussions with the boardroom, the stock is very low at that time or maybe just a day or two before that. And we set sort of some parameters that we gave to our brokers. And literally within a day or two, even before the buyback could technically start, stock stared to go up and we kind of kept chasing that and never really caught it.\nIt's a good problem to have. I wish it's an even bigger problem. But no, there's no other magnitude. We don't sit here and try and predict.\nWe don't trade the stock or anything like that. We give directions once or twice a quarter, and then we just let it be. So we were just always a little -- a couple of bucks behind, and that's why you didn't see as much of a buyback. We still love our stock as a great investment where it is today, and you'll see more buyback going forward.\nThere has been a lot of volatility in the marketplace, right? Last year, our stock was up and down a lot, I mean -- and not for fundamental reasons but just what the market is doing. So we also saw Brexit coming in December, and we thought that would create a lot of noise and be an opportunity. So for us to buy stock back cheap, but it never happened. Like I said, I'm happy with that.\nBut it obviously reduces the buyback. But we'll continue to buy back. This is not a discontinuation of the buyback strategy. We will do this buyback.\nAnd then when it's done, we'll go back to the board and we'll look at our capital position again. One thing that I also forgot to mention, let me just say that out is, at the February board meeting, we are going to look at our dividend policy as well. So what comes off of it will be published only when that meeting happens, but that is on the agenda for the February board meeting. Our dividend has been at $0.21 a quarter for a very long time, and the board is going to look at it in February."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "The only other thing I would add to that, Brady, is that we haven't changed anything about the capital targets that we've disclosed to you in the past."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "All right. That's helpful. And then on the $41 million Florida C&I credit, I remember you all mentioning that briefly last quarter, any other color as far as what is happening with that credit? And then I know you said you took a provision on it in the fourth quarter. How -- what's the mark on that loan as of now?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "All right. It's about -- it's -- a little less than $10 million is the provision that we've taken. And we feel very comfortable with that number. It took us all of this quarter to fine-tune the number and come up with what we think is a very, very safe number.\nIt's going to be in work out for a while. The situation is not one of liquidation and bankruptcy kind of thing where we can say in three or four months, we'll liquidate everything. So it's an ongoing concern and so this loan will be in work out for a while, but we think we're adequately reserved with this $9.5 million that we've just taken."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "My CAO is sitting here, so he hits me. I'll retract what I'm about to say. But I think under CECL, the reserve for that loan is going to be unchanged. And we feel like that's an appropriate [Inaudible].\nHe didn't get me."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "And then finally from me, Raj, you mentioned last quarter about hiring a couple -- maybe a team or two in Atlanta on the commercial front. Any update on kind of how you're thinking about Atlanta and the investment you're going to make there?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah. So the team is here. They are off to the races. I would say that these are seeds we're sowing in a new market.\nIt's not going to have an impact that will drive your investment analysis over the next 12 months. But these are seeds we sow for three and four years later, and it actually works out the way. We think it will be material in three or four years down the road, but not in the next year or two. So we're happy with the team.\nThe progress has been made in the very first few weeks. We have a decent pipeline. And -- but I think the numbers will be small early on."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Got it. Thanks for the color guys."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Ebrahim Poonawala with Bank of America. Your line is now open."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Good morning, Ebrahim."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Just one quick clarification, Leslie, on the expense side. When we think about flat expenses, I just want to make sure we're looking at the right numbers, it's about $420 million adjusted for BKU 2.0 and the amortization -- and the depreciation expense so is $420 million the right way to think about it? And then --"
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "That sounds right. But yeah, it's just the total minus the $14.8 million and BU 2.0 cost. And then to your point, the depreciation of operating lease equipment, which will fluctuate with the portfolio."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "And is there much in 2.0 cost remaining that we should expect in 2020?"
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "The only thing, I think, a significance that you'll see going forward, maybe some costs associated with some of the branch closures. And as we incur those, if they're significant, we'll disclose them. But there will be some of that and probably some technology investments that we'll be making in some of the platforms that we're putting in place to generate the revenue. So those would be the two categories where I think you'll see something going forward."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Got it. And if we took a step back and, Raj, if you look at BK 2.0 and what it's accomplished, looking out into 2020, beyond 2020. Like if you could just talk to like what it has done, means we see the obvious decline in -- or keeping the expenses flat or the savings. But beyond that, on the expense/efficiency side, how has that changed BankUnited and how should that impact like as we think about a more medium-term outlook for the company?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "I mean I could talk about that at nauseam. And I have here bullet points in front of me, which Leslie prepared, but I don't want to get into that level of details. Because there is no one particular thing that I could just point out. It's branch optimization, it's organizational optimization, it's changing some of the current process, it's the digital bank investments that we've made.\nThere's a lot of little things, it's robotic process automation. We have 30 bots in production now and many more to go in. All of these, by themselves, any one thing is not as exciting to talk about. But when you put it all together, it adds up to $40 million of expenses and $20 million of revenue.\nBut it is really about changing out or retooling the plumbing of the company so that it remains nimble and efficient as we get to the next sort of phase of growth. So we have not done this major retooling in 10 years. And 10 years ago, we were a $10 billion, $15 billion bank. And today, we are $35 billion.\nSo this kind of major retooling is needed for companies that grow as fast as we've grown. In 10 years' time, if we are a $60 billion, $70 billion whatever billion dollar company, it will probably be needed again, because we will outgrow what we are doing today in terms of processes and organizational design and so on. So I'm happy to talk to you in a lot more detail if you want to call me, but it really isn't one thing that I can point to. Maybe the organization design would be the biggest thing, biggest change."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "In some of the technology."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah, the technology investments, yeah."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "That's fine, I'll circle back offline. And the other point just around technology investments. If you -- I wonder if you can provide any color around, is this just upgrading core systems? Is there anything client-facing revenue-driven kind of investments that you are undertaking that should show up maybe later this year or next year?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "So I would say the two big buckets are, we're moving the bank completely to the cloud, and we are more than halfway through that journey. That journey will be complete by the end of this year. So that's one big thing, which we started -- honestly, that was not even part of 2.0. We started doing that before 2.0 and that is coming to a head, and that has -- that improved the infrastructure of the bank in many ways.\nIt's not just about cost, it's also about making the infrastructure much more robust. There are big investments that are happening in the digital space as well on customer-facing technology, which also start to go live with clients. I think this quarter is an employee rollout, and then starting next quarter, it will be a bigger rollout for the rest of the franchise. There are investments also being made on the commercial payment side.\nWe are early in that. That project has kicked off this year, and will take a couple of years. So there is a lot of investment that is going in. It's difficult for me to just say, \"OK, this effort leads to this many dollars in revenue.\" But all these investments we're making are eventually not because we just like the technology, but because we like more revenue.\nSo they are all driven through our assumptions of revenue. Some that will pan out in the next year, some will take three or four years, but are big numbers."
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "They're also all very impactful on the deposit side of the business."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Oh, yeah. That will be more settled than on the lending side."
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "Right. And on lending side of the business, yeah, yeah."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah. It's not -- you've not heard the word loan origination system. All these investments, whether it's commercial payments, whether it is digital and our infrastructure in the cloud, they are all geared more toward deposits than loans."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Got it, all right. I look forward to seeing the BKU ad in the Super Bowl."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "We are doing some guerilla marketing on that front as well, by the way, if you want to look for it, that's more going to be on social media."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Dave Bishop with D.A. Davidson. Your line is now open."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Yeah, good morning."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Good morning, Dave."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "A question circling back in terms of the BKU 2.0. Raj said there's a little bit --"
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "We're having a little trouble hearing you."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Yeah. You said there's a little bit of a delay on the revenue side in terms of the BKU 2.0. Just curious in terms of the timing, you still think that's achieved by 2021. And just remind us in terms of some of the products and new systems and products that are going to ramp up the revenue side?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah. So the revenue bucket was, again, made up of a number of things that added up to about $20 million. Anything that had to do with existing products and existing platforms that we're already on, that we are on track and probably a little bit ahead of being on track. Anything that falls under the category of -- that we have developed a new product or new technology or had to hire new people with product expertise, that has taken maybe a quarter longer than what we thought.\nSo stuff we thought we were going to launch in the second quarter of this year is now pushed out to third quarter. So that's the delay. So it's about three or four months' worth of delay. But on the expense side, I will tell you that we are three or four months ahead of where we thought we were and the expense will be as twice as big as the revenue will be.\nSo overall, for the program, I feel we are a little bit ahead. But if you just break it down between revenue and expenses, that's where we are. The new products, to your question, a commercial card program that we are going to launch, that is on a three-month delay. We thought we would launch it in April, but it is going to be more in August.\nThat team -- it took a while to hire the right team. It took -- all this takes a little bit longer to negotiate with vendors and do the IT buildout. So that's where we are. We're also making changes to small ticket underwriting, call it -- I would call it a new product, but it is certainly a new process and we're automating that and that is also on a three- or four-month delay.\nWe thought we would launch it early this year, it will probably happen in -- late in the summer. So it's things like that where we've had to develop new things or hire new people or launch new products, it ended up taking maybe three or four months more."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Got it. And then maybe a quick update in terms of what you're seeing in that franchise finance portfolio on the railcar portfolio?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "The franchise -- did you say railcar or franchise?"
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Both --"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "I mean the question is about restaurant franchise?"
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "OK. So let me first talk about -- our franchise business is, give or take, about $600 million, of which the restaurant piece is about two-thirds of the business. So let's say, about $360 million or so. The nonrestaurant, which is the rest, which is things like --"
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "Fitness."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Fitness and another concepts are doing extremely well. So we're not concerned about that, we're happy to actually grow that part of the business. Restaurant, which is about $360 million, is under stress for a number of reasons. One is got to do with the unemployment rate being what it is.\nIt's putting a lot of pressure on labor cost. Two, I think changes in customer behavior driven mostly because of Uber Eats and Grubhub and DoorDash and so on, customer behavior is changing in terms of rather than coming into a restaurant, there's a lot of delivery happening and when delivery happens, often the revenue model gets impacted because you're not ordering some of the higher-priced stuff or higher-margin stuff like drinks and desserts. So that's putting pressure on it. And then I can go on.\nWhen you talk about pizza, that used to be the primary delivery product. And now that product is getting challenged, now everything is available for delivery. And so just the pizza concept is under pressure from new competition, they only had to worry about the Chinese food delivery, but now they have to worry about everything from Starbucks to McDonald's and Wendy's and Panera, everybody delivers. So that change that is happening in the business model, coupled with tight labor market, is what is putting pressure on the financials of our borrowers."
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "I would add that some of these clients are moving toward more automated methods. We happen to see one the other day, where you're -- instead of having labor produce a pizza, you have now pizza machine manufacturing. So the franchisees are working to adjust to new labor markets and new cross markets, but it's just going to take time, and there are pressure on margins while this is happening in the business. So it's an area on the food, restaurant side of our franchise business, where we're just trying to be more cautious at this point."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Got it. And is that -- any of that nonperforming or criticized and classified?"
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Any what, I'm sorry?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Any of those loans have been classified."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "There are some, yeah. I don't have the exact number in front of me, but it will be disclosed in the 10-K and was disclosed in the last Q, but there are some, for sure."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Got it. One final question. The $1.9 million impairment charge, I think it was cited in the press release, maybe color on that."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Yeah. We had some equipment under lease. It actually off-lease and when we reevaluated the residual values and the market value of that equipment, it actually wasn't railcars. It was other equipment in the portfolio.\nInterestingly enough, we found that the current market value of that equipment was a little lower than our residual. I don't think that's systemic. I don't want to expect it to be pervasive throughout the portfolio. And like I said, it wasn't even a railcar, it was another form of equipment."
+    },
+    {
+      "speaker": "Dave Bishop",
+      "speech": "Got it. Thanks for the color."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Tyler Stafford with Stephens. Your line is now open."
+    },
+    {
+      "speaker": "Tyler Stafford",
+      "speech": "Hi. Good morning, guys, and thanks for taking the question."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Tyler Stafford",
+      "speech": "I just wanted to follow back up on expenses. So I appreciate the outlook for 2020 with expenses to be flat given the offsetting nature of the 2.0. But otherwise, expense growth, as you mentioned, would have been that 3% to 4%. So just to confirm, the expense reduction benefits of 2.0, will those be fully complete by the end of 2020? And then as we think about 2021, there would not be any lingering 2.0 savings? Is that the right way to think about it?"
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "There might be a little bit related to branch optimization, Tyler, that still is happening after 2020. But the bulk of it will certainly be done."
+    },
+    {
+      "speaker": "Tyler Stafford",
+      "speech": "OK. And then just following up on one of the prior questions that I don't think got asked, was just around the railcar lease portfolio. So last week, Wells called out some elevated charge-offs out of that portfolio. I think it's around $200 million or so for BKU.\nJust curious if you'd comment on what you're seeing trends-wise out of that portfolio?"
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "We haven't -- obviously, we haven't taken any other impairment charges as of -- as I just explained, the one we took this quarter was not in the railcar portfolio. So -- and we've done a very thorough reappraisal and reevaluation of all those values in the fourth quarter and did not have any additional impairment charges to take. I would say $235 million is what we have in railcars at December 31 sitting on the balance sheet, and we continue to monitor it and the appraised values are coming in."
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "Yeah. We took a deep, deep look at it in Q4, and we were satisfied with the results."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Tyler Stafford",
+      "speech": "OK. All right. Great. That's it for me.\nThanks."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Steven Duong with RBC Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hi. Good morning, guys."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Good morning. On your New York City multifamily, do you expect it to perform similarly to what we saw this quarter essentially offset your Florida multifamily for the year?"
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "No, I would not say so. I would say the maturity level in Q4 in New York for that portfolio was relatively light, it will be larger in 2020, and it will be larger in the first quarter of 2020. So that level of maturity was a bit of an aberration in Q4 2019."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it. All right. Appreciate that. And then on your warehouse lending business, you guys had solid growth this year.\nIf the industry originations, let's say, declines by 10%, do you still think you can keep this book where it is or possibly grow it?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "We have three different pipelines. So our expectation is we'll continue to grow commitments. Utilization will obviously fluctuate based on the time of the year, but also based on what happens with the mortgage market in general. So third quarter was amazing.\nFourth quarter has slowed, but more out of seasonality than anything else. First quarter will slow even more. Generally, we bought them out in February and then start to build balances up -- utilization up again in March. And then it's really in the second and third quarter where we -- utilization gets up over 50%.\nBut in terms of -- I don't look at the outstandings in that business as much as I look at commitments. The commitments are continuing to grow, and the pipeline is decent. So we're not concerned about growth in that business."
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "Yeah. I would add that when volume is down, you tend to see clients pair back credit players that are less significant in their world. And I think when we look at our relationships and the commitment levels that we have in the relationships, we're well-positioned in our major relationships."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Just curious on that, how much have commitments changed in the fourth quarter this year versus a year ago?"
+    },
+    {
+      "speaker": "Tom Cornish",
+      "speech": "I don't have a year ago's numbers."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Give us a minute. Somebody is looking right now. We'll interject that when we find it."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "OK. Yeah. And then just moving on to your resi book, did you guys have any of those buyout loans this quarter?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah. More than 100% of the growth in resi that you see was from those loans."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "OK. And can you remind us -- the current interest rate environment, it remains attractive for these loans. Is that correct?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Yeah, absolutely."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "OK, great. And then just my one last question. Just going back to -- you talked about branch closures, have you narrowed down what you're looking to do in terms of branches where you're looking to close one, maybe open another area? Or is that still a work in progress?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "No, for -- all the branch optimization decisions have been made, but the implementation of those decisions is a two-year process. So some we have already acted on in '19, and some we are going to act on in 2020. But all the decisions have already been made."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "And Steven, back to your question about mortgage warehouse commitments, they're up just a little shy of $300 million year over year."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Great. Awesome. Really appreciate. Thanks for the color."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Sean Tobin with Janney. Your line is now open."
+    },
+    {
+      "speaker": "Sean Tobin",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Good morning, Sean."
+    },
+    {
+      "speaker": "Sean Tobin",
+      "speech": "Just one clarification question on the margin. You said that it's basically flat with -- 2020 margin will be flat with the fourth quarter of '19? And is that including one rate cut?"
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Including, yeah."
+    },
+    {
+      "speaker": "Sean Tobin",
+      "speech": "In your forward progress."
+    },
+    {
+      "speaker": "Leslie Lunak",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Sean Tobin",
+      "speech": "OK, OK, OK, that's helpful. And then just one other interest rate-related question, do loan floors, are they possible for you to get done today? Is that something you're looking at, at all for 2020 within your commercial contracts?"
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Yeah. We are actively working on LIBOR-based floors. I wouldn't say we're successful 100% of the time, but we're successful a fair amount of the time in instituting floating rate LIBOR floors."
+    },
+    {
+      "speaker": "Sean Tobin",
+      "speech": "OK. That's helpful. That's all I had. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "I'm showing no further questions in queue at this time. I would like to turn the call back to Mr. Singh for closing remarks."
+    },
+    {
+      "speaker": "Raj Singh",
+      "speech": "Thank you for joining us. We're very happy with the progress that we made in 2019. We're happy where the numbers came out. I think we're most happy that deposits continue to grow and the quality of the deposit book continues to improve.\n19 basis points reduction in cost of funds, last I looked I think it was the industry-leading number from at least the reports that I've read so far. So we're happy about all that, and we're optimistic as we get into 2020. We'll talk to you again in three months. Thanks.\nBye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 50 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Susan Greenfield--Corporate Secretary",
+    "Raj Singh--Chairman, President, and Chief Executive Officer",
+    "Tom Cornish--Chief Operating Officer",
+    "Leslie Lunak--Chief Financial Officer",
+    "Brady Gailey--KBW -- Analyst",
+    "Ebrahim Poonawala--Bank of America Merrill Lynch -- Analyst",
+    "Dave Bishop--D. A. Davidson -- Analyst",
+    "Tyler Stafford--Stephens Inc. -- Analyst",
+    "Steven Duong--RBC Capital Markets -- Analyst",
+    "Sean Tobin--Janney Montgomery Scott LLC -- Analyst"
+  ]
+}

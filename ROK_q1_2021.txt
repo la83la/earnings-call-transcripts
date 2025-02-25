@@ -1,0 +1,411 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you for holding and welcome to Rockwell Automation Quarterly Conference Call. [Operator Instructions]\nAt this time, I would like to turn the call over to Jessica Kourakos, Head of Investor Relations. Ms. Kourakos, please go ahead."
+    },
+    {
+      "speaker": "Jessica Kourakos",
+      "speech": "Thank you, Tanya. Good morning and thank you for joining us for Rockwell Automation's second-quarter fiscal 2021 earnings release conference call. With me today is Blake Moret, our Chairman and CEO; Nick Gangestad, our CFO; and Steve Etzel, our Senior Vice President of Finance.\nOur results were released earlier this morning and the press release and charts have been posted to our website. Both the press release and charts include and our call today will reference non-GAAP measures. Both the press release and charts include reconciliations of these non-GAAP measures. Webcast of this call will be available at that website for replay for the next 30 days. For your convenience, a transcript of our prepared remarks will also be available on our website at the conclusion of today's call. Supplemental information related to our new business segments can be found in the Investor Relations section of our corporate website.\nBefore we get started, I need to remind you that our comments will include statements related to expected future results of our Company and are therefore forward-looking statements. Our actual results may differ materially from our projections due to a wide range of risks and uncertainties that are described in our earnings release and detailed in all of our SEC filings.\nSo with that, I'll hand the call over to Blake."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, Jessica, and good morning, everyone. Thank you for joining us on the call today. Let's begin by reviewing our results on Slide 3. Strong orders momentum we saw in the last quarter, accelerated and broadened across verticals in fiscal Q2. Total orders surpassed $2 billion, which is a new record, organic orders grew double-digits from last year's orders. As you may recall, COVID did not significantly impact our business until the June quarter of last year.\nTotal reported sales grew 6%, including a 2-point contribution from recent acquisitions, including ASEM, Kalypso Fiix. Organic sales grew a well over 1% versus prior year despite significant supply chain constraints. Manufacturing supply chain continues to be stressed by sharply increased demand, along with various well-publicized events around the world that have reduced output and narrowed freight lanes. We will continue to navigate these challenges in the coming months and take measures to continue increasing our supply chain resiliency.\nI'll now comment on our top line performance by business segment. Intelligent Devices organic sales increased 6%, led by strong, broad-based demand for our automation products. Our motion control offering continues to shine and was up double digits, as CPG companies continue to add packaging flexibility. Software & Control organic sales also grew 6%, led by strong demand across the segment. We saw growth in Logix control, visualization hardware and software, network and security infrastructure, and across the balance of our FactoryTalk software portfolio. Reported sales growth was over 12% for the segment in the quarter. Orders for the Intelligent Devices and Software & Control business segments both grew strong double digits year-over-year and sequentially.\nTurning to Lifecycle Services, organic sales declined 11% versus the prior year, primarily impacted by weaker performance in Oil & Gas. On a sequential basis, revenue and orders grew mid-single digits, and we expect continued sequential sales improvement in this segment through the balance of the year. Information Solutions and Connected Services had another strong quarter, with organic sales and orders growing double digits, contribution across a variety of end markets.\nThis quarter's orders also included a number of meaningful software and infrastructure-as-a-service multi-year wins with some of the world's largest food and beverage manufacturers. This included Kraft Heinz, where we actively monitor their industrial network and cybersecurity environments. These wins also contribute to ARR, which grew double digits year-over-year. Total backlog grew strong double digits on an organic basis, both year-over-year and sequentially.\nTurning to profitability, segment operating margin of 22% and Adjusted EPS of $2.41 were above expectations\nAnd overcame headwinds from the reinstatement of the bonus and higher costs related to supply chain constraints. Stronger volume, favorable business mix, and the timing of spending all contributed to our strong profit performance in the quarter as we continue to increase our business resiliency.\nLet's now turn to Slide 4, where I'll provide a few highlights of our Q2 end-market performance. Figures are for organic sales. We had very good growth in our Discrete Industry segment, with high-single-digits sales growth significantly above our expectations. Within this Industry segment, Automotive sales were in line with expectations, declining mid-single digits versus a strong prior-year period when auto grew by over 20%. We continue to estimate 10% organic sales growth for the year in this vertical, as MRO continues to grow and as an increasing number of capital projects are expected to launch in the second half of the year. Despite chip shortages, impacting automotive production, we are not seeing related delays in capital, we're operational spending for our products.\nThe Semiconductor vertical significantly outperformed our expectations this quarter, growing about 15%. We believe strong secular tailwinds, increasing capital spend, broadening share of wallet with customers are all driving our growth and share gains in this vertical. As a result, we are raising our semiconductor growth outlook to approximately 15% for the year, up from our original November guidance of mid-single digit growth.\nAnother highlight within discrete was our performance in e-commerce, with sales growing over 70% versus prior year. Once again, our differentiated offering, featuring our Independent cart technology, is enabling e-commerce applications at a growing number of marquis accounts. This vertical has significant secular tailwinds, of course, and has become a bigger growth driver for our overall discrete industry segment.\nTurning now to our Hybrid industry segment. These verticals also had a terrific quarter. Food & Beverage grew over 10%, as our strong product portfolio enables these customers to efficiently add SKUs as they seek to differentiate their offering and maximize their growth. We saw increased capital spending by Food & Beverage customers in the quarter. Not surprisingly, packaging OEMs are also very busy, and contributed another quarter of double-digit growth versus the prior year.\nLife sciences grew about 15% in Q2, led by strong demand in North America and Asia Pacific. We won an important MES project in Korea during the quarter, helping the Dong-A ST pharmaceutical company face the challenge of exporting products that need to comply with FDA regulations. Dong-A ST is expecting production efficiency and quality to improve by going paperless through their choice of Rockwell's PharmaSuite MES. Based on the broad-based increase in life sciences demand and the share gains we are seeing in this market, we are raising our view on life sciences and expect it to grow about 20% in fiscal '21.\nProcess markets were down approximately 10% and were weaker than expected, led by larger declines in Oil & Gas. Process verticals typically lag our discrete business by about half a year. That said, we saw sequential improvement again in North America for Oil & Gas during Q2. Mining customers are also becoming more active, we saw low-single digit growth in the quarter.\nTurning now to Slide 5, and our Q2 organic regional sales performance. North America organic sales grew by 2% versus the prior year, primarily due to strong growth in food & beverage, e-commerce, and life sciences. EMEA sales declined 7%, driven by Oil & Gas, metals and auto, partially offset by strength in food & beverage. Sales in the Asia Pacific region grew 16%, with broad-based growth led by semiconductor, chemicals, and life sciences. Asia Pacific backlog reached another record high in the quarter and we expect strong sales growth in the region both the upcoming quarter and full year.\nIn China, we saw over 30% organic growth, driven by strong growth in all three industry segments, including particular strength in EV and semiconductor in discrete, tire, life sciences and food & beverage in hybrid, and mining and chemical in process. We expect growth in China will exceed the company average for the year, as our longer cycle businesses kick in.\nLet's now turn to Slide 6 to review highlights for the full year outlook. Orders momentum in the first half of the year is expected to drive strong sales growth in the balance of the year, especially as we enter a period of easier comps. Higher top line guidance is driven by improvements during the quarter in our discrete and hybrid industry segments that more than offset incremental declines in process.\nOur new outlook for total reported sales is over 10% year-over-year growth at the midpoint, including 7% organic growth. Core automation is not the only driver of growth this year, as we also expect double-digit sales growth in Information Solutions and Connected Services. We're seeing good contribution from both organic and inorganic sources, and we also expect double-digit ARR growth in fiscal '21. We expect margins to stay relatively flat with last year, despite the reinstatement of our bonus and the incremental one-time investments we spoke about last quarter that will largely impact the second half. Our new adjusted EPS target of $9.15 at the midpoint of the range represents over 16% growth compared to the prior year.\nMore detailed view into our outlook by end market is found on Slide 7. I won't go into the details on this slide, but as you can see, we continue to expect broad-based organic sales growth this year, with Oil & Gas lagging. Our diversification across higher-growth end markets is one aspect of the increasing business resilience that we talked about during Investor Day in November.\nWith that, let me now turn it over to Nick, who will elaborate on our second quarter performance and updated\nFinancial outlook for fiscal '21. Nick?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Thank you, Blake, and good morning, everyone. I'll start on Slide 8, second quarter key financial information. Second quarter reported sales were up 5.6% year-over-year. Organic sales were up 1.3%, slightly better than our expectations. Acquisitions contributed 1.9 points of growth, and currency translation increased sales by 2.4 points. Segment operating margin was 22%, flat compared to Q2 of last year. This represents strong underlying improvement considering a $60 million headwind from the year-on-year change in the bonus.\nCorporate and other expense of $30 million was $12 million higher than last year, primarily due to mark-to-market adjustments related to our deferred and non-qualified compensation plans. The adjusted effective tax rate for the Second quarter was 16.7% compared to 12.6% last year. Last year's rate benefited from several larger discrete items.\nSecond quarter adjusted EPS was $2.41, well above our expectations. I'll cover a year-over-year Adjusted EPS bridge for Q2 on a later slide. Free Cash Flow was $224 million in the quarter. Year to date, Free Cash flow conversion was 97%.\nOne additional item not shown on the slide, we repurchased 363,000 shares in the quarter at a cost of $92 million. Through the first half of the year, we are on track to our full year repurchase expectation of approximately $350 million. At March 31, $674 million remained available under our repurchase authorization.\nSlide 9 provides the sales and margin performance overview of our three operating segments. The Intelligent Devices segment had organic sales growth of 5.8% in the quarter. Segment margin was 23.8%, 80 basis points higher than last year, mainly due to higher sales and lower spend, partially offset by the reinstatement of incentive compensation. As Blake highlighted earlier, we once again had strong orders performance in the quarter, particularly in our products businesses. Intelligent Devices orders grew approximately 20% both year-over-year, and sequentially.\nSoftware & Control segment organic sales grew 5.6% in the quarter. Acquisitions contributed 4 points to growth. Segment margin was 29.8%, which was 70 basis points below last year's strong margin performance. The margin benefit from higher sales was offset by the reinstatement of incentive compensation. Software & Control orders also grew mid-teens both year-over-year and sequentially.\nOrganic sales of the Lifecycle Services segment declined 11% year-over-year, as the recovery in this segment continues at a slower pace than our products businesses. Acquisitions contributed 3.3% to growth. Operating margin for this segment declined 310 basis points to 9% versus 12.1% a year ago, primarily due to lower sales and the reinstatement of incentive compensation, partially offset by favorable mix and cost savings from actions taken in the prior year. Second quarter book-to-bill performance for the Lifecycle Services segment was 1.19.\nThe next slide, 10, provides the Adjusted EPS walk from Q2 fiscal 2020 to Q2 fiscal 2021. Starting on the left, core performance had a positive impact of approximately $0.45, driven by higher sales, favorable mix, and productivity. Currency contributed about $0.05. Incentive compensation was a year-over-year headwind of approximately $0.45. This reflects a $0.35 impact from the reinstatement of the bonus as well as a $0.10 impact from improved FY'21 performance. Tax was a headwind of about $0.10, primarily due to favorable discrete items last year. Although not shown on the chart, the EPS impact from acquisitions was breakeven.\nMoving to Slide 11, quarterly product order trends. This slide shows our average daily order trends for our products. The trends shown here account for two thirds of our overall sales. Order intake for products improved again this quarter, as the recovery continued. Q2 product order levels grew year-on-year as well as sequentially and are at an all-time high, particularly strong areas were in motion, visualization, and logix.\nOrders for the Lifecycle Services segment also improved in the quarter sequentially, though at a slower pace than our product order growth. The overall strong order performance resulted in record company backlog, growing over 30% year-over-year and double digits sequentially.\nThis takes us to Slide 12, updated guidance. We are increasing our organic sales growth outlook by 1 point across the range, the new range is 5.5% to 8.5%, with a mid-point of 7%. We expect currency translation to now contribute about 2% to growth. We still expect acquisitions to contribute 1.5%. In total, the mid-point of our reported sales guidance range is 10.5% or about $7 billion.\nWe have also updated the Adjusted EPS guidance to a new range of $8.95 to $9.35. I'll review the bridge from the prior guidance mid-point to the new $9.15 mid-point on the next slide. Segment operating margin is expected to be approximately 19.5%. This is unchanged from prior guidance and primarily reflects strong Q2 margin performance and the higher sales guidance offset by higher supply chain costs, bonus expense, and less favorable currency. As a reminder, the second half includes higher spend as well as the incremental one-time software development and sustainability investments that we discussed on last quarter's call. The one-time investments will primarily affect the Software & Control segment.\nOur adjusted effective tax rate is still expected to be about 14%, the same as prior guidance. As previously mentioned, this includes a 300-basis point benefit related to discrete items which we expect to realize late in the fiscal year. We continue to project free cash flow conversion to be approximately 100% of adjusted income. A few additional comments on fiscal 2021 guidance. Corporate and other expense is expected to be about $110 million. Total purchase accounting amortization expense for the full year is expected to be about $50 million. Net interest expense for fiscal '21 is still expected to be between $90 million and $95 million. And finally, we're still assuming average diluted shares outstanding of about 117 million shares.\nThis takes us to Slide 13. This slide bridges the mid-point of our January Adjusted EPS guidance range to the mid-point of our new guidance. Starting on the left. There is a higher contribution from core operating performance, primarily due to the higher organic sales guidance and favorable mix, partially offset by higher supply chain costs. The contribution from currency is now expected to be $0.10 lower compared to prior guidance. Next, given the increase in guidance, there is about a $0.15 impact from higher bonus expense, which brings the new midpoint of the guidance range to $9.15. Finally, a quick comment regarding the second half. We do expect second half year-over-year organic sales growth of about 20%.\nWith that, I'll hand it back to Blake for some additional comments."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, Nick. With the solid first half under our belt, we look at the remainder of fiscal '21 with optimism. Strong order trends and record backlog underpin a robust top line outlook, and we have confidence in our team's ability to navigate the supply chain challenges. Looking to our future, we continue to invest in software capabilities, including development, sales resources, and infrastructure. These investments support strong growth in our software business and ARR in fiscal '22 and beyond.\nOur momentum would not be possible without the tremendous efforts of our employees. I'd like to thank everyone at Rockwell, and particularly our integrated supply chain organization, which has done a great job managing pandemic challenges and now mitigating our sourcing and logistics constraints. We're leveraging our own manufacturing expertise to help customers be more resilient, agile and sustainable. Nobody is better positioned to help our customers deal with these increasingly complex manufacturing challenges and opportunities than Rockwell and our ecosystem of best-in-class partners.\nWith that, let me make some final remarks about Steve Etzel, who is participating in his final earnings call. Steve stepped up during a critical period for us, as we pivoted into the early stages of this recovery and accelerated our transformation. His experience, dedication, caring for fellow employees was exactly what we needed. Nick and I join thousands of employees in wishing Steve and Michelle all the best, happy retirement full of adventure and time with their growing family.\nLet me now pass the baton back to Jessica to begin the Q&A session."
+    },
+    {
+      "speaker": "Jessica Kourakos",
+      "speech": "Thanks, Blake. Before we start the Q&A, I just want to say that we would like to get to as many of you as possible, so please limit yourself to one question and a quick follow-up. And for those of you that had some trouble hearing us on the call we will make sure to have the prepared remarks available on our industrial relations website immediately after the call.\nWith that, let me pass it on to Taniya, to start the Q&A. Taniya?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question is from Scott Davis with Melius Research."
+    },
+    {
+      "speaker": "Scott Davis",
+      "speech": "Good morning, everybody, and congrats Steve..."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Scott Davis",
+      "speech": "On retirement. Good to hear your voice, Nick. Anyways, Blake, this is about the most excited I've heard you on an earnings call in a while. What -- when you think about these big new giant semi-projects that have been announced, when do you start submitting RFPs for those? And do you envision that being going to 2022 or 2023 business I assume none of that is in the new projects or in your increasing forecast in 2021?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Scott, we are seeing some increased business in semi. I don't know that it's going into the U.S. fabs that have been announced, but with some of these customers we're already seeing some significant orders, which contributed to semi helping to power the growth into Asia. So it's not just the big fabs going into the U.S. it's activity in other parts of the world and we're starting to see that now. As far as the U.S. fabs go, I think you're right, I think that's more of a story for next year and beyond. But everybody in that industry is making investments and we're working hard to maximize our share of wallet at each of those customers."
+    },
+    {
+      "speaker": "Scott Davis",
+      "speech": "Good. And just a quick follow-up, on the incentive comp is that -- is the run rate guide for 2Q, what we should expect in each of the quarters this year?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "So, Scott, the run rate that we've been out for the first half is what we should expect for the second half as well. So it's a little higher in the actual run rate in the second quarter because there is a little bit of catch-up given our added outperformance, but the run rate we're at through the first half is exactly what we expect to have in the second half."
+    },
+    {
+      "speaker": "Scott Davis",
+      "speech": "Okay, thank you. Good luck, guys."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, Scott."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Andrew Obin with Bank of America."
+    },
+    {
+      "speaker": "Andrew Obin",
+      "speech": "Yes, good morning. Just a question sort of longer-term question, what kind of conversations are you having with your customers, we know the short-term things are getting better, you guys are excited about longer-term prospects for U.S. capex, but are you starting to have these discussions with your customers about sort of longer-run capex growth in North America?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Andrew, I do believe that this is the beginning of a sustained period of expansion in the North American manufacturing economy. The breadth of the orders that we're seeing, the mix of supply for existing operations plus expansions and then the occasional greenfield gives us a lot of confidence that we are seeing a sustained period of growth. And we're having those discussions across various industries. You look at EV, there is no chance of that slowing down. If you look at semiconductor for the obvious reasons as they are increasing capacity. E-commerce, with the secular tailwinds there. Life sciences, food & beverage, the return for our Oil & Gas. All of those are areas that we have significant exposure to and we expect that that's going to sustain for a period of time."
+    },
+    {
+      "speaker": "Andrew Obin",
+      "speech": "And just a follow-up question, how do you adjust your own supply chain and manufacturing footprint to be able to service this, which seems to be structural increase for a while?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "I mean, you look at increasing single points of failure in the supply chain, both in the part of our suppliers as well as in our own internal operations in some cases that's redundant supply in other cases it's redundant lines within our own operations. When it comes to areas where there's engineering required for specific projects more work in terms of remote operations to be able to go deeper in the commissioning process remotely, final acceptance testing doesn't require the same degree of travel that it once did.\nAnd looking carefully at sizing our operations and inserting the agility, including our own automation to be able to maximize the number of different products that can come off a single line. So you look at the same kind of packaging flexibility that's driving the strong double-digit growth packaging OEMs, we're incorporating a lot of those same concepts and our own operations, including our manufacturing just down the hall from where we are right now in Milwaukee."
+    },
+    {
+      "speaker": "Andrew Obin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, Andrew."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from John Inch with Gordon Haskett."
+    },
+    {
+      "speaker": "John Inch",
+      "speech": "Thank you. Good morning, everybody. I'd like to start on taxes. Rockwell carries, I think, the lowest tax rate in multi-industry or very close to that. If Biden's drive to raise U.S. corporate taxes succeeds are there tax levers Rockwell can pull to offset what would appear to be possibly a disproportionately negative impact for your company?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "John as far as levers we would pull, I think, it is still a little early to say exactly what we would be doing, but we continue to look at how we would best optimize our supply chain in servicing our customers and what that would mean for our -- for -- ultimately for our taxes. But in terms of other levers, I think we're just waiting to see what -- how this materializes. As far as the impact it will have, like we've shared in the past in our 10-K the components that this -- of our current tax rate and certainly a higher tax rate would impact us, but also components like FDII and GILTI and those are the provisions we're really waiting to see more specifics of what it ends up looking like to really know how this will impact us in total and whether there are any additional levers we can go after."
+    },
+    {
+      "speaker": "John Inch",
+      "speech": "Well, based on your understanding of what's being proposed because it's all there on the web, right? Rockwell success is having lowered its tax rate presumably through international -- your international operations in the way you're structured, is any of that prospectively more at risk versus simply you being in the same boat and your U.S. taxes will rise along with everyone else. I don't think anyone's that concerned if Rockwell's U.S. taxes not the same as everybody else is because it is what it is. It's more to the question of the opportunity to maintain disproportionately lower tax rate, based on your success that's having achieved this are the provisions that you understand that could be sort of tackling those areas and can you do something about that type of thing."
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Yeah. So yeah, you're exactly right, John. If there is a increase in the tax rate that will impact us as I presume it will impact others fairly proportionately. What we see and what's been written that has an impact on what we have as an advantage in relatively low GILTI rate and some benefits from FDII. Still waiting for any kind of information of there is replacing FDII if there's any incentives that are going to be put in place to be encouraging U.S.-based manufacturing, which Rockwell does have a significant base of U.S. manufacturing.\nSo -- and then in the end, John, just making a bit broader macro changes to U.S. tax policy that ultimately do encourage more U.S. based manufacturing that's ultimately benefiting our underlying business as well. Given our strong presence that we have in the U.S."
+    },
+    {
+      "speaker": "John Inch",
+      "speech": "Yeah, no, I agree with that. Just then lastly, Nick, in the short-term you've been at Rockwell, I wonder if you could talk about best practices or accomplishments you'd like to say bring over or see adopted based on your many years at 3M."
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Hey, John, thanks for that question. So let me just describe it this way, what I'm seeing as priorities and then what I'm observing in the company. First from a priority standpoint a high degree of priority in my early days here on execution. There's a lot of moving parts in the world and in this company and making sure that our company delivers from an execution perspective that's a high priority. And then Rockwell has some very sound strategies about how to be continuing to increase our importance on our customers as the world of automation changes, industrial automation changes. And my focus is going to be how do we best utilize those strategies and make them happen.\nNow John part of your question just early observations, great company and one of the things I find very refreshing and positive, this is a company full of engineers, engineers focused on productivity and that kind of productivity enables opportunity for investment. So I find a very healthy balance here of, what are we doing to drive productivity, but also how do we invested for future growth."
+    },
+    {
+      "speaker": "John Inch",
+      "speech": "Got it. Thanks, Nick. Thanks, Blake."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Julian Mitchell with Barclays."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "speech": "Just wanted to highlight, maybe on the segment margin outlook. So it looks like in the second half you're implying a segment margin down slightly year-on-year despite the very high organic growth of 20%. So, understand what's going on with incentive comp, but maybe just on investment spend remind us sort of the scale of that investment in the second half, if there is any specific weighting between the two quarters that are left and whether there is any sort of carryover investment spend into next year as an increase?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Yeah. As far as the year-over-year margin, so comparing the second half of 2020 to the second half of 2021, those margins are going to -- as you just said, are going to be pretty similar. And some of the things that will be improving that margin year-over-year is the growth which you just mentioned. Some added price and also we'll be benefiting from some of the actions -- structural actions that we've taken over the last 18 months.\nWhat would be depressing that or bringing that margin back down to year-on-year more or less flat, is this bonus impact, which we've talked about, some rising input costs and then the investments that take -- I think really the heart of your question. And the investment spending that we're doing and I'll put it in perspective for you. For the first -- for the second quarter, our investment spending was down a couple of percentage points from the second quarter last year.\nFor the full year, we expect them to be up 2.5 percentage points versus full-year 2020. And those are coming from the investments that we've talked about with you already. Some of it be one-time accelerated software development expenses that we're funding and that's going to be happening fairly evenly in the last two quarters of the year, but we're also investing in added growth platforms that's been part of the plan. Some of that involves hiring and projects, and just as a little bit of color, we did see a $5 million to $10 million shift of spending from the -- as we intended to have in the second quarter, shifting into the second half of the year, primarily due to a bit higher -- a bit of delay in hiring as well as some project delays not changing our overall spending plan, but shifting a little of that into second half of the year.\nSo, overall, we're expecting a noticable uptick in investments in the second half of the year. As far as the run rate into next year, some of that will be trailing off. We've been very careful about some of these incremental investments, particularly the ones we talked about last quarter that they will air temporary one timing will not be carrying forward into '22. And of that into our second half EPS assumption, which more or less is unchanged from what we were saying a quarter ago."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "speech": "Thank you, Nick. And maybe just a follow-up question around lifecycle services trends, the sales were down, I think low-double digit last quarter, but a book-to-bill of almost 1.2. So maybe characterize for us what kind of recovery slope we should see in Lifecycle Services from here?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Yeah, let me just make the general comment and then Nick can add additional color, but Lifecycle Services' backlog is up year-over-year and sequentially. And so we are expecting sequential improvements through Q3 and Q4."
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Yeah. Yeah, as Blake you said, it will -- we continue to expect it to get better. We do expect for the full year, it will not be growing as fast as our other two segments."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "speech": "Great, thanks very much and I wish, Steve, all the best. Thank you."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thank you, Julian."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Jeff Sprague with Vertical Research."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "Thank you. Good morning, everyone."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Hi, Jeff."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "Hey, Just maybe two from me. First on supply disruption, but I'm sorry if I missed it you were cutting out a lot at the beginning, but can you just elaborate a little bit what you saw in the quarter we did pick up some things in our survey that suggested you were having some problems deliver PCLs and other things. Can you just give us a little bit of color on where you're -- whether that's accurate, where you're at on kind of untangling that? And was there any kind of discernible negative top line impact from supply disruptions either in the quarter or in your outlook for the back half?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Yeah, Jeff, we factor supply chain constraints into our outlook. So there is an impact and I think it's the things that you're hearing about throughout the industries that are affecting us like other manufacturers. So certainly electronic components, including chips are in short supply. Seeing other mechanical products and materials sized strains with resins that are used in a variety of manufacturing processes based on some of the bad weather, a little shorter term than some of these other issues. Freight lanes continue to be narrow. And so seeing constricted [Technical Issues] products would be another area. We've done a nice job of having the necessary labor [Technical Issues] we really kept [Technical Issues] to an absolutely in our manufacturing operations, we've still hired more, we've added several hundred people in last quarter and so that part is [Technical Issues] but we're going to continue to be in a very dynamic situation based on sharply increased demand [Technical Issues] as well as others. And we're working with customers to minimize the disruption."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "Okay. And just on the investment spend, I understand there is some identifiable things you're doing that might be a little bit larger than a typical project. So it doesn't strike me that a 2.5% increase in investment spend for the year is unusual, but you're kind of suggesting it is as part of this margin construct. So perhaps, I have that wrong, but 2.5% growth in investment spend, I think would be about 50 million bucks that kind of dovetails to the $0.35 you talked about in the back half on the software deals. Is there something else in that equation, maybe you could just frame the kind of the normal trajectory of investment spend?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Yes, yes, I think the part of that that I just want to make sure is clear is that, that increase in investment spend is all second half. In fact more than all in the second half because the year-on-year in the first half it was down. So just as we look sequentially first half to second half, we're seeing that sequentially going up brings the full year to that $50 million or -- that you're talking about of the year-on-year change, but more than all of that change is coming in the second half."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "Got it. Thank you. Understood."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Andy Kaplowitz with Citi."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "speech": "Hey. Good morning, guys."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Hey, Andy."
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Hey, Andy."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "speech": "Steve, congrats. Welcome, Nick. So you mentioned the big March order you had in your order trends, which makes two out of the last three quarters that you've called out larger orders. So given your focus for instance on independent cart, which does tend to attract large orders and increased focus on e-commerce, at what point or are these larger orders, more the rule than the exception? And then could you talk about the cadence of your Q2 orders, ex. the large order, in March did you see a continued pickup in orders throughout the quarter?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Andy, let me start by saying I hope you're right. And I hope you're seeing these large orders across different industries and different offerings becomes the rule rather than the exception. We have -- we are happy to see it and the most recent one as you said was in e-commerce. We traditionally haven't called out as much specificity the orders development from month-to-month or quarter-to-quarter. We thought during the pandemic, it made sense to give you that additional visibility and we does show a developing dynamic of having some of these large orders [Technical Issues] industries and in some cases non-traditional offerings it gives us more ways to win.\nAnd so we're looking at that. We have seen a little bit of an uptick in large orders in general that began in Q2 and we would expect that to continue as our Lifecycle Services segment kicks in and that is where fairly good proportion our bigger traditional projects are home run. So we do expect more of that to come. R&D of our business continues to be run rate. We used to say $3 million to $5 million was pretty big project for us, but now we're seeing an increasing frequency of a bigger ones."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "speech": "Blake, that's helpful. And then you hired several new leaders including Nick a few months ago we know Scott and Brian have different roles, but both seem still has been improving and accelerating Rock software sales annual recurring revenue. So maybe it's early days, but could you talk about the impact they are having so far on that side of the business and we just focus on Software & Control and obviously has easy comparisons in the second half of your fiscal year, but it's already growing 12% in Q2. So is the expectation at this point that this segment to be a double-digit grower through maybe '22?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "I won't comment specifically on '22, but I really like the idea that our highest margin segment is also fastest growing. So that's a nice place to be. I've been very happy with the new perspectives that our new execs have brought to the organization and the way that the organization has embraced them. That's not easy to do is to bring people in at a senior position into a well-established company with a long culture, a strong culture. But I've been very happy with the way that we brought in those new perspectives into the organization. Brian's focused on increasing the frequency and the impact of new product introductions, particularly around software. Scott's focused on doing the things to focus our sales force on delivering outcomes to customers and increasing our annual recurring revenue. Great experience that he brings and high credibility as he works with our sales force and obviously as Nick said earlier that the financial organization, otherwise the execution of this strategy are all good things."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "speech": "Thanks, Blake."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Steve Tusa with J.P. Morgan."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Hey, good morning."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Hey, Steve."
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Good morning, Steve."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Thanks for all the details. The slide deck is very straightforward and a lot of -- very informative so easy to digest. Thank you for that. Appreciate it. The $2 billion in orders, I think that's like the total absolute number for the quarter, correct? I mean, that's a relatively -- obviously a big number. How do you see that kind of playing out over the course of the next couple of quarters given it's such a solid kind of book-to-bill if you will?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Yeah. Well -- and we wanted to call that out because this is really before Lifecycle Services is kicking in, in full. So we are expecting a nice run of that magnitude of orders for the company over the next few quarters. And this is primarily driven at this point with products, but again as the project business ramps up, which is our expectation that could deliver some continued nice results there."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Okay. And as far as this investment spend is concerned just going back to Jeff's question. So I think you're saying that some of the uptick in investments this year goes away. But does that mean that number is actually down next year or it's just growing less off of a higher base next year? Because usually you guys do have anywhere from a $45 million to $50 million to even $80 million year over-year-headwind. I mean, going back to like 2010 from kind of investments growing faster than sales is -- what -- can you just kind of refine the messaging on that account and where it goes next year?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Sure. Thanks, Steve. I believe it's a little early to get anything too declarative on '22. However, just to clarify, of this increase in investment spend is approximately $30 million of that that we are seeing is temporary. The rest of it is part of our normal increase in investment spend and then the other way to think about it, Steve, is we also expect a 30% to 35% our core conversion. And that's the way we've operated and that's the way we continue to expect to operate."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Right. And that 30% to 35% would be again like an all-in kind of number for the segments, including whatever happens with this investment bucket for next year, correct?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "That -- when we say that 30% to 35% that includes the investment spend. However, holding ourselves to a higher bar and not giving ourselves that credit for that $30 million of incremental spend., when we think about that core conversion next year."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Yeah. Okay, that makes sense. I appreciate the color. Thanks."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, Steve."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Joshua Pokrzywinski from Morgan Stanley."
+    },
+    {
+      "speaker": "Joshua Pokrzywinski",
+      "speech": "Hi. Good morning, guys."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Hey, Josh."
+    },
+    {
+      "speaker": "Joshua Pokrzywinski",
+      "speech": "So, Blake, I just want to about software for a minute and maybe what you're seeing out there. Are you running into competitors when you win some of these orders, is it more of a non-competitive process where you're just sort of attaching onto an install base? And then maybe talk about what product lines you're seeing strengthen, I think Honeywell talked about cyber security. I know you have an offering there as well. So maybe just sort of a landscape of what you're seeing in the software side."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Sure. So parts of the software business are still somewhat fragmented where you're largely competing against doing nothing on the part of our customer or a homegrown solution and we still see a lot of that within say IoT applications. In MES, it's a little bit more, let's say mature and you are typically you're competing with a fairly well known competitors. Sometimes our traditional full scope automation competitors, sometimes niche competitors. And then visualization I would say is similar to that, which is a big part of our software offering. Again a little bit more stratified, but the new applications, so IoT, analytics things like that, it's still a fairly diffused, let's say, competitor landscape. Customers are looking for the outcomes and you also having to dovetail into an install base. That's a big part of it, because a lot of your challenges come in the interfaces with existing installations and that's why we've taken that open approach to expect that these customers already have software and hardware in place and don't want to rip it all out.\nWith respect to cyber security even apart from the hardware, got a cyber security business is over $100 million in terms of the services, it grew double-digits, very strong. We're seeing good contribution from recent acquisitions of Avnet and Oylo and that's an area that I'm particularly proud of because it's an area that when we introduced it, it wasn't one that customers necessarily thought of Rockwell first for, but we're having a great impact on customers and we're working with a whole new set of decision-makers, including the CIO and his or her team. It's a really big company. So, very happy with the development of that part of our business."
+    },
+    {
+      "speaker": "Joshua Pokrzywinski",
+      "speech": "Got it, that's helpful. And then just a follow-up question on orders. Maybe taking a step back, I guess that that $2 billion of orders really only covers about two-thirds of the business and something that's longer cycle, but cyclically seasonally, I don't know, if you necessarily go backward from here. Does that suggest that Rockwell is an $8 billion company over the next couple of years? Like why wouldn't the $2 billion get multiplied by something near four and you have a bit of a fudge factor for Lifecycle Services like what kinds of leaps out of that equation, because it seems like a pretty big number pretty early in the cycle?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "We're happy with it and that's why we've called it out. I want a churn and you know this Josh that $2 billion is a company number, but we're not in that figure even before Lifecycle Services really kicks in, like we expect it to over the next couple of quarters. But yeah, we are expecting that as we've created more ways to win, our strategy is to accelerate profitable growth. That's what we've been talking about the last two years, doing it by growing as a higher multiple of industrial production in our core, continued double digits in Information Solutions, and Connected Services and make acquisitions that are going to again give us more ways to win."
+    },
+    {
+      "speaker": "Joshua Pokrzywinski",
+      "speech": "Okay, perfect. Thanks for that. Best of luck, guys."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, Josh."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Nigel Coe with Wolfe Research."
+    },
+    {
+      "speaker": "Nigel Coe",
+      "speech": "Thanks. Good morning. Nick, it's great to hear your voice, we couldn't hear that well. It's great to hear you. And Steve, congratulations on your retirement. I hate to go back over investment spend again. But I'm a little bit bamboozle by some of these pieces here. But when you talk about the increase in the full year [Technical Issues] mentioned $50 million you're OK with, is that a second half increase over that $50 million for the full year and the second half is moving that to that number? Just want to clarify that, please."
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Yeah, Nigel. Happy to clarify that. We were down in investment spend in the first half of the year. We were down approximately between $40 million and $50 million. We now expect the full year to be up approximately $50 million or $55 million. That means the delta of $90 million to $100 million higher investment spend in the second half stand-alone."
+    },
+    {
+      "speaker": "Nigel Coe",
+      "speech": "Okay, that's clear. And then of that $90 million to $100 million, about $30 million is temporary and most of the way exchange, correct?"
+    },
+    {
+      "speaker": "Nicholas Gangestad",
+      "speech": "Exactly."
+    },
+    {
+      "speaker": "Nigel Coe",
+      "speech": "Okay, got it. Okay. Clear. And then moving onto semi, I know it's a relatively small kind of procedure [Phonetic] of your revenues, but obviously often get very excited about the investment spend that we're seeing committees in the U.S. Can you just remind us where do you can play, where does Rockwell currently play in the fab? And what opportunities you see to maybe increase the scope going forward?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Sure. Nigel, the primary applications around facilities management, so it's making sure that the environment is cleaning and at the right temperature and the right humidity and so on. It's a fairly complex automation project and that's our traditional area. Likely, we've had some success in increasing the scope even within that facilities management, including things like cyber-security and other related services and networking. We see additional opportunity in the materials handling and also given that we are a good size user of electronic components and use small circuit boards and so on we develop some artificial intelligence applications that have helped us be more productive, and we're working with some customers to equate them with our capabilities there as well. So there's a lot of additional room for expansion from that base."
+    },
+    {
+      "speaker": "Nigel Coe",
+      "speech": "Thanks, Blake. That's very helpful. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your final question is from Noah Kaye with Oppenheimer."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Good morning and thanks. You commented earlier about the process of continuing to increase your import to the customers, and Blake, some of the supply issues you've cited on this call around freight narrowing and the chip shortage and just materials build there in general, I mean obviously a huge portion of your customer base is all going through that at the same time. And so I'm curious if you can talk to us a little bit about how you're seeing the customers' use of their software offerings like FactoryTalk and others to deal with the supply chain issues and how that is advancing your dialog with them in your opportunity set?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "So one of the way -- just for an example, looking at our own MES software, when we added that into our operations over the last decade there were a couple of ways that that increased our efficiency decreased work in process and it also helped us with aero proofing to be able to have a defined workflow. So as our customers are having to bring new talent on that maybe new to these types of operations that workforce development is a big deal and it sometimes sits right on the critical path of getting new capacity up and running.\nSo whether it's the software MES software that we've been offering, augmented reality offerings that we have with PTC. We've got some great solutions as well as the training that we provide to help with these new hires that our customers come online just as fast as possible. I also believe that the flexibility that we are adding in our own operations and I mentioned earlier, in our own contractor facility here in Milwaukee is giving us insight that we can in part to our customers to help them be more agile to produce a wider variety of SKUs on a single line.\nI saw an application recently with a beverage company that's able to make very wide range of packaging formats for beverages using a independent cart technology and it's a whole different game that was 10 years ago in terms of different types of SKUs that these companies can create to maximize the shelf space in retail outlets."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Yeah. And you mentioned MES being able to reduce work-in-progress, but we're hearing about, for example, in auto suppliers trying to reach two and three layers deeper into their supply chain and trying to through software do better-tracking just not walking away from just in time, but really trying to evolve and get better visualization of the entire supply base, is that something that Rockwell can play a role and how also?"
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Yeah, absolutely, being able to take those real-time production signals and to be able to look upstream into that supply base and just as you said going deeper and before it's not a nice to have anymore. It's a requirement to be able to look at those suppliers and to be able to marry that give you real time production requirements, particularly when you're looking at increasingly multiple potential sources of supply for those components or those materials that you need.\nSo we see a lot of activity going forward. And we talk to customers, nothing that they're more interested in, when you talk about the role that we can play in a connected supply chain there is huge amounts of additional productivity that we can help with there in our ecosystem, because that's an area that ecosystem is going to play a very large role."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Makes sense. Thanks so much."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Yeah, thanks, Noah."
+    },
+    {
+      "speaker": "Jessica Kourakos",
+      "speech": "Operator, now I'll turn it back to Blake for a few final comments."
+    },
+    {
+      "speaker": "Blake Moret",
+      "speech": "Thanks, Jessica. In summary, we're very pleased with our strong performance in the quarter. The recovery in manufacturing is accelerating at a much faster pace than we initially expected. Rockwell is extremely well-positioned in this recovery and we're especially excited about the new product introductions and services that we will bring to market over the next couple of years. It's an exciting time to be part of the Rockwell journey. We thank you for your interest and ongoing support."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 66 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Jessica Kourakos--Head of Investor Relations",
+    "Blake Moret--Chairman and Chief Executive Officer",
+    "Nicholas Gangestad--Chief Financial Officer",
+    "Scott Davis--Melius Research -- Analyst",
+    "Andrew Obin--Bank of America -- Analyst",
+    "John Inch--Gordon Haskett -- Analyst",
+    "Julian Mitchell--Barclays -- Analyst",
+    "Jeff Sprague--Vertical Research -- Analyst",
+    "Andy Kaplowitz--Citi -- Analyst",
+    "Steve Tusa--J.P. Morgan -- Analyst",
+    "Joshua Pokrzywinski--Morgan Stanley -- Analyst",
+    "Nigel Coe--Wolfe Research -- Analyst",
+    "Noah Kaye--Oppenheimer -- Analyst"
+  ]
+}

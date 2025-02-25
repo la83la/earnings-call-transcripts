@@ -1,0 +1,255 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings, and welcome to the Leggett & Platt Second Quarter 2021 Webcast and Earnings Conference Call. [Operator Instructions]\nIt is now my pleasure to introduce your host, Susan McCoy, Senior Vice President of Investor Relations. Thank you. You may begin."
+    },
+    {
+      "speaker": "Susan R. McCoy",
+      "speech": "Thank you, Daryl. Good morning, and thank you for taking part in Leggett & Platt's second quarter conference call. We are conducting this call from different locations again this quarter. Please bear with us if you experience minor delays or mixed audio quality. On the call today are Karl Glassman, Chairman and CEO; and Mitch Dolloff, President and COO; Jeff Tate, Executive Vice President and CFO; Steve Henderson, EVP and President of the Specialized Products and Furniture, Flooring & Textile Products segments; Cassie Branscum, Senior Director of IR; and Tarah Sherwood, Director of IR.\nThe agenda for our call this morning is as follows: Karl will start with a summary of the main points we made in yesterday's press release, Mitch will discuss operating results and demand trends, and Jeff will cover financial details and address our updated outlook for 2021. This conference call is being recorded for Leggett & Platt and is copyrighted material. This call may not be transcribed, recorded or broadcast without our express permission.\nA replay is available from the IR portion of Leggett's website. We posted to the Investor Relations portion of the website yesterday's press release and a set of PowerPoint slides that contain summary of financial information along with segment details. Those documents supplement the information we discuss on this call, including non-GAAP reconciliations.\nI need to remind you that remarks today concerning future expectations, events, objectives, strategies, trends or results constitute forward-looking statements. Actual results or events may differ materially due to a number of risks and uncertainties, and the company undertakes no obligation to update or revise these statements. For a summary of these risk factors and additional information, please refer to yesterday's press release in the sections in our most recent 10-K and subsequent 10-Q entitled Risk Factors and Forward-Looking Statements.\nI'll now turn the call over to Karl."
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Good morning, and thank you for participating in our second quarter call. Yesterday, we reported all-time record quarterly sales from continuing operations and record second quarter adjusted EBIT and EBITDA. These outstanding results are a testament to the dedication and hard work of our employees around the globe. Second quarter sales were $1.27 billion, EBIT was $172 million, and earnings per share were $0.82, all significantly higher than the second quarter of 2020. Excluding the real estate gain noted in yesterday's press release, adjusted EBIT was $144 million, and adjusted EPS was $0.66.\nStrong year-over-year results reflect recovery in most of our businesses from the significant impacts related to the COVID-19 pandemic. When comparing to the pre-pandemic results of second quarter 2019, trade sales grew 5%, adjusted EBITDA was up 9%, and adjusted EBITDA margin improved 60 basis points and adjusted EPS increased 12%. During the quarter, we made two strategic acquisitions, expanding our capabilities and product offerings in our Work Furniture and International Bedding businesses.\nAt the end of May, we acquired a small manufacturer of bent metal tubing used in office and residential furniture located in Poland that has been an important supplier to our local Work Furniture operation. On June 4, we acquired a leading provider of specialty foam and finished mattresses, primarily serving customers in the U.K. and Ireland. The company, Kayfoam, is located near Dublin and has two manufacturing facilities with combined annual sales of approximately $80 million. Kayfoam expands the capabilities of our European Bedding business and establishes a platform in foam technology in finished mattress production.\nSimilar to our U.S. Bedding business, this acquisition allows us to support our European Bedding customers anywhere in the value chain from innerspring and foam components to finished products, including private label mattresses, toppers, pillows and other bedding accessories. We increased our full year sales guidance as a result of continued material cost inflation and sales related to the acquisitions just mentioned. Increased EPS guidance is largely due to metal margin expansion in our Steel Rod business. Jeff will provide more detail on updated guidance later in the call.\nWith that, I'll turn the call over to Mitch."
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "Thank you, Karl, and good morning, everyone. First, I would like to thank our employees for driving record second quarter results. Your commitment, resolve and ingenuity allowed us to navigate raw material constraints, labor shortages and freight challenges to service our customers in a very strong demand environment. Your efforts and accomplishments are greatly appreciated. We had strong operating performance in the second quarter as sales have recovered to near or above pre-pandemic levels in most of our businesses.\nSupply chain disruptions continued throughout the quarter, most notably in chemicals, semiconductors, labor and transportation, constraining volume growth. While we are seeing incremental improvements in many of these areas, they continue to create volatility in both supply and in cost. Given the significant pandemic-related impact to last year's second quarter results, my comments will compare our segment and business unit results to second quarter 2019, which provides a more meaningful insight to our quarterly operating performance.\nSales in our Bedding Products segment were up 7% versus the second quarter of 2019, primarily from raw material related selling price increases from inflation in steel, chemicals and nonwoven fabrics. Volume was down in part due to exited business in Fashion Bed and Drawn Wire. Volume was also lower due to foam shortages and labor availability, which continue to constrain the U.S. mattress production, negatively impacting component demand and our finished goods production.\nAvailability of chemicals used in our specialty foam operation improved during the second quarter, but at a slower pace than anticipated, due to supplier production disruptions and logistics challenges. While supply improved, chemical allocations could persist to some degree throughout the remainder of the year. In U.S. Spring, our planned Comfort Core capacity expansion is largely in place, and we have built inventory of Comfort Core innersprings to fulfill customer requirements as foam becomes more readily available. Demand in our European bedding business was strong throughout the second quarter, but recently, we are seeing some signs of seasonal softening over the summer months.\nLong term, we anticipate more growth opportunities in Europe with the Kayfoam acquisition. Similar to the trends we've seen in the U.S. bedding market over the past several years, European consumers are purchasing more mattresses online and in compressed form, increasing demand for specialty foam and hybrid mattresses. Adjusted EBITDA margins in the segment improved over the two-year period, primarily from pricing discipline, expanded metal margins in our Steel Rod business and fixed cost actions taken last year.\nSales in our Specialized Products segment were down 9% for the second quarter of 2019 due to lower volume across the segment. In our Automotive business, volume was down over the two-year period, primarily from recent semiconductor shortages. Industry production was heavily impacted in April and May with many OEMs reducing or completely shutting down production of some models. Supply is expected to slowly improve, but we anticipate these shortages to continue through at least the first half of 2022. In our Aerospace business, demand for fabricated duct assemblies is near second quarter 2019 levels, but demand for welded and seamless tube products is still well below pre-pandemic levels.\nWith the lingering impact from pandemic-related disruption in air travel and resulting buildup of aircraft and supply chain inventories, the industry is not anticipated to return to 2019 demand levels until 2024. End market demand in Hydraulic Cylinders is very strong with the surge in lift truck orders. However, global supply chain constraints and labor availability have hampered the OEMs' ability to ramp up production. We expect our sales to increase as OEM production increases, but supply chain constraints in this business could persist into early 2022. EBITDA margins in the segment declined over the two-year period, primarily from lower volume, partially offset by fixed cost actions taken last year.\nSales in our Furniture, Flooring & Textile Products segment were up 11% versus the second quarter of 2019, driven by demand strength in home furniture and geo components. We expect strong market demand in our Home Furniture products business for the remainder of the year and into 2022. In our Geo Components business, private construction and retail market demand is strong. Demand in our Fabric Converting business softened due to the foam constraints that are impacting bedding and furniture manufacturers. As foam availability improves, we anticipate sales to rebound.\nIn Flooring products, residential end market demand is above pre-pandemic levels, whereas hospitality demand remains well below 2019 levels. And while recovery in Work Furniture lags the other businesses in this segment over the two-year comparison period, we continue to see strong demand for products sold for residential use and are beginning to see some improved demand in the contract market. Adjusted EBITDA margins in the segment increased over the two-year period, primarily from improvement in our Home Furniture business and fixed cost actions taken last year.\nOverall, the fixed cost actions we took last year reduced our second quarter cost by approximately $20 million versus the second quarter of 2019. Across all of our businesses, we are focused on controlling costs by keeping our variable cost structure aligned with demand levels and only adding fixed costs as necessary to support higher volumes and future growth opportunities. We have planned to increase production in our Steel Rod, Drawn Wire and U.S. Spring businesses through the second and third quarter to allow U.S.\nSpring to build inventory in order to meet anticipated customer demand as foam and labor availability improves across the industry. In the fourth quarter, we will also take our rod mill out of operation for three weeks to replace the reheat furnace. As a result, higher levels of inventory in these businesses are expected through the remainder of the year. The inventory build and sales will likely alter our normal seasonal cash flow cycle to some degree.\nI'll now turn the call over to Jeff."
+    },
+    {
+      "speaker": "Jeffrey L. Tate",
+      "speech": "Thank you, Mitch, and good morning, everyone. In the second quarter, cash from operations was $41 million. Higher earnings were partially offset by planned working capital investments to build and maintain the higher inventory levels that Mitch just discussed as well as inflation in the cost of those inventories. With the expectation of carrying higher levels of inventory through the end of the year, we have lowered our full year operating cash estimate. We now anticipate cash flow from operations to approximate $450 million in 2021.\nAt the end of the quarter, adjusted working capital as a percentage of annualized sales was 12.8%. During the first half of the year, we brought back $187 million of offshore cash and currently expect to return at least $200 million of cash for the full year. In May, we increased the quarterly dividend by $0.02 to $0.42 per share. At an annual indicated dividend of $1.68, the yield is 3.5% based upon Friday's closing price of $48.03, one of the higher yields among the S&P 500 dividend aristocrats. This year marks our 50th consecutive year of annual increases. We're proud of our dividend record, and we plan to extend it.\nOur strong financial base, along with our deleveraging efforts over the last two years, give us flexibility when making capital and investment decisions. We ended the quarter with net debt to trailing 12-month EBITDA of 2.32 times and $1.3 billion of total liquidity. Our long-term priorities for use of cash are unchanged. They include, in order of priority: funding organic growth, paying dividends, funding strategic acquisitions and share repurchases with available cash. For the full year 2021, we expect capital expenditures of approximately $140 million. Dividends should approximate $215 million and acquisition spending of approximately $150 million.\nWe do not expect any significant share repurchases as we continue to focus on deleveraging. As announced yesterday, we are again increasing our 2021 sales and earnings per share guidance. 2021 sales are now expected to be $4.9 billion to $5.1 billion or up 14% to 19% over 2020, resulting from mid- to high single-digit volume growth, raw material related price increases, currency benefit and approximately 1% growth from acquisitions, net of divestitures. The increased versus prior guidance of $4.8 billion to $5 billion reflects a combination of higher raw material related price increases and acquisition sales.\nWe expect continued strong consumer demand for home-related products and global automotive along with some improvements in supply chain constraints as we move through the remainder of this year. 2021 earnings per share are now expected to be in the range of $2.86 to $3.06, including $0.16 per share from the real estate gain recognized in the second quarter. Full year adjusted earnings per share is now expected to be $2.70 to $2.90, with increase versus prior guidance of $2.55 to $2.75, primarily due to higher metal margin.\nThis guidance also assumes fixed cost savings as a result of actions taken in 2020 to be approximately $70 million. Based upon this guidance framework, our 2021 full year adjusted EBIT margin range should be 11.4% to 11.6%. Earnings per share guidance assumes a full year effective tax rate of 23%, depreciation and amortization to approximate $195 million, net interest expense of approximately $75 million, and fully diluted shares of 137 million.\nIn closing, we remain focused on cash generation, while reducing debt and deploying capital in a balanced and disciplined manner that positions us to capture near- and long-term growth opportunities, both organically and through strategic acquisitions.\nWith those comments, I'll turn the call back over to Susan."
+    },
+    {
+      "speaker": "Susan R. McCoy",
+      "speech": "That concludes our prepared remarks. We thank you for your attention, and we'll be glad to answer your questions. Karl will direct our Q&A session, and the group will answer your questions.\nDaryl, we're ready to start Q&A."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question has come from the line of Bobby Griffin with Raymond James. Please proceed with your questions."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Good morning, thanks for taking my questions. I hope everyone is doing well."
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Morning, Bob."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "I guess, first, I want to touch on the International Bedding segment. I know that's been actually a very bright spot of good growth for you guys over the last couple of years. So now with the acquisition, Karl or Mitch, can you maybe frame up for us your International Bedding business and kind of the go-to-market strategy where you participate in there that might be a little different in the U.S.?\nAnd then importantly, with Kayfoam, what does that acquisition give you in terms of capabilities? Is that a springboard to launch in the more foam business in Continental Europe? Or kind of how do we think about the two- to three-year opportunity now with this addition to your capabilities over there?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Yes. Thanks for the question, Bobby. Mitch, do you want to unravel that?"
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "Yes, sure. You're right, the International Bedding group, for us, particularly in Europe, has been really, really strong over the last couple of years and including this year coming out of the pandemic. So really, I mean, we see that it's a different market than the U.S. It's more segmented across different regions with different product types, but we do see that as a meaningful growth opportunity for us. And the Kayfoam acquisition really sets us up similarly to take advantage of the trends that were happening here in the U.S., and we see them taking place in the U.K. and other parts of Europe.\nSo first off, it's -- Kayfoam is a provider of specialty foam and finished mattresses. We're interested in the bedding business, not so much in commodity foam, and this fills that mark for us. They've been collaborating with Peterson Chemical Technology for over a decade and really utilizing that specialty foam expertise. So it gives us not only that capability of specialty foam, but also scale and production of finished mattresses similar to what we got through ECS.\nAnd really, just like in the U.S. Bedding value chain, it allows us to support our customers really anywhere along the value chain from components of innersprings to specialty foam, all the way to private-label finished mattresses or other accessories. So we feel like it sets us up really well to continue to grow our business in Europe. This is primarily focused in the U.K. and Ireland, but we'll explore the possibilities of similar opportunities as we look through broader European market."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Okay. I appreciate it. That's helpful. And then I guess lastly for me before I jump back in the queue. Just on the auto supply chain, I understand the chip shortages and what's going on there. Is the catch-up going to start in 3Q and 4Q of this year? Or is this really -- when we think about it in our model, the 2022 type catch-up where things will be impacted pretty much for the rest of the year? And then there'll be a big catch-up in 2022 from getting inventories back in normal levels?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Yes, Bobby, that's a really good question and we're trying to work through those answers ourselves. But Steve, why don't you, based on the most contemporary information we have, try to answer that question?"
+    },
+    {
+      "speaker": "Steven K. Henderson",
+      "speech": "All right. Yes. The way that we see it right now and again, with the caveat that it is pretty opaque to us and a number of other players in the value chain. What we think we are going to see is that Q2 was really the peak of the issue. So we lost about 1.4 million units in Q1, about 2.6 million units were lost in Q2. Q3 right now is sitting at about one million lost units, but probably looking more like the first quarter. And then we would see Q4 being somewhat lower impact than Q3, but the recovery continuing into Q1 and probably into Q2.\nAnd at that point, really being able to start to build up the inventories in earnest. And the inventories right now are sitting -- in the U.S. are sitting at 23 days, which is the lowest since August of 2009. And down 1.2 million units year-on-year and probably somewhere between 1.5 million to 1.8 million from where they really should be. So it will take probably six to 12 months to rebuild all that inventory once we get to parity again."
+    },
+    {
+      "speaker": "Bobby Griffin",
+      "speech": "Thank you. That's very helpful. I'll jump back in the queue, but best of luck here in the second half."
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next questions come from the line of Keith Hughes with Truist Securities. Please proceed with your questions."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Thank you. I guess my question is on the metal margins. What's your kind of outlook in this guidance for that coming in the third and the fourth quarter?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Keith, the metal margin story certainly has been a good one over the last few years. And really metal margin is defined as the difference between the input cost or, in our case, scrap. And then the sales price, which in our case is either rod or wire. And there's kind of two different dynamics, in that scraps inflated pretty dramatically this year with ups and downs each month, but aggregate up $145 a ton. The sale price of rod and wire has increased at a faster rate. That's because of the lack of capacity in the U.S. versus the demand that exists.\nSo over the last few years, there was a lot of capacity taken off-line. I mean we shut one of our wire mills down. And post-COVID, there's been really strong demand, and many mills, like us, need to take some downtime in the back half of the year for just routine maintenance. So kind of the outlook is an expectation that scrap will probably trade down slightly in August. It will settle here sometime next week, but the forecast is down $20.\nThere is some expectation that rod and wire pricing will, despite the scrap reduction, inflate again because there's -- it's just really hard to buy rod and wire in this country. There's just no availability. But in any -- the spreads -- long-winded answer to tell you, the spread is in good shape and will continue to be for the forecastable future."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Okay. Usually, when prices are coming down, you actually make some extra margin. It sounds like it's on the way up now. I guess could you get a double positive? Price will eventually fall. Or could you see really nice margins in a downturn environment as well on scrap prices?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "That's the near-term expectation, Keith."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Okay. And I guess final question in the -- excuse me, more of your mattress supply business, particularly foam. Is there -- when do you anticipate the industry will be caught up, if you will, in terms of getting what the producers need to meet some pretty strong demand in mattresses?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Mitch, do you want to grab that one? I answer the easy questions. Metal margins is not easy to answer."
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "Yes, I'll take a shot at that. I mean, it's certainly been very, very dynamic, right? And every time that we think -- we have thought over the last several quarters that the chemical constraints that translate into foam are getting resolved, something else seems to happen. So I don't want to jinx us here. But they have improved somewhat over the second quarter. We expect them to continue to improve incrementally as we look in the third quarter and fourth quarter. The shorter answer is -- the short answer is we really don't know.\nBut we are planning for and we expect that, that capacity will continue to expand as we move through the third and fourth quarter. And we want to be ready, frankly, in case there's a surge, right? If something happens and the foam and labor constraints are resolved very quickly, we want to be able to respond, which is in part why we're building inventories to go through this time frame. But I think we'll hopefully see it be resolved as we go through the end of the year, maybe carry over a little bit into next year, but that's all going to depend on -- primarily on the chemical availability."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Okay. And with your demand and trying to build a little bit of inventory, is ECS basically just sold out right now?"
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "I'm sorry, what was that?"
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Given the demand level and, in fact, it sounds like you're going to try to build some inventory in the off-season, is ECS sold out for the foreseeable future?"
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "Yes. At ECS, so it's kind of a secondary impact for us on our spring components, right? We have plenty of capacity and can immediately respond in our foam production and our finished mattress production through ECS. There are -- we are constrained by the foam there. So we're basically making and selling everything we can at this point."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Okay, thank you very much."
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next questions come from the line of Susan Maklari with Goldman Sachs. Please proceed with your question."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Thank you. Good morning, everyone."
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Good morning, Susan."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "My first question is around the bedding capacity side of things. Can you talk us through where you are in terms of adding some of that incremental capacity that you're working on this year? And then I guess with that, too, you mentioned, Karl -- I think it was Karl, in your comments about increasing production at the rod mill. Can you talk through how much you're increasing there? How do you think about that coming online? And how that sizes to this capacity that's coming with it?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Yes. Mitch, why don't you take the first part as regards to Comfort Core capacity?"
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "Yes. Okay, sure. So yes, we -- as we talked about over the last several quarters, adding machine capacity as well as staffing capacity, and we're largely through that. As we said, we've got a little bit more machinery coming online. Most of the operations that we plan to bring up to four shifts, they are. They're not fully staffed, frankly, because we don't need all of that capacity today. But we're in a very, very good place from our Comfort Core planned capacity expansion largely through it, as I said. And then Karl, do you want me to talk about the reheat furnace or do you want to take it?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Yes, please do. No, go ahead."
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "And then maybe a slight clarification there. So the reheat furnace is really not a capacity expansion, it's really a replacement due to the dynamics of that production and essentially it really takes a toll on the reheat furnace over time, and you essentially just need to replace it, and now is the time for us to do that. So it will put us in a stable place, and with a brand new reheat furnace in, will allow us to make sure we don't have outages going forward, but it is not a capacity expansion for us. And so we'll build some inventory ahead of taking that -- taking the rod mill down, so that we'll have plenty of inventory on hand as it comes back up."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Got you. Okay. That's helpful. I'm sorry for that. I thought that you were increasing the production there, but that was my mistake. My other question is, you did these two acquisitions this quarter. Can you talk through what you're seeing in terms of the M&A pipeline, the potential for maybe some more of these smaller deals over the next couple of quarters. So what's going on there?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Yes, Susan, we continue to look. We're always trying to find strong strategic fits and capabilities that kind of fill gap, so to speak, or to continue to build out existing platforms. So everything that we're looking at and would consider near term would be considered small bolt-on. Don't expect anything large. Deleveraging and the focus on deleveraging continues to be important to us. While our teams have done a great job of deleveraging, we continue to want to work -- pull that lever."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Thanks Karl. Good luck."
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Thank you, Susan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our next questions come from the line of Peter Keith with Piper Sandler. Please proceed with your questions."
+    },
+    {
+      "speaker": "Peter Keith",
+      "speech": "Hi, thank you. Good morning everyone, thanks for taking the questions. You had mentioned some capacity constraints across your various segments due to labor shortages. I was just curious what you're seeing at your own factories, however? Are you seeing any wage inflation? Or are there any pockets where you're having trouble getting fully staffed, just given the labor backdrop right now?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Yes. Mitch, do you want to grab that one?"
+    },
+    {
+      "speaker": "J. Mitchell Dolloff",
+      "speech": "Yes, sure. I think just like -- for us, and I think probably everybody in the world, labor is a bit of a challenge. But we're not really seeing any place at this point where we're so severely impacted. We're probably struggling a little bit in a couple of our ECS operations that are marginally constraining our output, but we'll get those tackled. But it's just -- it's, I think, an ongoing challenge as the workforce is just smaller coming out of the pandemic. We are seeing a bit of wage inflation. I think that's not unique to us either."
+    },
+    {
+      "speaker": "Peter Keith",
+      "speech": "Okay. Pivoting over now to Bedding. I've gotten a couple of investor questions on this. And it really goes to the volume growth on a two-year basis. My math would say sort of back of the envelope, it looks like the volumes are down somewhere about 8% to 10% on a two-year basis from 2019. And I was wondering if you could address that. You specifically called out you've exited Fashion Bed and Drawn Wire. Maybe quantify what the volume impact was from those? Or if you think there's been some headwind from just your general customer mix?"
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "The biggest issue, Peter, for sure, is the constraint from the foam impacts. But Susan, we've never quantified the exit of those businesses? Is that correct?"
+    },
+    {
+      "speaker": "Susan R. McCoy",
+      "speech": "Not at the segment level. We have -- we quantified it at the companywide level, but, gosh, Peter, I haven't done that '19 to '21 now. Year-over-year in '20, though, we were looking at about a 3% reduction companywide, which would mean, I don't know, just double that roughly for the relative size of the Bedding segment. Maybe that's closer to 6%, 7% or so. But that's very rough now. We can follow up with you after call, if you'd like."
+    },
+    {
+      "speaker": "Peter Keith",
+      "speech": "Okay. That sounds good. And then nice job with the beat and raise. And I guess you've articulated the sales guidance raise, certainly passing through Q2, but then it looks like you've got the acquisitions and the raw material price increases. But when we look at the EPS raise here, arguably, there's much of the Q2 flow-through as well. Are there -- is there anything on the margin front, however, that you're adjusting in your back half of the year outlook that allows for the EPS bump-up?"
+    },
+    {
+      "speaker": "Susan R. McCoy",
+      "speech": "You're right about what the cause for that increase is. It's largely metal margin. And no, there's not anything that we're adjusting for in the back half. So we would anticipate as we move through the second half of the year, so third quarter, fourth quarter, to see sequential improvement -- quarterly improvement in sales and EBIT margin and in EPS following through with the expectations we've talked about already relative to supply chain constraints and our ability to recover raw material costs and so forth. But no special adjustments."
+    },
+    {
+      "speaker": "Peter Keith",
+      "speech": "Okay, thanks for the overview and good luck."
+    },
+    {
+      "speaker": "Karl G. Glassman",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. There are no further questions at this time. I would like to turn the floor back over to Susan McCoy for any closing comments."
+    },
+    {
+      "speaker": "Susan R. McCoy",
+      "speech": "We will -- we appreciate you joining us today, and we look forward to talking to you next quarter. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 37 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Susan R. McCoy--Senior Vice President -- Investor Relations",
+    "Karl G. Glassman--Chairman and Chief Executive Officer",
+    "J. Mitchell Dolloff--President and Chief Operating Officer, President -- Bedding Products",
+    "Jeffrey L. Tate--Executive Vice President -- Chief Financial Officer",
+    "Steven K. Henderson--Executive Vice President, President -- Specialized Products and Furniture, Flooring and Textile Prod",
+    "Bobby Griffin--Raymond James -- Analyst",
+    "Keith Hughes--Truist Securities -- Analyst",
+    "Susan Maklari--Goldman Sachs -- Analyst",
+    "Peter Keith--Piper Sandler -- Analyst"
+  ]
+}

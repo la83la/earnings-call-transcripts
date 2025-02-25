@@ -1,0 +1,361 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to the Oil States International Fourth Quarter 2019 Earnings Conference Call. My name is Vanessa, and I will be your operator for today's call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. [Operator Instructions]\nI will now turn the call over to Patricia Gil, Investor Relations. You may begin."
+    },
+    {
+      "speaker": "Patricia Gil",
+      "speech": "Thank you, Vanessa. Good morning, and welcome to Oil States' fourth quarter 2019 earnings conference call. Our call today will be led by Cindy Taylor, Oil States' President and Chief Executive Officer; Lloyd Hajdik, Oil States' Executive Vice President and Chief Financial Officer; and we are joined by Chris Cragg, Oil States' Executive Vice President, Operations; and Ben Smith, President of GEODynamics, our Downhole Technologies segment.\nBefore we begin, we would like to caution listeners regarding forward-looking statements. To the extent, that our remarks today contain information other than historical information. Please note that we are relying on the safe harbor protections afforded by federal law. Any such remarks should be weighed in the context of the many factors that affect our business, including those risks associated in our Form 10-K along with other SEC filings. This call is being webcast and can be accessed at Oil States' website. A replay of the conference call will be available 1.5 hours after the completion of the call and will be available for one month.\nI will now turn the call over to Cindy."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thank you, Patricia. Good morning to each of you, and thank you for joining us today to participate in our fourth quarter 2019 earnings conference call. Our fourth quarter results were consistent with our revised guidance issued in January and more reflective of the significant decline in U.S. land-based completion activity during the fourth quarter.\nOur completion services business was particularly affected in our Northeast and Mid-Continent regions of operations, and demand for our short-cycle products in our other segments was down sequentially as a result of the activity decline coupled with customers de-stocking their existing inventories.\nDespite this, revenues in our Offshore/Manufactured Products segment grew sequentially, benefiting from increased project-driven product revenues converting from backlog during the quarter. Backlog at December 31st, 2019 totaled $280 million, an increase of 56% year-over-year. Our segment book-to-bill ratio for the fourth quarter was 0.9 times, with the full-year 2019 ratio averaging 1.3 times.\nDespite the challenging market conditions we faced during the quarter, our business model and capital structure afforded us the ability to generate continued strong free cash flow, which was used to repurchase a portion of our convertible senior notes and further reduced our revolving credit facility borrowings.\nLloyd will review our consolidated results of operations and financial position with you in more detail before I go into a discussion of each of our segment."
+    },
+    {
+      "speaker": "Lloyd A. Hajdik",
+      "speech": "Thanks, Cindy, and good morning, everyone. During the fourth quarter, we generated revenues of $238 million, while reporting a net loss of $176 million, or $2.95 per share. Our fourth quarter earnings were impacted by a $165 million or $2.78 per share non-cash goodwill impairment charge and a $1.7 million bad debt provision on a two-plus year old receivable from a customer claiming bankruptcy protection. The impact on EPS for these fourth quarter items was $2.80 per share.\nOur fourth quarter EBITDA totaled $20 million, with an EBITDA margin percentage of 8%. Reported EBITDA was negatively impacted by $500,000 of severance and downsizing charges and a $1.7 million prior-year bad debt provision. The non-cash goodwill impairment charge related to our Downhole Technologies segment rising from among other factors, a significant decline in our stock price than that of our peers along with reduced growth rate expectations, given energy market conditions. Recall that this acquisition was funded 48% with Oil States' common stock valued at $34.05 per share on the date of closing.\n[Technical Issues] mentioned, we generated strong cash flow in the quarter, with $22 million in cash flow from operations. We invested $10 million in capital expenditures and received $2 million in proceeds from asset sales, which resulted in $14 million of free cash flow generation after capex and inclusive of the proceeds from these asset sales. In the fourth quarter, we repaid $13 million in borrowings outstanding under our revolving credit facility and repurchased $7 million in principal amount of our convertible senior notes at a 13% discount to the par value.\nFor the full-year 2019, our net interest expense totaled $18 million, of which $8 million was non-cash amortization of debt discount and debt issue costs. Oil States' average cash cost of debt for 2019 was approximately 3%. Our operations have historically and continued to generate significant amounts of free cash flow. Since 2014 and through the fourth quarter of 2019, we have been free cash flow positive in all the two quarters.\nFor the full-year 2019, we generated $87 million of free cash flow, which again as cash flow from operations after capex plus proceeds from asset sales. This represented an 88% free cash flow/EBITDA conversion and an approximate 13% free cash flow yield for 2019 based on our current market cap. We paid down $84 million in outstanding borrowings under our revolving credit facility and repurchased $8 million in principal amount of our convertible senior notes at discounts to par value. At December 31, our net debt-to-book capitalization ratio was 16% and our available liquidity position at the end of 2019 was approximately $140 million [Phonetic], inclusive of cash on hand totaling $8 million.\nIn terms of our first quarter 2020 consolidated guidance, we expect depreciation and amortization expense to total $27 million, net interest expense to total $4 million, of which approximately $2 million is non-cash amortization of debt discount and debt issue costs, and our corporate expenses are projected to total $12 million. We expect to invest approximately $40 million to $45 million in capex during 2020, which at the midpoint is roughly 25% less in our 2019 capital expenditures.\nAnd at this time, I'd like to turn the call back over to Cindy, who will take you through the operating results for each of our business segments."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thank you, Lloyd. In our Offshore/Manufactured Products segment, we generated revenues of $108 million and segment EBITDA of $16 million during the fourth quarter. Revenues increased 3% sequentially, due primarily to an increase in project-driven product sales, partially offset by a reduction in sales of our shorter-cycle elastomer and valve products as U.S. activity slowed and customers reduced existing inventory levels.\nSegment EBITDA margin was 15% in the fourth quarter of 2019 compared to 16% in the prior quarter. Our fourth quarter results in this segment were negatively impacted by $1.7 million bad debt provision on a prior-year receivable, which Lloyd mentioned earlier. Our orders booked in the fourth quarter totaled $93 million, resulting in a quarterly book-to-bill ratio of 0.9 times and a ratio of 1.3 times for the year. At December 31st, our backlog totaled $280 million, a 56% increase from that booked at December 31st, 2018.\nFor over 75 years, our Offshore/Manufactured Products segment has endeavored to develop leading-edge technologies, while cultivating the specific expertise required for working in highly technical deepwater and offshore environment. Recent product developments should help us leverage our capabilities and support a more diverse base of energy customers. In 2020, we are bidding on potential award opportunities to support our subsea floating and fixed production systems, drilling, military and wind energy clients globally. With our current level of visibility, we believe our 2020 bookings should be similar or greater than the levels achieved in 2019.\nIn our Well Site Services segment, we generated $92 million of revenue, $9 billion of segment EBITDA, and a segment EBITDA margin that averaged 10% in the fourth quarter which compared to 17% reported in the preceding quarter. The sequential decline in our results was driven by customer budget exhaustion, lower U.S. land completion activity, and the reduced number of frac spreads in operation, which were more pronounced in the Northeast and Mid-Continent regions where the corresponding average sequential rig counts were down 24% and 19% respectively.\nInternational and Gulf of Mexico market activity comprised 23% of our fourth quarter completion services business revenues. As previously announced, we have discontinued our drilling operations in the Permian, reducing our marketed fleet from 34 rigs to nine rigs, with the remaining assets serving customers in the Rocky Mountain region. We are highly focused on streamlining our operations and pursuing profitable activity where we can support our global customer base.\nWhile focusing on value-added services, in 2019, we closed or consolidated eight North American operating districts or 19% of our locations and reduced headcount in our completion services business by 20%. We continue to focus on core areas of expertise and actively develop our new products to differentiate Oil States' completions offerings. We are assessing further international growth opportunities with a particular focus in the Middle East.\nIn our Downhole Technologies segment, we generated revenues of $38 million and segment EBITDA of $3 million in the fourth quarter. Fourth quarter results were sequentially lower due to the decline in U.S. land completion activity, which led to continued under absorption in our manufacturing facilities. Segment EBITDA margin averaged 9% in the fourth quarter compared to 14% in the preceding quarter.\nWe continue to develop, field trial, and commercialize new products in the Downhole Technologies segment. Our vapor gun integrated gun system and addressable switch are gaining customer acceptance following their respective commercialization in the fourth quarter. In addition, our premium integrated gun system named STRATX has been formally launched among an initial group of customers.\nDuring a recent industry conference, we announced the commercialization of ancillary perforating products, including a new wireline release tool and two new families of shaped charge technology. Our product development efforts are designed with our wireline and E&P customers in mind, where we strive to provide them with flexibility, improved functionality and increased performance, while ensuring the highest level of safety and reliability.\nDuring the fourth quarter, we completed the construction of our new shaped charge manufacturing facility in Millsap, Texas. Over the next few quarters, we will be focused on optimizing our manufacturing cost as we increased our in-sourcing efforts across a number of our product lines, while increasing and recapturing market share for our other perforating products [Technical Issues] of 2020.\nThe first quarter has gotten off to a slow start, as I'm sure you have heard, similar to what we witnessed in the first quarter of 2019, as some operators have deferred resuming operations until later in the quarter after budgets have been finalized. The first quarter of 2020 average U.S. rig count of 791 rigs is currently 4% below the fourth quarter average of 820 rigs. As a result, we expect our U.S. onshore businesses and product lines to feel the effects of lower well completions, consistent with that of our U.S. peers.\nIn our Offshore/Manufactured Products segment, we forecast revenues to range between $100 million and $106 million, with segment EBITDA margins expected to average 13% to 15% depending on product and service mix. First quarter margins have been hindered by slow recovery in demand for our short-cycle products. We estimate that first quarter revenues for our Well Site Services segment should range between $85 million and $92 million with segment EBITDA margins expected to average 12% to 13%.\nFor our Downhole Technologies segment, we believe that our first quarter revenues will be flat to up sequentially due to the ramp in new product adoption and range between $38 million and $43 million with segment EBITDA margins relatively flat sequentially.\nIn conclusion, we are focused on our new products and technologies that are coming to market and believe that research and development of these types of new technologies is critical to our long-term success. We also recognize that cost management has to be our focus in a lower-activity environment. Our U.S. land-based operations are expected to continue to be challenged in the near-term, given global demand concerns which have pressured crude oil prices. Oil States remains focused on providing value-added products and services to meet customer demand globally. Cash flow generation remains a significant focus, with near-term plans to continue our deleveraging trend and expectations that we will essentially fully pay off our revolver in 2020.\nThat completes our prepared comments. Vanessa, would you open up the call for questions and answers at this time, please."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will now begin our question-and-answer session. [Operator Instructions] We have our first question from George O'Leary with Tudor, Pickering, Holt."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "Good morning, team."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Good morning, George."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "First question I had was just given you guys are starting to commercialize the integrated gun and now have the STRATX offering out there, how is adoption rate of that going and strategically what's kind of the marketing push -- how do you differentiate yourselves from the other integrated or pre-assembled offerings that are out there in the market?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Well, thank you for that question. I think the great thing is we had a good fourth quarter of trials for both products. I think that's first and foremost. And I would say with both products got good reliability and I'd say late in December, especially good reliability on the STRATX system. And what that does, by virtue of the fact that we've been trialing this technology, both with operators and wireline companies. They see the reliability through the field trials. So, there was obvious most likely candidates that now pick up the system. And we're basically building that with those early trial partners, I would say initially. But of course, now that we've rolled out the products through various marketing efforts, technology efforts, we've got our sales team extremely focused now on trying to ramp that.\nClearly, that's why we kind of gave a relatively broad guidance range for Q1, and we have to watch progress, how that progresses into future quarters. It won't be -- I'd love to say you open and the barn doors stampeded in, but it will be a slow, steady roll-out, which also gives us the ability to ramp our supply chain and manufacturing efforts accordingly. But I'm just really pleased to say we are where we need to be from a technology standpoint and a reliability standpoint. So now, it becomes the go-to-market efforts and the success that we have in field operations from this point forward."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "Great, thanks. Cindy, and then, I'm always interested to hear about new technologies. You mentioned some new product offerings in the Offshore/Manufactured Products business. I wonder if you could expand on that just a little bit and kind of let us know what direction you guys are trying to point in for that business?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "We don't always report R&D separately. It's always buried in our cost of sales. But again, given our structure and the global penetration that we have, we also have a variety of product lines, so that we've had the ability to invest in R&D, even through these down markets, again, given balance sheet strength and cash flow generating capability. So, we think it's -- as I said in my concluding comments, the only way that I think you're successful over the long-term is adapt your technology through the changing needs of your customer base. And we've been very focused among a broad range, if you will, of product lines, but it would probably be obvious to say we're trying to enhance our subsea connector offerings. As an example, we focused on expanding some of our capital drilling equipment capabilities that these deepwater rigs have to come out of stack to reactivated modes.\nAnd we do so much on inspection, repair, recertification. We have the people and the facilities and the talent to expand our capabilities around that as well. We have -- like many companies, when you've got excess capacity in a downturn because of weakness in the energy sector, we've looked for expanded industrial applications. And certainly, we are specialist offshore with subsea installations. There's no reason we shouldn't work and win markets as well. And so, we are taking a more proactive effort around trying to participate in offshore wind opportunities as well."
+    },
+    {
+      "speaker": "George O'Leary",
+      "speech": "Great. Thank you very much for the color, Cindy."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thanks, George."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And thank you. We have our next question from Stephen Gengaro with Stifel."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "Thanks. Good morning."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thanks. Good morning."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "So, Cindy, you've referenced the Well Site business and your revenue guidance and your margin guidance. Your margin guidance seemed pretty positive relative to the revenue guidance, if I kind of look at incrementals 4Q to 1Q. Can you talk about that a bit?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Well, we're -- it's always across your fingers here. And what I always say is two drivers there. Number 1, I think most people if they were to talk intra-quarter, fourth quarter would tell you that October was actually a pretty decent month. November was horrific. December may be modestly better than November, but nothing to write home about. What that does when you get that rapid of a fall-off as a limited ability to manage any kind of cost, whether that's over time, you name it.\nAnd so, we took some pretty significant decremental margins in the U.S. operations. There's always some timing issues and you just don't have that many rigs working in the Gulf of Mexico. So, you can have timing issues there. And then, the Middle East also, but whether you're in drilling cycles or completion cycles, so I just kind of say nothing went great in the fourth quarter for that business and pretty evident by the sequential decline in EBITDA, it is up to us to stabilize that and improve those margins. I'm not going to say it's easy. But I think given some of the headwinds we had in Q4, that we should be able to manage that in the first quarter."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "Thank you. And then maybe, this is for Lloyd. But when we think about 2020 cash flow and working capital, how you think working capital evolves and do you think it's pretty neutral or how should we think about that?"
+    },
+    {
+      "speaker": "Lloyd A. Hajdik",
+      "speech": "Thanks. Stephen, good question. Again, we generated a lot of free cash flow this year, $87 million. We have it on the backs of about $39 million of working capital release. But for projection purposes, I typically would project it to be relatively neutral or flat in 2020."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "Okay. Thank you and just one final one. So, you referenced the Middle East as a potential area of expansion, would that be something you'd envision organically or do you think you'd have to make an acquisition to do that?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Well, it's a little of both. And it depends on how you -- it's not acquisition-oriented necessarily. We're really focused on organic expansion, positioning our operations more effectively to serve a broader range of clients in the Middle East. Third, to enter -- right now, we kind of have a narrow product line working in the Middle East. So, we want to leverage some of our existing product lines with broader application in the Middle East. We don't need an acquisition, but we're very willing to work with alliances. I'm not going to call them joint ventures, because they're not that, but a lot -- work with other third parties to leverage the delivery of those services for a joint benefit, if that makes sense. Much as what we've done with trying to introduce GEO's products through NESR."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thank you, Stephen."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question -- we have our next question from Kurt Hallead with RBC."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Hi, good morning."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Hi, Kurt."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Hey, Cindy, I was kind of curious, as we now embark on another challenging year, it looks like in U.S. markets for 2020, Oil States has always been pretty active in at least looking at varying M&A type of opportunities. And I was just kind of curious as what the land -- how the landscape looks for potential M&A at least from your perspective on 2020?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "There are many people, both private and public, looking for ways to optimize value creation for their shareholders. No secret about that. But I want to be very, very clear, and I have been with my shareholders. I have two overriding criteria. Number 1, I don't want incremental leverage at the end of the day. And two, I don't want to dilute my strong free cash flows. And I'll just generally say, the sad thing about those two criteria is it takes probably 100 companies in the space, down to about five. And those five are going to be healthy, high technology, strong companies. So, I'm not going to tell you we're not going to do anything on the M&A space, but I will commit to all of you, I'm not going to take on incremental leverage and dilute my cash flow. And so again, we'll look at anything that is available that brings value to our shareholders, but I'm going to stick with those two tenants."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Got it. Appreciate that. And then, just a follow-up on the prior question there on the international opportunities. And I know that you already have an international footprint, right? And it looks like the international markets will show some differential growth relative to the U.S. In that same context, Cindy, you've seen a number of companies that have had ambitions to expand internationally to, let's say, very mixed results and that's probably being generous. So, when you think about the prospects for growth internationally, can you give us some insights on how you look at that from a risk mitigation standpoint and from a through-cycle return and free cash flow dynamic?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Well, I think that's a very interesting question, and you hit on some things that I don't know everybody always fully appreciate. Entering international market brings on a lot of challenges, but I think one of our greatest assets is the fact that we've been there for 75 years probably. I've been at this Company for 20 years and having a global footprint of operations and incredible talent with my management team, my middle-management team that knows how to work internationally, both from a sales perspective, business development, manufacturing, supply chain perspective, I think is invaluable because you don't necessarily make the missteps. We've got incredibly embedded programs from import/export, from compliance, from sanctioned companies, FCPA. I just don't expect that when we make a decision, we're going to have a misstep of any consequence.\nThere's always risk in doing businesses globally, but that's one of the -- I think, the greatest assets. And I will also tell you, when we negotiated the transaction with GEO, that's one of the things that the founder found particularly attractive about us is the fact that we do have that global footprint and experience level to have an ability to leverage products and services globally, whereas a smaller private company, that's very, very challenging. And any market you go into, that you've not been in before, requires a lot of upfront cost. And I just think the ease to market for us is an asset that we have."
+    },
+    {
+      "speaker": "Kurt Hallead",
+      "speech": "Yes. Great insight. Thank you."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thanks, Kurt."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we have our next question from Praveen Narra with Raymond James."
+    },
+    {
+      "speaker": "Praveen Narra",
+      "speech": "Hey, good morning guys."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Hi, Praveen."
+    },
+    {
+      "speaker": "Praveen Narra",
+      "speech": "I guess I wanted to touch on the Offshore/Manufactured Products segment first. It's great to hear that bookings can be perhaps even stronger than 2019. But when we look at what you're expecting for 1Q '20, can you talk about whether you're expecting any restocking of inventory on the short-cycle piece of it? And then also, when we think about the margin profile embedded in 1Q's guidance, how does that progress throughout the rest of the year?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Well, again, a great question. And embedded in our guidance is no recovery and restocking at this point. We think it comes later in the year. And these are very specific conversations we have with our customer base. And to be clear, I will just say this industry has gotten the message on free cash flow generation. So, it shouldn't shock you that customers are doing the exact same thing, trying to generate that promised free cash flow, just like Lloyd did in our operations, bringing down particularly receivables, everybody is looking at the levers they can pull on free cash flow. So shouldn't shock anybody here that destocking of inventory was one of the major customer initiatives in the fourth quarter. It continues in the first.\nAnd the other thing, I'm going to brag on my team, we are really good about kind of supplying more just-in-time inventory. They know they don't have to carry as much as maybe they did in the past. So, it will come. You have to build inventories to stay in business. But in our guidance, we are not expecting it in Q1, and therefore, the lower-guided margins. It has nothing to do with offshore products' project-oriented deepwater operations at all. But we're at very, very low levels on our short-cycle right now."
+    },
+    {
+      "speaker": "Praveen Narra",
+      "speech": "Okay. And then on the Downhole Technology question, to come back to George's -- what George was alluding to. In terms of the kind of recapture of lost market share, how do we think about the potential for the integrated product roll-out? Should we think that as a second half of '20, when you start to see that recapture as customers have trialed it out? Or is it really more of a 2021 story? And then also, how does that impact the margin profile as you guys are getting better absorption of manufactured facilities?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Even in our guidance, if you look at the range of guidance, you're starting from Q4 up. And that Q4 up is predicated on this roll-out and improvement of perforating revenues, just to be clear. And so again, I think we've given you guidance that says we're going up. And a lot of people talk about market share. The simplest way to say when we came to integrated gun, we didn't have any last year. And then, all it means is there is a market shift away from more component sales to integrated sales, so to some degree, think of us as having a fresh start at zero on kind of the integrated gun side of the business, and we'll start ramping that throughout the year.\nI can't tell you how that will progress at this point in time other than to tell you, we're getting off to the start that we hoped for and expected early this quarter. Clearly, all of the products, it's easy to look at what we call contribution margin or gross margin are very accretive to margins, but you got to have volume. And so, margin progression ties in, to some degree, revenue progression, but you do have good incrementals or contribution margin from all of the products in the Downhole segment."
+    },
+    {
+      "speaker": "Praveen Narra",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We have our next question from Marc Bianchi with Cowen."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Hey, thank you. I just wanted to first clarify the last conversation about the Offshore/Manufactured Product margin. Cindy, if I heard you right, it sounds like the level in the first quarter to improve from there, it's really just a function of short cycle. So, if we think short cycle picks up because of rig count and activity, that's the upside to margin. Otherwise, if we think activity is flat, it probably bounces in that range throughout the remainder of the year. Is that a fair way to describe it?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Absolutely correct, Marc."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Okay. Okay, great. And then, the other one I had just relates to a bigger picture on the cost footprint for the Company overall? And you talked about some of the supply chain stuff for Downhole. But as we think about the other businesses that you're in, how do you think about the opportunity for a more meaningful structural cost program that could occur as maybe the rig count doesn't improve materially from here?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Well, I think you may be pointing toward completion services with your question, but we have been conscious of market conditions over the last couple of years. We've not been sitting on a heavy cost structure and not responding. I think that was clear from our comments about district consolidations and focus on profitable product lines that -- perfect example is drilling. At some point, you got to say, we're -- this hope for market doesn't look like it's coming back. So, we're just exiting. Other people in the space are exiting non-profitable product lines. So obviously, we've done that.\nI think the cost-out pieces from here is a little bit different in the sense that we need to continue, obviously, to lean out U.S. operations. But I think we really need to focus on manufacturing facility optimization, cost absorption optimization, new product roll-outs, which leverage that infrastructure, both from a facility standpoint and a geographic standpoint with the commercialization of these new products. And important to me is the acceleration and innovation around these new product and technology offerings that we are focused on right now. But importantly, we're going to have to look more across our organization to find opportunities for efficiency between segments, if you will.\nAnd that can be, again, manufacturing optimization, reduced scrap, purchasing, supply chain, you name it. But there's still some opportunities that we have. But I would say, what I'm not really focused on is reducing a lot of field headcount. They are necessary to run efficient, safe, reliable operations for our customers. They are the revenue generators. And so anyway, that's really where my body language is. But as I said in my summary comments, you have to be cost-focused in this market."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Okay. So I guess with that, if I just look at kind of completions EBITDA margins here over the past number of quarters, we've kind of got up in the high teens. Is that where you think Well Site could ultimately get through these initiatives that you're talking about, or do we need help from the rig count?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "I think we need some help from the rig count, to be honest with you. And again, we're going to be cost conscious, but we certainly need some revenue to help these operations generate EBITDA. But it's certainly not unrealistic to assume we go back to high teens margins at some point in time. And the other significant focus for that business has to be free cash flow generation. Again, that's kind of more maintenance capex-intensive business. So, there is an acute focus here on ensuring that we're generating EBITDA and free cash flow."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Right. Thanks very much. I will turn it back."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "And maybe to -- and Marc, just to expand that just a little bit further. Again, go back to focus on your high value-oriented customers, the ones who are actually investing money. Right now, it's going to be critical and a focus on your more proprietary higher-margin product lines, that's where the capex is going to go. And we have very good granular visibility by district, by region, by product line. So, we know where to allocate that capital prospectively."
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "speech": "Great. Thanks, Cindy."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We have our next question from Ian MacPherson with Simmons."
+    },
+    {
+      "speaker": "Ian MacPherson",
+      "speech": "Thanks. Good morning. Cindy, you -- we've talked in recent quarters about the possibility of looking at a dividend for Oil States. And you've been very consistent, as you say, with your generation of free cash. And I know that you have a very obvious call on that throughout this year in terms of paying down the revolver. But is the dividend option still on the table? Have you given it more thought and given more -- maybe more specificity to what that might look like and the timing?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Yeah. Great question, Ian. The energy services market has clearly evolved over my working career, and it used to be that most people didn't pay a dividend. But we're seeing more and more do it to, you can say, attract shareholders. But the big thing is generating returns for our shareholders. We made a very concerted shareholder outreach effort at the kind of last four months of the year, particularly our top shareholders, and this was a discussion point. And we're beginning to hear more and more shareholders interested in that. Lloyd mentioned in his call the consistency of our free cash flow generation through cycle, starting back 2014. I think he said, we've only had two quarters in that five -- roughly five or six-year period where we've not been free cash flow generative.\nAnd so, I think it does make sense. I generally felt like I would like to have done it sooner than later. I did feel like with the massive fall-off in activity and the uncertainty around budgets, most people are focusing around a 15% year-over-year U.S. rig count reduction in 2020. It just seemed like the optics and the timing were a bit premature. But it is still front and center on my mind. We only -- we paid down our revolver to -- up slightly over $50 million through the end of 2019. And as I said in my comments, it's likely to be -- unless we allocate it to buying in some of the convert, it's likely to be paid off by the end of this year. So, you'll hear more about that. But again, with the fall-off in activity in Q4 and the outlook into 2020, it just kind of felt maybe it wasn't the right time."
+    },
+    {
+      "speaker": "Ian MacPherson",
+      "speech": "Yeah. I understand. I think that makes sense. Thanks. I had a follow-up for Lloyd. And I'm sorry, I did miss a segment of the call. And I'm sorry if I'm asking to [Phonetic] repeat. But I was going to ask about full-year capex, and then there was also a big step down in corporate expense in the fourth quarter, if you could guide that for us also, I'd appreciate it."
+    },
+    {
+      "speaker": "Lloyd A. Hajdik",
+      "speech": "Sure, Ian. Full-year capex, we gave a range of $40 million to $45 million, which is roughly 25% less than 2019. And corporate expenses were down largely on lower incentive compensation accruals for the full year. We adjust them in the fourth quarter, but that's not going to be -- that's why I guided higher for Q1. It's just really a kind of a reset in Q4 for the full-year 2019."
+    },
+    {
+      "speaker": "Ian MacPherson",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thanks, Ian."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we have our next question from Sean Meakim with JPMorgan."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "Thank you. Good morning."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Good morning, Sean."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "So Cindy, in Downhole, good to see that you've got the technology rolling out. You've got the reliability you were looking for. And so near term, clearly, you're going to be focused on ramping that volume as you said. Can we talk about pricing for integrated systems, which focus some E&Ps who are really emphasizing the smaller parts of the AFE. So less on frac and rigs, where you typically hear about more on the smaller pieces that drive completion costs. And of course, there's new products like yours coming into the market, while activity and E&P budgets are limited. Just curious how all of that coalesces around what pricing looks like for those integrated systems?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Well, I mean, clear, we want to be a technology leader for our customers. We believe these integrated guns are premium systems. And so, we don't intend -- we're going to -- should create the value for the offering that is there. And so, we're certainly not going to chase price to the bottom. There's no reason to do that. And these bring efficiencies to the well and to the customers that is really the whole point and also the high degree of reliability. Again, with that, you end up saving money form the -- for the customers in the long run. So again, think of these as differentiated products that should command more stable pricing."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "And are you seeing anything different in the marketplace among the competition?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "I wouldn't say so. There's -- look, everybody is trying to find ways to cost out systems and reduce pricing to the customer. So, there's price pressure, but it's always going to apply to more commoditized services where you have a wide breadth of service providers available. That is why we, as a company, whether it's Offshore Products, Well Site or Downhole, have always tried to stay on the higher technology, more differentiated offerings. Now, we're not foolish. We know that we have to be price competitive, and we will be, but this is not the kind of offering where I see a multitude of customers, like you see in pressure pumping -- or suppliers, excuse me, like you see in pressure pumping and wireline operations. And so, we feel pretty good about the pricing we've built into our budgets and into our forward guidance."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "Got it. That's very helpful context. That makes sense. In completion services, can you talk about any mix shift within your customers as budgets are tight? So in the past, we've seen some shifts in preference when we go through these budget adjustments. So on the one hand, your wellhead isolation tool creates value for customers. It's demonstrated over a number of years. But we've seen periods where the customers are shifting to what they perceive as lower cost within pressure control. Just are you seeing any mix changes within the completions portfolio? And is that impacting prices in some of those parts of the portfolio?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Again, that's a terrific question. But I go back to -- some of our most differentiated technology does pretty well through the cycle. And I'll use my extended reach, Tempress Technologies, as an example. It's got leading market share. It absolutely performs best in the field. With other ones, you mentioned isolation tools specifically, some customers are more cost conscious and don't use it. Other customers recognize the value, I'd say, part of the pain in Q4 is the fact that some of our customers that love isolation cut back the rig count dramatically, particularly in the Mid-Con, so you kind of get a double whammy from a little bit of activity decline and a mix decline. So, there's no one single answer to that because we worked for everybody from the majors to small independents. But you can get, depending on who is investing capital, you can have these kinds of swings, unfortunately. But I go back, my fundamental premise is more differentiated technology with lower competition does better in good markets and in down markets."
+    },
+    {
+      "speaker": "Sean Meakim",
+      "speech": "Got it. Great. Thank you, Cindy."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thank you, Sean."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And thank you. We have our next question from Cole Sullivan with Wells Fargo."
+    },
+    {
+      "speaker": "Cole Sullivan",
+      "speech": "Hi. Good morning."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Hi, Cole."
+    },
+    {
+      "speaker": "Cole Sullivan",
+      "speech": "On the offshore product order pipeline, you mentioned 2020 could be at or above '19. What are some of the moving parts or areas of opportunity that could drive that this year? And is it floating production awards being a bigger part of that in the mix?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "We have -- I have a forward outlook that supports my guidance to you that is very much project-specific at the end of the day. But if I were to generalize that outlook, we're looking for opportunities on kind of fixed platform products. We're looking for opportunities on the subsea side, certainly tied toward both subsea developments as well as floating production facilities. A lot of that weighting is going to be more in kind of the Brazilian market, Guyana, not surprisingly, floating -- fixed platform products more in Southeast Asia. And then, we also have had a good pipeline last year and expect a good pipeline this year in terms of military-type support and awards. Upside for me is if we can get further penetration on some of the wind installation opportunities."
+    },
+    {
+      "speaker": "Cole Sullivan",
+      "speech": "Okay, fair enough. And then on -- one more on the offshore products. The ramp on the project-driven side was pretty notable on the revenue in 4Q after kind of flattish quarters in 2Q and 3Q. Is there a flattish sort of expectation in the first quarter there? Or do we expect that to kind of continue to step higher with the inbounds you guys saw in 2019?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Yeah. We gave specific revenue guidance on the call. I believe it was $100 million to $106 million. I'm looking to Lloyd for validation. So, there's a modest step down that is tied to short cycle, not to our major projects."
+    },
+    {
+      "speaker": "Cole Sullivan",
+      "speech": "All right. Thank you. I'll turn it back."
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Thanks, Cole."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] It seems we have no further questions in queue. Would you like to add any closing remarks before we conclude?"
+    },
+    {
+      "speaker": "Cindy B. Taylor",
+      "speech": "Certainly. Thank you, Vanessa. I just want to extend my appreciation to all of you who have dialed in today. I know it's been an incredibly busy couple of weeks and there's still more to come for you. I'll just let you get on to other business, but tell you, we do plan to file our 10-K no later than tomorrow. So if any of you wants supplemental data, you should find it there. So, I hope you all have a great week and make it through the balance of the earnings season. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 50 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Patricia Gil--Director of Investor Relations",
+    "Cindy B. Taylor--Chief Executive Officer and President",
+    "Lloyd A. Hajdik--Executive Vice President, Chief Financial Officer and Treasurer",
+    "George O'Leary--Tudor, Pickering, Holt & Co. -- Analyst",
+    "Stephen Gengaro--Stifel -- Analyst",
+    "Kurt Hallead--RBC -- Analyst",
+    "Praveen Narra--Raymond James -- Analyst",
+    "Marc Bianchi--Cowen -- Analyst",
+    "Ian MacPherson--Simmons -- Analyst",
+    "Sean Meakim--JPMorgan -- Analyst",
+    "Cole Sullivan--Wells Fargo -- Analyst"
+  ]
+}

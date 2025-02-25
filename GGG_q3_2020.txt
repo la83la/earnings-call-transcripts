@@ -1,0 +1,431 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and welcome to the Third Quarter Conference Call for Graco Inc. If you wish to access the replay for this call, you may do so by dialing 1 (855) 859-2056 within the United States or Canada. The dial-in number for international callers is (404) 537-3406. The conference ID number is 8334616. The replay will be available through 1:00 p.m. Eastern Time, Wednesday, October 28, 2020.\nGraco has additional information available in a PowerPoint slide presentation, which is available as part of the webcast player. At the request of the company, we will open the conference up for questions and answers after the opening remarks from management.\nDuring this call, various remarks may be made by management about their expectations, plans and prospects for the future. These remarks constitute forward-looking statements for the purposes of the Safe Harbor provisions of the Private Securities Litigation Reform Act.\nActual results may differ materially from those indicated as a result of various risk factors, including those identified in Item 1A of the company's 2019 Annual Report on Form 10-K and in Item 1A of the company's most recent quarterly report on Form 10-Q. These reports are available on the company's website at www.graco.com and the SEC website at www.sec.gov.\nForward-looking statements reflect management's current views and speak only as of the time they are made. The company undertakes no obligation to update these statements in light of new information or future events.\nI will now turn the conference over to Kathy Schoenrock, Executive Vice President, Corporate Controller."
+    },
+    {
+      "speaker": "Kathryn L. Schoenrock",
+      "speech": "Good morning. I'm here today with Pat McHale and Mark Sheahan. Our conference call slides have been posted on our website and provide additional information that may be helpful.\nSales totaled $439 million for the third quarter, an increase of 10% from the third quarter last year and an increase of 9% at consistent currency translation rates. Acquisitions added 1 percentage point of growth in the quarter.\nNet earnings totaled $114 million for the quarter or $0.66 per diluted share. After adjusting for the impact of excess tax benefits from stock option exercises and other non-recurring tax items, net earnings totaled $102 million or $0.59 per diluted share. The sale of the company's UK-based valve business Alco, was finalized in July of 2020. Impairment charges totaled $300,000 in the quarter and $35.2 million year-to-date. No additional impairment charges are expected from the sale.\nOur gross margin rate was up slightly compared to the third quarter last year. Improved factory volumes, lower material cost, the favorable impact of currency and realized pricing more than offset the unfavorable effect of product and channel mix, as sales in the Contractor segment increased, while sales in the Industrial and Process segments declined.\nGiven the growth in certain products in the Contractor segment, particularly products for the home center channel, factory capacity has strained. We've managed the increase in demand levels by investing in additional production lines, moving employees from other factories, increasing contract labor and working over time. We are making progress toward meeting current demand levels and continue to monitor the situation closely.\nOperating expenses in the quarter were comparable to the third quarter last year, as reductions in volume and earnings-based expenses offset higher product development costs.\nThe reported tax rate was 6% for the quarter, down 7 percentage points from last year. On an adjusted basis, the rate in the quarter was 16% as compared to 20% in the first half of 2020. The decrease in the rate from the first half is due to the impact of lower foreign earnings and earnings in countries with lower tax rates than the US rate. Excluding the effect from excess tax benefits related to stock option exercises, and other one-time items, our tax rate is expected to be 18% to 19% for both the fourth quarter and the full year.\nCash flow from operations totaled $263 million year-to-date as compared to $299 million last year, primarily due to lower operating earnings and increases in working capital. Capital expenditures totaled $46 million year-to-date as we continue to invest in manufacturing capabilities as well as the expansion of several locations. For the full-year 2020, capital expenditures are expected to be approximately $85 million, including approximately $50 million for facility expansion projects.\nA few final comments, looking forward to the rest of the year. On page 11 of our slide deck, we note our 6-week booking average through October 16th by segment. I would point out that there is an inherent volatility in order rates reflected in such a short period of time. Nonetheless, we thought it would be helpful to provide current order rate data, so you can see what we are experiencing heading into the fourth quarter. Similar to the last two quarters, our Industrial and Process businesses are still experiencing declines from a year ago. Although less severe than they were in Q2, while our contractor business remains strong. As the US dollar continues to weaken, the effect of currency translation will continue to be favorable. At current rates, the impact would have been negligible on sales and earnings for the full year, and have a full -- have a favorable impact to the fourth quarter of approximately 2% on sales and 3% on earnings, assuming the same mix of business as the prior year.\nI'll turn the call over to Pat now for further comments."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Thank you, Kathy. Good morning, everyone. All of my comments this morning will be on an organic constant currency basis. Despite the unusual operating environment, we achieved record quarterly sales, driven by the strength of the North American construction market and a gradually improving Asia-Pacific region. The Contractor segment, single handedly accounted for the company's sales growth for the quarter. I want to thank our employees who've been working tirelessly to meet this unprecedented demand. A special thanks to the management job [Phonetic] floor and temporary employees, who've been working incredibly long hours along with all the employees from other Graco factories relocated to the contractor factory to assist. It's been Graco teamwork on full display.\nContractor grew in all regions during the quarter as customers have responded favorably to our new product offerings, residential construction activity has been solid and the home improvement market has been robust. The Industrial segment declined low single-digits for the quarter. Although improved from Q2, business activity remains muted across most of our major end markets. Access to industrial facilities is limited. Factory demand in many industries remains well below last year and appetite for capital spending is constrained. Some specific areas showing signs of life, such as spray foam, electronics and battery, aren't large enough to offset declines elsewhere.\nAsia-Pacific improved during the quarter, all those up against an easier comp from last year. As you'll recall that industrial demand softened in the second half of 2019. Reduced spending on travel, sound discretionary expense management, good factory performance and solid price realization resulted in improved industrial operating earnings for the quarter, despite the lower sales.\nThe Process segment declined low teens for the quarter and for the year. Demand in this segment vary significantly by end market with growth in our semiconductor and environmental businesses more than offset by declines in our diaphragm pump and lubrication businesses. While it's difficult to predict near-term economic conditions, we expect things to remain challenging for the short term. As we've done throughout 2020, and through prior downturns, we intend to continue to fully execute against our strategies. We're full scheme [Phonetic] ahead on our new product development initiatives, continue to make solid ROI capital investments in our factories are adding channel globally and are focused on finding profitable growth opportunities in attractive niche markets whether organically or by acquisition. We've kept our workforce intact, morale is good and we expect to do well as economic conditions improve.\nOperator, we're ready for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The question-and-answer session will begin at this time. [Operator Instructions] Our first question comes from Deane Dray with RBC Capital Markets. Please state your question."
+    },
+    {
+      "speaker": "Deane Dray",
+      "speech": "Thank you. Good morning, everyone."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Good morning, Deane."
+    },
+    {
+      "speaker": "Kathryn L. Schoenrock",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Deane Dray",
+      "speech": "Hey, just to start off with an observation that Graco's concentration of manufacturing purposefully in Minnesota as opposed to spread all over the globe, like many of your manufacturing counterparts really gives you the option and the flexibility this quarter, as you explained that you shift employees around. So, I really like seeing that. But here is the question. What's your take on the monthly -- the cadence of monthly slowing, is this segment volatility or there comps issues, because we've been seeing a steady within the industrials monthly improvement, but there is a bit of slowing, and your numbers here and I love to get some context."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "So I wouldn't read too much into it. As we've talked about in the past, we have variability even quarter-to-quarter in our industrial business, as we got a fair number of projects that can influence the timing of sales and the timing of incoming orders. I think it's more just reflective of the fact that you should be thinking that the Industrial activity is still challenging. And that going into the fourth quarter, we're not seeing the kind of strong rebound in Industrial like we're seeing -- like we saw in our Contractor business here in Q2."
+    },
+    {
+      "speaker": "Deane Dray",
+      "speech": "That's helpful. Just on that point, what's your expectation of this Contractor strength, I mean we're really have seen this work from home, work on home, mega trend, but can you address the sustainability of this? And then the 2021 outlook in terms of new product introductions, are you still going to do your pricing increase, typically you would get that in the first quarter, but some color there would be helpful. Thanks."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah, in terms of our own internal initiatives, I think it's going to be business as usual in terms of pricing and cost control, investments in our factories, new product launches. We haven't went and cut anything that's going to be an impact on us in 2021, it's full speed ahead. So I don't see internally any real changes there. The external environment for Contractor looks OK. Going into 2021, obviously, we're putting up really huge numbers right now and there's probably some influence on the pent-up demand from that slowdown that we saw in that kind of April-May timeframe, but it's hard to ascertain what the magnitude of that is. I think we feel pretty good about that external data points that we're seeing in terms of the construction market going into 2021. So hopefully that business is going to hang in there and keep carrying us."
+    },
+    {
+      "speaker": "Deane Dray",
+      "speech": "That's really helpful. Congrats to everyone."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Mike Halloran with Robert W Baird & Company. Please state your question."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "Hey, good morning, everyone."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Hi, Mike."
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Hi, Mike."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "So a couple of things here. One, CapEx side, obviously, you guys did a pretty well timed in retrospect build-out of the Contractor facilities, what's the plan from here, you guys are running pretty full speed. You're doing a lot of maneuvering, just to make sure you can meet that demand. Is there incremental CapEx and used to happen or is this, we can float around for a while. So we get a better understanding with the core demand looks like throughout all the three segments?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "So, CapEx is done here and I'll call it a decentralized basis. So anybody who comes in with a good idea that's gotten ROI is going to get CapEx. So if we just say, look, machines and other factory investments are going to be more or less business as usual, perhaps a bit muted in some areas, because demand is lower, and we just talk about bricks and mortar. We do have a couple of projects that are teed up, those are reflected in the CapEx spending outlook that Kathy gave for you. But given the size of the company and our expectations that we continue to grow, I think adding some bricks and mortar on a fairly regular basis here and there around the world is going to be part of the program."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "So a clarification then from an earlier question, the Industrial -- the Industrial cadence through the quarter. I was assuming there is going be some pent-up demand in the early part of the quarter that probably washed through later in the quarter. Is there a fueling [Phonetic] internally there that you've reached some level of stability at about, I mean, it's still choppy month-to-month but at these kind of within a band. And then secondarily, how are you guys thinking about mix in the Industrial segment on a forward-basis?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "And it feels to me like we're not likely to return to the kind of numbers that we saw in Q2. However, there's still a lot of people working from home, and I think there is going to be less capital spending on the Industrial side and to all the engineers get back to work and things get back to normal. So I think, our view is as while we've probably seen the lows. It's not back yet. And I think it's kind of undetermined when it is going to come back, especially given the fact that the COVID increases in Europe are resulting in some more work from home kind of orders that are being implemented here in the last few weeks in some of the geographies and that's may be likely to continue here for a while."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "And then the next question?"
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "I don't see any major changes in the mix, Mike. I think last year in Q4, we did have some project business that shift that we probably won't see again in Q4 of this year. And so that could have obviously an impact on the top line as well as our profitability. But overall, I think Pat's [Phonetic] rate, what we're seeing in terms of incoming order rates and mix has been fairly consistent here for the last few months."
+    },
+    {
+      "speaker": "Mike Halloran",
+      "speech": "Great. Well, appreciated. Very good execution, guys. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Jeff Hammond with KeyBanc. Please state your question."
+    },
+    {
+      "speaker": "Jeffrey Hammond",
+      "speech": "Hey, good morning."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Hi, Jeff."
+    },
+    {
+      "speaker": "Jeffrey Hammond",
+      "speech": "Just on -- just on Contract here, maybe just speak on what you're hearing anecdotally about the commercial contract. I know there's a lot of concerns about kind of the non-res cycle and it seems like a lot of -- a lot of the drivers that they stay at home and residential."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yes, it's going to be interesting to see how this all plays out. My view on it is, is that the office space is probably going to be pretty -- pretty dampen particularly in the big cities going forward, however, warehousing and other sorts of segments are looking really strong. There is also some talk about potential for conversions of some of the office buildings in some of these metros into more housing in itself. There is a dislocation happening here. I think part of it's all going to depend on, if there is a vaccine and how good is it and when is it. I think the picture could look different. If there was a good vaccine early in the beginning of next year, I think it could look different. If there is a half-baked vaccine, it's available later next year. So I think it's -- everybody is going to have to kind of watch and we're going to have to figure this out as we go."
+    },
+    {
+      "speaker": "Jeffrey Hammond",
+      "speech": "Okay. And then, can you just speak to what you're seeing in Asia. I know you were kind of seeing a big slowdown and challenges around some of the trade tariffs and it seems like you're starting to see growth there. I don't know if it's just easy comps or if you're starting to see some real demand uptick."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah, Jeff, I'd say it's definitely improved from what we were saying earlier in the year. You're right. We had a really fairly easy comparison in Q3 versus what we did last year. We were down close to 30% in Q3 last year. So it was an easier comp. And the growth rates that we're seeing, we're not seeing a hockey stick bounce back here, we're really kind of seeing some underlying growth and improvement. And we're hopeful that that will play out here for the rest of the year and put us in a decent spot as we get into next year, of course, all dependent upon whether future lockdowns happen in that type of thing."
+    },
+    {
+      "speaker": "Jeffrey Hammond",
+      "speech": "Okay. Thanks a lot."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Matt Summerville with D.A. Davidson. Please state your question."
+    },
+    {
+      "speaker": "Matt J. Summerville",
+      "speech": "Thanks. Just one from me here. Maybe just a little bit more end market color on the Industrial business, you mentioned a couple of the brighter spots, I'm curious as to what end markets are still may be among the hardest hit, what might be showing signs of inflection. And then maybe a little more specificity around what markets did are driving that improvement that Jeff was referencing with respect to Asia. Thank you."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah, I'll make a couple of comments, and I'll let Mark chime in. I mean, obviously, aerospace is a nice market for Graco and that's pretty much on its back. Automotive has been challenged. I think the rebound in automotive is going to depend on some other factors. So we're going to have to watch and see how quickly the automotive market around the world can recover. Oil and gas, well, it's not directly in our industrial space, definitely influences, a lot of other industries and oil and gas is challenged right now. So those are some big ones that certainly are negative. When I kind of step back and look at the big picture on the general industrial side, it really seems like most of the markets that are -- for us that are true in-plant, if it's a factory and it's running, it's not easy to get into, they don't want visitors, a lot of their technical staff maybe working from home, and I think some of that really needs to clean up before we start test in new highs again. And I'll let Mark chime in with any other end market comments he wants to make."
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Yeah, I agree 100% that until we can get back into the plants, it's going to be tough sledding for our Industrial group and our Process group, especially in the diaphragm pump side of that business. The markets that we called out -- we called out spray foam, obviously, that's more of a contractor-based market. So we are seeing some growth there. We also called out battery and some of that activity is happening in the Asia-Pacific region. We're getting involved in some projects in and around that space. I think we mentioned that the growth that we're seeing, though, isn't quite enough to offset some of the declines that we're experiencing in other parts of the business. Asia overall, as I said before is better, but again it's slow growth, it's not rapid growth, and hopefully that continues here for us throughout the rest of the year."
+    },
+    {
+      "speaker": "Matt J. Summerville",
+      "speech": "And then maybe just one quick follow-up. Maybe speak to actionability with respect to your M&A pipeline and if you've seen any change in valuations multiples et cetera in the last few months?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah, I'll just say that we need a couple of things to happen on the M&A side for us. One is that we have to find high quality businesses and right now I don't think we're really seeing a whole lot of that. We've seen a few that are more fixer-uppers and maybe a couple that are benefiting from the pandemic, which may not be sustainable. So, and then secondly, we are very disciplined, we need to see pricing that rewards our shareholders and with this depressed interest rate environment that we have and low taxes and things like that, it's really driven valuations up into a zone or refine that pretty difficult to generate the kinds of returns that we like to see. For example, when we invest in our factories, we feel very confident that we're going to get good rates of return on those investments or if we invest in our product development projects, we also feel like we're going to get good rates of return on those projects. And we still believe that our investors are in the mindset that they want us to deploy capital smartly. And I don't really see that changing going forward here. So let's hope that maybe those dynamics move in our favor. But right now, it's pretty tough."
+    },
+    {
+      "speaker": "Matt J. Summerville",
+      "speech": "Got it. Thank you, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Saree Boroditsky with Jefferies. Please state your question."
+    },
+    {
+      "speaker": "Saree Boroditsky",
+      "speech": "Good morning. Congratulations on the quarter."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Kathryn L. Schoenrock",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Saree Boroditsky",
+      "speech": "The 6-week average booking rate for Process is down 3%. I believe that implies slightly positive results in October. So could you just provide some color on end markets and geographies that are driving this improvement? And do you think this is sustainable?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah. Again, it's a little bit like our Industrial business, it can -- a 6-week run rate is, I would say an indicator. But it's certainly not a predictor in any fashion. And what we've seen as we've seen some of the end markets, for example, our White Knight semiconductor business has been doing well. We've got -- our environmental business has been showing some growth. We see opportunities on the sanitary side where food production is still strong. The real industrial oil and gas classic process business along with our lubrication equipment, which focuses heavily on things like mining, oil and gas and car dealerships, that's pretty depressed. So it's a little tough to sort out. As I mentioned, it's a mixed bag. And we do have growing businesses in there and then we have some that are in some really challenging environment. So we'd like to see an overall improvement in the economy, so that the growth story is that we have aren't washed out by the negatives."
+    },
+    {
+      "speaker": "Saree Boroditsky",
+      "speech": "Thank you. And then just back on Contractor, obviously, orders remain very strong. But could you just touch on how we should think about the comp for next year? Would you expect sales to decline in the back half of 2021, [Phonetic] excluding the extra week?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Well, we never expect sales to decline and to go. On the last that you're going to get sitting here in October, saying that I expecting a sales decline in the last half of next year. We've got a active group up there, they are very strong in product development. We've got a strong channel. We have growth opportunities outside North America. The data going into 2021 looks pretty decent for us. So I'm hoping that we're going to put up another W in the column for Contractor for next year."
+    },
+    {
+      "speaker": "Saree Boroditsky",
+      "speech": "Great. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Bryan Blair with Oppenheimer. Please state your question."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Thanks. Good morning, everyone."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Good morning, Bryan."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Pat, you mentioned for a while that the team is banked on a returns on more normalized 1.5 million housing starts, obviously, years of lower build rates. I'm just curious how the pandemic and its impact on suburban sprawl affects your views, we're obviously approaching that level now and demand seems to be quite robust."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah, I don't really believe that that in the short term here the pandemic has influenced the construction market to the extent that it's changed people's -- the amount of paint sprayers people are buying. I think really it's a -- that's more of a question what happens over the course of the next 2, 3, 4 years. And does this suppose an exodus to the suburbs really materialize and then they have to get land and they have got to get all that kind of stuff approved and roads and the contractors have to start building. So I think that's more of a forward guess [Phonetic] so that the people are going to make. And again, I'm still on a wait and see mode, because I think that if things are resolved quickly, the world might go back to normal faster than people think. And if they drag on, then some of these changes that we have could potentially go on and become permanent changes to society. So I don't know, we're not going to -- we're not going to change our strategy right now for either way we're launching new products and what's going to happen with that or part of the world is I think a big question mark."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Okay. I appreciate the color. And Mark, given the surge in Contractor demand, how close is the business to requiring meaningful brick and mortar CapEx? I imagine the team is thankful for the recent expansion that you put in place."
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Now, we're in great shape in Contractor, that factory is up and running and we're glad that we made the investment last year gave us the space that we needed. And in hindsight, we're probably a little bit lucky that we did it, when we did it, to be honest with you, but we feel really good about capacity up there right now."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Okay. Excellent. And one kind of clarification point with Alco out of the portfolio, what's your remaining exposure to oil and gas, at least on a direct basis? I think it was only 4% of 5% of sales previously."
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Yeah, it's pretty small. I mean, we got a little bit of exposure in our Industrial business where we're putting protective coatings on pipelines and we get involved in offshore oil rigs and those types of things. And then we also have an internal initiatives going on here. We've developed a line of products that are designed to go into that end market to it's pretty small. And then we had acquired a business a while back called High Pressure Equipment in Erie, Pennsylvania and they also sell some high pressure valves into oil and gas. But our exposure is pretty minuscule now at this point."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah, I would say that when oil and gas is busy, a lots of other businesses get busy and there's a pretty nice trickle down effect, but then that's indirect and it's hard to measure. But over the years, definitely we benefit from a strong mining and oil and gas market."
+    },
+    {
+      "speaker": "Bryan Blair",
+      "speech": "Okay. Understood. Thanks again."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question comes from Walter Liptak with Seaport. Please state your question."
+    },
+    {
+      "speaker": "Walter Liptak",
+      "speech": "Hi, thanks. Good morning, guys."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Walter Liptak",
+      "speech": "When they ask about the quick lube market and some of the miles driven has come back, so I kind of thought maybe you might start to see some of those quick lube spending. What are you hearing from those customers? Is there a project funnel for replacement or any new store openings?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yes. So that the -- I'll say the project list is looking a little bit better as we look forward, it's -- I think we're not going to be getting worse from this point on. But there is still, I think hesitancy to make CapEx investments in that space right now and until I actually see the orders coming in the door, I'm not going to get overly excited by a little bit better, I would say quote list. But if you want to look at it from an optimistic standpoint, our quoting looks a little bit stronger than it has, and so maybe we'll see some recovery there."
+    },
+    {
+      "speaker": "Walter Liptak",
+      "speech": "Okay, great. And then the Industrial end, if I'm not mistaken, with Industrial, you guys sell quite a bit to kind of distribution reps and engineering rep groups, and is that where the issue is, where they're having trouble getting out and working with engineers and getting down to the factory floor. Because even in Industrial, there should be a nice ROI and replacing of the equipment with the new products. Is it you guys being able to getting yourself [Phonetic] the rep groups and if there's something that you can do to get the rep groups back out into those plants are pushing to get back in."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yeah, so we generally Industrial, we sell not direct, we do have some segments that we sell direct, but we don't really use rep groups in our Industrial, there are our own sales people and then they manage a territory and they set up and they manage the distribution channel and then we make a lot of joint sales calls with our distributor partners. So we do have some opportunity to try to influence to make sure that our distributors are getting out there and power on the pavement and doing the job and trying to get in where they can get in. But frankly, our factories aren't any different. Our factories here -- our factory employees are not interested in having anybody come in unless they absolutely need to be here. Having somebody command and then having an exposure event and then having 15 people out because they got, they're on quarantine would be really negative, but particularly when you think about our factories that are busy. And so our customers really aren't any different. And so the opportunity to command and sell them a new product or an upgraded product or something that's gotten ROI is really dampened in an environment where we can't make proactive calls. Now, when they need us, they call us and we get in and our distributors do make new [Phonetic] brands and there's certainly there are some customers that are allowing us in the door. As you can see by the fact that our Industrial business isn't terrible, but it's really not a great environment. We have been spending a fair amount of time trying to find other ways to effectively reach our Industrial customers using social media, using the Internet, using email campaigns, using the web to try to make sure that to the extent that we can we get our message on cost savings projects and quality improvements that they could consider in front of them. But it is in a great environment and we can't totally fix it, we can influence we can fix it."
+    },
+    {
+      "speaker": "Walter Liptak",
+      "speech": "Okay, got it. Thanks. And then just a follow-up on the CapEx. I just -- sorry, I'd make sure I understand that. So it's something about $35 million of maintenance CapEx and then $50 million incremental and that's going into machines in bricks and mortar, is that right?"
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Yeah, I mean, it's about right. We're looking to finish the year around $85 million in total CapEx, and we do have some projects brick and mortar here in the back half of 2020, that will be funding, that will be a big chunk of the increase in what you've seen here year-to-date."
+    },
+    {
+      "speaker": "Walter Liptak",
+      "speech": "Okay. All right. And what are you thinking about for CapEx next year?"
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "I don't know that we're at a spot yet where I feel good about giving you a number, but we'll definitely fine tune that getting something out here by the time we report after Q4."
+    },
+    {
+      "speaker": "Walter Liptak",
+      "speech": "Okay. All right. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question comes from Joe Ritchie with Goldman Sachs. Please state your question."
+    },
+    {
+      "speaker": "Joseph Ritchie",
+      "speech": "Thank you. Good morning, everybody."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Good, morning, Joe."
+    },
+    {
+      "speaker": "Kathryn L. Schoenrock",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Joseph Ritchie",
+      "speech": "Hey, Pat, maybe just kind of following up on that point regarding access to sites on the Industrial side. Did that change at all throughout the quarter? We've obviously had a little bit more of a surge here with COVID cases. I'm just wondering if, as things gotten worse that, that impacted your sales at all intra-quarter?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "So the surge that we've seen here like, let's say, the last 3 or 4 weeks, I can't say that I've seen a change. I think we did see definitely a positive change coming out of Q2, for a while there nothing was happening. And so that really reverse itself over the course of the summer and now some things are happening. I haven't seen it regress backwards at this point. However, there is new stories every day. And we've got states and countries that are taken further actions. So I guess it's TBV [Phonetic]."
+    },
+    {
+      "speaker": "Joseph Ritchie",
+      "speech": "Got it. Okay. Now that's helpful. And I think maybe just following back up on Contractor. It is interesting you guys talk a little bit about your capacity being strained and how strong things were this quarter. But notably, look, your incremental margins were really strong and so you're able to offset what I would imagine was higher cost this quarter. I guess, I don't -- how should we be thinking about that going forward from us -- from a margin perspective, was there potentially some negative headwinds because of the increased cost this quarter. And then secondly, are we through really kind of like the capacity issues on Contractor and I know it's a good issue to have."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "So, I'll take a shot and then I'll let Mark chime-in [Phonetic] as well. First on the Contractor side, we are still busy and we're still trying to dig out. The team up there is still working really hard. So we'd still got some work to do, where we're sitting here today in October, we're definitely not out of the woods yet. In terms of -- the Graco model is high incremental margins and high detrimental margins. And when we get volume in a factory or a business unit, generally we perform. And when we don't get volume, then generally it's challenging. And we're not out there cutting headcount, because we're going to have a bad quarter or a bad year. So our costs tend to be more fixed. One of the squarely things, of course, that we're dealing with here in 2020 is the fact that with the wide variation in business unit performance and what the big drop in Q2, the variable expenses around travel, around incentive programs and around distributor rebates are fluctuating wildly compared to what would happen in a normal year. And of course, in some cases that helps us on the expense side, of course, when business comes back and those are going to come back to. So we got a little bit of a bumpy patch that we're going to have to work through here on the variable expense side. But the basic model of Graco where as you -- if we get revenue, we make money and we make good money, that's intact and it's really none of our -- none of our dynamics around that have changed."
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Yeah, I would just say that I agree with that. And obviously, in Q3 here, we had a huge ramp up in revenue and we still have a lot of our sales people that are working from home and not able to get into different areas and we aren't traveling, we aren't going to trade shows, we're not spending as much money, airfares way down. So, the margin rates that you see in Contractor in Q3 are really good, they're strong. In a more normalized environment where we're trying to grow the business within our organic growth target, which is somewhere in that 5% to 7% range. You got people on the road, you got doing trade shows, demos, we're spending more money to try to support that type of a growth. So I wouldn't be surprised to see spending tick-up as we get back into a normal environment, but we should still be able to drive decent profitability in that business."
+    },
+    {
+      "speaker": "Joseph Ritchie",
+      "speech": "Got it. Appreciate the color. Thank you all."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Andrew Buscaglia with Berenberg. Please state your question."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Hey guys. I'm sticking with the Contractor side. Your margins are really high exiting 2020. How much of it really the function of that? I mean, we have to believe that this do-it-yourself homeowner demand continues for you to maintain those level of margins. Like, I wonder how much of it is a product pricing thing versus just cost to?"
+    },
+    {
+      "speaker": "Mark W. Sheahan",
+      "speech": "Well, I think the demand has been great, right. And of course, we are -- we don't have great visibility on how long it's going to last. I think, Pat talked about that. But the macros are still pretty good in the space, I mean, housing starts are decent, permits are up in that 1.5 million range. Interest rates are the best I've ever seen in history, the inventory of homes is low. You got 72 million millennials that are hitting the market looking for housing. So, we feel good about where we're positioned there. And I think the market itself is going to remain pretty healthy for us. On the margin side, of course, if we start to experience pressure on the topline that that could squeeze the margins a little bit. So we're hopeful that it runs for a while and we continue to drive topline growth in that business. And I think that we have a decent chance of doing that."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Yeah, OK. And comparing the Industrial and the Process segment, sort of this cycle is interesting in that the sub-segments kind of they all have somewhat different drivers. So looking out, within process, you have some pretty interesting more like sort of cyclical juice with some of these shorter cycle areas but and then you got less oil exposure now. But do you see Industrial or Process as the segment that's going to ramp harder, if we do see some momentum in some of these industrial indicators."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "I'd be surprised if they didn't both go, that would be my view. I'd be a bit surprised me if one came back strong and the other one didn't. So, just given the fact that we sell across so many different end markets really out of both of those segments. We make products that can be used in many different applications and many different industries. I think when things get good again they're both going to be good."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "And you commented on oil before about indirect oil exposure, would you say equally helps their hurtful [Phonetic] equally or is one more little bit tied to that indirect?"
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Well, that's hard for me to guess. I mean, if you just off the top of my head, I would say probably heard them equally both, may be at our Process a little bit more."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Okay. All right. Thanks guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Brett Kearney with Gabelli Funds. Please state your question."
+    },
+    {
+      "speaker": "Brett Kearney",
+      "speech": "Hi guys, good morning. Thanks for taking my question."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Brett Kearney",
+      "speech": "Hey, just wanted to ask what you're hearing from some of your channel partners and end users on the SaniSpray line you rolled out earlier this year, and whether that product is now available in all geographies."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "Yes. So we have that available in most geographies now, there's probably still a few overseas locations that are still waiting to get some product shipped to home, but generally speaking, that's available around the world. That's been a successful product for us. Our performance standpoint, it's been good. Really haven't had any kind of -- its quality surprises or performance surprises with the product. So we're happy with it. It would be nice if it's a long-term new product opportunity for Graco. But I guess that also is a question mark, it could be or it could fizz well if we get a good vaccine and people stop sanitizing and cleaning. So we're going to ride that horse well we can and we'll see how far it goes."
+    },
+    {
+      "speaker": "Brett Kearney",
+      "speech": "Great. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. As there are no further questions, I will now turn the conference over to Pat McHale."
+    },
+    {
+      "speaker": "Patrick J. McHale",
+      "speech": "All right. Thank you, everyone, for your time this morning, and we're going to get back to work and we'll talk to you again in few months."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 41 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kathryn L. Schoenrock--Executive Vice President, Corporate Controller",
+    "Patrick J. McHale--President and Chief Executive Officer",
+    "Mark W. Sheahan--Chief Financial Officer and Treasurer",
+    "Deane Dray--RBC Capital Markets -- Analyst",
+    "Mike Halloran--Robert W. Baird & Company Inc. -- Analyst",
+    "Jeffrey Hammond--KeyBanc Capital Markets Inc. -- Analyst",
+    "Matt J. Summerville--D.A. Davidson & Co. -- Analyst",
+    "Saree Boroditsky--Jefferies -- Analyst",
+    "Bryan Blair--Oppenheimer & Company -- Analyst",
+    "Walter Liptak--Seaport Global Securities LLC -- Analyst",
+    "Joseph Ritchie--Goldman Sachs -- Analyst",
+    "Andrew Buscaglia--Berenberg -- Analyst",
+    "Brett Kearney--Gabelli Funds -- Analyst"
+  ]
+}

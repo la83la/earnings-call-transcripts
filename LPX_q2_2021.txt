@@ -1,0 +1,276 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and thank you for standing-by. Welcome to the Louisiana-Pacific Corporation Q2 2021 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference may be recorded. [Operator Instructions]\nI would now like to hand the conference over to your speaker today, Aaron Howald, Investor Relations. Please go ahead, sir."
+    },
+    {
+      "speaker": "Aaron Howald",
+      "speech": "Thank you, operator, and good morning, everyone. Thank you for joining us today to discuss LPs results for the second quarter of 2021, as well as our outlook for the third quarter. My name is Aaron Howald, and I'm LP's Director of Investor Relations. I'm joined this morning by Brad Southern, LP's Chief Executive Officer; and Alan Haughie, Chief Financial Officer.\nIn addition to this mornings conference call, we are hosting a simultaneous webcast and we have uploaded a presentation to which we will refer during this discussion. We also filed our 8-K this morning with some additional information. All these materials are available on LPs investor relations website, www.investor.lpcorp.com.\nSlides two and three of the accompanying presentation provide notices and detail regaring forward-looking statements and non-GAAP financial metrics. The appendix of the presentation also contains some necessary reconciliations that are further supplemented by this mornings 8-K filing. Rather than reading these statements, I incorporate them herein by reference.\nFinally, in today's discussion and materials, we refer to Siding Solutions, where we would previously have said SmartSide. This is an expanded descriptor, which in addition to SmartSide also includes newly developed Trim and Siding products, with different branding. I should stress that this modification is consistent with and therefore does not require any recasting of any previously reported growth numbers for SmartSide Trim and Siding.\nAnd with that, I'll turn the call over to Brad."
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Thanks, Aaron and good morning everyone. Thank you for joining us to discuss LP's results for the second quarter of 2021. Q2 was another remarkable quarter for LP Building Solutions. All our segments set records for sales and EBITDA in the second quarter, with over 150,000 housing starts in June, single-family mix over 70% and repair and remodel indices equally robust, we are encouraged that demand for LP's products remain very strong.\nAs you will see on slide six of the accompanying presentation, net sales for Q2 reached $1.3 billion, more than 140% over Q2 of last year, which was of course a weak comp due to the onset of COVID-19. EBITDA was $684 million, generating $457 million in operating cash flow and $4.74 in earnings per share.\nSiding Solutions growth is a significant component of these results, as slide seven illustrates. Siding Solutions includes primed and prefinished SmartSide, as well as innovative strand-based Siding products sold under other brand names. Revenue for Siding Solutions grew by 39% compared to last year. This is composed of 27% volume growth, compounded by 9% price growth.\nIn addition to market penetration and share gains, Siding is growing through product innovation, the most innovative and value-added subset of Siding Solutions, which includes SmartSide Smooth, Shakes and ExpertFinish and LP's new builder series Siding, combined for 9% of total volume in Q2. This is compared to 6% last year and these new products contributed more than one point to the 9% increase.\nFor LP's OSB segment, extraordinary prices generated impressive cash flows, but also overshadowed important gains in Structural Solutions volume. OSB prices have pulled back in recent weeks. We have not wavered from our strategy of growing structural solutions and supply market demand agility. In fact, in Q2, we grew Structural Solutions as a percentage of total OSB volume by five points, compared to prior year quarter.\nWhile not driving our strategy, OSB prices do of course continue to be a significant driver of LP's cash flow and share repurchases, about which Alan will update you in a few minutes. LP South America segment also had a very strong quarter with OSB and Siding price increases more than offsetting raw material cost inflation. South American sales almost doubled and EBITDA tripled compared to last year.\nLet me briefly update you on our capacity expansion projects, beginning with the Siding conversion in hold. While material costs particularly still, have been subject to inflationary pressures, the project is on schedule. We expect to begin SmartSide production in Houlton in late Q1 of 2022. We continue to work to accelerate the Sagola conversion and we are currently planning to start SmartSide production there in the first quarter of 2023.\nFinally, we are implementing projects to optimize our production and distribution processes that should result in incremental gains in production capacity across our mills. As for LP's Peace Valley OSB mill, I'm happy to announce that Peace Valley pressed its first Board of OSB in late June. We have received APA Certification in our shipping product, including TechShield Radiant Barrier, a significant contributor to Structural Solutions growth. I want to thank the team that maintained Peace Valley so diligently, while it was idled, congratulate them and everyone else that contributed to the safe and efficient resumption of production at Peace Valley.\nIn previous quarterly calls, I have discussed shortages of resin and adhesives as well as LP's operational responses to mitigate the impacts of these disruptions. As the broader economy continues this on even recovery, we expect intermittent supply chain challenges to continue. LP's Strategic Sourcing teams is working diligently to minimize disruptions. This includes collaborating with our operations teams to allocate any scarce inputs consistent with our transformation strategy, as we did with MDI resin in the first quarter.\nMost categories of the raw materials LP consumed saw significant price decreases in 2020, as demand fell in sectors of the economy more severely impacted by COVID than housing. Many of those sectors are now rebounding with the result, the demand and therefore prices are increasing. In some cases, availability has been hampered by supply chain interruptions elsewhere as was the case with certain resins.\nRaw material prices are now back at 2019 levels or in some cases above. Consumer and producer price indices generally trend upward. The situation is fluid, but we expect these inflationary pressures to persist for some time as the US economy recovers and grows.\nBefore I turn the call over to Alan to review our financial performance in more detail, I want to briefly preview some planned enhancements to LP's ESG disclosures. We recently completed environmental product declaration for SmartSide Siding. We believe that SmartSide looks and performs better than competing alternatives. We also believe the data shows that SmartSide is significantly more sustainable with a much smaller carbon footprint.\nIn coming quarters, we plan to disclose additional information under the Sustainability Accounting Standards Board, or SASB framework. Sustainability is central to our transformation strategy at LP. We believe we have a good story to tell and we look forward to telling it.\nWith that, I will turn the call over to Alan for a more detailed discussion of LP's financial results in Q2, an update on our share repurchases and our outlook for Q3"
+    },
+    {
+      "speaker": "Alan Haughie",
+      "speech": "Thanks Brad, and good morning. As Brad has already said, all segments set new records for revenue and EBITDA in the second quarter. Siding Solutions revenue grew by 39% and OSB and EWP prices were significantly higher in both North and South America. In fact sales for EWP and LPSA doubled compared to last year with their combined EBITDA more than triple. And Entekra delivered a record 324 units for $22 million of revenue, a tenfold increase over last year. As a result, LP generated $1.3 billion in sales, $684 million of EBITDA, $457 million of operating cash flow, and $4.74 in adjusted earnings per share.\nPage 8 of the presentation summarizes the year-over-year comparisons for revenue and EBITDA at a high level. Inflationary pressures in wages, raw materials and freight, especially when compared to softer prices last year produced an EBITDA headwind of $24 million. Maintenance and other spending account for the remaining adverse $31 million.\nThe waterfalls on slides nine and 10 show year-over-year revenue and EBITDA comparisons for the Siding and OSB segments. Siding Solutions saw volume growth of 27% and price growth of 9% for revenue growth of 39%. This generated an additional $81 million of revenue and $53 million of EBITDA and incremental EBITDA margin of 65%.\nNotably the 9% price increase in the quarter includes four percentage points from annual list price increases and three points on the packet that is from reduced discounts and rebates. The highest value-added subset of products, which includes ExpertFinish Smooth Shakes and Builder series punches well above its weight in terms of price accounting for just 9% of total volume, but over 100 basis points of the year-over-year price increase.\nThe $4 million increase in selling and marketing costs represents the ongoing return to pre-COVID levels of spend consistent with our growth strategy and reflects the anniversary of reductions made last spring. With OEE flat to prior year still impressive 88%, the total Siding transformation impact is $81 million in revenue and $50 million in EBITDA.\nCosts associated with the Houlton conversion are making their first appearance in this waterfall with $1 million incurred in the second quarter. We have the last vestiges of the discontinued fiber sales this quarter with $10 million less revenue, but only $1 million less EBITDA. This brings us to second quarter revenue for the segment of $291 million an increase of 32% and EBITDA of $77 million, an increase of 51% for an EBITDA margin for the segment of 27%.\nSlide 10 shows the quarter in more detail for OSB and is obviously not to scale as OSB price increases dwarfed the other elements of the waterfall adding $554 million in year-over-year revenue and EBITDA. Volume was up about 8%, driven by Structural Solutions growth. High unscheduled downtime reduced OEE to 86% which contributed to the $18 million of unfavorable production costs. The OSB segment was also impacted by input and freight cost inflation.\nAnd lastly the restart of Peace Valley cost us $7 million in the quarter. The net result of these factors dominated as I said by price are increases in sales and EBITDA of $574 million and $519 million respectively and yet another quarter of extraordinary cash flow generation. As Brad mentioned and as you've all seen supply chain interruptions are impacting many industries.\nIn some cases, those disruptions impact building products specifically and in others the impact is more widespread particularly when it involves precursor materials consumed upstream by our suppliers or their suppliers. Freight demand has also increased driving costs higher. All of which is reflected in the Siding and OSB waterfall charts to the tune of $8 million for raw materials and $12 million for freight across the two segments.\nRecall that last year saw significant drops in the same cost categories from which the housing industry benefited while demand elsewhere dropped. Now as the broader economic recovery is underway raw material prices have flattened and are climbing. On a blended unit cost basis, non-wood raw materials were down about 6% in 2020 compared to 2019, but are now up about 13% in 2021 compared to 2020. This represents an inflationary CAGR or compound annual growth rate of about 4% over the period.\nWe expect inflationary pressures to continue and they are reflected in our third quarter guidance. One potential contributor to supply chain concerns are the fires in British Columbia and elsewhere in the West. So far, our employees and facilities are safe and we've seen minimal interruptions to inbound and outbound shipping. We will of course continue to monitor the situation closely with safety as our highest priority.\nLet me turn to LP's capital allocation strategy which remains to return to shareholders over time at least 50% of cash flow from operations in excess of investments required to sustain our core businesses and grow Siding Solutions at OSB Structural Solutions. In the second quarter of 2021, we returned $481 million to shareholders through a combination of $465 million in share repurchases and $16 million in dividends.\nFurthermore, since the end of June, we've spent an additional $140 million on buybacks which leaves $572 million remaining under the current $1 billion authorization. And since LP embarked on its strategic transformation, we've returned over $1.8 billion to shareholders, repurchasing more than 5 million shares and bringing the current share count to a bit under 95 million.\nIn order to consistently reflect ongoing Siding growth and the decrease in share count driven by aggressive share repurchases, LP has declared a midyear increase in the quarterly dividend of 13% or $0.02 per share raising it from $0.16 a share to $0.18 per share.\nSlide 13 shows updated guidance for full year capital investment, as well as revenue and EBITDA guidance for the third quarter. We now anticipate spending $95 million in 2021 for the Houlton conversion an increase of $10 million of prior guidance largely due to increased costs for steel and labor.\nThe remainder of the project costs will be incurred in early 2022. Spending for other growth capital, is expected to be $45 million and we anticipate spending about $120 million on sustaining maintenance for full-year total capital outlay of $270 million. This assumes continued easing of travel restrictions and contractor availability the reversal of, which could result in some execution risk, which brings me to the revenue and EBITDA outlook.\nFor Siding Solutions, the third quarter should see year-over-year revenue growth of around 10%, which would be another quarterly record despite the much stronger comparative. This will however, bring the business very near to full production capacity with the result that revenue growth for the remainder of the year will be primarily driven by price increases and mix shifts.\nAnd if we assume 10% year-over-year revenue growth for the second half of this year Siding Solutions revenue growth will hit 24% for the year, which is double our long-term guidance. However, the combined effects of the Houlton conversion and other growth projects increased selling and marketing investment and input cost inflation will result in third quarter EBITDA being below last year's.\nBut on a trailing 12-month basis, we still expect the EBITDA margin to meet our long-term guidance of 25%. For the OSB segment although prices are exceptionally volatile right now our order file gives us some near-term visibility. We also tend to lag price movements both when they are rising and when they are falling.\nWe're therefore guiding to OSB revenue being roughly 10% sequentially lower than the second quarter. This includes the assumption that Random Lengths prices stay flat from last Friday's print throughout the remainder of the quarter. And while this is obviously, not a prediction of future OSB prices, we hope it's a useful characterization of the impact of price movements so far.\nAnd so with further caveats about certain changes in demand raw material price and availability or other unforeseeable events, we expect EBITDA for the third quarter to be at least $530 million, which will not be another quarterly record for LP but will be second only to the quarter we've just finished to report it.\nAnd with that we'll be happy to take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from the line of John Babcock from Bank of America. Your line is open."
+    },
+    {
+      "speaker": "John Babcock",
+      "speech": "Good morning and congrats on the quarter. I guess just starting out I was wondering how you're working with Siding customers in light of some of the capacity constraints you have in the second half of this year. I mean do you expect some of those customers to go elsewhere? Or might this demand shift into 2022, when you have hold and running? Any color, you can provide on that would be useful."
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Great question. So we've been working really with allocated order file since, late last year. And so we've done a really good job of interacting with customers understanding their order needs early in the process and then producing to those orders and then allocating that volume across our entire network.\nAnd given our ability to grow the volume even under that managed order file scenario, I think we've done a really good job of meeting our customers' needs. I'll say what hasn't happened John, is our customers have been unable -- as we have been to reap to build any kind of safety stock or extra inventory either at our build locations or in the channel.\nWe've been running fast and our customers have been running so tight. So I feel good about our ability to provide product into the market. What we haven't been able to do since we -- the COVID shut down in Q2 of last year, is build safety stock and any extra inventory in the channel.\nAnd so even though, the quarter-over-quarter growth moderates, we're still selling a high volume side. So I feel good about our ability to source the market until we get the whole mill up and running supplying extra mix for production. And I don't believe at least at our distributor level that there's any significant substitution going on. I think we've got a really good focus on making sure we supply the distributors the SKUs they need, the source to provide product in their local markets. If there's any substitution happening, it would be deeper in the supply chain than we deal directly with, if there is product shortages at the build or contract level.\nBut based on our growth, I feel really good about meeting the level of demand that our product is enjoying in the marketplace right now with supply. And it will be a little bit restricted to growth now -- year-over-year growth until we get Houlton up and running. But when you look at the step change we've made in volume that's going into the market on a quarterly basis, I feel really good about where we're at."
+    },
+    {
+      "speaker": "John Babcock",
+      "speech": "Okay. That's very helpful. And then, next question, can you just talk about the demand environment in OSB right now, where customer inventories are in the channel and your initial thoughts on the sharp drop in OSB prices last week and where you think the market is going from here?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Well, I certainly -- we can provide some extra confirmation on what's been published in random around the weaknesses at retail. We have seen that, certainly, with our retail pools. We're a little less exposed there than some of our competitors, but we still -- given our scale we supply a good bit of volume into retail.\nThat has been very weak. I mean I'll tell you about half of what we think would be normal right now. Some of that may be related to the 4 of July holiday season. But I do think, especially when you compare it to the prior 12 months or so on the consumer dollar, maybe going other places than the wood products aisle at Home Depot and Lowe's, versus what was happening a year ago.\nSo we see weakness there. We have really not seen weakness in demand for the rest of our channel partners. But candidly, there is some hesitancy in distribution now to take any kind of serious position, given the fall in OSB pricing. Theyre obviously expecting that maybe they could buy it cheaper next week than they do this week.\nSo what we're feeling in our order file is distributors just buying to meet very short-term needs to just replenishment type orders. There's not a lot of enthusiasm in the distribution channel to build any excess inventory given where pricing is.\nSo even though some of those retail pools were weak, which makes commodity volume available, because of the pricing falls, there's hesitancy in distribution to build inventory given the fact that it could be cheaper next week.\nSo my basic -- let me summarize the question -- the answer to your question this way. Certainly, we can confirm the weaknesses with retail pools. But given the underlying strength in housing and really repair and remodel indices as well, we feel good about demand that exists in distribution, but there is a hesitancy to buy given the recent trends in pricing."
+    },
+    {
+      "speaker": "John Babcock",
+      "speech": "Okay. And then, I guess, that kind of brings me to the next question. I guess, first of all, if you can just talk about how Peace Valley is running. It sounds like you started that up in June. If you can provide any sort of update on what sort of run rate you guys are at now?\nAnd also if you're having any trepidation regarding the timing of the start-up, I mean, recognizing I guess there is some weakness in the retail channel. But overall, I mean, is there sufficient demand out there to kind of keep that running?\nAnd then just kind of last piece of this question. I think in the past you had said that expected to maybe get around 150 million square feet to 200 million square feet out of that mill this year, but I think that assumes perhaps a little bit later the start-up in the end of June, so any updates on that?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "No. We're sticking with the 150 million square feet to 200 million square feet for the year, even though we started up, as you mentioned, a few weeks earlier than originally planned. John, we do feel good about our decision there.\nObviously, it's a little questionable given the pricing movements since we started to build up. But if you look at underlying housing start forecast and we feel good about 1.5 million units to 1.6 million units being at least a near-term view of where housing starts are going to land.\nAnd if you work the math on that, the industry is going to need that production. That's the reason we started it up. I just want to reiterate all things that we have said in past. We did not start, we did not plan or start Peace Valley up because of the current pricing. At the time of the decision, we started Peace Valley because we felt like the long-term outlook for the housing was strong enough, where we needed that mill to meet our customer demand.\nAnd we still feel good about that decision. And we feel good about the near-term outlook for housing the near-term being, several years into the future. So we plan to continue to run that mill feed it up and going, because we really believe that that volume is going to be needed with our channel partners next year.\nAnd I'll just say that decision has been -- was very much supported by our channel partners, as they plan out for the next several quarters that they see a need for that volume. And we're glad. So we're not backing off of that decision at all."
+    },
+    {
+      "speaker": "John Babcock",
+      "speech": "Okay, great. Thanks for all the details."
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Susan Maklari from Goldman Sachs. Your line is now open."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Thank you. Good morning everyone, and congrats on a great quarter."
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Thanks, Susan."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Yeah. My first question is around the margins in Siding. As Houlton continues to progress and getting closer to being up and running, can you just help to give us some color on the cadence of, how we should be expecting the margins to come through over the next couple of quarters?"
+    },
+    {
+      "speaker": "Alan Haughie",
+      "speech": "Yeah. This is Alan, here. I'll take this one. We'll fundamentally see the margin or at least the costs of the Houlton conversion hit the margin in -- primarily in Q4 and Q1. That's on the shoulders of the year is what we'll experience those costs."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Ketan Mamtora from BMO Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "Ketan Mamtora",
+      "speech": "Thank you. Brad, I was just curious, when I look at -- you kind of mentioned weakness in the retail demand in OSB."
+    },
+    {
+      "speaker": "Aaron Howald",
+      "speech": "Ketan, we can barely hear you. Sorry to interrupt you. Can you repeat your question?"
+    },
+    {
+      "speaker": "Ketan Mamtora",
+      "speech": "Aaron is it better?"
+    },
+    {
+      "speaker": "Aaron Howald",
+      "speech": "Oh! Better thank you, thank you. Go ahead."
+    },
+    {
+      "speaker": "Ketan Mamtora",
+      "speech": "Sorry about that. I was just curious are you seeing -- on the retail side, are you seeing a similar slowdown even in siding? Or has that demand held up better?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Ketan, good question and we have seen a slowdown in pools and siding, that slowdown cadence began later than, it did in OSB and has not been quite as severe, but it has happened, yes. And back to John's question that has allowed us to allocate more production volume into distribution, since we're on a managed order model."
+    },
+    {
+      "speaker": "Ketan Mamtora",
+      "speech": "Got you. So is it sort of more kind of broad-based kind of demand slowdown? Or is it sort of more kind of distributors looking to reduce their inventory position?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Well, OK, I don't think distributors are looking at reducing their inventory position, because I don't think there was a lot of inventory in the channel -- any excess inventory in the channel at the beginning of the price fall. I think the channel has remained lead over all this year.\nSo I think from a distributor standpoint, it's just a hesitancy to buy any more, than what's absolutely needed given the expectation they may have the pricing will be lower to more than it is today. And that's just a normal pattern that, we'd see anytime pricing turns down especially as dramatically as it has over the past few weeks.\nConversely Ketan, when it's going on there's a lot -- there's a stampede to buy today because everybody is going to be higher tomorrow. So we kind of see that acceleration happening on both ends, when the price line is really steep on either up or down. Did that answer your question Ketan?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Mark Weintraub from Seaport Research. Your line is now open."
+    },
+    {
+      "speaker": "Mark Weintraub",
+      "speech": "Thank you. I wonder if Ketan's question was a little bit more on the siding side actually. And whether or not the weakness was perhaps the distributors pulling back inventory which I assume not so much the case. But in that same vein, are you seeing anything in the sheds business which I guess is a bit more DIY sometimes?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Yes. So, Mark, that's a good question. And certainly let me make sure -- yes, I want to make sure I'm clear about it if I'm answering OSB question or siding question. So, for siding, as we mentioned, the retail pools have slowed not as dramatically as in OSB.\nAnd there are -- I would say that shed -- a lot of shed -- smaller shed manufacturers do source product from retail. So, I'm sure there's that has contributed to the slowdown. But I want to say conversely for our larger more national or large regional share manufacturers or share distributors the polls remain strong. So, the weakness has really been only in the segment we would call it DIY, but that segment does include some DIY shed production."
+    },
+    {
+      "speaker": "Mark Weintraub",
+      "speech": "Got it. And I'm going to cut off if I don't jump in real fast. So, real quick just also when you're talking about the OSB, assuming that prices are flat here, does that reflect kind of that that's as good as I guess as any? Or is that just methodological and you're not maybe asking the question differently, what is your best guess as to what's going to happen in OSB in the next month or two? And what will be the key drivers to look at?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Well, the key driver is supply/demand but Mark I mean I just -- I'm not comfortable at all forecasting pricing. I mean -- so -- but the answer to the first question is it just the method of providing the guidance that we did we had to anchor OSB pricing somewhere. And so we anchored it on the last published random lengths.\nAnd then I guess I would say for you guys that are trying to forecast a quarter, you have to overlay your expectations for what OSB pricing will do the rest of the quarter as a variance to what we guide to. I spoke to how we see channel inventories. I spoke to how we see or what we're feeling as far as order pulls from retail.\nAnd that's really those kind of conversations I'm comfortable having, but I'm not comfortable translating that into a price forecast."
+    },
+    {
+      "speaker": "Mark Weintraub",
+      "speech": "Understood. Appreciate it. Thank you."
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Yes. Let me just say for those that did not get to ask a follow-up, if you get back in the queue, we'll be happy to take those. We had -- it's not our intent to cut people off from a good follow-up question."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Sean Steuart from TD Securities. Your line is now open."
+    },
+    {
+      "speaker": "Sean Steuart",
+      "speech": "Thanks. Good morning. A question on the capex guidance the $270 million figure for this year is up a little bit from the midpoint of the range you provided a quarter ago and it looks like most of the increment is higher sustaining maintenance capex.\nAnd I'm wondering if you can give us context if that's just general cost inflation feeding into that if there's anything specific to this year is $120 million or higher the number we should be thinking about as the sustaining part of that capex going forward?"
+    },
+    {
+      "speaker": "Alan Haughie",
+      "speech": "Yes. This is Alan here, I'll take that one. It's a good question. There were two factors playing into it. One is inflation and the other is the scarcity of availability of engineers and contractors is causing us to pull ahead whenever we feel that we can to secure the necessary expertise and the work. So, there's a little bit of -- both factors really fundamentally caused by the same economic conditions that we're experiencing at the moment."
+    },
+    {
+      "speaker": "Sean Steuart",
+      "speech": "Okay. And just a quick follow-up. Engineered Wood Products in South America both strong topline growth there as well for those segments this quarter. Those are less transparent markets. Can you give us a sense of how prices are trending into the third quarter for those segments?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Yes. So, let me start with EWP, that's a price list. It's not a traded product it is our product sale other than we do sell supply within that segment, but we just based on our handout. LVL and I-joist are -- announced our sort of price list. We've done a good job with us with our margins there given the price inflation on the input material, which is lumber OSB and veneer. And typically, we're able to hold on to some of that as prices start falling kind of like OSB prices in way of lags. So in the near-term, we feel good about pricing there. But obviously as input prices continue to fall, there will be competitive pressure absorbed in our EWP segment as we go forward.\nThis competitive pressure to maintain some rates of reasonable margin level. In South America, it's a really interesting market down there. Typically in our 20 years of experience OSB pricing is much more stable. And while we've enjoyed good pricing down there this year, it's not been the magnitude of price increase that we've seen in the states. So but obviously, the kind of pricing we've seen in North America has influenced our innate ability to get pricing in South America, a little easier but if you look at the past that, it's been a lot stickier as well.\nSo we're in new territory given the magnitude of the price change in North America over the past year. So it's kind of hard to predict what that comes what shadows for South America. But I will say in the past, we've been able to really maintain pricing once we've been able to get it up. But I do feel like at some point, there could be some competitive pressure down there, if imports from North America are able to go down there, if pricing falls a lot. But I think for the near term, several quarters we're in really good shape from a margin standpoint in South America.\nAnd let me just make one other comment there. We're also running that operations probably as good as we had in two or three years operationally. So our cost position down there other than there has been raw material price increases, but our mill system is running as well as it has in a long time. And we're doing some investments down there to make it even better. So the midterm outlook for our South America business is really good."
+    },
+    {
+      "speaker": "Sean Steuart",
+      "speech": "Thanks for that detail. Much appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Paul Quinn from RBC Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "Paul Quinn",
+      "speech": "Yeah. Thanks very much. Good morning, guys. Maybe just start on siding and it sounds like customers will be almost on allocation until you get holding up. But where are you guys in terms of your pre-finishing capacity? And is that something that you need to spend some more money on to increase that capability?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Well, great question. We did we viewed that with our Board last week and got approval for continued expansion of our prefinished capacity both within some of the facilities that we currently manufacture and we're looking at growth in the Northeast. So we're actively looking for a location there to start up a prefinished operation to service our Northeast segment in conjunction with the Houlton expansion or Houlton conversion. And so the growth has been phenomenal. It has stretched our capacity in pre-finish fortunately, and that's part of this sustaining growth capital that Alan talked to on the slide.\nThe incremental investment required there is in the world of OSB and siding conversions is relatively small. We're learning kind of the technology that we want to utilize in our pre-finish. If you recall our first two forays were through acquisitions and those two acquired companies had different paint systems in place. So we're in the process of standardizing that across our platform.\nAnd as I mentioned having the greenfield facility in Northeast. So there'll be continued investment in pre-finish as we grow it. So we should be talking about that many years to come and we're well on our way to our second phase there. We I will say that the acquisition strategy that we had that was really testing our ability to make a product, sell a product, and market a product. We feel really good about all three of those things right now. So we're really doubling down on our prefinished strategy and we feel really good about our ability to grow that profitably over the long term."
+    },
+    {
+      "speaker": "Paul Quinn",
+      "speech": "Okay. And then over one of your competitors on the siding side has come up with some pretty innovative product lines, particularly one with stucco right now and look to do brick down the way. Is that something that you guys have looked at? And do you have the ability to morph any different lookalikes?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Yes. Paul, we had a stucco panel several years ago. We're not selling it actively any longer. It was a really minty product that required some pretty sophisticated contractor learning. And so we struggled from a to find finding time to get that training in place and contractors converted over to that system that was would have been very economical that required a pretty substantial change in the way, the stucco materials supply.\nProbably more detail than you're looking for in that answer so forgive me. But that is something that we have looked at. We decided to focus in other areas. We didn't see that as for our trials being a big opportunity for us. But as you know in certain regions of the country stucco is a predominant siding. And I would say we are not in a position right now to capitalize on that.\nWe're way more focused on the pre-finish and ancillary products around pre-finish like corner pieces and that kind of thing. And then our second focus area right now is really increasing our penetration with the big builder with our builder series siding that we launched this year that we believe really gives us a competitive advantage with the big builder. And so that's where we see the significant growth coming over the next several years for us."
+    },
+    {
+      "speaker": "Paul Quinn",
+      "speech": "Great. Thats all I had. Best of luck and thanks."
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Thanks, Paul."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Kurt Yinger from D.A. Davidson. Your line is now open."
+    },
+    {
+      "speaker": "Kurt Yinger",
+      "speech": "Great. Thanks and good morning, everyone. I just wanted to follow up on the pre-finished side. Could you just talk about what percentage of your pre-finish volume you internalize now? And then as you think about the long-term opportunity there, what kind of makes sense in terms of your own pre-finishing capabilities versus what you might still want to lean on your channel partners in terms of that product?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Yes, that's a good question. And we I think we said last year in our Investor Day, our long-term target is 30% of our mix being pre-finish. And let me describe a little bit how we see that playing out over the next several years. So we have gone national let me just say the caveat that primarily focused in the East. So we do have we are expanding in the West with a standard color palette of 11 or 12 colors under our ExpertFinish brand that we feel like makes us a very attractive partner for regional and national one-step distributors and two-step distributors. So this is a national play with a standard color set that backed by the LP brand that we think really positions us well to grow pre-finish.\nNow, behind that in the East, there's always going to be a market for custom colors and even some SKUs that we manufacture prime we're not pre-finish. So what we're working through is partnering with the local pre-finishers to be that supply partner that's able to do the custom color, I'll say is primarily niche that can fill for us.\nAnd in some cases those pre-finishers are actually selling our 11, 12 standard colors in supplementing their production supplementing that with their production with the custom colors. In the West, right now we're pretty much all of that as being all our ExpertFinish and all other custom colors are being serviced by independent pre-finishers. So but in the East, we're trying to keep all that ExpertFinish production in-house.\nSo the so I could see it playing out to where we have a big national network and good manufacturing around ExpertFinish to supply the national market but always have some position with local pre-finishers that are doing custom colors on our substrate. And I'll just -- one other caveat to that answer is I also think there will also be pre-finishers that choose just to independently pre-finish our prime product under their brand name and sell that as well. The substrate is so easy and such a good substrate to paint that it currently is a substrate of choice for the independent pre-finisher"
+    },
+    {
+      "speaker": "Kurt Yinger",
+      "speech": ".Got it. Okay. That's really helpful. Thanks. And just on the strategic growth capex of $45 million this year. Can you just touch on any noteworthy projects within that? And then, I guess separately as we think about the next couple of years, how do you guys think about or plan for I guess capacity creep or unlocking incremental capacity within the existing Siding business. Is that something where you can gain a low single-digit percentage based on a certain level of spending, or any color there would be great?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Yeah. So just as far as the $45 million in the product that are highlights there. One was where we are pretty much automating the manufacturer of SmartSide shake product. We're putting that capability in our plant in Manitoba maybe it will be highly productive. Shakes are one of the most highest priced -- highest margin products that we manufacture. We're excited about that capital project. That capital project from memory is about half of that $45 million too. It's was a high -- relatively high cost finishing in the investment, but very high margin in returns.\nSecondly, automating our three-dimensional corners. So we're taking trim and making corner pieces. So think of it as a three-dimensional corner piece. So that capital is part of our innovative growth. And then I've talked about pre-finish as well.\nNow on the second part of your question about how do we invest beyond Houlton for extra productivity. First of all, there's some environmental projects, one of which we got approved in this past board meeting that frees up some capacity that was otherwise limited because of permitting levels in one of our mills in Michigan. But also we're really looking at -- under this managed order file situation of running optimal mix look like within a production facility and running -- if we're able to optimize the productivity around, so that we get more volume out obviously we're able to service the market with more volume.\nSo we're really working with our customers to make sure we can understand what their SKU needs are. And then we can work with them in a way to optimize our production footprint if it allows us to get and let's just say 1% or 2% we're talking about Siding growth, 1% or 2% incremental volume out that could be really meaningful in a quarter.\nSo -- and that is an all hands on deck initiative right now within our Siding business given the fact that we will be capacity constrained probably up until Q2 of next year when Houlton's up and running with some respectability.\nSo let me just back up a little bit and summarize the answer this way. The strategic capital other than mill conversions for Siding are either focused on product innovation and typically for very high-return SKUs that we manufacture or to tweak productivity, so that we can get more out of our current system and we feel good about our ability to do that over the next several quarters to support the growth that we're seeing in our Siding business."
+    },
+    {
+      "speaker": "Kurt Yinger",
+      "speech": "Got it. Okay. Well, appreciate all the color Brad, and good luck in back half guys."
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Ketan Mamtora from BMO Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "Ketan Mamtora",
+      "speech": "Thank you. Brad, I had a question on Siding. If inflation continues to remain high as we move through the back half of the year, how do you think about pricing strategically particularly in light of covering additional costs?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "We are -- it's a great question. It's a topic of conversation in almost all meetings when we interact with our Siding team. I mean, obviously, we tried over the years to be consistent in our price increases that we brought out to the market. Input cost does inform the decision there. The historical guidance that we've given around margin deforms that decision as well. And historically, Ketan in years of high raw material price increases, we have been able to realize higher pricing. I'm just talking about it historically.\nNow as Paul mentioned, we're in a very competitive environment from both from vinyl and from other hard sidings. And so there is certainly a competitive positioning component of our pricing strategy that can be SKU-specific and regionally specific and channel specific. So while we have -- while the pricing discussion is informed by raw material price escalation that is only one factor that goes into our overall strategy about how to price each of our SKUs in each of our selling regions. So Ketan, does that answer your question or provide some color on how we think about it?"
+    },
+    {
+      "speaker": "Ketan Mamtora",
+      "speech": "Yes, it did. I do have a follow-up though, but that's helpful. Brad, on the EWP side, a couple of quarters back you talked about looking at options. Any update there?"
+    },
+    {
+      "speaker": "Brad Southern",
+      "speech": "So we're still actively involved with evaluating strategic options. I guess the process is might be a little slower than I was hoping it would be six months ago when we first announced this, but it's active Ketan and we're looking at alternatives and evaluating our options there. The focus for us is to -- we are -- mean it would be easier, if we didn't have somewhat of a self-imposed constraint which we're trying to hold the system together. We believe LVL and I-Joist together went under Stark Truss brand. We know there's value there to our channel partners many of which also our channel partners inside and structural solutions. So that's probably causing -- making us go a little bit longer as far as evaluating options because we do feel like there's some value to our channel partners by holding the business together versus keeping selling each individual plan one by one. So we're being somewhat selective on the options that we're looking at because of that desire of ours."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. At this time, I'm showing no further questions. I would like to turn the call back over to Aaron Howald for closing remarks."
+    },
+    {
+      "speaker": "Aaron Howald",
+      "speech": "Okay. Thank you everyone. Seeing no more questions, we will conclude the second quarter earnings call for LP Building Solutions there. Stay safe and we'll look forward to speaking with you again soon. Thank you, operator."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 53 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Aaron Howald--Director-Investor Relations",
+    "Brad Southern--Chief Executive Officer",
+    "Alan Haughie--Chief Financial Officer",
+    "John Babcock--Bank of America -- Analyst",
+    "Susan Maklari--Goldman Sachs -- Analyst",
+    "Ketan Mamtora--BMO Capital Markets -- Analyst",
+    "Mark Weintraub--Seaport Research -- Analyst",
+    "Sean Steuart--TD Securities -- Analyst",
+    "Paul Quinn--RBC Capital Markets -- Analyst",
+    "Kurt Yinger--D.A. Davidson -- Analyst"
+  ]
+}

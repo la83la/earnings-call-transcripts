@@ -1,0 +1,555 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and welcome to Kimco's Fourth Quarter 2019 Earnings Conference Call.\n[Operator Instructions]\nPlease note that this event is being recorded. And now I'd like to turn the conference over to Mr. David Bujnicki, Senior Vice President. Please go ahead."
+    },
+    {
+      "speaker": "David F. Bujnicki",
+      "speech": "Good morning and thank you for joining Kimco's fourth quarter 2019 earnings call.\nJoining me on the call today are Conor Flynn, Kimco's CEO, Ross Cooper, President and Chief Investment Officer, Glenn Cohen, our CFO, Dave Jamieson, our Chief Operating Officer, as well as other members of our executive team that are present and available to answer questions during the course of this call.\nAs a reminder, statements made during the course of this call may be deemed forward-looking, and it's important to note that the company's actual results could differ materially from those projected in such forward-looking statements due to a variety of risks, uncertainties and other factors. Please refer to the company's SEC filings that address such factors. During this presentation, management may make certain references to non-GAAP financial measures that we believe help investors better understand Kimco's operating results. Reconciliations of these non-GAAP financial measures can be found in the Investor Relations website.\nWith that, I'm going to turn the call over to Conor."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Thanks, Dave, and good morning everyone.\nAs we begin the final year of our 2020 Vision strategy, our 2019 results are particularly satisfying. These results reflect both our commitment to our plan and our determination to stay the course. We finished 2019 with strong operating metrics and improved balance sheet, a higher quality portfolio and a development and redevelopment pipeline that continues to produce long-term growth.\nI will begin today's remarks with an overview of our operating metrics, our view of the retail landscape, and an update on our Signature Series development and redevelopment projects, and a view into how we think about ESG and our efforts. Ross will follow with an update on transaction activity and observations on general market conditions, and Glenn will discuss our activity in the capital markets, balance sheet metrics and our 2020 guide.\nThe repositioning of our core portfolio within the top 20 markets, where we see a favorable supply and demand dynamic continues to pay dividends. The team produced strong metrics across the board with $1.44 NAREIT FFO per share and $1.47 FFO per share as adjusted for the year, a great result. We achieved 3% same-site NOI growth for the year, exceeding the high end of our guidance range for the year. Our occupancy remains at an all-time high, finishing the year at 96.4%. Anchor occupancy hit a new high at 98.9%, while small shop occupancy finished slightly down at 89.3% due to recent closings of Dress Barn, Avenue and Charming Charlie. Activity on our small shop vacancy remains strong and we view this as a source of FFO growth for 2020.\nThe spread of physical to economic occupancy sits at 240 basis points, which is primarily the result of anchor boxes yet to open. Typically once the anchor becomes activated, the small shops usually follow, driving higher rents and strong annual increases. Our spreads for the quarter were healthy with new leasing spreads at 12.5% and renewals and options at 4%. The increase in spreads for new leases represents the 24th consecutive quarter in which spreads increased over 10%. Our positive spreads for the year of 20.8% for new deals and 5.4% for renewals and options, highlights the mark-to-market opportunities embedded in our portfolio. Our intensive asset management platform and investment in technology has enabled us to be more proactive in monitoring and quickly addressing existing and potential vacancies, reducing downtime and driving faster rent commencement dates.\nWhile our portfolio continues to perform in this era of retail Darwinism, we recognize the challenges confronting our sector in some of our legacy retailers. We see our customer continue to gravitate toward convenience, service, experience and value. Not all retailers will successfully make the pivot necessary to service the demands of today's consumer. Bankruptcies, store optimization plans, downsizing, store saturation, automated distribution facilities and e-commerce penetration are all risks we must acknowledge and face head on. Our 2020 Vision strategic plan was designed with these challenges in mind. Our tightly clustered portfolio in the top markets where we have efficiencies of scale and significant barriers to entry, our mixed use platform, our tremendous access to capital, and our world-class team put us in a great position to embrace the inevitable change and create significant long-term shareholder value.\nOur Signature Series pipeline continues to produce large quality flagship assets with stronger NOI and higher growth. We believe we have elevated the Kimco brand, with customers and in the communities we serve. Our focus on long-term value creation, together with our commitment to sustainability has helped established trust with local governments and community groups, and which in turn helps us with our master planning and entitlement awards [Phonetic]. We now have entitlements for over 4,500 apartment units, over 800 hotel keys, over 1.2 million square feet of office space, and we are only just getting started.\nWe believe our investment in developing a mixed-use team, second to none, has created a platform premium that will allow us to develop an optimal plan for every asset in our portfolio and to acquire assets with untapped redevelopment potential. Retail will always be the driving force for Kimco, but recognizing the untapped potential of our asset base is a critical and defining aspect of our strategy going forward. At the end of 2019, we placed Mill Station into service. And out of the gate, our anchors were exceeding pro forma sales. Dania Pointe is making enormous strides, where we recently cut the ribbon for the ground-breaking of Spirit Airlines's new headquarters. Spirit will be investing over $250 million and bringing over 1,000 employees to the site where they will enjoy the campus feel of our amenities and retail offerings.\nThe Boulevard is also moving closer to activation, as our first tenants plan to open later this year. We will also be activating the second residential tower at our Pentagon City National Landing asset later in 2020, as we look to benefit from the Amazon HQ effect in the area. The residential leasing records we set at Witmer, our first residential tower at Pentagon, highlights this one of a kind of asset. With entitlements for nearly 2 million of additional square feet, Pentagon will continue to create value for years to come.\nIn closing, our 2020 Vision strategy was primarily focused on our portfolio quality and balance sheet strength. As we continue to move forward in 2020 and beyond, the challenges we face are not limited to the changing nature of retail and real estate. To be the best, we need to continue to listen to all of our stakeholders and the issues that concern us. We need to be vigilant and responsive to issues [Phonetic] impacting corporate governance practices or diversity and refreshment, director skill sets, shareholder engagement and sustainability. While we have already made large strides in all of these areas, we can do more. Of particular note, our recent NAREIT award as a Leader in the Light given to the ESG Leader in all of retail real estate is something we are proud of and don't take for granted, and shines a light on all of our efforts in making Kimco such a special place. Ross?"
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "Thank you, Conor, and good morning.\nOur 2019 transaction activity, which we reported earlier this month, reflects another excellent year of execution and the redeployment of capital into our future growth opportunities. To recap, for the full year, we sold 32 properties for a gross value of $542 million, with $375 million as Kimco's respective share. Factoring in the acquisition of the three grocery stores through a sale leaseback transaction in January of 2019, our net shopping center dispositions were $341 million. Of note, a significant portion of the sales activity occurred in the fourth quarter as we accelerated several asset sales that were originally slated for 2020 closing. We had a total of 12 properties on the market for sale in the second half of the year and we closed 100% of them. Our transaction success reflects both our dedicated team and the quality of our upgraded portfolio.\nAs a result of the dispositions completed in 2019, we now own a portfolio of 409 shopping centers, tightly concentrated in our top 20 markets with substantial growth potential and densification opportunities that will continue to strengthen our asset base for years to come.\nNow to our outlook for 2020. We intend to continue selling at a modest level, pruning between $200 million to $300 million of operating properties at Kimco's share. We anticipate cap rates to blend in the 7% to 7.5% range. Proceeds from the sales will help fund our Signature Series redevelopment program and potential acquisition opportunities within our targeted markets. As for the latter, we intend to go back on offense in 2020 and selectively add properties that fit our strategy. We plan to acquire between $100 million to $200 million of assets with cap rates in the 5% to 6% range. We have demonstrated our disciplined approach over the past several years with no new shopping center acquisitions in the summer of 2017.\nWith our reshaped portfolio and improved cost of capital, we believe it is the appropriate time for us to selectively acquire high quality properties which offer future value creation potential, when the opportunity presents itself. While these are hard to find, we have already identified one particularly exciting asset that we're currently evaluating and hope to share additional details with you in the second quarter.\nAs for market activity generally, cap rates continue to be aggressive for institutional quality assets in our core markets. We saw transactions in California, Texas, Florida and Pennsylvania in the high 4s and low 5s in the fourth quarter. And with interest rates remaining at their current low levels, there is no shortage of investor capital both debt and equity interested in pursuing our product type. We look forward to building additional long-term value as we move through 2020.\nAnd now to Glenn, for the financial results."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Thanks, Ross, and good morning.\nWe finished 2019 with strong fourth quarter operating results. We maintained our occupancy level at an all-time high, delivered another quarter of double-digit new leasing spreads, and generated positive same-site NOI growth. In addition, we further fortified our balance sheet with the issuance of common equity utilizing our ATM program. As a reminder, in connection with the NAREIT FFO definition clarification, we no longer include gains and losses from land sales, marketable securities and preferred equity investments in NAREIT FFO. We are presenting prior periods to conform with this election. These transactional items were already excluded from FFO as adjusted and therefore have no impact on that calculation. Also, as previously communicated, beginning of this year, we will only be reporting on NAREIT FFO. And in the event, we have a unique transactional gain or charge, we will be sure to point it out.\nNow for some additional color on our fourth quarter results. NAREIT FFO was $151.9 million, or $0.36 per diluted share for the fourth quarter 2019, as compared to $149.6 million or $0.36 per diluted share for the fourth quarter 2018. Net transactional charges for the fourth quarter of 2019 totaled $3.4 million, or $0.01 per diluted share, comprised of $7.2 million of preferred stock redemption charges, offset by $3.8 million of transactional income from Puerto Rico insurance claims and forgiveness of debt. NAREIT FFO for the fourth quarter 2018 included $2.2 million of net transactional income.\nFFO as adjusted, which excludes transactional income and expenses, and non-operating impairments, was $0.37 per diluted share for the fourth quarter of 2019, as compared to $0.35 per diluted share for the same period last year. The primary drivers of the increase were higher NOI of $3.1 million, lower financing costs of $2.2 million and higher management fee income. Full-year 2019 NAREIT FFO was $1.44 per diluted share and includes $11.7 million or $0.03 per share of net transactional expense, primarily from $18.5 million of preferred stock redemption charges. Full-year 2019 FFO as adjusted came in at $620.1 million, or $1.47 per diluted share, which hit the upper end of our guidance range. Full-year 2018 FFO as adjusted was $613 million, or $1.45 per diluted share. The primary drivers of the increase were lower financing costs of $13.2 million, lower income tax expense, and higher management fee income. The full-year increase was further impacted by lower NOI of about $9 million attributable to the full-year impact of 2018 and 2019 dispositions, and higher G&A expense resulting from the lease accounting change and the effect of no longer capitalizing indirect leasing costs.\nOur high quality property portfolio continues to produce positive results. During the fourth quarter, we signed 263 leases totaling 1.4 million square feet at a weighted average ABR of $18.63 per square foot, further improving our pro rata portfolio ABR to $17.99 per square foot. Our year-end occupancy held steady at an all-time high, up 60 basis points from the beginning of the year. This increase was driven by positive net absorption and the positive impact from dispositions. [Indecipherable] spreads for new leases, options and renewals signed were a positive 6% for the fourth quarter and positive 7.9% for the full-year 2019. Same-site NOI growth was positive 2.7% for the fourth quarter 2019 and includes 10 basis points from redevelopments.\nFull-year 2019 same-site NOI growth was positive 3% with no impact from redevelopment activities. The primary drivers of the same-site NOI growth were increases in minimum rents from continued lease up, contractual rent bumps and rent commencement starts. Our same-site leased occupancy stands at 96.4% and same-site economic occupancy is 94%, which bodes well for continued same-site NOI growth.\nTurning to the balance sheet, we were active again in the capital markets. We utilized our ATM program opportunistically to issue 9.5 million shares of common stock at a weighted average net price of $21.03 per share, raising over $200 million. We used the proceeds to redeem $225 million of 5.5% preferred stock. As a result, we reduced our look-through net debt-to-EBITDA by 0.3 times to a level of 7.2 times, and reduced our fixed charges by $12.4 million annually. We remain focused on reducing look-through net debt-to-EBITDA further over time. Our liquidity position is excellent with over $2 billion of immediate liquidity available. Our debt maturities for 2020 are quite manageable with only $90 million of consolidated mortgage debt due, and approximately $150 million due in our joint ventures. Our weighted average debt maturity profile is 10.6 years, continuing to be one of the longest in the REIT industry.\nWe successfully executed on many fronts throughout 2019, meeting or exceeding our targets. I want to thank our associates for their commitment, dedication and effort to produce these results. We are enthusiastic about the future, but know full well there is more to be done in this ever-changing retail landscape.\nMoving on to 2020 guidance and the underlying assumptions. Our initial NAREIT FFO guidance range for 2020 is $1.46 to $1.50 per diluted share. This per share guidance range assumes a growth rate range for same-site NOI of 1.5% to 2% including redevelopments, and 100 basis points for credit loss, includes incremental NOI growth of $12 million to $14 million from development projects, and lowered NOI by $21 million associated with the full-year impact of 2019 net dispositions. Other assumptions include reduced financing costs of $11 million to $17 million, primarily from the redemption of $575 million of preferred stock during 2019, flat to lower G&A in 2020 as compared to 2019, and the impact of the increased share count from the equity issuance in 2019.\nIn addition, as Ross mentioned, our disposition target ranges from $200 million to $300 million, and our acquisition target is $100 million to $200 million. Lastly, our NAREIT FFO per share guidance range assumes no transactional income or expense, and no additional common equity issuance.\nAnd with that, we'd be happy to take your questions."
+    },
+    {
+      "speaker": "David F. Bujnicki",
+      "speech": "Before we start the Q&A, I just want to offer a reminder that you may ask a question with an appropriate follow-up. If you have additional questions, you are welcome to rejoin the queue. We're happy to take the first question."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nOur first question comes from Christine McElroy from Citi. Please go ahead."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "Hi, thanks. Appreciate it. Good morning. Just wanted to follow up on your initial same-store NOI guidance, 1.5% to 2%. I think everyone is sort of trying to figure out in the context of the deceleration from last year, how is that sort of an initial conservative range or is that realistic in the context of what you're expecting for fallout. There is what you know right now in terms of fallout versus what you may be anticipating as far as unknown buffer or bad debt reserve. And I think we're just trying to get our arms around -- is that an initial conservative range or is it disappointing based on what you are currently expecting? And I know that there is a lot of moving parts, there are some properties that are expected to join the pool this year that are potentially accretive to that growth rate. So just wanted to get some color around that. Thank you."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Hey Christine. Yeah, we're very much focused on that, and it's very early in the year, as you know. We're focused on outperforming. We've got 11 months to do so. And if appropriate, we will hopefully outperform and raise it throughout the year, but we do have 100 basis points reserve for credit loss. We think it's an appropriate range to start the year. It's a very fluid environment as you know. We've made some assumptions and believe that it's a good place to start, and continue to believe that the transformed portfolio will continue to shine."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "And then just on the comment around the properties adding to the same-store pool like Boulevard, how much is that expected to be accretive?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "The Boulevard would add in a range of around $3 million to $5 million as part of it. So on -- $900 million, it's helpful but it's modest."
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "Redevelopments, Christy, should be about somewhere between 20 to 40 basis points within the same-site guidance range."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "Okay. And that 1.5% to 2%, that's excluding redevelopment, or that's including that impact?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Includes -- it's including that."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "That's included? Okay, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from Craig Schmidt, Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "I wonder how much of the 100 bps of reserve you had last year, you needed to use in 2019?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Hi Craig, it's Glenn. So we used a total of 44 basis points for all of 2019. So we came in ahead, and again as part of that, we were able to continue to increase same-site NOI guidance as we went through 2019."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "Okay. And then how much and how active will you be in terms of rent restructuring? And how much of that is a drag on your -- the sequential decline in NOI '19 versus '20?"
+    },
+    {
+      "speaker": "David Jamieson",
+      "speech": "Hi Craig, it's Dave Jamieson. It's not really rent restructuring, so I just want to be clear on the question. What we're always doing is proactively looking ahead, identifying opportunities to upgrade the quality of the tenancy, drive market rents through new deals, renewals and discussions with tenants that have options. So something that we do day in and day out. I definitely wouldn't classify it as restructuring of rents. But when we look ahead and the opportunities, obviously small shop activity is very robust. In the back half of 2019, there were some known events on bankruptcies that drove that number down. About 130 basis points of that was contributed to the bankruptcy of the tenants that Conor already mentioned. We really identify that as an opportunity to fuel future growth through the end of '20 and into '21 as well.\nSo we're very optimistic about the environment and where we have with our quality of our portfolio and with the new anchors coming online as well, and you start to see the lease -- the physical occupancy starts to compress throughout the balance of the year, that will continue to drive small shop growth."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah, Craig, the nice part is, is where we sit at 96.4% at an all-time high occupancy is we do need a little bit of churn in order to get those mark-to-market opportunities. So we're active on being -- pre-leasing and looking for opportunities to improve the tenant credit of our portfolio. So we think that there is a lot of opportunity that's here to become -- really another driver of mark-to-market opportunities for us."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "Just given the record high occupancy, has that limited your ability to push rents?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "No, again it's the -- on the spread side, it's always dependent on [Speech Overlap]."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "No, I just mean, the fact that you're not able to add new occupancy to same property."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "No, I think -- again, when you look at the anchor opportunities, there are renewals that are coming due that will continue to drive that mark-to-market. As you know, we have substantially below market anchor portfolio that we've continued to realize the benefit of. In addition, on the small shop side, our small shops currently are over $29 a foot in rent. And when you look at 2020 the rollover schedule is at the lowest rate, current in-place rent than the next five years. So when you look at the opportunity to push rents, there is still very much room to do so."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "Okay. I guess -- you sound pretty positive when we get to the details, but the macro guidance is so much less. I guess I'm not really able to reconcile that."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Craig, I think if you look back the past few years, you'll see we've been consistent. It's a fluid environment as you know. We want to be realistic, understanding that it's very early in the year. We're focused on out performing like we have been doing and we have 11 months to do so."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "Okay. Well, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Ki Bin Kim of SunTrust. Please go ahead."
+    },
+    {
+      "speaker": "Ki Bin Kim",
+      "speech": "Thanks, good morning. Your renewal spreads of 4%, we've seen it hover around the 4% mark for three consecutive quarters. Is this somewhat of a newer run rate that we should expect going forward?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Yeah, it's -- again it's all dependent on the population of any given quarter. Between the renewals and options over the last few quarters, there are several options that were flat on some of our large ground lease anchor boxes that maintained a lower blended spread. And in addition to that, as you know with our anchor occupancy being as it is, the small shops are slightly closer to market. So this quarter in particular almost 90% of our new deals were small shop deals, around -- under 5,000 square feet. So that's sometimes is a closer mark to market equation, which can have an impact on your spreads. But as I mentioned in my earlier comments, when you look forward, there's opportunities to continue to push the new lease spreads on a go-forward basis."
+    },
+    {
+      "speaker": "Ki Bin Kim",
+      "speech": "Okay. And just going back to a prior question on rent restructuring or just rent cuts. Just if you can give us a sense of how often that is actually happening at Kimco? And following up to that, is there just a larger concern that even tenants that don't need a rent cut start to look more increasingly at the landscape, whether they are a tenant with you or a different owner? And sorry to ask for something similar, because if you're a strong tenant, maybe the mindset starts to shift from what -- paying rent based on what I could pay to what I should pay."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "There's so many variables that go into any discussion. Everything's a negotiation. It's a case-by-case analysis both on the tenant side and the landlord side. The value with Kimco is the high quality of our portfolio. Someone could look for a lesser quality property, maybe pay slightly less rent. But if you want to have the full benefit of our tenancy, our location, our real estate and the markets in which we operate, then that starts to weigh into the final decision that's made. So it's always a case-by-case, and that's something that we do on an ongoing basis."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "We really haven't done any restructuring. If you look through the portfolio and look at our occupancy, we'd like to get some spaces back so we get the mark to market opportunities. So that's what's given us the ability to have confidence in the transformed portfolio, because typically if a tenant misses an option or wants to leave, we have the opportunity to backfill at a much higher rent. So that's what's driving our 20% plus new store leasing spreads, when we get those spaces back. It's a nice position to be in, because it all comes down to the competitive set when your shopping center is placed in the corridor. And we feel like we've got below market rents in great locations and the right balance of supply and demand."
+    },
+    {
+      "speaker": "Ki Bin Kim",
+      "speech": "All right, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from Alexander Goldfarb, Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Alexander D. Goldfarb",
+      "speech": "[Technical Issues] Christy's questioning. If we look at your last year's -- sorry, NOI guidance, you said in response to Craig that you only used about 45 basis points. And yet you exceeded the top end of your NOI by 50 basis points. This year, you're talking about 100 basis points, which again seems pretty darn conservative. So just sort of curious, as you guys look to 2020, how much is already in your same-store that's -- one, based on legacy what closed in 2019? Second, like Pier 1 or what you know is going to close this year? And then three, the sort of unknown factor you're budgeting of X%. So is the 100 basis points sort of that X% and therefore Pier 1 and the legacy from last year are the deltas that we're all trying to solve for, as to why the same store looks so low relative to what you produced last year?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Hey Alex. Yeah, so what we do is for all known closures, we take those out of our budget. So the sites where we know tenants are going to be vacating, we take them out of the budget. And then on top of that, we put in 100 basis points of credit reserve. And so we feel that gives us the cushion to understand that it's a very fluid environment. The last few years obviously, we've been able to raise throughout the year. It's very early in the year. We're focused on outperforming. We've got 11 months to do so, and we'll continue to -- if appropriate, we will raise throughout the year."
+    },
+    {
+      "speaker": "Alexander D. Goldfarb",
+      "speech": "So Conor, how much is already in there? Like is there already -- so the 100 basis points of cushion, there is already an extra 100 basis points from closure? I'm just trying to understand what the actual closure amount that's already in there in addition to what the 100 basis points cushion is?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "It's Glenn. There's roughly 30 basis points that we're aware of. So we're starting with that as a kind of the beginning point. And then the balance is really for what's unknown. So again, we are trying to take the approach to deal with again an environment that is sometimes is fluid and has its challenges, and we want to just set the stage for us to be able to go through the year and hopefully outperform."
+    },
+    {
+      "speaker": "Alexander D. Goldfarb",
+      "speech": "Okay. And then next is just an update on..."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "The other thing, just one -- sorry, the other thing to just bear in mind, we actually have a very tough comp in the first quarter. The first quarter of last year was 3.7%. So just kind of bear that in mind as we go."
+    },
+    {
+      "speaker": "Alexander D. Goldfarb",
+      "speech": "Okay. And then just -- Albertsons obviously was in the newspaper, potential IPO. Just what you can share with us as far as potential for timing if it will go, won't go, what the latest is?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah. With regard to the rumor on the S-1, we really can't comment on that. For us, what we do understand and know is that for the last couple of years, the management, the Board and the investors have really been focused on giving the company the tools to really succeed. And that includes reducing debt through sale-leasebacks and cash by $3 billion over the last two years, improving the operation of the company, bringing in a new CEO, who has really invigorated the management team there. And we're kind of -- as we've said on the call last couple times, really working to set the company up to execute at the right time, at the right value.\nAlso to understand, for Kimco, we have about 35 locations with Albertsons across the banners. We want this to be a very successful company for the long term. So we're not going to rush into anything that it doesn't make sense for the long term or that business."
+    },
+    {
+      "speaker": "Alexander D. Goldfarb",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from Samir Khanal with Evercore. Please go ahead."
+    },
+    {
+      "speaker": "Samir Khanal",
+      "speech": "Good morning, guys. Can I ask -- I guess, Glenn, can I ask you to go over the sources and uses? I'm just trying to understand, you're funding the $225 million of redevelopments. And you have $100 million coming from dispositions. You will have free cash flow. But I think you will still feel -- you'll be a bit short of the $225 million of redevelopments. Just maybe address the capital plans, what you're assuming for guidance, maybe on the debt or even the equity side."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "So in terms of the capital plan to be able to fund the balance, we actually have some contracts in place on some of our preferred equity investments and some land parcels that will also help to fund that. So that's not part of Ross's guidance in terms of disposition. And that amount can be $50 million to $75 million. So that's one piece of the bridge. The other thing is, again, we're going to watch the capital markets closely. It's not baked into our numbers, using the equity markets, but again, similar to what we did in 2019, we will always look to be opportunistic. And then the balance comes from -- we have enormous liquidity between cash and our line of credit. And if need be, the bond market is quite favorable at the moment too. So we have a lot of different options on a lot of different places to be able to create the funding mechanism."
+    },
+    {
+      "speaker": "Samir Khanal",
+      "speech": "Okay, great. And then I guess my second question is on Dania Pointe. I know you've got the Forever 21 box there, you've got the Lucky's grocer. I guess an update on those two tenants? And then I guess is there some co-tenancy risks that can impact the income coming through that development in the event that those stores close there?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah. It's good question. So starting with the Forever 21 box, to step back, this is a lease we signed almost three years ago. And when you look at the evolution of the project, we couldn't be happier with the opportunity to backfill this location, with the recent signings of Urban Outfitters and Anthropologie, to anchor the other two locations on Main Street complemented by the Tommy Bahama's. What it's going to do is create a new opportunity for us to backfill. Initially that lease was a somewhat of a loss leader. This brings others into the project, and now we're able to bring that closer to market. So that's an opportunity for us and we already have strong activity. It's one of the best locations in the center itself.\nAs it relates to Lucky's, it's a Kroger background lease. So again, this is another opportunity where we had a grocery component in there on the low ground rent. We're now able to bring that closer to market and with Kroger currently -- is currently on the lease."
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "We have recaptured the Forever 21 space. And we're actively marketing it right now. The ground lease that's backed by a Kroger, we have yet to recapture."
+    },
+    {
+      "speaker": "Samir Khanal",
+      "speech": "Okay. Thanks for the color, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from Greg McGinniss with Scotia. Please go ahead."
+    },
+    {
+      "speaker": "Greg McGinniss",
+      "speech": "Hey, good morning, everyone. Conor, I was just hoping to dig into the expected growth a bit more. So guidance implies 1% of earnings growth, which is similar to 2019. But in 2020, we're not expecting a drag from the lease accounting change, there's fewer prior-year dispositions, and seemingly there's a greater contribution from development. So considering these items, can you just help us bridge the gap on why growth may be appears a bit low versus what was achieved in 2019?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah, I mean I think -- to your point, look, it's very early in the year. We feel like we've got a transformed portfolio. The developments and redevelopments are starting to come online, but it's a very fluid environment. We recognize that retail is changing daily, and we feel like we have to position ourselves to be able to recognize that if we are able to outperform, we'll be able to hopefully appropriately raise throughout the year. We feel like the 2019 accomplishments shine a light on how far we've come. But that being said, we've got a lot of work to do. There's a lot of projects that need to come online. There's a lot of leasing that needs to get done. And there is still some retailers out there that we have our eyes on that may not be able to pivot and meet the needs of the consumer. So we have to take that into consideration and that's what's really sort of creating the range that we put out there."
+    },
+    {
+      "speaker": "Greg McGinniss",
+      "speech": "Okay. And then thinking about that drag from dispositions a bit more. Ross, if you could help me with this one. So the messaging on dispositions going forward has been consistent at this $200 million to $300 million range. But we came in $75 million above the expected range in 2019. You still expect $200 million to $300 million in 2020. Just wondering if there is some deterioration in operating performance of certain assets, which led you to be slightly more aggressive on dispositions? And then potentially what could lead to an increase in the dispositions range for 2020?"
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "Yeah. I certainly wouldn't characterize it as deterioration in the operations. There were a few assets that closed in the last 10 days of the year that we initially had anticipated would be 2020 dispositions. So that's certainly factored into it. As it relates to the overheads on the guidance in '19, that guidance was always a net transaction guidance. So when you factor in the the sale leaseback that was achieved in the early part of '19, it was really about $40 million. So it was a little bit less than the $75 million. But again it was really just having a very robust demand for the assets. We typically, in years past, had about 80% to 85% success rate on the assets that we had in the market to closing. The second half of '19, everything single asset that we put into the market closed, including ones that we thought would have been a few months delayed. So that elevated the the range a bit for '19. But we're very comfortable that we'll be sticking within the range for 2020.\nAnd we have no desire or anticipation that we would move that range or ramp-up our desire to sell more."
+    },
+    {
+      "speaker": "Greg McGinniss",
+      "speech": "Okay. Thanks, Ross."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from Haendel St. Juste from Mizuho. Please go ahead."
+    },
+    {
+      "speaker": "Haendel E. St. Juste",
+      "speech": "Hey there, good morning."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Haendel E. St. Juste",
+      "speech": "So hey, Glenn, maybe you can help me with the the build versus occupied. How should we be thinking about your opportunity for narrowing that, sounds like 270 basis point gap this year?"
+    },
+    {
+      "speaker": "David Jamieson",
+      "speech": "This is Dave. It's 240 basis points currently. So it compressed from 270 basis points to 240 basis points. When we look at the 2020 and the flow of that route, we expect anywhere from $10 million to $15 million to come from that 240 basis points, and it will be heavily weighted toward the back half of '20. So when we look on the outlook, whether or not it will expand or contract, right now I think we feel good about the range. We do know if some additional space does come back when we started signing those new leases, it could expand a little bit. But feel like right now we are in the range, and we'll continue to open new stores and work on compressing it."
+    },
+    {
+      "speaker": "Haendel E. St. Juste",
+      "speech": "Appreciate that. Thanks. And then a follow-up. I wanted to go back to The Boulevard for a second. Glenn, I think you mentioned $3 million to $5 million of NOI coming online this year, which is I guess pretty far below what I was thinking just going through the quick math. $214 million, [Indecipherable] I guess around $6 million, $6.5 million NOI. So maybe you could walk me through what I might be missing there and some color on that number?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah, I'm going to let -- Dave will take you through the timing."
+    },
+    {
+      "speaker": "David Jamieson",
+      "speech": "Sure. Right now we're going through the process of preparing the retailers for opening and we'll look to start opening them toward the back half of '20. There are items when you deal with Burrow development in the New York Tri-state area or the New York area related to inspection, the utility companies that you continue to manage to work through. So we're just -- as we're continuing to finalize the construction phase of this project, there will be influence on the timing of tenancy. So that said, when you -- look, at the end of the day, project stabilization, we still feel very, very confident about where this is going to -- where this is going to end up and the quality of shop rate, etc., but it's really just a matter of the timing of the openings as we start to look out toward the back half of '20 and '21."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Right. Stabilization for the asset should be toward the end of '21."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from Brian Hawthorne, RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Brian Hawthorne",
+      "speech": "Hi, can you talk about your expectation for the timing of dispositions in 2020?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Sure. I think the first quarter will certainly be on the lighter side, as I mentioned. A few assets that we thought would close in Q1 previously, ended up closing at the end of last year. So we'll see a little bit of a ramp up in Q2, Q3 and Q4. And at that point, it should be somewhat ratable, but Q1 will be light on the disposition side."
+    },
+    {
+      "speaker": "Brian Hawthorne",
+      "speech": "Okay. And then do you have your anchor mark-to-market for the leases expiring in 2020?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah. Currently on our list, you have 89 leases that are expiring, some of which have options and that's currently at $11 a foot, $11.54. When you look at our current anchors to-date, we are just about $14 a foot."
+    },
+    {
+      "speaker": "Brian Hawthorne",
+      "speech": "Okay, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from Rich Hill of Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Richard Hill",
+      "speech": "Good morning, guys. A couple of clarification questions. Maybe going back to the beginning. When you talked about the headwind from redevelopment to same-store NOI, was that 20 to 30 basis points? Did I hear that right?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "It's 20 to 40 basis points, not as a headwind though. It's just embedded in the number that we're using."
+    },
+    {
+      "speaker": "Richard Hill",
+      "speech": "No, no, I -- sorry for using the wrong term. I just want to make sure I understood what impact redevelopment was having on same-store NOI. And then on the loss reserve, you mentioned 100 basis points, which I completely understand and our math as part of the supplement agrees with your 44 basis points. But when you talked about the known 30 basis points, is that included in the 100 basis points? Or should we be thinking about the loss reserve as closer to like 130 basis points versus the 100 basis points?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "We take out, as Conor mentioned, we take out known tenants that are not going to be there. So those are out of it. There are other pieces that make up that where we see this of the 30 basis points. So I would say if no one else went out, we would expect 30 basis points of credit loss, but we know that's not going to happen. So we have this extra 70-basis-point that is built into our budget process for all the other unknowns. So I would say, no, it's not 130 basis points. It's a total of 100 in our budget process."
+    },
+    {
+      "speaker": "Richard Hill",
+      "speech": "Got it. That's very helpful. Thank you for the clarification. And then just thinking about the sort of the trajectory of same-store NOI throughout the year, obviously 1Q '19 was a really good year with, I think 3.7% same-store NOI. Could you maybe just revisit how you think about the trajectory of same-store NOI throughout 2020? Do you expect 1Q '20 to be maybe as strong as 1Q '19 or was there something -- is there something specific that we should be thinking about on a year-over-year basis?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Although we don't give quarterly guidance, I will tell you that it's our expectation that the first quarter would probably be the low point in terms of what we would report for the year. And you'll see it ramp up as we go throughout 2020."
+    },
+    {
+      "speaker": "Richard Hill",
+      "speech": "Got it. Thank you, guys. That's very helpful clarification for me. That's it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from Floris van Dijkum from Compass Point. Please go ahead."
+    },
+    {
+      "speaker": "Floris van Dijkum",
+      "speech": "A quick question on -- clarification I guess on Pier 1. I think you have 30 locations, about 50 basis points of a rental impact. What is your expectation if you were to get that back? I know that the average rent is around $22 a square foot, which is well in excess of your average anchor rent. Are you actively looking to market that lease or already marketing that space right now?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah, we've been proactively looking to pre-lease the Pier 1 boxes for a period of time. And just to clarify, Pier 1 ranges in size, and actually -- a sizable majority of them are actually below what we deem as an anchor, which is anything over 10,000 square feet. So using the anchor average rent is not necessarily the most appropriate way to determine a mark-to-market benefit.\nSome will be up, some will be down, but I feel like we have a good opportunity there. In addition to that, we obviously will be upgrading the quality of the tenancy and bringing in thriving retailers to help occupy those spaces. So as we continue to look out into '20, we're monitoring the situation very closely and we'll continue to actively pre-lease those boxes."
+    },
+    {
+      "speaker": "Floris van Dijkum",
+      "speech": "Great, thanks. That's it for me."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question from Linda Tsai of Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "On the 2020 acquisitions, the 5% to 6% cap rate, what upside, do you expect in rents and what does the same-store growth profile look like relative to the in-place portfolio?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "I think that they are slightly different between the two. When we're looking at acquisition opportunities, we anticipate given the market that -- and the locations and the quality of what will be buying that the cap rates will be in the 5% to 6% range in year one. But any opportunity that we look at would certainly have a pretty significant growth opportunity, whether it be with below market leases, redevelopment opportunities. So we think that anything we look to acquire over time will have a growth rate that's outsized compared to the existing portfolio and would continue to be accretive to the quality and the growth of the portfolio long term.\nBut I can't really comment on the specifics of a particular acquisition at this time."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "Thanks. And then it looks like straight line rent was higher on a quarter-over-quarter and year-over-year basis. Why did this go up a bit? And what's the more realistic run rate for 2020?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "So again, straight line is somewhat tied to leases that are getting signed and the leases being in the -- the box being ready for opening or delivery to the tenant. It's just a matter -- that's really what's driving it. You have a lot of new leases that were signed in places, like Mill Station. You have a lot of leases that are getting signed in Dania. So there's a lot of free rent tied to those, where you start straight-lining that in. The run rate is lower than what you see in the fourth quarter."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "Okay. And then I think you mentioned in the prepared remarks, flat to lower G&A in 2020. What's driving that?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "More efficiency, for one thing. If you look what we've done, we've reduced the size of the portfolio."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "And also the leasing costs from a year-over-year perspective."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "It's really -- we do a very -- we spend a lot of time monitoring where G&A stands and try to do everything we can to keep it measured. And again, as the portfolio is reduced in size, we have reduced the size of some staff over the years."
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "We've updated our systems as well. We switched over to MRI and made a lot of investment there. So we think there's going to be significant efficiencies and synergies coming from that investment."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Chris Lucas with Capital One Securities. Please go ahead."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Good morning, guys. Ross, a real quick one. Do you have anything under contract right now as far as acquisitions go?"
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "No, nothing under contract."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Okay. And then please be patient with me, I do need to go back to same store, on the clarification, just so I fully understand. So bear with me. Last year, you did 3% both with and without redev, the guidance, the 1.5% to 2% is -- includes the redev. Do I understand to say then that without redev, the guidance would have been, what 1.3% to 1.6% or something? Is that how I should be thinking about this?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Without redev, yes, that would be correct."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Okay. Thanks, Glenn."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Again -- Chris, again, it's a starting point for us when we look at it."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Understood."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "And you're baking in 100 basis points of credit loss. A little over [Indecipherable]."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Yeah, so let me go to the next point, which is that known fallouts that you had from 2019, the Dress Barns and all that, that's 130 basis points that you know going into this year, correct?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "That's already built in to our guidance."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Correct, right. So that's an initial drag, you know that going in. So that's already 130 basis point. So now we're looking at going into this year. You have 100 basis points of essentially reserve and 30 basis points of it, you already kind of know about. So there's 70 basis points left of sort of whatever for the rest of the year. Is that correct?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Chris, I think what you're trying to get at is, what's the initial headwind from the lost rents of some of those retailers that went bankrupt at the end of last year. That's somewhere about 40 basis points. That is factored into the initial guidance. And that's not part of our -- for a starting point guidance of the credit loss of 100 basis points."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "So, Chris, just to clarify. It's not 130 basis points that's baked into it. That's 40 basis points from Dress Barn, Avenue, [Speech Overlap]."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Okay, there we go. Okay. That's the number I was looking for. Thank you."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "[Speech Overlap] Chris, I think it's just that a headwind that we know is lost rent that's already out. Credit loss is for those that we anticipate going bankrupt over the course of 2020."
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Right. Said differently, if those tenants were all still there, the guidance would be 40 basis points higher. We know they're out. So we started with that out of the number already."
+    },
+    {
+      "speaker": "Christopher Lucas",
+      "speech": "Perfect, Glenn. Thank you. That's what I needed to hear. That's all I have."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nNext we have a follow-up from Christine McElroy of Citi. Please go ahead."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "Hey, so sorry, just to continue that conversation a little bit. So of that unknown, right, you mentioned 30 basis points and 70 basis points of the 100 basis point reserve. Is the 30 basis points all Forever 21? And where does sort of Pier 1 fall into that? I assume that's in the 70 basis points. And any -- what are your expectations around how modals plays out, like is that impacted in the 70 basis points? Maybe you can just give a little bit more detail on what you're expecting for the individual retailers in that?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "So we've seen the Pier 1 closing list and we've modeled in -- again, we just got the list prior to what we were doing. So we know that some of those stores we expect to close. That's part of that 30 basis points that I was saying is known. It's not being driven by Forever 21."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "Where does Forever 21 fall in? Is that in the -- that's not even in the 100 basis points because it's already in the range?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah. In Forever 21, we had a very small exposure. So when you're talking about Dania, it's Dania, the Phase 2 is not in our same-site pool. So that wouldn't be part of it."
+    },
+    {
+      "speaker": "Ross Cooper",
+      "speech": "And it was only one location."
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "Yeah. So that's not part of the issue. I think as you mentioned, Christy, that -- hey, when we go through, Pier 1 put out initial closing list. We know that there is some number of those stores that we have right away that factors into the 100 basis points. And then for some of the other names that you mentioned in some of the other ones out there, if we factor in that impact, we look at the sensitivity of maybe potential timing of when during the course of the year, that could happen. It's early. We'll have better visibility after maybe the first quarter and that's when -- typically when we reevaluate everything going forward."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "Okay. And then just a follow-up on Linda's question around the non-cash rents. Should we be aware of any sort of write-off of straight-line rent receivable related to some of the questionable on collectability or any sort of acceleration of FAS 141 this year based on any early space recapture that you're expecting?"
+    },
+    {
+      "speaker": "Glenn Gary Cohen",
+      "speech": "Okay. Last year, we had some below market rents, which were certainly helpful within the number. There is less amount the below-market rent benefit modeled in our plan for this year than we had in 2019. As it relates to writing off of straight-line rent, again, it's going to depend on the tenant. So we run through tenant-by-tenant, their credit quality. And if the tenant goes out, we immediately would write that off. But that is a modest amount of that modeled in the plan for this year."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "Okay. And then just thinking about free cash flow after dividend. How are you thinking about -- sorry if I missed this, how are you thinking about sort of recurring capex spend this year relative to the last few years in terms of leasing, capex and landlord costs, and sort of recurring maintenance capex as it relates to sort of growing year free cash flow?"
+    },
+    {
+      "speaker": "Conor C. Flynn",
+      "speech": "I would say in total between capex, leasing commissions, EIs, it's a similar range for 2020 than what we incurred in -- or we spent in 2019."
+    },
+    {
+      "speaker": "Christy McElroy",
+      "speech": "Okay, that's helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I'd like to turn the conference back over to Mr. David Bujnicki for any closing remarks. Please go ahead."
+    },
+    {
+      "speaker": "David F. Bujnicki",
+      "speech": "Thank you for participating in our call today. I'm available during the course of the day, if you have any additional follow-up questions. Otherwise, I hope you have a really nice day. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 56 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "David F. Bujnicki--Senior Vice President, Investor Relations & Strategy",
+    "Conor C. Flynn--Chief Executive Officer",
+    "Ross Cooper--President, Chief Investment Officer",
+    "Glenn Gary Cohen--Executive Vice President, Chief Financial Officer & Treasurer",
+    "David Jamieson--Executive Vice President, Chief Operating Officer",
+    "Christy McElroy--Citi Investment Research -- Analyst",
+    "Craig Schmidt--Bank of America/Merrill Lynch -- Analyst",
+    "Ki Bin Kim--Suntrust Robinson Humphrey -- Analyst",
+    "Alexander D. Goldfarb--Piper Sandler & Co. -- Analyst",
+    "Samir Khanal--Evercore ISI -- Analyst",
+    "Greg McGinniss--Scotiabank -- Analyst",
+    "Haendel E. St. Juste--Mizuho -- Analyst",
+    "Brian Hawthorne--RBC Capital Markets -- Analyst",
+    "Richard Hill--Morgan Stanley -- Analyst",
+    "Floris van Dijkum--Compass Point -- Analyst",
+    "Linda Tsai--Jefferies -- Analyst",
+    "Christopher Lucas--Capital One Securities, Inc. -- Analyst"
+  ]
+}

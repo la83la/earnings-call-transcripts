@@ -1,0 +1,98 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning and thank you for joining us for RPC, Inc.'s First Quarter 2021 Financial Earnings Conference Call. Today's call will be hosted by Rick Hubbell, President and CEO; and Ben Palmer, Chief Financial Officer. Also present is Jim Landers, Vice President of Corporate Services. [Operator Instructions] [Operator Instructions] Jim will get us started by reading the forward-looking disclaimer."
+    },
+    {
+      "speaker": "Jim Landers",
+      "speech": "Okay. So thank you, everybody. Sorry for that break. Thank you and good morning. Before we begin our call today, I need to remind you that in order to talk about our company, we're going to mention a few things that are not historical facts. Some of the statements that will be made on this call could be forward-looking in nature and reflect a number of known and unknown risks.\nI'd like to refer you to our press release issued today along with our 2020 10-K and other public filings that outline those risks, all of which can be found on RPC's website at www.rpc.net. In today's earnings release, we refer to, in our conference call -- so we'll refer to several non-GAAP measures of operating performance. These non-GAAP measures are adjusted net loss, adjusted loss per share, adjusted operating loss, EBITDA and adjusted EBITDA.\nWe're using these non-GAAP measures today because they allow us to compare performance consistently over various periods without regard to nonrecurring items. In addition, RPC is required to use EBITDA to report compliance with financial covenants under our revolving credit facility.\nOur press release issued today and our website contain reconciliations of these non-GAAP financial measures to operating loss, net loss and loss per share, which are the nearest GAAP financial measures. Please review these disclosures if you're interested in seeing how they're calculated. If you'd like to see our press release and haven't received a copy, please go to rpc.net, again, to see a copy.\nI will now turn the call over to our President and CEO, Rick Hubbell."
+    },
+    {
+      "speaker": "Richard A. Hubbell",
+      "speech": "Jim, thank you. This morning, we issued our earnings press release for RPC's first quarter of 2021. 2020 was a very challenging year on many levels. Fortunately, the world is coming to terms with the COVID-19 pandemic and hydrocarbon demand is slowly but surely recovering. This has led to a reduction in oil inventory to near its five year average, aided by supportive OPEC+ actions to date.\nAs a result, the outlook for the oil and gas prices is encouraging, which should support modest growth in industry activities. The first quarter played out largely as we expected, except for the unusually severe cold weather during February. Our estimate is that this event negatively impacted our EBITDA by approximately $5 million. Notwithstanding that event, we see encouraging trends in most of our service lines, which gives us confidence in our 2021 outlook.\nOur CFO, Ben Palmer, will discuss this and other financial results in more detail, after which I will provide some closing comments."
+    },
+    {
+      "speaker": "Ben M. Palmer",
+      "speech": "Thank you, Rick. For the first quarter of 2021, revenues decreased to $182.6 million compared to $243.8 million in the first quarter of the prior year. Revenues decreased due primarily to significantly lower activity levels, including the February adverse weather conditions, and lower pricing compared to the first quarter of the prior year. Operating loss for the first quarter was $10.5 million compared to an adjusted operating loss of $13.2 million in the first quarter of the prior year.\nEBITDA for the first quarter was $7.8 million compared to adjusted EBITDA of $25.8 million in the same period of the prior year. Loss per share was $0.05 in the first quarter of this year compared to adjusted loss per share of $0.04 in the first quarter of 2020. Cost of revenues during the first quarter of 2021 was $146.2 million or 80.1% of revenues compared to $181.9 million or 74.6% of revenues during the first quarter of 2020. Cost of revenues declined primarily due to decreases in expenses consistent with lower activity levels and RPC's cost reduction initiatives.\nCost of revenues as a percentage of revenues increased primarily due to lower pricing for our services, increased maintenance and repair and fuel costs as well as labor and other cost inefficiencies resulting from several challenges during the quarter. These challenges included lower activity levels, COVID compliance costs and adverse weather events in the first quarter as compared to the same period in the prior year. Selling, general and administrative expenses decreased to $30.6 million in the first quarter of 2021 compared to $36.5 million in the first quarter of the prior year.\nThese expenses decreased due to lower employment costs, primarily the result of cost reduction initiatives during previous quarters. Depreciation and amortization decreased to $17.8 million in the first quarter of 2021 compared to $39.3 million in the first quarter of the prior year. Depreciation and amortization decreased significantly primarily due to asset impairment charges recorded in previous quarters, which decreased RPC's depreciable property, plant and equipment as well as lower capital expenditures.\nOur Technical Services segment revenues for the quarter decreased 24.2% compared to the same quarter in the prior year. This was due to significantly lower activity and pricing. Significant operating -- segment operating loss in the first quarter of 2021 was $5.8 million compared to a $12.2 million operating loss in the first quarter of the prior year. Our Support Services segment revenues for the quarter decreased 38% compared to the same quarter in the prior year.\nSegment operating loss in the first quarter of 2021 was $2.9 million compared to an operating profit of $1.5 million in the first quarter of the prior year. On a sequential basis, RPC's first quarter revenues increased 22.9% to $182.6 million from $148.6 million in the prior quarter. And this was due to activity increases in most of our service lines. Cost of revenues during the first quarter of '21 -- 2021 increased by $28.3 million or 24% to $146.2 million due to expenses, which increased with higher activity levels, such as materials and supplies and employment expenses.\nAs a percentage of revenues, cost of revenues increased slightly from 79.3% in the fourth quarter of 2020 to 80.1% in the first quarter of 2021. This was due to increases in M&R expenses and fuel costs, coupled with labor and other cost inefficiencies due to the adverse weather event. Selling, general and administrative expenses during the first quarter of 2021 increased 17.6% to $30.6 million and $26 million in the prior quarter.\nThis was primarily due to a beneficial forfeiture rate adjustment to stock compensation that we recorded in the prior quarter. RPC incurred an operating loss of $10.5 million during the first quarter of 2021 compared to an adjusted operating loss of $11.3 million in the prior quarter. RPC's EBITDA was $7.8 million in the first quarter of 2021, which was the same as adjusted EBITDA of $7.8 million in the fourth quarter of 2020.\nOur Technical Services segment revenues increased by $33.7 million or 24.2% to $172.6 million in the first quarter due to increased activity levels in most of the segment service lines. The Technical Services segment incurred a $5.8 million operating loss in the current quarter compared to an operating loss of $11.3 million in the prior quarter. Our Support Services segment revenues increased by $310,000 or 3.2% to $10 million in the first quarter.\nOperating loss was $2.9 million in the current quarter compared to an operating loss of $2.6 million in the prior quarter. During the first quarter of 2021, RPC operated five horizontal pressure pumping fleets, the same as in the fourth quarter, but with improved utilization. Due to high utilization of these existing fleets, we recently added one additional horizontal fleet to meet expected incremental demand. First quarter 2021 capital expenditures were $11.8 million, and we currently estimate full year 2021 capital expenditures to be approximately $55 million, comprised primarily of capitalized maintenance of our existing equipment and selected growth opportunities.\nWith that, I'll turn it back over to Rick for some closing remarks."
+    },
+    {
+      "speaker": "Richard A. Hubbell",
+      "speech": "Thank you, Ben. We are encouraged by how 2021 has started. Activity levels and pricing have largely tracked our expectations coming into the year, and all signs point to a continued modest recovery as the year progresses. We remain committed to capital discipline and do not plan to add incremental capacity until we have greater confidence that economic returns will justify the investment. ESG has continued to grow as a topic of interest among many of our customers.\nRPC aspires to be an environmentally friendly company. We are adapting our operations to reduce emissions wherever possible. We are in the final stages of upgrading another of our fleets to dual-fuel capability, after which 2/3 of our deployed frac capacity will be ESG-friendly. However, for RPC and most of our competitors, the easy conversions are largely done. Further ESP adaptation requires economics to improve before additional capital investments make financial sense.\nWhile economics are not currently supportive of adding net capacity, the continued transition to ESG-friendly equipment is more likely to come from the replacement of older equipment than growth of capital expenditures. At the end of the first quarter, RPC's cash balance was $85.4 million, and we remain debt-free. I'd like to thank you all for joining us for RPC's conference call this morning.\nAnd at this time, we'll open up the lines for your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question comes from the line of Stephen Gengaro with Stifel."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "Thanks. Good morning gentlemen."
+    },
+    {
+      "speaker": "Richard A. Hubbell",
+      "speech": "Hi, Stephen."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "Two things, if you don't mind. One is, do you mind giving just the revenue breakdown for the different segments? And then just as a follow-on to that, you talked about the five fleets that are -- were utilized in the first quarter at a high level and the six deployed fleet. And you made some commentaries on pricing. Are you thinking that we're starting to get some pricing?\nI mean you mentioned additional capex needed to upgrade assets at a pretty high level. I'm just trying to get a sense for the pricing trajectory we could see as we go through the year, assuming this kind of gradual activity growth in the U.S. market."
+    },
+    {
+      "speaker": "Jim Landers",
+      "speech": "Sure. Stephen, this is Jim. I'll start with the revenue breakdown. For the first quarter of 2021, our service lines generated the following percentage of revenue -- percentage of consolidated revenue: so pressure pumping is our largest, that was 41% of revenue; Thru Tubing Solutions, our downhole tools and motors business, was number two at 30.9% of consolidated revenue; coiled tubing was number three at 8.1% of consolidated revenue; nitrogen was number four at 6.1% of consolidated revenue; and our rental tools service line, which is in support, was 3.3% of consolidated revenues for the first quarter."
+    },
+    {
+      "speaker": "Ben M. Palmer",
+      "speech": "And with respect to pricing, great question -- or obviously, appropriate question. I would say that during the first quarter, we saw -- we had the opportunity, and we were able to pass along some of the cost increases that we were incurring. So from a net pricing improvement perspective, I would say that's still -- we're still waiting to see that. We -- it is still very competitive.\nWe obviously were able to get our fleets highly utilized. We have a process in place within pressure pumping in the company overall to -- we want to remain very pricing-disciplined. So the fact that we had high utilization indicates that we were achieving the pricing -- minimum pricing that we were targeting. So that's a good thing. Some of the increase in revenue, again, though was due to price -- I mean, to pricing increases to cover cost increases.\nSo all of that didn't fall completely into our incrementals. But we're very pleased with the level of activity and the improvements and what that tends to portend from this point forward. But I will continue to emphasize that it is still very competitive and -- but our operational folks and everybody are working really hard to identify new opportunities and create new tools and techniques to generate some incremental demand. And I think our revenue increases reflect that and we are hopeful.\nWe pointed out a couple of items in the press release here that explain some of the sequential differences. There were a few other items that impacted the quarter that we haven't called out specifically. We don't typically try to do that. We try to explain obvious differences from period to period, but there are a number of other things that negatively impacted the quarter that may or may not happen in the following quarters. So like I said, we're not calling those out specifically. But we're pleased with the trajectory and the improvement that we saw overall from the fourth quarter to the first."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "If I could slide one other one in that's connected. When you think about -- and I know it's been hard because the movements have been violent and the utilization has been on the lower side in the part of 2020. But how do you think about incrementals going forward? Do you think they'll normalize back toward historical levels now? Or do you think that they're still kind of choppy as things unfold here?"
+    },
+    {
+      "speaker": "Jim Landers",
+      "speech": "Stephen, this is Jim. We actually -- I'll go on record saying that incrementals ought to normalize. We don't have anything that we know of that's going to be noisy in the quarters. And the one offset to that would be that some revenue increase may come from just passing along cost increases for things like proppant, things like that. But other than that, we think incrementals should go back to a more traditional set of metrics for RPC."
+    },
+    {
+      "speaker": "Ben M. Palmer",
+      "speech": "And let me add on that store, I think to emphasize, I think the pricing discipline is what will be required to generate those normal incrementals. Someone could go out and just try to be busy and price aggressively and maybe generate some more utilization and revenue increase, but they're not going to generate the incrementals. So we're going to try to remain -- we are very focused on trying to remain pricing-disciplined. We're much more interested in profitable revenue growth, not on growth for growth's sake."
+    },
+    {
+      "speaker": "Stephen Gengaro",
+      "speech": "Great. That's very helpful color. Thank you gentlemen."
+    },
+    {
+      "speaker": "Ben M. Palmer",
+      "speech": "Thanks, Stephen."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And at this time, there are no further questions. I would like to turn the call back to Mr. Jim Landers for any closing remarks."
+    },
+    {
+      "speaker": "Jim Landers",
+      "speech": "Thank you, Phyllis. Thanks to everybody who called in to listen this morning. We appreciate it. We'll talk to you soon, and hope you have a good day. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 20 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Jim Landers--Vice President Corporate Services",
+    "Richard A. Hubbell--President and Chief Executive Officer",
+    "Ben M. Palmer--Vice President, Chief Financial Officer, Treasurer and Corporate Secretary",
+    "Stephen Gengaro--Stifel -- Analyst"
+  ]
+}

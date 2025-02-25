@@ -1,0 +1,289 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning and welcome to the Lazard's First Quarter 2021 Earnings Conference Call. This call is being recorded. [Operator Instructions]\nAt this time, I would to turn the call over to Alexandra Deignan, Lazard's Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Alexandra Deignan",
+      "speech": "Good morning and welcome to Lazard's earnings call for the first quarter of 2021. I am Alexandra Deignan, the company's Head of Investor Relations and Corporate Sustainability. In addition to today's audio comments, we posted our earnings release and an investor presentation, which you can access on our website. A replay of this call will also be available on our website later today.\nBefore we begin, let me remind you that we may make forward-looking statements about our business and performance. There are important factors that could cause our actual results, level of activity, performance or achievements to differ materially from those expressed or implied by the forward-looking statements, including, but not limited to, those factors discussed in the company's SEC filings, which you can access on our website. Lazard assumes no responsibility for the accuracy or completeness of these forward-looking statements and assumes no duty to update these forward-looking statements.\nToday's discussion also includes certain non-GAAP financial measures that we believe are meaningful when evaluating the company's performance. A reconciliation of these non-GAAP financial measures to the comparable GAAP measures is provided in our earnings release and investor presentation.\nHosting our call today are Kenneth Jacobs, Lazard's Chairman and Chief Executive Officer; and Evan Russo, Chief Financial Officer. Evan will start the discussion with an overview of our financial results, then Ken will provide his perspective on the outlook for our business. After that, we'll open the call to questions.\nI will now turn the call over to Evan."
+    },
+    {
+      "speaker": "Evan L. Russo",
+      "speech": "Good morning. Today, we reported a 15% increase in operating revenue for the first quarter with strong momentum in both Financial Advisory and Asset Management. In Financial Advisory, first quarter revenue of $317 million increased 8% from last year's period, reflecting broad-based activity across the business. Our volume of publicly announced M&A transactions is up significantly from last year's first quarter, with particularly strong activity in the $1 billion to $10 billion range, as well as in Europe. The pace of new restructurings has moderated compared to last year, but we are experiencing increased activity in Europe as we expected.\nOur Capital Advisory business continues to grow, both on a stand-alone basis, advising clients on capital structure, shareholder insights, ESG and capital raising, and as is important component of our M&A and strategic advisory work. Our global private capital franchise continues to be in high demand, serving financial sponsors with new fundraising and innovative solutions in the expanding market for secondary transactions.\nIn Asset Management, first quarter operating revenue of $328 million increased 22% from last year's period. This reflected management fees on a larger base of assets under management, as well as strong incentive fees, primarily from a European fixed income strategy and several alternative and local equity products. As of March 31, we reported AUM at a record -- at a quarter end record level of $265 billion, 37% higher than last year's period and 2% higher on a sequential basis.\nAverage AUM for the first quarter also reached a record high of $261 billion, 18% higher than a year ago, and 6% higher on a sequential basis. As of April 23, AUM increased to approximately $274 billion, driven primarily by market appreciation of $6.7 billion, positive foreign exchange movement of $2.7 billion and net outflows of $0.2 billion.\nDuring the first quarter, $1.7 billion in net outflows were driven primarily by the emerging markets and equity platform. However, we achieved net inflows in a number of strategies, led by convertibles, international and global equities. Gross inflows in the first quarter continue to be strong across our platforms, rising for the fifth consecutive quarter. Asset Management has a healthy pipeline of unfunded mandates, with growing demand for global and international equities, as well as quantitative and alternative strategies.\nWe continue to invest for growth across the firm. In Asset Management, we are investing in areas where we see high growth potential, including strategies focused on sustainability and ESG, quantitative investing and alternative and thematic strategies. We continue to launch funds and seed new strategies to meet investor demand. We are executing on our strategy to expand our platforms with roll ups of investment teams. Yesterday, we announced an expansion of our alternatives platform with the addition of a long/short team focused on the technology, media and telecom sector.\nIn Financial Advisory, we are focused on growth opportunities. We plan a significant number of senior hires this year, and we have been intensifying our coverage of private equity sponsors. Senior hires in our private capital and financial sponsor coverage teams in 2020 are already delivering increased contribution to our revenues in 2021.\nAt the corporate level, in February, we launched Lazard Growth Acquisition Corp I, a SPAC that raised $575 million. We see significant opportunities in the stock market and are focusing on sectors where we have competitive industry expertise and strong networks.\nNow turning to expenses. In the first quarter, we accrued compensation expense at a 59.5% adjusted compensation ratio compared to 60% in the first quarter of last year. Non-compensation expenses were 9% lower than the same period last year, reflecting continued lower travel and business development costs. Our adjusted non-compensation ratio for the first quarter was 15.8% compared to 20% in the first quarter of last year.\nRegarding taxes. Our effective tax rate in the first quarter, as adjusted, was 28.6%, in line with last year's first quarter. We expect this year's annual effective tax rate to be in the mid-20% range.\nWe continue to generate strong cash flow, which supports return of capital to shareholders. In the first quarter, we returned $237 million, including $49 million in dividends, and $123 million in share repurchases. During the first quarter, we bought back 2.9 million shares of our common stock at an average price of $42.30 per share. These repurchases effectively offset potential dilution from our 2020 year-end equity grants.\nYesterday, we declared a quarterly dividend on our common stock of $0.47 per share. And going forward, we expect to use excess cash flow toward increased share repurchases. Yesterday, our Board of Directors authorized a $300 million increase in our share repurchase authorization. Our total outstanding share repurchase and authorization is now $439 million.\nTo summarize, our quarterly results underscore the strength and stability of our model and the continued high performance of our businesses.\nKen will now provide perspective on our outlook."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Thanks, Evan. The global macroeconomic environment continues to improve, creating tailwinds for both our businesses. Unprecedented fiscal and monetary stimulus and major economies is laying the foundation for strong economic growth globally in 2021 and into 2022. While uncertainty still exists around the course of the pandemic, the vaccine rollout in the developed world is raising expectations that the health crisis can be contained. This outlook, combined with recovery in the real economy, and improving growth forecasts is boosting confidence among CEOs, boards and investors.\nThe forces driving global strategic activity remain in place. Technology-driven disruption continues to be a catalyst for M&A across industries. The global drive to reduce carbon emissions is an emerging catalyst for strategic activity. Shareholder activism is increasing after a brief pause in 2020. Sectors that were battered by the pandemic are recovering and the proliferation of SPACs, alongside strategic and private capitalist added substantial dry powder to the M&A market. This is as good as M&A environment as we've ever seen and we're as active as we've ever been.\nOur Financial Advisory business is in an excellent competitive position, and we expect our pace of transaction closings to increase over the course of the next few quarters. In Asset Management, low interest rates continue to drive demand for risk assets, including equities and corporate and emerging market debt, as well as alternative investments. Institutional investors continue to seek sources of differentiated alpha [Phonetic], including ESG, thematic and alternative strategies.\nOur Asset Management business is well-positioned in this environment, with a diverse array of innovative strategies and solutions for a sophisticated client base. We entered the second quarter with a record level of assets under management and market conditions that are increasingly favorable for global active management. As the health crisis begins to recede and beaten down sectors recover, we are seeing a greater emphasis on valuation-based investing. Overall, we remain focused on serving our clients well, while we manage the firm for profitable growth and shareholder value over the long run.\nIn closing, I want to thank all my Lazard colleagues for their extraordinary efforts during this period of accelerating activity. Even as many of you work remotely in challenging conditions, you are making a real impact. As we return to the office in greater numbers, the lesson learned -- the lessons learned during the past year will help us create a more flexible workplace that benefits the firm, and all of our stakeholders.\nNow, let's open the call to questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] We will now take our first question from Manan Gosalia from Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Manan Gosalia",
+      "speech": "Hi, good morning."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Hi."
+    },
+    {
+      "speaker": "Manan Gosalia",
+      "speech": "Hey. I mean, it looks like M&A activity is picking up nicely in Europe. Can you give us some more color on what you're seeing there? And if you're seeing more interest in larger deals than you were seeing before? And, maybe also how sustainable you think that level of activity is?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Sure. So I think you're right, that's what we're seeing as well. We're starting to see a real pickup of activity in Europe. It's lagging in the U.S. a little bit, obviously, because the health crisis has probably delayed things a bit, but we feel a nice -- we're looking at a nice increase in activity levels across our franchise in Europe.\nThe financial sponsor sector is probably the first area to recover. We're seeing more strategic activity, more sell sides by some of the larger companies and those are, obviously, attracting some strategic activity as well. So it's improving. Also the restructuring market has picked up as well in Europe over the course of the next several months or so, so we may get the benefit of both."
+    },
+    {
+      "speaker": "Manan Gosalia",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question from Richard Ramsden from Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Hi, Richard."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Hey, good morning. So obviously, a very strong environment for M&A, broadly, it looks like Q1 is going to be a record for announced M&A. So I thought I'd ask a question about risks to the run rate. And I guess a couple of things. The first is obviously, corporate tax reform does seem to be gaining momentum in the U.S., but I assume it's going to be a global phenomena. But secondly, the market is now pricing in, I think, a series of interest rate hikes starting in 2022, accelerating into 2023. So could you talk about both of those and whether or not you think that those could slow the rate of activity as we progress through the course of the year? Thanks a lot."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Sure. Great question. So look, we tend to look at it in simple terms, the M&A market is a function of availability of financing, valuations, confidence level among CEOs, boards, investors, and then very importantly, what are the catalysts. Today, and, frankly, financing is available as ever, I think as you get higher interest rates, it really depends on whether or not that chokes off financing. If you're in a reasonably strong economic environment, unlikely to be the case, so that's something to keep an eye on. But I think, the economic environment probably remains strong through '22. So that probably means that we're in a reasonable financing environment then.\nEquity valuations, look, they're a little over the map, there are sectors that are heated, but then you're seeing more equity being used in those sectors. There are others that have been behind and cash is still a very effective way to make deals work. Confidence levels are really improving with the improvement in the economic outlook. And that should be sustainable for a while.\nAnd then the other piece that I think is a real driver of M&A activity is the catalyst. And here we've got a couple now. One has been in place now for the last year or so which is this real technological change across every industry, and the need to really improve competitive positions through M&A to adjust for that.\nAnd the second, which is a newer one which we're starting to see quite a bit of activity around, especially in Europe, is around the move toward a carbon-free world, and the adjustments that need to take place around that, and investments in core businesses or new businesses to better position. So I think those are going to be fundamentally strong factors.\nObviously, if we start to see interest rates rise and markets close, that's something to keep an eye on. But for the moment, it feels pretty good. And the Fed and the central banks across the world are very focused on keeping those markets open.\nTax rates, look, it's a little early to know. I think, by and large, the corporate tax rate probably ends up going up a bit. But that doesn't look like it's going to have much impact on activity levels. Personal tax rates, a little more uncertain is that what happens there. And obviously big moving capital gains could have some shorter term or medium term impact on the market. And then the global tax rate, that's probably much further out because that probably -- at least as I understand it, requires renegotiation of tax treaties. So it's not probably something that we start to feel the impact on in 2021, or even to 2022."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Okay. Thanks very much. That's very helpful."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question from Gautam Sawant from Credit Suisse. Please go ahead."
+    },
+    {
+      "speaker": "Gautam Sawant",
+      "speech": "Good morning. Can you please expand on the longer term strategy to increase market share with sponsors?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Sure. Look, this is an area where I think we were under-represented. Over the course of the last several years, it was a white space for us, but not a complete white space. We've had activity there. But we've, I think, improved our coverage and focused effort there. Over the course of the last year, we've made some hires, last year on that. And we continue doing that into this year. We focused on coverage, and it's an area where I think we've got some real ability to improve market share."
+    },
+    {
+      "speaker": "Gautam Sawant",
+      "speech": "Thank you for taking my question."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question from Brennan Hawken from UBS. Please go ahead."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Hi, Brennan."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Good morning. Thanks for taking my questions. So the Advisory revenue came in softer than we were looking for, and I know that a lot of the commentary is around the strength in the environment. So I'm just hoping you could maybe give a little color on what the disconnect is? Was it -- I know it's a chunky business, restructuring is a big part of a lot of our expectations. I think that -- and we have had visibility into that with the public data. So do we need to dial back the restructuring expectations? Or was the 1Q -- the softer than expected 1Q Advisory revenue more about timing rather than anything? If you could maybe give a little color, that'd be great."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Yeah, let me make it simple for you. Look, this is a business where quarter-by-quarter is a little hard to judge, as you can see from quarters in the past, and I expect will be the case in quarters in the future. That said, let me make it simple. Activity level -- M&A is -- this is as good a market in M&A as we and, I think, our competitors have seen for a long time. The fundraising market is really quite good as well for our private fundraising business. In terms of activity levels, this is as busy as I can remember. And in terms of completions, we expect them to accelerate over the course of the year. To make it even easier, I would expect that the second quarter is going to be better than the first and the second half will be better than the first half. This should be a good year."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Okay. Thanks for that..."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "If you want to follow up on something else, feel free."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Sure. Well, I mean, I guess what I would ask is on the restructuring side. In the past, this is the -- we can always watch the public data on the M&A. So that's a little bit easier to track. But you had a lot of comments about how Europe was starting to come on with restructuring. And I'm kind of curious whether or not you think that that is -- that outlook remains robust or are we starting to see -- I know a lot of investors that have started to get excited about Lazard shares here recently. It's predicated on strength in Europe, Europe, beginning their recovery, the rollout of the vaccine seems lagged in the U.S.. So, that -- a lot of that recovery is still on to come. Is that going to take a little away from the European restructuring? Not that that's a bad thing, you're just trading M&A for restructuring. But how has that dynamic worked out? And is the restructuring outlook in Europe still as robust as you thought it was toward the end of last year?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Okay. So let's talk about restructuring, and then I'll move on to Europe. U.S. restructuring will be down from last year, but will still be at elevated levels in an environment where you wouldn't expect that. But that's our anticipation. In terms of Europe, the restructuring market is improving, at the same time that the M&A market is improving. I would take the M&A market improvement any day over an improvement in a restructuring market. And I think this is a nice combination to have. I would expect that Europe is going to do better this year than it did last year across the board."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "And that European comment, is that on the M&A front specifically, or in terms of broadly?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "It's a combination. Well, I would say, I would expect M&A is going to do better. And I would expect the restructuring business is going to do better. And I would expect that the business as a whole will do better."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "That certainly is clear. Thank you, Ken."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "One more, if I might."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "The -- so you guys had good performance fees in your Asset Management business, a lot of -- which is great. Right? It's certainly money in the pocket, EPS and cash. But a lot of investors will adjust for that, because it's so lumpy, and not as predictable. And so when you look at the core fee rate in that business, it was weaker than we've seen. And certainly a lot of asset manager peers, the public peers that you guys have, have shown a more constructive fee rate dynamic, given some of the beta dynamics that we've seen. The emerging markets have done well, global equity markets really quite strong with some weakness in fixed income.\nCan you maybe help us unpack a little bit of how your fee rate this quarter diverged from that? And is there any noise in there or are you guys just seeing some different cross-currents, given the idiosyncratic makeup of your book of business?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Great question. So let's start with the performance fees. I mean, look, I think performance fees at this time of year in the places where we've had them is a good thing. It shows a nice pattern of performance in areas where we'd like to have them. So that I view as an unambiguous positive. Second is, there's a -- over time, there's going to be a little bit of a trade-off between management fee and performance fee. I mean, everybody is negotiating new fee arrangements around that. So I wouldn't be surprised if we see a little bit more of that in the future, that would again be probably a good thing.\nIn terms of the expectation versus where basis points come in, I mean, look, I think it's one basis points or something. So it's a little noise in there quarter-to-quarter. That said, again, if you look at where we've had our outflows this quarter, it's been in our emerging market platform, which obviously is a higher fee platform. And the inflows are in areas which are a little bit low -- or which are down, so probably lower fee areas. I think in the long run, this will just balance itself out quarter-to-quarter, you see the kind of effect you have here.\nOverall, I think the thing that we're pretty focused on at the moment is that the gross flows have had five consecutive quarters of increase, which is quite important. And then second is we're getting a lot of traction, as we've talked about in the past, on this roll up of platforms onto our alternative -- into our alternative business and into other parts of the Asset Management business. This is something which I think is pretty exciting at the moment for us."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Okay. So as far as unpacking the fee rate dynamic, to paraphrase, the flows were actually -- the beta dynamic were more than offset by some flow mixing that you're seeing inside the business."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Yeah. And look, I mean, there's going to be pressure on fees and active management across the board for us and all of our competitors for the foreseeable future. That's just the dynamic of the business right now. That said, I think, we've experienced a lot of pressure from outflows in one particular strategy that was at a particularly high fee rate within the -- within our mix of business. And we're replacing it, as we've said, with strategies which tend to come in at a bit lower fee rate, that dynamic is -- has been in play now for almost two and a half years. Hopefully, we're getting to the end of it."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Great. Thanks for the patience with all the follow-ups."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Oh, no. It's fine. Those are all good questions. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question from Devin Ryan from JMP Securities. Please go ahead."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Great. Good morning, everyone."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Hey, Devin."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Hey, maybe to shift gears a little bit on the questioning and just talk about expenses for a moment here. So clearly, non-compensation costs remain very low. And I know there's probably a little bit of seasonality in there. And then there's some other -- just noise as there always is on a quarterly basis. But I'd love to just think about some of the parameters moving forward for non-compensation, just as obviously Europe starts to reopen behind the U.S. and more broadly reopening plans occur. And also -- but definitely your business activity levels pick up, because I -- just trying to think through the moving parts here because clearly, I think given your Advisory commentary, a lower non-compensation run rate relative to history would be pretty bullish for margins. Just want to think that through a little bit."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Sure. Evan, you want to take that?"
+    },
+    {
+      "speaker": "Evan L. Russo",
+      "speech": "Absolutely. Hey, Devin, how are you? Let's talk a little bit non-comp generally. In the quarter, we've got obviously lower non-comp, as we called out, related to marketing and business development, as you can imagine, travel in Q1, similar to the end of last year, was much lower than it was in the previous year. So travel was down approximately $10 million on a year-over-year basis, offset a little bit by some of the increases we've seen in technology and sort of the other investments we've been making in the non-comp line.\nWhen you kind of look out, if you kind of try to think about activity levels and the impact that that's going to have on non-comp going through the year, look, we would expect to start to see some of our T&E business development expenses start to move up just a little bit, probably not that much in Q2. But we're starting to see a little bit more travel. We're hearing more from clients. We're hearing more from bankers going back to the office, wanting to have more meetings in-person. So that's starting to happen, I would say, still at a pretty low level for Q2. I'd expect the back half of the year we'll start to see that ramp up a little bit.\nBut when I think out longer term, and I think when I say the back half of the year, the back half of the year I think we'll start to see it grow, a lot of the costs associated with T&E is global travel, international travel and things like that, which I still think are going to be probably still pretty slow for the rest of the year, given the global environment, not just the U.S. environment.\nWhen you think out sort of the next year or so, as we've said before, we'd expect to see non-compensation benefits associated with sort of lower absolute marketing and business development costs. Because I don't think we ever fully get back to the same pre-pandemic level of spend that we had in the sort of T&E market. I think we'll probably get back -- I think our best estimate now or, I guess, best guess at this point is probably we'll get to like 70% to 80%. And mostly that is driven by the fact that clients and bankers and everybody else around the sort of system of transactions has learned to do things differently. There's so much more efficiency built into the system. Today, clients are just more comfortable.\nSo it doesn't mean there's not going to be a lot more travel, a lot more sort of focus, even when transactions come back, just the way in which we transact will likely mean less in-person than we had before. So if you're doing four or five meetings, you're probably going to do three or four instead for the same type of transaction. So I think there will be sort of benefits. So when you think about this year, it's sort of a seasonal low in Q1, going to pick up as we start to get to the middle of the year, and probably ramp a little bit higher when we get to Q3 and Q4 from a travel basis."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "All right, great. All very helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question from Steven Chubak from Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Hey, Steven."
+    },
+    {
+      "speaker": "Steven Chubak",
+      "speech": "Hi, good morning. Good Morning. So I just wanted to ask a question on just the Asset Management strategy, just basically the size and diversity of your backlog at the moment. Do you think you're getting closer to more consistent quarterly net inflows? And can you maybe just speak to your appetite for additional lift outs? Ken, that sounds like an area you're pretty excited about and how much AUM is coming with the new TMT team?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Okay. So let's start with the strategy and then come back to the flows because they're somewhat related. What we're seeing, look, there is -- what we see with our Asset Management business is, there's real benefits to the scale of our business right now. That is, we have a global platform, great distribution, on the institutional side, improving distribution across our retail platform, strong systems around compliance, good IT systems and such.\nSo when we look -- and also of a scale where the kind of additions of these teams to our platform makes a difference to our franchise, whereas if, for $1 trillion, $2 trillion asset manager, these kind of additions probably wouldn't move the needle. And for firms that are smaller than us, I'm not sure they have this scale in terms of distribution or the ability, so around platform, whether it's through compliance or technology and such to accommodate the addition of teams like this. So we're a very good home for -- or good -- very good place for this kind of strategy.\nThe Asset Management business has -- the changes in Asset Management have caused a real disarray across the industry, as we all know. But in particular, for smaller firms, it's made life much tougher, because it's harder to get across the finish line on compliance and on IT and all the other things and it also is increasingly difficult as a result of that to get inflows. So there's a lot of disarray with the smaller teams that are out there, whether it's among hedge funds or smaller asset managers.\nSo the ability to attract teams like that today on good terms where there's very little goodwill paid or attractive economic terms, both for us and for those teams, is quite high at the moment, and we see a real ability to roll up those teams, and we're getting better at it. And many times they come with assets under management, and then we're able to accelerate it, which makes it particularly attractive.\nSo that's the strategy. We're now five or six quarters into it, and we expect this to continue for us going forward. And the key, of course, is launching these strategies successfully, getting assets and then such, so that's the approach.\nAs far as the point at which we go from this sustained period of outflows, I mean, they haven't been awful, but it's obviously been several quarters to inflows. I'm hoping we're gearing near to the inflection point. We've said that over the course of the next several months or so, we expect to -- for that to improve.\nGross inflows, as you can see, have been really improving over the last five or six quarters. And on top of that, I think we're starting to see the bottom here on some of the outflows in some of the -- in the strategy that's been most at risk, in part because of performance, in part because of just the size and the environment shifting for the business. So that's kind of where we are at the moment."
+    },
+    {
+      "speaker": "Steven Chubak",
+      "speech": "That's great color, Ken. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question from Jeff Harte from Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Jeffery Harte",
+      "speech": "Hey. Good morning, guys. I wanted to touch a bit on capital, as most of the income statements thus been covered. Buyback was higher than at least we were expecting this quarter. But I still look at the balance sheet, it's just having an awful lot of cash on it and if the environment is getting better and better, it would seem that cash balance is going to grow. I mean, how are you thinking about more of a sustained, meaningful increase in the buyback? Are you open to it? How much? Or is it something you're going to wait for the revenues to show up? Can you talk a bit about that?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Evan, you want to take that?"
+    },
+    {
+      "speaker": "Evan L. Russo",
+      "speech": "Absolutely. Hey, Jeff. With regards to share repurchases, we said we bought back 2.9 million shares in Q1 of this year, after really stopping to do share repurchases for most of the end of 2020 for the sake of conserving cash. And you're right, we went into year end with a higher level of cash because of the strengthening of the business. As we said, we were going to offset dilution, bought back enough shares to offset dilution, more than offset that in Q1. And we would expect to start using some of that excess cash over the next quarter or two to try to get back down to some more normalized level.\nSo I think you'd expect to see us continue doing share repurchases in Q2 and Q3 to kind of offset that, again, assuming the business continues to strengthen, the environment feels pretty good. I think as our confidence level of coming out of the pandemic continues, we're going to work down the excess cash we have on the balance sheet."
+    },
+    {
+      "speaker": "Jeffery Harte",
+      "speech": "You mentioned cash to a more normalized level. Can you give us any kind of feel what level you think that is?"
+    },
+    {
+      "speaker": "Evan L. Russo",
+      "speech": "Yeah, it's hard to say quarter-to-quarter. I mean, this is -- if you kind of look at last year, kind of look back to where we've been over the last two or three Q1s, that sort of the normalized level, I'd say, is sort of what we're seeing here. So we're probably a little bit higher, it's hard to give an exact number at any point in time. But, if I said about $100 million, maybe a little bit more than that, it certainly feels like it's the right level at this point in time that we'll try to put to work in the coming quarter."
+    },
+    {
+      "speaker": "Jeffery Harte",
+      "speech": "Okay, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question from Jim Mitchell from Seaport Global Securities. Please go ahead."
+    },
+    {
+      "speaker": "James Mitchell",
+      "speech": "Hey, good morning. I think in the prepared remarks, Evan mentioned that you guys were looking to make a significant number of hires in Advisory. So can you maybe talk about, I guess, where that investment is most focused and if that has any implications for your ability to get operating leverage on comp at least as they ramp up? Is it significant enough that it puts a little pressure on the comp ratio or how do we think about that investment spend?"
+    },
+    {
+      "speaker": "Kenneth M. Jacobs",
+      "speech": "Look, big picture, we see a lot of opportunity for growth in our business. There's quite a fair -- there are a fair number of places where we would like to fill white space. And also some new business lines that we see as complementing our core business, particularly on the Advisory side at the moment. And so we've got a pipeline of a couple of hires -- several senior hires, that we expect to be able to complete over the course of the next several months or so. And then, my guess is this is going to accelerate into 2022.\nLook, the impact on comp ratio is always a function of what's going on in the business in the current year, I think, as revenues accelerate. It's obviously diminished if they don't, or in weaker environments, obviously, it has a bigger impact. But this is a pretty good environment and we should be able to absorb it well. At the more junior ranks, I mean, we, like everyone else, are trying to find a way to deal with the activity levels, these very high activity levels and real demands on our staffing and we're doing everything we can to improve that at the moment."
+    },
+    {
+      "speaker": "James Mitchell",
+      "speech": "Okay, thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 37 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Alexandra Deignan--Head of Investor Relations and Corporate Sustainability",
+    "Evan L. Russo--Chief Financial Officer",
+    "Kenneth M. Jacobs--Chairman and Chief Executive Officer",
+    "Manan Gosalia--Morgan Stanley -- Analyst",
+    "Richard Ramsden--Goldman Sachs -- Analyst",
+    "Gautam Sawant--Credit Suisse -- Analyst",
+    "Brennan Hawken--UBS -- Analyst",
+    "Devin Ryan--JMP Securities -- Analyst",
+    "Steven Chubak--Wolfe Research -- Analyst",
+    "Jeffery Harte--Piper Sandler -- Analyst",
+    "James Mitchell--Seaport Global Securities -- Analyst"
+  ]
+}

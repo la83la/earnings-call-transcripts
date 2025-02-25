@@ -1,0 +1,501 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the First Commonwealth Financial Corporation Third Quarter 2020 Earnings Call. [Operator Instructions] Please note this event is being recorded.\nI would now like to turn the conference over to Ryan Thomas. Please go ahead."
+    },
+    {
+      "speaker": "Ryan M. Thomas",
+      "speech": "Thank you, Jason, and good afternoon, everyone. Thank you for joining us today to discuss First Commonwealth Financial Corporation's third quarter financial results. Participating on today's call will be Mike Price, President and CEO; Jim Reske, Chief Financial Officer; Brian Karrip, Chief Credit Officer; and Jane Grebenc, our Bank President and Chief Revenue Officer.\nAs a reminder, a copy of today's earnings release can be accessed by logging on to fcbanking.com and selecting the Investor Relations link at the top of the page. We have also included a slide presentation on our Investor Relations website with supplemental financial information that will be referenced throughout today's call.\nBefore we begin, I need to caution listeners that this call will contain forward-looking statements. Please refer to our forward-looking statements disclaimer on Page 2 of the slide presentation for a list of descriptions and -- risks and uncertainties that could cause actual results to differ materially from those reflected in the forward-looking statements.\nToday's call will also include non-GAAP financial measures. Non-GAAP financial measures should be viewed in addition to and not as an alternative for our reported results prepared in accordance with GAAP. A reconciliation of these measures can be found in the Appendix of today's slide presentation.\nWith that, I will turn the call over to Mike."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey, thanks, Ryan. The team and I are pleased with the quarter and we're enjoying playing some offense in our consumer lending businesses. Over the last several years, we've made significant investments in our digital capacity, our regional business model to spur growth, our fee businesses and a stronger consumer lending platform.\nThe fruits of these investments are apparent in our third quarter results. With several recent efforts like Project Thrive, we have made these investments while maintaining positive operating leverage and improving our efficiency.\nThird quarter core earnings per share of $0.24 was consistent with last quarter, even as we further increased loan loss reserves. The core efficiency ratio improved to a record low of 54.45% and the core pre-tax pre-provision ROAA strengthened to 1.74%. Core pre-tax pre-provision net income was $41.1 million, up some 14% over the second quarter.\nThe Company achieved record quarterly fee income of $26.7 million, an increase of $4.9 million from the previous quarter. This more than offset a $4.4 million increase in provision expense to $11.2 million. Several important themes continue to unfold, namely, first in the third quarter, credit was solid and we continue to build loan loss reserves to recognize the impact of the pandemic. Excluding PPP balances, the allowance for loan losses as a percentage of total loans increased 10 basis points to 1.38%.\nIncluding previously disclosed day one CECL adjustment, the coverage ratio excluding PPP loans would increase to 1.59%, as seen on Page 10 of the earnings supplement. The reserve build was driven by several qualitative factors in our incurred loss model, which Brian will cover during his remarks. Our non-performing loans fell from $56 million at the end of the second quarter to $49.7 million at the end of the third quarter.\nOn Page 13 of the earnings supplement, COVID-19 deferrals totaled 2.68%, as of July 24th. Those deferrals fell to 17 basis points as of October 23rd or last Friday. Similarly, on Page 12 of the earnings supplement, deferrals on the commercial portfolios most impacted by COVID declined again from 3.4% on July 24th to 14 basis points as of last Friday. I believe we are well positioned at this stage of the pandemic with a strong balance sheet that can weather uncertainty.\nNext, third quarter fee income as a percentage of revenue was 28.8%. We are particularly proud of this number as it reflects years of focus and investment, as we've diversified our revenue stream. Our third quarter fee income was driven by strength across multiple business lines.\nFirst, interchange income was $6.4 million, up roughly $500,000 over the second quarter. The team's retention of households and execution through its five smaller acquisitions has really borne through here. Mortgage gain on sale income was $6.4 million with a record quarter of $240 million in production. As an aside, 40% of these loans were not sold and remain on our balance sheet. Again, we de novo-ed our way into this business, just over five years ago.\nDespite a lackluster industrywide small business demand, SBA gain on sale income was $1.4 million, which also contributed to fee income. Despite our smaller size in some of our larger metropolitan markets in which we compete, our 2020 SBA origination performance now ranks us number two in Western Pennsylvania and number four in Northern Ohio. Also on the fee income front, trust revenue totaled a record $2.6 million as well.\nThe third theme is loans. Loans grew $33 million or 2% on a linked-quarter basis, as the consumer lending business led the way. In commercial lending, however, utilization of lines credit fell some $55 million from 38% at the end of June to 34% at the end of September, as business' investment and working capital utilization has stalled. Our mortgage branch based consumer and indirect lending businesses had been robust, even as underwriting standards have been tightened.\nFourth, the net interest margin contracted about 18 basis points to 3.11% in the third quarter, despite respectable loan growth and resilient loan spreads, particularly on the consumer side. Net interest income, however, was virtually unchanged, falling only $300,000 to $66.7 million. Excess liquidity and negative replacement yields on loans were the primary drivers of the decrease in NIM. Jim will provide more color here.\nFifth, core non-interest expenses were down $63,000 for the quarter to $52.3 million even -- $52.3 million, even as we continue to invest in our digital platform and tools for our client. Importantly, the team launched a new digital platform in mid-September called Banno, which replaced both our online banking and mobile banking platforms.\nThe team also completed the conversion of our larger business customers to our new Treasury Management System. We also added the person-to-person payment option of Zelle. These launches impacted well over 200,000 consumers and small businesses and by all accounts went smoothly.\nAnd with that, I'll turn it over to Jim."
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Thanks, Mike. This is a very solid quarter for us. Core earnings per share matched last quarter's results even with $6.9 million of reserve build. And we hit consensus estimates even without any PPP forgiveness. This is a significant point that's easy to overlook.\nWhile our provision expense of $11.2 million came remarkably close to the consensus expectation of $11.1 million, our spread income came in roughly $3.5 million lower than consensus expectations and yet we still hit consensus.\nTo be completely fair, this differential in spread income is likely the result of our own previous guidance that PPP forgiveness would take place in the third and fourth quarter of this year, and as such, it would have been perfectly reasonable to expect third quarter net interest income to benefit from the acceleration of PPP premium amortization.\nIn reality, we had no such PPP forgiveness income in the third quarter. Instead, strong fee income made up for the lack of PPP forgiveness income. At this point, we do not expect any significant PPP forgiveness until the first and second quarter of next year. Our core earnings figures excluded two non-recurring expense items from our results; $3.3 million of expense associated with a voluntary early retirement program and $2.5 million of expense associated with the branch consolidation effort, both of which have been previously disclosed.\nThese efforts combined with other expense initiatives are expected to help keep non-interest expense flat in 2021, not only by allowing us to continue the reduction in total salary expense that we have benefited from in 2020, due to our hiring freeze, but also by absorbing increases in other expenses as we return to a more normal operating environment. Brian will provide commentary in a moment on credit, but I'd like to provide a little more color on a few things before turning it over to Brian.\nFirst, our stated NIM was 3.11%, but was affected by negative replacement yields; a shift in mix toward consumer loans; and most importantly, an average excess cash position during the quarter of approximately $343.3 million or about 4% of average earning assets. Consistent with prior disclosure, we calculate a core NIM, excluding the impact of PPP loans and excess liquidity of 3.28% in Q3.\nThe NIM should benefit in the near term from time deposit and other deposit repricing as well as some balance sheet management efforts designed to move excess customer funds off balance sheet, thereby reducing excess cash. These efforts are expected to help offset negative replacement yields and keep the core NIM relatively stable in the near-term. Over the course of next year, however, we currently expect the core NIM, ex-PPP to continue a path of modest contraction in the 3.20% to 3.30% range.\nSecond, Mike mentioned that our fee income of $26.9 million was very strong in Q3, up by nearly $5 million from last quarter. Because much of this was driven by mortgage, fee income is expected to seasonally adjust to approximately $24 million to $25 million in the fourth quarter.\nAnd finally, I know Mike already mentioned this, but if you look at Page 10 of the supplement, you will see graphically what we have verbally explained in prior quarters, that even though we delayed the adoption of CECL, the addition of our day one CECL number to our current incurred ALLL results in a reserve of $101.2 million and a reserve coverage ratio of 1.59%.\nI can add that reserve figure is not materially different from our internal parallel CECL runs as of September 30th. So even though facts and circumstances may change before we adopt CECL next quarter, not the least of which is the economic forecast, our cumulative reserve building in 2020 under the incurred model has left us in a very good position ahead of CECL adoption next quarter.\nAnd with that, I'll turn it over to Brian."
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Thank you, Jim, and good afternoon. It's good to be with you again. As outlined in our investor deck, credit quality was solid for the third quarter in spite of the uncertain economic environment. As expected, delinquencies ticked up modestly due to the run-off of stimulus and the reduction in payment release.\nWe are cautiously optimistic by the improvement in unemployment and the reopening of the economies in Western Pennsylvania and Ohio. We continue to be watchful of our deferral roll off reports to evaluate our borrowers as they resume full payment status.\nNet charge-offs for Q3 were $4.3 million, which includes approximately $1.2 million in consumer charge-offs. Net charge-offs annualized were 0.27%. Our NPLs improved approximately $6.3 million to $49.7 million, improving to 0.78% from 0.88% of total loans excluding PPP loans. This is the second consecutive quarter for us to report an improvement in NPLs.\nReserve coverage of NPLs rose to 177% from 145%, again excluding PPP loans. Similarly, our NPAs improved $6.7 million to 0.80% of total loan assets from 0.91%. We've conducted yet another loan-by-loan review of the higher risk portfolios and adjusted risk ratings as appropriate.\nOur proactive approach to risk ratings resulted in criticized loans increasing approximately $60 million, while classified loans increased modestly. These trends form the backdrop of our approach for loan loss reserve in the third quarter.\nAs shown in the slide deck, the provision for the quarter totaled $11.2 million, which resulted in a reserve build of $6.9 million under our incurred loss model. The allowance for loan loss as of September 30th totaled $88.3 million as compared to $81.4 million at June 30th. The reserve balance grew to 1.38% excluding PPP loans from 1.28%.\nLet me offer some color related to the reserve build for the quarter. Net charge-offs were $4.3 million. We have a slight increase in specific reserves of approximately $500,000. Our standard qualitative reserves increased approximately $900,000 quarter-over-quarter, reflecting a mix of economic conditions. Our COVID qualitative overlying reserve increased by $4.7 million for Q3 to $14.6 million.\nWe released approximately $1.9 million in consumer reserves due to improving deferral experience as well as improved economic conditions. We increased our high-risk portfolio reserves by approximately $6.6 million, largely due to increases in the overlay reserves for our hospitality and retail portfolios.\nThank you and now let me turn it over to Mike."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey, thanks Brian and Jim. And operator, we'll now take questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will begin the question-and-answer session. [Operator Instructions] First question comes from Steve Moss from B. Riley Securities. Please go ahead."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Good afternoon, guys."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey Steve."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "I guess starting off with the -- just on credit here. Obviously a nice decline on the deferrals. Just wondering, with the addition -- additional reserves for hospitality and retail I believe as well, what are the thoughts of possible redeferrals or kind of how are you thinking about possible credit formation in those books?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Brian?"
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "Well, if I understand your question, Steve. As the deferral, this is playing out how we thought it would play out. As these forbearances or deferrals or modifications roll through, we are spending the time to evaluate each credit on a name-by-name basis and oftentimes, it really starts with management. If we understand our borrowers, their commitment to the properties, we understand what they will do with it, we can do a thorough analysis and take a look at whether the credit needs to migrate from a pass rated to a special mention or on to a sub-standard. And so, as you roll off the deferrals, oftentimes that does necessitate a real meeting, an understanding of liquidity, of recourse and how we address each credit on a name-by-name basis. Did I answer your question?"
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Yes. And I guess just as you think about where things are progressing, what are you seeing for in your customer performance when it comes to hospitality and restaurants?"
+    },
+    {
+      "speaker": "Brian G. Karrip",
+      "speech": "That's a good question. So, we've dissected the portfolio in a number of different ways. We sliced it into business and college campus, leisure and resort style properties for our hotel book. We keep coming back to recurring themes, which is we are seeing continued improvement in that portfolio, although it is uneven and slow. We come back to the right people are supporting their properties.\nLet me give you some anecdotal evidence, I think it'll help. Occupancy -- average occupancy from 13 of our properties for August was 51%. That range from a low of 35% to a high of 79%. When we compare the same properties back to June, it was 29% and now we're up to 51%. We are seeing increasing occupancy.\nSimilarly, we are seeing an increase in ADR. And so as we think about these hotel properties, ADR is up to $111. That's an increase from roughly $90 in June. So anecdotally, we are seeing improvement. Our portfolio is getting an awful lot of internal scrutiny. When we went into this pandemic, we were about 63% LTV and we covered 154 basis points. And so it's worthy of ongoing monitoring and managing of the credit risk."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey, Steve, this is Mike. Just to add a little bit more color. When -- we're honored we really had combinations quickly upfront and then in the first deferral period, we made a credit decision. We made a commitment not to pick -- kick the can down the road irrespective of what might have happened with the government or other types of programs. And I think Brian and his team do a really good job of calling balls and strikes and getting the credit into the appropriate category of classified or watch and that's why you see a little movement in those categories this quarter. Is that helpful?"
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Yes, that's helpful for sure. And then in terms of your business activity and loan growth, you had modest positive loan growth from the consumer side of the business. Just kind of curious, it sounds like that will probably continue into this quarter? Kind of curious what you're seeing on the commercial side in terms of pipelines and business activity there?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes, the pipelines on the commercial side are a little shallow. I mean, the things that we're getting are really just through a lot of effort and better execution. That being said, in small business for example and I think this is more of execution and just our ground game is getting better and better, we're up about 33% in approved small business loans from the third -- through the third quarter of last year to this year and we also are seeing that kind of peak through our SBA lending.\nA lot of that is triage. We're doing line of credits that just might have some kind of systemic credit weakness in adding an SBA guarantee. But I just think, as I said in my opening remarks, we're seeing lower utilization because of working capital lines of credit and just not the same level of investment yet on the commercial side.\nOn the consumer side, we're seeing good activity. I mentioned mortgage, we're at a record in mortgage originations. Jane Grebenc, our Bank President just shared with me before the call that only 46% of ours are refis, because we still have a mortgage business that's growing organically.\nOn the consumer lending side, year-over-year through our branches, our applications were up 25% and online real estate applications are up 89%. I mentioned small business lending up 33% and indirect auto was up 29% year-over-year. So there's enough there on the consumer side that carried the day for us in the third quarter.\nAnd on the small business side and this is just the way it is in recessions in my lifetime, that volume or that -- those pipelines will be dampened for a season."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Okay, that's helpful. And then, I guess last question really and then I'll step back. In terms of -- you know you completed the repurchases and the texture I see, just kind of curious how you're thinking about the possibility of repurchases forward or other capital plan?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes, Jim?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yes, we have no further share purchase authorization right now. We are very pleased with the execution of the remaining portion of our previous authorization. We started that in the last week of September, when the -- all the bank stocks were down, we're able to retire those shares right around book value, which was very accretive. And so we're very pleased with how they came out.\nBut right now, there's no further authorization plan. We'll watch it closely though, because the bank is still quite profitable and we're still generating capital and it will depend on our projections for loan growth and how much capital -- internal capital generation we need to capitalize that further loan growth, and if there is excess capital that it would present an opportunity for further repurchases.\nSo we're very -- like I said, we're very pleased about how that program took place and we hope it was perceived as our confidence in our future prospects really taking shape."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "All right, thank you very much. That was helpful."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Russell Gunther from D.A. Davidson. Please go ahead."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Hi. Good afternoon, guys."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Good afternoon."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "On the expense side of things, wanted to circle back to the targeted expense saves from the branch reduction, I believe it's $8 million on an annual basis. How much of that, considering other franchise investment, do you guys expect to be able to drop to the bottom line?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Jim, you might have those numbers. I know it's not all of it with our digital investment."
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "No, thanks for asking. That's why we'll be -- Russell, we've been trying to be clear about is what our expectation is for the net of that kind of expense reduction. What the implications are for our total non-interest expense? In part because, as I mentioned in my prepared remarks, we've already gotten the benefit of some of the expense reduction because of the hiring freeze that we've done already this year, which has saved us in salary expense.\nOne by product of that, by the way, is that even though we're consolidating 20% of our branches, we expect actually very little job loss at the time of consolidation, because we were able to move people into open position. So from a community perspective that's very positive.\nBut like I said, that means we're actually experiencing some of that benefit right now in our earnings stream. So I think the total amount we said last time was about $8 million, and of that amount, about $2 million is going to be reinvested in other investments. I'm thinking about $4 million has already been saved from the hiring freeze in terms of current -- the headcount reduction we managed so far this year and that will leave $2 million left over. But there are so many moving pieces right now. We are trying to stay very consistent on this message and say all of this comes together into the mix and allows us to keep our expense base in 2021 flat to 2020."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "That's very helpful Jim and very clear. So thank you for that. I guess, just the one follow up would be, as a part of Project Thrive, are there other measures being considered beyond the salary freeze and branch reduction that we might talk about either today or in the near future?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes, we're looking at everything from some of our benefits in healthcare. We're looking at -- everything is on the table and just trying to dial it in appropriately, given the specter of this pandemic in interest rates and what it means for the long-term financial path we have. It's a -- we've been really good over the years about operating leverage and we think about that in all of our budgets from quarter-to-quarter and from month-to-month and that's where we have to live and how we have to think and I think all businesses, quite frankly, are like that. Jim, anything you want to add?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "I do. Yes, so we added some disclosure right in the text of our earnings release on operating leverage. And I don't know how common this is, I could tell you that internally at the start of the pandemic, when the Fed cut rates 150 basis points and we, like every other bank, saw the impact on our margin, immediately thoughts of positive operating leverage started to go away.\nAnd we thought, well it's going to be a very difficult year to achieve positive operating leverage, but we were very pleased to have these results and we published this. And like I said, it's on Page 2 of our earnings release about how our core revenue increased $4.6 million from the previous quarter and $6.4 million from the previous year while core non-interest expense only increased $39,000 and $2.9 million from the previous year. So we're extremely proud of the fact that we've been able to generate positive operating leverage in this environment.\nI appreciate the question."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Thank you, guys. I appreciate the answers there. Switching gears to loan growth a bit, I heard you loud and clear on the commercial pipeline, growth this quarter was consumer-driven. Just want to get a sense for how that would translate going forward? Should that dynamic continue and what are you thinking overall on organic growth?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "We think it will. I'll -- Jane do you have a thought there or two you'd like to share?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Thanks, Mike. I expect that fourth quarter will continue with muted commercial growth. The pipelines are light, but I think that small business and the consumer businesses will continue to be strong through the fourth quarter."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Thank you, both. And then, last question for me. You guys mentioned the kind of core -- how you're thinking about the core margin going forward? The 3.20% to 3.30% range, it looked like core loan yields were down in the high single-digit this quarter. I guess, if we think about the moving pieces, what needs to come together to be at the higher end of that range? What are the bigger drivers? Is it getting the excess liquidity off the balance sheet and continuing to reduce funding cost? Do you have the ability to mitigate further core loan yield compression? I'm just curious on your thoughts as to the bigger driver of the 3.20% to 3.30%?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes, we have a few irons in the fire here. Jim?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yes. Sure, thanks for the question. There are a few things that go into that overall guidance of keeping NIM relatively stable and I can maybe give you a little more color that hopefully would be helpful. I mean you have to keep in mind that the whole PPP program, in which we are fairly large participant among banks our size, was -- the effect of that was adding a layer of fairly thin margin assets on top of the balance sheet.\nSo while that produced net interest income and which fell to the bottom line, which we're -- for which we're very thankful, it did have the effect of suppressing the overall loan yield and brought loan -- the overall loan yield down.\nThe other thing that has a large effect and actually mathematically even a larger effect is all the excess cash in the balance sheet. As I mentioned in the remarks, $343 million average 4% of average earning assets. So there are a couple of things that we're doing. I mentioned we are working with clients to move some of those excess funds into sweep accounts that can sweep some of those excess funds off balance sheet. That will improve the NIM, just by getting that ultra-thin layer of cash off the balance sheet.\nAnd then on the deposit side, there is also some room for improvement. If you look in the back of the press release financials, you'll see we have $700 million in time deposits at 1.28% and well about $200 million of that mature in the fourth quarter. And so, those will reprice downward at least 100 basis points if in a little -- actually a little more than 100 basis points down.\nAnd then there are another $100 million of deposits that are money market deposits that have guaranteed interest rates for a time. And that's -- those are priced actually at 1.39% and so those will also come down to lower rates of generally 5 basis points or 10 basis points by the end of the fourth quarter. So that's $300 million of deposits that will save over a 100 basis points on in the quarter.\nThat and moving some of the excess funds off balance sheet should all help in NIM. Now the offset to that and we're very honest about this are continued negative replacement yields on loans and so we see those two factors offsetting each other and then keeping them bouncing around in this kind of stable range of core NIM in the -- over the next quarter. Hope that helps."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Thank you, Jim. Yes, it does quite a bit and that's it for me. Thank you all for taking my question."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Thanks, Russell."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Collyn Gilbert from KBW. Please go ahead."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Thanks, good afternoon, gentlemen."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Good afternoon."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Maybe my first question just on the SBA outlook. Mike you'd given kind of where your strength lies there and your positioning in your region, so seems pretty positive. How should we be thinking about kind of the fee contribution of SBA going forward? And it's been a little bit lumpy, but do you think it can be kind of a meaningful contribution as we look out and then of course and beginning of next year?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "We do. First of all, we think it's an important part of our mission within our respective communities and to find ways to thoughtfully get deals done and protect the bank. But also and through the pandemic, PPP was such a big part of that, we really have the talent. Jane has hired a gentleman who is running our consumer lending function that has built big SBA lending platforms. Part of Project Thrive, it's not just expense, but it's also revenue. And we will make a big play to grow that business over the next few years. Jane, why don't you add some color there to Collyn's question?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Thanks, Mike and thanks Collyn for the questions. We really credit water column [Phonetic] in the SBA business for -- a full there or four months as we were working through PPP. And although the pipelines are a bit light now, we expect 2021 to be a good SBA year for a couple of reasons. The first is the gain on sale in PPP SBA loans has been very strong of late, and the pipelines are starting to fill up. And the regional business model is creating very good partnerships with the SBA DDOs as well as the middle market and small business lenders in region. So I think, I'm bullish on the business."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay. Okay, that's great. That's helpful. And then, just last question, can you, Jim, just on the buyback, I appreciate your comments about just kind of keeping an eye on capital build or where you might need the capital to grow loans? But I guess just to hold it a little bit tighter, in terms of near-term catalyst or what you need to see in the near term to kind of -- that would cause you maybe to reengage more aggressively in the buyback?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yes. It's not -- much more complicated than that. I mean I hope you -- thanks for asking Collyn. And there is one thing I may hope you had -- have noticed, we're trying to present the tangible common ratios and the other ratios both with PPP and without them in the press release.\nAnd so our tangible common ratio is down to 8.4% but some of that is this -- the need to capitalize those PPP assets and that's, there is no risk weighting to tangible common ratio obviously, and so we're presenting it both with and without PPP and without PPP, the tangible common is at 9%.\nAnd what we have said in the past is that, while we have no formal target for tangible common equity, below 8% it's you're thinly capitalized and above 9% you're running with excess capital. Now we are in the middle of a global pandemic, we're watching this as we go along, just like everybody else.\nAnd so obviously, no one wants to be thin on capital. But we need to make sure, we're mindful of using that capital thoughtfully and being good stewards of that capital. And if it gets much higher than that, then we need to put to work somehow. If we can't put it to work by leveraging on loan growth, then yes we will look at further buybacks.\nBut it's hard to give you any definitive trigger to say if it's at 9.1%, we'll reengage the buyback program. It doesn't work that way. We'll look at all -- and all multiple factors; credit, capital, economic outlook all those things and make a decision at that time."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay. Okay, that's helpful. I will leave it there. Thanks guys."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steven Duong from RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hi, good afternoon guys. Just back on the margin, your loan yields ex-PPP was 3.97%, that's down 17 basis points. I guess going through next year, do you see that tapering off? So, I guess by the fourth quarter of next year, where would you see -- expect to see the core loan yield?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes. Steve, it's a good question. It's a nice technical question. I don't have an exact answer for you, because we don't have a projection on that, an exact prediction. I will tell you that in general, right now, the commercial loans, even now that the Fed's cut rates, the yield curve is flat, the 10-year is in the 70s or 80s and we have these lower for longer expectations, the commercial loans are still coming on in the mid-3%s, the consumer loans are coming on in the low-3%s.\nThat will probably continue for the foreseeable future. And so if that continues, you'll see the loan -- overall loan yield come down a bit. But it won't -- it probably won't go below 3%. And so if we can keep the loan yields coming on in the mid-to-low 3%s, we can get our deposit cost trending toward zero that allows us to maintain a reasonable margin and build capital. That's kind of a big picture on how we're looking at it. Sorry I don't have a more direct question, like an exact projection for you on fourth quarter 2021 loan portfolio."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "No, no. I'm glad that you said that. That's perfect, that's exactly kind of the color that I was interested in. And then just another one on PPP, the fees, how much was that in net interest income this quarter. I'm sorry, if I missed it and how much do you have remaining going forward?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "You know, we didn't mention it, but I can pull it up for you, if you give me one second. There are -- hang on, I'll get it for you in a moment here. I think it's about $570 million of PPP or average balances in the third quarter and the -- here it is, $572.4 million, that was the average PPP balance in the third quarter.\nThe yield on those loans, so I think we did disclose that somewhere, that's about 2.7%, that's the 1% stated yield plus the amortization of the premium over time, it's about 2.7%. The total earnings on those loans would be -- all that together was about $3.8 million of net interest income."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay, great."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "But Jim, I don't think any of that was from the fees, was it?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "No that would be the quarter's worth of interest income and fee amortization that we're taking over the two-year life of the PPP loans."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Right. So the $3.8 million includes the interest and the amortization. Is that correct?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yes. Yes, yes, but no accelerated amortization. So what we've [Speech Overlap] Yes, we thought by now we'd have a whole bunch of PPP forgiveness and we'd be rushing all that amortization forward and taking it into income. We didn't have any of that in the third quarter. And now we don't expect any until the first half of next year."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay. So we just have to back it out of the 2.7% yield on your average balance to get the [Speech Overlap]"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes. And actually what you're doing if you do that, you also take out the average cash balance we had of $344 million, which earn next to nothing. That gives you a new earning -- average earning asset figure and that's how we did our core net income calculation."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hopefully that's helpful Steven."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "It is. Thank you. And then, your CD book, you gave some good color on the run-off next quarter. Are you looking to replace that or are you looking to just let it run-off and going forward into 2021 given that you have all this excess liquidity?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "We're not looking to replace it. So what we found in this environment that, there is not much rate seeking behavior left. For example, our 12 month CD rack rate is 10 basis points right now. And when these CDs roll off, a lot of them are 12-month CDs not all of them, but when they roll off, about 60% tend to roll into the rack rate. That's probably pretty close to the industry experience, but that's what we're seeing right now.\nAnd to be honest, a lot of the ones that don't will just move into one of our savings accounts or checking account. They won't roll into a CD, they'll take it out and the deposits will stay with us, just in some other form. So our strategy for now has been to not pursue those with higher rates and let them roll over. We obviously don't need the funds and so we've been letting those roll over at rack rates and seeing quite a bit of -- like I said, around that 60% rollover figure."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey Steve..."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "And I believe most of them -- yeah."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes, hey Steve. This is Mike. Just a reminder, we probably had a much lower percentage of CDs heading into this pandemic than most of our peers. We had between our non-interest bearing checking accounts at 25% plus in our money market rates, we had a very low cost of funds.\nAnd so, we're not chasing CDs for our funding and that's another factor at play as we think about that. So those are predominantly small business deposits and middle market deposits as well. So I don't think we will have the pressure there that perhaps others might to keep the households."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Right."
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "If I could build on that. If I could just build because that -- Mike's comment gives me a chance to make another point. Going into this crisis, we had a very finely tuned balance sheet. We had, because of the recent Santander branch acquisition, paid down all our borrowings. And so the balance sheet was funded really with core deposits without any borrowings.\nThat was a really good thing and a great position to be in and it was intentional. We wanted to \"pay off our debts\" and that put us in a great position going into the crisis. But what that means is, we did not have high cost borrowings that we could pay down when rates fell. And so that's been reflected in our margin, as we've gone forward.\nSo that doesn't mean we are left empty handed and we are thinking about the strategies. Like I said, some of the sweep accounts with excess cash on balance sheet. We're doing all those things we can, but it's important to understand the nature of our balance sheet going into this crisis and what that means for us."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Right. And does basically most of your CD book mature by the end of next year?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "I think that's right. I don't know if I have the exact number on that. But most of this -- there is $700 million left and $200 million is maturing in the fourth quarter, mostly it will be gone within 12 months or mature in 12 months, rollover."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "And is there, on your securities bank deposits that the extra liquidity, is there a target percentage of earning assets that you ultimately would like to get through once we're on the other side of this pandemic?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "There is an international target, so the answer is -- direct answer is no, there is no official target. I could tell you our general philosophy over the last several years has been to keep the securities portfolios relatively stable by reinvesting cash flow and let the rest of the balance sheet grow around it, such that the percentage of the balance sheet represented by securities fell.\nSo say five or six years ago, it would have been in the mid-20s and then here it's fallen into the mid-teens and then it's actually fallen further with the addition of over $0.5 billion of PPP assets. So that's been the general philosophy. So we are -- like many other banks, we're looking at the types of opportunities in securities and it's very difficult to get yield unless you reach for very long duration.\nI would tell you that, we have seen some of the larger banks that reported earnings so far in this cycle has said that they are purposely not investing any cash. They're going to stay in cash and they're not going to take on that risk. We don't have that philosophy, we want to move excess cash off the balance sheet if possible, but if there is some portion of remaining excess cash, we will judiciously put some of that to work. We don't want to extend duration and hurt ourselves too much but we have an obligation to get some earnings on that and I'll leave it on the sidelines forever."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it. And then Mike, just last one for me, just coming out of this pandemic, is there a profitability target that you're aspiring to if we're in this lower for longer rate environment?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Not an absolute, but a relative part of our theme for Project Thrive was to come out of this as stronger institution and a top decile profitability. And we really moved our efficiency, we'll continue to do that. And there we've built -- we have a lot more oars in the water on the revenue side than we did four or five years ago.\nI mean, Jane and the team has built mortgage up from scratch. SBA, consumer lending, we're getting traction. That's such a nice counter balance to, we already have a pretty good commercial franchise. The team is doing a nice job of building out small business of lending and banking as in SBA. Indirect business has really, the spreads there are going up. Even though they're probably hurting our margin a little bit, they still are accretive and profitable.\nSo just the nature of the company has changed and then our geography has changed too and our business model and how we go to market line of business and now regional is really creating good team work, cross functionally, which leads the deeper households more a better cross sales, a better customer satisfaction. Our brand playing bigger in those respective communities, great communities, like Cincinnati, Columbus, Northern Ohio, our rural markets Pittsburgh. So just feel like strategically, we're moving in the right direction.\nAnd I think it's important that our trends on the profitability side continue up. And they have over the course of the last three or four years. And although the absolute number might be lower than it was pre-pandemic and with the new reality of the interest rate environment, relatively speaking, we think we'll fare well there."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Understood. Thank you, Mike."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Thanks, Steve."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Frank Schiraldi from Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "Hey, good morning, guys. It's actually Justin Crowley on for Frank this afternoon."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hi, Justin."
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "So just a couple of last ones here for me. So, clearly strength on the resi and consumer lending side, which we talked about at length at this point, not something that's totally new. I was wondering if, sort of from a high level you could characterize your approach in weighing resi versus commercial even sort of looking out over the immediate term, not necessarily just over the next quarter.\nObviously as we head into year-end, you mentioned the shallow commercial pipeline. So not sure if your answer would put out there a targeted percentage, but you got where do you get to as a percentage of the whole book or how that could change as you start to see commercial demand pick up over the coming quarters?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes. Our philosophy has been pretty simple and that was just to have more balance between our consumer and our commercial businesses. And we've achieved that and we really started that journey several years ago and we also started a journey to go from more variable to more fixed rate and more balanced there as well. And fortunately, we had pretty good impact on that before we got, because of this pandemic.\nI mean, ideally, I'd love to get to 50-50. I think the economy will snap back and our commercial will be off to the races with higher spreads. And then we might have the same challenge three or four years from now. But I mean whatever the opportunity, we like having a strong commercial -- consumer businesses and commercial. Our commercial is strong, demand is weak. We're thankful, we invested in consumer here in the last few years, because it does tend to be a bit countercyclical. And so I think it's good to have both.\nIn terms of specific targets for resi mortgage, we have some caps, I probably won't share those with you on this call, but we are pretty disciplined on the credit side in terms of the complexion of everything from our commercial real estate to our SIC codes and we have hard caps in terms of the amount of loans that we'll make. But 50-50 balance would be ideal and I think right now we're just in that 60-40."
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "Okay, great, that's really helpful, I appreciate the color there. And then sort of just bouncing off of that. Looking at fees in the mortgage banking line item. I guess, as we get through this wave of refis, how much will depend on that break down between resi or the consumer and resi versus commercial and what you decided to portfolio or sell off.\nSo I guess what I'm really asking is, how much investment and focus would be going into the fee income side of that going forward, when there is not as much of an emphasis on holding more resi, just given the lack of commercial growth within the portfolio?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Hey, I'm going to put to the expert on this one, Jane?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Thank you very much. If I understand the question, I don't think that they're mutually exclusive. We've always targeted somewhere around 60% to the balance sheet and about 40% of that we sell and that's about what we're doing right now. At any given time, however, we can pivot and we can pivot quickly, because we underwrite for sale. So we give ourselves a fair amount of flexibility at the deal level. Did I get at your question?"
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "Yes. No, no, no, I appreciate that. That's helpful. And then just one last one here for me. We've talked about it at length at this point, but just on the expense side. I appreciate the guidance, you know the helpful color, looking into next year in terms of where you think things could shake out. And you discussed some of the strong digital adoption metrics, so taking that Project Thrive, the branch consolidation.\nAnd looking at the consolidation. From what I can tell, you were one of the first movers on that back in July and we've seen a number of these as of late. So even from three months ago, have you seen a meaningful change that would cause you to maybe take another look at the branch count or take another look at [Technical Issues]."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Frankly, just go out there."
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "I don't know if you caught any of that. I just had a quite a bit of feedback on my line."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "We did, and it was probably for about 30 seconds to 40 seconds. So we apologize, I don't know where it came from. But I think you said -- I hate to ask you to repeat the question."
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "No, that's fine. So it was just..."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Jane, do you have a thought. I think we caught front end of it, so..."
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Mike, I think I understood the question. Was the gist of the question, whether we have got a next wave, potentially of branch consolidations, on the horizon?"
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "Yeah, I mean, I'm not, like trying to pin you down and say when you're going to announce your next branch consolidation plan. But again, you were one of the first banks to proactively announce one of these plans. So I was just wondering if, as we've gone through this pandemic and we've seen consumer preferences and adoption method of online options change. Has that at least planted the seed to maybe take another look and ask yourself how useful are all of these branches, could we sell them down."
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Yes. So not at this time. We also, I think numerically, went a little bit deeper than some of the other banks. We were 25% of our network and we think that's just about where we want to be. We still like branches, we're bullish on branches, lots of that consumer loan growth is coming from branches and so we feel really good about where we are right now. And we run a very, very efficient branch network."
+    },
+    {
+      "speaker": "Justin Crowley",
+      "speech": "Got it. Thank you. That's it from me. I appreciate the answer and that's it."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes, just one adjunct to Jane's comment is, our branches have been open and our lobbies has been by appointment. And that's been an opportunity culturally for us to do a lot of outbound calling, which has really spurred our loan growth and it's just a little paradoxical. But we've had a lot more outreach to customers from our lobbies than ever before. So I'd love what that's doing in terms of building a better sales culture and the branch people have been terrific.\nAnyway, other questions, operator?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Yes, we have a question from Joe Plevelich from Boenning & Scattergood. Please go ahead."
+    },
+    {
+      "speaker": "Joseph Plevelich",
+      "speech": "Good afternoon. My question, I have two. First one is, do you expect to generate positive operating leverage next year, given some of the challenges on the NII in midflight [Phonetic]."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "We do, but I'll let Jim answer that question. He's currently putting together the budget for next year."
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "Yeah. So some of that is still in a state of flux but look, that's still our goal and I think that's been our long-term plan for a long time and if we're able to hold operating costs flat and then maintain some reasonable margin and continue this trajectory on fee income that -- I don't have exact numbers for you next year, but that is still our long-term goal."
+    },
+    {
+      "speaker": "Joseph Plevelich",
+      "speech": "And then another question is, what do you think the best use of capital will be for next year? Would it be continue with buybacks or possibly think about something more strategic on the M&A front?"
+    },
+    {
+      "speaker": "James R. Reske",
+      "speech": "So we generally think the best use of capital is organic growth. Organic balanced growth, as Mike was laying up before, balanced between consumer and commercial lending. And then if we have opportunity to do M&A that is both strategic and financially accretive that generally is preferable over buybacks. But if you are still generating excess capital and you don't have those opportunities, then buybacks are viable option."
+    },
+    {
+      "speaker": "Joseph Plevelich",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is a follow-up from Steven Duong from RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hey guys, just two quick follow-ups. Just on the branch reduction. I'm sorry if I missed it. Have you guys -- what are your expectations on just the impact of deposits from that?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Yes we expect -- I think that the branches that were consolidated, deposits at risk, we thought would be less than 5% of the deposits of the company, mathematically or arithmetically. And we feel like we can hang on to most of those in those households, most importantly, and just given the proximity of the consolidated offices."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it, appreciate that. And then just a last quick one. I noticed that you have 40% of your employees working from home currently, I believe. How much do you think this would be permanent for you? And to the extent that it is, with that potentially adjust your real estate strategy further?"
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "It absolutely could. We have -- we're really wrestling with this, we're looking at leases and also facilities that we might sell and just getting a little meaner. We expect that 40% number perhaps to go down a bit. But anybody else want to take a shot at this, and we talk about it a lot. I don't know that we have a definitive critical path forward. But as part of our Project Thrive is our work from home and our long-term real estate needs.\nAnd one of the reasons we got after branches this year and we actually started it in March, even though we announced it in July. So we could get the branches consolidated in December and before the end of the year and go into 2021 clean. And that will allow us to take a look at office buildings and other things that we might close and consolidate in the other facilities and we do have plans for a building or two. Jane, do you want to add anything to that or Jim?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "The only thing I would add, Mike, is that, I think the first of all, I've been really pleased with the progress that our Facilities Group has made with disposing off the real estate as a result of the branch consolidations. So that's a big win. And because our consolidations, I think were announced earlier than some other competitors that we got those branches to market faster. So that was terrific.\nWith respect to the multi-use buildings, where we've got groups of employees. I think that will be a little bit more at the edges. And the reason I think that is the humans miss the other humans and they like working with each other at least part of the time. So we'll need to figure out exactly how to make this work long-term. But I don't think they're all going to be at home all the time. They're getting fatigued."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Understood. No, I appreciate that. And if so, it just sounds like, down the road, maybe the end of next year when we're through this on the other side, there could be another look back at your real estate and maybe some possible -- slightly at least some possible trimming going forward?"
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "Absolutely. We don't let a lease renewal without being ruthless about it."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "All right. I appreciate that. Thank you."
+    },
+    {
+      "speaker": "Jane Grebenc",
+      "speech": "I mean, our real estate footprint looks dramatically different today than it did five years ago, six years ago, seven years ago. It's just that it was not -- I mean, it just couldn't be done all at once. It's a long study."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "We like to think we get better every year and where we started a decade ago in terms of -- our fee income as a percentage of our revenue, our efficiency ratio, our return on assets was quite different. And we've had dozens of initiatives to just -- to get where we're at and we're constantly changing and moving our feet and that will continue and certainly around expense side. I mean we have to produce operating leverage and earnings-per-share growth."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no more questions in the queue. This concludes our question-and-answer session. I'd like to turn the conference back over to Mike Price for any closing remarks."
+    },
+    {
+      "speaker": "Thomas Michael Price",
+      "speech": "Just thank you. I always say that. Appreciate the partnership. I appreciate when you get us in front of prospective investors and your investment in us and the feedback that we get from you, both direct and indirect. So thank you so much and look forward to being with a number of you over the course of the next quarter, still virtually I think. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 63 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ryan M. Thomas--Vice President, Finance & Investor Relations",
+    "Thomas Michael Price--President & Chief Executive Officer",
+    "James R. Reske--Executive Vice President, Chief Financial Officer & Treasurer",
+    "Brian G. Karrip--Executive Vice President & Chief Credit Officer",
+    "Jane Grebenc--Executive Vice President & Chief Revenue Officer",
+    "Steve Moss--B.Riley Financial -- Analyst",
+    "Russell Gunther--D.A. Davidson & Co. -- Analyst",
+    "Collyn B. Gilbert--Keefe Bruyette & Woods Inc. -- Analyst",
+    "Steven Duong--RBC Capital Markets LLC -- Analyst",
+    "Justin Crowley--Piper Sandler -- Analyst",
+    "Joseph Plevelich--Boenning & Scattergood -- Analyst"
+  ]
+}

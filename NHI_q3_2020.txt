@@ -1,0 +1,393 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings, and welcome to the National Health Investors Third Quarter 2020 Earnings Call. [Operator Instructions] As a reminder, this call is being recorded, Tuesday, November 10, 2020.\nI would now like to turn the conference over to Mr. Dana Hambly. Please go ahead, sir."
+    },
+    {
+      "speaker": "Dana Hambly",
+      "speech": "Thank you, and welcome everyone to the National Health Investors conference call to review the Company's results for the third quarter of 2020. On the call with me today are Eric Mendelsohn, President and CEO; Kevin Pascoe, Chief Investment Officer; John Spaid, Executive Vice President and Chief Financial Officer; and David Travis, Chief Accounting Officer.\nThe results as well as notice of the accessibility of this conference call on a listen-only basis over the Internet were released yesterday after market close in a press release that's been covered by the financial media.\nAs a reminder, any statements in this conference call which are not historical facts are forward-looking statements. NHI cautions investors that any forward-looking statements may involve risks or uncertainties and are not guarantees of future performance. All forward-looking statements represent NHI's judgment as of the date of this conference call. Investors are urged to carefully review various disclosures made by NHI and its periodic reports filed with the Securities and Exchange Commission, including the risk factors and other information disclosed in NHI's Form 10-Q for the quarter ended September 30, 2020. Copies of these filings are available on the SEC's website at sec.gov or on NHI's website at nhireit.com.\nIn addition, certain terms used in this call are non-GAAP financial measures. Reconciliations of which are provided in NHI's earnings release and related tables and schedules, which have been filed on Form 8-K with the SEC. Listeners are encouraged to review those reconciliations provided in the earnings release together with all other information provided in that release.\nI'll now turn the call over to Eric Mendelsohn."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thank you, Dana. Hello and thanks for joining us today. We hope that everyone is staying healthy and positive in these most interesting of times. I want to express my deep gratitude and admiration to all our operating partners and their heroic employees that knowingly put themselves in harm's way every day as they work to care for our country's most vulnerable population. Thank you.\nTo date, our operators have held up relatively well, as occupancy declines generally slowed in the third quarter aided by a pickup in move-ins and the leveling-off of COVID-related expenses. We collected nearly 97% of rents in the quarter and nearly 98% in October. In the third quarter and for the year to date, we reported AFFO per share growth of 1.5% and 4.5% respectively. It should also be noted that we were tracking on the lower end of the range for the first nine months of 2020 in terms of our numbers, formerly known as guidance. We think this is a testament to the stability of the triple-net lease strategy, the needs-driven nature of the properties we invest in, as well as the underlying strength of our operating partners.\nDepending on the timing and effectiveness of the vaccine, we expect the impact of the pandemic to be more uneven across our property types, as winter approaches. Thus far, our entrance fee communities and skilled nursing properties, which together generate over 50% of our revenue, have been quite resilient. However, our freestanding assisted living memory care and independent living operators are experiencing greater challenges, as COVID cases are spiking in many parts of the country, which is slowing the pace of move-ins while move-outs are accelerating in what is typically a seasonally weak period. We are very encouraged that the HHS has included assisted living operators as eligible participants in the Provider Relief Fund, which will help with the financial hardships inflicted by the pandemic.\nWhile we are hopeful that more federal assistance is on the way, we cannot solely rely on this to resolve all the issues. As disclosed in our press release and our 10-Q, we've reached an agreement in principle with Bickford for assistance in these difficult times. This includes deferring up to $3 million of November rent. They have additional deferrals of $750,000 available for each of December and January, all of which if exercised will accrue interest at an 8% rate with repayment expected over 12 months beginning in June 2021.\nWe are also continuing to work with prospective lenders and Bickford on the previously disclosed sale of nine properties, which we estimate will improve Bickford's annual cash flow by approximately $3 million. Bickford has applied for grants under Phase 2 and 3 of the Provider Relief Fund, which we expect that they will receive before year-end, which will also improve their financial position. These measures will improve Bickford financially and create a long-term solution, but we will continue to work with them closely over the coming months and take further measures if needed.\nAs the pandemic unfolded, we expected that there would be deferrals as we head into 2021. We have other tools at our disposal as well, including the use of deposits and other reserves and some personal and corporate guarantees. We are willing on a tenant-by-tenant basis to help our operators bridge the gap to a more stable operating environment within certain commercial norms. That said, we believe these challenges presented are temporary. So, we're hesitant to make longer-term decisions that would have a more permanent impact on our future cash flow.\nWhile we certainly did not anticipate the pandemic, our Board and senior management have been disciplined in adhering to our conservative financial metrics, which puts us in a strong position to weather this storm and to take advantage of growth opportunities as they emerge. Our big picture outlook has not changed. We continue to see tremendous opportunities for growth in senior housing and skilled nursing real estate and will be opportunistic with our capital deployment to help drive shareholder value.\nWith that, I'll turn the call over to John. John?"
+    },
+    {
+      "speaker": "John Spaid",
+      "speech": "Thank you, Eric, and hello, everyone. During the third quarter, we began to experience more direct financial impacts due to the pandemic. As we position the Company for the pandemic's future unknowns, we continue to be proactive and not over-reactive to the crisis, which we believe is resulting in solid and even surprisingly strong financial performance. While we cannot remove all the uncertainty that we will continue to experience for the next few quarters, we are confident that we have the strategy, operator quality and financial tools necessary to transition through this period.\nBeginning with our net income per diluted common share. For the quarter ending September 30, 2020, we achieved $0.95 per share in earnings. That compares to $0.97 per share for the same period in 2019. For the nine months ending September, we achieved $3.31 per share in earnings compared to $2.72 per share for the same period in 2019, which is reflective of the gains we recorded during 2020 for real estate dispositions.\nFor our three FFO performance metrics per diluted common share for the third quarter compared to the prior year quarter, NAREIT FFO and normalized FFO were both flat at $1.42 and adjusted FFO increased 1.5% to $1.34 per share. Reconciliations for our pro forma performance metrics can be found in our earnings release and 10-Q filed yesterday afternoon at sec.gov.\nCash NOI is the metric we use to measure our performance. A reconciliation to NHI's cash NOI can be found on Page 18 of our Q3 2020 SEC filed supplemental. For the quarter ending September 30, cash NOI increased 1.2% to $75.3 million compared to $74.4 million in the prior year period. However, reflecting Q3 rent deferrals, cash NOI was down 2.8% sequentially from the second quarter.\nWhile our triple-net strategy continues to mitigate the cash NOI effects from COVID, and more importantly, our operators continue to soundly execute on our infectious control protocols, as Eric just mentioned, a subset of our senior housing portfolio experienced more pronounced COVID occupancy declines in the third quarter than what we saw over the summer.\nAs a result, today, we're announcing additional rent deferrals for Bickford, which together with other previously announced rent deferrals, will impact cash NOI growth by up to approximately $5.5 million over the next two quarters or approximately 3.5% of our trailing six-month cash NOI before deferrals.\nAs we negotiate rent deferrals, we are seeking to accomplish two outcomes. The first outcome is to provide our operators the confidence that we are committed to their success and the care of their residents. And the second outcome is to equitably structure the deferrals on behalf of the best interest of our stockholders.\nWe cannot predict the continuing impact the pandemic will have on our operators for the next few quarters. However, between our operators' exceptional capabilities, additional federal support and our other cash sources that we can make available to our operators under our leases such as deposits and escrows, we do continue to be confident that any additional occupancy loss or coverage decline will not necessarily translate into additional dollar-for-dollar rent deferrals.\nTurning to the balance sheet. Our debt capital metrics for the quarter ending September 30 were our net debt to annualized EBITDA at 4.8 times, weighted average debt maturity at 2.9 years and our fixed charge coverage ratio at 6.3 times. We ended the quarter with $1.53 billion in total debt, of which 91% was unsecured. For the quarter ended September 30, the weighted average cost of debt was 2.96%. At the beginning of the third quarter, we added liquidity to the balance sheet through a new $100 million one-year -- with one-year option to extend term loan. Loan carries a variable interest at a rate of LIBOR plus 185 basis points with a 50 basis point LIBOR floor.\nAt October 31, we had $252 million in availability under our $550 million revolver and $38.2 million in unrestricted cash. In addition, during the third quarter, we sold 79,155 shares in NHI's stock through our ATM program at an average price of $65.35 per share, raising approximately $4.8 million in net proceeds. We have approximately $495 million capacity remaining under our ATM program, which was filed together with our shelf in February of this year.\nI'm pleased to also announce that last Thursday, we received an investment-grade Baa3 rating from Moody's. Our three [Phonetic] investment-grade ratings now position us to begin exploring public debt and begin a regular program for managing our maturities moving forward.\nIn mid-September, we declared our third quarterly -- quarter dividend of $1.1025, which was just funded November 6. I'm pleased to report to you that we continue to pay our dividend with an AFFO payout ratio in the low-80% range without significant further cash flow burdens from routine capital expenditures. The pandemic continues to keep us mindful toward meeting both our financial and dividend policies.\nOur Board is committed to our financial policies, including our commitment to maintain our leverage between 4 times and 5 times net debt to EBITDA. So, we're very pleased to date, we've been able to balance our dividends, our leverage ratios and our commitments to our operators. Our management team will continue to work hard to continue this track record moving forward toward the conclusion of this crisis.\nWith that, I'll now turn the call over to Kevin Pascoe to discuss our portfolio. Kevin?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Thank you, John. Starting with an update on the COVID. Active resident cases peaked in late July at 483 cases across our portfolio and then trended down to 161 cases in early October. In our last two updates, cases have started to climb again, and we're at 367 active resident cases across 81 communities. The active cases represent about 1.5% of our unit capacity. Nearly 75% of the cases are in our SNFs, some of which are actively admitting COVID patients.\nOn the senior housing side, our operators continue to limit the spread as active resident cases per community was at 2.4 last week, which matches the average since we started reporting the data in mid-March. We think this firmly demonstrates the value proposition of seniors housing whose mission it is to keep the senior population safe.\nTurning to collections. We received 96.6% of our third quarter contractual rent and 97.8% of October rent. We expect to provide a November update mid-month, which will obviously be impacted by the Bickford deferral that Eric discussed. In addition to the Bickford deferral, we agreed to defer or abate approximately $570,000 of rents for the remainder of 2020, with another tenant that will also grant that tenant the option to defer approximately $450,000 of rents related to the first quarter of 2021. Any deferred rent payments will accrue interest from the date of the deferral until paid in full and are due no later than December 31, 2022.\nWe do have credit enhancements in our leases with many of our senior housing operators, which totaled approximately $37.1 million in cash or letters of credit in addition to guarantees, and we have excellent credit from our SNF operators.\nTurning to the performance of our different asset classes and larger operators. Our needs-driven senior housing operators, which account for 32% of our annualized cash revenue, were hit hard at the onset of the crisis, but did level-off through the second and third quarters as move-in activity picked up enough to slow the pace of occupancy losses. As Eric mentioned, assisted living operators are now included as eligible providers beginning with Phase 2 of the Provider Relief Fund, which equates to approximately 2% of 2019 revenue, which most of our operators have or expect to receive.\nPhase 3 applications were due by November 6. So, we should know more about those distributions soon. We are thankful to HHS for their inclusion of assisted living providers and all the efforts from our trade associations to secure this inclusion. These funds are much needed and help shorten the gap to a more normal operating environment. Bickford, our largest assisted living operator representing 15% of annualized cash revenue, experienced an 80 basis point sequential decline in third quarter average occupancy, which compared to 270 basis point decline in the prior quarter comparison.\nWe talked last quarter about our cautious optimism on stabilizing trends, which largely proved out in the third quarter. However, more recently move-ins have slowed as COVID cases throughout the Midwest spiked. As described by Eric, we have taken initial steps to help improve Bickford financially, and we'll continue to inform you on any future steps if and as they occur.\nOur entrance fee communities, which account for nearly 25% of our annualized cash revenue, have proven to be resilient as the average length of stay at these properties ranges from six years to 10 years and the residents are often younger and healthier than what is typical in our other discretionary senior housing models.\nSenior living communities, which represent 16% of our cash revenue, had third quarter average occupancy of 79%, which was down just 10 basis points from the second quarter. September average occupancy was 78.9%. While SLC's entrance fee sales are down year-to-date, we are encouraged by recent developments as entrance fee sales actually increased year-over-year in both September and October, which is helping to bolster coverage. EBITDARM coverage for SLC was unchanged sequentially at 1.06 times.\nOur rental independent living communities, which account for 13% of our annualized cash revenue, have experienced a more pronounced and sustained occupancy decline than our needs-driven and CCRC assets. Holiday Retirement, which represents 11% of annualized cash revenue, had average occupancy of 79.6% in the third quarter, which was down 390 basis points sequentially. This followed a 380 basis point decline in the second quarter.\nThe occupancy continued to decline throughout the quarter and September's average occupancy was 78.5%. A significant percentage of our Holiday units are located on the West Coast where limitations on visitation and residents' ability to travel outside the community are more limited, which we believe is having an outsized negative impact on occupancy. EBITDARM coverage slightly ticked down from 1.2 times to 1.18 times as of the second quarter. We do have solid credit support behind this lease, but we continue to monitor the situation closely.\nThe skilled nursing portfolio, which represents 27% of annualized cash revenue, is anchored by two strong tenants in NHC and the Ensign Group who contributed 12% and 8% of annualized cash revenue respectively. EBITDARM coverage for the trailing 12 months ended June 30 was 2.89 times, which improved from 2.81 times reported in the prior quarter. This coverage is inclusive of funds received from the CARES Act, which seems to be working as designed as it is helping SNF operators bridge the gap to a more stable operating environment.\nTurning to our business development activities. We have announced $204.7 million in year-to-date investments. During the third quarter, we exercised our purchase option to acquire The Courtyard at Bellevue for $12.3 million. This is a 43-unit assisted living and memory care community in Bellevue, Wisconsin, which was opened in March 2019 and was 100% occupied upon our acquisition. The long-term triple-net lease on Bellevue replaces a $3.9 million second mortgage that we had secured in January of this year. The property is operated by 41 Management, which is a growing operating partner of ours that now includes eight properties.\nWhile there have been plenty of deals to evaluate throughout the year, we characterize the pipeline as more actionable today than in recent past quarters. With our balance sheet in good shape, we are looking at deals that run the gamut, including triple-net leases with existing and new operators, as well as opportunities in short-term higher yielding products like mezzanine debt and development financing. We are encouraged by the depth of the current pipeline, as we expect we will have plenty of capital to recycle in the next 12 months from sources, including the previously mentioned Bickford portfolio sale, loan repayments, purchase options and other select dispositions.\nWith that, I'll hand the call back over to Eric."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thank you, Kevin. This year has presented unique challenges to say the least. We have managed through the crisis with few lasting scars to this point, but know that we were not out of the woods yet. That said, our strong balance sheet and liquidity and our diverse mix of operators and properties position us relatively well as we try to bridge to a more stable operating environment.\nWith that, operator, we'll now turn the line over for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, sir. [Operator Instructions] And our first question comes from the line of Daniel Bernstein, Capital One. Please go ahead."
+    },
+    {
+      "speaker": "Daniel Bernstein",
+      "speech": "Hi guys. Good afternoon. Let me say [Phonetic] good morning for you."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Hi, Daniel."
+    },
+    {
+      "speaker": "Daniel Bernstein",
+      "speech": "Hi. I guess the first question I have is, what are the purchase options do you have near-term that you can exercise? And then, maybe if you can go over on the flip side outside of Bickford, what loan repayments and purchase options your operators have that we can think about the next 12 months?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "So, Dan, this is Kevin. You're asking what purchase options we have on other buildings?"
+    },
+    {
+      "speaker": "Daniel Bernstein",
+      "speech": "Yeah. What can you exercise and then what can the other -- the operators exercise as well."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Yeah, well, I guess what I would direct you to, as you think about it, this is not a 100%. But generally speaking, when we do a loan, we're going to be getting some sort of purchase option, or at least right of first offer. So as we think about what's available to us from a purchase option standpoint is that's the pool that -- first, we're really looking at is our developments and any kind of -- in the event we did any kind of acquisition financing.\nSo, we have a purchase right on -- there is a Bickford development that we have a purchase option on. There is -- I would tell you that the Sagewood is a large investment that we have that something that as it matures, we'll be looking at very closely. So, that's what I would say that we -- you should direct to if you're looking at what is in the pipeline, so to speak. It's going to be anywhere where we have mezz or those construction loans because we put this in pole position, so to speak to make an investment. So, I think the rest of your question was -- go ahead."
+    },
+    {
+      "speaker": "Daniel Bernstein",
+      "speech": "Yeah. I was just going to say what -- in the next 12 months, what loan repayments and purchase options can the operators exercise?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Yeah. So our loan repayments, we're looking at -- we've got one up in the Northeast that we would expect to likely pay off. We've got -- from a purchase option standpoint, if you look at our supplemental on Page 7, that schedules out where our -- the purchase option are. We have a couple of hospitals that I would, in all honesty, expect to probably exercise their option over the next six months to 12 months. At this point in time, I think everybody is still trying to figure out where things are headed before they exercise anything, but that is something that's available to them. It's their option. So, we have viewed it as those are likely to go. But as we've talked about before and as we've demonstrated with some of our other partners, we're going to work very hard to try and push those out if not try and rework those options.\nWe did that with Legend that ultimately went to Ensign. We had another group with the two buildings in the Northeast that we were able to push out those options. So, we've worked very hard to keep those partnerships going and find creative ways to keep them in place. So just because it is their option, doesn't mean it will be exercised, but as we said, it is risk, so to speak, that they do exercise it."
+    },
+    {
+      "speaker": "Daniel Bernstein",
+      "speech": "Okay. Eric, in your opening comments, you said that you thought the challenges were temporary. Does that apply the same for seniors housing and skilled nursing? How do you look at the challenges differently between those two food groups, say, post a vaccine?"
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Well, it's interesting. Right now, the difference between skilled nursing and senior housing is like a tale of two cities. You've got skilled nursing being showered with government subsidies, if they want them. And you also have a conscious effort to treat COVID patients at skilled nursing, which seems counterintuitive based on what we've seen at some other skilled nursing operators, but we know that Ensign is admitting COVID patients and treating them and making money at that. So, I feel like skilled nursing is doing just fine. Senior housing, post-vaccine, I think the market spoke yesterday on what that looks like and we're modeling an April-May integration of vaccination and starting to return to normal. So, that's the way we look at it here."
+    },
+    {
+      "speaker": "Daniel Bernstein",
+      "speech": "Okay. And then one last question for me is, it seems like operators -- many of the public -- operators for public REITs have been holding rates on the same time -- at the same time. Even with a vaccine, we're starting off at the low, I guess maybe mid-upper 70s occupancy. So, it seems like there should be some rate pressure on the industry that persist. But kind of what your thought when you underwrite assets in terms of how rate may play out the next 12 months or 24 months?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Sure. This is Kevin again. We've definitely seen people discounting in the marketplace, and that's something we'll need to factor in as we continue to look at new investments. I feel like our operating partners have had a pretty good pulse on their respective markets and have been able to address some of those issues. A lot of them we try and -- we're not the operator, but we caution them not to try and race to the bottom. At the same time, it's very hard when you've got other people that are making deal, so to speak, in the marketplace.\nSo, it's just something we're going to have to take on a market-by-market basis, see how that market is performing, where their rate structure is. As I said, I think -- I feel like our operators have been pretty disciplined in how they approach it. But at the same time, you have to be able to compete. So, they are doing some selective discounts or deals here and there to make sure that they can get the move-ins when they have them. I feel like our operating partners do a great job of converting people when they do get tours. But that's the challenge by itself is to actually whether it's state-regulated, where they are not allowing tours or what have you. I mean there is a huge barrier in some areas to be able to get those move-ins, so you got to have things in your tool belt to be able to attract new residents.\nSo on a go-forward basis, again, I think it's really just more on a case-by-case basis, see what that market is doing. If we feel like there is a heavy amount of competition or heavy amount of discounting, it might be just something that we pause on and let play out versus trying to make an investment where you just don't know where rates are headed."
+    },
+    {
+      "speaker": "Daniel Bernstein",
+      "speech": "Okay. I'll hop off. I'm sure there's further questions behind me here. Thank you."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thanks, Dan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of John Kim, BMO Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "Thank you. Good afternoon. Just wanted to clarify on the Bickford rent deferral that steps up this month, but then the adoption to defer lower amounts over the next couple of months. Is that lower amount due to the potential for the asset sales to occur during this time frame? Or in other words, why do they not use as much of a rent deferral in December, January?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "This is Kevin. I would classify it as a timing issue. A couple of times a year, they will have three [Phonetic] payrolls that is not an insignificant number for Bickford. So, I think that's what you're seeing pop up is really just a timing issue. We wanted to make sure we gave them enough liquidity to try and get to into the first quarter, if not through it and be able to reassess where things are. We're trying to get some more clarity with the vaccine and where occupancy is headed. And it's just a matter of buying some time, but also giving them liquidity to conduct business."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "Okay. At the same time, you're mentioning that in senior housing, and it may not be directly referring to Bickford, but senior housing move-ins has slowed due to COVID, but you're also seeing move-outs accelerate due to seasonal weakness. So, I'm just curious, again, why you think Bickford will improve the cash flows over the next couple of months, if that's the case? But also, I guess my question is on the seasonal weakness in move-outs. So, I'm wondering if that is something you anticipate, given the flu has been relatively weak in the Southern Hemisphere this year?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Yeah. I would tell you we're still watching the trends as it relates to move-outs and where move-ins are coming from. We are anticipating, as Eric said, some seasonal weakness in that. We do generally see additional move-outs this time of the year. So, I think that's just more of a planning mechanism. And I think what I was saying before is we're not expecting cash flow necessarily to improve for Bickford. It really was more of a timing issue for them to make sure that they've got line of sight again into the first quarter. The sale does play a role into how we're looking at Bickford and that will be continue [Phonetic] to watch that and work through that very closely. But again, I think that's really just more -- it was more timing, not expecting things to rebound in the next 60 days to 90 days."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "Okay. And then, Eric, you mentioned in your prepared remarks that you're looking to become opportunistic. And I'm wondering if you could just elaborate on what that means in the environment where cap rates seem like they remain low. Are you willing to acquire assets with the low initial yields with occupancy upside, or are you looking for immediately accretive deals only?"
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Well, John, as you know, we're able to find ways to structure deals on distressed property that are both opportunistic and accretive. I would point to some of the loans that we've done with investors. We'll do a higher interest larger up -- higher up the capital stack loan with a purchase option, once the buildings stabilize. So, we're starting to see a lot of owners have destabilized buildings or even new buildings that haven't opened, throw in the towel, and we're getting some really interesting chatter from the brokers that we work with about the opportunities out there."
+    },
+    {
+      "speaker": "John Kim",
+      "speech": "Okay, sounds good. Thank you."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thank you, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question from Rich Anderson with SMBC. Please go ahead."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Hey, thanks. Good morning. No. Yes. So, I'm not quite sure. Has the environment informed you at all about where you head -- where you'd balance your portfolio going forward between skilled nursing and senior housing? Do you think that the opportunity set starts to get materially better in senior housing, given all the demand chatter we're hearing about on a go-forward basis?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Well, I would tell you that we try to remain opportunistic as it relates to both asset classes. Eric has mentioned on numerous occasions, we love to be able to do more skilled nursing, particularly with high quality operators like NHC or Ensign Group. And there is plenty of others in our operating partnerships that we like to be able to expand those relationships as well. So yeah, I think that's something that's definitely of interest for us.\nAnd then, as Eric said, long-term, we still believe in senior housing. We want to continue to invest there. And I think there is going to be some opportunities, as we work through this over the next six months to 12 months or so. And then beyond that, there is more asset classes that we continue to evaluate. We've talked about behavioral health. We've talked about a number of other things that are of interest to us. And we're going to continue to pursue those opportunities as well.\nSo, I mean I've said for a while, if we continue -- like the diversification that we have right now is good. If we continue to expand that pie, we're in good shape. But we also have some ability to make some moves like I said with the -- maybe a more meaningful investment in skilled. If we can find the right properties and operator or some of these other specialty-type hospitals that we've invested in, in the past."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Are you at our camp where the government-regulated nature of skilled nursing has more from a liability to an asset on a go-forward basis, given everything that's happened?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Well, I guess, that's a bit of a slippery slope. I think it's been a blessing for them most recently. They've been very well supported, and we're very thankful for that. They -- at the same time, they are very well -- very highly regulated. I don't see that going anywhere. If any way, those regulations probably increase from here. So I think there are aspects of both. And for right now though, it's been definitely a -- an asset for them. [Speech Overlap]"
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Yeah. And Rich, I would also say -- I would also say that what we're seeing with skilled nursing is the exact opposite of the stroke of the pen risk that everybody always points out with skilled nursing. So, I wouldn't be surprised after the dust settles in a year or so to see skilled nursing cap rates come down."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Yeah. That's our thesis."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Okay. What explains the unevenness, as you described in the press release where you're having more problems in independent living and assisted living and memory care? Is it primarily just where you happen to be geographically? Or is there something more than that?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "The easiest thing the point to is geography. From -- as we mentioned on the independent side, a lot of our units from the -- with Holiday have been on the West Coast, California, Oregon, Washington, which have been much more restrictive, even though these are not licensed. The ability for people to move around, the ability to do tours has been compromised there. And then, as we've also talked about, there has been some additional COVID cases rising in the Midwest and the Southeast.\nAnd given our geography that's been some issues, and particularly in select states, we've seen states like Illinois and Michigan be a little more restrictive on being able to do tours, being able to move people in dependent on what the situation is, if you have a COVID positive resident or employee. So, there are some additional barriers there that continue to make it difficult for them to do business as usual.\nI feel like our operators are definitely complying with that and making sure that they're taking care of their residents first and foremost as best they can. But they've got to be able to get back to generating a lead base and getting people to move in. That's something they're working on every day, but it is still very much a challenge."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Okay. Last for me. Any risk that the Bickford deferrals could become abatements, if things sort of drag on? Or if not just Bickford, anywhere in your portfolio where you've gone that route?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Well, so far, what we've said is that we're kind of unwilling so to speak to make long-term decisions at a -- what we hope is a low point in performance and operations. So, we feel that these referrals are the best avenue. As we talked about before, when we have these discussions, everything is on the table. We'll see where things go from here. And if this does get protracted out, we are heartened to see that there is some positive vaccine news, which I think will help instill some confidence in the marketplace, which is what has been sorely lacking. So your question is not lost on us. I think the fact of matter is, it really is a matter of time and how we get back to some sort of normal operating environment and we've got to keep our options open."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Sounds good. Thanks very much, everyone."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thanks, Rich."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Jordan Sadler with KeyBanc Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Jordan Sadler",
+      "speech": "Good morning, guys. So I just wanted to start in on operating performance more recently that you guys discussed in the press release and on the call. Can you speak to what you're seeing in occupancy trends in October maybe qualitatively? Ordinarily, I think on the second quarter -- the first quarter, you guys were sort of an example in terms of transparency, in terms of what's happened with occupancy in your seniors housing portfolio. So I'm just -- I was surprised I didn't see it yet in the release last night."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "I'm surprised you're surprised, Jordan, because we still intend to publish that and we publish it mid-month. So, our earnings call is a little ahead of that. Not being a RIDEA organization, we're reliant on our tenants to supply us with up-to-date occupancy numbers. And that takes a little while to correlate [Phonetic] and orchestrate. So, stay tuned, and we'll get that to you as soon as we can and in line with our previous disclosures."
+    },
+    {
+      "speaker": "Jordan Sadler",
+      "speech": "Okay. And what I meant by that is, I think your last two earnings reports were probably 10 days into the quarter or into the month following the end of the quarter. And so, it seems like the timing would be similar. That's what sort of surprised me."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Jordan, if I could just weigh in -- sorry, if I could just weigh in real quick, I think the difference is being, it's a matter of a couple of days. We're trying -- we want to make sure we give you data that is consistent in apples-to-apples with the prior releases. So, we have a lot of the information. We get information on a weekly basis, particularly from our larger operators. But that is not the same data in terms of closing the books and making sure we have consistent average monthly occupancy, which is what we've been disclosing to you.\nSo, we want to make sure that we've been able to get that in, put it through our asset management systems, and make sure that it is an apples-to-apples number that we're publishing instead of just weekly or bi-weekly data that might have some variability to it. So, as Eric said, you'll see that when we do our mid-month update, but wanted to make sure we weren't publishing something before it was ready for prime time."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Yeah. And Jordan, no doubt, you will see a big picture, you will see Bickford occupancy down. That's why we've been doing this restructure, if you will. You will see senior living communities flat and you will see Holiday down. So, that's kind of a preview. I just don't know how much of down we're going to report specifically."
+    },
+    {
+      "speaker": "Jordan Sadler",
+      "speech": "No, it's interesting. And I appreciate it, obviously, the qualitative commentary because from some of your peers in the space among the REITS at least, they've given sort of October numbers. And it seems to point toward stabilization. But I thought your sort of language you sort of spoke to you a little bit more of a weakening. And that's why I was really interested. And perhaps it's a mix of operators. Perhaps, it's a mix of timing and that you're 10 days into November and some of these other folks we're speaking maybe a couple of weeks into already. So, it may be a better insight. That's what I was trying to glean."
+    },
+    {
+      "speaker": "John Spaid",
+      "speech": "Yeah. Jordan, this John. One of the things we've noticed is a lot of people have been giving spot occupancies. And spot occupancies are very dangerous occupancies. At the end of the quarter, 80-unit communities, if you have people -- five people move in, you can suddenly say my occupancy improved 6%. But on average daily rate, you could still be in the low-80s. You could still be way below that. So, spot occupancies are something that we're trying to be very conscious about when we talk to our investors."
+    },
+    {
+      "speaker": "Jordan Sadler",
+      "speech": "The one that I wanted to hone in on here in terms of your operators that seems to have not really stabilized, and we did just talk about Holiday. The occupancy there continues to slide. It sounds like Eric, you're saying that, that continues to be a pressure point likely through October as well. Are they current on rent? And do you foresee any issues? And how to think about what would be happening in terms of coverage there real time?"
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Yes. They're current on rent. And recall that we do have credit on that. We've got deposits and they've got working capital deposits, what we call a sinking fund on their balance sheet as a result of our restructure. So, their occupancy decline is worrisome, but they seem to be managing through it."
+    },
+    {
+      "speaker": "Jordan Sadler",
+      "speech": "Okay. And then, just maybe lastly on the Bickford sales. Any sort of -- do you have any better measure of sort of timing or cap rate yet, Kevin?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Well, we still guided the Streets to what our -- was our gross book, right David? We had -- that's what we put in there. That's kind of our barometer on what we're aiming toward, or hopefully, better than. I think a lot of this still is relying on finalizing negotiations, finalizing terms with banks. Things right now just with -- still with COVID and having to get appraisals done and a lot of the other third-party work has taken some time. So, we would have liked to have been able to be done by now. But the fact of matter is, there is still some more work to do. As it's currently structured, Bickford is incentivized to get this done before year-end. So, that's really -- the bogey is to try and get it done as far ahead of them as possible."
+    },
+    {
+      "speaker": "Jordan Sadler",
+      "speech": "Okay. And so, just use the $8.7 million-ish of annual rent coming from those assets to be right in the gross book value [Phonetic] and we'll get a rough proxy?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "I don't think that's an unfair place to start."
+    },
+    {
+      "speaker": "Jordan Sadler",
+      "speech": "Okay. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from the line of Todd Stender, Wells Fargo. Please go ahead."
+    },
+    {
+      "speaker": "Todd Stender",
+      "speech": "Thanks. I guess just to go back to the independent living discussion with Holiday and that occupancy slippage. I would have thought it would be more pronounced with the assisted living guys, but made -- and really thought that in independent living, you get fewer move-outs right now. Can you guys just maybe provide some color just on the move-in, move out dynamic at Holiday specifically?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Sure. They've -- move-outs have been their normal function of the business. And I think you're spot on in that the length of stay for independent living is greater generally speaking than it is for assisted living. That said, these are bigger buildings. You've got to build a bigger funnel, have a bigger lead base to be able to replace those move-outs. And I think the lead -- the lead traffic -- this is a discretionary model. People have the ability to just stay home, if they want to. So building that funnel from a move-in perspective has been a challenge, particularly in places where there are COVID outbreaks in the greater metro areas or restrictions in place by local governments or what have you on people being able to move around. So, that's a big part of what we've seen.\nTheir lead traffic has been down. One kind of anecdotal data point is this past month was I think the first time that their lead volume was in excess of where it was last year. That's for one month. So, that is by no means a trend, but at least it was an interesting anecdote to see some positive movement on a year-over-year basis. That all still has to translate to sales and move-ins. So, that's something that they are still working on every day.\nBut there have been some glimmers here and there with our operating partners. And they have seen -- the Holiday has seen some of that, where they've had a reduction to move out some months, but -- or move-outs and then they've just not have the move-in volume. And really that's been the story as more of the move-in volume than the move-outs. They've -- they average between 2.5 years and 3 years average length of stay with their residents. And that hasn't really changed. It's just been trying to replace the funnel and build it back up."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "And Todd, just to bring home what we said in our opening remarks, the entrance fee communities are clearly not seeing anything in terms of what we're seeing on the rental side of independent living. Their occupancies are holding up very, very well, including our recent joint venture in Timber Ridge in the Seattle area."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "They -- yeah, of course, they have much longer length of stay. Generally speaking, a much different profile of resident. They're a little bit younger, probably a little bit healthier by comparison. And the other thing that's really been interesting to watch is the housing market seems to be holding up really well, which is giving people the equity to make a purchase decision on an entry fee, which is just a very different decision than it is for an independent -- rental independent model."
+    },
+    {
+      "speaker": "Todd Stender",
+      "speech": "Very helpful, guys, I appreciate that. And then, I guess switching back to the Bickford sale of the nine properties. It's going to be difficult for a buyer -- I guess any buyer, including yourselves on the other side of the table, but you guys, as a seller, framing out what the rent is going to be a stabilized rent and what the coverage is. Can you also speak to are all nine stabilized assets? What kind of a rental stream would the buyer be looking at?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Well, in this case, the buyer is Bickford. So, they're just looking to the underlying NOI. And that's what's being underwritten for -- by the banks to be able to support a loan on those, and then NHI will get the benefit of those proceeds. Ultimately, what Bickford does with these assets is going to be up to them, whether they try to improve them, or they try to sell them. That's going to be a decision for Bickford.\nThe fact of matter is, of the nine, it's several different opportunities. There is probably two or three buildings they can expand. There is a couple of buildings that are stable, just have the rent associated with them has grown beyond what the market can support, because they're in a secondary or a tertiary market where they have not kept up with rental increases, but they're well occupied and pretty good performing buildings. And then, there's a couple that are turnarounds that they're going to need to figure out whether they're going to improve and keep or again sell if you can get interested buyers.\nSo the decision is going to be on them. It is kind of a smattering of different opportunities within the nine. And there is no question that they have work to be done. These are all buildings that were going to be sub-1.0 [Phonetic] on a coverage basis. So, it's going to be accretive for both of us to see them get sold to Bickford, put a lower cost to capital in place, and that's ultimately what's going to benefit them from a cash flow standpoint."
+    },
+    {
+      "speaker": "Todd Stender",
+      "speech": "Okay, that's helpful. And then, because you've got some -- you're forgiving some rent associated with the sale. So a true cap rate of something we may be looking at may not be fair because you have to throw that into the math. Is that right?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Well, we consider that as part of the sale and a consideration for them getting it done on a certain timeline. So, those are the things that we're trying to dot i's and cross t's on right now. But yes, I mean that's -- again, there is part -- I guess, essentially a part of the purchase price is taking into effect that there was a deferral of rent over a period of time."
+    },
+    {
+      "speaker": "Todd Stender",
+      "speech": "Great. Thanks, Kevin."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thank you, Todd."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Aaron Hecht, JMP Securities. Please go ahead."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Hi guys. Do you think the CARES Act money opening up your senior housing operators? Does that materially help the portfolio from future deferrals? I guess the highlight there would be on Bickford, but I'd also be interested in the other tenants. And then on the same topic, I think the original Treasury Department guidance for CARES Act money was that it had to be spent by the end of 2020. So, I'm wondering if that got extended in conjunction with opening up the senior housing operators in Phase 2."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Well, this is Kevin. I don't think their operating partners are going to have any trouble spending the money on whatever timeline they set forth. The fact of matter is there is plenty of costs associated with COVID in the reduction of occupancy that's been out there. These -- this 2% is by no means going to make that up. I think we've talked about this with our investors before. But if we wanted to try and quantify that 2% and equate it to a rent, it's basically like half a month to a month worth of rent. So, it buys them some time, but it's a band aid. It's not going to solve an issue.\nWe do believe, based on the information we have, that there is some additional stimulus dollars coming. We've got the Phase 3 dollars that all of our operating partners have applied for, but we don't know what those are. It's just a share of a pie. So, that will be additional support that will help push them -- push out the timeline and help them bridge a gap to, as we talked about a more normal operating environment.\nSo it all helps, but it's not going to be a solve for -- we -- our trade associations keep looking into when requesting additional support and we're hopeful that, that comes through and think that is -- would definitely be beneficial, given the impact that pandemic has had on these operations."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Okay. And then in terms of the Bickford recap, then getting the deal done with the bank, is your confidence higher, lower or unchanged today versus last quarter that they're going to get that done, given everything that you've seen thus far?"
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "I would tell you, our confidence is unchanged. We're moving forward with it believing that it will get done. Again, we still have some hurdles to get over, but we do believe that this is a good first step at minimum on trying to get Bickford some more financial stability and the benefit for everybody involved. So, we still have confidence that it can get done, but it is not without some hurdles that we have to clear."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Are the deferrals that were announced for Bickford -- I know there's essentially two tranches. Does that -- does the first tranche take care of them for the rest of the year, assuming that the deal doesn't close until the end of the year? And then if we get into 2021, the optional deferrals, would that be enough to sustain them for a period of time, assuming the deal doesn't get done? Or would there have to be additional deferrals on top of that unless a vaccine got to market before people are kind of thinking about?"
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "This is Eric. We've modeled all sorts of scenarios. Some of them just as you've described there. And the agreement that we reached with them is flexible enough to accommodate all of those outcomes."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Got you. That helps. And then, last one. Looks like the revolver availability increased by about $130 million quarter-over-quarter. I didn't see where that liquidity was sourced from, kind of fill me in on that?"
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Yeah, so there is a lot of notes in our Q and even our press release, about $100 million term loan that we closed at the very beginning of the third quarter. That's the primary source. The other source is just the various cash flows that we get. I'd like to remind everybody that we generally keep about $40 million of cash every year, after paying our dividend and all of our other fixed charges. So, we're continuing to do that. This year, we've had some dispositions. If you look back in our notes, you'll see some first quarter dispositions, but we just had the ability to pay down the revolver in excess of that term loan in the second quarter."
+    },
+    {
+      "speaker": "Aaron Hecht",
+      "speech": "Got you. Yeah, that makes sense. I appreciate the time, guys. Thanks."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Omotayo Okusanya with Mizuho. Please go ahead."
+    },
+    {
+      "speaker": "Omotayo Okusanya",
+      "speech": "Hi. Good morning, everyone. I just wanted to drill down on kind of two questions that have been asked previously. I appreciate and acknowledge your commentary around timing as it pertains to Bickford or some of the other senior housing operators. But just kind of given some book comments around vaccine. You have a scenario of vaccine getting us back to normal by kind of April-May. It sounds like we still kind of have, again, two [Phonetic] quarters of real pain to go through. And I guess just with that base scenario, trying to understand the confidence you guys have that you won't have to do more to quote unquote keeping Bickford on its feet."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Tayo, this is Kevin. I think, Eric had addressed that some degree already as we're willing to work with our operators. And as we've already demonstrated with Bickford on what may come down the pipe. For now, what we've tried to put in place is something that gets us the flexibility and gives them cash flow or cash to be able to manage through the next few months and get us to a point where we have additional clarity. And that's really what we're trying to get at this point is each day, we have a little bit more, and we will consider things as they come. But for right now, we've done what we can to be able to give them some financial flexibility and we'll have to take it kind of week to week from there."
+    },
+    {
+      "speaker": "Omotayo Okusanya",
+      "speech": "So, that's fine. I think that's fair. And then, the opportunities you talked about on the acquisition front, again, some comments around some developers may be struggling and things like that. We do think that as an indication of your willing to buy assets that may not be leased-up or assets that they may not be an operator yet, and you're kind of willing to take on the quote unquote lease-up risk."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "It depends. That's one of those resounding, it depends. Unfortunately, it's going to depend on our operating partner, the market that it's in. We've done that in select circumstances in the past. Are we starting to see some of those opportunities? Yes, but we would look at that as kind of a development opportunity. And if we have an operating partner that we can structure a deal with, that's going to be accretive to NHI and they have some liquidity to get them through a lease-up period, we would absolutely take a look at that. Are we going to go around and buy a bunch of lease-up buildings? No, I don't think we are, but we are starting to see some more of those opportunities and for the right customer. And like I said, I feel like we've done this in the past on a selective basis, we would definitely take a look at that.\nIt's just -- it's going to depend on all the things that we've looked at before. Is it accretive to our shareholders? Is it a high quality customer? Is it a high quality building? And is there a capital, whether we figure out a structure that finances that in or they're bringing to get them to a stabilization? And that's kind of the key right now is what is stabilization? How long does it take to get there? And I don't know that we have great clarity on that, but I can just -- I can tell you there is more -- we would be underwriting more longer periods than we would in the past. So to find something that's going to pencil when you're looking at a longer lease-up, they're going to be -- there is not -- I'd tell you, they're far and few between, but it is something we definitely are evaluating."
+    },
+    {
+      "speaker": "Omotayo Okusanya",
+      "speech": "That makes sense. Thank you."
+    },
+    {
+      "speaker": "Kevin Pascoe",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thank you, Tayo."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we have no further questions from the phone line, sir."
+    },
+    {
+      "speaker": "Eric Mendelsohn",
+      "speech": "Thank you, everyone. Thank you for joining us today, and we'll talk to you next quarter, if not sooner."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 67 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Dana Hambly--Director of Investor Relations",
+    "Eric Mendelsohn--President and Chief Executive Officer",
+    "John Spaid--Chief Financial Officer",
+    "Kevin Pascoe--Chief Investment Officer",
+    "Daniel Bernstein--Capital One Securities, Inc. -- Analyst",
+    "John Kim--BMO Capital Markets -- Analyst",
+    "Rich Anderson--SMBC Nikko Securities America, Inc. -- Analyst",
+    "Jordan Sadler--KeyBanc Capital Markets -- Analyst",
+    "Todd Stender--Wells Fargo -- Analyst",
+    "Aaron Hecht--JMP Securities -- Analyst",
+    "Omotayo Okusanya--Mizuho Securities USA -- Analyst"
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, everyone, and welcome to ProAssurance Conference Call to discuss the company's Fourth Quarter and Full-Year 2019 Results.\nThese results were reported in a news release issued on February 20 of 2020 and in the company's Annual Report on Form 10-K, which was also filed on February 20 of 2020. Included in these documents were cautionary statements about the significant risks, uncertainties and other factors that are out of the company's control and could affect ProAssurance's business in alter expected results. Please review those statements.\nManagement expects to make statements on this call dealing with projections, estimates and expectations, and explicitly identifies these as forward-looking statements within the meaning of the US Federal Securities Law and subject to applicable Safe Harbor protections. The content of this call is accurate only on February 21 of 2020. And except as required by law or regulation, ProAssurance will not undertake and expressly disclaims any obligation to update or alter information disclosed as part of these forward-looking statements.\nThe management team of ProAssurance also expects to reference to non-GAAP items during today's call. The company's recent news release provides a reconciliation of these non-GAAP numbers to their GAAP counterparts.\nNow, as I turn the call over to Mr. Ken McEwen, I would like to remind you that this call is being recorded and there will be a time for questions after the conclusion of prepared remarks. Mr. McEwen, please go ahead."
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Thank you, Chuck.\nOn our call today are President and CEO, Ned Rand, Dana Hendricks, our Chief Financial Officer, Mike Boguski, President of our Specialty P&C line, and Kevin Shook, President of our Workers' Compensation and Operations.\nNed, floor is yours."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Thank you, Ken.\nI hope everyone has had a chance to review our news releases and 10-K, because this call is going to be a little different. In the history of the company, I don't think we've ever had so much to talk about on an earnings call. So we're going to avoid repeating too much of what's been reported in yesterday's announcements to leave as much time at the end as possible for questions.\nBefore I turn it over to Dana for a look at our consolidated results, just a couple of comments. For over 40 years, ProAssurance and its predecessors have navigated the peaks and valleys of the long-cycle characteristics of our businesses. The two announcements we made yesterday, our fourth quarter and full-year 2019 results and the NORCAL transaction serve as an example of what we have always believed, it is during the most challenging stages of the long cycle that the greatest opportunities arise.\nWith that, we'll jump right in. Dana?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Thanks, Ned.\nAs we pre-announced on January 22, we had adverse development that came out of our regular year-end review of updated loss data with internal and external actuaries. This adverse development was largely attributable to increased reserve estimates for a large national healthcare account and to a lesser extent in our broader excess and surplus book of business. Given this reserve strengthening, we reported a net loss of $59.4 million for the quarter or a loss of $1.10 per share, and net income of $1 million for the year or net income of $0.02 per share. Our consolidated operating loss was $68.3 million for the quarter or a loss of $1.27 per share. For the year, we reported a consolidated operating loss of $43.8 million or a loss of $0.81 per share.\nFor the quarter, our consolidated current accident year net loss ratio increased by 20.4 percentage points to 109% and the full-year ratio was 90.3%, an increase of 6.6 percentage points. Excluding the reserve adjustments related to the large national healthcare account, these ratios were 93.5% and 86.4% respectively. We experienced unfavorable development in our prior accident year reserves of $30.4 million for the quarter, which drove the calendar year net loss ratio to 123.2%. However, for the full year, we recorded favorable development of $11.8 million and our calendar year net loss ratio was 89%. Our underwriting expense ratio was 31.5% for the fourth quarter and 29.9% for the year. This brings us to a combined ratio of 154.7% for the quarter and 118.9% for the year.\nIn our Corporate segment, we reported net investment income of $21.6 million in the quarter and $87.1 million for the full year. Due to the reserve adjustments recorded in the fourth quarter, we recognized a consolidated pre-tax loss for the year, which resulted in the recognition of $21.9 million tax benefit from tax credits, which was the primary driver of the total tax benefit of $29.8 million for both the full year, as well as the current quarter.\nFor more details on the results from our Specialty P&C segment, I'll turn it over to Mike. Mike?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Thank you, Dana.\nThe Specialty P&C segment recorded year-end 2019 operating loss of $147.9 million. This result was driven by a reserve strengthening in the fourth quarter of 2019 as referenced by Dana in her comments related to the large national account, and excess and surplus lines business. I want to be clear that the Specialty P&C segment has favorable loss reserve development of $45.8 million exclusive of the large national account during 2019. In 2019, the new leadership team executed a comprehensive business strategy in response to emerging emerging loss trends and changing conditions in healthcare professional liability. This includes organizational structure enhancements, consolidation of operations, recruitment of additional talent in healthcare professional liability specialty underwriting, tightening of underwriting criteria terms and conditions, as well as price strengthening.\nIn early 2020, we introduced the field organization of the future for our healthcare professional liability business. We established four operating regions with regional hubs and reduced the number of offices from 20 to 10 across our operating territories. We believe the strategic business decisions that have been made to date will improve the operating efficiency, pro forma expense structure, and value-added service to distribution partners and customers. We expect to see the benefits of these actions in late 2020 and beyond. We are encouraged by our early progress, and we'll continue to execute the strategy throughout 2020 to position us well for the future.\nI will now update you on year-end 2019 results starting with the top line trends. Gross premiums written were essentially unchanged as compared to 2018, finishing 2019 at $577.7 million. The increase to gross premiums written in our physicians business is driven by solid production results and renewal rate increases. This is offset to some degree by the reunderwriting efforts in our healthcare, facilities and certain sectors of the excess and surplus lines business. Gross premiums written for the other lines in Specialty P&C were relatively flat year-over-year. Overall, we observed firming of the market in healthcare professional liability. However, this was offset by the excess capital in the space and pockets of intense competition, particularly in the physicians business. Premium retention for the segment was 86% for the year, 3 percentage points lower than the prior year, reflecting our focus on underwriting discipline and our willingness to walk away from business that does not fit our risk appetite or longer-term profit objectives.\nWe were aggressive in reunderwriting our healthcare facilities in excess and surplus lines business. As a result, premium retention in our healthcare facilities business was 62% for the year and 47% for the quarter. Exclusive of the facilities, business premium retention was 88% in each of our physicians, medical technology and legal liability businesses for the year. A strong result in a market that remains competitive. We are also encouraged by renewal rate increases of 14% in our healthcare facilities and 6% in physicians, our largest portfolio business. In our large account business, we achieved significant improvement in terms, conditions and product structure, improving overall rate adequacy in that segment. We wrote $42.6 million of new business in 2019 compared to $47.9 million in 2018, reflecting our disciplined underwriting evaluation of the business presented to us. Our physician new business was a driver at $25.1 million of writings during 2019. The increase in the current accident year loss ratio to 105.5% was due to the previously mentioned underwriting loss for a large national account, and to a lesser degree, adverse loss trends in our excess and surplus lines of business.\nFor 2019, the prior-year adverse loss development related to the large national account was $51.5 million, which was entirely responsible for the $5.7 million of adverse development recorded in the segment for 2019. As previously stated in my opening comments, excluding the impact of the large national account, loss reserves developed favorably by $45.8 million. On a very bright note, we're extremely pleased with the exceptional underwriting results in our life science business during 2019.\nWe are excited to announce the NORCAL Group acquisition and look forward to the combination of the companies. This is a transformative strategic transaction for both organizations and provides us with geographic diversification, a true national platform, significant penetration in the physician market, best-in-class talent and high quality distribution partners. We look forward to working with the exceptional employees, distribution and strategic business partners of both companies to create a premier organization to serve the healthcare market, ultimately creating long-term value for our shareholders. Please keep in mind, the transaction is subject to regulatory approvals and other required closing conditions.\nKen?"
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Thanks, Mike.\nKevin, will you please lead us through the results of our Workers' Compensation Insurance and Segregated Portfolio Cell Reinsurance segments?"
+    },
+    {
+      "speaker": "Kevin Merrick Shook",
+      "speech": "I will, Ken.\nThe Workers' Compensation Insurance segment produced operating income of $12.5 million and a combined ratio of 94.7% for the 2019 year in a highly competitive marketplace. During 2019, gross premiums written, which includes traditional and alternative market business ceded to the SPC Reinsurance segment, decreased 5% to $278.4 million, compared to $293.2 million for 2018. The consistent application of our individual account underwriting strategy, which carefully assesses the underlying risks of each policy, resulted in this production decrease in 2019. Correspondingly, new business writings for 2019 were $30.8 million, compared to $51.5 million in 2018. However, it's important to note that 2018 includes $11.7 million of new business related to the Great Falls renewal rights transaction.\nAudit premium was $5.7 million in 2019, compared to $5.9 million in 2018. Renewal price decreases were 4% and premium renewal retention was 83% for the 2019 year. We continue to monitor closely historical loss ratio results on the business we renewed, versus lost or non-renewed to determine we are retaining profitable accounts that value the Eastern service model. The increase in the calendar year loss ratio reflected an increase in the current accident year loss ratio from 68% in 2018 to 68.4% in 2019. Net favorable reserve development was $7.8 million for the year. The 2019 net favorable loss reserve development reflected better-than-expected claim results, primarily related to accident years 2015 and 2016. The claims operation enclosed 65.7% of 2018 and prior claims during 2019, the best claim closing result in Eastern's history and indicative of the short-tail strategy embedded in our Workers' Compensation business model.\nThe increase in the current accident year loss ratio reflects the impact of renewal rate decreases and the effect of updated contract terms to our reinsurance treaty renewed in the second quarter of 2019, which included the addition of an annual aggregate deductible, substantially offset by the previously mentioned favorable claim trends in 2019. The full-year 2019 underwriting expense ratio increased to 30.4%, compared to 29.9% in 2018, primarily due to an increase in policy acquisition and employee benefit-related costs.\nThe Segregated Portfolio Cell Reinsurance segment operating result was $3.5 million for the 2019 year, which represents our share of the net operating profit of the Segregated Portfolio Cell captive programs, in which we participate to varying degrees. Gross written premium in the SPC Reinsurance segment increased to $87.1 million for 2019, from $85.1 million in 2018. This includes premium renewal retention in 2019 of 91%, new business writings of $3.8 million, and audit premium of $2 million, offset slightly by renewal rate decreases of 5%. The 2019 calendar and accident year loss ratios were impacted by $10 million reserve recorded in the second quarter of 2019 for an errors and omissions liability policy assumed by one of Eastern Re's Segregated Portfolio Cells.\nAs a reminder, the recording of this reserve increased net loss and loss adjustment expenses, but had no effect on our operating results as we have no participation or ownership interest in this particular cell. Year-over-year, the SPC Reinsurance 2019 calendar year loss ratio increased to 54.4% excluding the impact of the $10 million E&O reserve driven by an increase in the current accident year loss ratio, partially offset by net favorable loss reserve development of $10.1 million in 2019, compared to $9.0 million in 2018. The favorable development reflects better than expected claim results, primarily related to accident years 2015 through 2018. The increase in the current accident year loss ratio in 2019 is due to an increase in severity-related claim activity.\nUnderwriting expenses in the SPC Reinsurance segment represents the ceding commission paid to the Workers' Compensation Insurance and Specialty P&C segments for the services they provide to the segregated portfolio cells.\nKen?"
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Thanks, Kevin.\nNed, will you please give us a quick update on Lloyd's before we get to the NORCAL transaction?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Sure, Ken.\nAs you know, for the past year, we've been looking at ways to reduce our exposure at Lloyd's. And as a result, we have decreased our participation in Syndicate 1729's operating results for the 2020 underwriting year from 61% to 29%. Due to the one quarter lag, we'll begin to see the effect of this change come through during our second quarter 2020 results. Duncan Dale and his team have build an excellent operation at Lloyd's as evidenced by the fact that he was able to secure additional capital providers for the Syndicate at a time when others are struggling to do so. We look forward to continuing our relationship with Dale Underwriting Partners under the new arrangement, which we believe is more in line with our operating goals for the 2020-year.\nI'm going to turn to talk a little bit about the NORCAL transaction, but before I do, I'm going to get Dana to give us a little additional financial information. Dana?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Sure.\nAlthough in NORCAL will not follow its year-end 2019 annual statutory statements for its group of companies with the California Department of Insurance until March 1, it maybe helpful for you to know that when they do, we expect it will show consolidated statutory surplus of approximately $575 million as of December 31, 2019. That will reflect reserve strengthening for both current and prior accident years.\nBack to you, Ned."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Thanks, Dana.\nWe've always been selective in our approach to M&A activity, growing where and more importantly when it makes sense to do so. The increasing complexity of modern medicine, a shifting healthcare professional liability loss environment, and the growing competitive importance of scope and scale in our industry make it an ideal time for two companies with decades of specialized experience to align their futures.\nWe expect this transaction to deliver multiple strategic and financial benefits, including enhancements to our scale and capabilities, expanded access to the high quality California physician market, and an expected $18 million in pre-tax synergies. These synergies will consist of corporate and back-office expenses, staffing, and other cost areas such as technology and real estate, along with consolidation of reinsurance and investments. We anticipate the transaction will be accretive to earnings in the second year of ownership, and over the long term, generate highly attractive returns for shareholders.\nAs Mike said, bringing the NORCAL Group into the ProAssurance family of companies represents a transformational strategic opportunity. I'd like to thank Scott Diener, President and CEO of NORCAL, and his team for all their efforts to bring us to this point, since we first began discussing the possibility in the spring of 2018. I'd also like to thank Mike Boguski and his team as well. I know there is more to do, but the work that's been done to get us to this point is truly outstanding.\nWith this transaction, ProAssurance gains a truly national platform in healthcare professional liability with operations in all 50 states. It doubles the size of our physician book of business, opening the door to the California market and simultaneously makes ProAssurance the third largest writer of healthcare professional liability insurance in the country. As always, our due diligence process on NORCAL's loss reserves, in particular, has been very thorough with both internal and external experts contributing to the project for well over a year. We believe the transaction valuation at this level is attractive. We expect the transaction to close by the end of 2020, but we have a lot of work ahead of us to ensure a smooth transition.\nIt was during the last true hardening of the market under conditions similar to those we perceive today, that the merger between for ProNational and Medical Assurance created ProAssurance. I said before that this cycle feels different, and we should not expect the markets to harden as quickly, nor perhaps as dramatically, as in the early 2000s. Regardless of how the next phase of the cycle manifests, ProAssurance will be prepared thanks to our commitment to early and decisive action. While we continue to navigate the challenges of an evolving market, we are confident that our strategy is the right one, and we're excited for the next stage of ProAssurance's journey.\nKen?"
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Thanks, Ned.\nThat concludes our prepared remarks. We are ready for questions. Chuck, you there?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Yes, sir.\n[Operator Instructions]\nAnd our first question will come from Amit Kumar of Buckingham Research. Please go ahead."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Thanks, and good morning. Can you guys hear me?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah, Amit. Thanks."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Okay, perfect. Changing to handset here. So let's start with, I have some questions on Norcal reserves loss ratios, as well as the surplus. Did Dana give the number of $575 million? Was that the surplus number you mentioned?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Yes. Yes, that's it, Amit."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "If I am looking at this correctly, was the surplus for NORCAL at nine months $740 million?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Yes, that's about right."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "So that's $200 million shift, which obviously seems a material shift. Can you just discuss a bit more, was that based on your input or was that a number your team looked at the reserves, did a deep dive and hence that was a pre-close adjustment?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Amit, no, absolutely not. That adjustments that they are taking in the fourth quarter are certainly adjustments that their management team views as prudent for them to do that is in no way reflective of any input from ProAssurance."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Okay. The reason why I'm asking is, when you look at that level of adjustment and even if you go back and look at the nine-month development that even in line with adverse development, it was spread in '18, '17, '16 and prior. So it seems there is something going on across the book in terms of loss picks. And I'm just curious as to the level of comfort you have merging with a company, which was running at historically the combined ratio of 100%, and now recently is witnessing massive amounts of adverse development across multiple periods. What gives you comfort that there wouldn't be additional issues as you merge and as you sort of kick the tires over the next several months, and maybe uncover additional reserving strengthening?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Hey Amit, it's Ned. It's a good question. One is we've been kicking the tires for quite a while. So as far as the due diligence process, it's been extremely thorough. NORCAL has been very forthcoming and open in the information that has provided to us. And so that gives us a great deal of comfort. If you look at the way that the transaction is structured, there is an initial base consideration of $450 million and then contingent consideration of up to $150 million that is subject to the development of reserves from the date of acquisition over a three-year period.\nAnd so, to answer to your very specific question of how do we gain comfort, one, it is through our due diligence process and understanding of how reserves are being held today, but it's also through the structure of the transaction that we think gives us protection as well."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "So, this -- maybe staying on the topic. As we go forward, do you expect -- how do you expect to I guess look at reserving or claims, how the claims are being done differently? I would imagine you're contemplating meaningful changes or actions down the road for the NORCAL book."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah. So, obviously the transaction is subject to regulatory approval and a vote by the NORCAL policyholders. And they will continue to run as a stand-alone company with no influence from us over that time period. Once the transaction is closed, we I think under Mike's leadership and Mike mentioned some of the changes that we've made apart from the NORCAL transaction, and reorganizing restructuring the healthcare professional liability business for ProAssurance, and NORCAL will slide well into that new structure that we have, becoming a West Coast region for us, but under the leadership and particularly on the claims side, Darryl Thomas, who has led claims for ProAssurance for -- if I'm right, total of 25 years."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Two more follow-up questions and I'll requeue. The first question is NORCAL is California-specific, if you look at the market share, and then you look at ProAssurance's market share is de minimis in California. NORCAL I think is 14%, 15% of that market in med mal. When you think about the entire topic of social inflation, the changes, etc., attorney involvement of the pressures you've been talking about, I would imagine their book would feel continued pressure on that front. And I was curious if you had a view on social inflation as it relates to their states versus your states."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "One of the things that I think has been interesting about this kind of most recent round of social inflation is that it doesn't feel geographically specific. We have seen in our own book and the marketplace more broadly, large verdicts in places where I would say large verdicts were not expected. And so while it is true that kind of certain hotbeds continue to be hot, the concept of social inflation is much more broad than that. Speaking about California, in particular, California has some of the longest-standing tort reform in the country as regards medical professional liability. It was established in the '70s. I believe it has been challenged all the way up to the US Supreme Court.\nAnd so it has a good environment for the physicians in that state to operate in because of that tort reform and we're very comfortable with the marketplace."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Last question and I'll requeue. In your opening remarks and in the slides, you talk about accretion to EPS, etc. Is there any way you can talk about what you would view this NORCAL book are running at, post everything? I'm just curious, do you think it turns an underwriting profit down the road, or is it more of an investment income play? Thanks."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "We absolutely think that over the long term, the performance of that book of business will line up with the performance of the existing ProAssurance book of business. And the objective across that entire book is to return an underwriting profit and get to that 10%, 700 basis point above the 10-year treasury. I guess that's a little less than 10% right now, return for our shareholders. And we're very confident in our ability to do that."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Okay. I will stop here and requeue. Thanks for all the answers."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Thanks, Amit."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Matt Carletti of JMP. Please go ahead."
+    },
+    {
+      "speaker": "Matt Carletti",
+      "speech": "Thanks, good morning."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Matt Carletti",
+      "speech": "Just a couple of questions. One, I just wanted to go through the results in the quarter and just see if what additional color you can give us around that large national healthcare account that drove the adverse development. And even if not specific to that account, just help us understand kind of what is driving a loss of that magnitude. I think we have a good feel for kind of the limits profiles and reinsurance profiles in your physicians book, but can you walk us through kind of what you're seeing whether in this case or broadly in the healthcare side? And then how we might think about reinsurance structures on that side of the business?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Matt, it's Mike. Just talking about the Specialty business in general, there is no question as the physicians market is consolidated, and there has been more capital and competition in that large account space that -- the loss volatility in general has been more volatile than the physicians book. And that's true with respect to severity, and it's true with respect to just overall loss ratio result. With respect to the national account, it was -- at the end of the day, on the reinsurance side, it was not a vertical severity insurance exposure. It was a unique structure that was more on an aggregate basis.\nI will say this, with respect to that structure, we have no others in our book of business. And it was a miss on the loss projections and attachment points. The pricing -- there was a unique structure and there were severity over that period that was maybe not as contemplated as well as we needed to. And that really at the end of the day is the rationale for that result. We're encouraged that we've identified it. We're certainly have looked at our overall specialty book of business to make sure we don't have any similar structures and we don't, and we just have to take it from here."
+    },
+    {
+      "speaker": "Matt Carletti",
+      "speech": "Okay. And so in regard to that, is there -- I guess, that particular structure, is there any -- are we close to any sort of limits on the account or reinsurance, and you're kind of capping it? Or is it more of, you guys have just put a good scrub on it, put a lot of conservatism on it and you're at a higher confidence point in the reserving?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "It's the higher confidence point in the reserving."
+    },
+    {
+      "speaker": "Matt Carletti",
+      "speech": "Okay, great. Thank you. And then just one more if I could, I guess probably for Ned. Just shifting back to NORCAL. I'm curious if you could just update us on your view of where the cycle is. To me, this is a very strong signal that you see light at the end of the tunnel, that you see things changing and I think in your words and I would agree it will take time, but maybe just -- if you could frame your decision to enter into a transaction like this alongside your updated view on where the cycle is headed?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Matt, it's a hard question to answer, just because I think there are just so many unknowns, but we maybe talk about a couple of things. On the causation side of the market, what people are labeling social inflation, we're encouraged that the broader P&C market is recognizing these trends. We began recognizing, reflecting in our results and our pricing these trends back in 2018. And it's good that the rest of the industry is beginning to do so as well. And so I think that will help certainly from the pricing environment. On the actual social inflation side, to go to the jury behavior component, where we are and the pendulum swinging up or back down is much harder to know. We've been through these cycles before, and my guidance I think says the pendulum is probably swinging up still, with where we are from a jury and trial standpoint. But we are getting the traction and pricing that is needed to keep up with that shift.\nWhen it reaches its peak and if and when jury behavior changes or moderates, that's a little harder to know. But we feel like we're in a good position and reacting effectively to what is going on."
+    },
+    {
+      "speaker": "Matt Carletti",
+      "speech": "Okay, great. Well, thank you for the answers. And congrats on the deal and best of luck getting it closed and integrated."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Thanks, Matt."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Thank you, Matt."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Greg Peters of Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "Good morning. A couple of questions. First of all, on NORCAL, can you step back and provide us a sense of business mix? What I'm thinking about is small group physicians, individual practices versus mid and large-size groups."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Hey Greg, it's Mike. We think one of the strategic advantages and benefits of this transaction for both organization is the fact that NORCAL is primarily a physicians market and has a much higher profile in the book of business on that side of it. So when we look at it, we tend to believe that market, the physician markets, when we combine that business, has a lot less of a runway to go on price adequacy and the competitive issues out there than say, some of the things that we're seeing in the specialty and large account area. But we think that's a really good thing for us long term, because we would expect less volatility in that combined book of physicians business than we would in the large account sector. And roughly -- in rough terms we're roughly 65%. If you look at ProAssurance, we're two-thirds physicians and one-third specialty. Then when you -- if you were to look back at the '18 results and put the companies together, it would be more like 75% physicians and 20% specialty.\nSo we think that's a good product mix going forward."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "Thanks for that color. Wanted to just follow on that point. We know that the physicians market has been a shrinking market, most everywhere in the country. Would you characterize the trends that has affected your business -- the physicians business and most of the country also being relevant in California?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah, I think they are, Greg. California is a little different in that, that one of the things California does not allow is for hospitals to directly hire physicians. So you do not see that phenomenon, but their workarounds that have been created where trusts and other organizations are created that are affiliated with hospitals that will then employee physicians, but the physician market is a little bit different in that regard. But yeah, the same consolidation trends that are occurring elsewhere in the country are certainly occurring in California."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "And just one other minor point. I should assume that most of the NORCAL book is claims made, except perhaps a nose coverage or a tail coverage type of exposure?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "And they -- as Dana said, they'll have their statutory statements filed on March 1, and obviously you can get a lot more detail about their book of business, once their statements are filed."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "So just a final NORCAL question for me. And that would be, considering the substantial reserve change that they are going to post at year-end in '19, that would suggest that their business has been under-priced. And I'm not sure about medical malpractice in the State of California, but we know other lines of insurance in the State of California are very hard to get rate increases approved by the Department of Insurance, who is almost an adversary to your insurance industry. I'm curious, one, about your perspective on whether the business is adequately priced today, or they have enough rate in the pipeline? Or two, how you view the negotiations and discussions going with the California Department getting the additional rate?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "So yeah, I think, California is a reasonable and rational department, and we'll look at the loss trends that underpinned the results at NORCAL and allow NORCAL to take any actions that are appropriate. NORCAL's book of business is greater than just California, and I think that's important to recognize. And if you have access to our press release on the transaction, there is a small slide deck that's included with that, and you can see that only -- in reality, only 31% of NORCAL's business is California-based business. So the other states are equally important.\nAnd NORCAL, as much of the industry, as rates have come down rather than filing reduced rates has used credit mechanisms within the discretion of the rate filings they have in place to lower that pricing, which gives a lot of latitude in the ability to raise pricing. And that's similar to what we have done. So we're confident that NORCAL will be able to take any steps that they believe are necessary. I don't want to get into the details of kind of their claims business, but we do have confidence that some of the things that has led to the results that they are posting are a little bit anomalous, and they have the ability both through how they manage and handle claims and pricing, to respond quickly to it."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "And you didn't include an ADC cover on the purchase, did you?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "We did not. Mike, yeah."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Greg, I would just add that one of the other benefits is just kind of scale and scope in operating efficiency, and I think that's going to be really helpful to us both on the expense management side and the operational efficiency side. We also added two markets. One, which we have less penetration in Texas that are attractive markets, and we have limited penetration in Pennsylvania. NORCAL has a strong position there.\nSo I think when you just kind of look at the overall geographic diversification kind of spread a risk on the book that will be helpful as well."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "Great. Thank you for those answers. I'm just going to -- the last question sort of dovetails with some of the previous answers you provided about where we are in the cycle and you say we don't know where we are. But you pointed out, Ned, that the company began to change it's posture on the market back in 2018. So we're now entering the third year of your, if you will, change posture, more conservative or cautious as it relates to trends you were seeing in the industry regarding big settlements. And for the most part, as you -- as this process was evolving, you were pointing out to investors that for the most part, you weren't seeing those trends in your book, but you were seeing in the industry and so therefore you're exercising caution.\nNow that we've got 2019 in the books, can you say that you're still seeing the industry trends that are negative? And I think that's an affirmative, but you're not seeing the same trends shop in your book?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "So I just want to be -- what we have said previously is that we were seeing it in our incurred losses, the loss reserves being established by our claim professionals but had not see it materialize itself in a material way on our paid claims."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "Okay. Sorry about that. Just [Speech Overlap]."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah, no. Yeah. And I would say that we are beginning to see severity tick up in our paid claims as well. So the caution and the prudence that we have been taking, I think is proving to be justified. And so as we got into that year-end analysis, we did begin to see some of that. And that really, as Mike alluded to, we had about $15 million of adverse development in our E&S book, and that's a contributor to that. We remain very, very comfortable with where our reserves are established and as I said earlier that we're making the ground necessary in the price increases that we're seeing."
+    },
+    {
+      "speaker": "Charles Peters",
+      "speech": "Great, thanks for your answers."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Mark Hughes of SunTrust. Please go ahead."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Thank you. Good morning."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Good morning, Mark."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Reflecting on that you're starting to see the severity in your paids, is 6% great enough to cover what's going on here?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Hey Mark, it's Mike. When you kind of look at the severity trends, it is really unique by the sector of the business in the states. So we have seen lower severity trends in some states, higher severity trends, for example in the Specialty, and excess and surplus lines business. Overall, it's been ranging in that kind of 2% to 5% range. And when we look at that, we got 6% to 14%, 6% in physicians, 14% on the Specialty this past year. I will say we had a very strong January on the rate side as well, that is above the severity trend. And the good news there as well is the frequency trend has been very flat or slightly down. So we are from an underwriting perspective clearly given up retention for the rate side -- for the rate adequacy side going forward."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "The other thing that I think is important, and I know that Mike highlighted it, is on the Specialty book in particular. It's not just the rate increases, it's the underlying structure of the policies with higher deductibles, higher SIRs that are de facto rate increases that don't get reflected in that rate increase number and I think that is important. So when you combine the business that we're moving away from and the lessons that we're learning and making sure we don't repeat the same mistakes, the price increases and the structural changes that we're able to make on that E&S book, we feel like we're making adequate ground up."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "How should we think about the... Go ahead."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Yeah. I was just going to add, we're -- from that perspective, we're about 70% through that book with our new leadership team in Specialty and got a couple of more quarters and I think we're making excellent progress on what -- both the premium rate increases and the structural changes."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "And that 70% includes the facility book? I think your retention that was at 47% for the quarter. Do we see that for a couple of more quarters and then you are through it?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "That's correct."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "How about the loss pick, when we think about the 2020 in the Specialty P&C, a lot of moving parts clearly. Can you give us some rough guidance on where that ought to be?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "I think as we historically have done, part of it will be dependent upon kind of the evaluation and the impact of the pricing we had over this past year and then the pricing gains we make in the first quarter. But I'd say, look at the accident year loss ratios for the business as a good starting point."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Last year's accident year loss ratios?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "For the 2019 year."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "And is that to include the -- what is it, is 93.5%, is that the right number I'm thinking about?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "I would strip out the large national account and give you the details. Now I don't have the numbers directly in front of me, I apologize."
+    },
+    {
+      "speaker": "Mark Hughes",
+      "speech": "Okay. I think I understand. Okay. I think that's it. I appreciate it."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Sure, Mark."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Thank you, Mark."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nOur next question is a follow-up question from Amit Kumar of Buckingham Research. Please go ahead."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Hey, it's Amit Kumar. A few questions. Just going back and better trying to understand the rationale and the timing of this deal. Was this -- you mentioned that you were kicking the tires for some time. Was this in the pipeline for quite some time, or is this more sort of Ned's vision of PRA 2.0?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "It's a good question. So our discussions actually go back into 2018 and the process that NORCAL ran began in 2018. So it has been ongoing. As far as my vision, I will say that I'm extremely excited about bringing NORCAL in to the ProAssurance Group. And I think together, we'll be a better stronger organization that can really be impactful."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "That's helpful. The second question I have is, and I might have missed if you mentioned this in opening remarks, they have 300 employees. Maybe talk about what's -- and again I understand the sensitivities. What do you think about that and also maybe talk about, is there a one-way or a two-way break-up fee and what's that number?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah. There is a break up fee. It is I think $15 million, in place. So through the diligence process, one of the things you don't get to do is really know the bulk of the employees of an organization. And so we've had -- not had that opportunity. We've gotten to know the management team well, and the Board well, but really not the employees. And so we're excited about the opportunity to begin to meet the employees, and Mike and I and Rob Francis will be making a trip early next way to hit the largest offices of NORCAL. So we have exactly that opportunity. I made a reference in my prepared remarks to kind of bringing together the two companies that formed ProAssurance, and in a lot of ways there are similarities here.\nAnd so we're going to find great talent across both organizations and we're excited to do so, but we do that with our eyes wide open and knowing that in order to extract the full benefit of this combination that we do have to find efficiencies. And as we mentioned in our prepared remarks and we've got $18 million bogey for synergies and those synergies will come from a number of places, but unfortunately one of those places will be staffing as we look at the best of breed across both organizations."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "I'm sorry, was that a two-way break up fee or is that a one-way break up fee?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Jeff?"
+    },
+    {
+      "speaker": "Jeffrey Patton Lisenby",
+      "speech": "ProAssurance will be paid $15 million if the NORCAL Board accepts a competing offer. It's a one-way break up fee."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "It's a one-way break up fee. Okay. And then the last question I have is, I think, again, I want to go back and talk about the legacy piece. I think all of us have looked at the reserves for quite some time. We understand the issues with asymmetric information. Why not consider like an an ADC or an LPT, or something which would give comfort to investors? Generally, if you look at the deals historically, there have been multiple instances where the reserves have gone sideways after a period of time and especially for a company which is just on this level of reserve strengthening at year-end, why not consider a part of that or why not even look at renewal rights kind of deals?\nMaybe just, talk about the sort of the bigger rationale here on that front."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Want to take it, Mike? I'm happy to take it."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Yeah. I think if you take a step back, I think all those opportunities have been looked at. And I think that -- and no the final conclusions on that. So -- and I think it's a really good point, Amit. But at the end of the day, what Ned said earlier, I think is the most important piece, which is a very strong due diligence, a very good review of the company on the reserve side. And we feel comfortable with where we're at."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "And Amit, ADCs and another things can make sense, but they have to make economic sense."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Fair point."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "And so, as compared to somebody that might have the opportunity to put on an ADC, I think the level of diligence that we have been able to do across the entire company is far greater."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Was there some urgency to the deal in terms of there have been competing bidders, etc.? Was it an open bidding process, which is coming to conclusion? I'm just trying to understand, and I think Greg or someone was asking about the loss environment and you're talking about the paids now reflecting some of the pressures. I'm just curious, why not wait for the cycle turn -- again, I have to use that word carefully -- to get better data where you can say that, OK, we are just getting closer to the trough. Now is when we benefit on the uptick in pricing and market conditions, etc. Why not wait for that confirmation than do a deal at this point of time, where you still trying to play catch-up with the loss trends?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "I guess part of the answer to that question really needs to be addressed to NORCAL, who in this instance is the seller. In answer to the first part of your question about urgency, again I'll go back to -- the conversations with NORCAL started in the spring of 2018 and culminated in the announcement that we made yesterday. So I don't think anybody that sits around the table with our executive leadership team felt a sense of urgency. I think, what we've felt was that we had a very good period of time over which to negotiate an appropriate transaction and do appropriate due diligence that gave us considerable comfort in executing the transaction that we have with the protections in it, with the way that the consideration is put forth that gives us great comfort."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Okay. That's all I have for now. I'll stop here. Thanks so much for the answers."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Thanks, Amit."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Bob Farnam of Boenning & Scattergood. Please go ahead."
+    },
+    {
+      "speaker": "Bob Farnam",
+      "speech": "Yeah, hi there. Yet another question on NORCAL. So it looks like in 2018, the direct written premium was $342 million or so, and growing in 2019 up to maybe $370 million. Given the reserve charge that they are expected to take in the market conditions, any idea what that will look like through 2020? And if we assume that you close this deal at the end of 2020, how much of that book do you think you'll be able to renew or keep starting in 2021?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Yeah. Bob, it's Mike. Talking on 2020, that's obviously going to be determined by the NORCAL team, and what their underwriting strategy is throughout 2020. As we get to 2021, if we're successful in the close, we're going to certainly implement our combined underwriting strategy within our underwriting structure, and obviously we'll evaluate that very closely at that time. And I think clearly in this marketplace, the way we have assessed it today is, there is emerging severity, there is social inflation, there is a prolonged soft market here. So I think, the strategy would be obviously to move rates up and underwrite the book to our long-term profit objectives."
+    },
+    {
+      "speaker": "Bob Farnam",
+      "speech": "Can you tell us about the growth at NORCAL in 2019? Like how -- obviously it's been very tough market conditions, but they have have pretty decent growth for the year. Do you have an idea of what that was, what was driving that?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Bob, the two numbers that stand out as the new business was consistent with other years, there was a very strong retention result and there is some rate coming through the books and it's primarily in the core physician market."
+    },
+    {
+      "speaker": "Bob Farnam",
+      "speech": "Okay. And you said ProAssurance is getting 6% rate there. Do you expect that NORCAL is getting something similar?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "I suspect that that's a reasonable range of targets that they're considering on their book as they go forward."
+    },
+    {
+      "speaker": "Bob Farnam",
+      "speech": "Okay, that's it from me. Thanks."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Thank you, Bob."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Ron Bobman of Capital Returns. Please go ahead."
+    },
+    {
+      "speaker": "Ron Bobman",
+      "speech": "Hi, thanks. Well, the pricing and structure in loan due diligence process and the engagement of third parties all sounds good to me."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Thank you, Ron."
+    },
+    {
+      "speaker": "Ron Bobman",
+      "speech": "Yeah. I had a question about the earn out, so to speak. If in fact the reserves prove out in favor of NORCAL, in essence the reserve estimates that NORCAL -- NORCAL's position, will that be additional purchase price, the payment of some or all of the earn out?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah. I believe that will be additional purchase price with contingent consideration. Again, three years later, after the deal closes, paid six months thereafter. And, yeah, it would be contingent consideration on additional purchase price."
+    },
+    {
+      "speaker": "Ron Bobman",
+      "speech": "Could you explain -- thanks a lot. Could you explain in a little bit more detail the conditions upon which it gets paid? Meaning, is it the -- it's the reserves as of closing, proving to be adequate? Could you talk about the sensitivity, is it a sliding scale, etc., etc.? Thanks."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Hold on one second, Ron. I'm just trying to get the timing of some things figured out real quick. So, there'll be a lot more details eventually in Q1. I think at the end of Q1, we'll file the agreement. The way that it has worked, because there is obviously a lot of unknowns in the business that will be produced between now and closing, there is a point in time estimate of reserves based on our view of reserves as of the end of '19. And then there are provisions in the agreement that are basically kind of projected loss ratio based on our earned premium up through -- well, actually it's 2018-point estimate, 2019 loss ratio based, 2020 loss ratio based against earned premium that establishes kind of the baseline for reserves. And then based on an actuarial assessment that is done three years post closing, relative to that number will be the determinant for that. Really, you will see -- I think you see it in writing in our agreement."
+    },
+    {
+      "speaker": "Ron Bobman",
+      "speech": "Okay. And then -- let's just says reserves aren't closed but are a little bit deficient. Is there a sort of -- you end up paying 90% of the earn-out? It's not all or nothing I take it?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "No, it's -- yeah, it's dollar-for-dollar. From that kind of point estimate that I just described, if reserves are on an after-tax basis $10 million better, then they'll receive $10 million. So it's just dollar-for-dollar through that corridor."
+    },
+    {
+      "speaker": "Ron Bobman",
+      "speech": "Okay. I'm sorry, so it's the magnitude of favorable development off of that base level?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah. For every dollar -- so we've got a point estimate of what we think reserves are for every dollar that reserves -- that I would say we think is conservative. And for every dollar that reserves develop favorably, they get that. So it kind of locks in a pretty close to book value transaction at the end of the day, I think, when you consider the contingent consideration."
+    },
+    {
+      "speaker": "Ron Bobman",
+      "speech": "Okay. And the last question is, because of the reserve addition there -- I assume it will be stretched out, but are there some tax benefits that -- NOL-type tax benefits that Pro or at least this book will enjoy going forward, even if they are stretched out?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah. So you're right, Ron. All the times in transactions, they do get stretched out. But yeah, they'll have some -- they'll bring forward some tax benefits."
+    },
+    {
+      "speaker": "Ron Bobman",
+      "speech": "Okay, thanks a lot and good luck. Sounds good."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah. Thanks, Ron."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Amit Kumar of Buckingham Research. Please go ahead."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Thanks. These are my final questions, I promise. Two quick follow-ups. One is, the management team sticking around -- and I apologize if you mentioned this in opening remarks, there's a lot to digest. Are they sticking around for how much time or what's happening on that front once the deal closes?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yeah. We have not made any disclosures or comments on specific personnel items."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Okay. That's number one. Number two, just going back to the discussion regarding comfort on the book, NORCAL used to buy reinsurance historically, if I look at '14, '15 and then they started retaining it all in '16, '17 and '18, and now. Have you thought about reinsurance differently for that book or for the combined company? Any thoughts on that process or will the entire book be retained for NORCAL? Thanks."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Amit, it's Mike. If we get to -- we're very hopeful to get to a year-end 2020 close. We will be going through our reinsurance processes early into the fourth quarter of 2020. We're locked up until then. And then I think there'll be a tremendous opportunity to evaluate both sides of the -- both reinsurance contracts and decide what makes sense going forward for the combined organization."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "And then would you consider buying more reinsurance at that time, or --? I know it's too early. I'm just trying to like figure out how we should think about the premiums being retained over the two, three to five-year period time."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Yeah, I mean there is -- I just think it's too early to comment on that, Amit. We have a full year ahead of us before the close and we'll evaluate the data and the frequency in severity trends in our capital position all the things that you'd evaluate in a reinsurance discussion and make decisions then."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Got it. And finally, AM Best has you on -- I think they revised your ratings to or maybe the outlook, one of those things, to negative. I'm curious, have you already had discussions on this deal with them? And again I don't want to get ahead of the discussion than what comes out, but has there been some preliminary discussion and have they OK-ed the deal right now?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "So, couple of things there, Amit. Yeah, we learned that a longtime ago that rating agencies don't like surprises. So, yes, we've had conversations with the rating agency. Okay-ing the deal or not, really that's not their prerogative. They can take action if they so choose. But we don't go to them and those discussions for them to OK the deal. They've had no comment -- material comments so far, and we'll just -- we'll wait to see what they do. We think again the terms of the deal are very, very reasonable or very, very confident with our capital position. We recognize that our earnings miss in the fourth quarter and for the year will have some impact on their view. But we've had discussions around all that with them, and so we'll just have to wait to see what they choose to do."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Got it. And then just one finally, on the reserves, was an outside actuarial review included in this process? Or that's going to happen down the road?"
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Again, I refer you back to some of our comments around due diligence. We had, I think on both sides of the table, internal and external experts in actuaries. And they obviously have an actuary -- an external actuary who signs an actuarial opinion for them."
+    },
+    {
+      "speaker": "Amit Kumar",
+      "speech": "Got it. Okay. That's all I have. Thanks so much for answering all my questions."
+    },
+    {
+      "speaker": "Edward Lewis Rand",
+      "speech": "Yes. No worries, Amit. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Ken McEwen for any closing remarks. Please go ahead, sir."
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "That's all we have. Thank you very much for joining us, and we're very excited for the future."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 67 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ken McEwen--Investor Relations Manager",
+    "Edward Lewis Rand--President and Chief Executive Officer",
+    "Dana Shannon Hendricks--Chief Financial Officer, Treasurer, and Executive Vice President",
+    "Michael Leonard Boguski--President, Specialty P&C",
+    "Kevin Merrick Shook--President, Workers' Compensation Insurance",
+    "Jeffrey Patton Lisenby--Corporate Secretary, General Counsel, and Executive Vice President",
+    "Amit Kumar--Buckingham Research -- Analyst",
+    "Matt Carletti--JMP Group, LLC -- Analyst",
+    "Charles Peters--Raymond James -- Analyst",
+    "Mark Hughes--SunTrust Robinson Humphrey, Inc. -- Analyst",
+    "Bob Farnam--Boenning & Scattergood, Inc. -- Analyst",
+    "Ron Bobman--Capital Returns -- Analyst"
+  ]
+}

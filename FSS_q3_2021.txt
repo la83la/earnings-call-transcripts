@@ -1,0 +1,356 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to the Federal Signal Corporation Third Quarter 2021 Earnings Conference Call. [Operator Instructions] I would like now to turn the conference over to Mr. Ian Hudson, Chief Financial Officer. Please go ahead."
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Good morning [Technical Issues] Third Quarter Conference Call. I am Ian Hudson, the Company's Chief Financial Officer. Also with me on the call today is Jennifer Sherman, our President and Chief Executive Officer. We'll refer to some presentation slides today as well as to the earnings news release, which we issued this morning. The slides can be followed online by going to our website federalsignal.com, clicking on the Investor Call icon, and signing into the webcast. We've also posted the slide presentation and the earnings release under the Investors tab on our website. Before we begin, I'd like to remind you that some of our comments made today may contain forward-looking statements that are subject to the safe harbor language found in today's news release, and in Federal Signal's filings with the Securities and Exchange Commission. These documents are available on our website. Our presentation also contains some measures that are not in accordance with U.S. Generally Accepted Accounting Principles. On our earnings release and filings, we reconcile these non-GAAP measures to GAAP measures. In addition, we will file our Form 10-Q later today. I'm going to begin today by providing some detail on our third quarter results before turning the call over to Jennifer to provide an update on our performance, current market conditions, recent acquisition activity, and our outlook for the remainder of the year. After our prepared comments, Jennifer and I will address your questions.\nOur consolidated third quarter financial results are provided in today's earnings release. In summary, our businesses were able to deliver meaningful year over year improvement in net sales and earnings and an adjusted EBITDA margin at the high end of our target range, despite the effects of higher material costs and widespread supply chain disruption. Consolidated net sales for the quarter were $298 million, up $19 million or 7% compared to last year. Consolidated operating income for the quarter was $34.3 million, up $300,000 or 1% compared to last year. Consolidated adjusted EBITDA for the quarter was $47.4 million, up $1.5 million or 3% compared to last year. That translates to a margin of 15.9% in Q3 this year compared to 16.4% last year. Net income for the quarter was $29.2 million, up $3.9 million or 15% from last year. That equates to GAAP earnings for the quarter of $0.47 per share, up 15% from $0.41 per share last year. On an adjusted basis, EPS for the quarter was $0.48 per share, an improvement of 14% compared to $0.42 per share last year. Both our GAAP EPS and adjusted EPS for the third quarter of this year included benefits from a tax planning strategy executed during the quarter, which resulted in approximately $3.3 million more in discrete tax benefits being recognized in Q3 this year compared to Q3 of last year. In the aggregate, these higher tax benefits represented approximately $0.05 of our year over year EPS improvement.\nOrder intake for the quarter was again outstanding with orders of $350 million, representing an increase of $85 million or 32% compared to last year. Consolidated backlog at the end of the quarter set another new company record of $487 million. That represents an increase of $183 million or 60% from the end of last year. In terms of our group results, ESG's net sales for the quarter were $249 million, up $18 million or 8% compared to last year. ESG's operating income for the quarter was $30.8 million compared to $33 million last year. ESG's adjusted EBITDA for the quarter was $42.7 million compared to $43.9 million last year. That translates to an adjusted EBITDA margin of 17.1% in Q3 this year compared to 19% last year. ESG reported total orders of $292 million in Q3 this year, an improvement of $72 million or 33% compared to last year. SSG's net sales for the quarter were $49 million this year, up 1% compared to last year. SSG's operating income for the quarter was $7.6 million, up from $7.4 million last year, while its adjusted EBITDA for the quarter was $8.5 million, up from $8.2 million last year. That translates to an adjusted EBITDA margin for the quarter of 17.3%, up 50 basis points from last year. SSG's orders for the quarter were $58 million, up $13 million or 27% compared to last year. Corporate operating expenses for the quarter were $4.1 million compared to $6.4 million last year.\nTurning now to the consolidated income statement where despite the year over year sales increase, gross profit decreased by $1.7 million. Consolidated gross margin for the quarter was 23.8% compared to 25.9% last year. With steel and other commodity costs continuing to increase and chassis constraints delaying certain shipments out of our backlog, we experienced a slightly higher unfavorable price cost headwind of around $5 million during the quarter, about $2 million higher than we had previously anticipated. With the various pricing actions we have taken, including repricing of our backlog at a number of businesses, we are expecting to see improvement beginning in the fourth quarter with more price realization expected as our backlog turns. As a percentage of sales, our selling, engineering, general and administrative expenses for the quarter were down 160 basis points from Q3 last year. Other items affecting the quarterly results include a $200,000 increase in acquisition related expenses, a $200,000 increase in other income, and a $100,000 reduction in interest expense. Tax expense for the quarter decreased by $3.3 million, largely due to the recognition of the tax planning benefits that I just mentioned. Our effective tax rate for the quarter was 12.8% compared to 23.1% last year. At this time, we expect our full year effective tax rate to be approximately 18%. On an overall GAAP basis, we therefore earned $0.47 per share in Q3 this year compared with $0.41 per share in Q3 last year. To facilitate earnings comparisons, we typically adjust our GAAP earnings per share for our unusual items recorded in the current or prior year quarters.\nIn the current year quarter, we made adjustments to GAAP earnings per share to exclude acquisition related expenses and purchase [Technical Issues] On this basis, our adjusted earnings for the quarter were $0.48 per share compared with $0.42 per share last year. Looking now at cash flow, where we generated $16 million of cash from operations during the quarter, up 8% from Q3 last year. That brings the year to date operating cash generation to $55 million. Towards the end of the quarter, we increased our borrowings in anticipation of the Ground Force acquisition, which we completed in early October for an initial payment of $43 million. We ended the quarter with $164 million of net debt and availability under our credit facility of $240 million. Our current net debt leverage ratio remains low. With our financial position remaining strong, we have significant flexibility to pursue strategic acquisitions, invest in organic growth initiatives, and return cash to stockholders through dividends and opportunistic share repurchases. On that note, we paid dividends of $5.5 million during the quarter, reflecting a dividend of $0.09 per share, and we recently announced a similar dividend for the fourth quarter. We also funded share repurchases of $3.2 million during the quarter at an average price of $38.44. That concludes my comments, and I would now like to turn the call over to Jennifer."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Thank you, Ian. Our teams again delivered growth in both the top and bottom line, while achieving an adjusted EBITDA margin toward the high end of our target range despite well documented widespread supply chain disruption and a very challenging commodity cost environment. We entered the quarter with delivery commitment dates from our chassis suppliers that positioned us well to satisfy our sales and delivery expectations for the second half of the year. Thanks mainly to the proactive efforts of our purchasing and engineering teams and the temporary shutdown of our production facility in Streator, Illinois for a two week period around the 4th of July holiday following the suspension of chassis production at one of our suppliers, we had not experienced any significant chassis supply constraints through the end of July. However, as the quarter progressed, we began to experience significant delays in delivery dates from most of our chassis OEM partners with deliveries pushed out weeks or months with little notice. In many circumstances, we received a week's notice of the delay. Beyond chassis, we are experiencing some other supply chain tightness ranging from pumps to electronic components, but for the most part, we have to date been able to navigate through the difficulty, but it remains a challenging situation. Chassis delivery delays are significantly disrupting our production schedules and hampering our ability to maximize production efficiencies and deliver products to our customers. The team has worked tirelessly to mitigate the impact of this short term disruption by continuously adjusting production schedules in an effort to satisfy record customer demand, but we are not operating at our usual level of efficiency. While the teams have performed admirably, we estimate the delays in chassis deliveries and various other part shortages along with the constant production schedule adjustments caused an adverse top line impact of approximately $30 million during the quarter.\nImportantly, none of these orders are lost or canceled, but the shipment timing out of our backlog has been pushed out to reflect the revised chassis delivery dates. As we did last year with the pandemic, so far this year our businesses have been able to navigate through a variety of supply chain related issues and deliver an EBITDA margin of almost 16% demonstrating that as a company we are more resilient than in the past, and we continue to believe that at this level of margin performance we would rank within the top decile of our specialty vehicle peers. Performance at these levels during turbulent times is both a real testament to the efforts of our teams and the successful diversification of our revenue streams and end market exposures that has taken place over the last several years through a combination of organic growth initiatives and M&A. As it was in Q2, our aftermarkets business was again an area of strength, providing a favorable shift in mix during a seasonally strong third quarter. Overall, our aftermarket revenues in Q3 this year were up $12 million or 18% over last year, growing to represent a higher share of ESG's revenues for the quarter at around 30%. Rental activity and demand for used equipment continues to be strong with rental income in Q3 up 29% year over year and used equipment sales exceeding $10 million for the third successive quarter.\nAs we approach the winter months, we expect that rental activity may be seasonally down in comparison to the peak periods of Q2 and Q3, but we expect used equipment demand to remain strong given the current tightness in the supply chain and longer lead time. Demand for our product offering continues to be as strong as ever as demonstrated by our outstanding third quarter order intake of $350 million, contributing to another record backlog, reflecting strength across our end markets. This settlement has been widely shared by our customers and dealer partners and seems to be further solidified by the economic stimulus package, which passed earlier this year. In that package, approximately $350 billion was earmarked for state, local, and territorial governments for a variety of purposes including the maintenance of essential infrastructure such as sewer systems and streets. As a provider of equipment used for these essential services like store cleaning and street sweeping, we stand to benefit meaningfully from any additional aid that may be provided to state and local sources for these purposes. Conversations with our dealer channels suggest that the first $175 billion tranche has started to be distributed by the treasury in May with the second tranche expected next year. This is supported by the ongoing strength of U.S. municipal orders, which were up 50% for both the quarter and year to date period with notably strong demand for street sweepers and sewer cleaners. In fact, so far this year, our U.S. municipal orders for street sweepers are up $46 million or 84% over last year, while sewer cleaner orders are up $45 million or 64% over the same period. We are also seeing strong municipal demand within SSG with most of its order improvement this quarter resulting from higher demand for public safety equipment in both domestic and international markets. Within our industrial end market, we've also seen a 50% year over year improvement in domestic orders. The improvement has been almost across the board, but notably for our TRUVAC safe digging trucks and for our Guzzler industrial vacuum motors, which collectively were up $45 million or 87% year over year. Simply put, supply chains cannot keep pace with the momentum in demand that we are currently seeing in almost all of our end markets. I would now like to spend a minute on our acquisition of Ground Force Worldwide, which we completed in early October.\nGround Force is headquartered in Post Falls, Idaho, and is a leading manufacturer of specialty material handling vehicles that support the extraction of metals with its current product portfolio, including fuel and lube trucks, water trucks, dump bodies, and rock spreaders. Ground Force also supports the recurring aftermarket needs of its customers through parts and service offerings. The acquisition further bolsters our position as an industry leading, diversified industrial manufacturer of specialty vehicles for maintenance and infrastructure markets with leading brands of premium, value adding products, and a strong supporting aftermarket platform. Over the last 12 months, Ground Force generated revenues of approximately $34 million with an EBITDA margin within our group target range. The acquisition augments our current materials' hauling portfolio by adding a range of specialty vehicles that support the extraction of metals, demand for which is expected to benefit from vehicle electrification and other green initiatives. The transaction is also expected to provide opportunity for long term value creation through operational improvement and organic growth initiatives while also providing a platform for further acquisitions in this space. Although it has only been one month, we are encouraged by the strong order demand that Ground Force has seen for its products. This morning, we also announced the signing of a definitive agreement to acquire the assets and operations of Deist Industries. Deist is the parent company of Switch-N-Go and Bucks Fabricating, both of which are located in Pennsylvania. Like Ground Force to MRL, this was another proprietary deal underlying our strong reputation in the industry. Through its Switch-N-Go business, Deist designs, manufactures and sells interchangeable truck body systems for Class three to seven vehicles in the work truck industry. Depending on the application, this interchangeable system allows for the use of multiple bodies on a single chassis, helping customers to optimize their asset utilization and providing the potential to reduce their carbon input, footprint. Bucks designs, manufactures, and sells a full line of waste hauling products including front, rear loading containers and specialty roll off containers.\nOver the last 12 months, Deist has generated revenues of approximately $41 million with a double-digit EBITDA margin. The Deist acquisition represents another attractive product line extension and expands our presence into new end markets such as tree care and waste hauling. With many common partners within our existing distribution channels, the acquisition creates an attractive opportunity to develop and deliver innovative new products and solutions to our customers and optimize the distribution of our products. We expect that both acquisitions will be accretive within the first year. The acquisitions reiterate our expectation that M&A will continue to contribute meaningfully to our future growth. Turning now to our outlook for the rest of the year. We continue to see strong momentum in our markets as evidenced by the 50% improvement in both U.S. municipal and industrial orders so far this year. With a record backlog, demand for our products is outpacing the current capacity of our supply chain. When we raised our guidance last quarter, we assumed no significant delays in deliveries from our chassis suppliers. However, during the quarter, such delays were more prevalent than we had anticipated causing increased disruption to our production schedules. We expect that the volatile supply chain environment will continue for the rest of the year, and therefore, we are adjusting our full year adjusted EPS outlook to a new range of $1.68 to $1.78. The size of our range is reflective of the highly volatile environment in which we are currently operating, but performance at that level would represent the company's second best year ever in terms of EPS.\nOur new outlook range also excludes the impact of a one-time non-cash pre-tax pension settlement charge of approximately $11 million, which we expect to incur in the fourth quarter in connection with the defined benefit pension annuitization project. We remain encouraged by the long-term opportunities for all of our businesses, which would be further bolstered by the infrastructure legislation recently passed by Congress. We are already starting to see the benefits from the economic stimulus packages, which started to be made available to municipalities earlier this year. And we also expect the Infrastructure Bill, with $550 billion in new spending, we could see capital equipment demand increase to support infrastructure investments in areas such as roads, bridges, electrification, broadband, clean energy and water, and public transportation buildup. We are a leading manufacturer of specialty infrastructure and maintenance equipment and anticipate increased demand for the majority of our product offerings including equipment sales and rentals of dump trucks and trailers, safe digging trucks, road marking equipment, sewer cleaners, and street sweepers while also benefiting our new acquisitions, Ground Force and Deist. With our recent capacity expansions, we are well positioned to respond once the current supply chain constraints improve.\nOver the last several years, we have transformed our end market exposure and implemented a revenue diversification strategy that has enabled us to adjust as needed to market conditions. With an ongoing focus on 80-20 principle, Federal Signal has become a more resilient business delivering a consistent level of EBITDA margin above many of our peers. As Ian noted in his comments, our financial position and liquidity are strong, enabling us to pursue strategic acquisitions like Ground Gorce and Deist. Our current M&A pipeline continues to be very active. While we continue to make progress on our vehicle electrification road map and we'll soon be initiating customer trials and demonstrations of our hybrid three wheel Pelican Sweeper. We have also solidified an agreement with a development partner for the hybrid system integrated into our plug-in, hybrid Broom Bear. Our electrification road map also includes all electric versions of our truck mounted sweepers, and we are collaborating with more than one chassis OEM on designs that will provide uncompromised performance for our customers. We anticipate field trials to begin in 2022. Our ongoing commitment to environmental, social, and governance initiatives also position us well in the communities in which we operate and is a differentiating factor in our ability to attract labor at most of our facilities. Recently, we took a survey, and in our three largest facilities, which comprise almost half of our U.S. hourly workforce, we currently have approximately 20 hourly job openings out of almost 1,000 positions. On that note, we recently issued our second annual Sustainability Report, which highlights many of our accomplishments in this area including our project 85 initiatives to increase vaccination rates across the organization. Although we continue to make progress on this initiative, we still are experiencing some COVID-related disruptions at certain facilities. At this time, I think we're ready for questions. Operator?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The first question is from Steve Barger of KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "I'm going to start with the near term outlook. If I just look back at the last few years, revenue is generally similar, plus or minus in 4Q relative to 3Q. Will that be the same this year, or just help me balance the record backlog versus the reduced guidance around the supply chain issues?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes. I think Steve, the trends that we typically see in the fourth quarter relative to Q3 aftermarkets is typically stronger in Q3 with the weather related factors that can slow down a little bit in Q4. As we look at kind of revenue in Q4 on a year over year basis, I think we are expecting some improvement over last year. But the wildcard is the chassis delivery dates, and we believe we're in a good position with respect to the commitment base we've got from the suppliers. So it's, that's the one variable that we can't really control."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "If we've learned anything through Q3, it's that until we have the chassis on hand, those dates are fluid at that."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yes. No, totally understandable. So we probably shouldn't, Ian, you said year over year improvement, but we probably shouldn't be thinking a big sequential improvement just based on the current environment?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "I think that's fair, Steve."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Okay. And just same question on EBIT. Will that be down sequentially, or can you drive some improvement in this environment? Or are the input costs and just kind of, just general inefficiency is going to make that tough?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "I think the environment makes it tough to get sequential improvement. I think the one area where we are seeing some signs of improvement is on the price cost headwind. We had a headwind of about $5 million in Q3. We're expecting that gap to narrow in the fourth quarter as we kind of, we've taken a number of actions on the pricing of a backlog. And as more of that ships out, that's when we start to realize more price. So we'll start to see that improve in Q4 albeit with, we're still expecting a headwind of, in the range of $2 million to $3 million in Q4 before that starts to really normalize as we enter '22. That would, and then there's just the general inefficiencies. As Jennifer described, some of the shortages in not only chassis, but some of the other components make running a production facility, and our production schedules with the constant changes, it makes it fairly inefficient."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yes. Well, I guess on a happier note is with a record backlog, is that all slated to be delivered next year assuming you can get all the parts that you need?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "And 2Q was your best revenue quarter ever. With all the capacity additions and now the M&A, what do you think quarterly revenue can run at efficiently? Can you be over $350 million, $360 million on a sustainable basis per quarter?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "I think we obviously have the seasonality aspects of the business, Steve, with Q2 and Q3, typically the strongest with respect to the aftermarket side of the business. We also have the two acquisitions that we'll factor in. So I think, all of that taken into consideration, I think the answer would be yes. Yes, we would expect that."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Chris Moore with CJS Securities."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Maybe we just go back to a source subject. So chassis shortage, can you maybe talk a little bit about the root cause there? I mean, is the chassis manufacturers just in the same position as other industrials where their supply chain is backed up? Is there something more structural there or, just trying to understand a little bit better."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "It really comes down to the microchip issue. And it is, they're waiting on certain chips. We are encouraged by the public statements that the various supply chain, the various OEM chassis manufacturers have made in connection with their earnings call. And that they believe that the worst is behind them. We have yet to see that. But as we go into '22, we're hopeful that the public statements they've made we will benefit from because we clearly have the demand. What comes down to it is basically supply chain, and I would say the vast majority of it has been chassis. The teams have done an excellent job in terms of working through other issues. There have been other issues, but we've worked through the majority of them. But we need to get this supply. We need to get this chassis situation stabilized in order to kind of build the record backlog that we have."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Got it. And do the, the chassis manufacturers, do they give you kind of a '22 outlook that they're looking at at this point in time? Or how much visibility do they have beyond this quarter that they'll even talk to?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "They give us information regarding '22. And what we've been able to do is take that information. And as you know, we've encouraged our dealers to also procure chassis, and in some situations the end customers to procure chassis. We're optimistic about that initiative because if our dealers are successful, and end customers are successful, and particularly municipalities, usually have pretty good clout with the local chassis manufacturers to get those chassis, we're anticipating that we'll be in a better position in 2022."
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes. And I think, Chris, the other thing that gives us comfort is that we're not exclusive '21 chassis supplier. We use many different types of chassis, we can build on any, really any type of chassis. And so we're not reliant on any one sole provider. So I think that is helpful. And also, it's, absent the TBI business where the customer always provides a chassis, we are about a 50-50 split in terms of when we provide the chassis or when the customer provides a chassis. So in terms of how we look forward and procure sufficient chassis to ship the backlog, we're working, as Jennifer said, with our dealers, with our customers, and with our own suppliers to try and maximize the availability for next year."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "The teams have obviously done a really nice job of qualifying new chassis that historically we haven't used to help supplement the amount of chassis that we'll have available in 2022."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Got it. Just last one for me. Any sense that there is much, I know orders have been great. Any sense there's much order acceleration by customers as they factor the long [Technical Issues] Times now?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "No. We've taken a look at that, and our sense is no because a couple of things. One is the number of named units. Number two is many times, particularly on the municipal side of our business, it goes through a public bid process. We are starting, as I mentioned in my comments, to see the benefits of the initial stimulus package, and we expect the infrastructure legislation, once signed by the President, to provide a meaningful long-term stimulant for orders over the next several years."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Felix Boeschen with Raymond James."
+    },
+    {
+      "speaker": "Felix Boeschen",
+      "speech": "I was hoping to go back to a capacity question. As we think about maybe the next couple of years, you obviously talked about stimulus package flowing, we now got Infrastructure Bill, it doesn't seem like demand is the problem. And I know you guys have expanded your physical footprint quite a bit over the last couple of years. Are there other, any projects on the horizon or do we think we need to expand capacity more to kind of stay up with demand? I'm just trying to kind of think about the next two, three, maybe four years holistically, Jennifer."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes, great question. So just to kind of remind everybody, we completed this year, it was delayed in part because of the pandemic, the ability to increase capacity 40% at our largest facility that manufactures sewer cleaners and hydro excavators in Streator, Illinois. In addition to that, we've done capacity expansions at our road marking business at two of our dump truck businesses, one in Lake Crystal, Minnesota, and one in Rugby, North Dakota. In addition to that, we've significantly expanded capacity at one of our service centers. So as we move forward, we believe that we're in very good shape to support this increased demand. The other thing I have to do is shout out to the teams. If you look at our access to labor, understanding it can be a challenge from time to time at certain companies, but overall, we're doing pretty well. And we've just got a great team. And I think that our local management teams do a super job working with our hourly teams. And I believe we're really well positioned to support the additional orders that we expect to see in part due to the Infrastructure Bill."
+    },
+    {
+      "speaker": "Felix Boeschen",
+      "speech": "Okay. That's helpful. And then, Ian, I appreciate the comments on the $5 million price cost headwind that's going to $2 million to $3 million in 4Q. How should we think about early 1H '22 from that perspective? And I just wanted to understand, is the vast majority of that headwind in the dump truck book?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes, that's correct, Felix. The, most of that is in the dump truck, really with the impact of the increase in the cost of steel. So that's, it's mainly being felt in the dump truck side of things. As we enter kind of the first quarter of next year, we'll expect, I think what we're expecting is it to be somewhat neutral and then maybe even start to turn a little bit as we go forward."
+    },
+    {
+      "speaker": "Felix Boeschen",
+      "speech": "Okay. Got it. And then just my last one. Aftermarket has obviously been super strong this year, and specifically, rental looks like it's firing on all cylinders. I'm curious if you could comment maybe on your expectations for 2022 from a fleet addition perspective, do you feel like you have enough capacity? Or should we think about that ramping up? I'm just trying to kind of understand how much that business can grow into 2022 looking at your balance sheet."
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes, I think that's exactly right, Felix. As we look forward with the prospects from the Infrastructure Bill and the economic stimulus package, we continue to expect rental to be a really important tool, not only for us but also, again, we have a number of strong rental partners. So we expect to see some good activity with those rental partners. We've had some pretty strong used equipment sales out of the fleet. This year, just with some of the long lead times and the chassis constraints, we've seen some really nice demand for used equipment. I think year to date, we're up about $10 million about 38% year over year on the used side. So there is a need to replenish that fleet and then grow it. And we factored that into our plans for '22."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "We also will be adding some new products that haven't been traditionally in the fleet, particularly our road marking equipment. So we're excited about that initiative."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Michael Shlisky with D.A. Davidson."
+    },
+    {
+      "speaker": "Michael Shlisky",
+      "speech": "This is David on for Mike this morning. I have a question about, have any customers expressed concern about their budgets for new equipment given the higher prices for fuel, labor costs, and other costs?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "It's a question that we ask frequently, and the answer is generally, no. We have, I mean, nobody likes higher prices, but we've been very successful in terms of doing a number of price increases across the vast majority of our businesses. Some of our businesses have had multiple price increases this year. And people understand the dynamics of the economy that we're living in right now. Seen very little cancellations."
+    },
+    {
+      "speaker": "Analyst",
+      "speech": "That's very helpful. And then my last question, a question on the Deist acquisition. Is this a regional company with the business mostly near the Pennsylvania area or is it already a coast to coast business? And how do you envision expanding the dealer footprint for their products?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes. Thank you for asking that question. We're really excited about this acquisition. Their product, the Switch-N-Go product, you can think about it as a system that allows you to use one chassis and multiple different types of bodies on that one chassis. They've been growing regionally, primarily East Coast right now. And we believe, one, we have capacity at other locations to build this product. In addition to that, we believe that our relationship with our distribution partners, we can also grow the product. It's a very exciting opportunity. Our team is headed out there this afternoon to meet our new employees, and we think this is going to be an important growth engine going forward."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Greg Burns with Sidoti & Company."
+    },
+    {
+      "speaker": "Greg Burns",
+      "speech": "Just had a question about the oil and gas market. I know you've diversified a lot since the last time oil was at these levels, but can you just remind us maybe how big oil and gas is in terms of revenue currently, and maybe what it was at the peak in '07, '08?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes. Sure. It was $90 million ish at the peak. It dropped down to $30 million. The products that we have that target that end market are hydro excavation equipment, our jetstream equipment, and we have certain of our SSG equipment that targets that market. Again, it is upside for us, and we're looking at that. We've got to channel into that market. So as oil prices increase, we think it creates opportunity for the company."
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "And I think, Greg, for the most part, we have the rental activity. Some of that is, that equipment is used in the oil industry. With the growth that we've seen in rental and also used equipment sales on the aftermarket side, some of that is likely being used in the oil patches. We've also seen, as Jennifer mentioned in her comments, on the industrial side, orders for both our safe digging trucks as well as the industrial vacuum loaders. They are up year to date in excess of 80%. So really good demand for those products, and they can be used in many different industrial applications, but they would include oil and gas as well."
+    },
+    {
+      "speaker": "Greg Burns",
+      "speech": "Okay. And then since you mentioned safe digging, I know you've invested a lot in that initiative and there's been a lot of kind of customer education going on in terms of the benefits of that and I would assume with the Infrastructure Bill there's going to be a lot of potential applications for safety and equipment. So do you have any specific initiatives to target those opportunities, leverage kind of the market education you've been doing over the last couple of years to stimulate demand for those products?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes, absolutely. We continue to rely very heavily on demos. We found that participation in regional trade shows is important and we continue to develop our utility channel, which is critical. We believe that the investment that the government is making in broadband Internet will be an important catalyst for growth for that product line. The other thing I would add is, as we go into 2022, I'm excited about some of the new product development initiatives that we'll be announcing relating to our safe digging line of products. More to come."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Marco Rodriguez with Stonegate Capital Markets."
+    },
+    {
+      "speaker": "Marco Rodriguez",
+      "speech": "I kind of wanted to follow up on part of the last question, but just kind of from a broad perspective or do you believe that perhaps your brand awareness is at a pretty good point right now?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "First of all, there's always opportunity for improvement. But last year, we talked about our Reclaiming Tomorrow, Together initiative. And as part of that initiative, we invested in acceleration of our digital marketing efforts and the teams have done a really nice job with that at both in terms of the amount of materials that's available, the accessibility of that material, and the ability to train our end customers easier. We put, for example, beginning this year, there are QR codes on every sewer cleaner that we produce that provide training opportunities at various points on the product. So we believe that that initiative is going to be critical in terms of reaching end customers and educating them about the values of our products. We also believe that we are in a unique position because we have a, between us and our dealer partners, we have a complete portfolio of product offering meaning whether you want new, used, rental, we're able to satisfy that customer demand, which is often mixed. And again, we're also working in terms of developing products that don't require a CDL license, which is important, particularly with some of the marijuana laws that have been passed. And we think we're incredibly well positioned. We've got the products, we've got the capacity, and we've got talented people to build the product. So a lot of opportunity for us going forward."
+    },
+    {
+      "speaker": "Marco Rodriguez",
+      "speech": "Excellent. Very helpful. And maybe this question is a little bit early, but on the Deist acquisition, you mentioned double digit EBITDA margin. So is it fair for me to assume that that's below perhaps your target ranges? And then if you can maybe talk about how you kind of see some of those synergies you mentioned unfolding over the next 12 to 18 months?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes. I think, Marco, it's best to, currently on a TTM, it's below our target range, but we think there's enough room for improvement. So we can get it within our target range. It's similar to some of the other acquisitions that we've done in the last couple of years. We do believe there are a number of synergies, particularly, as Jennifer mentioned, about pushing the product through the channel and expanding production into some of our other facilities. So we think there's room for improvement of the margin, but also gaining some benefits on the synergy side."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "And again, what I'd add there too is a real credit to our teams and the reputations that they've developed in the industry. This is the second example this year of a proprietary deal, and we're really pleased to welcome the Deist team members to Federal Signal."
+    },
+    {
+      "speaker": "Marco Rodriguez",
+      "speech": "Excellent. And then last quick question for me. Corporate expenses had kind of a meaningful decline sequentially and year over year. Were there any sort of one time items that drove that, or can you talk about what was going on in that quarter?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes. Nothing, I mean, in terms of the year over year change, it was almost, it was a timing real impact of some changes in stock comp and incentive based comp. But on a full year, if you look at the year to date, I think it was fairly even about $18.6 million. I think we were down maybe $200,000 year over year. So it was a bigger change in the quarter than it was on a year to date basis."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Walt Liptak with Seaport."
+    },
+    {
+      "speaker": "Walt Liptak",
+      "speech": "'I wanted to ask one for Ian. He gave us that $5 million price cost headwind number. And I think you said in your prepared remarks, there was $30 million of revenue that shifted out. And there was also supply chain disruptions to the factories and your people. Can you take a stab at kind of quantifying what the inefficiencies were during the quarter for the timing of shipments and other supply chain problems?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes. I mean, while the $30 million was really, as we, as Jennifer mentioned, entering the quarter we had those firm commitment dates from the suppliers, and those delays we believe caused an adverse impact on the top line of about $30 million. Of what we did ship, the $5 million price cost headwind was the impact of what was shipped. So there, that's, there's no real overlap with the $30 million there. As it relates to inefficiencies, that's a bit harder for us to actually quantify, albeit it was, it's, obviously, it's embedded within the gross margin decline that we saw. So it's hard to put an exact pinpoint number on just the general inefficiency because it's safe to say that we are certainly not offering a normal level of efficiency. I mean when we have backlogs of this level, we can produce the equipment efficiently. But when you're constantly adjusting the production schedule, it has an adverse impact."
+    },
+    {
+      "speaker": "Walt Liptak",
+      "speech": "Okay. Great. Yes, and recognizing how difficult it is to get in chassis, how, what are you telling your customers? Like what's the lead times at this point on getting a truck delivered? And understanding that there's a lot of different trucks that you make, I wonder if there's like a ballpark of it? Used to be three months, now it's six months, something like that."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes. Some of it depends on whether the customer is going to obtain the chassis. In some situations, the customer is able to obtain a chassis and get it to us, and then we can ship it relatively quickly. In, for many of our businesses, we're not even taking orders if they don't have an identified chassis. So in other situations, it can vary from a couple of months to six months. But we are, a critical part of our strategy in '22 is to educate our dealer network and our, some, in some situations, our end customers about the need for them to procure chassis directly. And we think that will mitigate some of the chassis disruption that we've experienced in Q3 and will experience in Q4."
+    },
+    {
+      "speaker": "Walt Liptak",
+      "speech": "Okay. Great. And do you, when you look at this chassis situation, are you keeping up with your, with the competitors? Are the lead times any different between yours and competitive products?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "That's not something we've heard. In many situations, ours are better. But in general, we believe that we're at least equal and in many situations better."
+    },
+    {
+      "speaker": "Walt Liptak",
+      "speech": "Okay. Great. And it's great to see the M&A deals happening. Congratulations on that. With the supply chain issues, how are you factoring that in when you're doing valuations? Because I guess, we don't really know when this is going to come to an end so that creates volatility around your own EBITDA, but also around the companies that you're acquiring. How are you working that into the price?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes. I mean, there's a considerable earn out here. So that's part of how we're addressing that issue. We're also looking as part of the diligence very carefully at steel and what their assumptions are. But again, if you look at the performance of Deist over the last 12 months, they've grown. And their EBITDA margin has been, as we talked about, kind of low single digits. And we paid a reasonable multiple compared to kind of what's going on in the market right now. And we believe that there's opportunity for improvement going forward. Particularly if you think about, it's a pretty cool product, the Switch-N-Go product. And we believe through our dealer and other distribution channels, there's an opportunity to grow it across both U.S. and Canada."
+    },
+    {
+      "speaker": "Walt Liptak",
+      "speech": "Yes, it looks very innovative. Okay. How is the deal pipeline looking at this point? Are you comfortable doing more acquisitions?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes, and the deal pipeline is full. Acquisitions will continue to be a meaningful part of our growth going forward."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is a follow-up from Steve Barger with KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "You've, as you advertise, you've been acquisitive in niche businesses over the past few years, nice diversified, but naturally it makes modeling tougher for us on the outside. Are you thinking about increasing guidance transparency for revenue just to give investors a better benchmark to think about plans versus outcomes?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Yes. We're thinking about it."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Okay. How long do you think that process will be?"
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "We understand what you're saying. It's, and the issue is that every time we buy something, it changes though. But I will say, we're very excited about the acquisitions, the multiples we paid, and the opportunities that they present for Federal Signal."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "I agree. I think it's a great strategy. I just think it has the potential to introduce a lot of volatility to consensus numbers just because of our inability to really triangulate on what this increasingly diverse portfolio is going to do."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Fair point."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "If I look back over maybe five years, your free cash flow margin has run around 7%. With you getting more acquisitive, can you talk about capex intensity for the three deals you've done in this deal, what free cash flow looks like for those companies? Are they additive to free cash flow margin? Or will it take a while for them to get there to where the portfolio is?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "I think, Steve, yes. When we looked at the Ground Force would be kind of in line with our free cash flow profile. Deist is just maybe a tick below, but we expect with some of the improvements and as we push this product through the channel and expand it, we think they'll be somewhat in line. But I don't think there's a huge disparity between the profiles of the two businesses and our free cash flow profile."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "The capex requirements are relatively low."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "So we shouldn't expect to see a big step up in capex next year or anything, just based on whatever M&A activity you're undertaking?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Not relating to these businesses. The one item on the capex side of things that's, is on our radar screen is some facilities. We have leases that are expiring at certain facilities. So we're looking at some of those in terms of whether kind of a lease versus buy decision for a couple of those locations. That makes capex to be slightly abnormal for that eventuality."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Understood. And then your, you've been taking these discrete tax actions or strategies, which has moved the tax rate around this year. Is that permanently changing the tax rate, or how should we model that for '22 and '23, just broadly speaking?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "Yes. It's not necessarily a permanent change. It does allow, so the benefit was more in terms of just, where now believe we're going to be able to use some of the tax assets that previously we didn't. So it's almost like the release of an allowance for doubtful accounts side things. So it's an asset that we now believe we will be able to use. As we go forward, we would expect the tax rate to be, absent any changes in the corporate tax rate, I think our typical run rate is in the 25% range. That's what we expected entering the year. So that's kind of our normal absent any of these discrete items and assuming no change to the tax rate."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Will these discrete items run into next year, or should we just think 25% is the right way to model?"
+    },
+    {
+      "speaker": "Ian A. Hudson",
+      "speech": "I would say, so it would be, this would be kind of, as we look at next year, it will be a headwind with the reset of tax rate to about a 25% rate."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes the question and answer session. I would like to turn the conference back over to Jennifer Sherman for any closing remarks."
+    },
+    {
+      "speaker": "Jennifer L. Sherman",
+      "speech": "Thank you. In closing, I'd like to reiterate that we are confident in the long-term opportunities for our businesses and the prospects for our recent acquisitions. Our portfolio of businesses includes many market-leading brands with solid fundamentals. Our foundation is strong, and we are focused on delivering profitable long-term growth through the execution of our strategic initiatives. I would like to give a public thank you to all of our employees for their commitment, creativity, and dedication addressing this challenging supply chain environment. I would also like to express our thanks to our stockholders, distributors, dealers, and customers for their continued support. Thank you for joining us today. We'll talk to you soon."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 58 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ian A. Hudson--Senior Vice President and Chief Financial Officer",
+    "Jennifer L. Sherman--President, Chief Executive Officer and Director",
+    "Steve Barger--KeyBanc Capital Markets -- Analyst",
+    "Chris Moore--CJS Securities -- Analyst",
+    "Felix Boeschen--Raymond James -- Analyst",
+    "Michael Shlisky--D.A. Davidson -- Analyst",
+    "Analyst",
+    "Greg Burns--Sidoti &amp; Company -- Analyst",
+    "Marco Rodriguez--Stonegate Capital Markets -- Analyst",
+    "Walt Liptak--Seaport -- Analyst"
+  ]
+}

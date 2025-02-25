@@ -1,0 +1,675 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Watsco Second Quarter 2021 Earnings Call. [Operator Instructions]\nI'd now like to turn the conference over to Mr. Nahmad. Please go ahead."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Good morning, everyone. Hope everyone is having a safe and good day. Welcome to our second quarter earnings call, and what an incredible quarter it was for Watsco. This is Al Nahmad, Chairman and CEO. And with me is A.J. Nahmad, who is our President; and our two Executive Vice Presidents, Paul Johnston and Barry Logan. Now as we normally do, before we start, we need to read our cautionary statement. The conference call has forward-looking statements as defined by SEC laws and regulations that are made pursuant to the safe harbor provisions of these various laws. Ultimate results may differ materially from the forward-looking statements. Now on to our report. I am pleased to share that Watsco has delivered an incredible second quarter, achieving new records in virtually every performance metric. Earnings per share jumped 64% to a record $3.71 per share on a 66% increase in net income. This was by far our most successful quarter ever. Sales grew 36% or nearly $500 million to a record $1.85 billion in sales for the quarter. Gross profits increased 50% with gross margins expanding 220 basis points. Operating income increased $88 million or 68% to $217 million. And operating margins, this is a big one, operating margins expanded 220 basis points to a record 11.7%. Now these results are all the more positive when considered against last year's second quarter, which had only a modest impact from the COVID-related slowdowns. Now we have two new companies in our family, TEC and Acme. They performed very well, and we cannot be happier that they are now part of an important part of Watsco.\nThey have a rich and successful history and we will help them any way we can. Looking ahead, we are engaged in a very fragmented $50 billion North American market. Again, this is a $50 billion North American market. And we hope to find more great companies to join us. Greater scale in this industry provides more capital for us to fund our growth priorities. Also Watsco's industry-leading technologies continues to gain traction, and we believe they are helping us gain market share. Here are a few important highlights to mention. First, growth rates among active users of our technologies continues to outpace the growth rates of nonusers. Customers using our technology are simply growing faster. Next, attrition among customers using our technology is meaningfully lower compared to nonusers. The technology enables us to create stickier customer relationships.\nAlso, more customers are using our digital selling platforms that are called OnCall Air and CreditForComfort. They help and modernize how HV solutions are presented to homeowners. As evidence of the success of OnCall Air and CreditForComfort, the number of digital sales presentations made by our contractor customers to end consumers increased by 84% and helped close over $200 million of sales during the quarter. These tools have also benefited the sale of higher efficiency systems, which we think is an important contributor to the climate chain discussion. As older systems are replaced, our technology can play an important role in helping consumers choose more energy-efficient solutions. Our progress is very encouraging, but we believe it is still early in terms of reaching the full potential of our technology investments. Our focus remains in the long term. I think you've heard me say that over and over again. We are long-term players in the industry. Please feel free to schedule a Zoom call with us, and we can further explain our technology and its impact. Finally, but very important, our balance sheet remains in pristine condition with only a small amount of debt. We have plenty of capacity and even more ambitions to grow our company both organically and through acquisitions.\nWith that, A.J., Paul, Barry and I are happy to answer your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from Jeff Hammond from KeyBanc Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "speech": "Hey, morning, Al. Morning, guys. So I just wanted to hit on the gross margins. They've been kind of exceptional here the last couple of quarters, and I just want to understand what's driving it and how you feel about the sustainability. It just seems like kind of the last five, seven years, you've been in that 24% to 24.5% and now we're up close to 26%?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Barry?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Good morning, Jeff. Again, gross margin always is the primary component of what do we pay for products and what do we sell products for. And it's all very decentralized and regional and local and customer-specific and -- so there isn't one answer to your question. There's about 16,000 answers to your question as to how it plays out in the marketplace each year. Clearly, high-efficiency systems are being sold at a greater rate. Clearly, price increases as they flow through benefit some of the gross margin flow-through, if you will. Also culturally, we've done a lot with pricing, systems, and pricing technology, and pricing data, pricing software to optimize price. That doesn't mean necessarily raise price. It means optimized price in markets. And also working closely with all of our OEMs, we have about 600 total manufacturers. They're facing inflation. They have to decide on their own pricing mechanism into the markets. And as we work through that with them, some of those benefits occur. What is the future? Your next question was what does the future hold. Well, Paul, maybe you want to comment on it, but there's still continued pricing actions going on in the market. And we would expect to continue to work with OEMs and customers and to flow that dynamic through our business."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Can't agree with you more, Barry. I think in the future, we've got the right amount of discipline. We've been able to hire people who are in positions now where they're actually managing and looking at pricing on a daily and moment-by-moment basis. And I think working with our vendors and with our OEMs, I think we can continue improving gross profit, maybe in a more moderate rate than we've done in the past 18 months, but still we can improve."
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "speech": "Okay. And then just on price. Our channel checks were picking up kind of high single-digit price increases with kind of the multiple increases coming through. Can you just talk about how much you're seeing on price or price mix? And if there's much variation between pricing traction in equipment versus non-equipment?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Paul?"
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Yes. The equipment manufacturers, each one of them, with the exception of one right now, I think, have announced that they've got their third price increase of the year going. And each one of them have announced a recent price increase September, August time frame of anywhere from 4% to 8%. And they're real price increases. They generally need the price increases, we all do, because there has been an increase in material costs. So on the OEM side, yes, we've seen price increases three times this year. When you get to the non-equipment piece of it, the parts and the supply side, it's been a pretty continuous stream of price increases that we've been administering, well in excess of roughly 200 price increases. Most of them multiple, obviously. So the industry definitely has seen an upward turn in pricing."
+    },
+    {
+      "speaker": "Aaron J. (A.J.) Nahmad",
+      "speech": "I'll add to that -- this is A.J. I'll add to that. As it relates to our total gross profit margins, we are focused on selling and aspire to sell more parts and supplies, which inherently have a higher gross profit margin. So that also contributes."
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "speech": "Are you guys able to quantify what price or price mix was in the quarter?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "No, we haven't. It's -- there's not a regular cadence to it. So for us, it's making sure that we're getting the price increases into the customers' hands has been our priority one. They've been coming at us so fast. As far as the measurement, yes, we'll do a reconciliation and find out exactly what that is at some point once the year progresses."
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "speech": "Okay. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Jeff Sprague from Vertical Research. Please go ahead."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "Hey. Good morning, everyone. Thanks for taking the questions. Two for me. First, just on the multiple price increases. It is interesting, Barry mentioned more high-efficiency systems. It doesn't feel like you're bumping up against any elasticity here on pricing, understand the consumer generally doesn't know what this stuff costs until a unit breaks, and they find out. But any sign at all that there's a tilt toward mixing back down a little bit?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "What was the question? Any sign of what?"
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "Well, I'm just wondering if you see any mix erosion in response to the escalating in price. It doesn't sound like you did in the quarter, but I just wonder if around the edges, we are starting to see any signs of like demand disruption?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, let me say that we also are aware of the end consumer, and we are now presenting more and more renewals of our financing program. So that whatever the cost increase is, it's less of a burden for homeowners because of the terms of the -- that we provide through one of our platforms for financing, and particularly equipment. And if somebody else want to say something, go ahead."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Yes, I don't think there's been much pushback from the consumer at all. You hit it right on the head. The consumer doesn't know what the -- what a price is. It's not a frequent purchase for the consumer. And so to date, we have not seen a lot of pushback. A lot of it has just been based on availability, being able to satisfy the customers' need for home comfort, indoor air quality and humidity control."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Just what I would add to that is there's two things. First, what we sell is a component of the consumer's cost. It isn't the consumer's cost. So how a contractor prices and ultimately completes the job and sells the job. And as Al mentioned, how we can help them finance the job, it's a relatively layered type of transaction, and we haven't seen any deterioration. In fact, growth rates for high efficiency are well beyond the overall equipment growth rate that you see in the press release at 29%. Second thing I'd say is part of the technology that we have is the presentation software to push and recommend and really help contractors go beyond paper when they present these different options to homeowners. And so in the press release where you read about OnCall Air nearly doubling in size in the quarter, that's that piece of software, and high efficiency is ruling the day in that environment."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "That's interesting."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "And I want to get back to financing. Interest rates, everybody knows are low. And so we're helping our distributors, which are our customers with financing. And then we're helping their customers, the homeowners, with financing. And we're taking advantage of lower interest rates to help the end consumer and to help the distributor."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "And you're doing that through third-party intermediaries? Or are you bringing risk on your balance sheet -- more risk on your balance sheet?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, we do sometimes with extended terms of our own, but it's a combination of that and using third party when it goes out several years."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "And my second question, and I appreciate all the detail on the first one. Just on the issue of availability. Just looking at your inventories, they're a little lower than I might guess given the pace of demand. Would you characterize things to still kind of lean in the channel? Or are we kind of getting caught up here within demand?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, first, let me say that the OEMs we deal with have really worked hard to meet demand. They're doing the best they can. Their suppliers, on the other hand, are sometimes letting them down or sometimes, they're overwhelmed. But we do believe that they're getting better at it. We believe we could have sold more in the second quarter had we had more particularly equipment. But it's a matter of time. Demand will catch up with equipment -- I mean, with the supply. And in the meantime, we're doing the best we can as the numbers show. But everybody's got some -- every OEM has one particular or two particular items or a number of particular items that they're short on because they don't control the manufacturing of it."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "I'll just add that I have to say that our teams in the field have been working tirelessly to meet their customers' demand and expectations. They've moved a lot of product around and hustled, and we're grateful and appreciate their hard work, too."
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Nigel Coe from Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Nigel Coe",
+      "speech": "Good Morning, Al. Good morning everyone. It's been a long time since I've been on Watsco. It's good to get a question. It's a great quarter. Obviously, very strong. I just want to pick up on Jeff's question on sort of the supply chain and part availability. It obviously sounds pretty prevalent. All OEMs have got some form of product shortages. I'm just wondering how your sort of IT tools are helping you mitigate these pressures? And I'm wondering if you've managed to gain some share as a result of that. And maybe just talk about any share shifts you're seeing because of your ability to manage that better than perhaps some your competitors."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Who wants that question?"
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "I'll take a stab at it. Yes, we manage -- we've got one of the best technology platforms available to manage our inventory. And we have constant update meetings with each one of our OEMs as well as some of our key suppliers who don't make finished good inventory. And what we're working with them on is making sure that we have our complete visibility to what our needs are, what our forecasts are, and what our order reliability from them has been. And I think what it's done is it's brought us a lot closer, communication-wise, with the OEMs and made us, I wouldn't say a favored nation, but it would certainly make us easier to do business with than most of the channel. So I think it has helped us. Have we lost market share? I think we've gained market share because of our inventory management systems."
+    },
+    {
+      "speaker": "Nigel Coe",
+      "speech": "Great. Okay. That's what was trying to drive up the share gain. And then just on the regional variations. I mean, we -- there's some extreme heat on the West Coast, Pacific Northwest in June. Just wondering if we saw outsized growth in those areas relative to the 29%?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Barry?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Well, the West Coast for us, if you look at the branch count in our filings, is actually a relatively small marketplace for us. We're not in the Pacific Northwest at all. It's 0. And those Western markets, again, from a contribution point of view, did well in the quarter, but it didn't contribute to the overall results materially. So we do want to be actually much bigger out there. In relative terms, it's not very material."
+    },
+    {
+      "speaker": "Nigel Coe",
+      "speech": "Okay. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Tommy Moll from Stephens. Please go ahead."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "We've talked about gross margins and price cost a little bit. If we step back as you think about on a multiyear basis potentially or even just through in, let's say, through an inflationary cycle, in your mind, is that a net benefit, net neutral, net headwind for you as a distributor? Just smooth it all out."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, we don't like to be in an inflationary environment like any other business. I don't think it's something that is good for the consumer or anyone else in the distribution chain. But sometimes, things happen and we do the best we can. And I keep referring to the way we can assist the distributor and his customer is by providing, especially opportunistic financing now given the lower rates to offset some of that. But generally speaking, wherever the inflation is, we'll adjust to it one way or the other. And I think we're gaining share in the things that we do. Anybody else want to add something to it, Barry or Paul or A.J.?"
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Yes. I think the only thing I would add is we do operate a business with 655 locations and..."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "It's different areas, yes."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "5,000, 6,000 people. And to the extent there are -- is an element of fixed cost, we do benefit in terms of profitability and inflationary environment, if those fixed costs are not growing or inflationary as well. So there's always some pressure on cost in this environment. And if -- not always proportionate to the overall inflationary rate and it's an opportunity to have some profitability growth. But again, I wouldn't say it's a huge material amount. It's just an opportunity for us."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Great. That's helpful. If I could follow up on technology. It's good to see continued momentum for adoption on a lot of the key platforms, as you highlighted in the release in your remarks. As you think about the path forward, is now a time when you lean in even more and increase that investment given in addition to the momentum with adoption, just the macro environment?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "That's a favorite question of the president of the company."
+    },
+    {
+      "speaker": "Aaron J. (A.J.) Nahmad",
+      "speech": "Yes, I was going to say, I'm not sure we are -- we don't consider ourselves constrained in technology investments. This is a technology company that just happens to sell heating and air-conditioning. And we say technology, that's really a big broad umbrella term we're using to define our culture, really, which is continuous improvement, continuous learning, continuous ways to find ways to help our customers grow their businesses which at the end of the day, that's our mission. Our customers are small- and medium-sized entrepreneur-led businesses and we can bring tools and technology to them to help them grow. We can make ourselves better to help them grow. So that is our ethos. So we call that technology for short, but that's really what we're in the business of doing, and we'll continue to invest, yes."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Thank you. I'll turn it back."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from David Manthey from Baird. Please go ahead."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Hey. Good morning, Al. My question is back to gross margin. If I look at the 10-year averages, first quarter was close to 100 basis points above that. This quarter was about 200 basis points. And I understand the mix and some pricing dynamics, and I don't know if there's rebates or whatever in there. Could you talk about -- do you see some portion of that gross margin overage as being transitory versus structurally sound going forward?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "You mean in terms of gross profit margin increases or flattening or declining? That sort of thing?"
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Yes, the gross margin percentage. If -- you've been sort of moving along in a range and you pop 200 basis points above that range this quarter. I'm just -- if I step back..."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "I think I understand, but we're very focused on our gross margin percent. And we mentioned some technology we bought in with pricing FX, and we've mentioned other ways that we're trying to achieve that. That's not going to stop. I don't know where the end will be, but that's what we're going to continue to seek to improve in a number of ways. So that's an ongoing goal of ours, and we've had successes with it, as you say, in the first half of this year, and we're going to continue to focus on that in the second half. And don't forget, we're trying to change the supplies business in terms of the margins of the parts and supplies that they are generally higher than equipment. So we're emphasizing to our branches, sales of those goods. And so that's something that could continue to increase the mix of our products, more parts and supplies in the mix of the overall sales picture. Somebody want to add something to that?"
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Yes, as well as high-efficiency equipment too, which was [Indecipherable] come up on that."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Because high-efficiency equipment, we believe, contributes to the climate change issue that's on there. You have to start with the premise that in homeowners, the electrical bill, half of it is due to heating and cooling. Half of homeowners' electrical bill is due to heating and cooling uses. And if you have a higher-efficiency cooling and heating system, you're going to use less electricity, which in turn, you're going to require less power production and -- which in turn minimizes the release of CO2 gases. So it's very well connected. And we have a very clear eye about what we can do, which is to encourage the adoption and make it easier and help with financing it, high-efficiency equipment, because not only does it help us as a corporation. But it also helps the climate change issue, which we're trying to figure out in many different ways how to help that particular issue."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay. And on the parts and supplies, I'm thinking more from a growth perspective. The last couple of calls, you've sort of hinted at some initiatives you may be working on there. Are you willing to share anything at this time regarding how you're able to accelerate the growth in parts and supplies from here forward?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "You mean you want us to tell the competition how are we doing it?"
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "I'm sure they have an idea."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, maybe it's better to give you data how productive have we been in the effort. I think, we can share growth rates in parts and supplies, Barry or Paul?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "David, it shouldn't be lost on anyone that looking at the quarter, for example, or let's look at the half for maybe even better, growth rate of residential products is up 24% in the half -- first half of the year. Parts and supply is up 19% and accelerated in the second quarter to closer to 25%, parts and supplies. Typically, there's some inversion. Historically, there's some inversion in those two numbers because as equipment grows, parts and supplies generally won't grow at the same rate because people are replacing systems. So this is a change, the last six months. And it is a sales force, it is a culture, it is an incentive system, it is many things simply to bring energy and data and technology and e-commerce systems. And it's -- again, it's 15 things. It's not one or two things. So that's actually..."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Yes, e-commerce is a major contributor because it's so efficient. Go ahead. I'm sorry for the interruption."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "That's fine. So clearly, there's change and the benefits are there for year-to-date, and it started -- this all started last year in terms of raw energy flowing into this. And it's something over time that should benefit gross margin because gross margin is, in fact, considerably higher in that part of the business."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Great. All right."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Great. And what's our e-commerce platform sales for the first half, Barry?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Our run rate is about $1.8 billion for the last 12 months. So it'd be close to $1 billion, I think, for a six-month period."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "That's about 1/3 of our business now."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Of our revenues."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay. Yeah. Thank you for the details. I appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steve Volkmann from Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Steve Volkmann",
+      "speech": "Hey. Good morning, guys. Thanks for taking my question. I have a couple of long-term questions because I heard that's how you manage the company. Curious, how big do you think -- you've mentioned financing several times. How big do you think financing could ultimately be for you, I don't know, as a percentage of stuff you sell or however you like the math?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, that's a very good question because we haven't got an answer to that yet. For example, should we be in the financing business? Should we partner with somebody to be in the financing business? These are big issues that we haven't resolved yet. But I don't see any reason why not to one way or the other figure out how to extend and increase the support we provide our distributors and their customers, the homeowners, financial assistance. I particularly like the interest rate feel that we can take advantage of something like that. And even when the rates go back up, there will always be ways to tweak that to help our customers. So we like the financing thing. We haven't figured it all out. If you got a good company, we can buy that, accelerate it, we'd be happy to talk to them. It is a pillar of our growth, financing. But it's probably not going to run very fast in terms of development other than more of the same until we figure out the big picture and buy somebody or become part of somebody or that sort of thing."
+    },
+    {
+      "speaker": "Steve Volkmann",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Aaron J. (A.J.) Nahmad",
+      "speech": "If you're looking for a headline number though, the products that we sell and our competitors sell at the wholesale level get resold at the retail level for $80 billion or $90 billion, and some portion of that is and will be financed."
+    },
+    {
+      "speaker": "Steve Volkmann",
+      "speech": "Okay. All right, TBD. Sounds like a big opportunity. The second unrelated question, kind of more on the M&A front. And I'm just trying to think back, I know you guys have seen lots of different end market environments. Is this the type of environment where you see more of the independents that are willing to sell their businesses because it feels like everything is so good, it can only kind of go in one direction from here? Or is this the type of environment where these guys are doing so well that they don't want to sell, and it's tougher to get deals done?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "I think maybe you should go out and tell them this is a time to sell. We are engaged with distributors, and that's part of our culture, always to be engaged with great companies. I don't think we have an answer to that. I think they may be concerned about the capital gains tax, for example, going up. But in the end, what they want to do, family businesses especially, is connect with a company that's going to preserve their own names and culture, and that's what we specialize in. These two companies we recently bought, for example, at TEC, their culture is so strong. All we do -- we act as support level. We're not -- we're going to feed in whatever they want, capital, equity for their key executives, technology. That's our style. And there'll be people that want to get engaged with that because of that reason in terms of their -- the atmosphere about taxes going up and all that. Do you see any trend in that, Barry, one way or the other?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Yes. I mean, I would say it always helps quantitatively, the confidence of doing something when things are going well. It helps our confidence. It helps the sellers' mindset of optimizing valuation, not feeling like you're doing something ahead of time or what have you. And the taxes matter, too. But what really matters is none of that. What really matters is an emotional process. These are families that have owned businesses for 70, 80 years, third and fourth generation. And I wish it was just a financial process, but it's entirely, at times, an emotional process. So that's the part where I feel like we've been successful is dealing with that emotion going forward for another generation or two. It's why TEC and why Peirce-Phelps a year before, after 90 years, 80 years of owning their business, only talked to us and we completed it, and it's moving forward. So I think you're right. It helps the discussion to do well. It doesn't necessarily help the completion process because that's still an emotional one for these guys."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Yes. It's really their family joining our family, right? That's an emotional decision more than anything else."
+    },
+    {
+      "speaker": "Steve Volkmann",
+      "speech": "So, one big happy family. Thank you. I'll pass it on."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steve Tusa from JPMorgan. Please go ahead."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "I like the use of the term blowout in the press release."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Are we getting better in those press releases?"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Yes, yes, yes. I think you need to be more clear on how you feel about the results."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, I did ask Barry to put in more color and..."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "That was a good one. I'm not sure we're allowed to say that with all the compliance around here, but obviously, very strong result. I didn't -- I might have not caught this in the beginning, but can you guys just say how much price you booked in the quarter year-over-year?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Barry?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Yes, we didn't -- we were asked and answered that we -- we're not going to tell you exactly how much price was booked in the quarter. There obviously is positive price with, again, 29% same-store sales growth. You can imagine most of that is entirely unit growth. Price is a component, Steve, but we -- it's not something we've reported."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Got it. And then when you think about the gross profit improvement, which is obviously very strong, was there a big difference in the year-over-year on that? I think it was up like 40% or something on a same-store basis. Was there any difference between the parts and the equipment?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Difference in margins?"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Difference in gross profit performance. I mean, was there -- yes, I mean, fine, gross margin improvement, whatever you want to talk about it."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "The more of the mix goes to parts and supplies, the higher the corporate gross profit margin will be."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Right. But I guess, like-for-like, just if you think about the performance of the year-over-year performance simply -- let's put it this way. What was the year-over-year gross profit performance for the parts business? Was it meaningfully better than the up 40% you saw for the total company?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "All right. You deal with that one, Barry."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Yes, Steve, there's really not much of a distinction in the performance. If I look at product groups and markets and product categories, things like that, it's pretty consistent across the company. There's no one bias or one pocket or one bubble, if that's kind of what you're asking, that's there. It's pretty much across the board."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Yes. I was just -- I'm just trying to discern like what the -- like there's some timing dynamics around your suppliers and you guys when it comes to pricing, I would assume. And so I'm trying to discern how much of that is kind of on the parts side versus the equipment side."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Inventory turns, which would matter in that algebra that you're talking about, is pretty consistent across products. So again, there's no distinction related to making that kind of concept. Again, margins pretty much behave the same across products and markets."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Got it. And then one final one, I guess Paul mentioned -- I think it was Paul or maybe it was Al, the price increase that's kind of coming through in the fall and you said that was kind of real price that they're going after. I guess, that means that we shouldn't like discount it too heavily, like as we usually do, or at least as we may normally have in the past. Those are some big numbers. I mean, is kind of 5% of annual price for kind of the players in the industry, including you guys, like is that too big of a number to assume for price this year, price capture?"
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Well, like I said earlier, Steve, this is Paul, really haven't calculated that. But the price increases that we're seeing going through right now are holding and they're real. And by real, I mean, we're seeing the price increases actually stick because the cost has actually gone up to breach the product. And you've got an availability issue on the side that would certainly indicate that there is a supply component to it. So..."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Right. And are you guys leveraging your kind of -- your buying power across the industry at all to kind of have an advantage over the competition when it comes to buy -- what you're buying?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Let's put it this way. We are the largest, and sure, we're going to try to get the best price. Everyone of -- what is it, 1,000 vendors now, Paul?"
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Of course, we're going to try to leverage our size. Do we succeed? I guess, sometimes we do. But also, the subsidiaries themselves, the business units, they start figuring out whether they should buy the same stuff that their sister companies are buying. And when they decide that, that also increases the amount of business we can give a particular manufacturer. So that helps. Again, we don't legislate what the business units have to buy because they know their margins better than us. But we like the collaboration among them so that they can come up with -- to answer your questions, let's just buy from one vendor or two vendors, instead of three or four, and that helps the manufacturer give us better pricing."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Right. Makes sense. Yeah."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Those are things you get with scale."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Makes a ton of sense. Cool. Thanks a lot, guys. Appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question comes from Ryan Merkel from William Blair & Company. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "speech": "So I guess, stepping back a little bit, I'm just trying to understand why the HVAC market is so strong. When I talk to people in the channel, everyone is surprised by the strength. Now obviously, high home prices, low interest rates, right, weather, that's all helpful. But do you think work from home and people running air-conditioning more is boosting demand?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Sure. Sure. Sure. Paul, do you have the best sense for that?"
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Yes. I think in certain markets, it does, especially in the North and the West, perhaps. We're becoming a better force in the North. But I think in the South, I think it's just people buying existing homes. When they buy an existing home, they don't plan it, but they end up replacing an air conditioner at some point during the first 12 to 18 months of an existing home purchase. We're seeing a lot around refrigerant and SEER changes that's impacting it. We're seeing a lot more technology getting into heat pump growth, which is greening up -- taking some carbon out of the environment that is creating some demand among consumers. Obviously, the price increases, as prices have increased, I think that's driven some demand from the consumers when they talk to their contractor, dealer. And I think the availability issue, I think, creates further demand. So there's probably, to use a Barry-ism, there's probably 14 or 15 different things that I think have created the demand that we have beyond just people sitting at home and running your air-conditioning more."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Yes. I think just to add to that, I think one of the realities is that OEMs do not sell air-conditioning. We do not sell air-conditioning. A contractor advising the homeowner is the one making the sale. And A.J. mentioned earlier about our customer engagement to help that process to engage them in a digital process to do that, that I think is having some effectiveness. But I've said many times, with contractors, if we see their credit at an all-time high, it means they're doing well. It means their confidence level is high. It means their design and desire to sell more stuff and so higher efficiency stuff is a real thing. And so that's what's been the nicest thing to see really for two years. It's not just a 1-quarter thing. The last two years, we've seen that leading indicator, if you will, in our credit. And today, it's the best we've seen it."
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "speech": "Okay. That's helpful. And then just quickly, my follow-up. I'm not sure if this was asked yet, but you didn't leverage SG&A this quarter. Maybe just explain why that was just given the blowout top line, as you put it. And then second half, do you think you'll leverage SG&A?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, how detailed, Barry, do you want to get with this? The fact that we have a lot of people working over time because we're shorthanded in certain places, whatever it is, it's that sort of thing. It's constructive. We met the challenge not only of not having sufficient product but in some cases, not having sufficient labor. I mean, we just did what we had to do. Is that going to continue quarters from now, the same circumstances? Who knows? I hope not."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Yes. If I add to that, and part of it is we have a commission sales force, we have branch managers who can make a bonus if they do well, we have leadership throughout the company that is a good chunk of performance-based compensation. All of which, needless to say, year-to-date is being earned. And as part of the cost structure this year, that obviously is important and earned. And compare this to last year, Ryan, you can see the difference in performance. So there is a good chunk of performance-based compensation in the numbers this year. It accounts for some of that and again, well deserved and well earned."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Josh Pokrzywinski from Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Josh Pokrzywinski",
+      "speech": "Hey. Good morning, Al. So I think it was Paul or might have been Barry, talking about kind of this anomaly where you're not seeing the trade-off between equipment and non-equipment. They're both kind of strong in tandem. So whatever is happening, stuff is breaking, it may be a faster rate over the last year or so than what folks would have expected. Maybe think about how that rolled out in your own results. Would your expectation then be volume has more kind of room to normalize the mix? Or consumer confidence is so high that mix is also high and maybe that also has room to step down? Like which one of those do you feel like is sort of the bigger surprise and maybe has a long-term average to get back to that's a little lower?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Who wants that one, Barry, Paul, A.J.? And good luck with it."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "I can't tell if there's a lot of nuances in that or not, but I'll give it a shot. Well, first, on mix and high efficiency and so on. 70% of our business is equipment. And it's been 11 straight years, 44 quarters where mix has improved. And there's -- I don't think there's a reason to think that changes. And I think it's still far from any long-term average that goes back more than 10 years ago. And again, our technology platform that we're witnessing, our sales platform is at another level even than just what the market is doing. So I'll take those fundamentals to mean that the ability to sell increasing efficiency is something that can continue, and we're investing a great deal with our customers to help it continue. And obviously, there's some regulatory things in the horizon that will mandate that it continue. So I think that's how I would feel about it. Parts and supplies, again, is nuanced. There are probably 600 vendors, over 100 different product lines in that conversation. And my earlier comment where we see culturally, a lot of growth, a lot of energy, a lot of salesmanship, a lot of data and technology pushing those products, and I think that's for us to enjoy, not necessarily analyze against the marketplace. I don't think -- I don't know if replacement parts are growing in the market. I know our business is. And I think part of that is internal more so than what the market is doing."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Yes. I mean, an easy way to think of that one -- an easy way to think of that one is that our customers sometimes have to go to our competitors to buy products, HVAC/R products. We can and should have those products available at a competitive price for our customers. And that's the kind of focus and effort that we can bring."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Just to add some color, real quick. A market like Miami, where we might have six or seven major equipment distribution competitors. For parts and supplies, we may have 15 or 20 in Miami. And so that's the ground game where I think we're making some progress in growing our business."
+    },
+    {
+      "speaker": "Josh Pokrzywinski",
+      "speech": "Got it. Okay. And then on the..."
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Okay. And we're working -- OK. We're coming up with better measurement systems, Josh, as far as being able to identify if we're actually making a better penetration. Looking at attachment rates on equipment, looking at normal business cycles, looking at warranty rates and warranty population against what the industry has out there. So we're doing an awful lot of analytic work on this to be able to measure and determine how we can continue to grow in that area."
+    },
+    {
+      "speaker": "Josh Pokrzywinski",
+      "speech": "Okay. Understood. Sorry, I had a lot of false starts but I wanted to make sure everyone had a chance. On your kind of the competitive environment and availability, it seems like you guys between maybe a better kind of internal sourcing and supply chain practice and just being more of the 100-pound gorilla from an industry perspective, probably aren't having as many stock-out issues or availability issues as some smaller folks. Do you guys think that's giving you sort of a wider aperture on pricing right now if you guys can step in when maybe someone else can or a customer that's more of a mercenary-type customer rather than Watsco dedicated wants product? Is that sort of giving you a little bit more boost on the pricing side?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "I'll take a cut at that. I don't believe that, Josh. Yes, we are big. We're very effective as far as being able to provide our OEMs with the data that they require to put their order plans together, their build plans together to be able to supply it. But I don't think we've been benefited in any way -- in any special way compared to the other distributors that those OEMs sell to. That just did not have..."
+    },
+    {
+      "speaker": "Josh Pokrzywinski",
+      "speech": "No, sorry. Just to be clear, I mean, to your customers. So to the extent that someone else just doesn't have kind of the process rigor that regardless of whether or not you're purchasing things cheaper that you can price to a customer maybe a little bit better because they can only get it from you?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Yes. I would -- go ahead."
+    },
+    {
+      "speaker": "Aaron J. (A.J.) Nahmad",
+      "speech": "I would say, I think that part of that dynamic is why we believe we're taking share. I don't think we're using it opportunistically to take advantage of customers and getting an extra few dollars along the way. That's not how we approach our customer base. We talked about being a long-term company. Our relationships with our customers are also long term. This is not a consumer transactional business. This is a B2B relationship and how can we help our customers grow over the long-term business."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "I totally agree with A.J. on that, yes."
+    },
+    {
+      "speaker": "Josh Pokrzywinski",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is a follow-up from Steve Tusa from JPMorgan."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Hey, guys. I'm not sure anybody asked. So I'll just try and see if you guys can give some color. I mean, what do you see for kind of second half growth? And you seen anything in kind of July here that you want to comment on? Just trying to kind of get the best crystal ball view at this stage."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Barry?"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "Yes, Steve, I'll speak about, I think, the last half of the year rather than the first 16 business days of July and how this morning went, right? No, I mean, you can expect moderation in residential equipment just because that's common sense. It's not going to grow 29% from here on, right? So there will be moderation and how it plays out over the season versus into next year, there'll be some moderation. There has to be. At the same time, there's absolute strength in commercial, absolute strength in our international markets, which were in more of a funk a year ago. We've talked about price and margin outlook for the next several months. And we've talked about our acquisition additions that we've made to add to growth rates going forward. And then you can imagine already looking into next year and beyond with our OEM community, having the same conversation about growth and share going forward. So it's several moving pieces, and that's how I would approach the answer there."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "But you have to look at it as what we've done year-over-year. We've been at this for a few years. And you can see what the record is. We always manage -- in most cases, we always manage to grow, sometimes at a higher rate of growth than others. But some of it is internally because we do things better internally, and some of it is because the industry is doing something."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "So I mean can same-store sales be -- you said moderating, obviously. Can same-store sales be up 5% to 10% in the second half for resi equipment?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Who said they are moderating? We're not..."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Well, so then you're going to be up 30% in the second half for resi equipment?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "No, I just was curious who said we were moderating."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Barry just said that you guys will see moderating..."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Did you say that, Barry? Moderating?"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "He said that there was a sense..."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "There it goes. [Indecipherable]"
+    },
+    {
+      "speaker": "Barry S. Logan",
+      "speech": "[Indecipherable]"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "I think I'm going to ask Barry to change that."
+    },
+    {
+      "speaker": "Aaron J. (A.J.) Nahmad",
+      "speech": "Barry's point was that things can't grow at 30% forever."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Right, right. I know. I was just..."
+    },
+    {
+      "speaker": "Aaron J. (A.J.) Nahmad",
+      "speech": "We had that conversation with our leaders and the challenge to them that they put on themselves is, well, how are we going to grow while things slow, which inevitably at some point, they can't grow up to 30% forever. So they are creating programs and they're doing what they need to do now to continue to grow regardless of industry conditions, which..."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Got it. I guess, I'll ask one more to ask that. Do you think the industry will be down at any time in the second half?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "No, I don't think so. Paul, you have a better handle on this."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Yes. It probably will. We'll probably see shipment -- I don't know if I..."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Who should know, and you said yes. Who knows? The answer is who knows."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Exactly. You asked for my guess and my guess would be, you'll probably see maybe some -- there's a difference between what the -- when there's a shipment demand and there's a movement demand. I think movement right now is going to remain strong. Maybe shipments will slow down a little bit, and that may not be because of orders, it may be because of other supply issues that some of the OEMs are having."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Right. So AHRI could be down at certain points, but the HARDI and your sell-through is -- continues to grow, but at a slower rate than the 30%, which is the common sense comment?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Correct."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Is that a good way to summarize it?"
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Yes, sure."
+    },
+    {
+      "speaker": "Paul W. Johnston",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "speech": "Okay. Awesome. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no more questions in the queue. This concludes our question-and-answer session. I would like to turn the conference back over to Albert Nahmad for any closing remarks."
+    },
+    {
+      "speaker": "Albert H. Nahmad",
+      "speech": "Well, thanks very much for your continued interest in our company. I hope we don't disappoint you ever going forward. And our record in the past, I hope, that it keeps you interested. So thank you again for your interest, and look forward to talking to you in the next quarter. Bye now."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 56 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Albert H. Nahmad--Chief Executive Officer",
+    "Barry S. Logan--Executive Vice President-Planning and Strategy and Secretary",
+    "Paul W. Johnston--Vice President",
+    "Aaron J. (A.J.) Nahmad--President",
+    "Jeff Hammond--KeyBanc Capital Markets -- Analyst",
+    "Jeff Sprague--Vertical Research -- Analyst",
+    "Nigel Coe--Wolfe Research -- Analyst",
+    "Tommy Moll--Stephens -- Analyst",
+    "David Manthey--Baird -- Analyst",
+    "Steve Volkmann--Jefferies -- Analyst",
+    "Steve Tusa--JPMorgan -- Analyst",
+    "Ryan Merkel--William Blair & Company -- Analyst",
+    "Josh Pokrzywinski--Morgan Stanley -- Analyst"
+  ]
+}

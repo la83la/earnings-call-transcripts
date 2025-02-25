@@ -1,0 +1,323 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by and welcome to the Fourth Quarter 2019 Badger Meter Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions]. It is now my pleasure to turn the conference over to Karen Bauer, Vice President of Investor Relations, Strategy and Treasurer. Please go ahead."
+    },
+    {
+      "speaker": "Karen Bauer",
+      "speech": "Good morning everyone and welcome to the Badger Meter fourth quarter 2019 earnings conference call. On the call with me today are Ken Bockhorst, Chairman, President and Chief Executive Officer and Bob Wrocklage, Chief Financial Officer. The earnings release and related slide presentation are available on our website. Quickly, I will cover the Safe Harbor, reminding you that any forward-looking statements made during this call are subject to various risks and uncertainties, the most important of which are outlined in our press release and SEC filings. Finally, please note that on today's call, we will refer to certain non-GAAP financial metrics. Our press release and slides provide a reconciliation of the GAAP to non-GAAP financial metrics used. With that, I'll turn the call over to Ken."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Thanks, Karen and thanks for joining our fourth quarter earnings call. We finished out the year with solid fourth quarter results including an 8% increase in municipal water sales year-over-year, higher operating profit margins, and record free cash flow. Recapping the full year, our top line saw some unevenness largely from the mid-year innovation pause associated with new product introductions and the sizable Middle East project revenues in the prior year that did not repeat. However, we delivered very strong margins, both at the gross and operating profit levels and tremendous cash flow improvement with 155% free cash flow conversion of net earnings for the full year. Bob will walk you through the details of the quarter and after that, I'll come back and talk further about the year in review as well as our market outlook."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Thanks, Ken and good morning everyone. Slide 4 gives you a snapshot of the financial results for the quarter compared to adjusted results in the prior year. As a reminder, the prior year amounts have been adjusted to exclude executive retirement charges. A reconciliation of these amounts is included in the appendix to the slide deck. Starting with sales, total sales for the fourth quarter were $107.6 million compared to $104.4 million in the same period last year, an increase of 3% overall. In municipal water, overall sales increased 8%. Sequentially, this quarter's domestic municipal water sales were about level with the third quarter of 2019, again, near record all-time highs in contrast to what we have historically seen in terms of a sequential decline from Q3 to Q4. The increase was driven by continued adoption of smart metering solutions including the newly launched large diameter 3-inch and 4-inch E-Series commercial meters and ORION LTE-M Cellular radio endpoints.\nIn the quarter, mechanical meters sales were particularly strong as we ramped the Columbia, South Carolina smart meter award announced earlier in the year. Sales mix remained positive with increased sales of meters with radios as well as increased BEACON service revenue year-over-year. Flow instrumentation sales declined 11% year-over-year, the result of sluggish global industrial activity across the variety of end markets served with the majority of the decline in international markets. Operating profit as a percent of sales was 15.2%, an increase of 60 basis points from adjusted prior year results. Taking a closer look at the drivers. Gross margin for the quarter was 38.2%. This was the sixth consecutive quarter where we have delivered in the upper half of what we would call our normalized range of 36% to 40%. Net price cost had a negligible impact and while margins did decline slightly year-over-year with the typical quarter variation in meter mix and lower margin installation activities, the overall trend of radio adoption and higher BEACON service revenues benefited absolute margin levels overall.\nSEA expenses in the fourth quarter were $24.8 million, approximately level with the prior year's adjusted $24.9 million due to solid cost control measures. SEA leverage improved to 23% of sales from an adjusted 23.8% last year. The income tax provision for the fourth quarter of 2019 was 24.3%, slightly higher than the prior year's 23% adjusted rate.\nIn summary, EPS was $0.42 for the fourth quarter of 2019, an increase of 5% from the prior year's adjusted EPS of $0.40. Our working capital management actions resulted in another quarter of improved primary working capital as a percent of sales, which ended the year at 26.4%, down 230 basis points from prior year end. Our overall free cash flow in the quarter was modestly below the prior year's fourth quarter, but for the full year, free cash flow increased by $21.5 million or 42% and we finished the year with a very robust free cash flow to net earnings conversion of 155%. With that, I'll turn the call back to Ken. Yeah, thanks, Bob. We've spent quite a bit time talking with customers and with investors about innovation and the benefits of our smart solutions including infrastructure free cellular radio offerings. Recently, our Smart City Alliance partner, AT&T, participated in a panel at the Consumer Electronics Show in January and highlighted Badger Meter's industry-leading solutions when talking about the various benefits cities can realize while deploying smart applications. As you may remember back in March, we announced we had won an important smart water deployment with Columbia, South Carolina, that included not only our world-class record all mechanical meters, but also our ORION LTE-M Cellular radio solution. It was recently announced that this smart water project won a Smart 50 Award, which honors the 50 most transformative global smart projects each year. Among the benefits, the award notes that the Badger Meter solution provides, and I quote, actionable intelligence to Columbia water which can result in faster leak detection, quicker data collection for compliance reporting, and better revenue management. Most importantly, we have received outstanding feedback from the customer across a spectrum of metrics associated with this project. I encourage you to follow the link we provided here on Slide 5 and watch the video, which includes comments from Colombia's Mayor. Finally turning to Slide 6, as we embark on our 115th year in business, I'm optimistic about our future. Municipal spending trends are solid. Our focus on choice with comprehensive and tailorable solutions across our differentiated metering, communication, and data analytics offerings is leading to healthy quote activity and a solid backlog. We have a strong earnings and cash flow that we intend to continue to reinvest in the business both organically through R&D and via strategic tuck-in acquisitions. I'm pleased with our organization's willingness to embrace sustainability and a continuous improvement culture mindset, while we remain customer focused. We saw measurable improvement across multiple operational, customer facing, and back office metrics in 2019 and I anticipate further improvements in the year ahead. In closing, I want to say thank you to our employees across the globe for their relentless customer focus and efforts. With that, operator, please open the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your first question today comes from the line of Nathan Jones with Stifel. Your line is open."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Good morning, everyone."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Hi, Nathan."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Maybe I could start off with the really good growth that you guys saw there in the municipal business in the fourth quarter. You had this innovation pause earlier in the year, do you feel like this is return to a more normalized level of customer demand here or do you feel like that there might have been some catch-up from things that were deferred a little earlier in the year. Any color you can give us around that?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yes, so I always like to point out, first, as you and everyone else on the call knows, things can tend to be uneven, but yes, we are back to a more normal level of growth. I would not characterize the fourth quarter as having a catch-up from Q3 because the market has a tendency to push to the right because there is still the whole idea of installation and the other things that happen. So feeling good about where we are coming out of the year and I think I feel confident that we're back to normal."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "That sounds good. Then maybe looking out into 2020. I mean I think municipal spending probably should be in the area, the market should probably be in the area of low-single digit growth, maybe mid-single digit growth. You guys have some fairly easy comparisons, particularly in the second quarter there and somewhat into the third quarter. Do you guys think that there should be any catch-up in 2020. Do you think we go back to a more normalized level of demand, you maybe growing a couple of points above the market just based on the ease of those comparisons or just any color you can give us on how you're thinking about 2020?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, Nathan, we still tend to think about the business more for the long-term as it tends to be difficult from quarter-to-quarter, but we still feel very confident about the position that we've held that we can continue to grow in the mid-to-high single-digits through the long-term."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Okay, thanks very much. I'll get back in queue."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Chip Moore of Canaccord. Your line is open."
+    },
+    {
+      "speaker": "Chip Moore",
+      "speech": "Good morning. Hey, Ken, Bob and Karen."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Hi, good morning."
+    },
+    {
+      "speaker": "Chip Moore",
+      "speech": "One follow-up on that last question, maybe if you can parse municipal growth just a little bit more, you know, domestic versus international, resi and C&I?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "So basically every product line, OK, yeah, we still see similar to what I just said on the domestic side, I think from an international point of view, we continue to focus the team around identifying markets and opportunities. That's really not any different. And on the commercial side, we feel strong about our offering coming out with the 3-inch and 4-inch ultrasonic keeping in mind that commercial is still a pretty small part of the overall portfolio and there is, of course, some cannibalization as it goes from mechanical to ultrasonic, but still feeling like we've been stating all along this mid-to-high single-digit growth is a spot that we're comfortable with."
+    },
+    {
+      "speaker": "Chip Moore",
+      "speech": "Got it. No, I was thinking more on the quarter if there was any year-end business in Mexico or anything in Middle East or anything like that on the municipal side."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "So specific to the quarter, if you think again, overall utility up 8%. I would tell you we saw similar growth rates in both resi and commercial as you look global and our growth rates, domestic versus international realizing again, international is a very small base. They were in that region too. So there wasn't differentiation either in channel or in geography."
+    },
+    {
+      "speaker": "Chip Moore",
+      "speech": "Got it. That's helpful, thanks. And just a follow-up, I think you called out mechanical very strong on Columbia ramping. Is there any way to quantify I guess municipal growth excluding Aurora or Columbia, you know, back to sort of the catch-up idea. Is there any way to parse that at all?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, so we typically haven't been that granular. I would tell you, obviously, there is an element of that as we've spoke to in the commentary, but it's not overly significant to the quarter as a whole."
+    },
+    {
+      "speaker": "Chip Moore",
+      "speech": "Okay, got it, thanks. And just one last one, $80 [Phonetic] million plus free cash flow, very strong. Any changes to how you're thinking about bolt-ons versus organic investment and how should we think about free cash flow conversion this year, Bob. Thanks."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yes, so maybe I'll speak to the free cash flow mechanics and then I'll let Ken speak about just M&A funnel and other aspects of that. So a large part of the, both the record operating cash flows as well as the free cash flow conversion is a function of primary working capital. As we've talked about continuously throughout the year, a large part of our efforts in 2019 was what I've always coined and characterized as motherhood and apple pie primarily on the accounts receivable and accounts payable side of the business. We continue to see the opportunity to improve that as we move forward. We came out of the year at primary working capital as a percent of sales in that 26.4% range, again consistent with prior discussions. I'll never tell you a target in terms of where we hope to end 2020, but we still continue to see an opportunity to improve that number and continuous improvement focus I think with inventory being a bit more of a focus for us as we roll through 2020. So I do continue to see primary working capital improvement as a tailwind for cash flow. So I think that we can sustain cash flow conversion at 155% level with the what I'll call step change improvement made in '19 probably isn't reasonable, but I still think you would expect and we would shoot for, and our goal would be free cash flow in excess of 100% of net earnings as a target with again primary working capital improvement initiatives being a tailwind to that."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, Chip and on the second half of the question, our capital priorities remain the same. So we're going to continue to invest in R&D, we have some exciting projects again that we're working on this year because maintaining our innovator status is something that we feel is very important for us. M&A, the funnel continues to develop nicely on the tuck-in acquisition side. I would tell you that we have some interesting active discussions, but as I always say don't mean -- don't take that to mean anything as imminent. And then thirdly, we've increased dividends for 27 consecutive years and we expect that we would be doing that again this year for a 28th consecutive year. So the capital priorities really haven't changed, it's just a matter of continuing to get further down the funnel on execution."
+    },
+    {
+      "speaker": "Chip Moore",
+      "speech": "Got it. Appreciate it. Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Andrew Buscaglia of Berenberg. Your line is open. Andrew, you may be on mute."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Hey guys, sorry about that. On the product side. So it looks like you're on the cusp of a little product cycle here into 2020 with some of the new stuff you have coming out, can you talk to the cadence of adoption. Do you think this is going to be really start to see this flow through in the first half, second half, and how does this compare to like past past cycles you've had?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yes, so I think if I'm understanding the question correctly, I think you're asking if we're expecting an innovation pause with our new products this year. So let's kind of walk through it. So the first one we released in the second half of the year on the 3-inch and 4-inch. Again, we're seeing great adoption and that's projecting as we expected, so very pleased there. We're pretty far into the cycle on releasing our flow restriction valve meter. So that we'll see come out this year and again not expecting to see dramatic pauses as we shift because it's just an extension of the product line. We're going to continue to implement our D-Flow technology into our residential meters, which is more of an opportunity to continue to increase our -- improve our cost position and then we'll continue to build out the large ultrasonic line. So overall, I feel great about the projects that we're doing and not expecting them to have dramatic innovation pauses in the year."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "And then, presumably, you're the incumbent on some of these products as they are already out there existing, I guess what gives you the confidence that Badger Meter will be the -- will see adoption and I guess I'm trying to get at is where are your customer conversations like that you feel confident that these will be I guess meaningful to your portfolio?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, so Andrew, we -- in March, we'll be celebrating our 115th year in business and many of our customers have been with us for decades through several cycles of innovation. So the relationships that we have and the ability that we have to walk them through the technology curve and retain them has always been very successful and I certainly don't see that changing as we go into the future. We have customer focus groups that every year we go through where we bring in customers and share with them our ideas for new products and we really helped that guide us on where we take our innovation. So feeling very strong about our ability to implement and retain our customers."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Okay and maybe just one last one. You cited potential weakness -- going forward, gross margins weakness for -- related to brass costs, I would think -- I think as a proxy for brass, copper seems to be down a bit. What do you mean by that, that would be a headwind?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah, so maybe let's just -- on the copper pricing again as a proxy for brass costs. Let's talk about maybe what pricing looked like in the fourth quarter here comparatively and then we can talk about kind of the blip I think the market seen here in the very recent past, so and if we tick that sequentially through '19, we started the year with a more favorable copper price position on a year-over-year basis. That rate of influence moderated as the year progressed and really the fourth quarter as I mentioned had modest price cost dynamics in the margin, meaning 275 [Phonetic] where we spent most of the fourth quarter was basically on par year-over-year. Obviously, with copper now in that high 250 [Phonetic] range, I think a lot of that is in large response to Asian markets quite frankly in terms of projected industrial and business demand and the uncertainty there surrounding health scares and other things. If I could predict where that was going, I probably wouldn't be on this phone call in this capacity. I'd be counting my money somewhere else. So I think we just look out at it over the long-term and say we're coming off a year where we had favorable cost dynamics with copper input pricing largely being in the 275 [Phonetic] range for a large part of the year. I think when we look forward, we just assume to some regard that could be an unfavorable headwind and so we're just cautioning on that. Again that's a single element of our margin equation. As we've talked about historically, there is a lot of positive dynamics to our margin profile, both at the gross margin level and at the operating margin level, but we'll continue to caution that metaphorical stairway to heaven that everybody just assumes with mix and average sell price and operational improvement and copper becomes this thing that continues to step up and that our normalized range of 36% to 40% all of a sudden becomes 38% to 42%.\nWe keep coming back to and I keep reminding folks, we still are operating in an oligopoly primarily in the North American market rational, but still price focused competition comes along over time and beats that margin expansion down over time and when you introduce into that the dynamic of a potential copper price change combined with, again, as we experienced a little bit here in the fourth quarter, some of our installation projects being on a relative basis, lower margin installation revenues, we just continue to think, hey, we've got six quarters of operating in the higher end of that normalized range that feels good and we'd like to continue to be there over time and copper is a big variable of that. So I kind of meandered there through that, but wanted to give you a broader view toward operating and gross margins beyond just copper and then the piece I didn't mention of course is the consistent point we've talked about is with average sell price being a big part of our top line, we continue to believe over time while still investing organically in the business, we can leverage our SEA spend that leads to then expanding operating [Phonetic] EBITDA margins over time."
+    },
+    {
+      "speaker": "Andrew Buscaglia",
+      "speech": "Got it, OK. Thanks for the help."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Richard Eastman of Baird. Your line is open."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "Yes, good morning. Can you kind speak to demand on the ultrasonic side of the business. Obviously, the new 3-inch and 4-inch kind of commercial meters to market and I'm curious when you think about your ultrasonic sales across domestic or across residential as well as commercial, is the demand skewed directionally toward either the commercial market or the residential market?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, so I think we see a little bit faster adoption rate on the larger sized commercial meters just because it's a little better with low-flow and you have higher higher volume usage, keeping in mind that's a much, much lower volume profile, but the rate of adoption on the larger sizes is is faster."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "And would you just say across that ultrasonic product line, both residential and commercial, I mean is it 75% of the meter uptake is on the commercial side, where the payback would arguably be quicker? I'm trying to get a sense of just competitively kind of where the market is because obviously everybody's all focused on a couple of new entrants that have come in on the ultrasonic side, but my understanding is the competitors kind of lack a commercial product line in ultrasonic and I'm just curious if that's where you've seen the faster uptick?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "So let me take a swing at this one here. So over time, Rick, we've talked about from a unit's perspective, our E-Series product being roughly 15% of metering units and about 30% of metering sales dollars. When we look at that on a commercial versus residential basis, remember, we've been selling the residential meter much, much longer. So we've got 10 years of road hold on the residential side and it's taken us 10 years to get to 15% of units and 30% of revenues. What Ken's saying is we think that adoption rate or that percentage of our units and dollars on the residential side will continue to expand, but at a slow tick versus whereby the commercial side, which for us is really 2-inches to 4-inches, the 3-inch and 4-inch has only been out for six months to eight months, so we haven't had nearly as long of a road to hold there, but what we do see when you look at it on a relative basis is a greater share or a faster pace of adoption, largely because of the economics of pay back when you start talking about our low-flow capabilities as well as the added enhancements of temperature and pressure, the use case becomes a bit easier. So we would expect the rate of adoption on the commercial side to be more rapid than maybe the slow slug that we've seen in residential over the last 10 years."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "And maybe just to add to that, we do have cities where we have the mechanical meters in the residential spaces and they're buying the few commercials and the ultrasonic."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "And I would think again, not to be really basic here, but the payback delivered by the larger sizes, it shortens the payback, right. I mean is it any more complicated than that?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "No, which I think is why you see the adoption trend that we're signaling here."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "Yeah, OK and then just a question around the industrial flow business. Obviously, you didn't pull in some year-end revenue probably budget flush type stuff that didn't materialize, but I'm curious as you look out to 2020 here, how does the backlog -- how does the demand feel and is it reasonable to assume some modest growth for industrial flow for '20."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "So for the long-term, Rick, we still haven't moved off our position of being able to grow the flow instrumentation business by focusing on the four main product lines that we've been after to be able to grow in the low-single digits. Now the first three quarters weren't great, but Q4 was obviously in bad English terms, more bad. We don't expect that to persist at that rate. We still think we have opportunities to get some gains in that business. We feel like we've been repositioning when we did our org change in Europe last year, repositioning by markets. So we're feeling good like we can still get into that low-single digit range."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "Okay and I want to just, if I can just flip back for a second to the muni business. Are we at a point, is there any visibility where our international business can start to be a driver. I know it's small, but we made an investment there and it seems to be -- we've had some kind of choppy sales that grow and then fall off, obviously as projects are completed, but at what point -- is it product offering, is it reach where international can start to see some more consistent growth?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "So, can I just say yes. No, there is a couple of different things that we're working through and one is we've been I think doing a much better job of aligning ourselves to the markets and identifying where the growth pieces are and really knowing where we need to be. Additionally, one of the other projects in our funnel that I didn't talk about before was designing our new static ultrasonic D-Flow technology meter for rest of world, which we'll be coming out with certainly late in year, early next year. So I would not tell you it's imminent, but it is definitely part of our longer-term view that we certainly have opportunities to grow internationally and be more consistent with it."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "Okay, all right. Just a really quick one for Bob. Any reason that the tax rate should change much year-over-year for '20?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "No."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "Okay and last one for you, Bob. Lots of discussion around the gross margin leverage, I think we have a good sense of the puts and takes there. There is leverage in, I hate to do this to you, but Smigga [Phonetic]. So if we, again, if we just make the assumption that we might grow mid-single digits, is it unreasonable to assume that the model and the plan here don't convert it to the EBIT line, it maybe a 30% type conversion margin. Is there any reason not to assume that?"
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah, so I think that obviously, you're not going to pin me down to that number, but I think when we think about the long-term, you're exactly right in terms of thinking through leverage and incremental margin at that level. I will tell you, the one thing that we will not sacrifice and the thing we'll remain steadfast in is organically investing in the company to continue to innovate, that's the large reason why we sit in the seat that we do from a historic perspective and so I think there is opportunities over a multi-year horizon where that trends you discussed would not come true, if we're again putting money into R&D for future benefit, which would then get you back to where you talked about over the long-term. So obviously, my bias would be to notch it down a little bit from that incremental standpoint of saying 30%, but I don't think your logic is too far off. Rick."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "Okay and again predicated on kind of mid-single digit growth. So if growth were to slow in a given quarter or whatever, again then our R&D spikes up as a percent. I mean that's kind of what you're suggesting."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yep."
+    },
+    {
+      "speaker": "Richard Eastman",
+      "speech": "Yeah. Perfect. Okay, thanks guys. Thanks for the time."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Thanks, Rick."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Hasan Doza with WAM. Your line is open."
+    },
+    {
+      "speaker": "Hasan Doza",
+      "speech": "Hi, good morning. A couple of quick questions, first one on Bob, on working capital, what I've noticed on accounts payable is that beginning in third quarter of last year '19 your year-over-year accounts payable have grown and same trend in fourth quarter year-over-year and I'm just kind of wondering did you, are you in the process of changing any payment terms or extending the accounts payable terms because it seems like there is a directional change in your accounts payable as they have kind of increased in your balance sheet year-over-year."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "Yeah, so that's the motherhood and apple pie we talked about from an accounts payable standpoint, I think on the last quarterly call, we talked in depth about some of the initiatives we've done in terms of paratoing [Phonetic] our top 100 suppliers and pursuing what I'll call advantageous payment terms with them. So I think overall if you looked at a DPO perspective, you'd see that extending over time and that's largely a result of those initiatives and then the flip side, you didn't ask about it, but the flip side of 2019 performance is then on the accounts receivable side, while still being sensitive to customer relationships and needs and the sticky long-term relationships we have, we're just becoming a bit more aggressive in our collection efforts and that's in large part what yielded the primary working capital percent as a percent of sales improvement and then created the tailwind for current year free cash flow and free cash flow conversion."
+    },
+    {
+      "speaker": "Hasan Doza",
+      "speech": "Okay and second question is on flow instrumentation, I remember back in 2015-2016 when oil had the initial collapse. At that time, there was a prolonged six-month impact on flow instrumentation sales to the oil and gas business. The weakness that you saw in the fourth quarter, what end market or customer segment was it? Was it kind of oil and gas, which was historically hurt you back three or four years ago."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yeah, so this is certainly more broad based in general across the myriad of product lines that we have in there. Oil and gas, while that's one of the four targets that we're working on is not overly significant in the portfolio of that product line and this downturn just more broadly in general is far different, I wasn't here in 2015, but I was working in the energy space and that was a completely different animal than what we're seeing now and the price of oil went from $110 to $30. So just more broad based, just more of the general things that you're hearing from I'm sure all the other calls that you've been on the last week or two."
+    },
+    {
+      "speaker": "Hasan Doza",
+      "speech": "Okay and Ken one final one is what is your relationship now in terms of any sales agreement with Itron? The reason I ask is that Itron last year introduced their water meter at the AWWA Conference, they had a Investor Day, which they presented their water meter, and I know historically Badger and Itron had a relationship in the U.S. to sell water meters. So I just I'm wondering, given now Itron's own water meter product available. Is that relationship still ongoing or what's kind of the status on that one?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Well, what I'll tell you Hasan is that I generally would not -- will not speak particularly about relationships, but what I'll tell you about our product line is we feel very confident that we can compete with anybody. We have the best line of meters in the market. We have what we think is a very compelling case on our infrastructure free AMI cellular radios, our BEACON software, we can go toe to toe with anybody. We're prepared to do that. We keep a healthy paranoia on every single competitor, whether they be big or a smaller entrant and we're very comfortable with whatever decisions other people make that we're going to be able to fight and continue to grow our business."
+    },
+    {
+      "speaker": "Hasan Doza",
+      "speech": "Okay. Thanks everyone. Appreciate it."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Jose Garza of Gabelli Management. Your line is open."
+    },
+    {
+      "speaker": "Jose Garza",
+      "speech": "Hey, good morning guys."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Hi Jose."
+    },
+    {
+      "speaker": "Jose Garza",
+      "speech": "Just wondering if you could remind us kind of what the larger deliveries are in 2020. I guess primarily Aurora, but just kind of remind us and then maybe just talk about the pipeline on kind of larger municipal side?"
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "Yes, so without getting into the specifics of the two primary projects that we've announced are Aurora, Colorado and Columbia, South Carolina. We certainly have other wins that we don't make the habit of making a lot of small and different announcements that we consider to be run rate. So those are the two we've made public. So those are the two that I talk about, but just in the broad sense, we're seeing a tremendous amount of quote activity, we're seeing a lot of -- we're having a lot of healthy discussions with municipalities broadly about their ability and willingness to spend and to upgrade on AMI type projects and I think we're positioned well to continue to win and drive that. So those are the two big ones, Aurora and Columbia."
+    },
+    {
+      "speaker": "Robert A. Wrocklage",
+      "speech": "And just a reminder on those projects. The product piece of that is over three years or four years and the software as a service piece of that is over 20 years. So again just thinking through longer-term phase here as you think about those projects."
+    },
+    {
+      "speaker": "Jose Garza",
+      "speech": "All right, thanks guys. I appreciate it."
+    },
+    {
+      "speaker": "Kenneth C. Bockhorst",
+      "speech": "You bet. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And at this time, there are no further questions in queue. I turn the call back to the presenters."
+    },
+    {
+      "speaker": "Karen Bauer",
+      "speech": "Great, well thank you all for joining our call today. For your planning purposes, our first quarter 2020 call is tentatively scheduled for Wednesday, April 16th. So mark your calendar for that. I will be around all day to answer any follow-up questions you have. Thanks. Have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 36 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Karen Bauer--Vice President-Investor Relations, Strategy and Treasurer",
+    "Kenneth C. Bockhorst--Chairman, President and Chief Executive Officer",
+    "Robert A. Wrocklage--Senior Vice President-Chief Financial Officer",
+    "Nathan Jones--Stifel -- Analyst",
+    "Chip Moore--Canaccord Genuity -- Analyst",
+    "Andrew Buscaglia--Berenberg -- Analyst",
+    "Richard Eastman--Baird -- Analyst",
+    "Hasan Doza--Water Asset Management -- Analyst",
+    "Jose Garza--Gabelli Management -- Analyst"
+  ]
+}

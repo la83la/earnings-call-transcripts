@@ -1,0 +1,276 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. My name is Sara, and I will be your conference facilitator today. Welcome to Whiting Petroleum's fourth quarter 2021 conference call. The call will be limited to 45 minutes, including Q&A.\n[Operator instructions] I will now turn the call over to Brandon Day, Whiting's investor relations director."
+    },
+    {
+      "speaker": "Brandon Day",
+      "speech": "Thank you, Sara. Good morning, everyone. This is Brandon Day, Whiting's investor relations director. Thank you for joining us to discuss Whiting's fourth quarter results for the period ended December 31, 2021.\nWith me today is Whiting's CEO, Lynn Peterson, and our CFO, Jimmy Henderson. Also, available to answer questions during the Q&A session will be our COO, Chip Rimer. Please be advised that our remarks today, including answers to your questions, include forward-looking statements within the meaning of the Private Securities Litigation Reform Act. These forward-looking statements are subject to risks and uncertainties that could cause actual results to be materially different from those currently anticipated.\nThose include risks relating to commodity prices, competition, technology, environmental and regulatory compliance, midstream availability and others described in our filings with the Securities and Exchange Commission, which are incorporated by reference. We disclaim any obligation to update these forward-looking statements. In addition, we may provide certain non-GAAP financial information on this call. The relevant definitions and GAAP reconciliations may be found in our earnings release, which can be found on our website in the investor relations section.\nFollowing the prepared remarks, we'll open the call to your questions. I would like to remind everyone that a replay of this audio webcast will be available via the company's investor relations page on our website. I'd now like to turn the call over to the CEO of Whiting Petroleum, Mr. Lynn Peterson."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Thank you, Brandon. Good morning, everyone. I appreciate you joining us for the call this morning. I want to keep all this in perspective in light of what's happening in the world stage.\nAbove all else, we hope peace is restored as quickly as possible. You can refer to our 10-K we filed yesterday and our news release for detailed information, as well as reconciliations to non-GAAP measures. 2021 was a strong year. We exited the year with some momentum and expect to see another good year in 2022.\nWe exceeded our guidance numbers. We paid off the balance of our revolver. We added inventory in our core areas, and we, most recently, took the first step toward a capital return plan by initiating our first-ever regular dividend. We're going to take a little different approach this morning from our previous calls, and I'm going to ask Jimmy Henderson, our CFO, to spend some time discussing our fourth quarter and full year results.\nWhile we were assisted by a rising commodity price environment, our team did a great job executing our 2021 program, as well as the initiatives we set out at the beginning of the year. Once Jimmy concludes, I want to talk about our 2022 program, our return of capital approach for 2022 and to answer some questions that arose from our last news release. Jimmy, I'm going to turn it over to you for the financial results."
+    },
+    {
+      "speaker": "Jimmy Henderson",
+      "speech": "All right. Thanks, Lynn. And I echo your thoughts on -- as our thoughts and prayers go out to Ukrainian people on news that we're all watching here and hope that peace is resolved quickly. Well, I hate to spot off a bunch of numbers.\nI know you all read in our filings already. I do want to highlight a few things, a few results that are really striking. In the fourth quarter of 2021, we had net income on a GAAP basis of $292 million or $7.34 per diluted share as compared to $198 million or $5 per share in the previous quarter. Adjusting for certain items, but primarily the mark-to-market of our hedging transactions, we had adjusted net income of $168 million or $4.23 per diluted share in the fourth quarter as compared to $142 million or $3.57 per share for the previous quarter.\nAdjusted EBITDAX was $226 million compared to $201 million in the previous quarter. The increase is primarily due to the better commodity prices and a slight uptick in our oil production quarter-over-quarter. Our production on a barrels of oil equivalent basis remain relatively flat quarter-over-quarter, averaging 92,800 BOE per day compared to a third quarter production of 92,100 BOE per day. Oil production for the fourth quarter averaged 52,900 barrels of oil per day, which is up slightly from 51,800 barrels of oil in the third quarter.\nOil differentials were considerably higher in the fourth quarter as overall basin production levels remain well within total takeaway capacity. As we move into 2022, our term commitment levels have decreased, resulting in more exposure to spot value premiums that we're seeing now. Our natural gas prices benefited in 2021 from a premium at our primary pricing point, the Ventura point as compared to Henry Hub. And NGL prices continued to be strong in the fourth quarter at an average percentage of WTI oil of around 37%.\nJust for context, this compares to less than 20% that we were experiencing in the same quarter last year. As noted last quarter, the majority of our gathering and processing agreements are structured as fixed fee contracts, and therefore, receive a more pronounced benefit to our net realized price at current residue gas and NGL benchmark pricing. The company invested capex of about $66 million during the fourth quarter to bring 16 gross, 12 net wells on to production and we drilled 17 gross, 10.4 net operated wells. We ended the quarter with 34 gross, 20.2 net drilled and uncompleted wells.\nWe currently have two rigs running and one completion crew. Both of those drilling rigs are in the Sanish Field and our completion crews working in the Cassandra area. Lease operating expense was $62 million for -- or $7.31 per BOE for the fourth quarter of '21. Note that LOE continues to be impacted by expensed workovers that we've talked about previously.\nOur cash G&A expenses were $12 million for the fourth quarter and for the year totaled about $39 million, averaging right around $1.16 per BOE for 2021. We also disclosed our year-end proved reserves in our 10-K and our press release last night. We did see a dramatic increase year-over-year with the estimated total proved reserves totaling 326 million BOEs with a pre-tax PV10 value of $4.4 billion at year-end compared to 260 million BOE and $1.2 billion at the year-end 2020. Pricing under SEC rules increased by approximately $27 per barrel to $66.56 per barrel at December 31, 2021, compared to December 31, 2020.\nGas increased to $3.60 per MMBtu compared to $1.99 for the same two periods. Obviously, these price changes were the biggest factor in the year-over-year changes, but we also added 20.3 million BOE through the drill bit and 16 million BOE with acquisitions, which more than offset the decrease from selling our Colorado assets. Lastly, I'll point out that our proved developed properties accounted for roughly 80% of our total proved reserves with approximately $3.6 billion in value. It's worth noting that this value is at SEC pricing of around $67 per barrel of oil as compared to spot prices today.\nWith that, I'll turn this back over to Lynn and talk a little bit about where we're headed in 2022."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Thanks, Jimmy. There were a lot of numbers here. So I appreciate that. Again, thanks to our entire team for their great efforts during the year.\nDivesting of our Colorado properties, combined with adding meaningful inventory through our acquisition work, we'll pay great dividends in future years, and we should really start to see the benefits accruing at the end of 2022 and moving into 2023 with our development plan. The board and management understand the importance of returning capital to shareholders. We have had much engagement throughout the last year by our board, and we are excited to lay out our plans as we go through the year. As such, the board approved a quarterly dividend of $0.25 per share that will be paid beginning in March, which was only the first step of our capital return program.\nOur board wants to be very thoughtful and measured in developing a plan. To that end, we have had multiple discussions of stock buybacks and fixed and variable dividends. And I am completely comfortable in saying our board of directors is going in this direction, and we would expect to lay out additional information that would place the company in the fairway of what we are seeing from returning capital from our peers. When we look out over the next four years and consider a $70 price environment for WTI crude, we see our company generating free cash flow in an amount approximately the same as our current market cap.\nI know we live in a world of instant gratification. But again, I will state that our board of directors is aligned with our shareholders, and we will methodically develop and return a capital plan that should please our shareholders. And I want to shift and outline how we thought about our 2022 capital plan and production profile. Looking ahead, we will have a slightly higher activity level, we will have larger working interest in the wells drilled and completed in our Sanish Field due to the acquisitions.\nWe anticipate an increased level of non-operated activity, and we have built in inflationary factors that we are currently experiencing and anticipate throughout the year. Our supply chain team has done a great job of locking many of the big-ticket items for the first half of 2022. However, we are less protected in the back half of the year. We estimate the inflationary pressure to the program to be in the low double-digit percentages, but the high end of our guidance has contingency for higher inflation should that become an issue.\nTurning to our production profile. We have shifted some production from the first half of the year and into the second half due to the drilling and completion activities on a five well pad mentioned in our previous release. We had the rig down on the pad in January, and we'll be moving back in, in March. This delay, combined with our current activity in the Sanish Field, create somewhat of a hockey stick, moderating our overall '22 production but creating impressive growth as we exit the year and move into '23, which should benefit with a sharp increase in production.\nIn February, we announced the acquisition of non-operated assets in our Sanish Field. We negotiate these transactions in the fall of '21 in a lower price environment, and we believe they add significant shareholder value. We have been able to hedge production from these acquisitions at a much higher WTI pricing. The acquired interest included wells currently on production, wells that have already been drilled and are awaiting completion in '22, as well as significant interest in wells scheduled on our '22 and '23 drilling programs.\nThis is a field that we understand very well, and I have a high confidence in the well economics, supporting our belief that these are highly accretive transactions with excellent risk-adjusted returns. We're starting '22 in an incredibly strong financial position, and I expect to have attractive cash flow from operations during the year. With our current hedges in place and using the $70 price for WTI and $4 for gas, we model over $900 million in EBITDA, resulting in over $500 million of adjusted free cash flow, which demonstrates that we can continue to grow our return to capital program while also continuing to pursue acquisition opportunities that will compete with our current profile. By investing in Whiting, we think shareholders can really have it all.\nAnd with that, I'll turn it back to Sara."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our first question comes from Leo Mariani with KeyBanc. Please go ahead."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "You there, Leo?"
+    },
+    {
+      "speaker": "Leo Mariani",
+      "speech": "Yes. Hello. Sorry. So look, Whiting obviously had strong production here in the fourth quarter came in, above guide.\nI was hoping you could maybe provide a little color around what drove the good fourth quarter here on production."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "I think we continue to see good performance from our wells. I'll let Chip jump in here as well. But the team is trying some different things on completion. I think we're seeing some benefits to this.\nChip?"
+    },
+    {
+      "speaker": "Chip Rimer",
+      "speech": "Yes. Appreciate it, Lynn. Yes, especially in our Sanish Field, our Lacey, Littlefield areas, we've seen -- going in there. We're doing some rifting right next to the wells that we are stimulating the new ones, and we're starting to see some impact.\nAnd so, we're seeing wedge production higher than we -- our original curves and also our base production is staying up there."
+    },
+    {
+      "speaker": "Leo Mariani",
+      "speech": "OK. And I guess just in terms of maybe some of those new simulations, are you all planning on kind of receiving a lot of that here. I assume in 2022, is this pretty broadly applicable across the entire basin? Is it more just in Sanish? What can you kind of tell us about that?"
+    },
+    {
+      "speaker": "Chip Rimer",
+      "speech": "Yes, Leo, it's a little early to say. We're seeing that impact. I'd like to wait for a quarter or two, but we're pleased with what we've seen so far, and we'll see where it goes from here."
+    },
+    {
+      "speaker": "Leo Mariani",
+      "speech": "OK. Maybe can you just talk about the M&A environment a little bit. Obviously, you guys have done a few smaller deals over the past several months, which -- in your wheelhouse, are you seeing other type of bolt-on opportunities out there or perhaps maybe there's some bigger deals that you're eyeing here in the Bakken?"
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Yes, Leo. Clearly, we're watching everything looking at many things possible. I think you also -- we got a backdrop of pretty aggressive rise in commodity prices. And I think it's made it a bit challenging.\nPeople are enjoying their cash flow, they're seeing off these properties. So we also want to make sure we don't buy on the high end here and watch oil drop over time. So we're being cautious, but we're looking at everything we can."
+    },
+    {
+      "speaker": "Leo Mariani",
+      "speech": "OK. Thanks, guys."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "You bet. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Neal Dingmann with Truist. Please go ahead."
+    },
+    {
+      "speaker": "Neal Dingmann",
+      "speech": "Good morning, all. First question on dips, kind of two for here. Just wondering, could you talk about how you're thinking about -- maybe for, Jimmy, first, just speak to the delta on the spot dips this year versus '21. Are you still guiding to that through $3 or $4 off versus, I think, it was about $4 in '21.\nI think you've mentioned more exposure to spot this year and I think spot is now in a pretty good place. So I'm just wondering on that. And to tuck into that, I know there was some DAPL news. I don't doubt that has any impact near term, but I'm just also wondering how you're thinking about this DAPL moves down the line on the debt."
+    },
+    {
+      "speaker": "Jimmy Henderson",
+      "speech": "Yes. Thanks, Neal. I'll start, and I'll turn it over to Jo Ann to correct anything that I say wrong. But look at '21 over -- compared to '22, I mean if you remember, '21, we started off the year with concerns about DAPL and we're kind of affected, this is going into the year and the guidance that we gave was trying to take that into consideration, and it certainly got better as we move through the year as things kind of normalize and production levels stayed relatively consistent and within the total transportation capacity.\nAnd Jo Ann, maybe, I'll let you talk a little bit more about the -- what you see on the America side, as well as DAPL."
+    },
+    {
+      "speaker": "Jo Ann Stockton",
+      "speech": "Sure. Yes. And just a little bit more detail on 2021. I mean, we had a mixture of various term length deals, utilizing firm transportation on alternative pipeline, along with supply commitments into rail markets and really, it was strategically aligned with our crude gathering service provider system connectivity to specifically protect our larger producing areas.\nAnd if you think about how that case unfolded and the timing, we really did layer in from Q4 of '20, all through up until right in front of the May decision. And so, from there, moving forward into 2022, most of the deals that acted as a physical hedge against an uncertain DAPL outcome has rolled off and what remains is a combination of term into various markets with more of a concentration on spot volume relative to last year is what we've indicated. And so, with the recent decision of the U.S. Supreme Court denying Dakota Access Petition to appeal the lower court decision, basically reaffirming that the EIS will stand.\nAnd so, we shift ahead and expect a draft version of that here in the next few weeks with the official timing still protects -- project, excuse me, for September. But we're actually wondering if that timing will slip because you take into account how contentious this issue is and the expectation that the numerous comments that will be filed, will need to be addressed and taken into consideration before the EIS is finalized, we can easily see it slipping out past that date. At the end of the day, if you're thinking where we stand on the balance of this year, we look at it as the Army core engineers have the opportunity to go down a different road than they chose not to. And as we factor in the macro-outlook, especially in light of the most recent news, along with an existing pipeline with continuous operations, we're cautiously optimistic on a favorable outcome.\nAnd if anything, that guided range that we gave me, maybe we could see some slight improvement to that."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "We should have given our proper introduction. Jo Ann Stockton is our Vice President of Commercial here for Whiting."
+    },
+    {
+      "speaker": "Neal Dingmann",
+      "speech": "Thanks for the details. And then, just one follow-up. Maybe Jimmy, for you, you guys have had some outstanding return of capital that -- to me, then appears the market is fully appreciated. I'm just wondering could you speak to potential additional return of capital that you are seeing for yearly?"
+    },
+    {
+      "speaker": "Jimmy Henderson",
+      "speech": "Well, we announced the dividend earlier this quarter, and that's the first step. And I think it's pretty obvious when you look at our cash flow -- free cash flow generation, there's more to come. I think we spoke to that quite a bit in the prepared script. As we've talked about consistently over the last year.\nIt was -- it's always been our intent to do this very methodically and thoughtfully and goes one step at a time. So we've done that. We've paid down our debt to 0. We've been able to do an acquisition, which we'll pay off very quickly.\nNow, we've announced the dividend, and there's more to come on that front. We've been very consistent in laying out with our shareholders."
+    },
+    {
+      "speaker": "Neal Dingmann",
+      "speech": "Very good. Thank you, all. Look forward to it."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "You bet, Neal. Just to reiterate, our board is completely aligned with us on this. We just really wanted to do it one step at a time, as Jimmy said there. So it's all good."
+    },
+    {
+      "speaker": "Neal Dingmann",
+      "speech": "Yes. That makes the most sense. I'm glad you're sort of walking before running on this. It makes a lot of sense.\nThanks. Thanks, Lynn."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Michael Scialla with Stifel. Please go ahead."
+    },
+    {
+      "speaker": "Michael Scialla",
+      "speech": "Good morning, everybody. Maybe just staying on that last topic in terms of return of capital. When you said you're having a lot of conversations with the board, everybody is aligned. I don't want you to try and front run what the board might decide is the best avenue, but I guess, in looking at share buybacks, just how do you think about that from a high level versus where your stock is today and the opportunity to continue to do these bolt-on acquisitions.\nHow do you view the opportunity set there?"
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Yeah. Good morning, Mike. Good to hear you. I think stock buybacks is probably going to be our next step here.\nWe've talked long and hard about it. Clearly, after we put our last announcement out, I wish I had it in place so, I mean, it would have worked out pretty well. So we just -- we see a lot of noise in the investment world today. And we talked to our shareholders, both long only and value and everybody.\nWe get a different message for everybody. Some people want us to reinvest in properties. Some want us to pay dividends, some want us to buy our stock back. So we're looking at all of these things.\nAnd again, we just laid out the fixed dividend as our starting point here. I think the next step would clearly be a stock buyback announcement. And then, I think you're seeing more of the variable dividends. I still -- I think we've got more work to do on that one.\nBut I think all these make sense in conjunction with you're seeing the free cash flow that we're generating here. I mean, you've seen companies pay back 40%, 50%, 60% in some cases. If we can get into that range, I think we'll be very competitive with our peers out there. So I'm excited what we got to go ahead.\nI mean, again, people want it today. They don't want to wait. I get it. But at the same time, I think I have a lot of respect for position our\u00a0 take on this, and we're excited to lay out as we go through the year."
+    },
+    {
+      "speaker": "Michael Scialla",
+      "speech": "That's helpful. Sounds good. And I know you've steered clear of quarterly guidance in the past, but I just wanted to see if you could give us any sense, maybe from a high level, the expected completion cadence through the year. Should we just anticipate kind of flat production throughout the year? Or is there going to be any variability given the cadence of completions."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Well, again, that was kind of the purpose of the comments here. I think you're going to see a kind of a slow first half of the year with really ratcheting up as we exit the year. And a lot of -- due to the comment I made earlier about the five well pad that we've been delayed on a little bit. So I think that was kind of the disappointment when we put out our news that people didn't see the production overall, and it was just moderated a little bit by this pause or slowness on our five well pad.\nI think as we exit out the year, the numbers get pretty significant. Do you have anything you want to add too?"
+    },
+    {
+      "speaker": "Jimmy Henderson",
+      "speech": "Yes. No, you're exactly right. So our telecom is a little bit light on the first half, and we're pretty strong in the back half of the year. You'll see that in the back half of the year on production."
+    },
+    {
+      "speaker": "Michael Scialla",
+      "speech": "Great. Thank you, guys."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Yeah. Thanks, Mike."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Scott Hanold with RBC. Please go ahead."
+    },
+    {
+      "speaker": "Scott Hanold",
+      "speech": "Thanks. Good morning, all. Lynn, I don't want to beat a dead horse, but I feel like I'm going to here. On dividends versus stock buybacks, you obviously made a lot of compelling cases that buybacks make a lot of sense and they do provide a lot of flexibility, I guess, to a certain extent.\nAnd maybe at a high level, it would be helpful if you could just give us a sense. I know it sounds like buybacks are an option you're looking at, and it sounds like the next step, but why not that be the first step? Like what was the decision to go with the dividend before the buyback?"
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Well, Scott, I wish you could be at all these investor calls we have because, like I said, some guys don't want any dividends, others want every $0.01 of free cash flow. So these are hard decisions to make. And again, a lot of comments were, investors want the cash in their pocket, they can reinvest in the stock if they want to. If they want to reinvest in something else, they can, stock buybacks.\nAnd maybe we should have combined it. I'm not saying we did exactly right here. We probably should announce the combination of the buyback and a fixed dividend, looking back now. But again, we're going to get there quickly.\nSo I'm not too concerned, we just thought we'd do the fixed dividend first and then follow it up with the stock repurchase."
+    },
+    {
+      "speaker": "Jimmy Henderson",
+      "speech": "Yes. And probably just to add. Just kind of the process of getting a dividend, we're going to announce it so we can kind of get that -- get the record date set and get started paying actual cash."
+    },
+    {
+      "speaker": "Scott Hanold",
+      "speech": "And then how do you contemplate usage -- when you think about usage of the free cash flow -- and look, I think it's -- you guys got a good runway of inventory for at least five years and maybe a little bit longer. But obviously, when you think about the durability and sustainability of the free cash flow generation, I think, generally, investors would like to see it somewhere in that decade plus if they can. And so, obviously, it feels like that potentially some of that free cash flow could be earmarked for various types of consolidation. But like can you give us a sense of like as you look at that free cash flow wall that you're seeing, how much of that dry powder do you think make sense to keep in your hands for opportunities if they pick up?"
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "It's a good question. And I think the size of the company matters in this regard. I mean, I share your comment on our inventory. I think we're fine, but we're not where we want to be.\nI think that was really what drove us in '21 to pay down our revolver. I mean, -- and again, I got to -- you've got to remember, we started the year at $35, $40 WTI, and we were in a totally different world where we ended up at $80 at the end of the year. So things have changed dramatically here. But -- we are constantly looking to see if we can find properties that compete against our current properties.\nAnd we want to have some dry powder to execute on those. And I don't know what the right number is. Again, you see companies' kind of 40%, 50%. I know there's a few out of 60% of free cash flow in total between fixed stock buybacks and variable dividends.\nSo I think, ultimately, that still allows us to pursue these acquisitions when we find them and keep our balance sheet strong. I mean, we're trying to do a lot of things here and we're fortunate to have a really strong balance sheet right now. We want to protect that, but we do want to grow the company at the same time."
+    },
+    {
+      "speaker": "Jimmy Henderson",
+      "speech": "Yes. Also, remember, Scott, that we have an untapped revolver of $750 million of capacity on it. So it's not a matter of porting cash to save our pennies for a deal. We got a lot liquidity that we can tap to these things."
+    },
+    {
+      "speaker": "Scott Hanold",
+      "speech": "Would you be willing to use equity to do some of that that made sense? Or is that a nonstarter discussion?"
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "No. I think we've used it in the past, and I don't have a problem with all with us now. If we think our stock inside at a reasonable number. I mean, again, you got to just evaluate the time you are in and where you think your stock is.\nRight now, we use cash versus our stock because we think our stock is -- it's below what we think we're worth. So we would tend to use more of the cash position."
+    },
+    {
+      "speaker": "Scott Hanold",
+      "speech": "Understood. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from David Deckelbaum with Cowen. Please go ahead."
+    },
+    {
+      "speaker": "David Deckelbaum",
+      "speech": "Good morning, Lynn, Jimmy. Thanks for squeezing me in here."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Hey, David. How are you doing?"
+    },
+    {
+      "speaker": "David Deckelbaum",
+      "speech": "Doing well. Congrats on the operations update. You pointed out the delays, I think, is a five well pad, which I believe was in the Cassandra area. For context, as we move forward here, particularly with the higher working interest in Sanish, how long should we be thinking about those two rigs staying in that Sanish area? Or are there going to be more of these sorts of longer lateral developments that get sprinkled into the program?"
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Maybe I'll let Chip take the first shot at that, if you don't mind."
+    },
+    {
+      "speaker": "Chip Rimer",
+      "speech": "Yes, will do. David, thanks for the question. Yes. Our program has about 65% of our program is in Sanish, and then we move to the west, the Hidden Bench forming later in the year.\nWe're probably close to 35%, maybe a little bit more than that or three miles as we go along. So that will drive capital efficiency as we go and help to minimize some of the inflation impacts. And so, -- that's kind of what the program has us doing right now. We'll run back up into that Cassandra area later this year and knock out that additional pad that was delayed."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "One of the things that matters a lot to us is all this ESG conversation. I think as we look -- bringing these wells on, we want to make sure we have the takeaway that's required. We're not allowing trying to flare anything and done a great job working with our midstream partners. And so, some of this movement is dictated because of the commodity takeaway as well."
+    },
+    {
+      "speaker": "Chip Rimer",
+      "speech": "It was a mechanical issue up in the Cassandra, not a systemic issue. So we'll get it back over there later in the year."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Yep."
+    },
+    {
+      "speaker": "David Deckelbaum",
+      "speech": "Yeah. Thanks, Chip. And then, Lynn, I know a lot has been asked around this, but like one, I think it just -- it seems like you've been pretty explicit that you think Whiting is perfectly capable of paying a 50% rate of its free cash while still maintaining enough cash hoarding and flexibility to pursue M&A. So it seems like that's a reasonable target as investors compare you to some of your peers."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Yes. I'm not going to let you put a percentage on me, David, but I think you see the numbers and you see -- I think we have a lot of flexibility here, and we can do the right thing, and we will do the right thing. We're excited about that. I mean, this is not a situation where we're trying to put cash on the balance sheet.\nWe want to return it to shareholders, and we want to do the right thing. But at the same time, we are looking for opportunities. Yes, I think your numbers are very reasonable."
+    },
+    {
+      "speaker": "David Deckelbaum",
+      "speech": "And then, I guess, in terms of how we should think about how that presents itself over the course of the year. Did the conversation when the fixed dividend, I know we talked about the intention to start kind of small and build into this program. But how frequently is the return of capital program being reevaluated. And at some point, it sounds like we should get another update at least this year.\nBut is this something that occurs on like a three-month basis or it's just ad hoc?"
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Yes, we probably talk monthly, weekly. I have a lot of -- we have a great board. We work together and I stay in communication, we all got thrown together here about 16 months ago, 18 months ago, and it's been a great, great opportunities to get to know each other and share ideas. So we talk a lot, and we've talked about all of this for the last several months.\nSo yes, you're going to see this evolve and you'll probably get evolve fairly quickly. I think it's really important to our shareholders. And we want to do the right thing. We've always had the intention doing the right thing.\nAnd sometimes we have a different timeframe than other people, but that's fine. We're excited where we're headed. So..."
+    },
+    {
+      "speaker": "David Deckelbaum",
+      "speech": "Thanks for the messaging and the clarification, guys. Good luck ahead."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "Appreciate it, David. Have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, there are no further questions at this time. I'll turn the floor back to management for closing remarks."
+    },
+    {
+      "speaker": "Lynn Peterson",
+      "speech": "All right. Thanks, again, Sara. In closing, I want to thank our shareholders for your continued support. I can assure you that we're excited with our free cash flow projections for '22 and beyond.\nWe have listened to our shareholders and their comments on the emphasis on return on capital, as well as continue to participate in opportunistic acquisitions that build on our future. Our board and our management are very much aligned in expanding our return on capital structure to our shareholders, and we will roll out this additional information soon. At the same time, I want to thank our staff for the continued dedication they have given to our company and shareholders. A special shout-out to our field staff that endures some very challenging weather conditions during the winter months each year.\nTheir ability to maintain production and operations is not lost on me, and they deserve kudos above and beyond their daily routines. With that, I thank everybody for joining us this morning. Feel free to give us a call if there's any other questions. Thank you very much for your time."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 37 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Brandon Day--Investor Relations Manager",
+    "Lynn Peterson--Chief Executive Officer",
+    "Jimmy Henderson--Chief Financial Officer",
+    "Leo Mariani--KeyBanc Capital Markets -- Analyst",
+    "Chip Rimer--Chief Operating Officer",
+    "Neal Dingmann--Truist Securities -- Analyst",
+    "Jo Ann Stockton--Vice President, Commercial",
+    "Michael Scialla--Stifel Financial Corp. -- Analyst",
+    "Scott Hanold--RBC Capital Markets -- Analyst",
+    "David Deckelbaum--Cowen and Company -- Analyst"
+  ]
+}

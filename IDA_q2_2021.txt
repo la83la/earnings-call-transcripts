@@ -1,0 +1,519 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to IDACORP's Second Quarter 2021 Earnings Conference Call. Today's call is being recorded, and our webcast is live. A complete replay will be available later today and for the next 12 months on the IDACORP website. [Operator Instructions] I will now turn the call over to Justin Forsberg, Director of Investor Relations and Treasury."
+    },
+    {
+      "speaker": "Justin S. Forsberg",
+      "speech": "Thank you, Paul, and good afternoon, everybody. This morning, we issued and posted to IDACORP's website our second quarter 2021 earnings release and Form 10-Q. The slides that accompany today's call are also available on our website. We'll refer to those slides by number throughout the call today. As noted on slide two, our discussion includes forward-looking statements, including earnings guidance and spending forecast, which reflect our current views on what the future holds, but are subject to several risks and uncertainties, including those related to any potential further impacts of COVID-19. This cautionary note is also included in more detail for your review in our filings with the Securities and Exchange Commission.\nThese risks and uncertainties may cause actual results to differ materially from statements made today, and we caution against placing undue reliance on any forward-looking statements. As shown on slide three, on today's call, we have Lisa Grow, IDACORP's President and Chief Executive Officer; and Steve Keen, IDACORP's Senior Vice President and Chief Financial Officer. We also have other company representatives available for a Q&A session after Lisa and Steve provide updates. slide four shows our quarterly financial results. IDACORP's 2021 second quarter earnings per diluted share were $1.38, an increase of $0.19 per share from last year's second quarter. Earnings per diluted share over the first six months of 2021 were $2.27, which were $0.33 above the same period last year. Both the second quarter and year-to-date earnings are the highest in the history of the company.\nToday, we also increased our full year 2021 IDACORP earnings guidance estimate to be in the range of $4.70 to $4.90 per diluted share, with our expectation that Idaho Power will not need to utilize in 2021, any of the additional tax credits that are available to support earnings under its Idaho of regulatory settlement stipulation. These are our estimates as of today, and they assume normal weather conditions over the last six months of the year and assume a continued return to more normal economic conditions over the balance of 2021.\nI will now turn the call over to Lisa."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Thank you, Justin, and thanks to everyone for joining us on today's call. I'd like to begin my remarks by highlighting the continued robust customer growth we are experiencing across Idaho Power service area. You'll see on Slide five that the growth remained strong in the second quarter, increasing 2.9% since June 2020. The influx of businesses and residential customers continues to benefit our company, while we believe the reliable, affordable, clean energy we provide remains one of the drivers for attracting new customers to Idaho. It has been remarkable to see this trend not only sustain but accelerate over the past several years.\nWe are also seeing a return-to-normal operations for many of our commercial and industrial customers as our service area rebounds from the impact of the COVID-19 pandemic. As of the end of June, unemployment in our service area was 3.5% compared with 6% in June 2020 and the current mark of 5.9% nationally. Total employment in our service area has increased 6% over the past 12 months. Moody's forecasted GDP calls for very strong economic growth of 7.6% in 2021 and 6.9% in 2022.\nAs we speak, like many employers in our area, Idaho Power is in the midst of the return-to-workplace process for many of our office employees. I'm happy to see more people at our offices and thrilled that safely bringing our employees back reflects a significant step forward to our new normal that is taking place across our service area. Idaho Power service area continues to experience significant interest from commercial and industrial projects in food processing, manufacturing and distribution.\nMultiple developers, both local and national, are moving forward with the construction of commercial sized pac-shelf facilities, to better accommodate the speed to market of prospective projects. Idaho Power is also -- has also been actively working with Gervan Mining, which announced in early July, it will proceed with final construction of its Idaho Cobalt operations mine in Central Idaho. And just this past week, Lamb Weston announced a $415 million investment in the planned construction of a new French fries processing line at its existing facility in American Fall with expected capacity to produce more than 350 million pounds of frozen French fries and other potato products annually by mid-2023.\nThis expansion is expected to add approximately 130 jobs. In addition to serving more customers than ever, we've experienced very hot dry weather during the second quarter with our service area experiencing several very high temperature days in late June and July. slide six shows the recent outlook of precipitation and weather from the National Oceanic and Atmospheric Administration. Current weather projections for August through October shows 50% to 60% chance of above-normal temperatures and a 33% to 50% chance of below-normal precipitation in Idaho Power service area. If the warm and dry weather continues, we expect to see continued strong sales during the third quarter, particularly for residential and irrigation customers.\nAt the same time, dry conditions and overall lower reservoir storage levels have decreased our forecasted hydro generation for the remainder of the year, which Steve will address later on. But it continues to appear, irrigators in most parts of our service area should have enough water to get them through the current growing season. The combination of customer growth and hot dry conditions has created high demand for energy across our regions, as noted on slide seven.\nIdaho Power hit a new all-time peak load of 3,751 megawatts on June 30, and we have exceeded the previous 2017 peak demand of 3,422 megawatts, more than 60 separate hours on 12 different days so far this summer. I'd like to thank the wonderful employees throughout our company who are helping us continue to meet this record demand. The recent heat wave has once again demonstrated the skill and dedication of our employees and the resilience of both our employees and our system.\nI'd also like to acknowledge our customers for helping us lighten the load during hours of peak usage in the late afternoons and evening when we also ran demand response programs for -- to help reduce loads. While we've been able to maintain reliable power for our customers during these extreme conditions, we also acknowledge the need for continued planning and preparation to meet the growing demand. The Jackpot Solar 120-megawatt project in Southern Idaho is scheduled to come online by the end of next year.\nAnd our company also recently issued a request for proposal to add another 80 megawatts of a capacity resource to meet peak energy needs by summer 2023. Separately, early modeling in the 2021 IRP suggests that, subject to the timing of coal unit exits, additional capacity may be needed in future years. The recent spike in energy use and prices also emphasizes the importance of the Boardman to Hemingway transmission line, or B2H, which we plan to bring online as soon as 2026. B2H will allow Idaho Power to import up to 500 megawatts, which will help meet customers' peak summer demand and increased reliability for our system as well as the region.\nRecord heat waves don't last forever, but we believe periods of higher demand in the summer months are here to stay. Of note on B2H this month, all co-participants entered into an agreement and acknowledge that Bonneville Power Administration does not intend to participate in the construction of the project or to be a co-owner in whole or in part of the project, and the EPA intends to sell its interest in the project to either Idaho Power or a third party. Idaho Power continues to evaluate its options regarding BPA's interest.\nI have a couple of notable Idaho regulatory updates to share. The first is a recent filing Idaho Power made to accelerate the recovery of depreciation expenses at the Jim Bridger coal-fired plant, which is noted on slide eight. Our Idaho rates currently reflect a recovery time line through 2034, but preliminary analysis indicate the potential exit of all four units at the plant sooner than the current time line. If our filing with the Idaho Commission is approved as filed, rates would increase $30.8 million in December of this year. This would result in a near-term rate increase for our customers but our study shows the potential for customer savings in the long term.\nExiting the Jim Bridger plant early also aligns with our goal to provide 100% clean energy by 2045. Secondly, as seen on slide nine, the Idaho Commission recently approved Idaho Power's request to defer incremental costs associated with our enhanced wildfire mitigation plan. This positive regulatory outcome will allow us to defer associated incremental costs to be included in a future rate proceeding. Our company is working hard to strengthen our grid and keep our customers safe during wildfire events. On our last earnings call, I stated Idaho Power did not plan to make -- do not plan to file a general rate case in Idaho or Oregon in the next 12 months. That remains true today.\nSteady customer growth, constructive regulatory outcomes, effective cost management and economic conditions, all play significant roles as we look at the need and timing of a future general rate case. I'll close my prepared remarks by reiterating my thanks to our employees for their hard work, meeting the increased demand for reliable energy as our service area grows, particularly during the heatwave. I also commend them for their resilience over the past 17 months as we navigate the challenges of the pandemic together.\nWith that, I will turn the call over to Steve for an overview of our financial performance."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Thank you, Lisa. Let's now move to slide 10, where you'll see our second quarter 2021 financial results as compared to the same period in 2020. Overall, we have experienced a very solid first half of the year, with strong customer growth, positive impacts from transmission services and higher revenues resulting from the heat wave that affected much of the Western U.S. Because of these factors, IDACORP's second quarter net income was substantially higher than last year. On the table of quarter-over-quarter changes, you'll see our continuing customer growth added $3.9 million to operating income. Also, increased usage per customer drove operating income higher by $22.9 million.\nCooling degree days were nearly double last year's second quarter and the hot and dry conditions led to significantly higher usage across all customer classes. Irrigation and residential per customer usage increased 25% and 10%, respectively. A return to more normal economic conditions combined with the hot weather also drove a respective 12% and 8% increase in usage per customer in the commercial and industrial classes. Continuing down the table, the higher usage for residential and small general service customers was partially offset by $5.1 million lower revenues from the PCA -- or the FCA mechanism. The FCA mechanism has tempered the effect of the higher usage for these customer classes and could do so again in the third quarter if customer usage continues strong. Next, you'll see a decrease in operating income of $6.8 million that relates to the change in the per megawatt hour revenue, net of power supply costs and power cost adjustment impacts quarter-to-quarter.\nThe primary driver of this decrease relates to the amount of net power supply expenses that were not deferred to Idaho Power's power cost adjustment mechanisms. Recall that Idaho customers generally bear 95% of power supply cost fluctuations. And those costs were higher as the heatwave impacted wholesale energy prices at a time of increased energy usage by our customers. The heatwave also affected transmission wheeling-related revenues, which increased operating income by $3.9 million. Wheeling volumes increased as utilities work to serve high demand by moving energy across our system throughout the region during the quarter. In addition, wheeling customers paid 10% more for Idaho Power's open access transmission tariff rate that increased last October to reflect higher transmission costs.\nNext on the table, other operating and maintenance expenses increased by $5.3 million. This was primarily due to last year's temporary deferral of certain maintenance projects at Idaho Power's jointly owned thermal generation plant as well as higher accruals of performance-based incentives. We continue to see decreases in employee travel and training costs related to COVID-19, while our allowance for bad debt remains above historic levels and it's taking longer to collect. Our net COVID-19 recovery deferral impact, however, continue to remain nominal.\nFinally, our higher pre-tax earnings led to an increase in income tax expense of $4.2 million this quarter. The changes collectively resulted in a net increase to Idaho Power's net income of $9.6 million, or $0.19 per share. IDACORP and Idaho Power continue to maintain strong balance sheets, including investment-grade credit ratings and sound liquidity, which enable us to fund ongoing capital expenditures and distribute dividends to share owners. IDACORP's operating cash flows, along with our liquidity positions as of the end of June 2021 are included on slide 11.\nCash flows from operations were about $39 million higher than the first six months of last year. The increase was mostly related to working capital fluctuations and the timing of net collections of regulatory assets and liabilities. The liquidity available under IDACORP's and Idaho Power's credit facilities is shown on the middle of slide 11. At this time, we still do not anticipate raising any equity capital in 2021. Our combined liquidity, along with expected regulatory support from our annual adjustment mechanisms, is a substantial backstop to our expected capital and operating needs. slide 12 shows our raised full year earnings guidance and our current key financial and operating metrics estimates. We now expect IDACORP's 2021 earnings to be in the range of $4.70 to $4.90 per diluted share. This guidance assumes normal weather and operating conditions for the second half of the year, and assumes economic impacts from the pandemic will continue to normalize.\nOur guidance still assumes Idaho Power will use no additional tax credits in 2021. While we do not currently expect to record sharing of excess revenues with Idaho customers this year, the upper end of our range approaches that level and the final jurisdictional allocation can adjust on that through year-end. Recall that above a 10% return on equity in the Idaho jurisdiction, Idaho customers would receive 80% of any excess earnings. Our expected full year O&M expense guidance remains in the range of $345 million to $355 million. It's fair to say this goal to keep O&M relatively flat for the ninth straight year is being challenged by the amount of customer and load growth we are experiencing. We also reaffirm our capex forecast for this year in the range of $320 million to $300 million -- $330 million, excuse me. Our expectation of hydropower generation has decreased somewhat given the weather conditions least represented and is now expected to be in the tightened range of five million to six million-megawatt hours.\nWith that, Lisa and I and others on the call will be happy to answer your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We are now ready to begin the question-and-answer session. [Operator Instructions] Your first question comes from Chris Ellinghaus with Siebert Williams."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Hey, everybody. I hope you're well."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Hi, Chris."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Hi, Chris."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "I got a million questions where there's a lot of exciting stuff here. First of all, should -- is it time to get worried at all about next year's reservoir levels considering sort of the outlook for precipitation and the expectation that there might be another La Nina developing for the fall. So can you just sort of give us your thoughts on that and where reservoir levels are today?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Yes. Certainly, I can start. Chris, this is Lisa. One of the things I was taught very early in my career is that no amount of worry actually puts any water in the reservoir. So it's not so much that we worry about it, but we certainly planned for the worst-case scenarios. And so we are being careful about how we're using the water. I would remind you, we have a -- we do have some weather modification that we utilize to pull as much as we can out of each storm that does come through.\nAnd I would also remind you that La Nina actually can produce really good snowpack for us as well. Often, it's more the case that it does than doesn't, but I'm reminded that last year was also a La Nina. So I don't know that there's a great trend line really on that. It's just that it continues to be variable.\nSo we certainly know how to operate during those conditions. It does mean that we rely more on the market, and we will -- it's the value of a diverse portfolio that we can access other sources of energy when we are in drought condition. And Adam, is there anything that you would add from -- that I'm missing from an operations perspective?"
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "No. I think you covered it. It's a little bit too early to tell, but we are focused on it, and we, in fact, have some meetings over the next month or so to make sure we keep an eye on it."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Lisa? Chris, let me add one thing. It's been a while since we've talked about these issues. But if you go back a few years, we've had multiple times that we've had several years in a row that we had drought-like condition. And one good thing is the Brownlee Reservoir sort of hits a bottom, that bottom might move slightly. But the level we're at right now, I think, is nearing the point. It kind of doesn't go below that even in bad years.\nNow that doesn't mean that's an optimum thing because it would much rather have a lot more water, but it doesn't go down to zero or at least hasn't in what we've seen. It kind of stops at a certain level in the spring fed [Phonetic] and other things. So..."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Okay. Lisa, can you talk about what you were saying on the commercial and industrial recovery, where do you feel like you are compared to normal? And what did this quarter look like versus last year from what you can interpret the COVID situation?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Well, as I mentioned in the remarks, we really are seeing a return to normal levels. And then some of the new business is starting to show up as well. So there have been some maintenance cycles that have happened during the last year that felt a little bit out of cycle from their normal timing, but I think they might have been taking advantage of what was going on in the world to do some maintenance in a time that was slightly different than normal.\nSo I would say, it's getting really close to normal levels. And as we mentioned, lots of planned increases as well. So we're very excited about that return because also, that means people are getting back to work, and we're very optimistic."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Okay. I just want to make sure I'm clear on this. You said a couple of times that the revised guidance is assuming normal for the second half of the year. So you haven't included any consideration for what appears to be a pretty hot and dry July so far?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Chris, the way I would put it is, we don't put those in our baseline or in that. What we would say is our midpoint, we don't really tell you where that is in our range. But we do factor those in as we're looking higher, but you always have heard me talk about third quarter and July looks really good, that the whole quarter itself is a massive part of what we get for the year.\nSo it -- the thought is in there. It's not -- I'd just say, it's a range and we put in the comment there toward the end, that we're also starting to approach where you start sharing a little bit. We don't stop necessarily at sharing that you do slow down.\nAnd so I think this is a reasonable range. We come up with the script. It's midway through July and most of it's getting charted out. But as you point out, it's been pretty hot, and it's continued on."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Okay. When does the, sort of, unofficial end of the irrigation season really hit for you?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "It generally is late August, September, depending on the crops that are planted. So I would say it's generally into September, early September."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes. That's one area, Chris, where I think we don't know sometimes if we just got irrigation earlier or how much of it is going to be an absolute up. So that is one of the question marks that kind of you wait until you get to end of August and you kind of know what you -- what really happened. How much of that was all up and how much was just sooner."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Right. Lisa, you mentioned this cobalt mine. Can you give us some details on what kind of load does that look like?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "I'm going to have Adam Richins answer that. He's been more directly involved with that. Adam, do you want to take that one?"
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "You bet. Chris, one of the things, I think, you noticed that gets a little bit touchy with our customers in talking about the load, tend to be a bit confidential for them. So I can't get into that. Right now, they're focused on a mid-2022 in-service date.\nAnd I'll just tell you, I've been up there. I've looked at the mine, and it's moving in terms of construction. So that's what they've said publicly. And in terms of the load, you can't get into that, but we're pretty excited about what it will bring to our service territory."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Will you be able to later talk about load or maybe what the scale of the mine is?"
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "Yes, it all depends on whether they're willing to go out with that information publicly. A lot of these folks consider it competitive information if others are looking at what their load is, then they can determine what -- how much they're buying and some of those types of things. So it really depends on the customer. I would love to share more, but they have to let us know kind of when it's OK for us to do so."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Okay. And Lisa, you sort of were talking about depending on the coal retirements and obviously, had some new peak lows and whatnot. Can you give us your general thoughts on new resources? Obviously, IRP details are somewhat fluid, but can you sort of talk about what your vision is? And would you imagine participating in any kind of material new resources?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "It's a great question. So as you mentioned, the IRP is really the process we go through to identify our future resources. But we do have an RFP out there on the street for 80 megawatts that we didn't have previously in the plan. It really came up from the analysis we did on looking on whether or not we could take the second unit of Valmy out earlier. And when we refreshed all the variables, it demonstrated that we were going to need something sooner.\nAnd something that was a capacity resource, not just energy. And so we're looking forward to getting the results back there. And then we are looking at all kinds of resources. And again, that analysis that goes into the RFP -- or excuse me, the IRP is really critical. So that's where we can test sort of the technologies against one another on their performance and costs.\nSo I am very optimistic. I think there's a lot of exciting opportunities out there. And I'll let the IRP run its course, and we'll have more information available at that point. That should be out by the end of this year."
+    },
+    {
+      "speaker": "Chris Ellinghaus",
+      "speech": "Okay. Thank you so much for the color. Appreciate it. Have a lucky August."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Thank you. You, too."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Ryan Greenwald with Bank of America."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Good afternoon, everyone. Appreciate the time. Maybe first, can you guys just talk a bit about any shift in dynamics amid the latest scarcity concerns when it comes to the planned early acceleration of Jim Bridger? So in terms of any initial conversations with stakeholders and any change in mindset there?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Yes, I'm not sure. I mean we've been certainly again talking with the IRP and other stakeholders about what that might look like. And certainly, we talk with our partner over at PacifiCorp. Recall they're the majority owner, operator of that plant. So I don't think there's been anything that I could say is a change of how we've been thinking about it in the past. So maybe I'm not fully understanding the question you're asking."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes, Ryan, if you look at the two plants that we already have moved through that process, the fact that the end-of-life costs and some of those things kind of have just set out there from -- you start the plan and you think that's kind of just so far, you don't think about it. As you get in there, you have to start encompassing the whole -- the final answer for any of these plants.\nSo that Bridger decision, as Lisa mentioned, the last higher piece, the best information we've got in terms of timing, they're always working hard on the next one. But there's pieces of that in order of spreading those costs over periods of time, collecting them from the customers that are getting enjoyment of the use of the plant. All of those things, none of that has really changed or moved, and that is a lot of the impetus behind the filing."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Got it. So it sounds like at this point you guys trying to proceed with the earlier acceleration, not too concerned about a slowdown?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Not too much. I guess I pointed to that is the beauty of this, the way that both of Valmy decisions were put out and Boardman. They both allowed flexibility. So they are kind of a living plan once you put them out.\nYou start with a plan. There's plan A, and then it adjusts in the depth. If you report -- if the -- it's got a process that allows the oversight to continue all through the process and continual updates. So I think the -- starting with the process is still a good thing, and you never really are going to hit a point when you know perfectly the answer for the future. So that's -- we focus more on a mechanism that could live through those types of things."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "I think it's worth noting, too, to remind you in the fascinating on the Valmy agreement that the final depreciation date was actually past the date of when we would finish or cease operations there. So if we did have to change the operation date, it doesn't change the depreciation schedule. So it's -- we do have some movement capability there."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Understood. And then maybe lastly, with respect to the BPA intention to sell their stake, any more color you guys can provide there around timeline and how this could play out in coming months in terms of your potential ownership?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Well, we're still working with our partners on that. So there isn't a lot more that we can say, but they are active conversations, and we continue to work through it."
+    },
+    {
+      "speaker": "Ryan Greenwald",
+      "speech": "Got it. I'll leave it there. Thank you."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Thanks, Ryan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Brian Russo with Sidoti."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Hi, there."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Hi, good afternoon. So just curious, this might sound silly, but is there a scenario where it can be too hot and too dry, where the demand is exceeding your generation capacity and with low hydro conditions, you need to go out and buy high-priced power, which is what led to the margin -- negative margin variance on the PCA?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "I don't -- too much might be not the best terminology, but certainly, when gets really high and you cover power, and it's a balancing process. I mean I think we refer to it typically as balancing, and you're weighing, do you run your water now? Do you save it until later in the year? Do you -- is the market giving us an opportunity to buy the day at a better price so we can keep one of our resources for later? That's what the operators do constantly is try to sort that out.\nBut it certainly can drive high cost. And if you remember back, we've had some years in our past, when we've had really high-power costs. There was one year when they were so high, we offered to spread them over a couple of years, and they ended up going ahead and collecting it in a single year.\nBut it does drive the costs up. You are somewhat subject to the market for parts of it. And we do the best we can there, and we try to manage that. I think the hydro is really nice and that we have a little more choice with it at times than others. So we'd like to have more of it.\nBut we started this year with a pretty normal amount in the -- as far as carryover, we probably were slightly below normal when we hit summer just because we've used some in the spring, but it was close. And so you can hit it even if you have a pretty good year, there could be days that you go to market."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "And Adam, do you want to add any color? Because we have a relatively new group of leaders in operations, and they were really creative looking out and seeing some of this coming and moving quickly to adapt."
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "Yes. Thanks for the question. It's a good one. We experienced in June a one in 45-year event in our service territory, and it's just Northwest, it was a one in 1,000-year event. And as Steve mentioned, although the conditions of carryover were decent, we had one of the driest springs in memory.\nAnd we were absolutely able to work through it. The system held up well. We have operational folks. This is what they train for. This is what they're ready for. We did have to buy more energy on the market, but we also have processes that in -- before these times come, to make sure we're being proactive, sometimes we hedge some of those purchases as well.\nWe also actively bought some transmission on the market that maybe we had done in the past. So it's really just -- in a lot of ways, it's just kind of what we do. Does it make it more tight on our system? Absolutely. But so far, our system has been performing well, and we've been pleased with the results."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Right. Got it. So the $6.8 million of negative net income driver related to power of supply costs. That implies you're already in the 95%-5% sharing, correct?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "The 95%-5% is on all power supply costs. So everything -- a good or bad, so if we are experiencing lower than normal costs, 95% of the savings goes back to customers, and we get to keep 5% when the costs are higher, and this is Idaho primarily that I'm talking about. The 95% goes to -- take -- bears the cost is the customer, and then we take the other 5%. If you -- that used to be a 90%-10% split, then it was adjusted, and we're at 95%-5% now.\nAnd that's all based on whatever was in the last rate case. So it factors off of that is you really start with whatever within your last rate -- your last general rate case and then the 95%-5% works either direction off of that number."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Okay. Got it. And then the IRP filing, I think you got an extension to December, but I think the target month was in September of 2021 to file. Is that still the goal? Or is it going to be pushed back, do you think, toward the end of the year?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Our goal has been around November. And right now, we're on track to meet that."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Okay. And then also the -- megawatt RFP, is that a purchase power agreement-type scenario? Or is that something you would consider self building?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Well, we're looking to do a little of both. I mean, obviously, we would love to build and own, but we're also wanting to make sure that people respond to the RFP. So we're looking at -- we're open to a number of possibilities."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Okay. And then lastly, can you remind us what BPA's percentage stake is in the B2H?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "I believe it was 24%."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Okay. So 24% of, I guess, that $1.1 billion kind of cost you guys disclosed?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Okay. Great. Thank you very much."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Thank you, Brian."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Ashar Khan with Verition. Your line is open."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Hi, there."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Hi, how are you doing? So I just wanted to, I guess, there are a couple of things happening, if I may mention, right, to what people are talking about. But the higher load and the higher warm weather is generally positive for earnings. Is that fair to assume?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "I'd say that, yes."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Generally."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Okay. Because we've had a good July. So as you are mentioning, we still have to wait for August and, I guess, September somewhat, but August is a key month, if I'm right, right? So that -- and that is not yet included in your forecast. But you did mention that if you go over, I guess, the top end of your range 490s, right, you would be in the sharing mechanism, if I heard it correct."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes. It's not -- we're not saying the 490 is the number. We're just letting people know that it's not a long way past that the -- where the allocator sits currently. It doesn't move around, so it can actually shift up and down a few pennies itself. But it's beyond that upper range today."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "So it's beyond -- OK. So it's not at 490. It is something above that, that is when the sharing will happen."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Correct. We just wanted people to remember that there is a place where it slows down. And earnings don't necessarily stop at sharing. It's just the -- you can do accumulate..."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Yes, yes, yes. No, I just wanted to -- I was just doing a rough back-ended math is that at what level do you reach 10%, right? That's when sharing start, right? And my earnings number calculation were coming that earnings have to go over $5 to reach that level. So when you said 490, I got a little bit confused. So I wanted to check my math with you, whether I was missing something."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Well, Ashar, you're trying to get a number that hasn't happened yet. So it is a tough number to hit. It's going to be a year-end calculation. It's going to depend on how many sales happened in Oregon, how many sales happened in Idaho, which class happens, which place is -- so it's a very complex allocator that at this point in time, we kind of have a -- some in the air ideas where it's going to be. But it's going to move most likely from what we think it is today. It's affected by -- it's year-end equity."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Understood. Understood. I totally understood it, but it's not at 490 right now. That's my main point. I guess I just wanted to clarify that, right?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "You're correct. It's above that."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "It's above that. Okay. That's what I just wanted a clarification on. Okay. Okay. And then if I just -- any update on the relicensing issue and still 2023 event in your eyes?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Well, it's an ongoing process. At this point, we believe that that still is possible, but there's the goblet of things we've got to go through to get there, but that's our best guess today."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Okay. Okay. And then I'm just trying to -- just for reference purposes. As you are seeing this higher growth in the service territory. And one thing which has happened, if you look at your -- the annual report and all that, is that our ROEs have gone a little bit down, right? Sometimes we earn 9.6%, 9.4%.\nI guess the last year, based on your annual report and that, I guess, you do based on the total stock as book value of the whole company. So it's a mixture, is 9.3% was at the low end. So from your perspective, what is the ideal rate? Is it 9.3%, 9.4%, 9.5%? Where should one kind of like set one's horizon in terms of planning for the future with this higher growth? And I just wanted to get your thoughts on it."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "So, you'd say it ideal, I mean, they do move. There's years that we have better support, say, out of our subsidiaries. Our Oregon property has no mechanism around it, the way Idaho does. So it has variability. And so the reality is there are some years we don't get as high as others. But the goal is to"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "To maximize, yes."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes. So we're aiming to maximize. And I think we've talked many times about weighing the -- whether you're filing, whether you're not filing, how much this growth continues to bring. And COVID did throw some question marks into that. I think we just weren't sure where we're sitting today and with the year that's happening now, it appears that growth is still alive and well, and we're kind of just hanging on to keeping up and making sure we serve everything to come.\nSo that's some of the years you're looking at there were impacted by, I think -- I don't think any of us saw it coming, I certainly didn't have the pandemic in mind five-year window back in [Indecipherable] So I don't know what to say about that, Ashar. It does move around just about -- but I think we're sitting in a good place, and the story we've had is still on track. I think the growth continues to be our interim answer.\nAnd as Lisa talked about, some of our growing needs, and we've put out reports in our shareholder updates on capex growth. There's a different story that's building -- that's kind of our future. So it's -- that's -- we're still on that track."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Okay. And if I can ask a last question, right. So if you look at it on a consolidated basis, right? The book value is increasing by $2. And if you apply, say, roughly, I want to go to the lower end 9, right, ROE on that, that gives you like $18 million. And if you divide it by 50 million shares, that gives you annually, you should grow by about at least kind of somewhere in the $0.30 range, but we don't achieve that.\nSo I'm just trying to understand what is the right way to look at the increase in book value because that's a consolidated book value, right? It's not the -- the IDACORP is where the mechanism is. So what is a good number for IDACORP's increase in book value? Is it $1.50? Or what is the right number to want to think about?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "So the mechanism is an Idaho mechanism that looks at the Idaho allocation of the equity for Idaho Power. So it's -- the mechanism isn't sitting in IDACORP."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Understood. That's why I was asking, what is a good number to look at from an IDACORP's perspective for increase in equity every year?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes, we haven't put that out, Ashar. I mean that's why we put the chart that we've been sharing for quite a number of years on -- we give you the chart of year-over-year changes. And with that, you can kind of look through and see the years that we've hit sharing.\nAnd that, that's put a limiter and you kind of do your own calculations of where those support mechanisms, like, might be, which kind of gives you a bottom, and then you could figure out where the sharing might be above that. And people use that to ban their estimates."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Okay. Okay. Okay. I thought I would try it once more to see if I can make my model more accurate, but appreciate it. Thanks. Great results. And just a reminder, when is your -- I have lost track. Previously used to come out with your dividend policy in August. Is that still the case? Or now it's been delayed into the fall?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "For the last few years, we've made our dividend changes when we've done it in September, kind of -- I think, we announced that, that was the plan we were going to go with. Normally, given some sort of an indication what to expect might come in the next year, but then we didn't actually do it and announce it until we are through September."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Okay. So we should wait till September."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes, it's actually with our release. I think that we made it out for the third quarter."
+    },
+    {
+      "speaker": "Ashar Khan",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from Vedula Murti with Hudson Bay Capital."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Hi, Vedula."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Good afternoon, guys. Thanks, great.line, how much of the -- your 21% already reflected in the existing capex five-year plan that you have if you [Indecipherable]?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Some of it is in there, it's -- I can't remember how much actually gets in, in terms of construction. A lot of it is just the preconstruction and the planning and the licensing piece. So..."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Adam? I'm not sure I heard the question."
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "Yes. The construction period is 2003, 2006, and that's where the bulk of the funds will be expended."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "23 to 26, yes. So it was..."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "So a 23, 24 [Technical Issues]"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "And that would be the earliest from our standpoint."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "And can I just add some [Indecipherable] think that actual will go? Or is it just in terms of looking to any other [Indecipherable] approvals, environmental, other things? And if there are still some probability that this will not pass?"
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "Lisa, I'm happy to answer that."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Yes. Go ahead, Adam."
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "Yes. The federal permitting, we've received those permits, and that's an EPA process. We are in federal litigation on those permits, but we've received actual permits. The state permitting should be completed, we believe, the second half of 2022.\nAnd B2H continues to be our lease cost, lease risk, resource as we look at through the 2019 IRP. And so yes, we're moving ahead. We think we're making good progress. And our partners in PAC is also moving ahead and excited about the project. So yes, we think it's moving forward at a good pace."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "So I guess at this point, when do you think you'd be -- you're looking to be able to [Indecipherable] this is -- that we are [Indecipherable] and this is a real project and system costs and this is timeline and this is what we're doing?"
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "Well, right now, our schedule shows, as I mentioned, a 2023 kind of construction window to 2026. That's the earliest it would occur. We would, obviously, need to get our permits before that. Some of that depends on what occurs with litigation in the federal permitting. But again, right now, our partners are moving forward with it, and we feel good about the progress."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "And is there anything -- is there anything formalized about the process of EPA [Indecipherable], will it [Indecipherable] their share? And if you were to acquire it, was there anything ever in terms of the formula under which you would -- you've always known that you might pay BPA for their share? Or is this just a flat-out negotiation?"
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "It's in the -- this is Adam, again. It's in the middle of negotiations. We're exploring different asset service and ownership arrangements, frankly, with BPA. One scenario though would include Idaho Power acquiring BPA's ownership share, and then we would on the back end, provide BPA long-term transmission service in lieu of ownership for them.\nAnd in that scenario, we would have, instead of the 21% interest we have now, it would increase up to 45%. But again, these discussions are preliminary and confidential in nature. At the end of the day, our intent is to maximize the value of the project for all parties. And so we're in the middle of those discussions, and we'll advise when we can."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Okay. Different topic. The Jim Bridger increasing the depreciation spend. To the extent that the commission work to a different number, you simply achieve that number and if they chose not to, you can simply not go forward with it. So it's simply a matter of whatever the commission will end up agreeing upon, you'll be able to do that but you choose something if they choose something different. That's due to -- you wouldn't see the request if they gave something different."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Well, it's like -- if I'm following Vedula, what we're saying is we've got our best information file. That's what's going in right now with the case that was put before the commission, knowing that a lot of the pieces and parts of that could move or change. And so it's going to allow for those dynamics to move and adjust. I think that's anticipated that there would be updates to that. It isn't -- it's very difficult to set all of that and be perfect at this point. So encompassed in that is sort of a dynamic response element to the way that the rate mechanism works."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "What's the timeline that's anticipated for the commission to decide and process [Indecipherable]?"
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "December."
+    },
+    {
+      "speaker": "Adam J. Richins",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "So looking at -- yes."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "That was a request, yes."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "That was a request, yes. Certainly, the commission could take other actions, but that's what it would be under a normal course."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "And I guess the other thing I just [Indecipherable] and very curious about, obviously, you mentioned the RFP for the megawatts and also highlighting [Indecipherable] a very strong growth in territories. When should we be expecting an update on the capital [Phonetic] program because we've seen -- even a mineral to base capex just to -- for maintenance payments or service [Indecipherable] would have to be going up given the new customers, etc. So when should we be expecting a revision on capital [Phonetic] program?"
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "I think we give frequent updates with some of the..."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes. It's been going up each of the last couple of years. And I don't have a number to give you for next year. But you're right, as growth maybe outputs what you were expecting, it often means you're going to have to spend a little more money in the following year. But that's usually a year-end process for us where we update those numbers. And so you'll see, your next update from us would -- on just an annual basis would be with our year-end earnings release.\nBut we do occasionally put out -- we'll take it out to all share owners through a -- we've updated our booklets at times. And so you might keep an eye on that. If you have -- there's some out there. I don't know when the last time the capex forecast changed. But the capex forecast that we currently have out is, if you haven't looked for a while, may surprise you what it shows that our expectations of growth have gone up quite a bit."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "No. I'm taking a look at your investor book, and I wasn't clear whether those are the things that are prospective that are possible. And I think you've shown things that are impossible to occur versus things that are formally in your official plan [Indecipherable]."
+    },
+    {
+      "speaker": "Steven R. Keen",
+      "speech": "Yes. It's probably a mix because parts of it are building off of what our normal capex program has been. But they change and they do go up at times. And then there's other pieces that are maybe planned or hopeful that timing could shift year-to-year or amounts change. So it's a blend."
+    },
+    {
+      "speaker": "Vedula Murti",
+      "speech": "Okay. All right. Thank you very much."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And a final opportunity. [Operator Instructions] That concludes the question-and-answer session for today. Miss Grow, I will turn the conference back to you."
+    },
+    {
+      "speaker": "Lisa A. Grow",
+      "speech": "Thank you again to all of you for your continued interest in IDACORP. And we certainly look forward to the possibility of meeting with you in person later this year. And I continue to wish you all good health, and have a great evening. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 57 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Justin S. Forsberg--Director of Investor Relations and Treasury",
+    "Lisa A. Grow--President and Chief Executive Officer",
+    "Steven R. Keen--Senior Vice President and Chief Financial Officer",
+    "Adam J. Richins--Senior Vice President and Chief Operating Officer",
+    "Chris Ellinghaus--Siebert Williams -- Analyst",
+    "Ryan Greenwald--Bank of America -- Analyst",
+    "Brian Russo--Sidoti -- Analyst",
+    "Ashar Khan--Verition -- Analyst",
+    "Vedula Murti--Hudson Bay Capital -- Analyst"
+  ]
+}

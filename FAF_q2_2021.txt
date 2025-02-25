@@ -1,0 +1,209 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings, and welcome to the First American Financial Corporation Second Quarter Earnings Conference Call. [Operator Instructions] A copy of today's press release is available on First American's website at www.firstam.com/investor. Please note that the call is being recorded and will be available for replay from the Company's investor website, and for a short time by dialing 877-660-6853 or 201-612-7415 and by entering the conference ID, 13721369.\nWe will now turn the call over to Craig Barberio, Vice President of Investor Relations, to make an introductory statement."
+    },
+    {
+      "speaker": "Craig Barberio",
+      "speech": "Good morning, everyone and welcome to First American's earnings conference call for the second quarter of 2021. Joining us today will be our Chief Executive Officer, Dennis Gilmore; and Mark Seaton, Executive Vice President and Chief Financial Officer. Some of the statements made today may contain forward-looking statements that do not relate strictly to historical or current fact. These forward-looking statements speak only as of the date they are made, and the company does not undertake to update forward-looking statements to reflect circumstances or events that occur after the date the forward-looking statements are made. Risks and uncertainties exist that may cause results to differ materially from those set forth in these forward-looking statements. For more information on these risks and uncertainties, please refer to this morning's earnings release and the risk factors discussed in our Form 10-K and subsequent SEC filings. Our presentation today contains certain non-GAAP financial measures that we believe provide additional insight into the operational efficiency and performance of the company relative to earlier periods and relative to the company's competitors. For more information on these non-GAAP financial measures including presentation with and reconciliation to the most directly comparable GAAP financials, please refer to this morning's earnings release which is available on our website at www.firstam.com.\nI will now turn the call over to Dennis Gilmore."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Thanks, Craig. Good morning and thank you for joining our second quarter earnings call. All of our core businesses are producing strong financial results and we are optimistic that 2021 will be an outstanding year for First American. Today I will focus my comments on the progress we are making on a number of key strategic initiatives, and Mark will then provide details on our second quarter results.\nThe process of buying a home is complex and involves multiple parties. First American sits at the center of the transaction, coordinating among realtors, lenders and consumers to protect the integrity of the process. As the transactions become increasingly digital, First American is focused on leveraging our unique property data and technology to enhance the customer experience which make the process more efficient and secure for all parties.\nFirst American's data assets and process expertise provide a unique competitive advantage. Last quarter, we announced our initiative to expand our title plants from 500 to 1500. By building an additional 1000 plants our databases will cover approximately 80% of all real estate transactions. We've made significant progress since our launch, we are currently up to 850 plants and are on track to achieve our goal of 1500 by the year end. These additional plants are currently being built on a go-forward basis and will accrue significant benefits to us in the years to come as our historical content becomes deeper and richer. Due to our patented extraction process, First American is in a unique position to build these plants at a fraction of our historical cost. Plus we are now capturing virtually every data point on 7.5 million documents per month up than 5 million last quarter, data that can be leveraged to automate title underwriting decisions and geographic areas that were previously done manually.\nIn addition to our data leadership, we are focused on developing digital solutions to improve the customer experience. Across the enterprise, we are developing next-generation cloud-based technology to make it even easier for our customers to do business with us. For example, our direct division recently launched IgniteRE, a platform that provides real estate professionals with enhanced productivity tools and enables them to manage transactions from open to close with buyers, sellers and settlement agents with secure environment.\nIgniteRE and ClarityFirst, which we discussed last quarter, are two examples of technology investments we've made to strengthen our competitive edge and more will follow. Both platforms make it easier to work with us and expand our customer relationships. To support our technology initiatives, we acquired a 130 product managers, designers and engineers so far this year. These critical hires reflect our commitment to expand our position as the industry leading innovator.\nTurning to our venture strategy. Since 2019, we've invested $260 million in venture-backed companies in the proptech ecosystem. These investments give us insight into a high growth technology companies, most of which have become strategic partners. In addition to providing strategic benefit they are contributing to profits as well. Venture investments will continue to be a component of our capital allocation strategy.\nIn closing, I'm confident that 2021 will be another strong year for First American. All of our core divisions are performing well and we have a healthy pipeline of business heading into the second half of the year. Our balance sheet is strong and our strategy of focusing on data and technology to enhance the customer experience will continue to succeed.\nI'd now like to turn the call over to Mark, who will comment on our second quarter earnings."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Thank you, Dennis. We're pleased to report excellent results this quarter. We earned $2.72 per diluted share. Included in this quarter's results were $0.59 of net realized investment gains. Excluding these gains, we earned $2.13 per diluted share.\nI'll start with our title business. Revenue in our Title segment was $2.1 billion, up 44% compared with the same quarter of 2020 due to the strength of the purchase and commercial markets. Purchase revenue was up 66% driven by a 43% increase in the number of closed orders coupled with a 16% increase in the average revenue per order. Commercial revenue was $223 million, a 104% increase over last year. Large transactions have resumed as we closed 54 transactions in the U.S. with premiums greater than $250,000, up from just 12 last year. This year, we expect a record year in our commercial business.\nRefinance revenue declined 23% relative to last year as the rise in mortgage rates that occurred during the first quarter put pressure on second quarter closings. On the agency side, revenue was a record $905 million, up 51% from last year. Given the reporting lag in agent revenues of approximately 1 quarter, we are experiencing a surge in remittances related to Q1 economic activity. Our information and other revenues were $298 million, up 31% relative to last year. Revenue growth was primarily due to higher demand for the Company's title information products in our data and analytics, commercial and loss mitigation business lines.\nInvestment income within the Title Insurance and services segment was $47 million, up 10%, primarily due to higher interest income from the company's warehouse lending business and higher average balances in the company's investment portfolio, partially offset by the impact of the decline in short-term interest rates on the company's tax deferred property exchange and escrow balances. In our Title segment, pre-tax margin was a record 19.1% excluding the impact of net realized investment gains, pre-tax margin was 15.3%.\nTurning to the Specialty Insurance segment. Pretax earnings totaled $20 million, up from $7 million in 2020. Revenue in our home warranty business totaled $108 million, up 10% compared with last year. Pretax income in our home warranty business was $14 million, a decline of 13% in part due to elevated claims expense.\nOur property and casualty business generated a pre-tax income of $6 million this quarter. Included in this quarter's results were the $12 million gain on the sale of our agency operations. At the end of the second quarter our policies in force have declined by 22% at the beginning of the year and we expect a 70% decline by year-end. The full wind down of the property and casualty business is on track to be completed in the third quarter of 2022. The effective tax rate for the quarter was 24% in line with our normalized tax rate.\nCash flow from operations was $253 million in the second quarter, down from $344 million in the prior year, due primarily to the deferral of estimated tax payments allowed by taxing authorities during the height of pandemic in 2020. With respect to this information security incident, as we previously disclosed, we reached a settlement with the SEC for $487,616. The New York Department of Financial Services matter remains ongoing. We continue to believe that it along with all other matters relating to the incident will be immaterial.\nAs Dennis mentioned in his remarks, we've invested a total of $260 million in venture-backed companies. This quarter we recorded a $44 million gain related to our investment side, a real estate SaaS company that serves real estate agents, teams and brokers. Our largest investment has been in OfferPad an iBuyer that is now party to a merger with the SPAC, which recently announced that the value of the aggregate equity consideration to be paid to OfferPad stockholders and option holders will be equal to $2.25 billion. At that valuation, we would expect to book a gain of approximately $237 million on our $85 million equity investment. We expect this merger to close later this year. Due to the growth of our venture portfolio, we have expanded disclosures in our Form 10-Q, which we expect to file later today. These disclosures will include the cost, unrealized gains and carrying amount of our non-marketable equity securities, as well as information on concentration of these securities.\nWe remain optimistic about our 2021 outlook. Although refinance orders have declined corresponding to an increase in mortgage rates, the purchase and commercial markets remain strong. Our claims experience is favorable and the general improvement in economy to tailwind into our business.\nNow I would like to turn the call back over to the operator to take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from the line of Bose George with KBW. Please proceed with your questions."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Hey everyone, good morning. Actually, first just on the commercial. Mark, can you repeat what you said, just on the large transactions. You said 54 transactions with premium, greater than, I missed the dollar amount and you compared it to last year, just curious how that compared to 2020? And then just commercial, can you just talk about where you're seeing the strength -- this presumably -- this is happening without sectors like office coming back?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, Bose, why don't I start. This is Dennis. The numbers Mark referenced are of commercial transaction, large transactions over 250 were 54 in the quarter, up over 4x from a year ago, but we have to compare last year in 2020, that was the first year, the first quarter of the pandemic, so probably a tough comparison there.\nTo the second part of your question was, were up across all geographic areas on the sole product wise, commercial is really strong right now as we mentioned in the scripts. It's likely will be fair strong rest of the year probably trending toward our record performance in commercial."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Okay, great, thanks. And then can you just remind us what goes through that default in other line for order counts? It was up the last couple of quarters and I assume that's not being driven by default, so just curious what's the breakout there."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yeah, it's just -- it's a lot of the default orders booked in that line item, including loss mitigation we're -- a lot of loss mitigation work for lenders right now. So it's really default in loss mitigation."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Okay. So that is, that is picking up...."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Specifically..."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "...more to it."
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "I'm sorry specific mobility, it's not -- it's not foreclosure work right now -- making it work."
+    },
+    {
+      "speaker": "Bose George",
+      "speech": "Okay, great, thanks a lot"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of John Campbell with Stephens. Please proceed with your questions."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Hey guys, good morning. Congrats on the solid quarter."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "So on the extension of the title plant, that's exciting for you guys. I guess the question here is, how should we think about just a net effect of those -- I think you said out 1.5 or 1500 plants over the next several years. Is there a good way to think about that over the next couple of years? Is it the way to kind of frame-up the incremental revenue opportunity versus maybe just the potential production cost savings, anything you can provide there?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, John, let me take a cut at it, it's really we're highlighting the strategic benefits we have with our data and our process, component across the company. So you start with, we've got the largest public record databases now, we've really accelerated the growth there. We've mentioned it before, but we've got some very unique patented extraction technology, which allows us to basically capture every field off of the document which I mentioned in my script. So last quarter we were extracting 5 million components from the document, this quarter it's 7.5, so basically anything on the dock, we can take them and we're building the plants. So let me get plants, so we mentioned earlier last year -- early last quarter that were going to run it up at 1500 plants. We're now 850, will be on track to hit 1500 by the end of the year and we're building these on a go-forward basis. So they're going to accrue benefit for us on the years to come as they become richer and deeper, but we have the technology to point it backwards if we need it. So bottom line, it's a little hard to quantify for analyst right now, but what it will allow us to do is to accelerate our title automation, leverage our data, couple it with our assets."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Okay, that's helpful. And then Dennis, I've got a bigger picture and it's a question for you, but it just seems like every day, we are seeing a non-bank originators just somebody in the value chain just looking to launch a title offering and then off course you got the iBuyers. It's almost like they have to make that attachment work over time, but to me, it just seems like the end result, if that's all effective is maybe just the mix shift from direct to agency and not really disintermediation, but I'm just curious about how I guess, first, how difficult do you think the tax rates are for those newer players? And then secondly, whether you think that trend is a positive, negative or maybe just a neutral over the long haul?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, I'll start, John with the ebbs and flows over the years, right. So this is not a new phenomenon for us and it has there been over the years, right now, we do a lot of people entering. So we'll have a -- we'll move from direct to agency, we don't want to fight that at all, we're actually trying to support it, embrace it. You see that in our venture strategy the whole way, many of these companies are partners for us, so we can deploy title assets or title information to them or data so either way it goes there. And I think it will continue to ebb and flow probably as the market gets a little more normalized from difficult, it's not as attractive as we go forward, but it's something again at the end of the day we don't fight, we actually encourage and support, no matter how somebody wants to distribute the product."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Okay, that's helpful. If I can squeeze in maybe just one more for Mark here, on the Specialty Insurance segment. Once you kind of clear out the P&C contributions, you're left with obviously just the warranty business, how should we be thinking about that kind of underlying margin going forward?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "So once you clear out the P&C business, it's going to take a little bit of time. Just the -- why aren't we completing in the third quarter of next year, but what is left effectively we're going to just have a home warranty segment and as we've talked about over the years, we're really high on the home warranty business, but when you look at the second quarter, we had an operating margin of 9% that excludes investment income. Once you layer it on invest in a company -- it's more like a 11%, 12% and Q2 is typically a tough quarter for us, right, because we're getting a lot of claims on why conditions we're on the second quarter. But through the cycle, the seasonality of the year, the margin typically are sold between the range of 13%-15% in normalized basis and you'll see that again once the segment becomes clean."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "And John, if I'd only add you'll see in our disclosures that we broke out the performance of both home warranty and -- so our investors can get a better sense of what home warranty will look like when we're done wrapping up the P&C business."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Okay that's perfect. Thank you, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question comes from the line of Mark DeVries with Barclays. Please proceed with your questions."
+    },
+    {
+      "speaker": "Mark DeVries",
+      "speech": "Yeah, thanks. I had a follow-up question on the commercial volumes, those larger transactions tend to be pretty lumpy and episodic. If you look at your pipeline though, does it look like this is is kind of consistent with that kind of lumpiness or do you actually see sustained strength as you look out through the end of the year, on those larger transactions?"
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, we do see sustained strength, the deals you're really referencing to, I've referenced them too much, kind of mega deals, but while we talk about the large deals, those are just normal large deals and that strength we think will continue through the rest of the year."
+    },
+    {
+      "speaker": "Mark DeVries",
+      "speech": "Okay, great. And then on the purchase side, I think Mark, highlighted that the fee per file was up about 15% year-over-year, which is actually kind of consistent with home price appreciation, but you normally get about half of that. So, are you seeing a positive mix benefit here where more of the purchase is also coming from just higher priced markets is driving your fee up kind of in line with home price appreciation?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yeah, we are and just about I mean overall the market is very strong right now. And on this topic by the way we're very optimistic, right to lower demographics, a positive for us. We had a very strong spring selling season. I'll say in July right now and we're starting to churn a little more toward an -- I call that the seasonal market, we're probably down about 6% on the market right now in July, and also we think that the purchase market also starting to stabilize, a little more normalized, if you will. Inventories are ticking up a little bit, we're seeing crazy bidding wars, we'll probably see less property appreciation in the year in the product for the next year so and all of those trend to us as a positive sign, not a negative, makes the market more sustainable than normal. So we think it's going to be a really good second half of the year and we think 22' is going to be a good year for purchase trend."
+    },
+    {
+      "speaker": "Mark DeVries",
+      "speech": "Okay, great. And then can you just talk about how much of the strength in revenues in info and other, is it might be more cyclical as opposed to you taking share?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Well, it's hard to say, info and other as we know is a collection of businesses. When we look at the biggest drivers of the growth this quarter, the biggest driver was commercial business. So we actually grew info and other $50 million just because of commercial business that we did there as it with attached with property reports and exchange fees and commercial due diligence, things like that. And so obviously we've got it -- we've got tailwind in the commercial. The second-biggest driver was loss mitigation in our servicing business. So as we talked about foreclosure moratoriums are here at least until the end of this month. But lenders are doing a lot of loss mitigation working with beneficiary of that. So I would say that somewhat cyclical and the third biggest driver was our data and analytics business. And we've just got a lot of momentum on the dynamics of this on both because of volumes, but also because we're doing a really good job of licensing or due to different parties and growing that. So it's kind of a mix of things."
+    },
+    {
+      "speaker": "Mark DeVries",
+      "speech": "Okay, great. Thank you"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Thanks Mark."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Geoffrey Dunn with Dowling and Partners. Please proceed with your questions."
+    },
+    {
+      "speaker": "Geoffrey Dunn",
+      "speech": "Thanks, good morning. Dennis, I wanted to follow up on your comments initially about working on developing next-gen cloud platforms and hiring a bunch of people to develop cloud at digital efforts. Can you maybe give some more specific examples on areas you're focused on, there has been talk obviously in the last couple of quarters front end, back end experiences, all that kind of stuff. And the other question I have is, as you develop these modules do they sit naturally on the Fast system or is the Fast system something you're also investing in and it's been your kind of core system for years? I'm just curious if that's transitioning along with these other cloud initiatives."
+    },
+    {
+      "speaker": "Dennis J. Gilmore",
+      "speech": "Yeah, thanks, Geoff. We're going to talk a little bit about -- more about these issues, just so people know what we're up to. And that's what we mentioned all the developers and engineers, we're hiring. In the Fast, I think the Fast system as system of record and ClarityFirst, igniteRE others we've got these type of systems that are going to be the customer interface for being built out in every division. We highlighted just two of them for the comeback -- for the investors right now, but we're building out new front-ends across the enterprise right now to have a more enhanced digital experience, it's kind of next-gen from how we think the digital experience will occur and we're going to continue to do that Geoff. So that's why we -- that's what we're talking about right now, we built our Clarity, we build our igniteRE we've done, again going across all of our divisions. So that's going to be an ongoing effort. We see the business moving into a digital future and we believe we're leading that and we're going to continue to lead that effort. So that's how we're thinking about that technology. And I think we've talked a lot about the data and how that effort is driving greater innovation for bigger title automation also."
+    },
+    {
+      "speaker": "Geoffrey Dunn",
+      "speech": "Okay. Okay. I guess I'll leave it there."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of John Campbell with Stephens. Please proceed with your questions."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Hey guys, thanks for the follow-up here. I think I might have missed this, but could you run through the July to-date purchase and refi trends on the resi side?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Yeah, John, sure. So far July on the purchase side, we're opening about 2300 purchase orders a day with open and on the refinance side, we're almost its at little bit below 1700 a day and we -- anything in the first week or so with refi we were about 1400-1500, we have seen a pickup just in the last 2 days with the rates moving. But to answer your questions for the month to-date in July, we're almost 1700."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Okay. And I don't know if you have the clarity in the system or if you guys have insights into the -- onto the price side, but it looks like that all systems are still a go on price growth and any kind of sense of what that's looking like in July so far?"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "That is not something we track kind of intra-month, so we don't have like a month-to-date, but there is no question, we've got tailwind in terms of fee-per-file on the refi side."
+    },
+    {
+      "speaker": "John Campbell",
+      "speech": "Okay, great, that's very helpful, thank you guys"
+    },
+    {
+      "speaker": "Mark E. Seaton",
+      "speech": "Thanks John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] There are no additional questions at this time.\nAnd with that, this does conclude this morning's call. We would like to remind listeners that today's call will be available for replay on the company's website or by dialing 877-660-6853 or 201-612-7415 and by entering the conference ID 13721369. [Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 27 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Craig Barberio--Director, Investor Relations",
+    "Dennis J. Gilmore--Chief Executive Officer",
+    "Mark E. Seaton--Chief Financial Officer, Executive Vice President,",
+    "Bose George--Keefe, Bruyette & Woods -- Analyst",
+    "John Campbell--Stephens -- Analyst",
+    "Mark DeVries--Barclays Capital -- Analyst",
+    "Geoffrey Dunn--Dowling & Partners -- Analyst"
+  ]
+}

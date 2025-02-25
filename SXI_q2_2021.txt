@@ -1,0 +1,264 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning and welcome to the Standex Second Quarter Fiscal 2021 Financial Results Conference Call. [Operator Instructions] I would now like to turn the conference over to Gary Farber [Phonetic] of Affinity Growth Advisors. Please go ahead."
+    },
+    {
+      "speaker": "Gary Farber",
+      "speech": "Thank you, operator and good morning. Please note that the presentation accompanying management's remarks can be found on the Investor Relations portion of the Company's website at www.standex.com. Please refer to Standex's Safe Harbor statement on Slide 2. Matters that Standex management will discuss on today's conference call include predictions, estimates, expectations and other forward-looking statements. These statements are subject to risks and uncertainties that could cause actual results to differ materially. You should refer to Standex's most recent Annual Report of Form 10-K, as well as other SEC filings and public announcements for a detailed list of risk factors.\nIn addition, I'd like to remind you that today's discussion will include references to the non-GAAP measures of EBIT, which is earnings before interest and taxes, adjusted EBIT, which is EBIT excluding restructuring, purchase accounting, acquisition-related expenses and onetime items, EBITDA, which is earnings before interest, taxes, depreciation and amortization, adjusted EBITDA, which is EBITDA excluding restructuring, purchase accounting, acquisition-related expenses and onetime items, EBITDA margin, and adjusted EBITDA margin.\nWe will also refer to other non-GAAP measures included adjusted net income, adjusted income from operations, adjusted net income from continuing operations, adjusted earnings per share, adjusted operating margin, free operating cash flow and pro forma net debt-to-EBITDA. These non-GAAP financial measures are intended to serve as a complement to results provided in accordance with accounting principles generally accepted in the United States. Standex believes that such information provides an additional measurement and consistent historical comparison of the Company's performance.\nOn the call today is Standex's Chairman, President and Chief Executive Officer, David Dunbar and Chief Financial Officer and Treasurer, Ademir Sarcevic."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Thank you, Gary. Good morning and welcome to our fiscal second quarter 2021 conference call. On today's call, I will provide commentary on our results and the trends we are seeing in our businesses. I will then review our segment performance and outlook. Ademir will follow with a discussion of our consolidated results and financial position. Finally, I will conclude with comments on the longer-term financial framework we are introducing today and conclude with takeaways.\nNow if everyone can turn to Slide 3, key messages, I will discuss second quarter trends [Phonetic] and results. We're very pleased with our fiscal second quarter results. We had solid revenue growth at Electronics and Scientific segments year-on-year, while our Engraving segment margin improved sequentially.\nAt Electronics nearly half of the 31% year-on-year revenue increase reflected organic growth with positive trends in electric vehicles, general automotive, appliances and semiconductor equipment. Scientific revenue continued to grow at a double-digit rate with a 16% year-on-year increase driven by strong demand for COVID vaccine storage. We now believe that COVID related storage demand is likely to be at the higher end of our previously indicated $10 million to $20 million range in fiscal 2021.\nAt the Engraving segment, margin improved approximately 100 basis points sequentially due to favorable geographic mix, productivity and cost actions. Looking forward, our portfolio has never been in better condition and that's reflected in our outlook. We exited the second quarter with several positive trends positioning us well for a stronger second half and fiscal 2021. Our total backlog realizable under one year was approximately $173 million at the end of the second quarter and approximately 14% sequential increase. This reflected strength in the Electronics and Scientific segments and a gradual market recovery at Specialty Solutions. We are also actively engaged with our customers on emerging global opportunities in end markets such as electric vehicles, renewable energy and 5G. In addition, the integration of Renco Electronics is ahead of our initial plan and we are effectively leveraging its complementary customer base and end markets.\nWe also saw continued progress on our productivity and finance initiatives. We are on track for over $7 million in annual savings in fiscal 2021 from cost actions and are implementing additional productivity and efficiency initiatives, which will provide further opportunity heading into fiscal 2022.\nAt the Electronics segment while we are addressing rhodium material inflation with price actions in the near term, we are also implementing new manufacturing processes over the next two years, which will allow us to offer customers a choice of switches with rhodium or other materials removing our exposure to rhodium inflation once and for all.\nFinally, our previously announced interest expense and tax rate initiatives resulted in an approximate 15% reduction in interest expense and 510 basis point reduction in tax rate year-on-year in the second quarter fiscal 2021. We also further strengthened our financial profile in the quarter providing significant flexibility to pursue our portfolio of organic and inorganic growth opportunities. We generated strong free cash flow of $17 million in the second quarter and through the first half of fiscal 2021 have achieved 95% free cash flow to net income conversion rate.\nDuring the quarter we also repatriated approximately $17 million from foreign subsidiaries and are on track to achieve our previously announced $35 million repatriation target in fiscal 2021. We ended the quarter with a net debt to adjusted EBITDA ratio of 0.9 times, and approximately $200 million in available liquidity.\nIn regard to our fiscal third quarter 2021 outlook, we expect a moderate sequential revenue and operating margin improvement compared to fiscal second quarter 2021 results. This reflects a sequential revenue increase at Electronics, Scientific, Engineering Technologies and Specialty Solutions segments. Engraving revenue is expected to decline sequentially reflecting both geographic mix and timing of projects, but return to growth in fiscal fourth quarter 2021 both sequentially and year-on-year.\nPlease turn to Slide 4. I will begin to discuss our segment financial performance starting with Electronics. In the second quarter Electronics segment revenue increased approximately $14.3 million or 31.2% year-on-year to $60.1 million, supported by organic revenue growth of approximately 15%. Organic growth reflected a broad based geographical recovery with positive trends in electric vehicles, general automotive, appliances and semiconductor equipment end markets. In particular, as shown in the picture on Slide 4, we have a growing portfolio of content for the electric vehicle market including relays, planar transformers and coolant level and charging position sensors. The recent Renco acquisition also contributed to our revenue growth in the quarter with approximately $6 million in incremental revenue contribution year-on-year.\nElectronics operating income increased approximately $2.2 million or 28.1% year-on-year from operating leverage associated with revenue growth, productivity initiatives and profit contribution from Renco, partially offset by increased raw material prices. Our new business opportunity funnel has increased to $56 million across a broad range of markets and is expected to deliver $12 million of incremental sales in fiscal 2021.\nSequentially in the third quarter, we expect a moderate increase in Electronics revenue and operating margin. We expect further growth for relays in renewable energy and electric vehicle applications as well as recovery in reed switch demand in transportation end markets. Our near-term backlog is very healthy with backlog realizable under a year increasing $15 million or 25% sequentially in the fiscal second quarter.\nPlease turn to Slide 5 for a discussion of the Engraving segment. Revenue decreased just under 1% year-over-year to approximately $37.9 million and operating income was $6.5 million or a 6% year-over-year decrease. The results reflected the economic impact of COVID-19 on our end markets, partially mitigated by productivity and expense savings in the quarter. Sequentially, revenue increased 2.5% excluding foreign exchange and operating margin improved approximately 100 basis points to 17.1%, reflecting favorable geographic mix and our productivity and cost actions.\nLaneway sales increased approximately 9% sequentially to $12.9 million focused around soft trim tools, laser engraving and tool finishing. As highlighted to the left, we have further innovated our customer design process given the global travel restrictions due to the pandemic. Intensive customer collaboration is at the heart of the customer intimacy model in all of our businesses and was slowed by COVID-related restrictions. By utilizing high-definition cameras and 3D software, we have created a remote approval process to enable customer engagement and design approvals despite global travel restrictions, allowing us to further the design process while maintaining a high degree of client engagement. Sequentially in our third fiscal quarter, we expect a slight revenue decline and a moderate decline in operating margin at Engraving, reflecting geographic mix and project timing. In our fiscal fourth quarter 2021, we expect an increase in revenue and operating margin sequentially and year-on-year.\nTurning to Slide 6 and Scientific segment. Scientific segment revenue increased 16.1% year-on-year to $17.9 million largely due to positive trends at retail pharmaceutical chains and medical distribution companies, much of it associated with the demand for COVID vaccine storage. Operating income increased 4.4% year-on-year to $4.2 million reflecting the volume increase balanced with investments to support our growth opportunities. Sequentially in the fiscal third quarter, we expect a moderate to strong increase in revenue and operating margin to be slightly ahead of second fiscal quarter 2021. This reflects volume growth driven by continued COVID-19 vaccine storage demand balanced with reinvestment in the business for R&D and growth opportunities. The segment's backlog realizable under a year increased approximately $4 million or 65% sequentially compared to fiscal first quarter 2021. We expect COVID vaccine storage demand to come in at the high end of our previously indicated $10 million to $20 million sales range in fiscal 2021.\nTurning to the Engineering Technologies segment on Slide 7. On a year-over-year basis, Engineering Technologies revenue and operating income decreased approximately 33.9% and 60.2% to $17.5 million and $1.4 million respectively. As expected, the revenue and operating income decrease reflected the economic impact of COVID-19 on the commercial aviation market, especially engine parts manufacturing. On a sequential basis, segment operating margin increased approximately 500 basis points on a similar revenue level to fiscal first quarter 2021 as a result of product mix and our ongoing productivity actions. Besides the early stages of recovery in our aviation end markets that we are seeing, we are also well positioned for continued space end market growth. In addition to projected government launch forecasts to support NASA and national security, we also have significant opportunities in commercial space markets.\nIn the fiscal third quarter on a sequential basis, we expect a moderate increase in revenue, primarily due to the early stages of recovery in the commercial aviation end market. We expect operating margin to be sequentially similar to the second quarter due to higher sales mix of lower margin engine parts business, partially offset by productivity initiatives.\nPlease turn to Slide 8, Specialty Solutions. On a year-over-year basis, Specialty Solutions revenue decreased approximately 17.8% to $22.8 million and operating income of $3.2 million or a 26% year-on-year decrease. As expected, the revenue and operating income decline reflected the economic impact of COVID-19 pandemic on this segment's end markets. Sequentially, in our fiscal third quarter, we expect a moderate sequential increase in revenue and operating margin reflecting a gradual recovery in the foodservice industry and strong order trends in the refuse markets. Supporting this outlook, our backlog realizable under a year increased sequentially approximately $3.5 million for 35% compared to Q1 fiscal 2021, reflecting ongoing recovery in food service equipment and refuse end markets.\nFrom a strategy standpoint, our emphasis on shifting hydraulics manufacturing capacity toward higher-margin aftermarket opportunities continues with aftermarket revenue increasing 15% year-on-year. The hydraulics business is also a potential beneficiary from a potential infrastructure bill with increased investment in roads and bridges.\nI will now turn the call over to Ademir who will discuss our quarterly results in greater detail."
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "Thank you, David and good morning everyone. First, I will provide a few key financial takeaways from our fiscal second quarter 2021 results. We realized sequential improvement on several fronts during the quarter. First revenue increased at our Electronics, Engraving and Scientific segments and we expect revenue growth to continue in the third quarter in four out of our five reporting segments. From a margin standpoint adjusted EBIT margin also improved sequentially reflecting revenue growth, the impact of our cost efficiency and productivity actions, partially offset by continued rising raw material costs, primarily at our Electronics segment. We continue to focus our efforts on productivity actions and are on track to realize savings of over $7 million in fiscal '21 related to our previously announced cost actions. In addition, we further strengthened our financial profile through initiatives focused on free cash flow generation, reduced interest expense and tax rate and continued cash repatriation. We also generated approximately $17 million of free cash flow in the second quarter. We had approximately 95% free cash flow to net income conversion rate to the first half of fiscal 2021.\nNow let's turn to Slide 9, second quarter 2021 income statement summary. On a consolidated basis, total revenue increased 1.7% year-on-year and 3.3% sequentially. Year-on-year revenue increase reflected contribution from our recent Renco acquisition and foreign exchange, partially offset by the economic impact of COVID-19. Organic revenue declined 4.3% year-on-year, much of it due to the impact of the pandemic. As we expected COVID-19 economic impact was most evident at the Engineering Technologies segment due to weakness in the aviation end market and the Specialty Solutions segment to weakness in the food service equipment and hospitality industries.\nOur recent Renco acquisition and foreign exchange impact offset the organic revenue decline. Renco contributed approximately $6 million to revenue or 3.9% offset to the organic revenue decline on a consolidated basis. In addition, FX contributed a 2% increase to year-on-year revenue growth.\nOn year-on-year basis our adjusted EBIT margin declined by 60 basis points to 11.4%. This decline was primarily due to the economic impact of COVID-19 pandemic, increased raw material cost and increases in research and development initiatives offset by cost and productivity actions. On a sequential basis adjusted EBIT margin increased 40 basis points.\nInterest expense decreased approximately 17% year-on-year primarily due to lower overall interest rate as a result of the previously implemented variable to fixed rate swaps. In addition, our tax rate of 20.9% in the second quarter of 2021 was largely due to various tax optimization strategies we began to implement earlier in the fiscal year. For fiscal 2021 we continue to expect approximately 22% tax rate. This assumes a tax rate in the mid 20% range in the third quarter and a tax rate in the low 20% range in the fourth quarter of 2021. Adjusted earnings per share was a $1.05 in the second quarter of '21 compared to $0.99 a year ago.\nPlease turn to Slide 10, second quarter '21 free cash flow. We continue to consistently generate free cash flow with a conversion to net income of over 140% in the second quarter of '21. We reported free cash flow of $17 million inclusive of $4.8 million pension payment, compared to $3.6 million a year ago. This free cash flow increase reflected solid working capital performance as we deleveraged the balance sheet by approximately $9 million in the quarter.\nNext please turn to Slide 11, a summary of Standex's capitalization structure and liquidity statistics which remain strong. Standex had net debt of $90.9 million at the end of December, compared to $106.2 million at the end of September. Net debt for the second quarter of '21 consisted primarily of long-term debt of $200 million and cash and equivalents of approximately $109 million with approximately $80 million held by foreign subs.\nOur financial strength was evident in several of our key metrics. Standex net debt to adjusted EBITDA leverage ratio was approximately 0.9 at the end of the second quarter with a net debt to total capital ratio of 15.4%. The Company's interest coverage ratio increased sequentially to approximately 10.3 times.\nWe had approximately $200 million of available liquidity at the end of the second quarter and continued to repatriate cash with approximately $17 million repatriated during the quarter. We remain on plan to repatriate approximately $35 million in fiscal '21. From a capital allocation perspective, we repurchased approximately 36,000 shares for $2.5 million. There is approximately $35 million left remaining on our current repurchase authorization. We also declared our 226th consecutive quarterly cash dividend on January 28 of $0.24. Finally, we continue to expect fiscal 2021 capital expenditures to be between approximately $25 million to $28 million.\nI will now turn the call over to David to discuss our longer-term financial framework and closing comments."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Thank you, Ademir. If everyone can please turn to Slide 12 for a discussion of the financial targets we are introducing today. Over the past few years we have meaningfully transformed our portfolio around high-quality businesses with attractive growth and margin profiles as well as strong end markets and customer value propositions. As a result of these substantial changes, our portfolio has never been in a better position. We believe it is now appropriate to provide a longer term, that is three to five-year, financial outlook.\nSpecifically, we are targeting mid-single digit consolidated organic revenue growth on a compound annual basis. Our outlook assumes a continued macroeconomic recovery. Our businesses are well positioned to grow in exciting areas such as electric vehicles, renewable energy, smart grid, space commercialization, vaccine storage and 5G. We also have an active new product development process for our business, particularly in Electronics, Scientific and Engraving segments.\nWe are targeting an adjusted EBITDA margin in excess of 20% compared to the 16.4% we reported in fiscal 2020. A few productivity initiatives to highlight include improving our Electronics cost position by implementing new manufacturing processes to address rising raw material prices, ongoing operational excellence actions to further standardize operating discipline across business units and continuing to fully leverage our G&A structure. We believe a free cash flow conversion ratio of 100% is achievable under these assumptions, particularly, given our continued working capital focus. Finally, it is our expectation that with this financial performance and disciplined capital allocation, we will increase our return on invested capital to above 12%.\nPlease turn to Slide 13. We will continue to exercise discipline in our capital allocation process as illustrated in this page. We have recently increased our hurdle for internal growth investments to over 20% IRR. In addition, we will continue to buy back our shares on an opportunistic basis.\nPlease turn to Slide 14 for some key takeaways. We expect a moderate revenue and operating margin improvement in fiscal third quarter 2021 compared to fiscal second quarter 2021 results and are well positioned for a stronger second half fiscal 2021. We also provided a longer-term financial outlook today reflecting our meaningfully transformed portfolio focused around businesses with attractive growth and margin profiles as well as strong end market and customer value propositions. Our substantial financial flexibility allows us to be opportunistic with an active pipeline of organic and inorganic growth opportunities. Our ongoing productivity and efficiency initiatives provide further opportunity to leverage these trends for improved financial performance.\nOperator, I will now open the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The first question comes from Chris Howe of Barrington Research. Please go ahead."
+    },
+    {
+      "speaker": "Christopher Howe",
+      "speech": "Good morning, David and Ademir."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Good morning, Chris."
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Christopher Howe",
+      "speech": "And congrats on the quarter."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Christopher Howe",
+      "speech": "Wanted to start with, you mentioned the incremental COVID-19 contribution remaining consistent at $10 million to $20 million with a likelihood of coming in near the high end of that range. Of this incremental revenue contribution, I'm not sure if you've mentioned it before, but can you talk about margin for that incremental revenue? And as it relates again to the Scientific segment, a follow-up is the R&D and growth opportunities that you're reinvesting in and any opportunities for pricing as we look at margin for the Scientific segment. Thanks."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Okay. So first question -- margin, these are cabinets that are very -- very similar if not identical to some models we already sell. So the margins are going to be consistent with historic margins of that business. Obviously, with the volume we leverage our fixed cost a bit. So we'd see some pickup there.\nThe question about R&D, I think as the year rolls on, we will be announcing some new products. We have a very active pipeline and we'll be releasing those new products to get into some new product categories that are adjacent and very close to the core products in our business.\nIn terms of pricing, the business takes a very thoughtful approach to pricing. Every model we kind of take a look at where our product fits relative to competition. We have a good price to value relationship. We are somewhat dynamic in your pricing right now when it comes to delivery considerations. So if customers call, they need something quickly or they need very high volume of parts we sometimes get price for shorter delivery."
+    },
+    {
+      "speaker": "Christopher Howe",
+      "speech": "That's great. And another question I had, in regard to Specialty Solutions, you mentioned we're on a gradual recovery. In this scenario, perhaps as we look into fiscal Q4, let's say, the timing works out and there is a full reopening within your end markets, how would you expect demand to come back in Specialty Solutions versus the relative end market recovery?"
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Well, Q2 of those businesses are tied to food equipment -- food service equipment end markets and the reopening would most dramatically affect them. And our working assumption has been that by Q4 of our calendar year, so November, December. The reopening is well under way and that -- those end markets return to kind of pre-COVID levels end of this calendar year or early next calendar year and our businesses would follow.\nNow within there also just the hydraulics business, which is -- is it back to pre-COVID levels already?"
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "It's getting there. At the end of Q4, it's kind of already --"
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "We project that by the time our fiscal Q4 comes around that business will be back more or less to pre-COVID level."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "So that's about half of Specialty. The other half are the food service equipment businesses."
+    },
+    {
+      "speaker": "Christopher Howe",
+      "speech": "Okay. And lastly because of the good news nature of the long-term outlook, three to five-year plan, I am assuming inorganic growth during this time period will be additive and perhaps push the organic growth rate to the high to low teens potentially depending on whether it's a tuck-in or something more meaningful."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah. Exactly. Right. If you -- several years ago when we gave guidance like this, we made an estimate of what our inorganic sales numbers will be, but it was impossible to predict. So we just took it out and you are absolutely -- absolutely right. Any inorganic activity would be on top of that number."
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "And as you know we have a pretty strong balance sheet and ability to react quickly on attractive inorganic opportunities. So really we project to continue to remain active."
+    },
+    {
+      "speaker": "Christopher Howe",
+      "speech": "Yeah, that's what I was kind of taking into consideration. There seems to be additional upside surrounding these longer-term targets because these longer-term targets, I assume are under the framework of the existing businesses and there could, not saying there will, be even more simplified portfolio in the many years to come. Yeah. Thanks for taking my questions. That's all."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah. Thank you, Chris."
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Chris McGinnis of Sidoti & Company. Please go ahead."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "Good morning. Thanks for taking the questions. Nice quarter. I guess just a follow-up on that. Just can you talk about the M&A outlook at this point, what you're seeing in valuations, are they picking up or how they've changed maybe through the pandemic and the opportunity you see out there? Thanks."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Well, we have a very active pipeline and a lot of the deals that we've done in the past have been privately held companies and have not been part of the process. And those are often the product of years of getting to know each other, relationship building, just a series of many, many contacts, phone calls and meetings. So those are going on as actively as ever.\nI would say in terms of -- it's hard to say what's going on with multiples because in our space a lot of the deals we thought would be taking place in the last year kind of been put on hold as owners want to wait and see how the economy develops. So I guess I don't have a perspective on multiple changes."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "Sure. Okay. I appreciate that."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "And then just -- I guess just for my clarification just around the Scientific piece of the business, you talked about COVID. I thought the product that you had wasn't as specific to COVID. So was that a -- is that a new product offering or can you just expand on that a little bit? I thought it was more for flu vaccines when you were talking in previous calls. Thanks."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Well, last summer we had -- we were reporting, we got a lot of orders in the summer for the just traditional flu season. But the cabinets that we sell for COVID storage are the same cabinets or in some cases they are slightly different, but they are plus 5 degree, minus 20 degree.\nAnd I think where a lot of people get confused -- I shouldn't say confused, but there's been so much press in the -- and coverage of the minus 70, minus 80 degree storage requirements for the Pfizer vaccine and there was a real ramp-up in that ultra low temperature storage for their production facilities, large warehouses and distribution and so everybody tended to think, oh, COVID vaccine storage equals minus 70, minus 80. But where we play is in the last mile of delivery. So the cabinets that get put into doctors' offices and pharmacies are minus 20 degrees plus 5. So even the Pfizer vaccine, it gets taken out of these minus 70 degree transportation containers and it can be put in a minus 20 or plus 5 refrigerator or freezer for several days before it's administered. So the bulk of the products we're selling that are for COVID vaccine storage are essentially the same products we've been selling for flu -- seasonal flu storage."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "Thanks. Thanks for that clarification. I appreciate it. I wasn't aware of that. So I appreciate."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "Just -- it sounds good that on the Engineering side, it seems like starting to come back, maybe a little bit. Can you also just highlight just the commercial space markets, the kind of growth you're seeing with that business, just given all the kind of the action taking place in that market? Can you just talk about that outlook and how that's faring? Thanks."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah. No secret, there is a lot of activity and we have a great position with our Billerica plant the dome for tanks on large rockets. The -- how to quantify this. We see that the number of launches, if you take everything that NASA is planning and the traditional demand for space over the next five years, add to that the new commercial ventures like Amazon putting up their network of satellites, for example, will virtually double space activity over the next five years space launches and the end market for our products will follow that same trajectory. And our sales in the space have been in the mid $20 million [Phonetic] to $30 million [Phonetic] kind of year in, year out for many years. And so we see -- we see [Speech Overlap]."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "And I guess just thinking about it, would you need to invest and expand to accommodate that growth or can Billerica handle and support almost the doubling effect?"
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "We would have to make some investments. It depends on when those different projects hit. But -- yeah, there would be some additional investment."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "Okay. Great. And then just -- I know you just put it out, but just on that 20% EBITDA margin range, how high can you get in the -- with the current portfolio and what would be the main drivers in getting to that -- maybe to a higher end of the number?"
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Well, let's get to 20% first -- 20% first because it's no secret. I mean, you look at our -- you look at our big businesses, Electronics we consistently say and we're very confident, it is 20% EBIT business, so it has the DA [Phonetic] in the low to mid 20%s. Engraving is 20% EBIT, just a few points of DA [Phonetic] there, Scientific. So those businesses as they grow, obviously they're already in -- so I understand where your question is coming from. But our path to get about 20% in the next three to five is we put this rhodium issue behind us once and for all over the next couple of years. We are -- Jim Hooven is working very closely with the Engraving Group on labor efficiency, which will improve the consistency and predictability there.\nAnd we're starting to put in place some exciting kind of back-office infrastructure so that we can become more efficient with G&A over the coming years. And so that -- that will certainly power us to the 20% EBITDA and then -- when I came here, the target I picked up from Roger, would you recall, he said 15% EBITDA. We got there after a couple of years. We raised it to 17%. We're basically there now. So we continually raise these targets as the business matures and our performance dictates."
+    },
+    {
+      "speaker": "Chris McGinnis",
+      "speech": "Great job in the quarter. Good luck in Q3 and thanks for taking my questions."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Chris Moore of CJS Securities. Please go ahead."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Hey. Good morning, guys."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah, Chris."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Good morning. The $7 million in savings that you're on track for, roughly how much of that was kind of recognized in the first half of the year?"
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "Yeah, Chris. I think as we said previously most of that -- most of the readout would be kind of sort of first three quarters of this fiscal year. So I would probably tell you within the first six months, maybe two-thirds of that $7 million has been recognized already."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Got it. Thanks. Talking a lot about the three segments, 20% operating margin, potential Scientific is already there. Safe to say that the path to 20% is probably a little clearer for Electronics than Engraving right now?"
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "I wouldn't say -- I think the Engraving team has a clear idea what they need to do and it is primarily labor efficiency and driving the best practices consistently around the world. So with Electronics, it's more focused on one single item of rhodium. So it's maybe a little more simple in that way."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Got it. And the EV opportunity within Electronics, can you just remind me roughly how much of auto is in Electronics at this point in time?"
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Total auto is in kind of the low 20%, between the sensors we sell and what goes through distribution. And -- for example this last -- last quarter our sales into EV applications was about $2 million in that business. So it's not a huge number now, but it's growing fast, I mean, you look at the projections for electric vehicles.\nOur current content in those vehicles that we're on is about twice our content on -- compared to a traditional combustion engine vehicle. And there are some additional applications we are pursuing that could increase the content beyond that. So even though it's a relatively small number, it provides a healthy portion of the growth that Electronics will see in the next five years."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Got it. That's helpful. Fiscal '22, obviously a long way away, big picture when you look at the segments from what we're talking about, Electronics appears to be in very good shape from revenue and margin standpoint. ETG and Specialty are certainly going to be helped as COVID winds down. Scientific, it seems like the one put and take there would be the COVID refrigeration sales that you had in '21. So, I guess the question is do you have any thoughts in terms of that COVID revenue continuing into '22 or any thoughts there?"
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Yeah. So the -- just to kind of put some numbers around this, when we first estimated that $10 million to $20 million number, it was based on the numbers -- there is about 30,000 retail pharmacies in America, about 100,000 physicians offices, 35,000 hospitals, clinics, urgent care facilities and we estimated how many of those sites would be adding storage. We know what our market share is in those segments.\nAnd I would tell you that -- our communication that we anticipate being toward the upper end of that $20 million, that would be on pace to outfit about one-third of the pharmacies with the storage unit. So the question then would be once we get into the summer and our new fiscal year, will there be a continued build-out of that last mile of vaccine distribution into the remaining pharmacies and clinics and urgent care and it's frankly premature for us to say."
+    },
+    {
+      "speaker": "Christopher Moore",
+      "speech": "Got it. Very helpful. I'll jump back in line. Thanks, guys."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Ademir Sarcevic",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to David Dunbar for any closing remarks."
+    },
+    {
+      "speaker": "David Dunbar",
+      "speech": "Thank you. In closing, we made solid progress in the fiscal second quarter and expect continued improvement in the second half of fiscal 2021. Long-term outlook is reflective of the significant transformation we've accomplished at Standex in the past few years. I want to thank everyone today for their interest in Standex and allowing us the opportunity to discuss with you our results and accomplishments in our fiscal second quarter.\nLast and not least, I want to thank all of our employees. It's a pleasure to get up every day, work together and transform this company. And I thank our shareholders for your continued support. We look forward to speaking with you again on our third quarter fiscal 2021 call. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 41 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Gary Farber--Investor Relations, Affinity Growth Advisors",
+    "David Dunbar--President and Chief Executive Officer",
+    "Ademir Sarcevic--Vice President, Chief Financial Officer and Treasurer",
+    "Christopher Howe--Barrington Research Associates -- Analyst",
+    "Chris McGinnis--Sidoti & Company -- Analyst",
+    "Christopher Moore--CJS Securities, Inc. -- Analyst"
+  ]
+}

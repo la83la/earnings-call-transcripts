@@ -1,0 +1,322 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, everyone. Welcome to ProAssurance's conference call to discuss the company's third quarter 2020 results. These results were reported in a news release issued on November 5, 2020, and in the company's quarterly report on Form 10-Q, which was also filed on November 5, 2020. Included in these documents are cautionary statements about the significant risks, uncertainties, and other factors that are out of the company's control and could cause ProAssurance business and alter expected results.\nPlease review those statements. Management expects to make statements on this call dealing with projections, estimates and expectations, and explicitly identifies these as forward-looking statements within the meaning of the U.S. Federal security laws and subject to applicable Safe Harbor protection. The content of this call is accurate only on November 6, 2020, and, except as required by law or regulation, ProAssurance will not undertake and expressly disclaim any obligation to update or alter information disclosed as part of these forward-looking statements.\nThe management team of ProAssurance also expects to reference non-GAAP items during today's call. The company's recent news release provides a reconciliation of these non-GAAP numbers to their GAAP counterparts.\nNow, as I turn the call over to Mr. Ken McEwen, I would like to remind you that this call is being recorded, and that there will be time for questions at the conclusion of prepared remarks. Mr. McEwen, please go ahead."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Sure, Ken. In the third quarter, we continued to see improvement in our underlying operations, as the beneficial results from our reunderwriting and restructuring efforts begin to manifest this lower recurring operating expenses and improved loss experience in each of our operating segments. As onetime incurred charges related to these efforts are put behind us, we anticipate a continued favorable trajectory into the fourth quarter and into 2021.\nAside from our regular operating results, we continue to learn more about the COVID-19 virus as each day passes, and we gain insight into the impact it has on our business and those of our customers. There is still much to learn about the disease. While we have seen some favorable claims trends that are likely the result of the pandemic, we've remained cautious in recognizing these trends in our results, given the uncertainty surrounding the length and severity of the pandemics.\nUnfortunately, the continued market volatility caused by COVID-19 and sustained depression of our stock price has overshadowed the improvements we've made this year. I'll let Dana expand on the goodwill impairment charge we announced in yesterday's release, but I want to note that the charge has no effect on our liquidity or our statutory entities and is strictly an accounting transaction. As I mentioned in yesterday's release, I remain confident that our solid foundation and the strategic initiatives we have undertaken in the past 16 months will reward our customers, shareholders and employees in the quarters and years to come. Dana?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Thanks, Ned. I'll start with the goodwill impairment charge recognized in the quarter as it had the largest impact to our net results. We routinely review our goodwill for potential impairment annually on October 1. Because of continued market volatility caused by COVID-19 and the sustained depression of our stock price, we performed interim quantitative impairment tests in the third quarter.\nMore detail is available in our filed Form 10-Q. But to summarize, we determined that while no impairment was necessary for our workers' compensation or segregated portfolio sale reinsurance reporting units, a full impairment of goodwill was indicated for the specialty P&C reporting unit. Consequently, we recorded a noncash pre-tax goodwill impairment charge of $161.1 million, which drove a net loss in the third quarter of approximately $150 million, or $2.78 per share.\nImportantly, we reported non-GAAP operating income of $2.6 million in the third quarter, or $0.05 per share. This excludes the effects of certain items, primarily the goodwill impairment and realized investment gains. This result reflects lower consolidated net premium earned, largely offset by lower current accident year net losses and loss adjustment expenses and lower operating expenses. Each of these components will be discussed in more detail in the segment-specific portions of our call, but I think it's important to note here that they are all primarily related to the intentional restructuring and reunderwriting efforts completed over the past year.\nConsolidated net investment income decreased quarter-over-quarter to $16.9 million. This was primarily attributable to our lower allocation to equity securities, coupled with lower yields on our short-term investments and corporate debt securities, given actions taken by the Federal Reserve to reduce interest rates in response to COVID-19. However, we reported $4.9 million in income from our unconsolidated subsidiaries. We invest in various LPs and LLCs, and the results of those investments are typically reported on a one quarter lag. Accordingly, the earnings from unconsolidated subsidiaries in the current quarter represents the recovery and value of our LPs and LLCs in the second quarter of 2020.\nFor the third quarter, our consolidated current accident year net loss ratio was 80.7%, a decrease of 1.6 percentage points quarter-over-quarter as the early results of our strategic underwriting efforts of the past year are beginning to manifest in our specialty P&C business. The decrease was also driven by continued favorable loss trends in our workers' compensation business.\nEach of our segments contributed to the $11.5 million of net favorable development we recognized in the third quarter. While lower than the year ago period, we want to emphasize that we continue to exercise caution, given the current loss environment.\nOur consolidated underwriting expense ratio was 30.5% in the quarter, an increase of 1.8 percentage points from the year-ago period. The increase is attributable in part to lower earned premiums, but what is most important to know is that expenses in the current quarter included $3.2 million in onetime charges associated with the restructuring that resulted in 78 position elimination through a combination of early retirement, job eliminations, reassignments and promotions that spanned our entire organization. This restructuring is expected to result in annual savings of approximately $7.4 million in addition to other expense saving initiatives earlier this year.\nThe takeaway is that we have taken specific and permanent action to improve our underlying expense structure without sacrificing excellence in service. More details about the restructuring will be provided in Mike's and Kevin's remarks later. This leads us to a consolidated combined ratio of 105.3% for the third quarter.\nIn summary, we continue to see incremental improvements in our operating results as the strategic initiatives of the past 16 months gained traction. We also anticipate expenses will normalize for the remainder of the year, furthering the gains we've seen to date.\nNow, I'd like to ask Mike to start our segment-specific portion of the call with the specialty P&C segment. Mike?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Thank you, Dana. The specialty P&C segment recorded a third quarter loss of $12.5 million. Now, while we're not satisfied with the result, it does reflect an improvement from the first and second quarters of 2020. And there are a number of encouraging aspects of the quarter, which I'll expand upon throughout my comments.\nGross premiums written were $158.3 million, a decrease of 4.1% percent quarter-over-quarter, reflecting our reunderwriting efforts in healthcare professional liability and timing differences in the regular renewal cycle of 24-month policies. Notably, within our specialty book, we have reduced gross premiums written in our Senior care line by almost 82% quarter-over-quarter. Further, the timing differences related to the 24-month policies in our standard physician line contributed $3.9 million to the reduction. We have begun the process of converting all 24-month policies to 12-month policies, which we anticipate will be completed early in the second quarter of 2021.\nAs we've discussed in recent quarters, the reunderwriting efforts began in the third quarter last year following the new executive hires in our healthcare professional liability underwriting operation during the previous quarter. As of the end of the third quarter 2020, these targeted reunderwriting efforts in our HCPL business are substantially complete. We expect to benefit from the reunderwriting efforts in future quarters. We continue to focus on underwriting discipline and achievement of our long-term profit objectives, shrinking the segment's top line, if necessary, to improve our bottom line.\nIn relation to these strategic underwriting efforts, premium retention in the segment was 81% for the quarter, driven largely by a 55% retention in our specialty lines primarily related to the Senior care line of business and includes a nonrenewal of a $5.6 million policy in that line during the quarter. In our Standard Physician line, retention was 85%, lower by two percentage points quarter-over-quarter, reflecting our state-specific pricing adjustments in challenging venues and competitive market conditions. However, we continue to deliver strong premium retention results in our medical technology liability business and small business units, which were 85% and 92%, respectively.\nThe segment's lower premium retention was largely offset by renewal premium increases of 14% in specialty and 10% in Standard Physician. In addition to the rate increases in specialty, we have also significantly strengthened rate adequacy through our improvement of product structure, terms and conditions.\nNew business writings in the segment were $8.7 million in the quarter compared to $9 million a year ago. This result reflects careful risk selection, disciplined underwriting evaluation; and, to a lesser degree, the impact of slower submission activity due to market disruptions from COVID-19. New business writings in our medical technology liability business increased to $2 million compared to $1.3 million in the third quarter last year as demand for pandemic-related products in the medical technology space continues to rise.\nThe current accident year net loss ratio was 89.8% in the quarter, a 4.7 percentage point improvement from the year-ago period, attributable to underwriting efforts and price strengthening. Furthermore, the current accident year net loss ratio for the first nine months of 2020, excluding the large national healthcare account tail policy and the $10 million COVID reserve, is approximately 6.5 percentage points lower than the full-year ratio for 2019.\nIn the quarter, we continued to observe a significant reduction in our claims frequency as compared to the same quarter in 2019, likely associated with COVID-19. However, we remain cautious in recognizing these favorable frequency trends in our current accident year reserves due to the possibility of delays in reporting and uncertainty surrounding the length and severity of the pandemic. We have not booked any additional IBNR reserves related to the pandemic during the quarter after carefully reviewing virus-related claim activity.\nDespite the current loss environment, we recognized net favorable prior-year development of $2.9 million, of which $2.5 million is attributable to our medical technology liability line. As previously stated, we remain conservative in our views of prior-year loss development as a result of the current loss environment.\nThe specialty P&C segment reported an expense ratio of 23.8% in the quarter, essentially flat from the same quarter last year. The expense ratio reflects improvements in our expense model made during the past year, offset by related onetime restructuring expenses of $1.8 million and lower net earned premium. This restructuring is expected to result in annual savings of $3.6 million in addition to other expense savings measures we've disclosed previously.\nAs a result of our prior organizational structure enhancements, restructuring field offices and staff reductions, we anticipate quarterly run rate expense savings of $3 million in the segment, or $12 million annually. We continue to build an operating model that positions us well to be successful throughout the various insurance and economic cycles.\nI'll conclude with a brief update on the NORCAL transaction. We continue to proceed through the regulatory and integration planning process. However, once we receive preliminary regulatory approval of NORCAL's proposed plan of conversion, there will be a 60- to 90-day solicitation period before the deal can close, and we anticipate the deal will close in the first quarter of 2021.\nThe NORCAL group, its employees, agents and customers represent an exciting expansion in the standard physician marketplace. Upon completion of the transaction, approximately 75% of our healthcare professional liability business will be written in the Standard Physician's line, a marketplace in which we have deep expertise and a successful history of profitability.\nWe remain excited about the combination of the companies and our future together, and we'll continue to work together with the NORCAL team to complete this transaction."
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Thank you, Mike. Now I'll turn it over to Kevin Shook for comments about the results of the workers' compensation insurance and Segregated Portfolio Cell reinsurance segments. Kevin?"
+    },
+    {
+      "speaker": "Kevin Merrick Shook",
+      "speech": "Thank you, Ken. The workers' compensation insurance segment produced income of $1.5 million and a combined ratio of 97.4% for the third quarter of 2020. During the quarter, the segment booked $63 million of gross premiums written, a decrease of 10% quarter-over-quarter. Renewal price decreases were 3% for the quarter, representative of the continued competitive pressures in our underwriting territories despite COVID-19 and the associated economic conditions.\nPremium renewal retention was 86% for the 2020 quarter compared to 84% in 2019 as we continued to see stronger premium retention each month during the pandemic. New business writings decreased quarter-over-quarter to $7.4 million in 2020 compared to $11.3 million in 2019. Audit premium for the third quarter of 2020 resulted in return premium to policyholders of $1.6 million compared to additional premium to the company of $1.8 million for 2019, a quarter-over-quarter decrease attributable to the economic impact of COVID-19 on policyholder payrolls. We continue to expect downward pressure in future quarters on direct and net written premium resulting from changes in payroll estimates.\nThe calendar year net loss ratio decreased 3.2 percentage points to 62.2% in the third quarter due to a decrease in the current accident year loss ratio and higher prior-year net favorable reserve development of $2 million in 2020 compared to $1.4 million in 2019. The reduction in the 2020 accident year loss ratio from 70.4% at June 30, 2020 to 69.2% at September 30, 2020 was driven by our recognition of favorable claim trends in the 2020 accident year, which I'll describe in more detail momentarily.\nAs this reduction was fully recognized in the current quarter, the result is a third quarter current accident year loss ratio of 66.9%. The 2020 accident year loss ratio of 69.2% at September compares to 68.2% for the same period in 2019 and reflects the impact of renewal rate decreases and negative audit premium, partially offset by the favorable claim trends in 2020.\nWe've seen a 36.5% decrease in reported claim frequency during the pandemic with only $1.3 million of gross undeveloped incurred losses from the currently reported 447 COVID claims. However, management remains cautious in its evaluation of the 2020 accident year loss ratio, considering the many uncertainties surrounding the pandemic. Our claims professionals remain highly effective while working remotely, closing 47% of 2019 and prior claims during 2020, consistent with historical claim closing rates.\nLegislative attempts to broaden coverage for workers' compensation claims seem to have lost traction in certain states as their economies attempt to remain open and legislators focused on elections recently. We can only conjecture that a second wave, or the continuation of increased reported cases, may revive efforts in this regard.\nTurning now to expenses. The underwriting expense ratio in the quarter was 35.2% compared to 30.1% in 2019, reflecting the decrease in net premiums earned and a onetime severance charge of $923,000 related to our restructuring, which I will describe in more detail shortly. Underwriting and operating expenses were $15 million for the third quarter of 2020, essentially flat from 2019 despite the included severance charge.\nTurning to the Segregated Portfolio Cell Reinsurance segment, income was approximately $1.2 million for the quarter, which represents our share of the net underwriting profit and investment results of the captive programs in which we participate. Premium and loss trends in the SPC Reinsurance segment were consistent with those in workers' compensation. We renewed all the alternative market programs available for renewal during the current quarter and year-to-date.\nI will wrap up by discussing recent restructuring initiatives in our workers' compensation business. COVID-19 continues to present challenges for all in the insurance marketplace. Policyholders, agency partners and insurance carriers are conducting business in ways previously unimaginable, and in some cases representing a new normal.\nGiven these challenges, we have used the past seven months to thoroughly review the impacts of COVID and the external environment on our business, agency partners' operations, and valued customer base, with the ultimate goal of enhancing our service platform to meet the ever-changing needs of the marketplace and those presented most recently.\nOur detailed strategic review led us to make permanent organizational adjustments to our business model. We believe these structural enhancements will allow us to grow our business profitably while strengthening our industry-leading products and services. These changes include repositioning from five regions to three for more effective and efficient management of the underwriting, risk management and claims processes, improving the consistent application of our business model while maintaining our local service teams. We integrated small business and underwriting support functions into one unit for each with dedicated leadership, which will allow us better turnaround time on policy submissions while continuing our individual account underwriting philosophy that has been a resounding part of our success in workers' compensation.\nLastly, we realigned our previously stand-alone captive team into our regional structure to improve accountability, and we streamlined our marketing operations to extend more agency management responsibilities to the decision-makers in the underwriting process. These changes resulted in some early retirements, job eliminations, reassignment and promotions. Striving for continuous improvement and proactive enhancements to business models are imperative as circumstances, economic trends and changing insurance markets present themselves; and importantly, before the full operational and financial impacts are realized.\nConsistent with our history of evolving to meet the demands of the changing environments in which we operate, these structural enhancements will strengthen our workers' compensation business further and were applauded by our agency partners and customers. The restructuring implementation commenced September one and is expected to result in an annual savings of approximately $3 million in addition to other expense management measures. Ken?"
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Thank you, Kevin. Ned, before we get to your closing comments, I'd like to turn to the Lloyd's Syndicate segment for a moment. Is there anything you want to tell us about the results from London?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Thanks, Ken. And yes, there were several notable changes to our results at Lloyd's from the prior year quarter. First, our results in the quarter were income of $3.7 million, one of the best quarters we've had since we invested in the syndicates. Our combined ratio improved 10.5 percentage points to 89.6%, as both net losses and underwriting expenses were reduced by over 20%.\nIn addition, as a result of our reduced participation, in the third quarter we received a return of approximately $32 million from our funds at Lloyd's. Lastly, Syndicate 6131 entered into a quota share reinsurance arrangement with an unaffiliated insurer, effectively reducing our net participation in the syndicate by half. The agreement is effective July 1, 2020, so it will not be reflected in our results until the fourth quarter of 2020 due to the quarter lag.\nWe continue to work closely with Dale Underwriting Partners to monitor the global legislative situation pertaining to COVID. Thankfully, contractual policy language has largely held against attempts to expand coverage where no coverage was intended particularly in the United States, and our loss estimates to date have held up.\nSpeaking of loss estimates, given the number of natural catastrophes that occurred during the quarter, I want to note that, to date, our exposure to these events has been within our cat expectations for the fourth quarter.\nBefore we open the call to questions, I want to reiterate that the changes we've implemented in the quarter and over the past 16 months have been important. The changes are focused on both achieving our long-term profitability goals and enhancing the excellent products and services we provide to our customers.\nAs a company, we have always operated with the understanding that the long cycles inherent in our industry will challenge us in troughs and reward us in peaks. Our role as a specialist is to be the absolute best possible choice for our customers regardless of the stage of the cycle in which we find ourselves.\nTo that end, I want to quantify our actions taken to date. You heard in Dana's remarks and throughout the call about our initiatives in each of our segments and related onetime charges, but I think it would be helpful to consolidate that information for the big picture.\nAs a result of our strategic initiatives in 2020, we anticipate $17 million in annual expense savings. This is on top of initiatives taken in 2019 that reduced annual costs by $5 million. This brings us to estimated cumulative annual cost reductions of approximately $22 million since this leadership team was put in place over 16 months ago, which includes an overall reduction in our workforce of approximately 13%.\nThus far in 2020, we've recognized a little over $5 million in onetime charges primarily related to early retirements and job eliminations. These changes, though painful, are necessary as we create the next iteration of ProAssurance and position the company for success. As we head into the final quarter of 2020, I look forward to an exciting 2021."
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Thank you, Ned. Cole, that concludes our prepared remarks. We are ready for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And our first question today will come from Greg Peters with Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "Good morning. So let's go back to NORCAL. Everything is going on track. Since this is going to be a pretty major acquisition, can you talk about how their results have trended on a year-to-date basis, and if they are deploying any reunderwriting initiatives, etc. Just so we can have a sense of how the two organizations might look when they're combined?"
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "Mike, do you want to take that?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Sure, sure. Good morning, Greg. As far as the NORCAL results through nine months, they're certainly executing on an underwriting plan with a rate achievement and looking at their specialty book of business is similar to ours. So we're pleased with that. They're certainly booking higher accident year loss ratios. I believe it's high 90s and kind of a combined ratio -- you know kind of 120 range through 9/30.\nThe other thing I'd say just overall is they're seeing the same things we are with less claims frequency in their accident year 2020 accident year book of business as a result of the uncertainty of the pandemic. And I think as you look at the combination of the companies, Greg, there's about $20 million of expense synergies. And we will proceed with a very consistent underwriting model and strategy when we combine the companies together.\nAnd I think the other thing to keep in mind on the transaction, just from a strategic standpoint, is we're combining our roughly $250 million of Standard Physician business with theirs. And that's been the more profitable segment of the market. Theirs represents roughly $250 million to $275 million. And as we put them together, we will certainly take advantage of the geographic diversification and all the expense synergies and combine our underwriting strategies\nAnd I'll just say there, it's been a more profitable piece of the NPL business over the cycle. And they also have a smaller specialty book of business relative to ours. So the game plan is to integrate, build an attractive national platform with scale on a regional basis, and continue to work hard to bring the organizations together to produce a profit for shareholders."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "So just one follow-up on the NORCAL. You know, if I look at your specialty PC business, and you guys provided detail around why the top line is moving down, is it fair to assume that their top line, their gross premium written and their net written premium on a year-to-date basis is also down between 5% and 10%, like yours?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Greg, I'd have to check notes on that. But for sure, in Specialty, I think the Standard Physician book has been much more stable for them."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "Got it. All right."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "And I think important to that is the Specialty book at NORCAL is very small. I mean, it is 90-plus percent just physician business. So that doesn't have the impact that it would have like it does on our book."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "So let's just be clear, you said it's running around 120% combined ratio year-to-date. That's their total business, correct?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "That's correct."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "Okay. I mean, I have a capital question, but before I get to that, I just -- net investment income. So just look at the consolidated numbers. And I know you provided some detail on why certain things are down. But on a year-to-date basis, it's down 20%, down 28.5%, just from page one of your press release in the third quarter.\nI understand there's a lot of moving pieces with the volatile markets, etc. But when -- we're sitting here on the outside looking in, and what kind of guidepost can you put around our investment income assumptions? And let's keep NORCAL aside. When we think about 2021 and 2022, is it going to stabilize at this new run rate? Is it going to go up? Can you help us put something together there?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Dana, do you want to respond to that?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Yes. I'll be happy to, Ned. Yes, Greg, it's a good question. So when you're looking at our current quarter results, let's say, or on a year-to-date basis, and you're comparing that to the prior year, probably one of the most significant factors that are impacting those numbers is the fact that since that time, over the course of, say, the second half of 2019 and early in 2020, we were de-risking our investment portfolio.\nSo you're seeing the results now of a lower allocation, the impact of a lower allocation to our equity investments. And of course, additionally, you're seeing the impact of just the lower yields overall in the remainder of the portfolio. So as you look, sort of, I think that what we've got here in the current quarter is a good basis for go-forward."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "So just to clarify, you know, I'm looking at your total portfolio you know, of $3.366 billion. You're saying, the -- on a consolidated basis, $55 million, $56 million quarterly number off that asset base is sort of a good run rate to assume, going forward? Again, ex-NORCAL, because obviously, when you bring NORCAL in, there's going to be an adjustment. Okay."
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Yes. So in the current quarter, we're at about $16 million. Yes. So in that 60 range is where -- you can sort of start off of that consolidated view of our net investment income and go forward from there, because we're not reallocating, at this point, any portion of the portfolio significantly."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "I would keep in mind though, Greg, that we're probably reinvesting at lower rates than what's maturing off the portfolio, given where rates are right now."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "Right. I mean you've done -- Thank you very much for that. That does help us sort of set expectations at least on it as we think about next year."
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "I guess the final question, and I'm sure there's others who are going to ask questions, would be just around capital. You know, the goodwill charge, obviously, doesn't necessarily affect capital, but it does -- you know, your book value per share did take a hit. So where do you think the company is in terms of excess capital today? And I guess, more important, once NORCAL is done, where do you think the company will be on a pro forma basis in terms of excess capital once on the close of NORCAL?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Greg, it's a good question. One of the challenges, I think, of the environment that we that we are in right now, and all the uncertainty that comes along with it, is a need and a desire to hold more capital and be more conservative in your capital base. So I think that means what we think from kind of a liquidity standpoint, that's really where we're focused in funding for the NORCAL transaction. And we've got, I think, a very solid plan on how we're going to approach that and what we think will close in the first quarter of next year.\nThe transaction with NORCAL is a book value transaction the way it's structured. And so it doesn't erode any capital in the organization, and it allows us, on an operational basis, to operate at a slightly higher leverage ratio, but one that we think is very sustainable for the organization. And so I'm not sure if that's entirely responsive to your question, but that's kind of our view of things."
+    },
+    {
+      "speaker": "Charles Gregory Peters",
+      "speech": "And well, it isn't really, but I understand that you -- I understand parts of it. I'll take the rest off-line. Thank you for your answers."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Mark Hughes with Truist. Please go ahead."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Yes. Thank you. Good morning. When we think about the fourth quarter, you're through with your reunderwriting program, you've been putting rate increases in place. This quarter, your specialty P&C written premium was down kind of mid-single digits. Is there an inflection point in the fourth quarter? I know you don't provide guidance, but I'm just trying to think about, now that you're through, just as you say, a lot of these steps, what is the profile of the business? I'm thinking more specialty P&C. How does that look in the fourth quarter and into next year?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "And maybe I'll take kind of the inflection point question, then I'll let Mike talk more specifically about the specialty bucket. Because we write a very long-tailed line of business, and compounded by the uncertainty that the pandemic brings, if there is an inflection point that's going to come, it's not going to come in the fourth quarter. It's somewhere down the road when we have greater clarity about the ultimate impacts of the pandemic and the ultimate impacts of all the measures that we've taken. We're very positive and very bullish on everything we're doing, but it's going to take time for the confidence to come through, especially in the actuarial analysis of those measures. And we're going to be cautious?"
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Yes. And if I might, I was thinking a little more top-line. I'm completely with you on the"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Visibility around the"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Yes, OK, I'm sorry. I misunderstood your question. Yes, so Mike can talk more about the kind of inflection point on the top line, or lack thereof. So Mike, why don't you handle that?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Sure, Ned. Good morning, Mark. Just to kind of look at the overall specialty P&C segment, we're kind of seeing at our medical technology business. Relatively flat trends, but some pretty good new business opportunities as a result of the pandemic and certainly our excess product.\nIn our small business unit, IST, which is roughly $100 million book, we're kind of looking at that. And we're seeing strong retentions, some rate come through -- starting to come through the book, and hopeful to see that grow a little bit more on the new business side, both in the fourth quarter and then as we move forward out into 2021.\nI think in healthcare professional liability, when you look at the top line, specialty has been reunderwritten pretty aggressively over the last year as you can tell by the retentions over the last several quarters. We're substantially through that. We do have, Mark, some two-year policies that were written in 2019 that will come up kind of in the first quarter that are larger that could provide us with potential volatility. But I will say this, that we're substantially through that process. And we're expecting retentions to stabilize throughout 2021 in the specialty area.\nIn the Standard Physician business, again, we are pleased with the 85% retention this quarter. We still expect -- there's a lot of competition in that market. I think the specialty market certainly has firmed much more, and we have the ability to achieve additional rate product structure terms and condition improvement. But we still see, particularly on a state-by-state base, a Standard Physician market being pretty competitive. You know, so we're keeping an eye on that as far as retention rates going forward.\nBut as far as the major components of the reunderwriting effort, we've really been through them as we proceed into the fourth quarter, like I said, with a couple of larger accounts in 2021 in Specialty that could provide some volatility."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Thank you for that. The impairment, Dana, I think you suggested it didn't impact the workers' comp business. If it's a function of kind of the broader stock price, what's the distinction between the older [net now] acquisitions versus the worker's comp acquisition?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Mark, I think it's really where the volatility in our business has been. That is the distinction. So when you look at the volatility of our operating results, they're emanating from the specialty P&C side of things. And the results in the work comp side have been much more stable."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Ned, when you mentioned Lloyds, the outlook for the losses from the recent weather, when you say the it's within expectations, is that to say it still will be a tough quarter, not out of line with bad quarters in the past? It's still a tougher quarter?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "So, yes, I think it will be a tough quarter. We're still gathering data. And as is always, with the storms and other cat events, it takes a little while before you have the kind of totality of things. We said, we kind of expect it within our expected cat load, but it certainly will put some pressure on the quarter. I don't know, Dana, if we've got any more insight since we got the quarter lag, we've got any more insight at this point into what we think that might look like."
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "No, I think you've accurately reflected what we know at this point."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "I think we're likely to post a loss for the quarter, but not a tremendously sizable loss, something under a couple of million dollars."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Okay. Understood. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question will come from Paul Newsom with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Jon Paul Newsome",
+      "speech": "Sorry, you've hit most of my questions, but I'd like to beat the Lloyd's thing just a little bit longer, just so I know, so to reduce the impact of the reduced participation thats because of on was it going to be reported next quarter or it will be in the first quarter right, so is that."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "A couple of things, I appoligies to make sure -- sorry if weren't clear. The reduced particiation on Syndicate 6131, which is a small special-purpose syndicate that we participate in, that reinsurance was effective July 1, so it'll be in our fourth quarter, their third quarter. The reduced participation in the syndicate 1729 started in the first quarter of this year for them, and so it had been our second quarter. But recognized that, because a lot of the business they write is reinsurance that earns out over 24 months as opposed to 12 months, that it doesn't manifest itself quite as quickly as it would if everything were just earning out over 12 months."
+    },
+    {
+      "speaker": "Jon Paul Newsome",
+      "speech": "Okay. I think I got that. Apologize. It's not you. I'm sure its me that's confused."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "No. I'm sure I'm sure it's me, Paul. Thanks."
+    },
+    {
+      "speaker": "Jon Paul Newsome",
+      "speech": "And then, you know any sort of broader thoughts on the competitive environment in the Specialty business? I mean obviously, you've talked about a little bit already. But I guess I'm a little bit surprised to see comments about continued competition. And I guess is that because other folks are not seeing the results that you are? Or is it some other things that you think may be going on in the competitive environment?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Yes, I'll let Mike respond initially to that. Mike, do you want to talk about what you guys are seeing in the specialty P&C market?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Yes. Thanks, Ned, and good morning, Paul. Just a couple of observations. It has clearly been more competitive in the Standard Physicians market, but it's state-by-state in the more challenging venues. And as you could see with our results through the third quarter, with double-digit rate increases, there are areas where the Standard Physician market is firming up, and that's more of a state-by-state basis. There are some other states that they're highly, highly competitive and you're not able to achieve the rate objectives and secure as much new business as you want in those targeted states.\nThe Specialty, which includes just the hospital market, you know, senior care market, has been pretty firm all year. I mean, we've been really pleased, both on new business and the renewal terms, that we've been able to secure in that market has been really helpful to turn that book around. And I'm talking about the rates, the product structure changes, terms, conditions, reduced limits, all those add up to a much more profitable book on the renewals that we've handled and selective new business that we've written there.\nAnd then, the other thing that I'd say, just in general, is new business opportunities have definitely been down a bit across the HCPL market as a result of the disruptions from COVID-19 as far as submission activity. So we're hoping that will pick up as we go through the fourth quarter and into 2021.\nWe did see some nice cadence in new business in the fourth quarter, and we're hoping that continues. We wrote $8.7 million, just slightly less than the 2019 quarter of $9 million. So, we're hopeful to have a more consistent new business year in 2020 as some of the issues with the pandemic hopefully [reside], you know -- just kind of get a little bit more easier for us to deal with in the marketplace."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "And I just want to clarify. Mike, I think you said fourth quarter for that $8.7 million, that was our third quarter new business number."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Yes. Thank you, Ned."
+    },
+    {
+      "speaker": "Jon Paul Newsome",
+      "speech": "All right. Thank you. And I think I heard someone knock on wood about improved situation, so I'm going to do the same. Appreiciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question is a follow-up from Mark Hughes with Truist. Please go ahead."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Yes. Thank you. I think you might have touched on this. But as you look at how older claims are developing in the current environment; clearly, new claims are down. So I'm curious whether the current circumstances have affected your ability to close the claims, any maybe administrative disruptions, anything like that; or alternatively, whether there's been more motivation to close claims. I'd just be interested to hear you talk about what's going on in the back book, so to speak."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Yes, Mark, thanks, and I'll let Mike chime in, as well. But one of the bigger issues is, especially early on in the pandemic, is that the court systems largely shut down. And as an organization that goes to bat for its insureds, not having the courts open for those trials certainly has slowed things down on that end. And then, I think it's probably a mixed bag on what the ultimate impact of that is. I think for some people, it is probably driving toward settlement sooner; and for others, they're happy to ride out kind of the administrative delays.\nWe are beginning to see the court systems open up some maybe not fully, but in certain jurisdictions, they are working toward trials, and certainly things like depositions and other parts of the process have opened back up much more significantly.\nSo I got some statistics from Rob Francis. We have only had four trials since February. Over that same time frame last year, we had 74 trials. So that gives you a sense of what's going on with the court system.\nMike, I'm not sure what you might add to that."
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "No, Ned, I don't have anything additional to add."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "So four trials in February. I mean and this may be too narrow gauge to be relevant, but your favorable development was a little lower this quarter. Is it just not possible to get resolution; and so, therefore, the reserves are kind of frozen in place? If you're only talking about four trials versus 74 last year, that's a pretty big difference."
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Again, we talked about the uncertainty that comes in that COVID brings, and this is one of those areas. And so it is, as I said, it's a mixed bag on kind of the impact it's having on closures. I think it is slowing down claim closures. And what the actuaries hate more than anything is inconsistency in data, right? And so when you have these disruptions and patterns, it becomes a greater challenge to analyze. And I think when that happens, you approach that with a lot of caution as to what it means, which is what we're doing."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "And I had one other question, and again, a lot of this has been touched on. But if I was just doing kind of the simple approach of the trend in pricing versus the trend in losses, kind of loss cost inflation versus pricing trends, how would you characterize it in the healthcare professional liability space?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Mike, do you want to add that?"
+    },
+    {
+      "speaker": "Michael Leonard Boguski",
+      "speech": "Yes, I will. Just from a standpoint of frequency, it's been relatively flat except for this COVID impact that we've been talking about. On the severity trend, there's such a variation by state. We have some states that have pretty benign severity trends. There's others that are high single digit. But just kind of what we're tending to see is severity trend in that kind of 3% to 3.5% to 4% range depending on the state.\nAnd then obviously, we're taking our rate actions off of that kind of trend as we move forward. And you know, just -- we are getting nice margin over our loss cost trends as we look out throughout 2020, for sure.\nAnd I guess the other thing that I'd say is just you can see that in the kind of accident year loss ratio reduction since the year-end 2019, it's roughly 6.5 points exclusive of COVID and exclusive of the large national healthcare tail. So we're seeing some positive trends."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "And again, the 6.5 points, and I'm sorry if I missed that point, but that number is if you exclude COVID, if you exclude the large national accounts within the specialty P&C, the improvement is 6.5 points?"
+    },
+    {
+      "speaker": "Edward Lewis Rand Jr",
+      "speech": "Yes. That's a number relative to year-end 2019, and it's an accident year number."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Yes. Okay. And then, Dana, the income from the equity in unconsolidated subsidiaries, the $5 million this quarter, I think it was much more of a downdraft last quarter. Do you have any early view on how that's going to shake out in the fourth quarter? I think is that another one that's on a one quarter lag. Do we have visibility for that?"
+    },
+    {
+      "speaker": "Dana Shannon Hendricks",
+      "speech": "So within the equity and earnings, those LPs and LLCs tend to follow the broader equity market. It's just that we were reporting them on a quarter lag. So that's how you see it come through our financial statement. So that's probably the best guidance that I can give you around equity and earnings."
+    },
+    {
+      "speaker": "Mark Douglas Hughes",
+      "speech": "Yes. Okay. All right. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And this will conclude our question-and-answer session. Would the company like to make any closing remarks?"
+    },
+    {
+      "speaker": "Ken McEwen",
+      "speech": "No. Thank you, Cole. I just want to thank everybody that joined us today. And again, please stay safe and healthy, and we look forward to speaking with you again in February."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 58 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Edward Lewis Rand Jr--President And Chief Executive Officer",
+    "Dana Shannon Hendricks--Chief Financial Officer, Treasurer, And Executive Vice President",
+    "Michael Leonard Boguski--President of Specialty Property And Casualty",
+    "Ken McEwen--Manager of Investor Relation",
+    "Kevin Merrick Shook--President, Workers' Compensation Insurance",
+    "Charles Gregory Peters--Raymond James & Associates -- Analyst",
+    "Mark Douglas Hughes--Truist Securities, Inc -- Analyst",
+    "Jon Paul Newsome--Sandler O'Neill -- Analyst"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you for standing by. This is the conference operator. Welcome to the Griffon Corporation Third Quarter of Fiscal 2021 Earnings Conference Call. As a reminder, all participants are in listen-only mode and the conference is being recorded. [Operator Instructions]\nI would now like to turn the conference over to Brian Harris, CFO. Please go ahead."
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "Thank you. Good afternoon, everyone. With me on the call is Ronald Kramer, our Chairman, and Chief Executive Officer. Our call is being recorded and will be available for playback, the details of which are in our press release issued earlier today.\nAs in the past, our comments will include forward-looking statements about the company's performance based on our views of Griffon's businesses and the environments in which they operate. Such statements are subject to inherent risks and uncertainties that can change as the world changes. Please see the cautionary statements in today's press release and in our various Securities and Exchange Commission filings. Finally, from today's remarks, we'll adjust for those items that affect comparability between reporting periods. These items are explained in our non-GAAP reconciliations included in our press release or in our investing Investor presentation, which will be available on our website.\nNow, I'll turn the call over to Ron."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Thanks, good afternoon, everyone. We are pleased with our third quarter performance, which was slightly above our expectations.\nRevenue increased 2% over the prior-year quarter of 4% excluding the impact of the SEG disposition. Adjusted EBITDA was $76 million, excluding unallocated costs and adjusted EPS was $0.43. We are executing well in a very complex operating environment. I want to spend a minute discussing it before moving to the segments. Demand remained very healthy across our product categories supported by a strong housing market, repair and remodel activity, and consumer spending. We're currently carrying record levels of backlog in both the CPP and HBP segments due to transportation disruptions and tight labor availability, which limited our ability to catch up with demand. We implemented price adjustments and continually work through efficiency programs to mitigate rapidly rising input costs, and we'll continue to work with our suppliers and customers to implement further price adjustments.\nOur businesses are proven to be resilient and we are reiterating our full-year guidance. Our AMES strategic initiative that will consolidate operations, increase automation, support e-commerce growth, and create a new global data and analytics platform for AMES by the end of 2023 is on track. We expect this to further improve margins in the years ahead. We reiterate our expectation to realize annual cash savings of $30 million to $35 million and inventory reductions of the same magnitude when the benefits of the initiative are fully realized. As we navigate through the second year of managing our businesses during the global pandemic, we continue to prioritize protecting employees even the restrictions in the United States, Canada, United Kingdom, and Australia are evolving. We are closely monitoring the situation due to the spread of the COVID-19 delta variant and we'll make adjustments as needed to be responsive to government guidelines and to ensure the safety of our employees and customers.\nTurning to the segments, in Consumer and Professional Products, we saw a robust demand across all geographies and product lines, shipping delays related to the availability of transportation impacting US revenue and EBITDA was impacted by the implementation of price adjustments, which as expected lagged input cost increases.\nIn the Home and Building Product segment, we continue to see strong demand for both residential and commercial door products. Sales increased from the prior-year quarter driven by increased volume and favorable pricing and mix. EBITDA also increased benefiting from the increased sales, partially offset by the timing of price adjustments versus increasing input costs. In Defense Electronics, Telephonics revenue decreased from the prior year primarily driven by reduced volume resulting from the timing of deliveries on communications and radar systems as well as the divestiture SEG partially offset by volume increases in Naval and Cybersystems. EBITDA increased over the prior year's actions taken to reduce operating expenses took effect and performance in Naval and Cybersystem programs improved. Backlog in the quarter was $375 million compared to $341 million in June 2020 excluding SEG with trailing 12-month book-to-bill of 1.1 times. We continue to see a bright future for the Telephonics intelligence, surveillance, and reconnaissance products in the years ahead.\nTurning to the balance sheet, we continue to have a solid capital structure with X1 flexibility. We have $221 million in cash and $362 million available on our revolving credit facility, putting us in an excellent position to execute on our organic growth initiatives and to capitalize on an active pipeline of acquisition opportunities while returning cash to shareholders through our quarterly dividends. We've delivered to 2.9 times marking 1.5 turns of improvement over the prior-year period. Earlier today, our Board authorized an $0.08 per share dividend payable on September 16, 2021, to shareholders of record on August 19. This marks the 40th consecutive quarterly dividend to shareholders, which has grown at an annualized compound rate of 17% since we initiated it in 2012.\nLet me turn it over to Brian, who will take you through some of the financials."
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "Thank you, Ron. I'll start by highlighting our third quarter consolidated performance. Revenue increased 2% to $647 million or increased 4% when excluding the SEG divestiture. Adjusted EBITDA decreased 7% to $65 million and adjusted EBITDA margin decreased 100 basis points to 10%. Gross profit on a GAAP basis for the quarter was $170 million, increasing 3% compared to the prior-year quarter. Excluding restructuring-related charges, gross profit was $171 million increasing 3.5% compared to the prior-year quarter with gross margin increasing 30 basis points to 26.4%.\nThird quarter GAAP selling, general and administrative expenses were during $126 million compared to $114 million in the prior-year quarter. Excluding restructuring-related charges, selling, general and administrative expenses were $122 million or 18.9% of revenue compared to $112 million or 17.7% in the prior-year quarter, primarily driven by restoration of selling and marketing expenditures and increased distribution and transportation costs. Third quarter GAAP net income was $17 million or $0.31 per share compared to the prior-year period of $22 million or $0.50 per share excluding items that affect comparability from both periods, current quarter adjusted net income was $23 million of $0.43 per share compared to the prior year of $26 million or $0.59 per share.\nKeep in mind, the equity offering in August 2020 impacted current quarter adjusted EBITDA by approximately $0.08. Corporate and unallocated expenses, excluding depreciation were $11 million in the quarter in line with prior-year third quarter. Our effective tax rate, excluding items that affect comparability for the quarter, was 31.2% and for the year-to-date period was 31.1%. Capital spending was $10 million in the third quarter compared to $12 million in the prior-year quarter, depreciation and amortization totaled $15.8 million compared to $15.5 million in the prior-year quarter.\nRegarding our balance sheet and liquidity. As of June 30, 2021, we had net debt of $835 million and leverage of 2.9 times calculated based on our debt covenants. This is a 1.5 turn reduction from our prior-year third quarter and a 0.5 turn reduction from our 2020 fiscal year end. As a reminder, Griffon uses cash in the first six months of its fiscal year, which will be more than offset by the generation of significant cash flow in the second half. Our cash and equivalents were $221 million and debt outstanding was $1.06 billion. Borrowing availability under the revolving credit facility was $362 million subject to certain loan covenants.\nRegarding our 2021 guidance with our third quarter behind us, we're continuing to see strong demand for products across our portfolio recovering consumer activity and the strong housing markets are contributing to the constructive macro environment and homeowners continued to focus on outdoor living and repair and remodel projects continue. While we are seeing the expected headwinds from cost inflation, supply chain disruptions, and a tight labor market, we are managing through those effects and we expect an excess of $2.5 billion of revenue and continue to expect $320 million of adjusted EBITDA, excluding unallocated and one-time charges.\nNow, I'll turn the call back over to Ron."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Thanks, Brian. As we entered the final quarter of our fiscal year, we're seeing strong demand trends across all of our segments. We continue to successfully manage through this dynamic environment, driven by the exceptional dedication perseverance, and performance of our 7,500 employees.\nOver the last three years since the sale of our plastics business in the purchase of ClosetMaid and CornellCookson, we fundamentally strengthened Griffon. During this period, our revenue and adjusted EBITDA have increased at a compounded annual growth rate of 11% and 20% respectively. Adjusted earnings per share have grown from $0.67 to $1.91 on a trailing 12-month basis, which is a 42% compound annual growth rate. Most importantly over this period, we've generated $212 million in free cash flow and reduced our leverage by almost three full turns to 2.9 times. We're very pleased with our progress creating long-term shareholder value. We expect significant additional benefits to come as we execute on our strategic initiatives to improve margins and take advantage of our balance sheet firepower to invest in our businesses and capitalize on acquisition opportunities. Our best is yet to come.\nOperator, we'll take any questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Bob Labick with CJS Securities. Please go ahead."
+    },
+    {
+      "speaker": "Bob Labick",
+      "speech": "Good afternoon and congratulations on another strong quarter."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Thanks, Bob."
+    },
+    {
+      "speaker": "Bob Labick",
+      "speech": "So I wanted to start, you touched on this and maybe we could dig in a little further. Raw material and transportation has obviously been a headwind in the near term. And also from your results, you can see, you have some nice pricing power. We also know it lags over time. So maybe just give us a sense of how you see it playing out over the next six to 12 months in terms of your margins, your ability, and the timing of price increases, how should we think about the margin progression and when you catch up to the cost inflations that are out there for everybody?"
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Well, as we discussed at the end of the second quarter, the pace of increases in raw material costs, freight, and labor were going up and our ability to pass along those increases was going to happen with a lag. We're continuing to pass along price increases and we're continuing to try to mitigate the inflationary trends that are going on for us and across all the economy and our view as the consumer is strong. The housing market remains strong. The demand in our business has never been stronger. We're going to continue to try to deal with the things that are in our control. Trying to be more efficient, our AMES initiative, in particular, was always meant to be about a 300 basis point margin improvement story over a multi-year journey that still is in front of us. So we see this is evolutionary for our business and we're going to continue to find ways to pass along price increases and take cost out of our business in order to improve our margins. Most importantly, we see the demand trends as being strong and in our favor. Brian?"
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "Yes, I'll just add to that. The costs after our last call continued to rise and they rose rapidly. So we'll continue to have to pass through price and we'll still have some price cost pressure into the fourth quarter. We expect Robert if the cost stops rising that will resolve that by early in our next fiscal year."
+    },
+    {
+      "speaker": "Bob Labick",
+      "speech": "Got it. Okay, great. And then in terms of my follow-up for lack of better work, in the past, you've obviously had some very nice success with small international kind of tuck-in type acquisitions and medium-size ones in that regard. You highlighted obviously below three turns of leverage now you talk about the M&A environment because obviously a lot of asset prices have risen, so are there things out there? Are you still looking in the international market or how are you thinking about the M&A environment? And what's the environment like for you?"
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Well, the first part is that capital is unlimited and therefore competition is leading to increasingly higher prices and that's something that's been happening and we expect will continue to happen. Our strategy has always been to buy things that we can run better and we're improving our own businesses and allocating capital, and looking at ways to make what we already have incrementally better and that's the best acquisition that we can make. The pipeline of acquisitions has never been better and yet I'm disappointed this quarter that we don't have anything to announce because there are a lot of processes that ended up with prices that we weren't prepared to pay our values that we didn't think was incrementally better than what we already owned. We're going to continue to look at things as they come along. We continue to believe that our ability to deploy capital is ahead of us and the significant amount of cash that we have on our balance sheet and heading into our fourth quarter will have even more at the fiscal year end,\nWe're in a very good position to find things to do with our enhanced liquidity and that will happen over time. We're in no rush and until it's clear that we can all be traveling and visiting the way we buy businesses. We like to be able to get under the hood and due diligence at a level that I still am comfortable that the world is opened. We're really understanding the things that we're looking at buying at the level that we want to do, so we are very content to spend our time just getting the margin improvement story, the free cash flow story, and the increasing earnings per share of story that we've been able to deliver over the next several years."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Julio Romero with Sidoti & Co. Please go ahead."
+    },
+    {
+      "speaker": "Julio Romero",
+      "speech": "Hi. Yes, good afternoon, Ron and Brian. One thing that we've seen is some initial signs of slowing in DIY products and when I think about Griffon's product portfolio, I think about the Consumers and Professional products and ClosetMaid made will be something that sticks out to me that could have some DIY exposure. Can you just talk about how demand is trending in ClosetMaid and broadly across the CPP segment?"
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "We've seen the same commentary. And as we've said to you, we have backlog levels, let's say, just the opposite."
+    },
+    {
+      "speaker": "Julio Romero",
+      "speech": "That's encouraging here. Okay. And I guess for my follow up I guess in the HBP segment, can you maybe give us an update on how some of the new product launches in that businesses are being received?"
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Sure. Our new launches are continued to perform well. We've come out with several things, Entry Defender and Store Defender, which do just what they say. We have micro grill product that has performed well. That's a fire suppression product. That the market has received well. So those products and the expansion we made in our Mountain Top Facility supply people with those products has been a good investment."
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "The CornellCookson acquisition is everything we had hoped and we continue to believe that growth of the commercial business in the innovation pipeline in both commercial and in residential, we are in a very, very strong position. I believe this is the first quarter in Clopay history we're trailing 12 months were over $1 billion in revenue. We're really executing well and we expect that business to continue to show growth."
+    },
+    {
+      "speaker": "Julio Romero",
+      "speech": "Great. Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Justin Bergner with G Research. Please go ahead."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Good afternoon, Ron. Good afternoon, Brain."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Hi Justin."
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "Hi Justin."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Hi. So just to follow up on the Consumer Professional Products business. Did the shipping delays put any business at risk? And with the backlog still have been up in at record levels if you had not experienced shipping delays?"
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "So I would not if the business is at risk. We certainly had revenue that got pushed off to a later date by the pressure we had from transportation not being as available as one would like. The demand has been very strong across CPP and across HBP as well. It's hard to say exactly what order patterns because people wouldn't necessarily order more until they got their original products, so I can't fully answer your question, but the baseline is demand has been very strong."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Okay. And then just a follow-up on HBP. Are you seeing any deceleration in demand trends there [indecipherable] doesn't look at? And is there any limitations on your ability to put through price? I imagine that the commodity prices could start impacting demand, but maybe not just curious, your perspective there?"
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Sure. The demand is continued to be strong. It has not dropped off. So far, the consumer continues to accept the price. It's as simple as that."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Great, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Keith Hughes with Truist Securities. Please go ahead."
+    },
+    {
+      "speaker": "Dennis Camporeale",
+      "speech": "Hi, good afternoon, this is Dennis Camporeale in for Keith Hughes. Thanks for taking my question. So the first question, I would like to ask is regarding the HBP pricing we've seen particularly strong at 13% in the quarter. So, just curious if you can share some of the factors behind that and what are some of the drive fundamentals driving at that pricing strengths in that segment? And the other question, I would like to ask in general about just the priorities in terms of capital allocation, particularly if you can give some color as to the cadence share repurchase is going forward and where that falls in the list of priorities? Thank you."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Sure. So let me start with its pricing and mix that is at 13% just to be clear, and that's about 50-50 between the two. It's a result of us on the pricing side, it's a result of us passing through price to customers to cover, rapidly rising input costs and those input costs are raw materials such as steel, its labor, its insurance, and its transportation cost and we continued to see good demand and a good mix in that demand where people continued to buy higher level doors for their homes and we continued to see good results of our new products on the commercial side, which are at a higher price and margin.\nDo you want to take the capital one?"
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "Sure. We have a $58 million dollar authorization for share repurchases and we believe our stock is at compelling value. We didn't buy any stock this quarter."
+    },
+    {
+      "speaker": "Dennis Camporeale",
+      "speech": "Okay, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The next question comes from Trey Grooms with Stephens. Please go ahead."
+    },
+    {
+      "speaker": "Trey Grooms",
+      "speech": "Hi, good afternoon, Ron and Brian."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Hi, how are you doing?"
+    },
+    {
+      "speaker": "Trey Grooms",
+      "speech": "Doing well. Thank you. So I guess just switching gears a little bit here. Ron, you mentioned on the demand front clearly still very strong, you mentioned housing, you mentioned R&R and consumer spending as these have all continued to be very healthy and I think commercial -- it does drive some business on the HBP side. Can you talk about what you're seeing on commercial, specifically as it relates to the HBP businesses?"
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Very strong growth and my personal expectation is if we ever get an infrastructure bill, we'll see even more commercial door growth."
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "Bill, I'll just add to that. We've seen good residential and commercial growth in this quarter, year-to-date in the quarter. In this particular quarter, commercial is actually even stronger than residential, though they were both well [Phonetic]."
+    },
+    {
+      "speaker": "Trey Grooms",
+      "speech": "Well, that's encouraging. And I guess on one other kind of housekeeping a little bit and just trying to understand the mechanics. You mentioned, of course, both CPP and HBP with very strong backlogs. And with the shipping delays that we have now, I guess just trying to get my head around how this typically flows through and then in transitions in the -- or excuse me -- translates into revenue. But now with this kind of dynamics we have in the transportation situation, how is that impacting and when are you expecting that backlog to kind of start to transition into revenue?"
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Yes. So the transportation situation is really a global issue, it's not just our issue. Yes, it's hard to say when the backlog will relieve. The orders keep coming in. We're doing everything we can to mitigate the transportation situation."
+    },
+    {
+      "speaker": "Brian Harris",
+      "speech": "So we believe the recovery is still ahead of us and the bottlenecks that you're seeing in this economy, which transportation is just one-off are going to work themselves through. The timing and the predictability of it, you'll see it clearly across lots of different products and categories. We're doing everything we can to meet our backlog, but the underlying trend that we clearly are saying is demand is strong."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Yes. And I'll just add one more thing to that. Hopefully, as labor improves that we'll get more people to help the transportation situation and hopefully that will start clearing by the end of the year."
+    },
+    {
+      "speaker": "Trey Grooms",
+      "speech": "Yes. I hope you're right. I hope you're right. Well, thank you very much for taking my questions."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes the question-and-answer session. I would like to turn the conference back over to Ron Kramer for any closing remarks."
+    },
+    {
+      "speaker": "Ron Kramer",
+      "speech": "Thank you. Stay well, everyone. Bye-bye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 27 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Brian Harris--Chief Financial Officer",
+    "Ron Kramer--Chairman & Chief Executive Officer",
+    "Bob Labick--CJS Securities -- Analyst",
+    "Julio Romero--Sidoti & Company -- Analyst",
+    "Justin Bergner--Gabelli & Company -- Analyst",
+    "Dennis Camporeale--Truist Securities -- Analyst",
+    "Trey Grooms--Stephens -- Analyst"
+  ]
+}

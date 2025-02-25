@@ -1,0 +1,487 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and welcome to the Synovus second-quarter 2020 earnings call. [Operator instructions] Please note, this event is being recorded. I would now like to turn the call over to Kevin Brown, senior director of investor relations. Please go ahead."
+    },
+    {
+      "speaker": "Kevin Brown",
+      "speech": "Thank you, and good morning. During the call today, we will be referencing the slides and press release that are available within the investor relations section of our website, synovus.com. Kessel Stelling, chairman and chief executive officer, will begin the call. He will be followed by Jamie Gregory, chief financial officer; and Kevin Blair, president and chief operating officer.\nOur executive management team is available to answer your questions at the end of the call. [Operator instructions] Let me remind you that our comments may include forward-looking statements. These statements are subject to risks and uncertainties and the actual results could vary materially. We list these factors that might cause results to differ materially in our press release and in our SEC filings, which are available on our website.\nWe do not assume any obligation to update any forward-looking statements as a result of new information, early developments, or otherwise except as may be required by law. During the call, we will reference non-GAAP financial measures related to the company's performance. You may see the reconciliation of these measures in the appendix to our presentation. And now here's Kessel Stelling."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Thank you, Kevin, and good morning to everyone, and welcome to our second-quarter earnings call. Before I move to the financials, I just wanted to share a few comments and reflections on our industry and our company. The defining characteristic of our industry has changed and I have certainly seen my share of change in my four and a half decades in this business, including this unprecedented pandemic and period of social unrest. And although things are relentless, I've never been more convinced of the ability and responsibility of our industry to be a trusted resource for our customers and for the communities we serve.\nSynovus, in particular, is built for times like these embedded in our markets, close to our customers, and able to quickly assess and anticipate needs. And that continues to ring true as challenges linger even as we see glimpses of a slow and steady recovery. The story we'll tell today is largely shaped by our model that has allowed us to respond to, plan for, and do our best to control the things we can control. So before I turn the call over to Jamie, I'll share highlights of the second quarter, beginning on Slide 3.\nAdjusted diluted EPS was $0.23, compared to $0.21 last quarter and $1 a year ago. Loan balances increased $1.7 billion or 4.3%, compared to the prior quarter. Growth in Paycheck Protection Program loans of $2.7 billion was offset by a reduction in C&I line utilization of $775 million. In the consumer book, loans were down approximately $700 million as reductions in lending partnership balances were partially offset by mortgage balance increases of $200 million.\nTotal deposits grew $4.4 billion or 11% from the prior quarter. Growth was largely split between DDA and interest-bearing core deposits, which grew $2.9 billion and $1.2 billion, respectively. We continued the strategy of allowing higher-priced CDs to run off, which led to a decline of $655 million in time deposits. Net interest income was up $3 million for the quarter.\nThis included a full quarter of the 150-basis point reduction in short-term rates from March along with offsets, including over $9 million in fee recognition associated with P3 loans. The net interest margin declined 24 basis points to 3.13%. Adjusted non-interest revenue of $95 million was greater than expected largely due to outperformance in mortgage. Net mortgage revenue was $24 million, up $11 million from the prior quarter led by secondary mortgage production of $635 million, up $380 million from the prior quarter.\nAdjusted non-interest expense totaled $276 million, up $5 million from the previous quarter. This included $7 million of COVID-related expenses and $7 million in fees associated with the implementation of certain Synovus forward initiatives. Commission expense was $7 million higher than the prior quarter, largely resulting from record mortgage production. These increases were offset by reductions in other areas, including seasonal employment fees and travel.\nProvision for credit losses was $142 million and resulted in an allowance for credit losses ratio of 1.74%, excluding the P3 balances. That's an increase of 35 basis points from the previous quarter and incorporates a more stressed economic outlook. Credit quality metrics remain stable with the nonperforming loan ratio and net charge-off ratio of 37 basis points and 24 basis points, respectively. Capital ratios improved based on strong operating performance and balance sheet optimization, which Jamie will detail later in the presentation.\nOur CET1 ratio increased 20 basis points to 8.90% and our total risk-based capital ratio increased 41 basis points to end at 12.70%, a two-year high. The 90-day deferral program we outlined on the last call has done exactly what it was intended to do by providing much needed support and assistance for our customers. While it's too early to know exactly how deferrals will play out in the second half of 2020, reviews of customer cash flows, client surveys, and conversations and interactions with customers to date lead us to believe that somewhere between 3% to 5% of total loans will have a round two deferral granted for a 90-day deferment of principal and interest. Jamie will now share more detail about the quarter."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Thank you, Kessel. As Kessel noted, this was a very eventful quarter for our company with considerable progress on a number of fronts despite headwinds. The resulting impact on our balance sheet has been significant starting with loans on Slide 4. As we shared in May, we funded $2.9 billion in P3 loans for approximately 19,000 customers, quite an undertaking, which required a coordinated effort across our bank.\nThe average P3 loan was approximately $150,000 and the customers that received those loans employ over 335,000 employees. An offset to the C&I growth from P3 loans, which ended the quarter with a balance of $2.7 billion was a decrease in loan balances from C&I line utilization. We ended the second quarter at a record low of 41% that resulted in balance sheet declines of $775 million. We expect C&I line utilization to normalize in the mid- to upper 40% range as the economy improves.\nHighlights in the consumer portfolio include mortgage loan balance increases of over $200 million on a production of a record $800 million. As was disclosed during the quarter, we restructured our GreenSky relationship in a way that is mutually beneficial. Our total exposure limit remains $1 billion for the relationship, but you'll see a shift of loan balances from held for investment to held for sale. In the second quarter, we moved $266 million in loans to held for sale under this new arrangement.\nGoing forward, you'll see a shift in geography on the income statement from our GreenSky loans as we realize more non-interest revenue from transactions and servicing fees, as well as, a reduction in net interest income and non-interest expense. The other meaningful item to highlight within partnership lending is a disposition of approximately $535 million in student loans. In June, we moved those loans to held for sale, which contributed to the decline in consumer balances and resulted in an allowance release of approximately $12 million. We have closed that transaction since quarter end realizing a modest gain which will be recorded in the third quarter.\nWe believe that the strength of the market for these loans is a testament to the quality of these loan portfolios and we remain committed to those relationships while also acknowledging their core customer base takes priority as we focus on managing our balance sheet in these uncertain times. We continue to expect loans to be flat for the remainder of the year, excluding the impact of P3 forgiveness. On Slide 5, you can see that we had unprecedented growth in deposits with DDA balances, up $2.9 billion and total deposits, up $4.4 billion in the second quarter. Much of this growth occurred in conjunction with our P3 lending effort.\nHowever, we also saw broad-based growth across interest-bearing transaction balances with money market and NOW up 11% quarter-over-quarter while savings balances increased by 14% quarter-over-quarter. While lower cost transactional deposit growth has accelerated since late in the first quarter, we have continued to experience strategic declines within our core time deposit portfolio. As you are aware, much of these declines have been intentional over the last several quarters as we've reduced exposure to higher cost CDs and public funds in certain markets. One of the benefits of having a sizable time deposit portfolio is the ability to reprice as rates decline and that portfolio turns over.\nWith our transactional interest-bearing accounts approaching the lowest rates experienced since the great financial crisis, we expect further declines in rate paid on deposits to be led by strategic turnover within our core and brokered time deposit portfolios. As a simple means of comparison to the prior cycle, Synovus achieved its lowest deposit cost in the third quarter of 2014. At that time, total interest-bearing deposit costs were roughly 35 basis points. While our deposit mix has evolved from that time, we believe a return to comparable levels is achievable in the coming quarters with continued pricing and balance sheet discipline.\nWe expect deposits to decline in the second half of 2020 as excess liquidity is deployed. Slide 6 shows net interest income of $377 million, an increase of $3 million from the previous quarter. This benefited from $9 million in fee accretion from our P3 loan portfolio. In the coming quarters, P3 forgiveness may have a meaningful impact on our net interest income as unearned fees associated with that program are recognized into interest income.\nP3 processing fees totaled $95 million. In terms of net interest margin, we ended the quarter at 3.13%, down 24 basis points from the first quarter. Beyond the anticipated impact associated with the lower rate environment, the significant inflow of deposits throughout the quarter resulted in an excess cash position, which while not impactful to net interest income, diluted the margin by approximately 8 basis points, as compared to the prior quarter. Although we expect to maintain an elevated level of liquidity within the current economic environment, we also anticipate some reversal in that elevated position in the second half of the year, which should support the margin.\nBalance sheet management activities in the second quarter, including securities portfolio sales, the student loan sale, and the GreenSky strategy change, will serve as a headwind to net interest income beginning in the third quarter and will put some additional downward pressure on the margin. The impact of these recent transactions is approximately 9 basis points to the margin. After adjusting for these impacts and excluding the impact of P3 loans, we expect the margin to remain relatively stable in the second half of 2020. We were pleased with non-interest revenue of $173 million or $95 million adjusted, shown on Slide 7.\nThe transaction activities, including capital markets activities, mortgage originations, and credit card transactions exceeded our expectations. And we had one of our strongest quarters in fee revenue. We realized investment gains of $78 million which includes $70 million from repositioning the securities portfolio. While these transactions were primarily focused on agency mortgage-backed securities, part of the repositioning included the disposition of our remaining $150 million in collateralized loan obligations in the investment portfolio.\nTotal net mortgage revenue was $24 million which was $11 million more than the previous quarter. This is the result of an all-time high of $635 million in secondary mortgage production and an elevated gain on sale. Looking forward to the third quarter, we do not expect net mortgage revenue to stay at the record level of the second quarter. Led by normalization of mortgage revenue, we believe a reduction of adjusted non-interest revenue in the third quarter is likely before we see a return to consistent growth in fee revenue.\nNoninterest expense of $284 million or $276 million adjusted is shown on Slide 8. As expected, we had approximately $7 million in COVID-related expenses in the second quarter. These included bonuses to certain frontline team members, as well as, efforts to improve the safety of our team members and customers. Adjustments for the quarter of $8 million included expenses of $3 million related to branch closures and restructuring of corporate real estate, as well as, $5 million in expenses related to the Global One earnout liability.\nAdjusted expenses included the $7 million in COVID-related expenses, as well as, an increase in commission expense of $7 million higher than the prior quarter due to elevated mortgage production. The second quarter also had $7 million in upfront expenses related to efforts we've made to implement and execute certain Synovus forward initiatives. These efforts will help us achieve sustainable top quartile performance that Kevin will provide an update for shortly. Consistent with prior guidance, we expect expenses to decline in the second half of the year.\nCurrent credit ratios shown at the top of Slide 9, which include NPAs, NPLs, and past dues remain stable. We generally expect some pressure on these credit metrics over the next few quarters which are aligned with the reserve builds in the first half of the year under the procyclical nature of CECL. Although loan deferrals have an impact on these metrics, it's important to note that we are not seeing any widespread deterioration in the portfolio and these ratios remain at or near lows for this credit cycle. The net charge-off ratio was 24 basis points, up 4 basis points from the prior quarter.\nNet charge-offs of $24 million largely resulted from a single credit that was moved to nonaccrual last quarter. Provision for credit losses of $142 million resulted in an allowance build of nearly $120 million from the current expectation for longer-term economic headwinds. After adjusting for P3 loans, the ACL ratio increased 35 basis points to 1.74%. The economic assumptions for the current quarter include the estimated impact of stimulus and an unemployment rate declining to around 10% by the end of the year, and remaining elevated throughout 2021.\nWe anticipate moderate economic expansion following the dramatic spikes in real GDP expected in the second and third quarter of the year. Economic uncertainty remains great due in part to the direct impact of COVID. The ACL ratio could remain elevated due to this economic uncertainty and credit migration which could result in today's allowance for credit losses not fully funding future charge-offs. Slide 10 includes a review of our capital position as we ended the second quarter.\nOur focus remains on diligently managing our balance sheet and capital in alignment with our risk appetite and capital adequacy process. And you can see the result of that effort in our capital ratios. CET1 improved 20 basis points to 8.9% and total risk-based capital rose 41 basis points to 12.7%, the highest level in two years. Actions included student loan sales and the settlement of security trades in July will further reduce risk-weighted assets and will benefit CET1 by approximately 20 basis points in the third quarter.\nAs it relates specifically to common shareholder dividends, we continue to be guided by two considerations: capital adequacy and long-term earnings. We remain confident in our current capital levels which is supported by stress testing and sensitivity analysis. We believe it's important for shareholders to receive current income on their investment and also for us to retain enough capital for our strategic growth objectives. To achieve those objectives, a total long-term payout ratio of 70% to 80% is appropriate, with approximately half of that coming from common shareholder dividends.\nBefore handing off to Kevin, I'd like to summarize our thoughts on the balance sheet. We remain confident in our capital position and the second quarter has shown we have the means to further support capital when needed. From December 31st to June 30th, we increased our allowance by approximately $400 million while maintaining a stable CET1 ratio. Given the elevated uncertainty, we are not planning to repurchase shares in 2020 and we'll use future earnings to build capital and grow our businesses.\nWe expect our primary means of capital return to be through dividends and accretion of our tangible book value. With that, I'll turn it over to Kevin to speak further on our efforts to assist customers through this environment, give enhanced detail within our credit portfolio, and an update on our progress within Synovus Forward."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Thank you, Jamie. I'll begin on Slide 11 with an update to the segments we highlighted on the last call that we defined as particularly sensitive to COVID-19. Balances totaled $4.7 billion in these industries which is stable with the prior quarter. When we implemented a 90-day deferral program in late March, we utilized a review process, particularly on our larger customers, to assess the impact of the economic conditions that warranted a deferment to help address short-term changes in cash flow.\nAs these deferrals end, we have once again taken a proactive approach and conducted thorough cash burn analyses on our customers to determine who will continue to see reduced levels of cash flows over the next 90 and 180 days. What we found is that a large percentage of the companies experiencing a longer-term impact to cash flows are encompassed in five of the segments identified on this slide. Let me touch on each industry briefly. I'll start with the hotel industry which continues to see a 40% to 60% decrease in occupancy and revenue per available room.\nGiven the reopenings in the southeast and the increase in occupancy in various drivable vacation destinations, we expect cash flows to increase somewhat in the coming months, and as a result, the overall deferral rate of the hotel portfolio to range between 30% and 40% in the next 90 days. As we shared last quarter, this portfolio maintains a strong loan value, slightly over 50%, and it entered the downturn with almost 2 times debt service coverage. For non-grocery-anchored shopping centers, we expect to see deferments in the range of 20% to 30% as certain types of retail are performing well such as home improvement and electronics, while other retail reopens and resumes their sources of revenue. Moving to restaurants, this industry benefited greatly from the P3 program and we are seeing more significant improvements in the quick-serve and fast casual businesses which will lead to a reduction in second round deferrals.\nHowever, we continue to see a lag in revenue recapture in full-service and drinking establishments. Similar to shopping centers, the impact on the retail trade industry is largely a function of the type of goods sold, but we are seeing an improvement here as well with overall cash flows increasing in June versus the previous year with solid growth in beer and wine, furniture, and grocery-related trade. And therefore, we expect 10% to 20% of the portfolio to pursue a second round of principal and interest deferments. Fitness, recreation, and entertainment centers are among the industry's hardest hit by the shutdown, but golf courses and country clubs are faring better.\nDespite the softness in some of the entertainment industries, we do expect this industry to have low percentage of second-round deferments. Our oil-related segment, totaling approximately $300 million in outstandings was initially of greater concern due to the negative oil futures and the impact of less travel. Despite those concerns, we saw a lower percentage of first-round deferments and expect this portfolio to continue to perform well with minimal second-round deferments. In aggregate, while deferral trends are positive to this point, we are keenly aware that any additional mandated closings from the COVID surges in our markets would have the potential of impacting cash flows, and therefore, increasing the need for additional deferments.\nAt this point, I would like to draw your attention to Slide 25 in the appendix. Another notable segment that is often discussed as a COVID-impacted industry that is not on this list is our senior housing portfolio, which is over $2 billion in outstandings. We have not included senior housing on this slide based on the solid performance of this portfolio and our outlook on future performance. The reason for exclusion is supported by the fact that we have only seen 4% of the outstanding balances deferred in round one, which was comprised of five loans, and the expectation at this time is that we will have no further deferments in the portfolio during round two.\nIn addition, we continue to work closely with our customers and the industry associations, as well as, actively monitor cash flows which have trended down only modestly to date. Our senior housing portfolio primarily includes private pay facilities that have better access to resources, including staffing and equipment. This portfolio is led by a very seasoned team with a stellar track record dealing with longtime operators. The portfolio carries strong LTVs and debt service coverage metrics, and is strategically aligned with sponsors who have access to liquidity and have demonstrated commitment to the space over several decades.\nIn terms of overall portfolio deferments, a significant percentage of our first 90-day deferrals have expired. And at this point, we are seeing a relatively low level of additional requests which is partially due to the timing of payment due dates. As of July 14th, 2.3% of the total loan portfolio was in a 90-day deferral status. We will continue to gain additional insights in the coming weeks.\nBut based upon current conditions, activity to date and ongoing discussions with our customers, as Kessel mentioned earlier, we believe this percentage could increase into the range of 3% to 5% this quarter. The process for granting a second deferral takes into consideration the borrower's current financial condition and liquidity, the impact of the borrower's industry from COVID-19, and the performance history of the borrower pre-COVID. The strength of our portfolio coming into the crisis combined with the assistance from deferrals and government stimulus programs, should help many customers weather the storm and help to minimize defaults. Combining these actions with strong loan-to-values and good sponsorship should help to mitigate and limit future losses.\nMoving to Slide 12. This is an example of the analyses we've conducted to identify and assess the financial strength of our borrowers. This work is supported by our commercial portfolio transaction data where we have the primary operating accounts. Approximately two-thirds of our commercial loan exposures have an operating account open with us.\nAnd we have been comparing their cash inflows which can serve as a proxy for revenues on a year-over-year basis to assess and predict their ability to repay debt during this crisis. Using this data, we have validated the impact to cash inflows between our customers who received a deferral and those who have not, as well as, the pace of improvement. Our customers overall have experienced improved cash flows since the trough in April, with the month of June exhibiting only a 6% reduction in cash inflows relative to the same month last year. This analysis is constructive in evaluating current conditions, but more importantly, it enables a more real-time analysis versus traditional underwriting criteria and provides a prediction of cash flows throughout the current economic cycle.\nPredictive analytics allows us to determine which customers require intervention and whether, for example, a deferral or bridge facility could provide the support needed to supplement short-term cash flow disruption. It also provides early identification of customers where the outlook is less optimistic, thereby, allowing us to take earlier action to reduce and mitigate losses. As we turn from credit to Slide 13, before I talk about the future, let me briefly touch on the present. Despite the challenging environment, our businesses continue to perform well.\nYou have heard from Kessel and Jamie on the financial results this quarter, and those results reflect the ongoing success we have across our geography and our business units. I want to highlight several areas that continue to perform at a high level in this difficult economy. First, as we have mentioned several times on today's call, our mortgage business produced $1.4 billion in the second quarter, which was up $900 million or 164% over the first quarter of this year. Yes, the low-rate environment helped drive volume, but it's important to also note that mortgage loan originators recruited since January 2018 have produced 42% of the year-to-date volume.\nSuccessful recruiting in the past two years has also proven to be a key factor in our mortgage growth. Second, we continue to bolster our balance sheet and P&L through productivity gains. With mortgage and wholesale banking leading the way, second-quarter funded loan production was up 43% versus the same quarter last year and deposit production with increases in all of our lines of business, was up 37% versus second-quarter 2019. The deposit growth is a great example of how our relationship-based model continues to deliver results.\nThis quarter's results reflect the growth in both balances and accounts. It is a function of new customers being gained through the P3 process, new talent that we've added, as well as, thorough, consistent prospecting efforts while continuing to see existing customers augment their balances. Next, as we've also shared in the past, we have been aggressively adding talent and new services in our treasury and payment solutions area. As a result, production revenue of $2.9 million in the quarter, was up 210% versus the second quarter of 2019.\nLastly, our Global One premium finance business unit continues to generate strong growth while improving returns and the overall efficiency of operations. As a result of this continued success and the successful integration within Synovus, we have expanded the responsibility of the executive leadership to now lead our specialty finance division which includes structured lending and asset-based lending. Underlying all of these results, we have seen more significant year-to-date growth in markets where we have made substantial investments in talent, in marketing, and in distribution channels. Markets such as Atlanta, Tampa, Miami, Birmingham, and Greenville, South Carolina drive a large portion of our overall growth.\nAnd speaking of talent, we have continued to selectively attract top talent in growth markets throughout this quarter across all of our businesses. We have achieved these results while our customer satisfaction scores and our branches and our contact centers remain quite high, and they've actually increased versus historical levels. All of these areas, as well as others I have not mentioned, give me great confidence in our ability to win. And when we return to a state of normalcy, we will be even better positioned to do so.\nAs I close, let me transition to our Synovus Forward initiative which we've highlighted on Slide 13. We remain focused on the execution of this program to drive incremental efficiencies and sources of new revenue in 2020 and beyond. Our financial objective of an incremental $100 million in pre-tax income remains intact with the efficiency benefits being realized early in 2021 while the revenue benefits will continue to build throughout next year. Our work on one of our largest expense initiatives, our third-party spend concluded last week.\nThis work stream was accelerated and has proven to be quite fruitful with the identified savings from the renegotiation and demand management efforts yielding savings of around $25 million. These benefits will be fully realized in our run rate expenses in 2021. We have also completed Phase 1 of our branch consolidation and corporate real estate optimization efforts and are diligently working on subsequent opportunities that will result in additional savings in 2021. We remain confident in our ability to generate $45 million to $65 million in expense savings through this program.\nWhile we have focused more intently on the efficiency initiatives out of the gate, we have also turned our attention to the revenue opportunities that were identified during the diagnostic phase with the total potential pre-tax income of between $35 million and $55 million. Analytics enhancement is at the center of many of these opportunities. As I mentioned previously during the second quarter, we utilized the resources on this work stream to build out our credit analytics and predict the modeling capabilities to create early warning mechanisms that will allow us to take actions to mitigate and reduce credit losses. We will benefit from this work in the coming quarters, but this work will also serve as the baseline analytic framework to generate advancements in our sales and our service activities, as well as, improvements in our overall relationship profitability.\nMoreover, as we enter 2021, we will be in a better position to optimize the pricing of our depository and treasury products and solutions through the deployment of new tools and processes. We will maintain a dedicated team to continue to lead this work and we'll also remain flexible to adjustments and additions to the overall program. This work serves as our North Star as we prioritize future investments and determine needs to continue to differentiate Synovus in what is becoming an increasingly competitive landscape. We also recognize the uncertainty in the environment and the subsequent impact of financial results which may lead to a change in the scope and the sizing of the program.\nAnd the management team is fully committed to execution and the delivery of the results. With those comments, now let me turn it back over to Kessel to begin the Q&A portion of our program."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "So thank you, Kevin. And before I go to Q&A, I just want to close by thanking our team. I had the privilege last week of participating in our mortgage company townhall meeting where they were celebrating a quarter of not only record production, but significant increases in customer satisfaction surveys. And I said to them, what I'll say to our entire team today, I've never been more proud to be associated with the Synovus team and I continue to be inspired by, not only what they do, but how they do it, putting our customers first in all that they do each and every day.\nAnd in spite of all the challenges and uncertainty facing our industry, we continue to attract and retain the very best talent in the industry. And now operator, I'd like to open the floor for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our first question comes from Bradley -- Brady Gailey from KBW. Please go ahead."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Thanks. Good morning, guys."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Good morning, Brady."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Good morning, Brady."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "So I wanted to start with the expense base. I mean, on an adjusted point of view, it was $276 million this quarter. You talked about expenses going down in the back half of the year. Maybe just talk about the magnitude of how much of a decline we could see there? And then, that's good news on the third-party spend, $25 million.\nIt seems like that was a little more than you all were anticipating. And now, you're looking at the branch side, it feels like with the new backdrop of COVID, you can maybe find a little bit more than you were expecting there, too. Maybe just talk about the possible upside on finding more expense saves than initially expected under the Synovus Forward plan?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah, Brady. Hey, it's Jamie. As we look at expenses in the second half of this year, there are a lot of ebbs and flows. We do expect expenses to be lower.\nThat would be predominantly led by personnel expense declines. That's also assuming that mortgage revenues don't stay at the high levels we experienced in the second quarter, but we expect that to normalize as well. As you mentioned, we continue to focus on real estate. We closed six branches in the first half of the year and we're expecting to close another seven in the second half of the year.\nSo, we're active there and we're also reviewing our non-branch real estate. As you're aware, we're all learning a lot about how to use non-branch real estate in this environment. And so, we're reassessing everything these days and we believe that there are opportunities there. You're right on the third-party spend initiative.\nThat has performed better than expected. We're always pleased when we can find additional cost saves in third-party spend and we've done that. Those saves will come in over the next few quarters. They're not immediate just because some of the contracts, they don't renew immediately.\nAnd so, we'll see that come in over the next few quarters, but we're very pleased with that. We still believe that the expense save range of $45 million to $65 million makes sense for Synovus Forward. But I will say that we're constantly reassessing. This is an evolving environment.\nWe're looking at longer term into 2021 and performance -- the performance outlook and our strategies will evolve as the environment evolves. I just remind you that we came up with Synovus Forward and launched it in a very different operating environment. We had a growing economy and the outlook has changed significantly. And so as the outlook changes, our strategies will change.\nAnd so you should expect to see that."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "OK. And then my second and last question is just on the dividend. With the stock trading with a 7.5% dividend yield, it just continues to be a big investor focus. You know, if you look at reported earnings of $0.57 this quarter and just a great quarter, it feels like you should be more comfortable with the dividend after 2Q.\nIs that a fair assumption?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah, Brady, we are comfortable with our dividend. But we -- as you know, we look at it in two different capacities. We're looking at capital adequac and we look at long-term earnings and the payout ratio. And so with capital adequacy, as I look at where we are today, our -- we're right at our 9% CET1 target.\nThat target is informed by stress testing. And if you look at severe adverse scenarios over a nine-quarter period, we expect capital degradation of around 2.3%. We also took a look at the losses in the most recent DFAST results and put those on our portfolio at the product level. And you come up with a similar capital degradation when you look at that kind of external view.\nSo, we feel good about a 9% CET1. But what I'll say is that when we ran our stress test in that capital degradation, we didn't have near the allowance that we have today. And so, we've built this allowance while maintaining capital and we ended the quarter at 8.9%. But as I mentioned in the prepared remarks, the transactions that have closed and settled since quarter end will add approximately another 20 basis points to common equity Tier 1.\nAnd so, we feel really good about where we are with regards to capital at this stage. And then with regards to earnings and the payout ratio, we believe that it's appropriate to have a 70% to 80% total payout ratio. We want to retain capital for growth. We believe very strongly in the opportunity for Synovus in the southeast.\nAnd we -- organic capital generation is the best way to have capital to go out there and grow customers and grow the bank. So we want to retain capital generated through earnings for growth. But we also believe that investors have the right and desire of current income. And so, we weigh both of those.\nWe look at our forecast and we look at our total payout ratio and our dividend payout ratio. The dividend payout ratio is elevated versus our targets over the foreseeable future, but it is not restrictive of our strategic plan. And so, we feel good about where we are."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Great. Thanks for the color, guys."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ken Zerbe from Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "Hey, thanks. I guess really quick question. In terms of Slide 11, obviously, the amount of deferrals that you expected of Round 2 are significantly less than what they are in Round 1. But can you talk about the lost contents when we think about those Round 2 deferrals? Obviously, they are the weaker credits that are asking for more time.\nDoes the loss content presumably go up dramatically on those? Or how are you thinking about that? Thanks."
+    },
+    {
+      "speaker": "Bob Derrick",
+      "speech": "Yeah. Hey, Ken. This is Bob. I'll try to answer that on these strategic industries or COVID-sensitive industries that Kevin pointed out.\nBut when you start thinking about loss content, I mean, clearly, we are modeling various scenarios there. But back to Kevin's point about cash flows in his comments, early indications are that our sensitive book has moved back closer to the breakeven cash flow line. So again, you start thinking about how do you model and run various scenarios. So clearly, hotels and shopping centers from a CRE perspective, we believe, would be the most impacted when you think about looking at third and fourth quarter, looking at the second referrals.\nFrom a loss content, specifically, obviously, I don't -- I can't give you a complete estimate. But we're modeling various scenarios and feel good about where we are today as it relates to those portfolios."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yeah. And Ken, I'll just add, Bob mentioned some of the analysis we're doing. When you look at it at a broad level, we only have a very small percentage of our customers, 1%, 2%, 3% that would have a cash financing need in the next 90 to 180 days. And that's where we're evaluating, whether it be additional stimulus that would come from the government or whether it would be the existing plan through Main Street lending or other bridge facilities that would bridge that gap.\nSo to Bob's point, it's a very small percentage. And when you look at the cash inflows and how they come back in June, it's really going to be a wait and see as we look into the future and see what July, August, and September hold for many of these industries and what would happen if there's a surge in cases, and there would be a return to lower levels of cash inflow. So, Bob said it well. It's unknown at this point, but we do feel like we ring-fence the risk and we have a good estimate of where the risk is coming from, and we're doing everything we can now to mitigate that."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "Got it. OK. And then just my follow-up question, staying with credit. I think Jamie mentioned, had a sentence in his prepared remarks that essentially you said the ACL could remain elevated and essentially might not fully offset future charge-offs.\nI get it if the economy deteriorates from here, that totally makes sense. But given CECL, like your charge-offs should more than cover all your anticipated charge-offs -- sorry, your reserves should cover all your anticipated charge-offs that you do expect given today's expectation, and we've certainly heard from other banks. One in particular said that they think the second quarter is the peak in their reserve ratio and it should start to decline given what they're expecting. Is there anything different with your portfolio that -- or is that sort of a throwaway comment that provisions -- that reserves aren't going to fully cover charge-offs? I just want to make sure I don't misread that in any way."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Again, Ken, it's Jamie. You're thinking about it exactly right. That comment is just really is around the uncertainty in this environment. Obviously, we believe that our allowance today covers us for the charge-offs embedded in our book life of loan losses.\nAnd so, we feel good about that. However, it's just highly uncertain and we will be constantly reassessing that as we go through the next few quarters by looking at both economic outlook and risk rating migration."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "All right. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Jared Shaw from Wells Fargo. Please go ahead."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Hi, good morning."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Good morning, Jared."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "I guess, sticking with -- on the deferral renewals. Are you able to get any type of concessions or enhancements more broadly from the loans that are going to be going into the second round of deferrals? I guess, how are you -- how are you looking at actually approaching the renewals, whether it's in the COVID-sensitive industries or whether it's just more broadly?"
+    },
+    {
+      "speaker": "Bob Derrick",
+      "speech": "Yeah. Hi, Jared. This is Bob. Just a quick comment on the deferral process that I think can add some color to that for you.\nThat process, obviously, does entail us addressing each credit on a loan-by-loan basis, certainly on the larger wholesale accounts. In that process, we clearly are looking at modifications to the node, changes to the collateral, changes to recourse, etc. So you get sort of a reunderwriting to some degree, effect on that credit. It also gets a refresh on risk grade, etc.\nAnd kind of to Jamie's point earlier, there is migration involved there, too. So, it's a pretty detailed look at a specific credit in order to grant a second deferral. Now some of the smaller credits to Kevin Blair's point earlier, we're using a lot of data analytics. This is helping us drive those decisions for second deferral.\nSo, it's a lot harder to do deep dives on the smaller portfolios, but we're also not just granting them without looking at some data as well."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "And so to your point, I mean, we're getting guarantees where it makes sense. We're taking extra collateral. We're getting fees. So not only are we protecting ourselves from risk standpoint, we're trying to benefit the P&L at the same time."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "And then on that risk migration that you mentioned, so on some of those, we could potentially see some incremental level of charge-off at the renewal of the deferral, if the -- if that underwriting or those values didn't hold up?"
+    },
+    {
+      "speaker": "Bob Derrick",
+      "speech": "Yeah. Jared, I guess, this is Bob again. I think theoretically, you could. But recall -- remember, we're still early in the process and I think we did see some migration in our rated book as you saw.\nBut with the amount of liquidity out there and what we're seeing and talking specifically with our customers, particularly our larger accounts, is that -- that will probably be a few quarters down the road before we begin to see to what level charge-offs begin to materialize."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "OK. Thanks. And then, I guess, my second question, could you give a little more detail on the securities repositioning? And where you're seeing -- where you're reinvesting cash flows for this [Inaudible]"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah, Jared, this is Jamie. With the securities portfolio, as we look -- we came into the second quarter, interest rates obviously declined. If you looked at the mortgage refinancing index it was spiking. We had our own production was increasing.\nAnd we looked at the portfolio and we had a significant amount of securities in the portfolio where we saw elevated prepay risk. And we have gain on -- unrealized gain in those securities and we decided that it was better to take those gains, realize them, move that income forward, and reduce prepay risk. And so, we did that in the securities portfolio. If you look at the portfolio at quarter end, the book yield was approximately 2.4%.\nThe going on yield for new investments these days is approximately 1.5%. And so, that's the rationale behind the transaction. We will continuously evaluate that portfolio and look at market dynamics as we think about how to manage it going forward. So, that's a background on that."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "OK. And then -- but the duration of new purchases is -- you're not changing, I guess, the tenor of new purchases significantly?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Not significantly. We did extend duration a little bit on new purchases."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Brad Milsaps from Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Hey, good morning."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Good morning, Brad."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Good morning, Brad."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Hey, Kevin, I just wanted to maybe talk a little bit more about Slide 12. I thought that was interesting. I just want to make sure I clearly understand. This covers about 65% of your loan portfolio and it's really based on changes in sort of kind of what you're looking at in terms of operating deposit accounts? Or are you actually looking at real-time cash flow statements from customers to drive the data that on Slide 12? Just wanted to kind of understand that a little more clearly."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yeah, Brad, it's the former. So, we're looking at their operating accounts to evaluate what the cash inflows are, and quite frankly, the outflows in those accounts. And so, we use that information, its transaction level data. The reason it's 65% is that's where we felt comfortable with having the full relationship to be able to look at all the inflows and outflows.\nAnd as you stated, it gives us an opportunity to look at the static environment. So we saw in June that there was only a 6% reduction in inflows across the entire book. And I think, it shows you that we've done a good job of identifying those loans that needed a deferment and that they were still down 12%. And those that didn't need a deferment, the inflows were down only 5%.\nNow, this is one side of the equation. Obviously, each of these businesses can be constraining their outflows. So it doesn't mean that necessarily that it's a drop to the bottom line. As Jamie talked about in his prepared remarks, we've actually seen an augmentation of deposit balances over this time frame a roughly 10% on average balances.\nSo, it shows you even though inflows are slowing during the crisis, people are able to flow their outflows as well. What's most important about this data, and Bob mentioned it earlier, is with the thousands of accounts that we have that we can't go do what you're suggesting the cash burn analysis which we are doing on the larger credits. This allows us to look at the static position, but then most importantly, predict into the future knowing what the recovery rate per industry is going to be. And so, we can know 180 days or longer, 12 months out, where there's going to be shortfall in the cash flow and we can take action today.\nSo, it's good information, this is static. Just know that the most important part of it is the predictive abilities of having all that transactional data to be able to take early action."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Is this something relatively new for Synovus? Or as it -- things that kind of you maybe rely on the past that maybe from your experience at SunTrust or Jamie coming from Regions?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "It's new. We leveraged, as I mentioned, on Synovus Forward, we have analytical work stream that we were starting that was largely focused on sales and service-type initiatives. And we rediverted those sources to take all of our analytical resources internally and a third party to develop out this predictive model during the second quarter. So it's new.\nAnd the good news is, Brad, it's going to not only serve as a great platform for credit analytics that same transactional data will allow us to do service and sales leads, and other types of relationship building, predictive modeling that will be coming in the latter half of the year."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Great. And then just one final follow-up related to the margin. Jamie, you mentioned over the next several quarters getting interest-bearing deposit costs down to the third-quarter '14 levels. Do you feel like this environment and kind of where you are with the Florida franchise will kind of allow you to sort of equate those two deposit bases to one another? In other words, bringing that mix more in line with legacy Synovus in terms of cost? Or is Florida market where you still have to pay up to some degree to continue to get funding?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah. First, as you look at mix, we have achieved -- largely achieved returning to the pre-FCB Synovus deposit mix. And so, we're pretty pleased with that. We included the chart showing the relative cost to our third quarter of 2014 lows really didn't show where the opportunity lies and it's in our time deposit book.\nWhen we look at our core time deposits, we have $2.8 billion that mature in the second half of this year. Now the average rate on those maturities is somewhere around 1.75%. Our going-on rate on time deposits is over 100 basis points lower. And so, we do have line of sight into how we're going to attack that deposit cost.\nIt's largely in the time deposit book. I mentioned core time deposits. We also have the opportunity in public funds. We also have the opportunity to broker time and there's still some opportunity left in interest-bearing transaction deposits, but the larger opportunities in time deposits."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Jennifer Demba from SunTrust. Please go ahead."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Thank you. Good morning."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "You mentioned your net charge-offs this quarter were driven by -- largely by one credit. What industry was that in? And what was the severity of loss on that loan? And then my second question is, can you share with us your criticized loan levels in your more pandemic-sensitive loans that you outlined in the deck? Thanks."
+    },
+    {
+      "speaker": "Bob Derrick",
+      "speech": "Yeah. Hey, Jennifer. It's Bob. As Jamie mentioned, that was -- one credit was in aviation.\nThat -- we've been working through that credit now for a few quarters. We think we've recognized the loss content. It goes through our normal impairment process, etc. So, we don't like to talk about specific credits, but that one's flowing through the normal process.\nAs it relates to your question about migration and the sensitivity or the sensitive industries within that migration, obviously, that's -- there is some correlation there to -- our increase in criticized classified would correlate somewhat back to, mainly the hotel and shopping center portfolio as I mentioned earlier. Specifically, in terms of what percentage, I couldn't tell you, but it is a little bit correlated there. We expect that to continue. But as Kevin Blair mentioned, we think we've got a pretty good ring-fence around those aggregate dollars and we'll go through our modeling to kind of predict that out as it flows forward.\nWe're taking the charge through the ACL as you know, today with the CECL reserve."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from John Pancari from Evercore ISI. Please go ahead."
+    },
+    {
+      "speaker": "Rahul Patil",
+      "speech": "Yes. This is Rahul Patil on behalf of John. Just had a question on the reserve. How much of that $615 million reserve is allocated to the CRE portfolio? And how much of the reserve was released tied to the student and the GreenSky loans move to held for sale?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah. We -- we -- as you look at the student loan transaction, that was approximately $13 million in allowance release associated with that portfolio. And so, when you think about our total provision or total provision costs in the quarter, we would [Inaudible] that you would add the incremental $13 million build on that. What was the other part of your question?"
+    },
+    {
+      "speaker": "Rahul Patil",
+      "speech": "Yeah. How much of the total reserve is allocated to the CRE portfolio?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "We have not disclosed that."
+    },
+    {
+      "speaker": "Rahul Patil",
+      "speech": "OK. And then just one question on expenses, just thinking about it a little differently. So the adjusted efficiency ratio has hovered around 57% to 58% in the first half of this year. In the past, you've talked about a longer-term efficiency target of probably in the low to mid-50% range.\nWe obviously have the revenue and expense initiatives ongoing. When do you expect to reach that level in terms of efficiency ratio? Or do you have like an updated target for us?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah. Let me just run through the different components of that to give an idea of how we're looking at it because it's a highly uncertain environment. And so, we have not updated or put targets out there -- updated targets for this environment. So when you look at revenue, I'll just start with interest income.\nWe're forecasting the margin when you incorporate the 9-basis point impact of the transactions we discussed, and then you exclude the impact of P3, we expect the margin to be flat. But when you think about interest income over the second half of the year, it will likely be up due to the forgiveness of P3 loans. And so, I would expect interest income in the second half of the year to be higher. We would expect fee revenue NIR to be down, and we would expect that to be just because the first half of the year was so strong, specifically, in mortgage.\nAnd so, when you look at total revenue, I would say, flat to slightly up for the second half of the year. And then as we discussed, we expect expenses to be down. As we get to the longer term, we're committed to top-quartile performance to delivering a strong return for our shareholders. But we're not in a spot to say what our target is or where we expect to be longer term."
+    },
+    {
+      "speaker": "Rahul Patil",
+      "speech": "All right. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Garrett Holland from Baird. Please go ahead."
+    },
+    {
+      "speaker": "Garrett Holland",
+      "speech": "Good morning. Thanks for taking the questions and I appreciate all the detail this morning. Just a follow-up on that last one, Jamie. There's clearly a number of moving pieces with P3 fees, excess liquidity, and the deposit pricing opportunity.\nHow do you expect NII, excluding P3, to trend over the back half of the year? And where do you think its stable items?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah. My expectation for the second half of the year is that NII is higher, inclusive of P3 fees. When you back those out, however, I would go back to the margin guidance and basically say that when you exclude P3 fees, we're going to have a 9-basis point headwind due to the transactions we discussed. And then, we have offsetting the headwinds from fixed rate asset repricing and the tailwinds of deposit repricing.\nAnd we think those are going to net to a push. There will also be a benefit -- we had an average of approximately $1.5 billion of cash at the Fed in the second quarter. We expect that to be lower. That's not certain, but we would expect that to be a tailwind to the margin.\nIt won't impact NII, but those are the moving pieces as we think about NII in the second half of the year."
+    },
+    {
+      "speaker": "Garrett Holland",
+      "speech": "That's helpful. Thank you. And then just quickly, I guess what pressure does the pandemic operating backdrop put on the timing for Synovus Forward benefits? Clearly, there's better visibility for the third-party expense and real estate savings. But do you feel good about your flexibility to increase those expense synergies if the revenue benefits don't materialize?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yeah. I'll take that, Garrett. This is Kevin. Look, we've said it's a very flexible and scalable program where we're -- we evaluated over 20 different initiatives during the diagnostic phase.\nWe decided to move forward with several expense-reduction initiatives that we call funding the journey. Obviously, we believe in the second half of this year and early next year. We believe there's opportunities to generate incremental revenues. We've talked about the $35 million to $55 million range.\nWe remain confident in that. And that -- those initiatives really revolve around analytics and pricing for value. But as you know, we -- the top line of the initiatives are to generate the $100 million in pre-tax income. So as certain initiatives ebbs -- will ebb and flow, we're going to be able to adjust on both sides of the ledger, whether it's revenue or expense.\nAnd I'm equally as optimistic as we have announced on this first initiative on the third-party spend that the rest of our efficiency initiatives will be successful. And I'm optimistic that many of the revenue initiatives will also be successful. But as Jamie mentioned earlier, based on the environment overall, we may have to scale up the program in general. But we'll continue to keep a dedicated team focused on it and we'll have it focused, not only toward the financial objectives, but also the prioritization of future investments and making sure that we're continuing to enhance the team member and the customer experience."
+    },
+    {
+      "speaker": "Garrett Holland",
+      "speech": "Thanks, Kevin."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steven Alexopoulos from JP\u00a0Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Anthony Elian",
+      "speech": "Hi, good morning. This is Anthony Elian on for Steve. I had a question on -- good morning. I had a question on credit.\nA couple of your peers in recent days have called out one-off charge offs in restaurant and energy. I just wanted to get a sense of anything of note you guys are seeing in either of these portfolios. Understand that there is a small composition of your overall loan portfolio. I just wanted to see if there's anything of note that you're seeing?"
+    },
+    {
+      "speaker": "Bob Derrick",
+      "speech": "Yeah, this is Bob again. On -- specifically on energy, that portfolio is relatively small. I think we disclosed it in less than $300 million range. We haven't seen any specific credit degradation there.\nMost of our exposure's not related to exploration and production. It's more related to transportation and support industries. And then specifically, I think on the rest -- on the restaurants that you called out, a lot of our portfolio is drive through quick-serve type restaurants. Most of those are smaller loans.\nWe probably will see some credit migration in that portfolio, but that's a book that's primarily built around our community bankers. It's built around customers that we've known for a long time in our markets and we feel like we're really close and talking to those customers on a routine basis. And feel OK about where we are, but certainly in that portfolio, you could see the credit migrate over a period of time."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "And I'll just draw your attention to Slide 27 and 28 in the appendix, where we give you the quarter-to-date metrics both on restaurants and the oil industry, so you can reference that."
+    },
+    {
+      "speaker": "Anthony Elian",
+      "speech": "OK. And one follow-up for me. Of the $4.5 billion of core transaction deposit growth you saw in the quarter, how much of this came from non-PPP activity? And can you estimate what percentage of these balances are sticky in nature? Thank you."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah. It's difficult to attribute the deposit growth exactly. But we would say that I think we can tie about $2.2 billion, $2.3 billion to PPP borrowing. And that we would -- as we look at it, this is not comprehensive, but we would say that somewhere between 10% and 20% of the cash from PPP has been utilized.\nAnd so, it's less than we would have originally imagined at the beginning of the program but that's where it currently stands. The stickiness of the deposits for the second half of this year -- remaining conservative on how we manage the balance sheet, how we look at the cash on the balance sheet, and expected outflows. But it's our expectation that these balances do remain on the balance sheet for the next couple of quarters."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Hey, Jamie. If I could just add one more point to that. In PPP, obviously, we're going to get some balances that leave us. But the other important part we have -- and this is also in the appendix.\nWe were able to generate 1,900 new relationships from the P3 program. And although it originated only $229 million in P3 balances, we've been able to garner a full relationship from those new customers. And so, there will be balances that come to us that will not leave. So, not only will we be able to take advantage of the P3 program and the fees from that, but we've now generated almost 2,000 new relationships as a result."
+    },
+    {
+      "speaker": "Anthony Elian",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steven Duong from RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hey, good morning, guys."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Hey, Steve."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Just on the capital degradation under your stress test, the 2.3%. So if that was to occur, that would take your CET1 to say the low to mid-7%. If you were to assume that you -- to build the CET1 next few quarters. Is that a range that you guys would be willing -- you want to still keep the dividend if it got to, say, around a 7.5% level?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "You know, Steven, as we think about capital and how do we manage in that adverse environment, I mean, that's a hypothetical scenario that if we had perfect foresight. Our dividends generated about 40 basis point -- common dividend is about 40 basis points of capital per year. And so, that's about the impact of if you were to pivot from a $0.33 a quarter down to $0.01 or to $0. And so, it's not tremendously material.\nObviously, in a severe adverse scenario where you're taking your hands off the wheel like the stress tests assume you want every piece of capital, but 40 basis points per year is not tremendous. If you had perfect foresight and you saw a scenario like that happening where earnings were depressed for an extended period of time, obviously, we would consider our dividend policy. But as we've shown in the first half this year, the stress test assumptions of total hands off the wheel around managing your own balance sheet are not accurate with what we would do. You can see by our actions in the second quarter that we're going to actively manage our balance sheet.\nWe have the means and the ability to improve capital and manage capital through adverse environments. And you see that with the student loan sale, you see us generating capital and building reserves at the same time. So we feel good about that. And I think, that that's how we would look at the severe adverse scenario which is not too dissimilar from how we look at the balance sheet today.\nWe're focused on creating capital today."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "No, that was good -- I mean, it's really great to see this quarter that the amount of capital you guys were able to generate. And then just a follow-up to that. After we get through this credit cycle, we are in a really first-of-a-kind interest rate environment. I guess, how does -- how are you guys thinking about the future margin and your PPNR and able to maintain your dividend based on that?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah. As we look at longer term, as I said, we've given guidance of the margin being flat once you adjust for that 9 basis points for the transaction and excluding P3. And we believe that we have opportunities on the liability side to offset the kind of persistent pressure we will get due to fixed rate assets, both mortgage loans and more securities repricing over time. And so, when we think about our margin, we see it as fairly stable, given those inputs and assumptions.\nAnd we look at the balance sheet, we expect loans to be fairly flat over the second half of the year. And so, those are our core assumptions for NII. We believe NIR, we still have the teams and the customer base to have strong growth there. And so, when we think about PPNR or just total revenue, we feel it's either strength in NIR.\nNII, we expect we'll have a combination of a fairly flat margin, and truthfully, fairly flat loans for second half of the year."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "And Jamie -- I'll give you -- Jamie gave you some of the financial response. But I would just add from a business standpoint, we feel like we're well situated in the southeast to continue to grow once we get to your point on the other side of this environment. We think that we've been able to add talent in the last several years that was proving out in the first quarter before we hit the pandemic that we were seeing elevated levels of growth. And so, I'm very confident in our bank's ability to continue to take share and win business, and that's going to be the differentiator in this world that we live in.\nIf it's a flat rate environment, everyone's going to be sitting there with lower margins. And so, those banks that can generate growth through acquisition and customers and expansion are going to be the ones that outperform, and we're confident we'll be able to do that."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Great to hear and thanks again for everything -- for all the information."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ebrahim Poonawala from Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Hey, good morning, guys."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "I guess the question actually for Kessel. You mentioned, Kessel, you've been through a lot. I think shareholders who've been with Synovus in the last decade have been through a lot, all through the recovery coming out of the last crisis. I'd love to get your thoughts as the chairman of the board around the dividend.\nI appreciate the dividend payout ratio and targeting 30% to 40%. There could be a chance you remain at a much higher level for the foreseeable future. But if you are a shareholder of the company, it feels like there's a lot of judgment calls that will be involved. And I'd love to get your thoughts around, again, if the macro gets much worse for the entire industry, I get that.\nBut if it doesn't, it seems like your messaging is creating a lot more idiosyncratic risk around Synovus' dividend outlook. I'd love for you to address that, Kessel."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Yeah, Ebrahim, I think I got most of that question and happy to do that, and thanks for calling on me because our team was starting to think I was not a participant today so thank you for that. Look, as chairman of the board, I'm totally in sync and connected with the message that Jamie just delivered. As a matter of fact, I think Sunday morning at 7 a.m., Jamie, Kevin, and I were on a call looking at not just this year, next year, looking at some of the same tests that the Fed has laid out for larger banks in terms of a rolling four-quarter average, testing the sensitivity around that payout both as, again, as it affects capital ratios and as it reflects on a percentage of, again, long-term earnings. So you mentioned, yeah, if the industry went into a severe depression, I think all bets would be off for all of us, or at least for most of us.\nBut today -- and we present that same analysis to our board. I've noticed several of our peers talked about the board is expected to approve. Our board is very well informed. And as chairman, my obligation is to make sure that we present, not only Jamie's base case, but present the scenarios that could call that into question over the long term.\nSo I mean, I would love to be able to give total clarity over the next three or four years. I think today, I think, we've laid out well based on conditions today, based on the quality of our credit, the build of our reserve, the capital levels, our ability to flex this quarter, and quite frankly, beyond to make sure that capital ratios stay at well-capitalized levels. Jamie mentioned another 20 basis points already this quarter in CET1 based on actions taken to date. So again, totally in lockstep.\nWe don't have a management view and a board view, but I, again, as chairman, make sure our board sees, not just our analysis, but the Board is very well informed by third-party investment banks that run their own models, their own stress tests, their own scenarios. So today, again, we feel confident in the level of the dividend. But as, again, I think all of my peers have said on every call, there is a lot of uncertainty in the market over the long term. So, we'll continue to update investors every quarter on our view.\nAnd certainly, if it were to change, we would inform, not only on this call, but every opportunity we get. Transparency's always been very key to us. And I hope, from Jamie's explanation in mind, you feel that way. We'd be happy to follow-up.\nBut totally in sync with Jamie, Kevin's comments, again, on credit, on capital, and dividend."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "So, I think that was helpful. Thank you. And just a very quick follow-up, Jamie, that the CET1 9.1%, it's not the highest, but it's a pretty healthy level. What do you expect for the CET1 to trend? Like do you think that ratio goes higher from here? And are there other actions that you could do to further shore up the capital ratios if you need it to?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah, Ebrahim. CET1 could go higher from here. We would expect it to just through core earnings. That's our No.\n1 source of capital. And as we look forward, we assume that our allowance today is appropriate. And when you think about -- if your allowance -- if you're not having significant allowance builds, it's really through PPNR, and I've given kind of the breakdown of how we view PPNR in the second half of the year. So, yes, we would both -- we are not repurchasing shares for the rest of the year.\nWe are forecasting earning positive earnings and growth there. And so, we feel good about organic capital generating -- generation in the second half of the year. I would also point to -- while it is not our plan, we do still have $200 million in unrealized gains in the securities portfolio. So, we're not intending to transact there.\nBut as I mentioned, that's something that we continuously evaluate. And there's a rationale -- strong rationale to reposition the portfolio. It may -- we may end up with more gains, realized gains. And so, I would say those are the larger considerations there."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Good. I know it's been a long call. Thank you for taking my questions."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Christopher Marinac from Janney Montgomery Scott. Please go ahead."
+    },
+    {
+      "speaker": "Christopher Marinac",
+      "speech": "Thanks. Good morning. Just a quick question on the mortgage business and the sort of infrastructure spending you've done already. I know that this quarter was great and may not be sustainable.\nBut I feel like you've made to us a lot of investments to kind of position yourself well for the long term. So, I just wanted to go through that real quick."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "So as you think about mortgage, obviously, about 66% of the volume this quarter was refinances, Chris. So, that will abate somewhat going forward. We knew that there was an increase. When we think about what we've been able to invest in over the last several years, as I said in the prepared remarks, we've been able to add mortgage loan originators over the last two years that we think are critical for our future success.\nWe have about 146 at quarter end. And so, if you do the math on that, they did about $10 million per LO last quarter. So that will come back a little bit. The other -- just based on the volume from a refinance perspective.\nBut the other wildcard is just understanding what the secondary gains are going to be in the market in the third quarter. We had about 3.3% in margin this quarter. That was a bit elevated from what we had expected. So I think when you go to third quarter, we'll still see a very strong production quarter.\nWe'll have to watch margins and that will ultimately determine what the secondary gains will be in the third quarter. But they'll come down from the elevated levels. I think Jamie said it. I mean, the second quarter was really a record level and it's something that we don't expect to see for the latter part of this year."
+    },
+    {
+      "speaker": "Christopher Marinac",
+      "speech": "Great, Kevin. Thanks for that. And Jamie, just a quick one on the deposit mix as you cited back on Slide 5. Does the change in the C&D mix kind of take a couple more quarters to get where you want it to go? Or how -- what's the proper timeframe to expect there?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yeah. You know, it will take a few quarters. I would extend it a little more than a couple, but I'll just point you back to the $2.8 billion that we do have maturing here in the second half of the year. That's a significant piece of it.\nBut you're right. They do extend into 2021."
+    },
+    {
+      "speaker": "Christopher Marinac",
+      "speech": "OK. Very good. Thanks again for all the information this morning."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Michael Rose from Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Michael Rose",
+      "speech": "Hey. Just a follow-up on total adjusted fee income. I understand the moving parts and I appreciate the answer to Chris' question. As I look at some of the other line items like service charges and bank card fees, I would expect those to continue to normalize from fee waivers and card activity, stuff like that.\nJamie, should we think about fee income on an adjusted basis actually being relatively flattish as we move into the third quarter? Would that be your expectation? Thanks."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "My expectation is actually that it declines in the third quarter and that's really, really based on mortgage. This quarter in mortgage at just under $24 million in revenue was unprecedented. And just to put a box around that. The mortgage team produced $1.4 billion in mortgage total when you include one we sold secondary and ones we've grown in the portfolio.\nThat $1.4 billion was larger. That individual quarter was larger than 14 of the last 22 years. So, this is really an unprecedented quarter for the team there and we don't expect that to continue. And so, as I look forward at total fee revenue, my expectation today is that mortgage revenue trends back toward a longer-term mean which is actually a somewhat material reduction.\nAnd so, that's a large -- I agree with your other comments. But I'd say we would expect card activity to increase. If you look at just kind of core bank fees and NSF, that's challenging in this environment because there's so much liquidity. And so, we're not seeing a lot of NSF fees and capital markets income, and the rest, we would expect to be fairly stable to growing.\nBut the third quarter, we'll see a reset from the second quarter."
+    },
+    {
+      "speaker": "Michael Rose",
+      "speech": "OK. Very helpful. And then maybe a broader question for Kessel. As we do get the side of this credit cycle and there is kind of a reintermediation of loans into the banking system from non-bank lenders, given the struggles there, how do you make sure that Synovus gets its fair share, while at the same time, keep an eye on costs and reducing branch footprint and overhead employees, stuff like that? Kind of what -- how do you see kind of the Synovus story evolving and making sure that you have a growing place in this world? Thanks."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Yeah, Michael. Hey, great question. And again, we question ourselves on that every day. Let me start by saying this.\nWe believe our business model works well and is evidenced by the results, not just this quarter but the entire year. And it's not just evidenced by results which I think speak for themselves, but our ability to attract and retain talent, whether you've been with our company 40 years or four days, in some cases, bought in someone I was involved in recruiting last week. We continue, in my opinion, with all due respect to our peers to attract some of the best talent in our major metro markets here in Atlanta, in Jacksonville, in South Florida, and really throughout. So the model, our go-to-market strategy is working well.\nOur talent, I think, is the best in the industry and they want to work for our company. And I think, as evidenced of the PPP process, again, everybody tried their best. So, there's no judgment on who did better than others. But I do think, Kevin mentioned 1,900 new relationships.\nThat was evidence of, although sometimes in our industry, people think of us as a commodity. I think when times really get tough and you get into a P3-type process, our relationship-based model and way of doing business really stood out as customers didn't want to feel like they had gone into Never Never Land. They wanted a banker who could talk to them about process. Where are you? Why are you there? What can you expect? So, whether it's through increasing digital channels or making sure our branch network is optimized with the right talent, or again, our middle market teams, our wholesale teams, our specialty lending teams.\nAgain, great talent led by the original leadership team from Global One. They've expanded their leadership with our company. And again, adding, I think, true expertise in areas that stand out. At the end of the day, customers want to be banked by someone who knows their business very well.\nAnd I think, our model allows us to get the right banker in front of the right customer or prospect, and over time, add value, and quite frankly, get paid for that value. So, we're confident in the go-forward model. We want to get through this cycle. We want to continue to focus on credit, on efficiency, on revenue opportunities, but we're excited about 2021 and beyond, recognizing the challenges of a low for long interest rate environment.\nWe think we have a competitive edge and we just got to build on that and maximize that opportunity."
+    },
+    {
+      "speaker": "Michael Rose",
+      "speech": "I appreciate all the color. Thanks, guys."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Thanks, Michael."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Thanks, Michael."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Mr. Kessel Stelling for any closing remarks. Thank you."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Well, thank you. It's been a long call, but a few comments to close. I began the call today referencing the pandemic and social unrest, and it's hard to believe it's almost two months ago when all of us witnessed the senseless murder of George Floyd. And in our own state, we saw video, the tragic killing of Ahmaud Arbery.\nAnd since then, I've had countless conversations with community leaders, mentors of mine, board members, advisory board members, and Synovus leaders from the executive leadership team to the teller line. And while many of those calls were filled with very raw emotion, all were filled with hope and encouragement for what we could do on a go-forward basis to make a difference. And our company is fully committed to do our part and more to address issues of racial inequality and social injustice, both internally within Synovus if it exists and in the communities that we serve. And we're excited to soon announce a major investment in education targeted to minority students attending college.\nAnd today, as the largest bank headquartered in the state of Georgia. I just want to acknowledge the passing of one of Georgia's own Congressman John Lewis. He's one of the nicest, kindest men I've ever met in politics, or quite frankly, in life. He was a giant of a man.\nHe was a true civil rights icon and a hero to our state and to our nation. Our thoughts and prayers are certainly with his family and he'll be missed in ways that are just truly indescribable. So let me just close again by thanking our team members for their extraordinary efforts the past few weeks. It's been 130 days since the declaration of the national emergency on March 13th.\nAnd the consequences continue to weigh heavily on individuals, families, businesses, certainly our economy overall. No one knows when normal will return or what it will look like when it finally does. But as we speak, our team is executing on a well-planned, measured, safe approach to a gradual reentry to on-site locations while we monitor conditions across our footprint and continue to be guided first and foremost by doing what's best for the well-being of our team members and our customers. So just rest assured, we're acutely aware of the times we're in and of the added responsibility we have as a financial partner to help those who we serve both recover and prosper.\nSo we're fully on board. We're actively engaged with our customers and communities, and we're prepared not only to see this crisis through, but also to execute on our growth initiatives, modify it as needed to emerge with strength and a clear competitive path forward. So, thank you all again for your interest in our company, and thank you for joining the call today."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 90 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kevin Brown--Senior Director of Investor Relations",
+    "Kessel Stelling--Chairman and Chief Executive Officer",
+    "Jamie Gregory--Chief Financial Officer",
+    "Kevin Blair--President and Chief Operating Officer",
+    "Brady Gailey--KBW -- Analyst",
+    "Ken Zerbe--Morgan Stanley -- Analyst",
+    "Bob Derrick--Chief Credit Officer --- Analyst",
+    "Jared Shaw--Wells Fargo Securities -- Analyst",
+    "Brad Milsaps--Piper Sandler -- Analyst",
+    "Jennifer Demba--SunTrust Robinson Humphrey -- Analyst",
+    "Rahul Patil--Evercore ISI -- Analyst",
+    "Garrett Holland--Baird -- Analyst",
+    "Anthony Elian--J.P. Morgan -- Analyst",
+    "Steven Duong--RBC Capital Markets -- Analyst",
+    "Ebrahim Poonawala--Bank of America Merrill Lynch -- Analyst",
+    "Christopher Marinac--Janney Montgomery Scott -- Analyst",
+    "Michael Rose--Raymond James -- Analyst"
+  ]
+}

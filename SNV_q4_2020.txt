@@ -1,0 +1,413 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and welcome to the Synovus fourth quarter and year-end 2020 earnings call. [Operator instructions] Please note, this event is being recorded. I would now like to turn the call over to Kevin Brown, senior director of investor relations. Please go ahead."
+    },
+    {
+      "speaker": "Kevin Brown",
+      "speech": "Thank you, and good morning. During the call today, we will be referencing the slides and press release that are available within the investor relations section of our website, synovus.com. Kessel Stelling, chairman and chief executive officer, will begin the call. He will be followed by Jamie Gregory, chief financial officer; and Kevin Blair, president and chief operating officer.\nOur executive management team is available to answer your questions at the end of the call. [Operator instructions] Let me remind you that our comments may include forward-looking statements. These statements are subject to risks and uncertainties and the actual results could vary materially. We list these factors that might cause results to differ materially in our press release and in our SEC filings, which are available on our website.\nWe do not assume any obligation to update any forward-looking statements as a result of new information, early developments or otherwise, except as may be required by law. During the call, we will reference non-GAAP financial measures related to the company's performance. You may see the reconciliation of these measures in the appendix to our presentation. And now here's Kessel Stelling."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Thanks, Kevin, and good morning, everyone, and thank you for joining our fourth quarter and year-end 2020 earnings call. This past year was one that none of us will ever forget and certainly challenging for the industry and for our company. From the pandemic to social and political unrest, the year presented more intensive challenges in a more concentrated period than any single time in my 40-plus-year banking career, including the financial crisis just over a decade ago. So I want to start by thanking team members for their dedication and their tireless efforts to get us through another year of uncertainty and by thanking customers and communities for trusting us to play an active role in helping them recover and rebuild.\nSlide 3 includes some notable achievements from 2020, starting with the Paycheck Protection Program, through which we extended approximately 19,000 loans totaling $2.9 billion to customers across the Southeast. P3 represented a truly herculean effort by our team to quickly deliver critical aid to customers and communities in need. We're also off to a very strong start with the newest round of P3 with approximately 5,000 loan applications submitted totaling $700 million in new requests. We operate in one of the best geographic footprints in banking.\nAnd last year, we continued to improve our competitive positioning for 2021 and beyond. This past January, we announced our transformational Synovus Forward initiative. And we made significant progress throughout the year, executing on our Phase 1 revenue and efficiency efforts. As previously stated, we expect to achieve $100 million in pre-tax run rate benefits by the end of this year.\nAnd Kevin will provide more detail later on plans for an additional $75 million in benefits by the end of 2022. We made additional investments in talent and solutions to support growth and to enhance technology that further improves the customer experience. Last year, we made upgrades to our mobile and online banking portal, online account origination capabilities and other digital touch points. And we continued to invest in and grow our existing businesses while also building out new offerings.\nDuring the year, we onboarded new affordable housing and agribusiness expertise, significantly expanded our merchant services business and further matured our structured lending and treasury and payment solutions capabilities. Also during the year, given the dramatic change in the underlying economic environment, we moved quickly to further strengthen our balance sheet and capital position. Our CET1 ratio increased over 70 basis points, ending the year at 9.7%. In addition, our ACL ratio increased 75 basis points from day one CECL implementation.\nAnd our total risk-based capital ended the year at 13.4%, the highest level since 2014. As a result, we enter this year very well positioned to facilitate additional growth while also effectively managing balance sheet risk. I'm also proud of our work last year in important areas that are not directly disclosed in financial statements but are important sources of value, such as ESG reporting, financial literacy outreach and financial support of nonprofits and community agencies, including the establishment of a substantial scholarship endowment for African American students through the UNCF in honor of our former colleague and longtime Georgia State representative, Calvin Smyre. Finally, we announced last month that I'll be transitioning from chairman and CEO to executive chairman of our board in April following our Annual Shareholders Meeting.\nI'll serve in that role until January 1st, 2023. To be clear, this is not my final earnings call so no farewells or goodbyes just yet. I'll participate in our first-quarter call in April and then will hand the reins over to Kevin and team to take it from there. With that, I'll turn to Jamie to share fourth-quarter financial highlights beginning on Slide 4."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Thank you, Kessel. We ended the year strong with diluted EPS of $0.96 per share compared to $0.56 last quarter and $0.97 a year ago. Adjusted diluted EPS was up $1.08 per share compared to $0.89 last quarter and $0.94 a year ago. Total adjusted revenues of $499 million were up $5 million from last quarter, led by broad-based increases in fee revenue, continued reductions in deposit costs and accelerated P3 loan forgiveness income.\nAdjusted noninterest expense of $275 million was up $6 million from last quarter, which was impacted by a $5 million increase in Synovus Forward, P3 and COVID-related expenses. Moving to Slide 5. Total loans declined $1.3 billion in the fourth quarter, including accelerated P3 loan forgiveness that resulted in balance declines of $516 million. Total lending partnership loans held for investment declined $81 million, while loans held for sale from this category increased $81 million.\nExcluding reductions in P3 and lending partnership balances, total loans declined $700 million or 2% from the third quarter. Total C&I loans declined $640 million in the fourth quarter, including the $516 million coming from accelerated P3 forgiveness. Line utilization continued to decline in the quarter, down an additional $57 million. C&I line utilization of 40% was 6% lower than it was the same quarter last year and remain near historic lows.\nTotal CRE loans declined $395 million as payoff and paydown activity increased significantly in the fourth quarter as transactions that were delayed during the height of the pandemic were completed. Total consumer loans declined $282 million. This included lending partnership reductions, as well as paydowns within our mortgage and HELOC portfolios. As shown on Slide 6, we had total deposit growth of $2 billion.\nFourth-quarter increases were led by core transaction deposit growth of $1.8 billion and $1 billion in seasonal public funds. Offsetting this growth were expected declines in time and brokered deposits. The cost of deposits fell by 11 basis points from the previous quarter to 28 basis points due to a combination of rates paid and deposit remixing. In the fourth quarter, we were able to reduce the cost of time deposits by 28 basis points and the cost of money market deposits by 9 basis points.\nIn this lower-for-longer rate environment, we believe there are additional opportunities to reduce deposit costs through CD turnover, ongoing repricing, as well as the ability to continue to remix the deposit composition. Slide 7 shows net interest income of $386 million in the fourth quarter, an increase of $9 million from the third quarter that was primarily due to the impact of increased P3 forgiveness. Net interest income was further supported by deposit cost efforts previously mentioned and was offset by modest headwinds from lower loan balances and continued pressure from fixed rate asset repricing. Exclusive of P3 fee accretion, NII in the fourth quarter was $361 million as compared to $365 million the prior quarter.\nWe are pleased with continued progress on deposit repricing and positive remixing trends on the liability side of the balance sheet. The current environment is enabling us to grow our core relationships and further improve our overall liability profile, which is serving to offset a portion of the headwind we are experiencing from repricing within our fixed rate asset portfolios. The net interest margin was 3.12%, up 2 basis points from the previous quarter. The additional P3 fee accretion of $13 million to a total of $25 million was a meaningful contributor to that increase.\nConversely, considerable deposit inflows, coupled with the timing of our subordinated debt transaction, led to an elevated level of one balance sheet liquidity within the fourth quarter with average excess cash balances increasing $1.4 billion. This dynamic can have a notable impact on the margin with every $1 billion of extra cash on balance sheet diluting the margin by approximately 6 basis points. In the coming quarters, we expect the elevated cash position to decline as we experience seasonal deposit outflows and as we manage our balance sheet and overall liquidity position. This will include further growth within our securities portfolio, as well as declines in noncore funding sources, such as brokered deposits.\nAs of year-end, there were $49 million of Phase 1 P3 processing fees remaining with approximately $20 million associated with loans that had initiated the forgiveness process. Excluding the impact from P3, we expect modest downward pressure in NII and NIM in the first quarter from the rate environment as asset growth and further reductions in cost of funds partially offset continued fixed rate asset repricing. Slide 8 shows noninterest revenue, which was $115 million, flat to the prior quarter. After adjusting for security gains, adjusted noninterest revenue was $112 million, down $3 million from the prior quarter.\nThe fourth quarter included notable increases in service charges, fiduciary and asset management, card fees and brokerage income. Core banking revenue improved by $3 million to $37 million primarily due to increased activity as we continue the gradual return to pre-COVID levels. Service charges on deposits, SBA gains and card fees each increased about $1 million from the previous quarter. $2 million in revenue growth from fiduciary and asset management, brokerage and insurance helped offset the $1 million decline in capital markets revenue resulting from lower loan activity.\nNet mortgage revenue of $24 million, down $7 million from the prior quarter, remained elevated. Secondary mortgage production increased 4%, which directly impacted commissions. Despite a quarter-over-quarter increase in secondary production, fee income declined due to lower margin and pipeline. Total noninterest expenses were $302 million, down $14 million.\nOn an adjusted basis, NIE was $275 million, up $6 million from the prior quarter. Adjustments include $14 million related to the voluntary early retirement program we announced in October, $8 million in loss on early extinguishment of debt and $4 million in branch optimization real estate writedowns. Payback on all of these strategic initiatives are 2.5 years or less. The quarter-over-quarter increase in adjusted NIE includes $5 million related to Synovus Forward, P3 and COVID.\nThe Synovus Forward expenses are upfront third-party expenses associated with the design and build of these strategic initiatives. This quarter's expenses are largely tied to the pricing for value in commercial analytics programs. Most of the $3 million increase in P3 and COVID-related expenses are upfront consulting and technology fees to streamline the forgiveness process. We are encouraged by the forward impact of efforts we've taken and investments we've made throughout the year, including the fourth quarter.\nDuring the quarter, we realized an additional $2.5 million in savings from Synovus Forward that offset investments in digital and technology. These include the first phase rollout of our new commercial digital platform Synovus Gateway, continued migration of systems to a cloud environment and enhancements to our BSA/AML technology. These investments will provide future revenue, scale, risk and expenses benefits in 2021 and beyond. In the fourth quarter, headcount declined by 100, most of which occurred in December as part of the voluntary early retirement plan.\nSavings from this initiative largely began January 1. So these salary reductions will help offset the seasonal first-quarter increases in employment taxes. Kevin will speak to our full-year guidance shortly. Before providing some comments related to key credit metrics on Slide 10, I'd like to provide a brief update on our COVID-related deferral program, which provided for up to 180 days of deferred payments of principal and interest.\nLoans in this program with a full P&I deferral declined to 34 basis points at the end of the fourth quarter. Performance for borrowers that completed a deferral period has been strong, with approximately 99% paying as agreed. As we've shared in the past, we've conducted enhanced monitoring on industries that were likely to experience the most pressure from the pandemic. Elevated risks remain and are largely concentrated in hospitality-related segments, including hotels and full-service restaurants.\nMore information on those portfolios is available in the appendix. As evidenced by key credit metrics, we're not seeing widespread credit deterioration. Credit measures of NPLs, NPAs, criticized and classified assets all remained relatively stable for the quarter. Past dues and net charge-offs declined modestly.\nBased on our forward-looking credit metrics, customer cash flow analysis and customer interactions, we expect net charge-offs in the first quarter to be at or near the range we experienced in the back half of 2020. Cash inflow updates, which are also in the appendix, generally showed continued improvement through November, although we do expect some pressure to these inflows from recent surges in COVID cases. This pressure will likely be more impactful in the same hospitality segments I mentioned and were the main driver of increase in criticized and classified loans in the third quarter. Provision for credit losses of $11 million include net charge-offs of $22 million or 23 basis points.\nProvision for credit losses other than net charge-offs reflect lower loan balances and a more favorable economic outlook. The allowance for credit losses ended the fourth quarter at $654 million. And the ACL ratio increased 1 basis point to 1.81%, excluding P3 loans. The year-end allowance includes a multi-scenario framework with a base economic outlook which incorporates the most recent stimulus with modest economic growth and declines in unemployment rate throughout '21 and '22.\nWe returned to a two-year reasonable and supportable period this quarter as economic uncertainty is moderated. Another noteworthy change included use of a third-party provider's economic projections as a starting point for our economic outlook rather than a benchmark or challenger as it was used earlier in the year. Changing to a third-party provider did not have a material impact on the economic inputs or resulting allowance. There is more detail included in the appendix.\nPreliminary capital ratios on Slide 11 show continued improvement as CET1 increased 37 basis points to 9.7% this quarter. We ended the year above the higher end of our operating range of 9 to 9.5%, which positions us well as we move into the new year. The total risk-based capital ratio of 13.4% was up 25 basis points. It includes subordinated debt optimization efforts completed in the fourth quarter that aligns with our ongoing efforts to diligently manage our capital position and weighted average cost of capital.\nOur 2021 capital plan maintains the current common shareholder dividend of $0.33 per quarter and includes authorization for share repurchases of up to $200 million. We will be opportunistic with repurchase activity throughout the year as we prioritize organic growth first and balanced capital deployment with factors such as uncertainty in the economic outlook. Based on the current outlook, we will continue to target a CET1 ratio at the higher end of the 9 to 9.5% range with more opportunity to deploy capital as we gain greater clarity around effectiveness of the vaccine, as well as confidence in the broader economic recovery. I'll now turn it over to Kevin, who will provide an update on Synovus Forward and provide our 2021 outlook."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Thanks, Jamie. Let me take a few minutes to provide a brief update on our Synovus Forward progress. Having initiated the program back in the second half of 2019, 2020 was a year of execution and expansion. As we have shared, the initial focus was on funding our journey through various efficiency initiatives.\nI am pleased with our progress in the delivery surrounding these first-round programs. The third-party spend program will fully deliver $25 million run rate savings in 2021. We also consolidated 13 branch locations this past year, which will result in approximately $5 million in run rate savings on a go-forward basis. And as we close out 2020, we completed two components of organizational efficiency work stream with a voluntary early retirement program and a back-office staffing optimization, which will produce $13 million in run rate benefit in 2021.\nAs 2020 progressed, we expanded our efforts within Synovus Forward by embarking on several revenue-based initiatives. Starting with our pricing for value program, we have begun the market-based repricing of our treasury and payment solutions offerings and are pleased with the progress to date with an anticipated run rate benefit of approximately $9 million in the first half of 2021. As Jamie has also noted, we've been able to more aggressively reprice our deposit throughout 2020 with the month of December coming in below our previous cycle lows. We also kicked off our commercial analytics program.\nUtilizing transaction-level data, we have built a tool known as smart that will allow our commercial bankers to better identify opportunities to expand relationships, reduce attrition, as well as better manage changes in underlying risk profiles. As we begin to pilot the smart tool, we are convinced we will see incremental revenue benefits from its full deployment. We have also prioritized resources, capital expenditures and business activities to ensure that we have continued to invest prudently during the year. As Kessel referenced during the 2020 highlights, we made significant improvements in our consumer and business digital capabilities during the year.\nEnhancements made improved the customer experience, expanded new account origination availability and built a more scalable platform for future functionality deployment. As a result of our progress and the plans for additional Phase 1 initiatives, we remain committed to deliver the $100 million run rate pre-tax benefits by the end of 2021. We have also increased our objective by an additional $75 million run rate benefit to be achieved by the year-end 2022. The additional benefits will come from both revenue and expense initiatives with a heavier weight toward revenues.\nMuch of the additional benefit will come from expanding the breadth and depth of the programs already launched, as well as leveraging new processes, technology, products and solutions and talent to generate the incremental benefits. We will provide more detail throughout the year as we set more specific execution plans for the next phase of Synovus Forward. Turning to Slide 13. This slide provides an overview of our 2021 outlook, which incorporates Synovus Forward initiatives and other strategic objectives and is predicated on our current view of the economic stability and growth in our footprint for the year.\nBefore I share more details around the individual categories, let me first touch on a few things that gives me confidence as we enter 2021. First, the talent we have added in recent years continues to provide outsized opportunities for growth as they continue to build their portfolios to more seasoned levels. Secondly, investments we are making in products and capabilities continue to pay dividends. For example, treasury and payment solutions' new revenue in 2020 was up 160% over 2019 and 450% over two years ago.\nAnd lastly, our teams are better prepared for the operating environment in 2021. And we'll be able to avoid many of the distractions and challenges that we encountered in 2020. With our enhanced online account origination capabilities and remote sales approaches, our sales effectiveness for the year will improve. So let's start with the asset side of the balance sheet.\nWe expect an additional 65 to 70% of the P3 loans funded in 2020 to be forgiven by mid-2021, leaving around $500 million on the books for an extended period. As Kessel mentioned earlier, we are participating in the second round of the P3 program. And since opening our portal on January 19, we have received strong application volumes and are working diligently to efficiently process the request to support our eligible customers and prospects' needs. Based upon our results to date, as well as our preliminary analysis of eligibility, we believe the number of applicants will range from 5,000 to 7,500, which compares to just over 19,000 last year.\nWe expect the average loan size to be less than the round one average of approximately $150,000, which would result in a higher percentage of fee revenue. Excluding all P3 balance changes, we expect loan growth of approximately 2 to 4% in 2021. Given the current environment, we do forecast this growth to accelerate in the back half of the year and will be well diversified across business units, asset classes and geography. Despite continued uncertainty in the markets, we have reasons to be optimistic about our expectations for loan growth.\nOur expectations are that we will see a steady increase in production throughout 2021 in our commercial book as economic activity improves. From our discussions with our customers, we also know there is a pent-up demand for capital that has been delayed due to the overarching uncertainties. Synovus is well positioned for growth given our marketplace and business model. Entering 2020, our teams were achieving record levels of production and we expect to return to similar levels post pandemic.\nWe love our footprint and the outsized growth expectations for the Southeast. The demographics of our market continue to be very constructive for growth. In addition, our model is very attractive to both prospective customers and banking talent and we've seen this over the recent years. As such, we expect to continue to see organic growth arising from the execution of our go-to-market strategy, as well as any fallout that may occur as industry consolidation continues.\nWe've also added and expanded to our new specialty verticals in 2020, including structured lending, affordable housing and agribusiness. These teams will provide accelerated growth in 2021 and beyond as we continue to evaluate the expansion into new industry and asset class specialty areas that will expand our offerings and provide new sources of growth in the future. A return to a more normalized C&I line utilization would increase funded loan balances by $650 million as compared to year-end balances. Although there's obviously some uncertainty related to how quickly this will take place especially with the possibility of additional stimulus and elevated liquidity, we do expect the normalization to occur over time.\nLastly, we have the capacity to increase our lending partnership portfolios, which can serve as an effective and profitable use of excess liquidity and capital. As Jamie mentioned earlier, given the current liquidity environment and the recent increase in interest rates, we are likely to increase the size of the securities portfolio in the near term. Now let's move to revenue. Net interest income will remain under pressure from fixed rate asset repricing.\nWe will actively work to reduce the impact of rates through balance sheet management, loan growth, future reductions and cost of deposits, as well as the potential deployment of excess liquidity in the investment portfolio or higher returning asset classes such as third-party lending. There's a similar story with fee revenue, which faces the headwind of normalized secondary mortgage revenue. The expected decline in mortgage activity will be largely offset by increases in most other categories, including core banking fees, as well as fiduciary and asset management fees. Our investment in treasury and payment solutions, the recently launched merchant program and various wealth management businesses will provide added momentum throughout 2021.\nOne business that we are especially excited about is the Synovus Family Office. Despite a challenging year, the Family Office grew assets under management by 23% and new business revenue booked for the year increased 66%. This unique value and service provided by businesses like Synovus Family Office will provide continuous growth opportunities. In aggregate, we expect total adjusted revenues to decline 1 to 4% in 2021.\nSome opportunities to perform at the higher end of the range include more favorable deposit pricing, further steepening in the yield curve, higher-than-expected economic activity, increased participation in Phase 2 of the P3 program and acceleration of the benefits from enhanced analytics and other revenue-centric Synovus Forward initiatives. Moving to expenses. In the fourth quarter, we continued to make progress on our efficiency initiatives with branch and headcount reductions. As we assess the current environment and the resulting pressures on revenue, we are proactively adjusting our expense base to promote a return to positive operating leverage.\nDespite our overall actions to reduce expenses, it is not inhibiting our ability to continue to invest in areas of focus with approximately $20 million in strategic investments in technology and digital planned for 2021. In aggregate, we expect adjusted expenses to decline between 2 and 5% for the year. We continue to assess, challenge and target all expense categories as we look to further improve our efficiency and effectiveness and remain committed to positive operating leverage over the long term. A large portion of the annual decrease will be realized in the second half of 2021 as seasonal increases in employment tax and the previously mentioned investments in digital and technology will be more front loaded.\nTurning to capital. Our CET1 ratio of 9.7% is above our stated operating range of 9 to 9.5%. Existing capital levels, as well as the inflow from 2021 core earnings will support our anticipated balance sheet growth and strategic objectives. Jamie mentioned some components of the 2021 capital plan.\nSo I'll simply reiterate that we are a growth company and that's our first priority for deploying capital. Other priorities include maintaining a competitive dividend, capital optimization and other deployment opportunities, including share repurchases. The CET1 target of 9.5% in the 2021 outlook is at the higher end of our 9 to 9.5% operating range, which we believe is prudent while greater levels of uncertainty exist. Given our current CET1 ratio and our economic outlook, it is likely we will remain above our targeted range in the near term.\nAs clarity around the economic outlook increases, we will look to further deploy capital through balance sheet growth and/or share repurchases. Lastly, assuming no significant change in the current tax environment, we expect an effective tax rate of 23 to 25%. We've increased our focus and execution around various tax strategies, some of which were executed in 2020 and others that will be established over time that will provide opportunities to further reduce the effective tax rate from current levels. For sensitivity purposes, a federal tax rate change from 21 to 28% would result in an increase of our long-term effective tax rate of 6.5%.\nThat would follow a one-time adjustment to the DTA that would mitigate a portion of the impact in the first year. Now before we move to Q&A, let me close with a couple of comments. I am humbled and honored to be presented with the opportunity to transition into the CEO role in April. Kessel has led this company with such a steady hand over the last 10 years and has returned the company to a position of strength.\nWith this handoff, working with Kessel in his role as executive chairman of the board, we will continue our unwavering path forward. And on the second point, as we evaluate our path forward, I am convinced our purpose-driven, advice-based relationship approach, complemented with innovative digital capabilities and functionality will provide a compelling, differentiated value proposition in the crowded and competitive landscape we operate within. We will continue to use Synovus Forward to set our vision and agenda for the transformational imperatives that are required to ensure we execute and deliver on our short- and long-term business and financial objectives. 2021, despite the uncertainties, will serve as our next step forward in achieving these goals.\nAnd with that, operator, let me turn it over to you for Q&A."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] The first question today comes from Brady Gailey of KBW. Please go ahead."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Hey, thanks. Good morning guys. So it's great to see the additional 75 million from the Synovus Forward. I was just wondering, roughly speaking, how much of that benefit do you think will actually drop to the bottom line.\nI think I've heard Jamie say that some of the savings in the fourth quarter were reinvested maybe on the technology front. Should we be thinking about that additional 75 million as all drop into the bottom line? Or will some of that be reinvested into the franchise?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. Brady, this is Jamie. I'll kick this off and then hand it over to Kevin. The first thing I would just say is we're a growth bank.\nAnd our Synovus Forward efforts are intended to offset strategic spend in digital and technology and other growth initiatives to help us deploy and kind of bring Synovus to more customers. And so with regards to overall expenses, that 175 million, all of that is a top line benefit. However, we do have spends in other areas that are increasing. And so what I hope you see in our 2021 guidance is the commitment to react to revenue pressures and -- as we strive for positive operating leverage in a challenging environment.\nAnd so we think that as you look at 2021, you'll see an approximate 4% or so benefit due to Synovus Forward initiatives in calendar year 2021. And that helps us have the ability to go out and spend on digital, on technology, on people to get us to where we need to be to grow. And so let me hand it to Kevin to give a little more detail on the Synovus Forward initiatives."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "So Jamie -- yes, Brady, Jamie nailed it. It's top line initiatives that will generate the 175 million. But as we think about this, we look at every investment from an ROI perspective. So as we look at new opportunities, whether it be talent or technology, we're going to make those investments if they have the right return on investment.\nThe important thing, as we've talked about in the past, is our other calibration factor will be top quartile performance. So as we look at the 175 million and we look at our capacity to reinvest, we're still focused on that top quartile performance, which was based on ROTCE, ROA and efficiency ratio. And it's fairly turbulent right now so it's hard to see what that number is. But we know with the 175 million that we've committed, we know we're moving in that direction."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "And Brady, the only other thing I would add is as we look at the benefit of these initiatives and specifically on the expense side, we obviously get the benefit of fourth quarter activity immediately but the benefit will flow in over the course of 2021. And we would expect the largest impact on the year-over-year declines to be in the second half of the year."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "All right. That's helpful. And then it was great to see the 2021 outlook on Slide 13. The one thing that's missing there is a provision guidance, which I know can be tough nowadays.\nJamie, I heard you point to basically 25 basis points of net charge-offs there in the first quarter. So it seems like net charge-offs are going to be low. So looking at your reserve, you're 180 basis points. I think your day one CECL reserve was around like 100 to 110 basis points.\nSo it feels like we're headed back there. But maybe just talk about how fast we could see reserve releases in this year and next?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. The million-dollar question is how will this all play out. I mean we obviously see a lot of uncertainty out there. I think you're right to look at day one CECL as a potential where we can land in a more normalized environment, assuming no significant changes to loan mix in the loan portfolio.\nSo I think that that is reasonable. I would just point to the uncertainty in the outlook. I mean when we look at credit and we talk about giving guidance, typically we would give full-year guidance. But we only did the first quarter because of the uncertainty in the outlook.\nAnd so when we look at this year, when we look at 2021, we believe there are very plausible scenarios where charge-offs remain stable all year long at current levels. A scenario could -- like that could include a vaccine -- effective vaccine rollout, Phase 2 P3 success, future stimulus, a strong economic recovery. But then there are also scenarios where we see charge-offs increase throughout the year to more than double today's rate. And that could include COVID case increases, ineffective vaccine, no stimulus, basically a slow or declining economy.\nAnd so given how wide the range is between these hypothetical scenarios, we just didn't think it was prudent to give full-year guidance. But we're committed to giving guidance as we go through this year as we gain clarity on the outlook. But obviously, we feel good about where we are. We feel we're adequately reserved for this uncertainty.\nAnd we'll see how it goes through as we move through the year."
+    },
+    {
+      "speaker": "Brady Gailey",
+      "speech": "Great. Thanks for the color guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ebrahim Poonawala of Bank of America Securities."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Good morning. I guess just first around the guidance for the revenue outlook. I was wondering if you can break it down a little bit more for us in terms of fees versus NII and what your expectations are. I mean mortgage banking was very, very strong last year.\nHow you're thinking about it? And on the NII side, Jamie, like when do you see core NII at least shaping out for Synovus on a quarterly basis?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. Ebrahim, let me start with fee revenue. And you're right, as we look at industry data on mortgage revenue in 2021, obviously, there will be a significant decline from 2020. Everybody is speaking to this and I don't think we're any different.\nAnd so what you'll see from us in fee revenue is fee revenue will be down year over year likely in 2021 versus 2020 driven by an approximate 40 to 50% decline in mortgage revenue. And that more than offsets this really strong broad-based growth in our other fee businesses. And so it's unfortunate that it's overshadowed just due to the strength in 2020 of mortgage. But we're really excited about the broad-based growth we have in the core banking fees, fiduciary and asset management, including the Family Office that Kevin mentioned earlier and brokerage.\nAnd so that's what we expect in fee revenue as we go through 2021. And then with regards to NII, I'm glad you mentioned kind of core or stripping out the noise of P3 because that's very important. And what I would say there is as we look at NII, you should see a decline in the first quarter really due to two things. First is day count, which you're obviously aware of.\nBut second is fixed rate asset repricing, including an acceleration of prepayments in the securities book. And then once we get past the first quarter, we expect NII to be stable to slightly increasing throughout the year as benefits from deposit repricing and loan growth just outpaced the headwinds of that fixed rate asset repricing. With regards to the deposits on the deposit side, we're obviously pleased with where we landed in the fourth quarter. If you look at monthly data, we achieved our objective of prior cycle lows.\nAnd then when we look forward, we believe that we can get an incremental 7 basis points reduction in total deposit costs in the first half of '21 of that 28 basis points for the fourth quarter just due to the maturities in our time deposit book. Obviously, we see benefits as well between price and mix and nonmaturity deposits. But we see more room to go there and we're excited about those opportunities."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "Got it. That's helpful, Jamie. And just one question. I guess Kevin, you spent a lot of time on technology investments both in terms of back office, front office.\nJust talk to us in terms of, one, does this -- like how would you pick Synovus relative to large regional peers, the big banks who are in your markets? Like do you feel confident in terms of the wherewithal of the franchise? And has all of this made you sort of look for like tuck-in acquisition opportunities in the fee income on the technology side that we should anticipate over the next year or so?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yes. Ebrahim, it's a great question. I think before you start evaluating the functionality and capability, you almost have to look first at what your customers are telling you. And if you look at Synovus customers, they have higher NPS scores or loyalty scores than most of the big bank peers.\nSo what we're providing them today are making them satisfied with the offerings and making them very loyal to the company. And as we think about going forward, the way that we're able to garner additional growth in relationships is from those referrals. So I think it's first important to look at what our customers are telling us. As it relates to investments, we obviously saw the need to continue to improve the capabilities and functionality of the digital front.\nWe have My Synovus on the consumer side, where we continue to provide enhanced customer experiences. We've seen that with the scores that we've gotten online. We've also, this past year, rolled out enhanced online origination capabilities. So now our customers have the ability to originate more products from the comfort of their home, which is obviously with the pandemic, something that we saw a shift in activity.\nAnd we feel like we're on par with being able to do that. Our focus in first quarter, which Jamie touched on, is the expansion and the development of a new commercial portal, which is called Synovus Gateway. And that's going to be, we believe, best in class as we relate to others in terms of their cash management systems and their digital capabilities for business customers. And that's been a big focus for us.\nWe think we can win in that space. We have the right to win. And we think our technology will continue to be improved over time. As we've told you in the past, the key here is making sure that you partner with the right fintech and that you get the right sort of R&D that's happening at that company, which allows you to continue to enhance your offerings.\nAnd we feel like we're in a good position to do that."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "And anything around M&A on the fee side, Kevin?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yes. I mean we look at all sorts of M&A as it relates to any sort of benefit that we would have from any capability adds or new products and functionality. We've been focused on growth in fee income through the treasury and wealth management businesses. And we've had good growth there, double-digit growth.\nAnd so we'll continue to leverage the investments we've already made. But if there's something that were to make sense from an M&A standpoint, we would look at it. But right now, we really believe the best investment we have is in Synovus and continuing to leverage the talent and the technology and resources we have today. And we think there's growth that will come from that in our marketplace as well.\nWe feel like we're in one of the best footprints in banking. So we don't see currently a need to go out and have to use M&A to stimulate growth."
+    },
+    {
+      "speaker": "Ebrahim Poonawala",
+      "speech": "That's great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Jennifer Demba of Truist Securities."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Good morning. I think the key questions have been asked but just a question on the second round of PPP. What kind of borrowers are you seeing requesting applications at this point?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "So Jennifer, this is Kevin. We're seeing, as Kessel mentioned, about 5,000 applications for right around $700 million. So the average loan size is a little less than $150,000. So similar borrowers to what we saw before.\nObviously, to qualify, you had to have a 25% reduction in revenue in 2020. And I think what we see with most of our borrowers, that occurred early in the pandemic, the second quarter. But we've actually been pleased with our process and how we've been able to get the applications onboarded. We've leveraged a third party this time, which I think will make us more efficient and effective.\nWe're not having to use a lot of internal resources to get that completed. But there's really been no surprises from a company standpoint or NAICS code or size. It's really been just a subset of what we had expected from the initial draws on P3. And so as I said, right at 5,000 today.\nWe had 19,000 in the initial phase. So a smaller percentage than maybe what you would expect at this point."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "OK. And second question. Does -- the $75 million additional Synovus Forward initiatives you mentioned, does that contemplate any corporate or other branch rationalization -- of corporate real estate? I mean corporate real estate or branch rationalization, sorry."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yes. We -- it absolutely does. One of the things that we recognize, as you know, Jennifer, we've been able to rightsize our branch network over the last 10 years. I think if you look at legacy Synovus branches, we've cut almost 25% of the locations.\nBut what you have to look at today is when you look at our branches and you evaluate what percentage of our branches are within three miles of one another and which percent of our branches are less than $50 million in deposits, we have -- relative to our competition, we have a lower percentage. So as we go forward, we will continue to look for ways to optimize the branch network. But we'll also look at staffing levels. We'll look at size of branch locations.\nWe'll look at two-for-ones. It will not be traditionally just the consolidation of the branch network because we feel like we've done a good job of that. As it relates to corporate real estate, that was part of our initial assessment as an opportunity. And as we evaluate the remote workforce environment and what the needs are going to be long term, there will obviously be opportunities there.\nBut we're not waiting for that. We're taking this opportunity now to renegotiate rent and get benefits from that and to just rationalize the space that we're using. So yes, both of those will be part of the short-term and longer-term initiatives."
+    },
+    {
+      "speaker": "Jennifer Demba",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Brad Milsaps of Piper Sandler."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Hey, good morning guys. Jamie, I appreciate your comment about the desire maybe to grow the bond portfolio a little bit more with some of your excess cash. Just curious if you could comment on maybe other moves on the other side of the balance sheet, maybe specifically as it relates to the brokered money market and the brokered time. It looks like the brokered time account yield or costs were pretty much unchanged linked quarter.\nJust curious kind of when you start to maybe see some movement there. And then anything else you can do on kind of the long-term debt side of things. That was down on average quite a bit. Although it looks like the rate and dollar cost was up.\nSo just any additional color there and maybe other moves on the right side of the balance sheet aside from just normal repricing."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. Great question. And obviously, by our actions in 2020, it's something you can see we're extremely focused on. And when we look at on the brokerage side, even in nonmaturity, a lot of those are governed by terms.\nAnd so we don't have the flexibility necessarily to take those off when you would want to immediately. But on the CD side, we have approximately $300 million maturing in the first quarter, a little more than $200 million in the second quarter. And we'll continue just to let those run off. In the fourth quarter, you saw the expenses that were associated with our debt kind of optimization.\nAnd that included both the sub-debt, as well as optimization of our home loan bank exposures. And so you'll continue to see us look at our -- at the right side of the balance sheet and digging in on ways we can optimize our liabilities as we go forward in '21."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "OK. And then maybe a question for Kessel or Kevin. I appreciate the guidance around loan growth for the year particularly in the back half. Is there a way to quantify kind of based on the number of people that you've hired or new verticals that you've brought in, sort of what your capacity is kind of based on what these folks had at their previous institutions? Just kind of curious kind of what the -- what you guys kind of view as the bigger picture opportunity based on all the hiring that you did, kind of pre-pandemic with those folks maybe getting off to a slower start because of the pandemic.\nWhat's kind of the size of the pie that's out there for Synovus?"
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Yes. Let's maybe try and tag team that. I'll let Kevin give a little more color. But I will say this, we have been super excited about the level of talent that continues to be attracted, I think, to our operating model and to kind of our history of how we serve customers.\nKevin mentioned the relationship-centric approach. So both in the private wealth, in the middle market, wholesale bank, in the CRE space, we had great talent adds over the last 12 to 18 months. And then as we again stood up some of our specialty verticals, which Kevin can talk more about, we have, I think, additional capacity and certainly think that loan growth for this year will be back-half loaded just for a lot of factors but certainly, pandemic, vaccine, recovering economy. Kevin, maybe you could speak to any of those in particular where you think we have outsized capacity? Again, I think our specialty lending areas have really proven a source of value, not just to us but to the marketplace in terms of how we brought expertise there.\nSo Kevin, maybe you could go a little further detail."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yes, definitely. It's a great point. I'll use some math to talk about, I think, where the opportunity is. And when you think about just loan production and I think this is a salient point, when you look at commercial loan production in 2020, we had funded production of right at $5 billion.\nAnd that was down roughly 13% in 2020 versus 2019 largely due to the pandemic. So if you just returned 2021 to production levels that we observed in '19, it would produce about 700 million of incremental production. Now that sounds large in and of itself. But I think what's more important is to look at where we were producing in the first quarter of 2020.\nAnd our commercial production in the first quarter came in 60% higher than where it was in first quarter of '19. So when you start putting a quantification to what these teams can do, you look at just returning production back to '19 levels would be $700 million. And then if you were to be able to sustain a 50 to 60% growth rate over time, obviously, that growth becomes exponential. So to Kessel's point, structured lending has been a great addition to our team.\nBut even as we've added talent within established areas like ABL or CRE, our commercial real estate, there's lots of opportunities to grow within mature products. It just brings on new talent. So across the board, we think that there's opportunity to increase the production and get it at levels much higher than what we would have had back in 2019."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "That's helpful. And I assume that all plays into your -- the additional 75 million that you're looking for in '22?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "It's part of it. Obviously, we've said that new talent and growth on the balance sheet growth and fee income would be a component of that. But it's not what we're making the $75 million bet on but it's part of that forecast."
+    },
+    {
+      "speaker": "Brad Milsaps",
+      "speech": "Great, that's helpful. Thank you, guys."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Steven Alexopoulos of J.P. Morgan."
+    },
+    {
+      "speaker": "Steven Alexopoulos",
+      "speech": "Hey, good morning everybody. I wanted to start -- so with all the initiatives under way, you seem to be building a better mousetrap on the digital side to acquire new customers. You're also in great markets. When should we start to see revenue growth trends start to separate from peers on a sustained basis, right? When I look at the 2021 guidance for loans of revenue, I can't say they're standout expectations."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. Steve, this is Jamie. I guess what I would point to is the growth in the core business. Our headwind right now on revenue when you look at growth is a couple of things.\nOne is interest rate sensitivity and the impact of rates on the book. And that's a headwind on NII. And that slight downward pressure in kind of core when you back out the impact of P3, that's a little bit of a headwind. And you'll start to see loan growth and the deposit costs more than offsetting that as we get into '21.\nAnd then we feel really good about our fee revenue growth. We're doing year-over-year comparisons. We have the kind of headwind this year in 2021 of a really strong mortgage performance in 2020. And so we feel good about the components.\nWe feel good about longer-term loan growth. We believe that we can grow faster than the economies in our market, in our five-state footprint, which we believe will grow faster than the general U.S. economy. And so we feel good about our revenue growth based on those factors.\nBut we do have that headwind of NII just due to rate sensitivity."
+    },
+    {
+      "speaker": "Steven Alexopoulos",
+      "speech": "OK. Is it safe to say in terms of timing, which is my question, that maybe it's a 2022 event, not a 2021 event given the headwinds you outlined? My question is about when we'll see revenue outpace peers. Everybody has a similar pressure right now."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "That's right. That's right. That seems appropriate, 2022."
+    },
+    {
+      "speaker": "Steven Alexopoulos",
+      "speech": "OK. And then for my second question. I, want to follow up on Brad's question. What is the number of revenue producers at the company today? And how has that changed over the past one or two years?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yes. That's a tough question to answer, Alex , Steve because you have all the branch team members. But we in back office, there's -- I would tell you that there's 60% of our team member base that's in some sort of front-line capacity. And if you look at over the last several years, where we have been adding resources has been on the front line.\nAnd we've been taking cost out of the back office through automation, optimization. And so the adds that we're making are on the front line. And when we do that, we're looking at the return on investment when we make the decision to add. So we may choose to leverage adds in middle market commercial banking before we would in a wealth space just because it may have a quicker payback."
+    },
+    {
+      "speaker": "Steven Alexopoulos",
+      "speech": "OK, thanks for the color."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from Jared Shaw of Wells Fargo Securities."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "Hi, good morning everybody. I guess when you look at the expense guidance, is the base that we should be using the full year 1.091 billion adjusted? Or is that really our 4Q annualized 275 million?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Full-year adjusted."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "OK. And then when we look at that $4.5 million you called out of Synovus Forward PPP and COVID-related expenses, that's still in the adjusted. I guess what's the timing for that to roll off? Is that just really dependent upon full back to work, back to normal economy? Or was that more of specific to fourth quarter?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. The Synovus Forward upfront third-party expenses are initiative specific. And so those are individual and you can think about those per initiative that we choose to pursue. And so those -- think about those that way.\nOn the COVID-related and P3 fees, the fees we had in the fourth quarter are related to the forgiveness process of Phase 1. In 2021, you will see some fees associated with both the origination and forgiveness of the second phase of the Paycheck Protection Program. The upfront origination fees will be embedded in loan yields so they will not show up in expenses. But the forgiveness fees will show up as you see in the last quarter."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "OK. All right. And then just shifting back to the allowance. I appreciate the comments you made around that.\nI guess when we look at the ratio, it's still pretty high compared to peers. And it seems like you have some qualitative overlays in there. I guess what could be the main drivers of lowering that ratio faster? Is it just second half GDP accelerating above sort of a consensus estimate? Or is it just more once you all get comfortable with that potentially lower loss content, we could see those qualitative overlays reduce?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "That's the right way to think about it is that as we go -- get into this year and as we look at the economic outlook and get more comfort and confidence that the base case scenario is what's going to play out, that will reduce the uncertainty that's embedded in our allowance. And our allowance at 12/31, it does not have any future stimulus in it. It does not have a lot of the things that are being discussed today as benefits to the general economy. So we will constantly reassess our calculations and our estimates.\nBut I think you're thinking about it the right way."
+    },
+    {
+      "speaker": "Jared Shaw",
+      "speech": "OK, appreciate it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from John Pancari of Evercore ISI. Please go ahead."
+    },
+    {
+      "speaker": "John Pancari",
+      "speech": "Good morning guys. I know you indicated that the -- when you're discussing the Synovus Forward program, a lot of that is revenue. And the -- but the backbone really here is the projection is for positive operating leverage longer term. So can you give us an idea? In your modeling, in your expectations, what is the timing that you see returning to positive operating leverage?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Well, John, as we've mentioned, that's an important priority for us. And we believe that we have a shot at positive operating leverage in 2021 year over year on adjusted revenue and adjusted expenses. It's not a layup. There's a lot of effort that will go into that, both on the expense and revenue side.\nBut that's our objective. And so you see that in our guidance. When we say that we expect revenues to be down 1 to 4%, expenses to be down 2 to 5%, that's what we're shooting for. Now look, it's early in the year and there's a lot of work to do to achieve it but that's our objective."
+    },
+    {
+      "speaker": "John Pancari",
+      "speech": "And just given the ranges are somewhat wide, so I wanted to clarify. And then on the capital return front, I know you indicated that the priority is organic and that you're going to be opportunistic when it comes to share repurchases. So if you could just maybe help elaborate a little bit around the potential timing about when you step back into the market and buy back stock given you have the authorization?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. John, as we think about our capital management framework and philosophy, I'm going to go back and just look back at 2020. We feel really good about performance in a challenging environment, starting the year at 8.95% CET1 and first quarter dropping down to 8.70% due to customer loan growth and now being about 100 basis points higher at year-end. We feel really good about that.\nAnd we feel good about how we got there through stable PPNR; stable, strong credit performance and active balance sheet management. So we feel really good about our process and our framework and how we as management respond to those environments. But in today's environment, we do believe it's prudent to operate with higher capital than we thought a year ago, operating at the high end of the range of 9 to 9.5%. We also believe that our common equity dividend at $0.33 a quarter is appropriate for 2021.\nBut -- so we're pleased with where we are. We believe that our balance sheet, both capital and liquidity are positioned for us to achieve success in '21 and be ready for customer loan growth. And so we feel good about that as well. And that's our priority is to deploy that capital to loan growth.\nBut as you're well aware, today we're at 9.70%. Our target is 9.50% and we're above it. And so we're going to think about how do we deploy capital above our target. Again, the priority is customer loan growth.\nBut if that's not there for us, then we'll look at share repurchases. But we're going to be patient and opportunistic. We do not expect to buy shares in the first quarter. But we will be looking at that as we proceed through 2021."
+    },
+    {
+      "speaker": "John Pancari",
+      "speech": "OK. Got it. And then just lastly, if I could ask. I know on Slide 3, you kind of walk through your adjusted ROTCE and about 9.1% for 2020.\n'19 was clearly in the mid-teens at 16%. How should we think about your updated thoughts on your appropriate long-term ROTCE as trends ultimately normalize?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "John, as Kevin mentioned earlier, we believe that there's a lot of uncertainty out there. But we also believe that the $175 million we have in for Synovus Forward will help us get to top quartile. And so we don't believe that there's enough clarity in the economic and environmental outlook today to be able to give a good return on tangible or ROA estimate over the long run. If you look at the rate curve, it is -- remains flat for a very extended period of time.\nAnd so as we get more clarity on the outlook, we'll give more clarity on our longer-term return targets or where we expect to be. But at the moment, we just think it's more prudent to just be clear that we're targeting top quartile."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "And John, I'd just add that the pace in which we get there, that's our focus. Maybe not so focused on the destination of what the number is but making sure that we're putting the initiatives in place and getting the incremental performance that allows us to grow faster at a relative pace."
+    },
+    {
+      "speaker": "John Pancari",
+      "speech": "Got it. All right, thank you."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Thanks, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Ken Zerbe of Morgan Stanley."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "Hi, thanks. Good morning. Given your deposit composition and how you see that changing, what is a reasonable floor for your deposit costs if we think out over the next 12 months?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Ken, that's a great question. I mean we're -- for the fourth quarter, we're sitting here at 28 basis points. I mentioned that we can get another seven in the first half of '21 just due to time deposits alone. Obviously, we'll get benefits from nonmaturity deposits and mix as well, which could get you another 2 or 3 basis points from there.\nBut -- so I would say that in the next 12 months, 10 basis points is certainly reasonable. And we're trying everything we can to get it lower."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "All right. Great. And then just one follow-up. Just as a clarification question.\nYour comments that you would expect modest downward pressure on NII and NIM in first quarter, does that exclude all PPP fees?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes, yes. And so it does -- and Ken, just a little more color on that. In our slide deck, we mentioned that we have 20 million in fees in process at year-end. But just to be clear, there's also the normal fee amortization that will happen in the first quarter.\nThere are other loans that could go through the forgiveness process in the middle of the quarter. We would expect in the first quarter to potentially have approximately 30 million in P3 fee realization."
+    },
+    {
+      "speaker": "Ken Zerbe",
+      "speech": "Perfect, that helps. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Brody Preston with Stephens, Inc."
+    },
+    {
+      "speaker": "Brod Preston",
+      "speech": "Good morning everyone. I just wanted to go back to the loan growth. Just wanted to get a sense. I appreciate you sort of gave some -- I guess some numbers around how 1Q stacked up this year and what it would look like if you got back to last year kind of levels.\nBut I just wanted to get a sense for how loan pipelines stack up currently relative to the year ago period and maybe during the middle of the pandemic? And then the expectation for paydowns, are those to remain elevated in the near term?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yes. So this is Kevin. So let me first start with the paydowns and payoffs. Although the fourth quarter was elevated from second and third quarter, when you look at 2020 for the year, payoffs and paydowns were in line with previous years and expectations.\nSo what fourth quarter was, was just maybe some lower payoffs and paydowns that would have occurred in the second, third quarter that we're just pushed back into the fourth quarter. So as we look into 2021, we don't expect payoffs and paydowns to be at an elevated level. As it relates to production, I mean very clearly, our growth for 2021 will come from our commercial business. We believe that we can get mid-single-digit growth in both core C&I and core CRE growth.\nAnd that comes from, as I mentioned earlier, just having increased levels of production. The pipelines, to your question, are not fully back to where they were pre-pandemic. And in the fourth quarter, our commercial production was actually down about 30% year over year. So it has trailed off based on the underlying economic environment.\nBut all of our line leaders are seeing folks come back into the pipeline with new projects and new opportunities. And so we expect for those to continue to build throughout the year, as Jamie mentioned, probably more so to the second half of the year. And then I also just want to remind you that Jamie touched on the third-party retail partnerships. We currently have right around $675 million in third-party partnerships.\nAs you know, historically, we've operated right around $2 billion. So we have capacity with our liquidity and capital profile to be able to go out and make some purchases from third party if they meet our hurdles from a profitability and return perspective. So as you think about loan growth for next year, I'm fairly bullish that we can produce at the higher end of the range just based on the fact that production will return throughout the year. If utilization were to normalize, as I said in my prepared remarks, just getting back to normal levels, there would be $650 million and we have some dry powder as it relates to third party.\nSo we feel confident that we can deliver on our loan guidance."
+    },
+    {
+      "speaker": "Brod Preston",
+      "speech": "OK. And then just one more on Synovus Forward. I appreciate the time line you put in the deck. I just wanted to get some clarification.\nThe 60 million annualized in first half of '21, is that more, I guess, heavily weighted toward the rest of the expense capture, expense save that you need to do? And then the 100 million in second half '21, is that more based on the revenue enhancements? And then I guess you gave sort of some indication that it's going to be more heavily weighted toward revenue on the additional 75 million. But I guess I wanted to better understand how much of that is going to be driven by new hires, I guess, on the fee side? Or is it more on the loan origination side that's going to help with those revenue enhancements in 2022?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "I'll jump in on the timing and then hand to Kevin about the hires. When we look at the timing, what I would say is the first 100 million is kind of a two third, one third split, with expenses being two thirds of the first 100 million. And then that reverses for the 75 million. And so the second 75 million -- for the 75 million, it's approximately two thirds revenue and one third expense.\nAnd obviously, all of that is in progress and in process. We have work streams identified but not picked off for that. And so it could evolve but that's how we look at it today. Kevin, I'll hand to you for the hire side."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Yes. So look, I don't want you leaving thinking that there's a great deal of expense for new hires that would be required to generate the revenue growth. Two big components of revenue growth and one that we haven't started yet is on the analytical front. We -- as I mentioned, we've started the commercial analytics.\nAnd we believe that's going to give our frontline bankers a tremendous opportunity to cross-sell within the existing book. We will, in the second quarter, roll out the same project for retail analytics. And so that's going to provide our private wealth and our retail bankers the opportunity to do the same. And so much of the revenue that we see in the future is just continuing to leverage that analytical platform to be able to sell deeper into the relationships we already have, as well as reduce the level of attrition.\nSo there's not a tremendous amount of revenue at risk if we do not bring in new team members. Now within our guidance for this year, with the reduction in expenses, we are still planning to add new producers into our high-growth areas, whether that be market specific, whether it be in our wholesale banking area, whether it be specialty or just a middle-market banker. So we are continuing to invest broadly in talent that can give us the proper returns and we'll do that. But the $75 million is not predicated on a bunch of new hires to be able to get there."
+    },
+    {
+      "speaker": "Brod Preston",
+      "speech": "OK, great. Thank you for that. I appreciate you taking my questions and all the time this morning everyone."
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steven Duong of RBC Capital Markets."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hi, good morning guys. Just wanted to talk about your excess liquidity. I think it's around 3 billion. What's the pace that we should expect that to wind down each quarter? And are you planning just to redeploy that into the securities book?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "So it's a great question and one we debate daily. As we look at 2021 and think about what to do with excess liquidity, first off, our base case forecast would have deposits declining. We didn't give official guidance on that because it's highly uncertain. If you look at future stimulus possibilities, the Paycheck Protection Program round two, all of those could materially impact deposits.\nAnd so it's difficult to know exactly what that will look like this year. As we mentioned earlier, we do expect to increase the securities portfolio. In the fourth quarter, we were between 14 to 15% of total assets in the securities portfolio. In 2021, I would expect to grow that to between 16 to 17% of total assets with the majority of that happening in the first quarter.\nAnd so we will deploy some of that excess liquidity there. As Kevin mentioned, we do believe that we have opportunities in our third-party lending portfolio. That is a portfolio that we view as a surrogate for the investment portfolio. And so the way we think about that is we get increased spread in exchange for incremental risk.\nAnd that incremental risk is credit liquidity and marketability. And with what we experienced in 2020, with the sale of the student loan portfolio realization of a gain there with the restructuring of our largest third-party relationship that derisks that portfolio, all of that just tells us that we really think that we have a strong framework in this portfolio and it truly is a surrogate for the investment portfolio. So as Kevin mentioned, that's an opportunity for us to consume some of this excess liquidity. But those -- that's how we're thinking about it.\nObviously, the No.1 priority is customer growth and that's our first and foremost objective."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it. Appreciate that. And the third-party portfolio, that was around 630 million in the fourth quarter, right? And so that could increase going forward if you want to redeploy the excess liquidity?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "That's right. That's right. As you look at it, as Kevin mentioned, at -- on 12/31/2019, we were right at $2 billion in third-party loans on balance sheet. And right now, we are spot on at over 600 million, just over 600 million on loans held for investment on balance sheet.\nWe also have the held-for-sale portfolio but we view that differently. That's a different risk profile. And so we have really reduced the loans on balance sheet in the HFI portfolio. And we believe that there's definitely an opportunity to grow that portfolio in '21."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "So, I guess maybe just an extension of this. By the fourth quarter, do you expect your excess liquidity to be around 2 billion?"
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "That is a challenging thing to forecast just given all the different flows and how we see 2021. I believe that liquidity will remain elevated. We're going to do everything we can to manage that, including reducing brokered deposits that we talked about earlier. But I think it'd be pretty tough to give a good answer for the fourth quarter of '21 excess liquidity."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "I fully understand that. And then just the last one. Just on the 45 million revenue benefit from Synovus Forward, about how much of that is coming from fees versus NII?"
+    },
+    {
+      "speaker": "Kevin Blair",
+      "speech": "So in the first round, we said it would be 45 million. We have three primary initiatives in there. No. 1, is our pricing for value.\nAbout -- as I said on the call, about 10 million of the benefit there will come in fee income through repricing to market levels or treasury payment solutions. The second is on a new product offering that we've rolled out, merchant services. We've brought it in-house. And so that will all be fee income related.\nAnd then the third and the more difficult one to assess is this commercial analytics, where we put a $20 million benefit there. That comes from cross-selling and reducing attrition. And so cross-selling to our existing book could come from extending additional credit. It could come from depository.\nSo there will be an NII component. But a large component of the ability to cross-sell will be on the treasury and payment solutions side. I think about 70% of the leads that we get out of the system are treasury and payment solutions related. So I would assume that a large portion of that revenue will also come in through the service charge line or fee income line."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it, very helpful. Thank you, that's it for me."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Christopher Marinac of Janney Montgomery Scott. Please go ahead."
+    },
+    {
+      "speaker": "Christopher Marinac",
+      "speech": "Hey, thanks. Just a quick one. I know you talked about the M&A environment and not being interested in that. I'm just curious on the perhaps venture capital or just general investment standpoint.\nDoes fintech interest you at all from that deployment of cash? You have some unique history and payments in fintech. This is why I asked."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Yes. Chris, I'll jump in on that. It's Jamie. As we look at those, you're right, we have a very unique history and a unique expertise.\nAnd so that definitely plays into it. But a lot of times, when you look at the financials and the valuation, it's challenging to make those work to bring it into a bank because generally -- and not always but generally, their valuation is based on their ability to sell to other banks. And if you bring it in-house, it makes that difficult. And the value to the buyer is a fraction of what the value is of that company when they can sell across the country.\nAnd so that's typically what makes the math difficult. But that is the type of thing that we look at. As Kevin mentioned earlier, if there is technology that we can deploy to serve our customers better, to add a product, that is definitely something we would consider. It's just you have to find the right fit to make the valuation work."
+    },
+    {
+      "speaker": "Christopher Marinac",
+      "speech": "Great points. I appreciate all the color. Thank you all for the information this morning."
+    },
+    {
+      "speaker": "Jamie Gregory",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Mr. Kessel Stelling for any closing remarks."
+    },
+    {
+      "speaker": "Kessel Stelling",
+      "speech": "Well, thank you very much, and thanks, everyone, for your questions and for your time today. In closing, I think 2020 again proved the valuable old banks play in our communities and in our economy. In my entire career, I'm not sure I've ever been more proud of our profession. And I'm especially grateful to be part of the organization that was already well positioned with strong talent and longtime local relationships to respond when and where needed throughout the year.\nIt's certainly been a trying season for everyone. And while we in no way celebrate the difficulties that have been life altering for so many and have created challenges our team is still working to overcome, it has been inspiring to again watch our bankers, our advisors and support teams kick into action 24/7, caring for each other and those we serve. This might have been our finest hour so far. And there's so much more to come.\nWe're looking confidently toward the future with the right talent and the right growth strategy leading the way to become an even better bank. And we're just so well positioned for 2021 and the years beyond with a strong balance sheet; with higher levels of capital and liquidity and strong credit quality; with a strong operating model, coupled with solid execution on our Synovus board initiatives identified to date and excited about the go-forward opportunities yet to come; and finally, strong leadership and just strong talent in general, not just at the senior level you heard from today but really throughout our organization, throughout our five-state footprint. We continue to attract and retain the best and brightest in our industry, all of whom have a passion for serving our customers each and every day. And it's truly an honor to serve that group as CEO.\nSo with that, again, excited about the quarter. Look forward to being with all of you again in April and thanks again for joining us and for your continued interest in our company. Have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 86 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kevin Brown--Senior Director of Investor Relations",
+    "Kessel Stelling--Chairman and Chief Executive Officer",
+    "Jamie Gregory--Chief Financial Officer",
+    "Kevin Blair--President and Chief Operating Officer",
+    "Brady Gailey--KBW -- Analyst",
+    "Ebrahim Poonawala--Bank of America Merrill Lynch -- Analyst",
+    "Jennifer Demba--Truist Securities -- Analyst",
+    "Brad Milsaps--Piper Sandler -- Analyst",
+    "Steven Alexopoulos--J.P. Morgan -- Analyst",
+    "Jared Shaw--Wells Fargo Securities -- Analyst",
+    "John Pancari--Evercore ISI -- Analyst",
+    "Ken Zerbe--Morgan Stanley -- Analyst",
+    "Brod Preston--Stephens Inc. -- Analyst",
+    "Steven Duong--RBC Capital Markets -- Analyst",
+    "Christopher Marinac--Janney Montgomery Scott -- Analyst"
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings and welcome to the Valmont Industries Second Quarter 2021 Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being recorded.\nIt is now my pleasure to introduce your host, Ms. Renee Campbell, Vice President of Investor Relations and Corporate Communications. Thank you. Please go ahead."
+    },
+    {
+      "speaker": "Renee L. Campbell",
+      "speech": "Thank you and good morning. Welcome to Valmont Industries Second Quarter 2021 Earnings Call. With me on today's call are Steve Kaniewski, President and Chief Executive Officer; Avner Applbaum, Executive Vice President and Chief Financial Officer, and Tim Francis, Senior Vice President and Corporate Controller.\nThis morning, Steve will provide a brief summary of our second quarter results and comment on our strategy and long-term business outlook. Avner will review our financial performance and provide trends and key assumptions for the balance of 2021 with closing remarks from Steve. This will be followed by Q&A.\nA live webcast of the presentation will accompany today's discussion and is available for download from the webcast or on the Investors page at Valmont.com. A replay of today's call will be available for the next seven days. Please also note that this conference call is subject to our disclosure on forward-looking statements, which applies to today's discussion and is outlined on Slide 2 of the presentation. It will also be read in full at the end of this call.\nI would now like to call over to our President and Chief Executive Officer, Steve Kaniewski."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thank you, Renee. Good morning everyone and thank you for joining us. Before we recap our second quarter results, I would like to share some opening comments. First, I want to thank our employees around the world for their consistent execution against our strategic priorities and supporting our customers, as global markets begin to recover from the pandemic. Like many companies, we have faced unprecedented levels of cost inflation, especially raw materials and transportation since the beginning of the year. These levels are pervasive and must be accounted for in-market pricing. So, it has been an imperative for us to quickly increase prices globally across all of our businesses.\nCurrent economic trends lead us to believe that inflation will not mitigate in the near term, especially for durable goods and we will continue to take additional pricing actions in all segments as needed while inflationary pressures continue. For example, in North America, Irrigation, this year we've raised price five times on irrigation systems, totaling more than 30% inclusive of upcoming increases. And then Utility, utilizing our pricing mechanisms, we've raised price seven times on steel monopoles. As we have demonstrated over the past few years, price leadership is a strategic priority for us and will continue to be in all of our served markets.\nNext, I would like to thank our global operations and production teams who have done an excellent job this year with productivity and managing through these unique supply chain dynamics. I want to commend them on the improvement in ship complete and on-time metrics, even as our business is accelerating. We're proud of our team's persistent focus and we expect to continue building on the strong momentum going forward.\nNow, let me start with a brief recap of our second quarter summarized on Slide 4 of the presentation. Record sales of $894.6 million increased $205.8 million or nearly 30% compared to last year, an increase more than 26% on a constant currency basis. Sales growth was realized in all segments, most specifically in Irrigation and Utility Support Structures.\nStarting with Utility, sales of $267.9 million grew $36.5 million or 15.8% compared to last year. Higher volumes were driven by strong broad-based demand from ongoing investments in grid hardening and modernization, as well as renewable energy generation. Moving to Engineered Support Structures, record sales of $269.4 million increased $16 million or 6.3% compared to last year. Favorable currency and pricing impacts as well as sales growth in wireless communication products and components were slightly offset by anticipated lower North American transportation market volumes.\nGlobal lighting and transportation sales grew 3.3% as pricing improved in all regions, and international markets benefited from increasing stimulus and infrastructure investments, especially in Europe and Australia. Wireless communication products and components sales grew 7.2% compared to last year. Carrier spending and support of 5G build-outs continues to drive strong demand globally, as evidenced by significantly higher sales of our small cell integrated products. Favorable pricing also contributed to sales growth. I want to take a moment to congratulate our ESS team on delivering a record quarter of sales in operating income. I'm especially proud of our commercial teams for their demonstrated price leadership during this inflationary environment.\nTurning to Coatings, sales of $98.2 million grew $18.2 million or 22.7% compared to last year and improved sequentially from last quarter due to improving end market demand, favorable pricing and currency impacts. During second quarter, we commenced operations at our new greenfield Coatings facility near Pittsburgh, Pennsylvania, built with enhanced processes to generate less heat and humidity and providing additional recycling opportunities. This facility aligns well with our ESG principles while serving the growing demand for new infrastructure in this region.\nMoving to Irrigation, record global sales of $282 million grew $131.3 million or 87.2% compared to last year with sales growth across all served markets, including more than 35% growth in our technology sales. Higher volumes and favorable pricing were driven by the continued strength of Ag market fundamentals and deliveries for the large Egypt project. In North America, sales of $156.1 million grew 57.6% year-over-year. Strong market fundamentals and improved net farm income projections continue to positively impact farmer sentiment generating strong order flow. Significantly higher volumes, higher average selling prices and higher industrial tubing sales, all contributed to sales growth.\nInternational sales of $125.9 million grew 1.4 times compared to last year, led by the ongoing delivery of the Egypt project, strong European market demand and record sales in Brazil. Our sales through the second quarter have exceeded full-year 2020 revenue, a testament to our market leadership in this region. Regarding our project pipeline in Africa, we recently were awarded more than $20 million of additional projects from new customers in Egypt, Sudan and Rwanda demonstrating our market leadership, global operations footprint and project management capabilities.\nTurning to Slide 5, during the quarter, we completed the acquisition of Prospera Technologies, an award winning global leader in AI and machine learning. For those who attended our virtual Investor Day in May, you will recall how we outlined our strategic pillars for long-term profitable growth. Accelerating innovation through investments in recurring revenue services is one of the critical components of our industrial tech growth strategy. Through this acquisition, together Valmont and Prospera have created the most global vertically integrated AI company in agriculture, immediately providing highly differentiated solution focused on in-season crop performance that is able to go beyond traditional irrigated acres. No one else in the industry can offer this kind of solution. Prospera brings advance agronomy and unprecedented visibility to the field. Their technology is currently being used on over 5,300 fields on a variety of crops including corn, soybeans, potatoes, wheat, onions, alfalfa and tomatoes.\nGrowers are very excited about this technology as evidenced by strong adoption rates and the critical need for growers to reduce inputs while increasing yields, aligning well with our ESG principles of conserving resources and improving life. Through Prospera solution, vision and talented team, we are moving to the next stage of agricultural development. Today, approximately half of our irrigation technology sales are generated from recurring revenue services. With this acquisition, we expect those particular sales to grow more than 50% per year over the next three to five years. We also expect this acquisition to be accretive to the segment beginning in 2023, as we continue investing in our in-season data services. Integration is going well and we plan to share more on our accelerated market growth strategy in future quarters.\nAdditionally, in today's market, the war for talent is pervasive and competitive. Prospera brings the strongest team in the industry and we are fortunate to have 100 highly talented and motivated employees on board, including experts in data science and machine learning. As you can tell, I'm very excited about this acquisition. It builds upon our demonstrated success over the past few years as we move forward together as one company.\nWe also completed the acquisition of PivoTrac, the subscription based AgTech company that provides remote sensing and monitoring solutions for the southwest U.S. market, helping grow our technology sales to $50 million year-to-date.\nTurning to Slide 6, our solar business is another area where we are accelerating growth and new product innovation while supporting our sustainability commitments. During Investor Day, we talked about solar growth opportunities in both utility and agriculture and I'm very excited to see our growing pipeline of projects in both end markets. Our backlog of utility-scale and distributed generation projects has been increasing as we expand the solution globally. In the second quarter, we were awarded projects totaling $47 million. Additionally, over the past 18 months, we received more than 30 orders for the North American market. With our industry-recognized class of one status and the benefits of our scale and global supply chain, we're uniquely positioned to help support global customers with their renewable energy goals. Our Solar Solutions are also driving accelerated growth in agricultural markets. In the second quarter, we were awarded three projects, totaling $25 million. We've already completed several others in Sun Belt regions like Brazil and Sudan and our planning an official North American market launch this fall at the Husker Harvest Days farm event. We are also partnering with large global food producers to help them achieve their own ESG goals. Working together with our Utility Solar team and world-class Valley dealer network, we have formed a global cross-functional team committed to delivering integrated solutions to support Ag players in their markets. We're very excited about this growth potential.\nTurning to Slide 7. At our Investor Day, I talked about several of our ESG initiatives and highlighted the many ways that our products and services conserve resources and improve life and help build a more sustainable world. As we said before, ESG is a strategic priority for us. It's embedded into our strategic deployment process that drives our most important initiatives at Velma and we are pleased that our efforts are being acknowledged externally, one example is with Institutional Shareholder Services or ISS. Our environment and social quality scores have improved significantly this year from a 6 to a 2 for environment and from a 6 to a 3 for social, while governance has held steady at a solid 2. While this is a continuous journey, we are proud of the progress we have made so far. I want to congratulate our teams and business partners who are strengthening our commitment to grow and innovation as a company with ESG in mind.\nWith that, I will now turn the call over to Avner for our second quarter financial review and 2021 outlook."
+    },
+    {
+      "speaker": "Avner M. Applbaum",
+      "speech": "Thank you, Steve and good morning everyone.\nTurning to Slide 9 and second quarter results. My comments will focus on the adjusted results as outlined in the press release and in the Reg G disclosure in the presentation appendix. Operating income of $90.9 million or 10% of sales grew $25.2 million or 38% compared to last year driven by higher volumes in irrigation, improved operating performance and a favorable pricing notably in Engineered Support Structures. Diluted earnings per share of $3.06 grew more than 50% compared to last year, primarily driven by very strong operating income and a more favorable tax rate of 22.5%. This rate was realized through the execution of certain tax planning strategies.\nTurning to the segments. On Slide 10, in Utility Support Structures, operating income of $21.2 million or 7.9% of sales decreased $4.1 million or 300 basis points compared to last year. Strong volume, increased pricing and improved operational performance were more than offset by the ongoing impact of rapidly rising raw material costs during the quarter, which our pricing mechanisms did not allow us to recover.Moving to Slide 11 in Engineered Support Structures. Record operating income of $31.9 million or 11.9% of sales increased $9 million or 290 basis points compared to last year. We're extremely pleased with the results from deliberate proactive pricing actions taken by our commercial teams to more than offset the impact of rapid cost inflation. We are also recognizing the benefits of previous restructuring actions. Additionally, our operations team continue to drive performance improvement across the segment through improved productivity and product quality and better ship complete and on-time delivery metrics.\nTurning to Slide 12. In the Coatings segment, operating income of $14.7 million or 14.9% of sales was $4.3 million or 190 basis points higher compared to last year. Higher volumes, favorable pricing and operational efficiencies more than offset the impact of raw material cost inflation. Moving to Slide 13. In the Irrigation segment, operating income of $42.9 million or 15.2% of sales nearly doubled compared to last year and was 80 basis points higher year-over-year. Significantly, higher volumes and favorable pricing were slightly offset by higher R&D expense for strategic technology growth investments, including product development.\nTurning to cash flow on Slide 14. We delivered positive operating cash flows of $37 million and positive free cash flow this quarter despite continued inflationary pressures, increasing our working capital needs. This quarter we closed on Prospera acquisition for a purchase price of $300 million, funded through a combination of cash on hand and short-term borrowings on our revolving credit facility. We also acquired 100% of the assets of PivoTrac for $12.5 million, funded by cash on hand.\nAs we stated in prior quarters, rapid raw material inflation can create short-term impacts on cash flows. The current market outlook indicates that general inflationary trends may not subside in 2021, so we would expect some continued short-term impacts. We expect working capital levels and inventory to remain elevated to help us mitigate supply chain disruptions and opportunistically lock in better raw material pricing. Accounts receivable will also meaningfully increase in line with sales growth. As our historical results have shown, we will see improvements in working capital as inflation subside. Turning to Slide 15 for a summary of capital deployment. Capital spending in first half of 2021 was $49 million and we returned $42 million of capital to shareholders through dividends and share repurchases, ending the quarter with just over $199 million of cash.\nMoving now to Slide 16. Our balance sheet remains strong with no significant long-term debt maturities until 2044. Our leverage ratio of total debt to adjusted EBITDA of 2.3 times remains within our desired range of 1.5 times to 2.5 times.\nLet me now turn to Slide 17 for an update to our 2021 outlook, including a few key metrics and assumptions. We are increasing sales and EPS guidance for fiscal 2021. Net sales are now estimated to grow 16% to 19% year-over-year driven primarily by very strong agricultural market fundamentals. Further, we now expect Irrigation segment sales to grow 45% to 50% year-over-year and continue to assume a foreign currency translation benefit of 2% of net sales. 2021 adjusted earnings per share is now estimated to be between $10.40 and $11.10.\nI want to take a moment to discuss the rationale for providing an adjusted earning outlook going forward. As a technology company, the cost structure of Prospera is very different than any acquisition in Valmont's history, including a significant restricted stock grant for talent retention purposes. We have also acquired intangibles technology assets. We believe that by excluding Prospera's intangible asset amortization and share-based compensation in the adjusted financials, the metrics will provide a better comparison a future Irrigation segment performance as compared to historical results. A table outlining the reconciliation of these adjusted items to GAAP is included in the presentation appendix and press release. Other metrics and assumptions for 2021 are also summarized on the slide and in the release.\nTurning to our second half 2021 Segment outlook on Slide 18. In Utility Support Structures, we expect a meaningful sequential improvement to the quality of earnings, beginning in the third quarter driven by margin improvement as pricing becomes more aligned with steel cost inflation. Moving to Engineered Support Structures, we expect continued short-term softness in North American transportation market and improved demand in commercial lighting. Demand for wireless communication products and components remains strong and we expect sales growth in line with expected market growth of 15% to 20%.\nMoving to Coatings, end market demand tends to correlate closely to general economic trends. We are focused on pricing excellence and providing value to our customers. Moving to Irrigation, we expect a very strong year 45% to 50% sales growth based on strength in global underlying Ag fundamentals, the estimated timing of deliveries of the large Egypt project and another record sales year in Brazil.\nA couple of reminders that I want to mention for this segment. The first is that the third quarter is a lower sales quarter compared to the rest of the year due to normal business seasonality. Second, deliveries of the large Egypt project began in fourth quarter 2020, which will affect year-over-year growth comparisons, and as Steve mentioned earlier, we have been consistently raising prices to offset inflationary pressures.\nWith that, I will now turn the call back over to Steve."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thank you, Avner. Turning to Slide 19 and the long-term drivers of our segments. Overall, we continue to see strong demand and positive momentum across all businesses, evidenced by backlog of more than $1.3 billion at the end of second quarter and the demand drivers are in place to sustain this momentum into 2022. Like many others, we are closely monitoring the COVID Delta variant and continue to follow state and local regulations to keep our employees and customers safe. At present, government mandated shutdowns in Malaysia, have led to the temporary closure of three of our small facilities there. The expected impacts from these closures have been included in our full year financial outlook.\nTurning to Slide 20. In summary, I'm very pleased with our strong second quarter results and our team's ability to navigate and capitalize on challenging market dynamics. We believe this demonstrates the strength and sustainability of our business and long-term strategy, favorable end market trends and strong price leadership in the marketplace. As we discussed at our Investor Day, we remain focused on the execution of our strategy, which is fueled by our dedicated and talented team of 10,000 employees and our differentiated business model. Through our acquisition of Prospera Technologies and PivoTrac, we are accelerating growth through investments in innovation, technology and IoT building on our strategy to grow recurring revenue services. Finally, we're very positive on the year as demonstrated by our updated financial outlook and are poised and well positioned to capture growth and drive shareholder value in the future.\nI will now turn the call back over to Renee."
+    },
+    {
+      "speaker": "Renee L. Campbell",
+      "speech": "Thank you, Steve. At this time, the operator will open up the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions]. Our first question is coming from Chris Moore of CJS Securities. Please go ahead."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Hey, good morning guys. Maybe we could just start with solar. So, utility solar contracts $47 million in orders in Q2. Just trying to get a feel for how big the projects are here, is that one or two customers, is it ten?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Hi, Chris, this is Steve. So, we're targeting both utility scale and distributed generation because we think that that will be the mix of generation going forward. So it's a number of customers, it's not just one or two, I won't say ten, but it's -- the project size is a couple of million kind of each when you look at that. So, it's a way to support developers of solar in distributed, and then we would typically call out the larger scale utility orders like we had at the end of last year where they were somewhere in the range of about $25 million to $30 million each."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Gotcha, that's helpful. And maybe just one more from me. The Egypt contract $240 million estimated, roughly how much of that will have been recognized by the end of 2021?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Well, it would be a little over half. We started in fourth quarter last year, it's been pretty even. So, by the time you get through 2021, I'd say 55% to 60%, the rest being delivered in 2022."
+    },
+    {
+      "speaker": "Chris Moore",
+      "speech": "Got it. But I just want to make sure it wasn't really accelerate this year. I'll leave it there. Thank you, guys."
+    },
+    {
+      "speaker": "Avner M. Applbaum",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Nathan Jones of Stifel. Please go ahead."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Good morning, everyone."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Good morning, Nathan."
+    },
+    {
+      "speaker": "Avner M. Applbaum",
+      "speech": "Good morning, Nathan."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Maybe we could start on Prospera, now that it is actually in the portfolio. Can you talk about the expected contribution of revenue in the second half, the expected contribution to EPS? Just start with that."
+    },
+    {
+      "speaker": "Avner M. Applbaum",
+      "speech": "Yeah. Hi Nathan, this is Avner. So, as it relates to revenue in 2021, I would say, have been nominal as we start ramping up. So, not a large impact for 2021. As it relates to EPS, it will be actually decretive in 2021, as Steve mentioned, we'll will start to be accretive to the segment in 2023. So, if you want to ballpark it, I'd say about $0.30 to $0.35 decretive for our results in 2021."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Right. And Nathan, I would just add that, since we were in partnership with Prospera, we were already recognizing revenue, so that's why the increase in revenue or the incremental piece would be more nominal. It will be -- there'll be some growth, but it won't be as substantial because we were already seeing that."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Okay. So, understanding that this is a bit of a different acquisition for you guys. Can you talk about how long does it take Valmont to get this business to earn a return, that's greater than your cost of capital, just I guess that for our first question. At what point..."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "In Q2 here, do you think that Prospera is going to earn a return for Valmont, it's greater than your cost of capital."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Sure. The margins that are associated with Prospera are very much higher than our typical industrial margins, and so if we think about 60% to 70% gross margins, with the way that we kind of see the growth roughly around 50% over the next three to five years with recurring revenue, we would anticipate this is more of a transformative acquisition, so normally we would say within three years, this is probably more like four maybe five, but really dose start to change the way that the segment looks as we go forward, particularly on the growth side where you could see 500 basis points to 800 basis points of improvement as we look out in the longer term."
+    },
+    {
+      "speaker": "Avner M. Applbaum",
+      "speech": "Maybe I'll just add one more point as you think about this business. The working capital needs are really minimal being kind of a tech business with very little working capital intensity that another good driver for return on invested capital."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Where are the margins today and where do you think there'll be in three to five years."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, on the growth side, we are already seeing margins in that, again at 60% to 70% range. So we will continue to pass the SG&A line will look a little heavier than it would be for traditional industrial business. But overall, this is a strong margin business, we would expect that to continue as adoption picks up and so we can see that 60% to 70% range really holding pretty steady through the period. We saw that even though the market has been declining over the past six, seven years, as we started our tech sales. So I think we're on pretty solid footing when it comes to those margin levels."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "And on the operating margin levels, where are they today and where they'd be in that three to five year timeframe?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Well, they are decretive right now and will be through 2022, because of the reinvestment back into the business for growth. And so, if you think about '21 and '22, again, we would start to get closer to breakeven by the end of 2022. And then building in '23, and really is that year four or five, you would really start to see things that would be closer to a 30% kind of operating."
+    },
+    {
+      "speaker": "Nathan Jones",
+      "speech": "Okay, great, thanks. I'll pass it on."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is coming from Ryan Connors of Boenning & Scattergood. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Great, thanks for taking my question. Wanted to get your take on this announcement, kind of on the tape from PG&E that they're going to try to burry a lot of their power lines out there because of the fires and the fact that the above ground lines are apparently. one of the causes behind some of these tragic events there, driving some concern, I guess that maybe underground lines are the wave in the future. Can you, -- I mean, that's not a new risk, but this is kind of a hope or a high profile example of that front page of The Wall Street Journal. What's your -- could you just give your reaction, your take on that as a substitution risk in U.S.S.?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, it's very small, Ryan. What we see, we saw this with Lake Champlain, we see it kind of in other selected areas is -- that they may take something that is really through part of maybe a tinder box and and burry it, but it does cost 10 times to 12 times more in total construction, which rate payers really do push back on, the PUC's really push back on. And from a high-voltage perspective, I think we said this before, the heat generated really makes it impractical from a transmission perspective. So, where you see the substitution tends to be more in distribution and distribution at least for us is a smaller part of our business and what we've seen from California is much more in the way of both concrete and fiber glass solutions, which we offer both on the distributed side, at least for the a couple of long haul miles. There is also a tech play for us that we've been participating in on that side, which is the remote monitoring of the right away and we have some solutions that are able to give the operators much more visibility at a specific structure level as to a right away intrusion of fire, earthquake those kinds of things. So, I think it will be out there. It's something that does make sense in certain types of areas, but from a substitution, at least as it pertains to our business, is still pretty very small."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Got it. Okay, that's helpful. My other one was kind of a big picture in nature. And just looking at inflation and how would actually impacts your portfolio of businesses. I mean, you talk about inflation as a headwind and sort of suggested if it goes away, that's a good thing, but yet you just posted a record quarter right in the middle of this inflationary environment. So, obviously that inflationary environment is helping the Ag business, the irrigation business because of commodity prices and farm incomes, it doesn't seem to be hurting the other businesses. I mean, if you think about why steel is up, it's because you and your peers are seeing a lot of demand. So, I mean, it -- would inflation going away that -- even though that helps you on the cost side, would that really help us from an earnings standpoint or that sort of be more than offset by negative demand circumstances of that environment changing out there?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah. The reason for our comment about the headwind is particularly as it moves so fast, our pricing mechanisms, most specifically in utility can't catch up fast enough. And so as inflation abates, even if it just plateaus, we will then see a pretty significant catch-up in margins. So if you think about how we go into 2022, we will have a catch-up in March. Long-term, we've always said we like inflation, it just when it moves this quickly, it does provide some drag on the business. But if inflation were more typical 3% to 5% that's very healthy for our business. So you're right, it could worry about demand destruction, but it's not something that we're worried about in the present time because markets are strong, it's just been the rate has been so dramatic that you're playing catch up with your pricing to catch that we've seen it in irrigation, which is why we didn't get it maybe a little more leverage in irrigation; it's utility, $8 million worth of steel costs that we could not pass-through in price. But as you get to a more normalized either growth of inflation or just even a plateau, we tend to catch up very fast. It does consume a lot of working capital too in the meantime, which is another consideration, but we've been well capitalized and we have the wherewithal to be able to handle."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Got it. Well, hey, look I appreciate the comprehensive response."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is coming from Brian Drab of William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Blake Keating",
+      "speech": "Hi, good morning. This is Blake Keating on for Brian."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Hey, Blake. Hi."
+    },
+    {
+      "speaker": "Blake Keating",
+      "speech": "You guys mentioned in the last call meaningful sequential improvement in the second half utility margin, do you still expect that improvement to be around 200 bps to 300 bps versus the first half?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, it would be definitely approaching more of our, let's say, normalized kind of margins in there. So, if you think about the performance of the segment at 10% to 11% operating, we would get closer back to that as we look at the second half of the year."
+    },
+    {
+      "speaker": "Blake Keating",
+      "speech": "Got it. Thank you. Then, just one quick follow-up, what's -- what are some of the drivers behind the international strength in the irrigation, outside of the Egypt project. Is any other strength in Brazil pre-buying ahead of further price increases or anything of that nature?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "It is broad based, it's every one of our served markets and so if you look at Europe, it's based on just normal Ag fundamentals and very good net farm income projections. And so, Europe across the board, both Western Europe, Eastern Europe and kind of the Ukraine, Russia area have all performed extremely well. We're seeing additional project work outside of Egypt and Africa as we mentioned in our comments and Brazil, the FINAME program and the fact that it's still a U.S. dollar derived commodity really have accelerated the demand there as Brazil, let's say next to the U.S. is really helping to get protein stocks built back up, whether that to tick in pork, beef as we know there is some pretty notable shortages out there around the world, both here in the U.S. and in China, so those fundamentals are what's driving the order flow globally."
+    },
+    {
+      "speaker": "Blake Keating",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thanks, Blake."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]. Our next question is coming from Jon Braatz of Kansas City Capital. Please go ahead."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Good morning, Steve and Avner."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "In the solar area, solar business -- your solar business seems to be gaining some momentum and the solar industry is rather strong at this point. I guess, my question, Steve is, do you see yourself gaining share in that business, in that industry at this point or you sort of just matching what the market is giving you?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "I'll answer it twofold. I think in the short-term, we're very careful because of the cost profiles, particularly around steel and some of the PV shortages that are out there. Some players in the industry got caught, we didn't. So, we forego some orders simply because it would have been loss making. I think as we look at some of our awards that we've announced, those are at margin levels, where we can make good money and I think that's accelerating as people see more and more of us particularly in the U.S. market. In the agricultural space, that is a brand new business for us and accelerating very quickly and so as large food processors are thinking about ways to hit their own ESG targets, they don't want to go to electrical contractor and other electrical contractor have risk of performance, etc., so, the bankability of our balance sheet, our Valley dealer network as well as the company that's been in the utility power generation business for well over 40 years, I think that's going to really help us to grow market share as we go forward. So it was a great quarter by both teams, the utility and agriculture, and I think you'll start to see that as the market kind of recalibrates around the new cost structure, solar generation is still on a very solid ground as compared to other generation sources. I think what you'll see in the market is the idea that cost minus kind of goes away in this kind of environment."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Okay, thank you. One other question on the irrigation side, the North American farmer is going to have a pretty good year and as they look at their tax situation at year-end. Would you envision that there might be a, if you want to call a surge in business in the fourth quarter as growers try to reduce taxable income?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "You know as it would stand right now, that kind of dynamic we've seen in the past, so it's very plausible that that would happen, obviously if there were some tax changes out of Washington DC that could be more pronounced. And so we're standing ready to take advantage of it if it does occur, but it's quite a plausible scenario as we've seen through the way farmers purchase and do tax planning together."
+    },
+    {
+      "speaker": "Jon Braatz",
+      "speech": "Yeah. Okay, all right, Steve. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is a follow-up coming from Ryan Connors of Boenning & Scattergood. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Hey, thanks for taking the follow-up. Yeah. Just, I wanted to get your take on the sort of the infrastructure bill situation, I mean, it's sort of ironic, we cover infrastructure stocks exclusively, and we're 3 for 3, Valmont is the third company this week for us to report infrastructure company report record revenue and earnings and yet we've got congress still kind of debating in infrastructure build this \"stimulate\" that market. What's your take, I mean, do you think that's going to happen, does the market even need stimulus at this point, it seems like things are going pretty well."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Yeah, you know we had said in our outlook earlier that an infrastructure bill to us would be incremental and not accounted for in our guidance. That's because states and state's spending make up the vast majority of what we see in our business. So, at a federal level, if more came in, it's really like additional adrenalin to the market. And so, it would help, they would move things along, it would be definitely incremental to our business, but it's not necessary in terms of just the way our business performs quarter-over-quarter. I think that the chances are still good, that something will come out at least the long bridges, highways and roads, it's kind of the other side of telecom and transmission that is still debatable based on funding and how they're going to pay for it. So, I would say right now is 50-50, but we're not banking the business so to speak on having to see something come out of that. Now, in Australia and Europe, we have seen stimulus, they've gotten it through, it is a part of helping our business even in the current profile."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "And can you just remind us what's the order of magnitude. How big is U.S. road and highway type projects as a percentage of total Valmont, let's say revenue?"
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Well, I would say within the ESS segment. if the segment itself is close to a $1 billion, the traffic and lighting piece is maybe three quarters of it. And of that DOT work, I'd say probably half."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Okay [Indecipherable] 53:56 commercial lighting."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "That just goes to commercial and then we have the DOT piece. So, I think that's probably the way to look at it."
+    },
+    {
+      "speaker": "Ryan Connors",
+      "speech": "Got it. And thanks again for your time."
+    },
+    {
+      "speaker": "Stephen G. Kaniewski",
+      "speech": "Thanks, Ryan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. At this time, I'd like to turn the floor back over to Ms Campbell for closing comments."
+    },
+    {
+      "speaker": "Renee L. Campbell",
+      "speech": "Thank you everyone for joining us today. As mentioned, today's call will be available for playback on our website or by phone for the next seven days and we look forward to speaking with you again next quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Included in this discussion, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on assumptions that management has made in light of experience, and the industries in which Valmont operates, as well as management's perceptions of historical trends, current conditions, expected future developments, and other factors believed to be appropriate under the circumstances.\nAs you listen to and consider these comments, you should understand that these statements are not guarantees of performance or results. They involve risks, uncertainties, some of which are beyond Valmont's control and assumptions. Although management believes that these forward-looking statements are based on reasonable assumptions, you should be aware that many factors could affect Valmont's actual financial results and cause them to differ materially from those anticipated in the forward-looking statements.\nThese factors include, among other things, risk factors described from time to time in Valmont's reports to the Securities and Exchange Commission, as well as future economic and market circumstances, industry conditions, company performance and financial results, operating efficiencies, availability and price of raw material availability and market acceptance of new products, product pricing, domestic and international competitive environments and actions and policy changes of domestic and foreign governments. The company cautions that any forward-looking statements included in this discussion is made as of the date of this discussion and the company does not undertake to update any forward-looking statements.\n[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 47 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Renee L. Campbell--Vice President of Investor Relations and Corporate Communications",
+    "Stephen G. Kaniewski--President and Chief Executive Officer",
+    "Avner M. Applbaum--, Executive Vice President and Chief Financial Officer",
+    "Chris Moore--CJS Securities -- Analyst",
+    "Nathan Jones--Stifel Financial Corp -- Analyst",
+    "Ryan Connors--Boenning & Scattergood -- Analyst",
+    "Blake Keating--William Blair & Company -- Analyst",
+    "Jon Braatz--Kansas City Capital -- Analyst"
+  ]
+}

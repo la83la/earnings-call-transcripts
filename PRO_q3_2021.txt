@@ -1,0 +1,205 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings. Welcome to the PROS Holdings' Third Quarter 2021 Earnings Conference Call. [Operator Instructions]\nI would now like to turn the conference call over to Belinda Overdeput, Director of Investor Relations."
+    },
+    {
+      "speaker": "Belinda Overdeput",
+      "speech": "Thank you, Operator. Good afternoon, everyone, and thank you for joining us. Our earnings press release, SEC filings, and a replay of today's call can be found in the Investor Relations section of our website at pros.com. Our prepared remarks will also be available on our website immediately following the call, and will be replaced by the official transcript, which includes participant questions, once available.\nWith me on today's call is Andres Reiner, President and Chief Executive Officer; and Stefan Schulz, Chief Financial Officer. Please note that some of the commentary today will include forward-looking statements including, without limitation, those about our strategy, future business prospects and market opportunities, and our financial projections. Actual results could differ materially from such statements and our forecast. In particular, there remains significant uncertainty around the duration and impact of COVID-19. This means that results could change at any time, and the contemplated impact of COVID-19 on the Company's business results and outlook is the best estimate, based on the information available as of today. For more information, please refer to the risk factors described in our SEC filings. PROS assumes no obligation to update any forward-looking statements to reflect future events or circumstances.\nAs a reminder, during the call we will discuss non-GAAP metrics. Reconciliations between each non-GAAP measure and the most directly comparable GAAP measure, to the extent to which available without unreasonable effort, are available in our earnings press release.\nBefore I hand the call over, I'd like to remind our investors and analysts about our upcoming virtual Investor Fireside Chat, taking place on November 17th from 1:30 PM to 3:00 PM Central Time during the 2021 PROS Outperform conference.\nWith that, I'll turn the call over to you, Andres."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Thank you, Belinda. Good afternoon, everyone, and thank you for joining us. We ended the quarter with significant outperformance on our guidance ranges for profitability and cash flow, and delivered revenue results in line with our expected ranges. We did see impact from the Delta variant in our Q3 results and our Q4 outlook. Stefan will expand on this later.\nOur strategy is to accelerate market adoption of the PROS Platform, deliver an incredible experience and drive significant value for our customers. Despite the challenges we faced because of COVID-19, our team continues to execute well against our strategy. We welcomed new customers across industries, and from new market segments to PROS during the quarter. We continue to drive incredible value for customers, evident by our expanding partnerships and best-in-class gross revenue retention rates. We received industry recognition of our leadership in both CPQ and Price Optimization and Management. When I look at all of this and the progress of the recovery, I couldn't be more excited for what is to come.\nIn Travel, we're starting to see international restrictions ease, and some carriers are seeing significant increases in passenger demand as a result. For example, when the announcement was made that the Europe to U.S. travel ban would be lifted in November, carriers saw an immediate 140% increase in ticket sales in a single week for European travelers. This demonstrates the pent-up demand for travel, both leisure and business, and energizes us for the pace of recovery heading into 2022, as more borders open.\nIn Q3, we welcomed two new low-cost carriers to the PROS family; Air Transat and Scoot. Historically, this market segment didn't have access to the best-of-breed, AI-powered revenue management solutions. We designed our PROS RM Essentials edition on the PROS Platform to enable teams of any size to adopt to our industry-leading AI and grow with PROS over time. With PROS RM Essentials, customers like Air Transat and Scoot can forecast demand and dynamically priced to maximize revenue.\nNow, moving to B2B; in the healthcare space, we're seeing demand for our solutions, as companies look to digitize their selling motions. We welcomed Korian, a provider of long-term care services, and Radiometer Medical, a manufacturer of diagnostic devices, to the PROS family as new customers.\nWe're also seeing momentum in transportation and logistics, where companies are looking to PROS to enable them to deliver a frictionless sales experience, as demand continues to rise. This year, air cargo demand is expected to increase approximately 20% year-over-year.\nIn Q3, Emirates SkyCargo adopted our B2B Platform to empower their customers with a self-service buying experience, to drive a higher conversion of sales, using our omnichannel quoting capabilities and capacity-aware price guidance. Similarly, Marken, a division of UPS Healthcare Logistics, that is essential in the delivery of vaccines globally, also adopted our B2B Platform to power digital selling across their enterprise.\nOur latest innovations are also inspiring existing customers to expand their partnerships with PROS. In Q3, TE Connectivity, a PROS customer of eight years, chose to migrate to our cloud platform, which allowed them to expand adoption across their business. TE Connectivity is a leading manufacturer of electronic connectors and sensors that powers vehicles, factories, and homes across the globe. With hundreds of billions of products manufactured annually, TE Connectivity is relying on the scale, speed, and precision of PROS' Price Optimization and Management capabilities to drive winning offers.\nHoneywell also expanded adoption of our Price Optimization and Management solution. Like many businesses today, Honeywell is experiencing the impact of rising commodity prices and the risk of inflation. To effectively manage volatility and continue to produce winning offers, Honeywell named PROS as their global pricing solution vendor, and is actively rolling out our solution to all their strategic business units. Sheila Jordan, Honeywell's Chief Digital Technology Officer, will be joining me in my keynote at Outperform, to share more on their success with PROS.\nNow, I am excited to share that we have been named a Leader in the 2021 Gartner Magic Quadrant for Configure, Price and Quote Application Suites. When we acquired our CPQ technology, we acknowledged that we were coming from behind, and we set a bold strategy to become the leader in this space. This acknowledgement from Gartner recognizes our passion for innovation to drive customer success. Our flexibility to support omnichannel selling, the combination of pricing and selling capabilities in a single platform, the performance, usability, and scalability of our platform were all cited as key strengths.\nWe also had the honor of once again being named a Leader in the 2021 IDC MarketScape Assessment of Worldwide B2B Price Optimization and Management Applications. IDC emphasized the ease of use and transparency within our solutions as a key differentiator. A core part of our strategy has been making our AI algorithms accessible, explainable, and extensible, which allows companies of all sizes to adopt our market-leading AI-powered platform.\nAs an engineer at heart, I'm incredibly proud of the market recognition we're receiving for our innovations, and I would like to express my deep gratitude to our amazing Product and Engineering teams. With these most current designations, we're the only platform with a leadership position in both the CPQ and Price Optimization and Management markets. In addition to our product awards, I am thrilled to share that PROS has been Certified by Great Places to Work for the second year in a row. This year's designation extends the Company's original certification to all eligible countries, recognizing our inclusive, people-first culture on a global scale. This award is based entirely on what current employees have to say about working at PROS, which is what makes this award so special to me.\nFinally, in September, we announced Rob Reiner's intention to retire from PROS. As Chief Technology Officer, Rob has been key in driving our culture of innovation forward. Rob joined PROS in 2016 to lead our pivotal transition to the cloud. With his leadership, we transformed our Travel and B2B solutions into the most comprehensive and innovative SaaS offerings in their markets. I'd like to thank Rob for all his contributions to PROS, and wish him the best in his retirement.\nSucceeding Rob, Ajay Damani has been promoted to the role of Executive Vice President of Engineering, and Sunil John has been promoted to the role of Chief Product Officer. Ajay and Sunil each have over 15 years of experience with PROS, and have been a huge part of our success. I look forward to working closely with them, and continuing to accelerate our innovation leadership.\nIn closing, I'm proud of how our team is executing to drive adoption in the market, deliver industry-leading innovations through our platform, and create a culture that empowers every employee to reach their full potential. Thank you to our global team for making PROS an amazing company. Thank you to our customers, partners, and shareholders for your ongoing support of PROS.\nWith that, I'd like to turn the call over to Stefan, to cover our financial performance and outlook."
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "Thank you, Andres, and good afternoon, everyone. In the third quarter, we significantly outperformed our profitability and cash flow metrics and delivered revenue results that were in line with our expectations. Our team continues to look for ways to drive efficiencies, as well as improve our customer satisfaction and collection processes. As a result of our strong operational execution, our outlook for the full year is now much better on profitability and cash flow.\nAs Andres mentioned, the ongoing impact from COVID-19 and specifically the Delta Variant, did affect some of our travel customers in the third quarter. Examples of the impact during the quarter include; a travel customer declaring bankruptcy, a small number of contract restructurings, and some of our new opportunities and implementations being pushed by a few months. Individually, none of these items significantly impacted our revenues, but the combination of these items did impact our subscription and services revenues slightly in the third quarter. These items will also impact our fourth quarter revenues, and we expect total revenue for the year to be at the low end of our previous annual guidance range. All of these items impacting the second half of 2021 are temporary in nature. We expect to recover most, if not all, of these amounts during 2022.\nNow moving on to our results; subscription revenue in the third quarter was $44.1 million, up 5% year-over-year and total revenue was $62.7 million, up 2% year-over-year. Our third quarter recurring revenue was 84% of total revenue. Our gross revenue retention rate for the trailing 12 months was approximately 91%. As a reminder, we disclose gross revenue retention rates, not net revenue retention rates. Gross revenue retention does not include bookings from existing customers, which can mask real customer churn. Our revenue retention rates have continued to improve throughout 2021 and we anticipate ending the year at approximately 93%. This returns us to world-class gross revenue retention rates and demonstrates the value our customers see in our solutions.\nOur non-GAAP total gross margins improved sequentially again to 61%, and our non-GAAP subscription gross margins were 72%, which are up sequentially from 71% and also up year-over-year. We expect subscription margins to remain relatively constant in the fourth quarter of 2021. We also continue to make steady progress on our services margins and were within $200,000 of breakeven in the third quarter.\nAs I mentioned before, we continue to make progress on adjusted EBITDA and were very pleased with our performance this quarter. Adjusted EBITDA loss was $4.4 million as compared to $6.2 million last year. Revenue growth and reduced operating expenses led to this improvement. Total operating expenses declined by 5% in the quarter and 6% in the first nine months of the year. I am proud of our team's strong operational execution and how we continue to look for ways to drive more efficiency into our business.\nOur calculated billings decreased 5% for the quarter and for the trailing 12 months. And as previously mentioned, we anticipate calculated billings will grow in the fourth quarter, which would result in full year growth of at least 10%. Our free cash flow burn was $8.5 million in Q3 and $18.9 million year-to-date, a significant improvement over last year, driven by a combination of operating expense efficiencies, strong customer collections, and better gross revenue retention rates.\nWe exited the third quarter with $308.6 million of cash and investments. We also made nice progress toward our year-end target of adding quota-carrying personnel, and we ended the quarter with 64. We were able to hire ahead of plan, which allows our new team members to ramp up, so that they can be productive earlier in 2022. We do not anticipate growing this metric further in the fourth quarter. And as previously discussed, we expect to exit the year with 60 or more quota-carrying personnel.\nNow turning to guidance; we expect Q4 subscription revenue to be in the range of $45 million to $45.5 million and total revenue to be in the range of $63 million to $64 million. We expect fourth quarter adjusted EBITDA loss to be between $9 million and $10 million. Using an estimated non-GAAP tax rate of 22%, we anticipate fourth quarter non-GAAP loss per share of between $0.22 and $0.24 per share, based on an estimated 44.4 million shares outstanding.\nFor the full year, we expect subscription revenue to be in the range of $176 million to $176.5 million and total revenue to be in the range of $249.5 million to $250.5 million. We expect an adjusted EBITDA loss of between $27.3 million and $28.3 million, and a free cash flow burn between $22 million and $25 million. We also expect our ending ARR on a constant currency basis to be between $214 million and $217 million.\nIn closing, I would like to thank our amazing employees and customers for their continued passion and support. We also thank you for your support of PROS and we look forward to speaking with you at our upcoming events.\nI will now turn the call back over to the operator for questions. Operator?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Ladies and gentlemen, at this time, we will be conducting a question-and-answer session. [Operator Instructions] Our first question comes from the line of Rob Oliver with Robert W. Baird. Please proceed with your question."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "speech": "Great. Good afternoon guys. Thank you for taking my question. Couple ones for me; so first, just a question on the outlook relative to kind of previous expectations and some of what changed in the quarter, and Stefan, you mentioned some of the -- or I think Andres has mentioned it in his prepared remarks, some of the commentary around additional bankruptcies, or perhaps that was you. Can you talk a little bit about that, and was it all travel that was the swing factor, or is there anything on the B2B side to call out as well? Would love to hear about some of the momentum there, and then I just had a quick follow-up question."
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "Yeah. Hey, Rob. This is Stefan. Yes, it was all travel related and it had to do with the direct effect of certain airlines, and really, we're talking about certain regions around the world that were still feeling the effects of really not having much in the way of their operations taking place in the third quarter. So, we did see an additional bankruptcy as you pointed out. We also saw a couple of customers ask for some contract restructurings, and as I pointed out, some of our opportunities in implementations got pushed out.\nNow, just to put it in context, the restructurings that we're talking about here were much smaller than what we were talking about back in 2020, and like I said, there were just a couple of them, but when you take all these things in totality and you look at it, it did impact our total revenue by about a couple of million dollars in the second half of the year, when you look at Q3 and Q4."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "speech": "Got it. Okay, that's helpful. And then just one follow-up, Stefan, just on the free cash flow and profitability profile. Obviously, strong and you guys have been able to find a lot of -- you've always had a lot of leverage to pull and it sounds like you're pulling some of those on the operating expense side. So just curious, does this represent a paradigm shift in terms of process [Phonetic] for you guys, so we can expect to focus on free cash flow and profitability going forward, and then of the operating expense improvements that you cited, should we assume that those are more sustainable even as we emerge from the COVID situation? Thanks a lot."
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "Yeah. So, there has been a lot of work that's taking place by the teams around the company, and I think the ones that really impact our free cash flow, really have to do with the folks and teams that are working on the collections, and building a much better process around how we work with our customers on timely collections, and we've made a lot of improvements there. That's one area.\nThe other area is, I commented on, our gross revenue retention rates. So as those continue to get better, and as we guide into the 90s this quarter and 91% and then we move deeper into the 90s, going to 93% in Q4, that's also driving more cash. So, from a cash standpoint, we're executing on the cash opportunities better. But then the third dimension to that is, how we're doing on expense management and being more efficient, to your point, and that's also driving the EBITDA performance. And yeah, I think it's something that you see us working on -- as far up the income statement line is the cost of subscription. That has been an area that we've really focused on this year, and we've seen those margins improve throughout the year. But we're also looking at ways in which we can operate our business in a more efficient way. So, I think we want to continue to see progress on that.\nBut I will stop and say, we don't want to do anything that's going to hamper our growth opportunities. We still feel like there's a tremendous amount of growth ahead of us and we will continue to make those investments, a la what we're doing with our quota carrying personnel, and really going beyond where we were thinking we'd be at the end of the year, and making the investments where we see there's an opportunity. So, we'll continue to make those investments to fuel that top line, but always with an eye on making improvements on the bottom line as well."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "speech": "Great. Thanks again, Stefan. Thanks guys."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Chad Bennett with Craig-Hallum. Please proceed with your question."
+    },
+    {
+      "speaker": "Chad Bennett",
+      "speech": "Great. Thanks for taking my questions. So Stefan, thanks for the color on the restructurings and the bankruptcy and so forth that impacted the quarter. So, that was $2 million for the second half. If we just kind of, I guess, annualize that -- and I'm just thinking in terms of like RPO and deferred revs, would that kind of have a $4 million impact on that figure, or how should we think about those secondary metrics?"
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "Yeah. I think, Chad, it's a good point, because I don't think we'll see a $4 million impact over a sequential fourth quarter period. But what we saw here was more timing related. So for example, we had some implementations and some deals that were pushed out by a few months and we're feeling that impact in the third and fourth quarters, but we do expect to see that revenue come back online for us in the first part or, I should say, at some point in the first, second, third quarters of 2022. The same thing with the contract restructuring. So if you think about how we worked in the particular restructurings we're talking about, it was a bit of a relief today for a future -- obligation in the future, and in these cases, not distant future, but near term future."
+    },
+    {
+      "speaker": "Chad Bennett",
+      "speech": "Right. Got it. Okay. And so from a RPO or deferred rev standpoint, that impact was much less, I take it?"
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "Correct. That's correct."
+    },
+    {
+      "speaker": "Chad Bennett",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "So from an RPO, calculated billings, deferred revenue and from an ARR perspective, the impact was negligible from a contract restructuring standpoint. That's correct."
+    },
+    {
+      "speaker": "Chad Bennett",
+      "speech": "Got it. Okay. And then just curious, Andres, maybe for you, just on the travel side of the business, I mean, you talked about the Europe reopening from a travel standpoint, and I saw something earlier in the week, that business travel bookings are basically almost to pre-pandemic levels at this point, which I think is good from a margin standpoint for airlines. September's basically over, but just as you look at October and maybe even the end of September and November year [Phonetic], what are you seeing in terms of progress or pickup on the travel side of the business, if you are seeing that?"
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Yeah I would tell you, it's still early from a sales perspective. I'm pretty proud of the team. If you see we focused a lot on net new airlines that we've signed, including Air Transat and Scoot this quarter as an example. So what I would tell you, certain regions are recovering faster. North America, obviously, recovered much faster, and we saw strength in that market. Europe is starting to recover, you commented. Even business travel is starting to pick up, especially after the U.S. lifted the ban of travel, that's definitely helping. We started to see bookings in October for November and beyond. Now what they will want to see, is the materialization of those bookings to see, because remember that now you can cancel those bookings. So they're closely watching to see the conversion of those bookings to actually passengers traveling.\nSo, overall, I would tell you that from a booking perspective, 80% of our bookings have been B2B year-to-date, so that's really driving the growth in the business. I do expect travel to continue to improve and I would tell you that you're going to see probably Europe come next, Asia will probably be further out and I would say that's the region that is still experiencing more of an impact compared to 2019. But the good news is that we're starting to see the wave continue to improve, and we do expect that to pick up in '22 and beyond."
+    },
+    {
+      "speaker": "Chad Bennett",
+      "speech": "Okay. No, that's great color and fair point on the late cancelation and wanting to see bookings actually translate to revenue. And then maybe just one last question for me, if I may, just on the B2B side. Are you seeing -- just in terms of CPQ RFPs, obviously, there's -- CPQ has been around for a number of years now, a number of competitors and so forth, but the stuff you're seeing today on the CPQ front, is there still a fair amount of greenfield out there for you guys, as you're looking at new logos, or are we -- I can't imagine we're doing rip and replace, but is it still largely a greenfield underpenetrated market? Thanks."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "I believe it's very much greenfield. And I would tell you that -- I talked about several of the deals, like Emirates, SkyCargo that includes -- or Smart CPQ, Marken, as well as Korian, Radiometer, many of our deals include. It's not the only solution. Obviously, the areas of omnichannel commerce are resonating really well in the market, and self-service commerce. I think what we're seeing with a lot of companies, really change your view of CPQ of not looking at it purely from a sales lens and a direct sales lens, but looking at it from an omnichannel selling lens, and one of the powers and greatest differentiations of our solution is being able to power both the digital and the direct sales and channel all with the same platform, same configuration, same catalog, same quoting object in a seamless way and I think that's resonating.\nSo we do see a lot of greenfield opportunities. We are seeing some replacements. I think that there's -- the level of sophistication in our solution to handle scale, the configuration capabilities and obviously our AI powered guidance, I think bring another level of value for the market that is resonating. So, I'm very bullish. I'm also really proud of us getting to a leadership position in the Gartner market and being the third year in a row that we've advanced from visionary to challenger to now a leader, and it's really kudos to our engineering team for their passion and innovation and the vision that we drove around the solution and getting to this point."
+    },
+    {
+      "speaker": "Chad Bennett",
+      "speech": "Makes sense. Thanks much for taking my questions."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Scott Berg with Needham. Please proceed with your question."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "speech": "Hey guys. This is Josh on for Scott. Thanks for taking my questions. So starting off on the B2B side, if you look across the different ecosystems of opportunities for your business, are you seeing a pickup in activity around the SAP, ERP ecosystem, or maybe some other ecosystems like Microsoft Dynamics, driving more net new business activity? Any color there would be helpful."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Yeah, that's a great question, Josh, I would tell you, SAP ecosystem is usually a very important target for us in the large enterprise. So, yes, we see a lot of our customers are in the SAP ecosystem, and I would say that that's probably an area. Salesforce ecosystem is another one, and we are seeing even in the Microsoft ecosystem and Dynamics as well. So I would say those three are what's driving the growth."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "speech": "Okay, great. And then moving on with the cash flow question. How are you thinking about -- and I know it's early, but how are you thinking about cash flow next year as travel returns? Is there any chance for breakeven free cash flow next year, or maybe give us a sense of what are the puts and takes that could kind of get you into that kind of key breakeven level next year?"
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "Yeah. So Josh, I don't think we'll be getting quite to breakeven next year but what we have signaled in the past is that, we'll be approaching that by the time we end 2022 and looking for a free cash flow breakeven year in 2023. But, our goal is to consistently improve, to show progress from last year to this year and then this year to next year. But I don't think we'll get all the way there in 2022."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "speech": "Okay, great. Thanks guys."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from the line of Jackson Ader with J.P. Morgan. Please proceed with your question."
+    },
+    {
+      "speaker": "Jackson Ader",
+      "speech": "Great. Thanks for taking my questions, guys. I was curious to hear whether any of the volatility in commodity prices was driving any incremental demand on the B2B side?"
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Hey, Jackson, we can't hear you very well."
+    },
+    {
+      "speaker": "Jackson Ader",
+      "speech": "Oh, sorry."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Could you repeat it one more time? I heard about commodity and volatility, but I did not catch everything really well."
+    },
+    {
+      "speaker": "Jackson Ader",
+      "speech": "Yeah, just curious whether the commodity price volatility that we've seen kind of just -- whether it's lumber, oil, it doesn't matter, but whether that's led to any impact and increased demand on the B2B side for price optimization?"
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "I would say that that's top of mind for pretty much every company we talk to. And I would say, that overall this notion that the world we're living -- there's a lot of uncertainty and there's a lot of volatility, and how you drive success with that, and the need from moving from an old manual, static process, to a more dynamic, AI powered model that can adjust much faster to trends and changes, is resonating really well. I think that every company is facing with these changes, think of the overall supply chain issues, costs, changes, raw materials, inflation and being able to drive precision and changes quickly, and the faster you can drive these changes, the better your business is going to be in terms of capturing revenue and profitability and winning deals. I think those are areas that are top of mind around all buyers."
+    },
+    {
+      "speaker": "Jackson Ader",
+      "speech": "Okay. Great. That makes sense. And then, Stefan, in the past on kind of third quarter calls, you've given some directional or preliminary expectations for the following year. Curious if you have any initial thoughts on '22, or if that's a little too far out at this point?"
+    },
+    {
+      "speaker": "Stefan Schulz",
+      "speech": "Yeah, Jackson, I have to tell you I'd love to be in a market position, where we could make a comment on 2022. I think there's some encouraging things that are happening in the marketplace that we've discussed on some previous questions. And so we're very optimistic about what could be the case as we look into 2022, but at this point, just not ready to call what we see happening for our own business in 2022. But do expect to provide that type of color and guidance on our next call."
+    },
+    {
+      "speaker": "Jackson Ader",
+      "speech": "Okay. All right, great. Thank you."
+    },
+    {
+      "speaker": "Andres D. Reiner",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, we have reached the end of our question-and-answer session. I would like to turn the call back to Belinda Overdeput, for closing remarks."
+    },
+    {
+      "speaker": "Belinda Overdeput",
+      "speech": "Thank you for listening to today's call. We look forward to speaking with you at conferences and events this quarter. We will be attending the Stifel 2021 Virtual Midwest One-on-One Growth Conference on November 11th, the Baird Virtual Bus Tour on November 16th, and the Needham Virtual SaaS One-on-One Conference on November 18th. If you have any questions following today's call, please contact us at[email\u00a0protected]. Thank you, and goodbye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 36 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Belinda Overdeput--Director of Investor Relations",
+    "Andres D. Reiner--President and Chief Executive Officer",
+    "Stefan Schulz--Chief Financial Officer",
+    "Rob Oliver--Robert W. Baird -- Analyst",
+    "Chad Bennett--Craig-Hallum -- Analyst",
+    "Joshua Reilly--Needham -- Analyst",
+    "Jackson Ader--J.P. Morgan -- Analyst"
+  ]
+}

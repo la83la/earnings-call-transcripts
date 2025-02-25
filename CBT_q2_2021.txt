@@ -1,0 +1,250 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Operator: Thank you for standing by, and welcome to the Second Quarter 2021 Cabot Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions].\nI would now like to hand the call over to Steve Delahunt, Vice President, Treasurer and Investor Relations.\nPlease go ahead."
+    },
+    {
+      "speaker": "Steven Delahunt",
+      "speech": "Thank you and good morning. I'd like to welcome you to the Cabot Corporation earnings teleconference. With me today are Sean Keohane, CEO and President, and Erica McLaughlin, Senior Vice President and CFO. Last night, we released results for our second quarter of fiscal year 2021, copies of which are posted in the Investor Relations section of our website. The slide deck that accompanies this call is also available in the Investor Relations portion of our website and will be available in conjunction with the replay of the call.\nDuring this conference call, we will make forward-looking statements about our expected future operational and financial performance. Each forward-looking statement is subject to risks and uncertainties that could cause actual results to differ materially from those projected in such statements. Additional information regarding these factors appears under the heading forward-looking statements, in the press release we issued last night and in our annual report on Form 10-K for the fiscal year ended September 30, 2020 and in subsequent filings we make with the SEC, all of which are available on the company's website.\nIn order to provide greater transparency regarding our operating performance, we refer to certain non-GAAP financial measures that involve adjustments to the GAAP results. Any non-GAAP financial measures presented should not be considered to be an alternative to financial measures required by GAAP. Any non-GAAP financial measures referenced on this call are reconciled to the most directly comparable GAAP financial measure in a table at the end of our earnings release issued last night and available in the investor section of our website.\nI will now turn the call over to Sean, who will discuss the key highlights of the company's performance. Erica will review the business segment and corporate financial results. Following this, Sean will provide closing comments and open the floor to questions. Sean?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Thank you Steve and good morning ladies and gentlemen. Welcome to our second quarter 2021 earnings conference call. I'm very pleased with the exceptional operating results we generated this quarter as we saw continued strength across our businesses. For the quarter, we generated a second consecutive record adjusted earnings per share of $1.38 and segment EBIT of $149 million. Adjusted earnings per share was up 79% over the second fiscal quarter of 2020 largely due to strong volumes across all regions, robust unit margins, disciplined operational execution and strong performance in our targeted growth initiatives. The Cabot team demonstrated great operational flexibility in the face of continued COVID restrictions, weather related interruptions and tightness in the global shipping markets.\nThis operational adaptability was made possible by the extraordinary efforts of our commercial and supply chain teams and the strength of the Cabot manufacturing network. During the quarter, we saw strong volumes in the tire and automotive markets and continued strength in our infrastructure, packaging and consumer-driven applications. We are pleased to see that automotive builds and passenger car miles driven have improved, though still generally lag pre-COVID levels. On the other hand, truck miles driven are very robust, driving a large replacement tire market. With both automotive and tire markets still expected to be below prior peaks on a 2021 forecast basis, we are optimistic about our growth runway in the coming years.\nIn the near term, COVID cases remain persistently high in certain regions, particularly across Europe, South America and India. While vaccines are offering promise, the economic recovery will likely remain uneven and challenge to reach its full potential until the public health crisis is fully under control. Raw material prices continue to rise across most value chains and our businesses were no different. We effectively implemented price increases to recover these rising costs, which combined with favorable product mix to drive robust unit margins.\nLooking at our major segments, Reinforcement Materials generated record EBIT performance in the quarter of $89 million, driven by robust customer demand and strong Asia pricing. Results in Performance Chemicals were up sharply over the prior year with segment EBIT of $58 million compared to $31 million last year, as the business drove double-digit volume growth in both Performance Additives and Formulated Solutions businesses, and benefited from favorable product mix. Overall I am very pleased with the way we have navigated the pandemic, and I believe that Cabot is emerging from the COVID crisis a stronger company.\nOur global manufacturing footprint and service capabilities and leading product portfolio are increasingly valued by our customers. While the recession of 2020 required an intense focus on cost and cash preservation, we continue to sustain our assets and make important investments in sustainability and growth for the long term. One of the most exciting growth investments is in the space of batteries and I would like to take a few minutes to update you on our progress here. We are seeing a real inflection point in terms of demand for electric vehicles and energy storage as pressures to reduce greenhouse gases increase. Cabot is well positioned and is supporting this transition with our leading portfolio of highly engineered, conductive carbon additives and formulation capabilities. Our business is demonstrating strong growth this year and we expect this will continue into the future.\nI will start with some comments about the overall market. Lithium ion batteries are growing rapidly and expected to grow at a 25% to 30% compound annual growth rate through 2030 with the primary growth driver being electric vehicles as countries establish CO2 reduction goals and accelerate the shift away from internal combustion engines. Further technology improvements in batteries are a necessary enabler of this transition, and the materials industry will play a key role in this pursuit to drive down costs and increase range.\nCabot currently serves this market by offering a range of materials and formulations for use in energy storage applications. These materials can be classified into two groups, conductive carbon additives, which include conductive carbon black, carbon nanostructures and carbon nanotubes and non-carbon additives which include products in our fumed metal oxides business.\nConductive carbon additives are a small part of the battery formulation, but play a very important role. These additives enable electrons to move in and out of the active phase where they're stored during charging and discharging of the battery. There are two types of conductivity required to make this effective, short range conductivity and long range conductivity. Based on the different shapes and properties of conductive carbon additives they impart different conductivity performance. For example, carbon nanotubes are more advantaged in providing the long range conductivity, while conductive carbon blacks are more advantaged in providing the short range conductivity. Therefore, there is no one single best additive for this application. Having the capability to offer different types of conductive carbon additives and blends of such materials is important in delivering a formulated solution to the customer that addresses their specific needs.\nThere are a few drivers that distinguish Cabot in the conductive carbon additive space. First, we have an established an unmatched global footprint and application capability to support our customers, as they build manufacturing plants around the world. Over the past few years, through the establishment of our Asia Technology Center and the R&D capabilities acquired from the Sanshun acquisition, we have built a leading technical support team. This capability coupled with a global manufacturing footprint positions us favorably in the eyes of our customers.\nSecond, through organic and inorganic investments over the past few years including the recent acquisition of Sanshun, Cabot is the only carbon additive supplier with commercially proven conductive carbon black, carbon nanotube, carbon nano structure and dispersion capabilities. This variety of conductive carbon additives enables us to tailor different formulated solutions for our customers and work with them on next generation technologies.\nAnd third, Cabot has a rich legacy of innovating in demanding technical applications. Our experience in the CMP market for semiconductors and inkjet has offered invaluable practices and protocols that will be critical for the battery market. In terms of financial performance, we believe that the battery application will become a material contributor to the Performance Chemicals segment over the next few years. The current conductive carbon additives market for lithium ion batteries which includes both CNTs and conductive carbon black is approximately $400 million in material value.\nWe expect this market will grow to approximately $1 billion in value by 2025. Our energy materials business is off to a strong start in fiscal 2021 with forecasted revenue of approximately $80 million for the fiscal year. Over the past five years, revenue has grown at a CAGR of roughly 50% which includes the acquisition of our CNT business in China. While we are making significant investments to drive qualification and further extend our technical capabilities EBITDA is forecasted to be between $15 million and $20 million in fiscal year 2021. We are excited about the promise of this emerging application and will continue to focus our efforts to support customers and realize the potential of energy storage.\nI will now turn it over to Erica to discuss the financial results of the quarter in more detail. Erica?"
+    },
+    {
+      "speaker": "Erica McLaughlin",
+      "speech": "Thanks, Sean. I will start with discussing results in the Reinforcement Materials segment. The Reinforcement Materials segment delivered record operating results with EBIT of $89 million which is up 46% compared to the same quarter of fiscal 2020, primarily due to significantly higher volumes across all regions and improved unit margins driven by favorable spot pricing in the Asia region.\nGlobally, volumes were up 18% in the second quarter as compared to the same period of the prior year primarily due to 30% growth in Asia and 10% higher volumes in the Americas and Europe. Higher volumes are driven by key end market demand that continued to recover from COVID related impacts in fiscal 2020. Results also benefited from higher margins from continued strong pricing in Asia, which included a second consecutive quarter of price increases ahead of rising feedstock costs. Looking ahead to the second half of 2021, we expect volumes to remain strong. In addition, we anticipate higher feedstock cost flow-through in Asia, while fixed costs are expected to be higher due to the timing of planned plant maintenance spending, after delayed spending in 2020 and the first half of this fiscal year.\nNow, turning to Performance Chemicals, EBIT increased by $27 million as compared to the second fiscal quarter of 2020, primarily due to strong volumes across the segment and improved product mix, driven by an increase in sales and into automotive applications. Year-over-year volumes increased by 10% in Performance Additives and 14% in Formulated Solutions, driven by increases across all our key product lines from higher demand levels and some level of customer inventory replenishment during the quarter. Looking ahead to the second half of fiscal 2021, we expect overall volumes to remain strong. However we anticipate demand into auto applications will decrease somewhat due to the semiconductor chip shortage, which will unfavorably impact product mix as compared to the first half of the year. In addition, we anticipate higher fixed costs in the second half of the fiscal year due to the timing of spending.\nMoving to Purification Solutions, EBIT in the second quarter of 2021 declined by $1 million compared to the second quarter of 2020. The reduced demand in mercury removal applications was partially offset by a reduction in fixed costs, resulting from the sale of our mine in Marshall, Texas and the related long term supply agreements. Looking ahead to the second half of fiscal 2021, we expect EBIT to improve driven by seasonally higher volumes.\nI'll now turn to corporate items. We ended the quarter with a cash balance of $146 million and our liquidity position remains strong at approximately $1.3 billion. During the second quarter of fiscal 2021, cash flows from operating activities were $65 million which included a working capital increase of $80 million. The working capital increase was largely driven by growth related networking capital as accounts receivables increased with higher sales and inventory increase from purchases of higher cost raw materials.\nCapital expenditures for the second quarter were $40 million, for the full year we expect capital expenditures to be approximately $200 million. This estimate includes continued EPA related compliance spend and capital related to upgrading our new China carbon black plant to produce specialty products. Additional uses of cash during the quarter included $20 million for dividend. Our year-to-date operating tax rate was 28% and we forecast our operating tax rate will be between 27% and 29% for the fiscal year.\nI will now turn the call back over to Sean. Sean?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Thanks Erica. We are very pleased with the record results in the second quarter of 2021 with volumes continuing to recover from the COVID related lows we experienced in fiscal 2020 and great execution across the organization. We achieved another record setting quarter in reinforcement materials and very strong results in the performance chemicals segment. Throughout the first half of the year, I am pleased with how well the team has been executing. Our manufacturing plants continue to operate effectively in the COVID environment to meet the needs of our customers.\nFurthermore, we achieved an important milestone on our sustainability journey with the completion of the air pollution control project at our Franklin Louisiana plant. We continue the integration of our CNT acquisition in China and our investments in inkjet are on track, to deliver on the promise of growth in the packaging segment. And finally, we continue to renew our ways at working to drive more efficient and effective processes through the implementation of digital solutions. I'm proud of the Cabot team for their work to strengthen our foundation and establish our platform for sustainable growth.\nMoving to our current outlook, we continue to see robust and broad-based demand globally including in our key tire, automotive and industrial end use markets. Our current view is that the underlying demand will remain strong during the second half of the year. Against this demand outlook, we expect some impact from the flow-through of higher raw material costs in Asia, moderating volumes into automotive applications due to the semiconductor chip shortage and higher fixed costs as we perform some maintenance and turnarounds that are necessary to ensure we can meet customer demand in 2022. Based on these factors, we expect adjusted earnings per share for the full year to be in the range of $4.70 to $4.95.\nOn the cash side, we anticipate our cash and liquidity will remain robust. Networking capital increases, driven by a sharp recovery in demand and a steady increase in oil prices should moderate in the second half of the year. We expect to see better conversion of our strong EBITDA and to operating cash flow as this happens. We anticipate operating cash flow for the year will cover our cash needs for capital expenditures and dividends. Our debt to EBITDA ratio was 2.3 times at the end of March and we expect this will be reduced further by year end.\nIn closing, I want to thank and recognize our global Cabot team. The strength of our culture and the resilience of our employees has never been more apparent than it has during these challenging times.\nThank you very much for joining us today and I'll now open it up for the question-and-answer session."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from David Begleiter with Deutsche Bank. Your line is open."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Hi. This is [Indecipherable] here for Dave. I guess first can you talk about the cadence of Q3 versus Q4 earnings?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "I'm sorry you said the cadence of Q3 versus Q4?"
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. Q3 and Q4 versus Q2 you mean?"
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. I think as we commented in the prepared remarks, we're certainly expecting that volumes will remain strong in the second-half though we will -- we do expect to see some impact in the automotive-driven applications due to the chip shortage and we also expect that the positive benefit that we saw in reinforcement materials in the first-half from pricing ahead of the flow through of higher feedstock cost that, that will not repeat as a coal tar prices in China moderate so, those two factors will impact the second-half. And then finally, we are expecting a higher level of fixed cost in the second-half as we catch up on some maintenance and continue to prepare our assets for strong global demand recovery, heading into the back-half of 2021 and into 2022. So, I think those are the major factors -- the underlying demand outlook we expect to continue."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "And I guess just on that second-half impacts from raw material shortage and plant maintenance, can you probably quantify and breakdown the three components and roughly how much impact -- dollar impact from those are you expecting in the second half or maybe in Q3 and Q4?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah, well, I think let me take each of those. I would say first of all, on the chip shortage, about 30% of the sales of the company go into automotive OE applications. So, the bulk of our tire business, as you probably know is replacement tire, but about 30% of the company's sales go into automotive OE applications. And we're following the updated forecasts from IHS as they try to roll through the potential impact of chip shortage and at this point, we see that volumes might be off versus the first half in five-ish percent range. So, not that large. Now, this is an evolving situation, so we'll continue to watch this closely.\nAny moderation in volumes related to the chip shortage in automotive will likely be filled by strong demand in other applications, though there may be a mix impact here. On the raw material issue in Reinforcement Materials, again, we price because that market in China is a spot market, we price in a sort of an instantaneous basis there, whereas the flow through of the higher raw material cost tends to lag a couple of months there. And our view is that feedstock costs will likely moderate that's what has happened that feedstock costs will likely moderate. That's what has happened most recently and therefore, the higher costs will flow through. We expect the flow through of Asia feedstock costs could be about $10 million in a quarter, we impact versus what you just saw and the maintenance activities -- the higher maintenance in the back half will probably be a few million dollars higher per quarter than what you saw in the first half. So I think those are the two most significant factors as we manage second half."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Mike Leithead with Barclays. Your line is open."
+    },
+    {
+      "speaker": "Mike Leithead",
+      "speech": "Great. Thanks. Good morning and congrats on the quarter."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Good morning Mike."
+    },
+    {
+      "speaker": "Mike Leithead",
+      "speech": "I guess, first, you spent a bit more time this quarter talking about the battery opportunity for Cabot. I guess two things there. One, if the market does grow 25%, 30% CAGR over the next decade like you talked about, is there a reason Cabot's business should grow meaningfully better or worse than that? And two, I think you talked about low 20% EBITDA margins for the business this year. As the market grows over the next few years, would you expect that margin to come down or do you think that's a pretty sustainable margin level?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. So yeah Mike, we continue to be excited about the opportunity in batteries and as you know, we've been building our position here over the last few years and I think putting up some real positive proof points here. Now, if you look at our market share today, it would be in and around 20% at current market size and if you think about our expectations here we'd certainly expect that the market share would -- over time would be in the range of where our specialty carbons market share is which is in the 25-ish percent range though are our aspiration here is to be as big and material as we can be and we feel very good about our product portfolio. We think, we have a unique product portfolio when you look across our range of specialty carbons, carbon nano structures and CNTs as well as blends and dispersions of those. So, we think that and the global footprint that we have both in terms of assets as well as sales -- technical service application development labs to support our customers that that's a unique and compelling value proposition.\nSo, we're certainly going to play to win here, because we think this is going to be a really big market. But hopefully that gives you a sense for where we are -- kind of what we would see as our minimum expectations. But, we're certainly striving for more and to play to win here. I guess, the second question around margins I think this market right now is growing very quickly, and I think we'll continue to have a certain amount of investment in new development programs as well as technology platforms because this market will definitely evolve over time in terms of needs.\nBut, we think the materials space and in particular, our participation in the role of conductive carbon additives is pretty important to the battery and relatively small in the overall formulation cost. So, we think the performance versus percentage of the cost stack is pretty compelling and therefore should allow us to sustain the margin levels that we've talked about."
+    },
+    {
+      "speaker": "Mike Leithead",
+      "speech": "Great. That's helpful. And then relatedly, I think in the release or on this call, you talked about improving cash flow conversion as we move to the back-end of this year with the working capital bill behind us. I guess, how are you thinking going forward about priorities of excess cash flow currently? Whether it's further investment -- either bolt-on or organic in battery materials or in carbon black or whether it's just returning some of that excess cash flow to shareholders going forward?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. So, in terms of the cash flow conversion you're exactly right and certainly if you look at the back-half of last year, we had a significant release of working capital and now with the growth in the business and higher oil prices a certain build back, but we would expect that to moderate as growth rates begin to converge around the more normal level of growth in these underlying applications and oil prices stabilize. And so, that should lead to higher conversion of EBITDA to operating cash flow.\nIn terms of capital allocation priorities, they really haven't changed. We believe in a balanced approach of reinvestments and compelling growth opportunities for the company and cash return to shareholders and over a longer period of time, we have a capital allocation framework of about 50-50 where about 50% of our discretionary free cash flow would be reinvested in high growth projects and about 50% return to shareholders with a foundational piece being the dividend, which is we believe is important here. So I think that's our long term frame and that hasn't changed.\nWe are sitting here with some compelling growth opportunities in front of us, whether it's in energy materials or things like converting our carbon black plant in China to specialty carbons -- things like that, that we think are the right investments for the long term and will be good for shareholders. So, we're going to stay on track with those. So, I think the hierarchy here is we're committed to the strong dividend, we have really compelling growth opportunities that we want to continue to pursue and then to the extent that there is excess cash then we will consider share buybacks."
+    },
+    {
+      "speaker": "Mike Leithead",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Kevin Hocevar with NorthCoast Research. Your line is open."
+    },
+    {
+      "speaker": "Kevin Hocevar",
+      "speech": "Hey good morning everybody."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Hey Kevin."
+    },
+    {
+      "speaker": "Kevin Hocevar",
+      "speech": "I was hoping to dig in a little bit into the profitability of the Reinforcement Materials business. If we look -- if we forget about 2020 if we kind of compare 2Q 2021 to 2Q 2019, overall volumes are still down versus those levels, but the profitability is substantially higher and I think if I understood the comments correctly, it sounded like maybe $10 million of that was timing of price rise in China. But even still, it seems like the profitability the business is up a lot over call\nIt two year period despite having lower volumes. So, could you help me understand what are some of the other moving pieces in there and how sustainable -- have the margins reset higher or how sustainable is the profitability of the business at these levels?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. So good morning Kevin. So in terms of -- you're right. I think if you sort of look through 2020 and you compare 2021 to 2019 I think what you see from a volume standpoint is that the first half of our year volume levels are pretty comparable to 2019. So, I would say they're in and around the same zone. But the difference in profitability is largely driven by pricing, both in terms of our annual agreements, so those in 2019 and in 2020 those resets that took place are still there as well as strong Asia spot pricing in 2021, and while there is -- as you just noted and as we commented some impact from just the pricing versus flow through timing and the benefit of that in the quarter, the underlying Asia spot prices are quite strong relative to that 2019 period.\nSo, those are the two biggest drivers. Now, in terms of sustainability I think you want to look at both the contract markets as well as the Asia spot markets. I would say on the contract side -- I think a couple of factors at play here and no real changes from our perspective. The supply demand fundamentals remain favorable, both in the Americas and Europe and with no capacity additions expected in these regions combined with steady recovery in tire and automotive end markets. I think the outlook remains positive for our ability to further move prices.\nI think the other factor at play here is the one we've been talking about for a long time with our customers and that is our costs and those of our competitors are going up, driven by the higher environmental and regulatory costs and so in order for us to support customers in a sustainable way, we definitely need to earn a fair return on these and so in order to do that pricing is necessary. So, I think those -- that story really hasn't changed in our assessment of the supply and demand situation hasn't changed.\nOn the spot pricing in Asia, of course as you know this is a spot market especially China and Southeast Asia and those markets are very, very strong right now. China GDP continues to grow nicely and I think the fundamentals for robust demand remain quite good there and our long term investment thesis around China is that they may close to 40% of the world's tires. The car park is maturing and really beginning to penetrate its replacement cycle and then the long term outlook on feedstock costs are that, given that virgin steel production is kind of peaked in beginning to come down that means that coal tar availability over time will become more and more scarce, putting a floor on pricing. So, we think that long term view on China remains and we're therefore very positive about China. Now, it is a spot market and so quarter to quarter things can be a little more dynamic, but our outlook on China remains a very important market for us and for the tire industry and we believe those fundamentals remain intact. So, I guess that's how I think about it Kevin."
+    },
+    {
+      "speaker": "Kevin Hocevar",
+      "speech": "Very helpful. And in terms of on the rubber side, what type of utilization rates are you guys operating at and how do you see that going forward into the later parts of this year and into next year?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. I mean demand is very strong right now and so therefore utilization rates are pretty high right now in the high 80s close to 90% in the most recent quarter and with demand outlook continuing to be favorable, I would not expect those to move in any material way particularly in the more mature markets of the Americas, Europe and even North Asia. And the markets that can move around a little bit are China and in Asia, South. But on balance across our network the whole circuit of plants is running in that sort of high 80s close to 90% and I don't see any material change there absence some big demand surprise that we don't see at this point."
+    },
+    {
+      "speaker": "Kevin Hocevar",
+      "speech": "Okay great. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Laurence Alexander with Jefferies. Your line is open."
+    },
+    {
+      "speaker": "Dan Rizzo",
+      "speech": "Hey guys, this is Dan Rizzo on for Laurence."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Hey Dan, how are you?"
+    },
+    {
+      "speaker": "Dan Rizzo",
+      "speech": "As we think about the Chinese spot markets, would they ever -- or would you ever go to annual contracts? Is that something that happens in the more mature markets, I was just wondering if there's a dynamic that was set up for that there just given how volatile it can be sometimes?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. Good question Dan. I think, over time that is likely the direction it goes in. But, the market is more fragmented I would say number one on the supply side and then there's a quite diverse range of quality needs in the market and a diverse range of producers. I would say as markets mature naturally, quality levels move up and while there's always a tiering of the tire market, Tier 1, Tier 2 and big box store tires, you always have customers across that preference spectrum. I would say, in general quality requirements move up over time, which leads to generally some sort of consolidation and strength around the better players.\nI think the second thing I would say is as growth rates moderate normally, there's some consolidation as scale and efficiency become more important to earn good returns in a slower growth market. And China is still high growth relative to other options in the world, but down off of a long stretch where it was growing in the double-digits range and so, I think that naturally would lead to that. And then, finally I think environmental pressure is an ability to add capacity over the long-term. China seems to be on a path of better environmental stewardship and if that happens, then I think that, that sort of leads to higher quality players gaining strength. So, I think as the supply -- the supplier set changes over time to adapt to the more mature market in China, then I think contracts become potentially more valued by customers. But, over a long period of time here, they've had plenty of spot options to go after and therefore the need for them to contract has been lower. I think that balance will change over time, but likely not in the short term."
+    },
+    {
+      "speaker": "Dan Rizzo",
+      "speech": "Okay. That's very hopeful. Thank you for the color. And then, I was just looking at the conversion you're doing from especially from rubber black to specialty black. I was just wondering what the cost and timing goes inside because if we can expect more of that going forward, just given the different dynamics in the tire market versus some of your other more specialized tire margin markets?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. So, maybe just a quick recap on that one. So, you'll probably recall that we purchased this plant from Nippon Steel. They have a carbon black plant in China and so we purchased this for actually a little less than $10 million, so a pretty favorable acquisition -- always with the intention of converting it to produce specialty carbons. And so, that conversion is under way and when we look at the acquisition cost of the plant, plus the conversion, we feel that's a compelling tranche of capacity to support specialty carbon's growth. The conversion capex is in and around $50 million and that will be up and running in 2022, so next year.\nIn terms of impact on the supply demand and the rubber blacks markets, I would say not really a relevant issue because the plant was relatively small when we acquired it and it's been going through conversion right now. So, in the grand scheme, no real impact on the supply demand fundamentals for rubber blacks and it'll give us capacity in our global specialty carbons network to support growth in a whole range of applications, including as we build out Energy Materials."
+    },
+    {
+      "speaker": "Dan Rizzo",
+      "speech": "Got it. Thank you very much for the color."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Josh Spector with UBS. Your line is open."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Hi guys, this is Lucas [Phonetic] filling on, on for Josh. Just wanted to touch on inventory -- channel inventories in Reinforcement. I noticed you didn't call out any restocking benefit in the quarter, do you have any visibility into where inventories are at this point? Are they sort of above or below normal and do you expect any restocking benefit in the next couple of quarters?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. So, I think this is a popular question I'm sure in earnings season right now. I think when we think about restocking, we try to understand the differences between passenger car tire demand, truck and bus demand and off the road tire demand, as well as the difference between OE tires and replacement tires which as you know is a much larger part of the business than OE. So, while there has been some impact in tires from the global trip shortage on the OE side, as it relates to OE tires, we've seen continued really strong demand for replacement tires because freight miles remain very strong globally and passenger car miles have recovered to 2019 levels in certain geographies. So, I think this coupled with pretty low inventories in the chain has meant that many of our customers I think continue to just directly fulfill orders rather than rebuild inventories in the replacement market that's the sense we have. As we talk to customers, they tell us that they continue to work hard to catch up to the orders they are receiving from their distribution partners on the replacement side especially.\nI think on the OE side visibility remains challenged given the continued chip shortage and the global transportation challenges which are causing issues on component supplies, in general into the automotive market. And so, while that might not be -- there may not be a specific constraint in the tire market if they are short of any components then they won't be able to build as many new cars. So, we think about it through those different layers, but I would say the general sense in the replacement market which is again the much bigger part is that customers are really working hard to catch up and directly fulfill orders rather than building inventory stocks."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Great. Thanks. That's helpful. And then just on the updated guidance, just wanted to touch on if you had changes to your tax rate assumptions or anything else that's below event that would be impacting the second-half, please?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. Why don't I ask Erica to take that one. Erica?"
+    },
+    {
+      "speaker": "Erica McLaughlin",
+      "speech": "Sure. So, for the tax rate we had previously guided a range of 28% to 30% and now we're guiding 27% to 29%. So, a bit below the last given the strength of the earnings and the forecasted geographical mix of earnings. So, that has changed -- I'd say other assumptions as we forecast, foreign exchange rates to remain generally in line with the current levels and we usually use -- looking at a forward curve in terms of oil and feedstock prices which is what we've also used."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Chris Kapsch with Loop Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Good morning Chris."
+    },
+    {
+      "speaker": "Chris Kapsch",
+      "speech": "Yeah. Good morning. Thank you for your comments framing up the opportunity addressing the batteries in to the EV space. Just curious about your visibility into future platform designs, given that I follow that end market pretty closely and clearly there's an accelerated demand ramp over the next few years as you pointed out. So, just curious if -- where you get specced in, is it at the battery level, is there any instances where you're talking to the OEs, just a confidence level over that. And if you -- curious if that's the confidence -- that contributes to the confidence in maintaining this market share and then if you do roughly triple your business by 2025 by maintaining or growing share a little bit, does that -- are you going to need investment in capacity?"
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. Thanks for the questions Chris. And so maybe just to start, so our customers are the battery OEs rather than the automotive producers.\nWe work directly and sell directly to the battery OEs. Now, the lines are beginning to blur a little bit as you see many automakers make investments in battery producers, but that's the general structure today as you know well, again some blurring of the lines as you see those investments being made by car makers and probably the most prominent one is certainly Tesla, while they have a battery partner or partners today they've been on record as wanting to have their own internal battery capacity as part of their solution.\nSo, that continues to evolve and we're staying close to that. I think the markets over time or the products will evolve, technology will evolve at this point lithium ion batteries in their current chemistry I think will have a good growth run here. But over time, there will be shifts and having a strong incumbent position is generally important so that you're working with customers during these technology shifts and so I think our building position will hopefully help us there.\nI think probably the most talked about technology change that could come in batteries is moving from current chemistry to what are called solid state batteries. They are thought to be safer and higher energy density than conventional lithium ion products are today for a couple of reasons. One is solid state allows materials like metallic lithium as an anode which might significantly increase the energy density and then also solid state batteries won't have liquid electrolytes that are susceptible to thermal runaway and that has been a challenge for the industry, although it seems more under control now. So they're thought to be safer, but solid state batteries will use either a ceramic or polymer as the electrolyte, neither of which is conductive. So, theoretically solid state batteries will need even more conductive carbon additives in the overall formulation.\nSo look, there are still many challenges with solid-state battery and the market view is that the technology still many years out, but we continue to stay on top of it. And again, if you have an incumbent position with the leading battery makers then you're going to be part of their development efforts as technologies change here. I think the second part of your question was just around outlook here and so the market is growing quickly. We're building our share position -- our expectation is that there's more share runway to at a minimum get to our natural specialty carbon share but with our strong portfolio and in global footprint here, we have higher aspirations than that and we're going to play to win here.\nIn terms of capacity, I think you had a question about that and so a couple of things. Yes over time, there will be capacity additions required, you might recall when we purchased Sanshun, we said that the utilization rate was around 50%. So there was untapped capacity there and we will continue to fill that out through market growth and then obviously we always look for improvement opportunities in terms of efficiency debottlenecks, things to squeeze out more. On conductive carbon black side of the portfolio, this conversion of Suzhou [Phonetic] is important because it adds capacity into our specialty carbon network which then allows us to rebalance things so that we can continue to support growth in the conductive carbon additives for batteries. So, for sure something that will continue to evolve but we feel good about it and we'll always be looking at our network for the most efficient way to add capacity to support this growth."
+    },
+    {
+      "speaker": "Chris Kapsch",
+      "speech": "Thanks for that Sean and as my follow up, as we think about the automotive OEs accelerating their transition away from the internal combustion engine to EVs there's implications obviously for carbon black both in tires and other applications. Have you recalibrated on what you think the net effect of all that is because in the past you said sort of net neutral with maybe sturdy or heavy tires being beneficial to carbon black loadings. But, there's some under the hood applications that go away so any way to think about recalibration of the net to carbon black industry from that transition? Thanks."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Yeah. Our view still remains the same there Chris. And so, pretty much all of the applications in specialty carbons that go into the car won't really change with the pivot to EV. So, the windshield still needs to be bonded with a structural adhesive, the same with the body parts, the finished coatings, all of that. So, no real change. I think where some of the under hood rubber hose type applications would be impacted from the conversion to EVs. When we look at it in total for a Cabot, our sense is that it's sort of neutral to positive for us. I think what will likely happen in the tire side of the business is as EVs proliferate, you'll start to see tire makers designing specifically for the performance needs of the electric vehicle and because the weight and torque is very different and therefore the performance needs will need to be addressed. That's beginning to emerge and certainly we'll stay close to our tire partners here in their development efforts and we'll continue to look for ways to exploit our elastomer composites or E2C technology here because ultimately I think there is a play for new formulations in -- for tires for EVs, but that's still probably a little ways off."
+    },
+    {
+      "speaker": "Chris Kapsch",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no further questions. I'd like to turn the call back over to Sean Keohane for any closing remarks."
+    },
+    {
+      "speaker": "Sean Keohane",
+      "speech": "Great. Well, thank you very much for joining us today and thanks for your continued support of Cabot and we look forward to speaking to you again next quarter. Have a great day. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 53 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Steven Delahunt--Vice President, Treasurer & Investor Relations",
+    "Sean Keohane--President, Chief Executive Officer & Director",
+    "Erica McLaughlin--Chief Financial Officer",
+    "Unidentified Participant",
+    "Mike Leithead--Barclays -- Analyst",
+    "Kevin Hocevar--NorthCoast Research -- Analyst",
+    "Dan Rizzo--Jefferies -- Analyst",
+    "Chris Kapsch--Loop Capital Markets -- Analyst"
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning and welcome to the American Campus Communities 2019 Fourth Quarter Earnings Conference Call and Webcast. [Operator Instructions]\nI would now like to turn the conference over to Ryan Dennison, Senior Vice President of Capital Markets and Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Dennison",
+      "speech": "Thank you. Good morning and thank you for joining the American Campus Communities 2019 fourth quarter and year-end conference call. Press release is furnished on Form 8-K to provide access to the widest possible audience. In the release, the Company has reconciled the non-GAAP financial measures to those directly comparable GAAP measures in accordance with Reg G requirements. Also posted on the Company website in the Investor Relations section, you will find an earnings materials package, which includes both the press release and a supplemental financial package.\nWe are hosting a live webcast for today's call, which you can access on the website with the replay available for one month. Our supplemental analyst package and our webcast presentation are one and the same. Webcast slides may be advanced by you to facilitate following along.\nManagement will be making forward-looking statements today as referenced in the disclosure in the press release, in the supplemental financial package and in SEC filings. Management would like to inform you that certain statements made during this conference call which are not historical facts may be deemed forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities and Exchange Act of 1934, as amended by the Private Securities Litigation Reform Act of 1995.\nAlthough the Company believes the expectations reflected in any forward-looking statement are based on reasonable assumptions, they are subject to economic risks and uncertainties. Company can provide no assurance that its expectations will be achieved and actual results may vary. Factors and risks that could cause actual results to differ materially from expectations are detailed in the press release and from time to time in the Company's periodic filings with the SEC. The Company undertakes no obligation to advise or update any forward-looking statements to reflect events or circumstances after the date of this release.\nHaving said that, I'd now like to introduce the members of senior management joining us for the call: Bill Bayless, Chief Executive Officer; Jim Hopke, President; Jennifer Beese, Chief Operating Officer; William Talbot; Chief Investment Officer; Daniel Perry, Chief Financial Officer; and Kim Voss, Chief Accounting Officer.\nWith that, I'll turn the call over to Bill for his opening remarks. Bill?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Thank you, Ryan. Good morning and thank you all for joining us as we discuss our fourth quarter and full year 2019 financial and operating results. I'd like to start by thanking the team for what was another successful year for American Campus. We had solid core operating performance throughout the year, operating in the high end of our original expectations and allowing us to raise our earnings guidance, ultimately achieving 5% growth in earnings per share. We set company records in total revenue, third-party revenue and FFOM per share, and produced our 15th consecutive year of growth in same-store rental rate, rental revenue and NOI.\nWe're also pleased with the execution and advancement of our capital recycling activities, with $248 million of dispositions complete or under contract to sell at a 4.1% economic cap rate, enabling reinvestment into our high yielding development pipeline at accretive spreads of 200 basis points to 280 basis points to stabilize yields.\nIn addition to the strong pricing and transaction market, looking into 2020, we see additional positive fundamentals with off-campus new supply in our markets near decade lows. Our on-campus development pipeline continues to expand with five new award mandates in 2019, including a previously announced multi-phase master development project with UC Berkeley and another with West Virginia University announced this quarter. And as William will discuss, the P3 pipeline continues to be as strong as ever. And finally, moving into 2020, we look forward to the delivery of our first phases of development at Walt Disney World, which we believe will be a transformational development for our organizations.\nWith that, I'll turn it over to Jennifer Beese, our Chief Operating Officer, to get us started."
+    },
+    {
+      "speaker": "Jennifer Beese",
+      "speech": "Thanks Bill. As Bill mentioned, we are pleased to report our 15th consecutive year of same-store growth in rental rates, rental revenue and NOI. As seen on Page S-6 of the supplemental, quarterly same-store property NOI increased by 1.3% on a 2.1% increase in revenue and an increase in operating expenses of 3.4%. For the full year 2019, same-store NOI increased 2.7% on a 2.7% increase in revenue and a 2.7% increase in expenses.\nWe are pleased that our same-store revenue, expense and NOI results came in at the high end of our revised guidance expectations for 2019, led by our asset management initiatives surrounding utilities. Our annual expense growth for our controllable categories was approximately 2.4%. We also saw close to 7% growth in other income in Q4, due primarily to app and admin fee revenues coming from our strong early [Phonetic] leasing velocity and our 2021 academic year lease-up.\nTurning to our full-year 2020 outlook, we are projecting same-store NOI to increase 0% to 1.7% based on total revenue growth of 1.4% to 2% and expense growth of 2.4% to 3.2%. Our revenue guidance takes into account our in-place leases through the end of '19-'20 academic year lease term, as well as our projections for the 2020-2021 lease-up. We are projecting opening fall same-store rental revenue growth for the 2021 academic year of 1.5% to 3%, most of which is expected to be driven by rate, since our 2020 same-store portfolio achieved occupancy of 97.4% in fall of 2019. As always, the low and the high end of our revenue guidance reflect execution risk associated with the fall lease-up, back filling, short-term leases, summer leasing initiatives and meeting other income growth projections.\nOn the expense side, our same-store growth expectations for 2020 are inflationary in the majority of our categories, except for insurance and payroll. We expect a double-digit expense growth in insurance based on current market conditions, and payroll expenses are expected to increase in the area of 5%, being influenced by changes to FLSA exemption status, as well as statutory minimum wage increases in numerous states. While we expect marketing expense growth to be inflationary for the calendar year, we do expect some quarterly fluctuation to prior year results due to the refinement of our social and digital programs versus traditional mediums.\nAs Bill mentioned, we see a positive new supply environment. In ACC's 69 owned markets, we are tracking only 22,500 beds for fall 2020 delivery, a 20% decrease in new supply compared to 2019 and the lowest amount since 2011. Total supply as a percent of enrollment in our 69 markets is only 1%, also the lowest amount in nine years. The new supply is occurring in only 27 of our 69 markets, down from 38 markets in 2019.\nIn addition, only 16% of our NOI is derived from our assets within the top 10 new supply markets, down from 22% in 2019 when excluding our on-campus assets at ASU that do not compete with the off-campus market. In addition, our top 10 NOI markets, only four of the 10 markets have new competitive supply with the average of new beds being delivered in those four markets being just 614 beds. The trend of decreasing new supply is largely driven by the natural barriers to entry that exists in our markets, contributing to strong fundamentals we currently see in the sector.\nAnd with that, I will now turn the call over to William to discuss our investment activity."
+    },
+    {
+      "speaker": "William W. Talbot",
+      "speech": "Thanks Jennifer. Turning first to our capital recycling activities, we completed the disposition of Landmark, serving the University of Michigan in Ann Arbor, for $100 million in gross proceeds. In addition, we are under contract on the sale of The Varsity, serving the University of Maryland in College Park, at a sales price of $148 million. The sale is scheduled to close in late first quarter. Both sales represent a 4.1% economic cap rate on in-place revenue and projected operating expenses. Over the past two years, we have executed our capital allocation strategy by selling over $825 million at a low-4% cap rate and recycling those proceeds into our highly accretive owned developments at 6% to 6.8% stabilized yields.\nWith regard to new development, we are excited to announce that we were selected through a competitive RFP process as a strategic housing master plan partner for West Virginia University. The award is anticipated to include multiple phases of on-campus housing, including various renovation and redevelopment projects. The full scope, transaction structure, feasibility and timing have not yet been determined. In addition, we executed a definitive agreement with Georgetown for a previously announced third-party project and are progressing through pre-development activities. We continue to see a vibrant and steady flow of opportunities in our P3 on-campus business as we are currently tracking more than 45 procurement processes and/or direct negotiation opportunities.\nWith regards to owned development, we are currently under construction on over $785 million, with three projects delivering in 2020 totaling 2,483 beds and $280 million of investment. We are especially excited that we are nearing completion on the first phase of our 10-phase, 10,440-bed, $615 million ACE development, serving participants of the Disney College Program at Walt Disney World. The first phase consists of 778 beds of housing, along with one of two 25,000 square foot community centers and a 25,000 square foot apprentice [Phonetic] hall, the education center developed by ACC but owned and operated by Disney. The grand opening is on April 30 and the first scheduled move-in is May 4, which provides a touch of Disney magic with May The Fourth Be With You. The second phase of 849 beds of residential housing will deliver in August of this year, with the remaining phases delivering through May 2023.\nFinally, turning to the transaction market, 2019 produced another strong year of investment in the student housing sector. According to CBRE's year-end student housing report, transactions totaled $5.8 billion, which is only a slight decrease from 2018 volumes when excluding the Greystar-Blackstone take-private transaction of EdR. The slight decrease in volume is primarily driven by a lack of available product, as institutional capital now entering the student housing space is building portfolios with a longer-term investment horizon versus in years past when volume was primarily driven by merchant developers of shorter-term investment horizons. As evidence, cap rates continued to compress in 2019, hitting their lowest quarterly average during the fourth quarter with core pedestrian assets serving Power 5 conference schools claiming [Phonetic] the highest transaction volume at the lowest cap rates in the market. It is interesting to note that international capital consisted of 39% of all buyers, driven largely by portfolio acquisitions. Investor interest remains very strong for student housing product with abundant financing resources widely available.\nI'll now turn it over to Daniel to discuss our financial results for the quarter."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Thanks William. Last night, we reported the Company's final financial results for 2019, including fourth quarter FFOM of $0.72 and full year FFOM of $2.42 per fully diluted share, representing an annual increase of approximately 5%. This was in line with the midpoint of our updated guidance and $0.02 higher than our original guidance midpoint for the year. The outperformance from our expectations at the beginning of the year was driven by higher all-around operating results in both our same-store and new store properties.\nAt our same-store properties, revenue benefited from improvements in backfilling short-term leases during the spring and summer semesters and increased summer camp and conference business at our residence halls. Also, as Jennifer discussed on the operating expense side, we saw substantial benefits from our asset management initiatives to reduce energy usage at our properties.\nOur new store properties significantly outperformed expectations this year, primarily due to a better initial lease-up than we underwrote. We raised the high end of new store NOI guidance by 3.5% on the third quarter earnings call, and those properties still produced NOI above the high end of our revised expectations.\nMoving to our capital allocation and long-term funding plan. As you will see on Page S-17 of our earnings supplemental, including all developments now under construction for delivery through 2023 and one remaining pre-sale development funding requirement, we have $516 million in remaining capital needs, which we continue to expect to fund through a mix of cash on hand, cash available for reinvestment and approximately $100 million to $150 million per year in disposition, joint venture and/or equity capital. This will allow the Company to target a debt to assets ratio in the mid-30s and a net debt to EBITDA ratio in the high-5s to low-6s.\nAs William discussed, we expect to close on a $148 million disposition in the first quarter, which will address our capital needs for 2020. Pro forma for the completion of that transaction, our current debt to total asset value would be 38.5% and net debt to run rate EBITDA would be 6.5 times. As always, we will continue to monitor market conditions and access the most attractive sources of capital relative to our investment pipeline throughout the next four years.\nFinally, turning to our 2020 earnings outlook, we have provided an FFOM guidance range of $2.41 to $2.51 per share for the year. We are also introducing for the first time FFOM per share guidance for the upcoming quarter. For the first quarter of 2020, we have provided an FFOM guidance of $0.67 to $0.69 per share.\nYou can turn to Pages S-18 and S-19 of the earnings supplemental to get complete details on each of the components of our guidance. But the major assumptions are as follows. For the full year, same-store property NOI is expected to increase 0% to 1.7%, driven by 1.4% to 2% revenue growth and 2.4% to 3.2% operating expense growth. Our same-store NOI results for the first two quarters of 2020 will primarily be impacted by the results of the fall 2019 lease-up and difficult comps in operating expenses generated by strong expense control in 2019.\nWe also expect the first two quarters to be impacted by lower same-store other income, resulting from two factors. One, we experienced outperformance in application and admin fees during the fourth quarter 2019, driven by strong early leasing velocity in several markets, which we expect pulled forward some other income we would normally receive in the first half of 2020. And two, changes in New York and Texas state laws have impacted our ability to charge certain types of fees commencing with the 2021 lease-up. As we move into the second half of the year, same-store growth statistics are expected to benefit from the projected rental revenue growth for the fall 2020 lease-up and more normalized levels of operating expense growth.\nOur same-store expense growth range is primarily driven by property taxes and salaries and benefits, which together represent over 40% of our total operating expenses. In 2020, property taxes are expected to increase approximately 4%, as we continue to see moderation relative to 2018 and years prior. Salaries and benefits are expected to increase in the area of 5% due to statutory increases in wage rates for 2020 in many states, as Jennifer discussed. Also, as you have heard from many other operators, the insurance environment is currently very difficult. And while only represents 2% of our overall operating expenses, we are expecting significant premium increases in both property and liability insurance.\nAnd finally, third-party management and development fee revenue in the range of $23 million to $29 million is included in guidance for the year. This assumes two of our currently awarded third-party development projects commence construction at the low end of guidance, four projects commence at the midpoint and six projects commence construction at the high end of guidance. As noted on Page S-13 of our supplemental, commencement of these projects and the associated fee recognition is not anticipated to occur until Q3 or Q4 of 2020. While the third-party fee income assumed for 2020, net of the Disney revenue and expense gross-up, represents a $0.01 decline in FFOM contribution versus 2019. It's worth noting that 2019 was a new record in third-party income for ACC by approximately 10% more than the highest level achieved in any prior year.\nWith that, I'll turn it back to the operator to start the question-and-answer portion of the call."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The first question comes from Alexander Goldfarb with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Hey, good morning, down there."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Good morning, Alex."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Hey. So two questions. First, Daniel, on the guidance front, the mid to upper end, that sounds understandable, reasonable. Just want to understand better what gets you to the low end. And then you mentioned some change in fees that you can charge in Texas, and I don't know if you also said California, but you mentioned a few markets. So if you could just provide a little perspective on that? And then, is that what's causing the low end? Or what's really driving the low end of the FFOM guidance?"
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Sure. When you look at the range, on the low end, we're obviously assuming that we come in at the low end of the 1.5% to 3% lease-up for the fall. Other income is a variable that we take into consideration where we have seen a diminution in our ability to charge certain types of app and admin fees during the lease-up is in New York. That started with the '19-'20 academic year when we -- as we started leasing up for the 2021 academic year. So it will flow through the rest of this academic year, which represents the first two quarters of the year primarily.\nOn the expense side, obviously, the primary thing that we have least amount of control over and want to provide some range on is property taxes and where those ultimately come in. Of course, we also allow for some variability in payroll in terms of where we have vacancies and where we don't, and then on other uncontrollables like insurance and utilities to a certain extent. I also talked about, in my prepared remarks, on third-party. We assume only two new projects commence during the year at the low end, where at the midpoint, we assume four, and at the high end, we assume six. So those are the real primary drivers of the range."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Okay. And then, that gets me to the second point. You guys introduced quarterly guidance for the upcoming quarter. But a few years ago, you guys pulled back from quarterly updates on pre-leasing. And if we look at your results using last year as an example, it was a noisy year over the year, but yet, at the end, you guys finished FFOM toward the upper end of your guidance range. So as you guys thought about providing quarterly guidance, it would almost seem like your business is more -- is better suited to an annual like you guys, today on the call, talked about better ops, better expense control, and all leading [Phonetic] you to a better annual. So as you think about getting the Street to think quarterly, does that take away from the ability that you guys have to drive full year outperformance? Or how do you weigh -- how do you balance those two for that [Indecipherable] short term versus the annual?"
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yeah. So obviously, we're always thinking about disclosure best practices. When we elected to not provide that leasing velocity disclosure each quarter, that was because we were seeing very little correlation between those leasing updates and the ultimate outcome, and we felt like that piece of disclosure was creating noise that wasn't really consistent with our performance. We have never given quarterly guidance since we went public. When we started out, a bigger piece of our FFO was from third-party fee income, and obviously, that can range from one quarter to the next, from a timing standpoint, very easily. Now, with that being a smaller piece of the total pie, it creates less volatility. And when we looked at some difficulty for the Street to be able to properly model and anticipate the seasonality of our business, we thought that the additional disclosure in terms of a one-quarter look forward would help alleviate some of that. So that's why we decided to add that piece of guidance."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Sure thing."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Nick Joseph with Citi. Please go ahead."
+    },
+    {
+      "speaker": "Nick Joseph",
+      "speech": "Thanks. Daniel, I think you had previously talked about the outsourcing of the resident payment process and that having a negative impact on revenue growth but then a positive impact on expenses and, I think, net neutral to NOI. So just wondering if we could get an update on that and any impact on 2020 numbers."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yeah. So, if you'll remember, over the last year, we had talked about our anticipation of the implementation of that new portal causing a kind of paper [Phonetic] change in the rental revenue growth and the rental expense -- or the operating expense growth but net neutral to NOI. At the time, with the full implementation of it, we expected it to make our revenue growth look 40 bps lower and our expense growth look 80 bps higher -- or lower, I should say, for a net NOI neutral.\nAs we've been working on our next-gen system and preparing to implement that, we really wanted to make sure that we rolled it out gradually so that we didn't create too much disruption to the customer experience and customer service. So we've decided to more -- to roll that out in a more staggered fashion, which we think will cause a much more muted and unnoticeable change in those revenue and expense growth metrics. So you shouldn't notice it as much. We really don't have a whole lot of variability associated with that in the guidance figures that we're giving for 2020."
+    },
+    {
+      "speaker": "Nick Joseph",
+      "speech": "Thanks. Maybe just on that, G&A guidance looks like it's up about 19% in 2020 versus last year. Can you talk about what's driving that?"
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yeah. So we said -- as you saw and mentioned, about 18.7% growth is what we're showing in the G&A line item for 2020, and that is primarily driven by investment in our next-gen operating system, which you've heard us talk about for a while. But we're also -- have a lot of investment into our privacy initiatives in our ASG platform along with that that's really incorporated into and part of the next-gen system.\nWhen you look at how that hits our FFO, a lot of the dollars that you're investing in a next-gen or IT platform get capitalized during the development of those systems. Some of those capitalized costs are actual development of a software program. Others are implementation costs that get accrued to expenses. And then when you start to deploy those next-gen systems, they get amortized to your expenses. And so, that's what we're seeing in 2020 is a lot of next-gen starting to be deployed, and therefore, you're getting the amortization of all of those accrued costs now starting to hit our financials.\nWe also are incorporating a portion of SaaS or a component of SaaS to our next-gen platform. SaaS is when you are actually licensing software from third-party developers, instead of developing it in-house. We are developing some of our systems in-house, but there are others that we decided it would be much more efficient for us to go ahead and license those. And so, those fees hit immediately. And with the move to some portion of next-gen being SaaS-based, you have a little bit of a compounding factor there. So that's really the driver of it. It's about $4.5 million in 2020. If you were to exclude that $4.5 million, G&A growth would look more like about 4.2%."
+    },
+    {
+      "speaker": "Nick Joseph",
+      "speech": "Thanks. That's very helpful."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Sure thing."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from John Pawlowski with Green Street Advisors. Please go ahead."
+    },
+    {
+      "speaker": "John Pawlowski",
+      "speech": "Thanks. Daniel, at current share price, is equity issuance still off the table?"
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yeah, we're still trading at a good 10% discount to NAV right now. And so, we certainly don't think it makes sense right here. We like our current capital allocation strategy of using our capital recycling and taking advantage of the private market valuations in these low-4 cap rate ranges to fund the development pipeline very accretively. You're looking at an economic cap rate in the low-4s relative to nominal yields in the 6.25% and above range, so still really good spread there. And so, we think it makes sense to fund with capital recycling and/or joint venture-type partnerships like we did with Allianz. And until we see a change in the valuation of the public equity, that's the model we'll use."
+    },
+    {
+      "speaker": "John Pawlowski",
+      "speech": "Okay, great. A question for Jennifer or Bill. I was hoping you could contrast the ability to push rent in this upcoming fall lease-up versus 2011, the last time you saw supply picture at a similar level. Back then, your sub-market location, your market selection was a bit weaker than your portfolio today. So it seems that demand should be stronger than 2011. and if supply is similar, why wouldn't we expect a plus 3% academic year rental revenue growth like you achieved in 2011?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah. If you go back to 2011, I think rental rate was about 3%, total revenue was 3.2% [Phonetic] in that year in a similar supply dynamic. Certainly, a little bit of comparing apples and oranges in that the portfolio at that point in time, as you mentioned, was very different in terms of the refinement that's taken place and the amount of ACC-developed properties that exist in the portfolio today that better positioned even than that portfolio was. Certainly, while the new supply dynamic is down, if you do look at the amount of existing supply in the market, back then, we were probably about 13% purpose-built beds as a percent of enrollment, where today, that has matured, advanced to closer to 22% to 23%.\nThe one thing we look at, John -- and when you look at the metrics of driving rental revenue and ultimately driving same-store NOI, when you go back to 2005 to 2013 that includes that period that you're discussing, our average rental rate growth in those first eight years as a public company was only -- actually only 213 bps, and a lot of our revenue driver came from the upside in occupancy and performance through M&A, where we were averaging during that period 109 bps annually contribution to rental revenue. And when you fast forward to today, as you look over the last five years, we've actually increased the rental rate ability to push, and we've gone from 213 bps to 260 bps. But because we have largely only been growing through development and selling off assets to recycle into that development, we basically have been delivering fully stabilized assets with no upside on the occupancy. And so, occupancy contribution to rental revenue growth has actually been negative 2 bps on an annual basis. And so, pricing power, we're better today in terms of the quality of the portfolio and where it is positioned to grow versus where it was in 2011, again, without as much upside in the occupancy component of that.\nNow, the one thing that we would point to, when you also take that statement and go one step further in terms of how to drive 3% to 6% same-store NOI growth versus 1% to 3%, then you also get [Phonetic] the dynamic of creating efficiencies through scale and growth, where in the first eight years of the Company, we typically had 40 basis points to 50 basis points of scalability through efficiency of the growth of the organization, which in the last five years, because of that capital recycling and the investment in next-gen that Daniel mentioned and uptick cost in your overall G&A, G&A contribution has actually been a drag on the earnings-per-share growth by about 40 bps to 50 bps.\nAnd so, as we look at the last five years compared to that earlier period you reference, but more importantly, think about it in the go-forward, we've really weathered a five-year period where the only contribution to our rental revenue growth profile has been rate, which, again over five years, has averaged 2.6% [Phonetic]. And when you look at the potential contribution from occupancy improvement by bringing other assets in the portfolio operated by others and then having scale contribution as you grow, those, as we look to the future and when we say, OK, what's the dynamic environment of our industry long term, we've gone through a five-year period where we, for all intent and purposes, has been completely out of the acquisition and mergers game and have taken advantage of that to improve the quality of the portfolio greatly. As we look at the billions of dollars of global investment that is taking place right now, and as William mentioned, that capital that is coming into the space is more focused on longer-term holds versus merchant development. They are building and investing in much better quality in terms of product quality, location to campus, and that is mostly all Class A core pedestrian development that's taking place.\nAnd the one thing that we would point out is, we -- and tracking the Axiometrics' 175 data, which is your tier 1 markets pedestrian properties, from an occupancy perspective, we continue year in and year out to track between 250 basis points to 280 basis points better than the rest of the market. And so, as we look at the long-term strategic plan of the Company and the long-term growth profile, where the early years, you saw 4% to 6% same-store NOI growth in the first eight years driven by the metrics we are talking about, and over the last five years, you've seen a slowdown in that growth rate because the only lever that is driving that growth is rental rates, which is improving. The real return to value creation long-term growth for us comes as we -- eventually, the cycle will change. We will be back in the M&A game. And when we're back in that M&A game on a long-term basis, the quality of products is better, the location of those products is better, and the upside still exists for us to harvest more value from those assets as we continue to perform at that 250 basis point to 280 basis point better.\nAnd so, it's hard to move the needle beyond that 3% in the current environment that we are, where the only variable is rental rate. But we don't think that is a long-term systemic condition for the industry or given our position is hopefully the long-term consolidator of the space going forward."
+    },
+    {
+      "speaker": "John Pawlowski",
+      "speech": "Sure. I appreciate all the color. I just wanted to go back to the 2011 case study because it is a year where occupancy was quite full and you had to rely on rental rate and supply was the same. So your comments -- did I interpret that it's just the percentage of student -- purpose-built student housing and the maturation that can allow you to push rate. Again, you've better schools. So I guess, a naive question is, why can't you do 3.5% rate growth this year if supply is down or similar to '11 and your schools are better?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah, part of that, and again, I would point to is a general statement as I did in my prior remarks. We have better pricing power in the supply environment that existed in the last five years than we did back in 2011, and we have improved that about 50 bps. When you look at our portfolio, one of the dynamic changes, John, from 2011 is, now we're approaching a third of our portfolio being on-campus ACE transactions. And as we've talked about those, as you all think about rental rate growth on ACE products, it is more coupon-clipping revenue growth and that you're looking at that 3% that we can price our university partners out of the market. And so while there's no downside, you're hardly ever in a situation where we're going to have negative revenue growth on campus, you are limited in terms of that 3% kind of being your governor. And so, a much higher percent of the portfolio today falls into that reduced-risk, coupon-clipping type properties that we see in ACE versus where in 2011, it was virtually all off-campus versus the early phases of ASU."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yeah, correct. And if I can add on to that real quick, if you lay out all of the rental rate growth, going back to the IPO, you can really clearly see it because when you look at the first five years of the life as a public company when less of our portfolio was ACE, the range of it was kind of 1% one 4% with a 2.5% being pretty much the average. If you look today, range is more like 1.5% to 3.5%. So, still a 2.5% average increase, but just a tighter band. And so, at the end of the day, we're still seeing similar rate growth. But because of the influence of the ACE, it just tends to be more consistent."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "And John, one last thing to note in terms of new supply, so this year, when you look at the new supply in our markets, the number one supply market is Gainesville, Florida. And we actually have 4% rate growth in Gainesville this year in this lease-up that's under way is where we're currently priced. And so, new supply in and of itself -- and certainly, Gainesville is a market that has seen significant supply over the years and is beyond that average of 23% that we talk about. But in this case, the assets that we own there, which are all off-campus [Indecipherable] that are extremely well positioned, but at price points that are on average 200 to 250 [Phonetic] below new supply pedestrian product coming on, we still continue to have rental rate pricing power in that particular market dynamic. And so, that's just kind of demonstrates how it is so much market by market product positioning strategy that drives that ability to push rate versus being able to roll up a very diverse portfolio over 42 states and kind of generalize the thought processes on it."
+    },
+    {
+      "speaker": "John Pawlowski",
+      "speech": "All right, great. Thanks Bill. Thanks Daniel."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Drew Babin with Baird. Please go ahead."
+    },
+    {
+      "speaker": "Drew Babin",
+      "speech": "Hey, good morning. A quick question on..."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Good morning, Drew."
+    },
+    {
+      "speaker": "Drew Babin",
+      "speech": "Good morning. On 4Q itself, it looks like pure rent growth was 1.7%, whereas the final leasing results -- or the opening leasing results indicated pure rent growth of about 1.4%. So I know, other income was up. But I guess, what on top of that kind of helped rate in the fourth quarter relative to the articulated final pace in October?"
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yeah, this is the usual deal, Drew, where remember, whenever we're giving you the results of the lease-up, we're always giving it to you on the forward calendar year same-store group. So, for fall '19, those lease-up results that we're reporting were on the 2020 same-store group because it impacts eight months, 8.5 months of 2020. So we want to make sure that we're giving you the group that really covers the longest period of time. Fourth quarter, still obviously, we're reporting on the 2019 same-store group. So you had two differences between that fourth quarter group and the group that we're reporting on for the lease-up. One, the rising 2020 same-store properties not in there yet, and also Landmark was pulled out because it was a disposition. In both Landmark and that rising 2020 same-store group, the fall '19 lease-up actually resulted in a little more occupancy growth for those properties and a little less rate growth. So that's why you see, when they're not in there, a little higher rate growth at 1.7% and a little less occupancy pickup at 20 bps versus the full group for 2020 having 1.4% rate growth and 40 bps pickup in occupancy."
+    },
+    {
+      "speaker": "Drew Babin",
+      "speech": "Okay. Appreciate the clarification there. And just one more from me and kind of a housekeeping item. It looks like the third-party development project to Texas State that was in the 3Q disclosures is longer in there. I'm just curious what's going on there? Is it sort of a regrouping or a delay? Or how do you think about that project?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah. That was a regrouping, and the university is looking at potentially funding and doing it themselves, just given board discussions and cost of capital and other mediums available to them from a funding perspective. So that's one. There may be future phases we see that come back. We don't expect the first phase to be on the timeline we were thinking over to be involved with it."
+    },
+    {
+      "speaker": "Drew Babin",
+      "speech": "Okay. And then, is there anything else sort of in the current 4Q third-party development disclosures where similar discussions may occur or there's anything you sense coming down the pipe? Or should we just assume this happens once in a while and it's not really..."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "It happens once in a while. In the Company's history, I think there have been -- this would be the third one that in 25 years has gone a different route after award. And in some cases, the university just gets further ahead in the strategic thinking sometimes of the governing boards in terms of how they ultimately think of capital allocation on their own front. And so, it is rare. But occasionally, it does happen."
+    },
+    {
+      "speaker": "Drew Babin",
+      "speech": "Okay, great. That's all from me. Thanks."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Shirley Wu with Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Shirley Wu",
+      "speech": "Hey, guys. Thanks for taking the questions. So my first question is on UT Austin. Just curious as to how that market is currently performing and what your expectations are for the upcoming school year?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah. And Austin, again, continues to be in the top 10 supply markets. Currently, our leasing progress is going well. We are a little bit ahead of where we were last year. The market overall -- the two new developments that have come in place are virtually already pre-leased, which has been the trend in UT Austin; everything new immediately leases up. We do see the overall market, the same-store properties throughout this point in lease-up being about 1,000 beds behind. And as I mentioned, we are running ahead. So we are successfully capturing market share. And so, we certainly believe we're in a position to build off of where we were last year. And at this point in time, in the implementation of our lease-up and marketing plan, we are pacing to do that. But it is still early and it takes execution through to the very end. But overall, given continued new supply there and where we are, we're pleased with our leasing progress to date."
+    },
+    {
+      "speaker": "Shirley Wu",
+      "speech": "Got it. So I was just curious, in terms of getting to that low end of the fall leasing, that 1.5%, are there any schools that you are more cautious of that could potentially see cracks [Phonetic]? Not that there are now, but if it were to happen, what would those schools do?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "At this point in time, and without giving any specific broader leasing guidance as to where we are than a little bit color that we have, when you look at that low end of the range, typically, as we underwrite it and think about it, it's not all a hiccup at two schools, but rather just look at the overall performance of potential finishing out the year strong in all of the markets that we are. And so, when we look at the markets and to where we are, the dynamics really lay out well for us this year, especially as the new supply was laid out, that especially from our major NOI contributing markets, again only four of those have new supply coming in, and it's relative modest supply. The average, as we talked about, was just over 600 beds and that included Austin, which is above -- driving that average up, where I mentioned that we're doing well and pacing ahead.\nAnd so this year, the overall market environment lays over for us pretty well. Not that we're not concerned. When we look at a couple of markets where we're pacing behind in the new supply talk and where we're just slightly behind, Fort Collins, Corvallis and Huntsville, and all those are markets where we have less than 1%, 0.5% of NOI. And so, don't have -- where last year, we had clearly laid out some markets, this year, as we started the lease up, Gainesville was where we saw the largest supply. We felt good about our product pricing position. As I mentioned, there, we have 4% rate growth through the lease-up in Gainesville this year. So, so far, we're very pleased with how things lay out from a risk and exposure perspective to large NOI contributors in the Company and to how that matches up with supply and how our current velocity is going."
+    },
+    {
+      "speaker": "Shirley Wu",
+      "speech": "Great. Thank you for the color."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Austin Wurschmidt with KeyBanc Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Austin Wurschmidt",
+      "speech": "Hi, good morning, everybody. Just curious, from your prepared remarks, you mentioned a pretty significant increase in application fees. And just wondering if you view that as being a demand pull-forward or any impact from some of the changes you've made in marketing expenses. And then also curious how concessions have trended relative to last year across some of those larger markets."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah. And as we -- and again, we're not giving leasing guidance, but obviously, we had to discuss velocity in the context of the fee volume in Q4 made it evident in terms of that it was a very good success in terms of the velocity of our early leasing. And so, that is -- as Daniel mentioned, it was a pull-forward of some of the revenue that you would typically see in Q1 and Q2 of next year -- of this year, 2020, and that the kick-off to leasing certainly did start off strong as evidenced in the increased app and admin fees that you saw hit that line item.\nThere is not any correlating offset [Phonetic] to marketing expense related to that. Certainly, I would say, the social media and digital efforts that we undertake, we think, indeed did have a role in helping drive that stronger velocity early on. And to the extent, obviously, that you're able to drive velocity early, that does help you to manage marketing expenses later in the leasing season if the opportunity provides itself to do so. And so, the -- something we feel good about, but we've got a long way to go, and we'll finish out the lease-up strong, hopefully."
+    },
+    {
+      "speaker": "Austin Wurschmidt",
+      "speech": "Appreciate it. And then, Daniel, your capital needs today are fairly limited in the next several years. But William certainly laid out a vibrant P3 pipeline, and it sounds like there are some off-campus opportunities that you will evaluate over time. So despite the fact you don't have any dispositions, I believe, beyond the $150 million that's pending, how should we think about asset sales, as it relates to backfilling the development pipeline in 2021 and beyond?"
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yeah. So, as you see in our supplemental on our capital allocation funding page, through 2023, given the $516 million left to fund that we have, once you complete -- or once we complete the Varsity disposition this quarter, that leaves us with about $175 million to $375 million left in funding needs over the next four years. As we've talked about, we really want to try to match time those as much as we can with the delivery of the developments so that we're not disrupting the flow of FFO growth. The $148 million disposition for this year would pretty much address our need. So and you should look to 2021 through 2023 for the remainder of those, which would be in the range of $100 million a year.\nObviously, as I said, if we have -- as we have additional transactions come up that we want to pursue, we will look at all sources of capital for funding that in a way that maintains the health of our balance sheet, but also generates the most accretive return we can."
+    },
+    {
+      "speaker": "Austin Wurschmidt",
+      "speech": "And then just last one for me. As it relates to the update or progress in your conversations with UC Berkeley, any sense of the timing of when that first phase could be completed and the probability that you do get an ACE transaction out of that?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah. It's still in the long-term pre-development phase, and so don't have a definitive shovel in the ground for the first phase. And it's still completely wide open in terms of third-party ACE. And again, it's such a large initiative with multiple phases that we would not be surprised if you saw a mix of ACE and third party in the ultimate equation of that."
+    },
+    {
+      "speaker": "Austin Wurschmidt",
+      "speech": "Thanks Bill. Appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The next question is from Neil Malkin with Capital One Securities. Please go ahead."
+    },
+    {
+      "speaker": "Neil Malkin",
+      "speech": "Hey, guys. Good morning."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Neil Malkin",
+      "speech": "My first question is sort of just about the overall landscape in terms of risk. It seems like sometimes you guys are subject to the whims of universities, be it changing live-on requirements or rerouting demand or anything like that can sort of hit you unexpectedly from an operating perspective that can have an impact on the current year or even what you previously underwrote on a long-term basis. So what do you kind of do to minimize or get ahead of those potential risks that universities could throw at you at a moment's notice?"
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah. And the good news is, those risks are also what create great opportunities for us in terms of how we approach the business, and especially our ACE program. And usually, they're not thrown at you quickly. And the universities typically where we deal especially are off-campus where there is open market risk with your large public land-grant institutions. And we look at those large public land-grant institutions within our portfolio, they only supply 21% beds as a percent of enrollment. And so, none of those public universities are looking to provide student housing for the large majority of students, but rather only for the first year incoming students. And in most situations, the college is the only reason they do not have a first year housing requirement is because they don't have enough beds to house all of the first year students. And so, a big driver of our on-campus ACE program and the transactions we're talking about is, when colleges, universities who do prefer, and we prefer for them also, that students live in a residence hall environment in their first year next to the classroom so that they have an advantage of getting the class and being immersed in that living learning environment, that is something that is a positive on all fronts, whether we're off-campus or on-campus, for a university to have as good of an opportunity as possible to have successful students in their first year to continue on. And so the on-campus supply and ensuring the first year students are living in it, one, that is what drives our ACE program and opportunities. And secondly, even when we are off-campus privately, not in partnership with a university, we look at them having a strong on-campus program, housing as many students as possible as a positive for us and they create a feeder system.\nAnd so, for example, let's assume a university announces that they're going to build 1,000 on-campus first year beds to house more first year students, while that may take 1,000 students out of the market for the one year of delivery, we look at that as an absolute positive in that there is now 1,000 more students that are being successful in a living learning environment that are moving off-campus where we position our properties to continue that living learning environment very similar to the university. And so, we almost never look at the university as creating risk or as a competitor, but rather understanding them and aligning our objectives with their success is what allows us to have success and opportunity with them. And so, it's really not as great of a risk as you may think in first looking at the industry and is actually a driver where we create a competitive advantage in aligning with their success."
+    },
+    {
+      "speaker": "Neil Malkin",
+      "speech": "Okay, great. Next one for me, I think you guys have like $56 million of land on your -- on the balance sheet. Any of those likely to start near term? Are those parcels adjacent to current assets? Any color there would be great."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Yeah. The land bank you see there, numerous of those are, again, contiguous land parcels to properties that we have owned. None of them are in the immediate pipeline. Of course, though being privately owned land, they're off-campus transactions. And so, we look at when is the proper time to execute on those. And none of the on-campus transactions would fall into that category in that those are always via land leases."
+    },
+    {
+      "speaker": "Neil Malkin",
+      "speech": "Okay. And last one for me. Do you guys bake into your opex guidance successful appeals to real estate tax assessment?"
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Yes. At the end of the day, we try to look at where we believe our targets are for final outcomes of property tax assessments. Sometimes that does involve of an appeal. Sometimes we have a little conservatism versus where we're appealing because we're not real confident where that might come out. A lot of it, we are advised by tax consultants that are experts in the different regions that we're in. And so, there is a variety of levels that we are currently projecting appeals to come out, and it all depends on where we -- how we feel about our current process."
+    },
+    {
+      "speaker": "Neil Malkin",
+      "speech": "Okay. So it seems like maybe you do a little bit, but kind of conservative just..."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "We do on the ones we feel really confident about and we don't on the others."
+    },
+    {
+      "speaker": "Neil Malkin",
+      "speech": "Okay, thanks guys."
+    },
+    {
+      "speaker": "Daniel Perry",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Bill Bayless for any closing remarks."
+    },
+    {
+      "speaker": "Bill Bayless",
+      "speech": "Thank you. And again, I want to end by where we started, thanking the American Campus team for all of their efforts and hard work in producing another great year. We look forward to seeing many of you at the upcoming investor conferences and look forward to updating you later in the year as we continue and give you an update on how our Disney opening is coming in May. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 56 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ryan Dennison--Senior Vice President of Capital Markets and Investor Relations",
+    "Bill Bayless--Chief Executive Officer",
+    "Jennifer Beese--Executive Vice President, Chief Operating Officer",
+    "William W. Talbot--Executive Vice President, Chief Investment Officer",
+    "Daniel Perry--Executive Vice President, Chief Financial Officer, Treasurer",
+    "Alexander Goldfarb--Piper Sandler & Co. -- Analyst",
+    "Nick Joseph--Citigroup Equity Research -- Analyst",
+    "John Pawlowski--Green Street Advisors -- Analyst",
+    "Drew Babin--R.W. Baird & Co. -- Analyst",
+    "Shirley Wu--Bank of America Merrill Lynch -- Analyst",
+    "Austin Wurschmidt--KeyBanc Capital Markets -- Analyst",
+    "Neil Malkin--Capital One Securities -- Analyst"
+  ]
+}

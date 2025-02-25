@@ -1,0 +1,418 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and welcome to the MSC Industrial Supply fiscal 2021 fourth-quarter and full-year conference call. [Operator instructions]. Please note, this event is being recorded. I'd now like to turn the conference over to John Chironna, vice president of investor relations and treasurer.\nPlease go ahead."
+    },
+    {
+      "speaker": "John Chironna",
+      "speech": "Thank you, Jason, and good morning to everyone. Erik Gershwind, our chief executive officer; and Kristen Actis-Grande, our chief financial officer, are both on the call with me. We continue to work remotely at MSC. So please bear with us if we encounter any technical difficulties.\nLike last quarter, when I highlighted our recently created micro site dedicated to corporate social responsibility, I'd like to invite you to visit our completely redesigned investor relations web page. We have made it much easier to find information and add content we think you will find useful. During today's call, we will refer to various financial and management data in the presentation slides that accompany our comments, as well as our operational statistics, both of which can be found on our investor relations web page. Let me reference our safe harbor statement under the Private Securities Litigation Reform Act of 1995, a summary of which is on Slide 2 of our accompanying presentation.\nOur comments on this call, as well as the supplemental information we are providing on the website, contain forward-looking statements within the meaning of the U.S. securities laws, including statements about the impact of COVID-19 on our business operations, results of operations and financial condition, expected future results, expected benefits from our investment and strategic plans and other initiatives, and expected future growth and profitability. These forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those incubated by these statements. Information about these risks is noted in our earnings press release and the risk factors and MD&A sections of our latest annual report on Form 10-K filed with the SEC, as well as in our other SEC filings.\nThese risk factors include our comments on the potential impact of COVID-19. These forward-looking statements are based on our current expectations, and the company assumes no obligation to update these statements except as required by applicable law. Investors are cautioned not to place undue reliance on these forward-looking statements. In addition, during this call, we may refer to certain adjusted financial results, which are non-GAAP measures.\nPlease refer to the GAAP versus non-GAAP reconciliations in our presentation, which contain the reconciliations of the adjusted financial measures to the most directly comparable GAAP measures. I'll now turn the call over to Erik."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Thank you, John. Good morning, and thanks for joining us today. I hope that everybody remains safe and healthy. As we close the books on fiscal '21 and we kick off our fiscal '22, our transformation story is gaining steam.\nSeveral years ago, we began repositioning MSC from strictly a spot-buy supplier to a mission-critical partner on the plant floor of Industrial North America. Along the way, we execute several significant changes. We reimagined our value proposition, reengineered our supply chain, reshaped our sales force, and updated our technology infrastructure. The pandemic came, and we used it as a catalyst to accelerate the path we were already on.\nWe took several bold steps to rethink how we work and to redeploy capital from back office into growth. At the start of fiscal '21, we rolled out Mission Critical, which was our plan to translate these changes into superior financial performance, and we outlined two, three-year goals. First, to accelerate market share gains. Our stated target was to reach at least 400 basis points of growth above the IP index by the end of our fiscal 2023.\nOur first base camp would be this past quarter, our fiscal '21 fourth quarter, where we expect it to be at least 200 basis points above IP. The second goal was to restore return on invested capital, or ROIC, into the high teens by the end of fiscal 2023. And we would achieve this by leveraging growth, by executing on gross margin initiatives, and by delivering structural cost takeout of 90 to $100 million, helping to reduce opex as a percentage of sales by at least 200 basis points over that time period. We're now one year into our Mission Critical journey, and I am very encouraged by progress.\nWith respect to our first goal market share capture, we're gaining momentum. Our Q4 performance was strong, with ADS growth of roughly 500 basis points above IP. Our growth continues to be powered by the execution of the five growth levers that we outlined at the start of the fiscal '21. And those are metalworking, solutions, selling our portfolio, digital, and diversified end markets.\nWe're also seeing improvement in ROIC. After adjusting out nonrecurring costs, adjusted ROIC was 15.4% at the end of Q4, an improvement of approximately 60 basis points over the past year. And there's two important drivers behind this. First, profitability.\nWe held gross margins flat on higher sales dollars and had strong price realization in a robust inflationary period to offset mix headwinds. Our structural cost takeout also helped drive profitability, and I'll speak more to that in just a minute. The second driver of improved ROIC was our balance sheet, as we brought down average working capital versus prior year. I'd add that our board just approved ROIC as a metric driving long-term incentive compensation.\nBack to our Mission Critical program. We achieved $40 million of cost savings in fiscal '21, exceeding our original target of 25 million. And we're redeploying a good portion of these savings back into growth investments that will further fuel revenue growth, and hence, improve operating leverage. We've redeployed field sales headcount from back-office into growth drivers, including metalworking, government, and our business development program.\nWe're approaching pre-COVID levels on our vending machine signings and our implant program is gaining traction, finishing fiscal '21 at just over 7% of company sales, as compared to 5% a year ago. We continue to upgrade our web infrastructure, including a new search engine, product information platform, and user experience. These have started, and it will continue to drive improved performance through e-commerce. We've executed all of this in the face of very challenging conditions, including severe supply chain disruptions, substantial cost inflation, and extreme labor shortages.\nAnd while we're certainly not immune to these challenges, I've been quite pleased with our team's response to navigating these choppy waters. We've increased inventory significantly and are leveraging our good, better, best product offering to offer our customers alternatives. As a result, while our service level is not yet back to pre-COVID levels, it is well above most of the industry and is fueling market share capture. On the cost side, we are seeing significant inflation in wages, freight, product costs, and more, and our team has worked hard to minimize the impact of these.\nOur structural cost and productivity efforts are buffering the effects on our P&L. Looking ahead to fiscal '22, our outlook is positive. We intend to build on this momentum despite the near-term challenges with supply chain disruption and inflation. With respect to revenue growth, we're aiming for at least 300 basis points of growth above IP, on our way to 400 basis points or more for fiscal 2023.\nWe'll target holding gross margins roughly flat for the third consecutive year by continuing strong price execution. On the structural cost front, we expect to deliver roughly $25 million in incremental savings on top of the 40 million in fiscal 2021. As Kristen will describe in just a bit, we expect this to yield incremental margins of 20% in the likely scenarios for the year. I'll now turn to the details of the quarter and the latest test to what we see on landscape.\nThe demand environment remained strong during our fiscal fourth quarter. The majority of our manufacturing end markets remain robust, with some isolated but acute pockets of softness like automotive. This is reflected in the IP reading that continues to show growth and in sentiment reading such as the MBI index, which remain at high levels. That said, the supply chain shortages and disruptions that we began to see in our fiscal third quarter have increased.\nAnd while hard to quantify, are certainly constraining growth across the industrial economy in the near term. Product scarcity, freight delays and extreme labor shortages are also resulting in significant inflationary pressures. We are well positioned to navigate this environment, particularly when compared to the local and regional distributors who make up 70% of our market. MSC's broad multi-brand product assortment, our high inventory levels, strong supplier relationships, and next-day delivery capabilities are all strengths that allow us to accelerate market share capture.\nTurning to our performance. You can see our reported numbers on Slide 4 and adjusted numbers on Slide 5. Sales were up 11.1%, or 12.9% on an average daily sales basis. Our non-safety and non-janitorial product lines grew 20%, while sales of safety and janitorial products declined roughly 14%.\nLooking at our performance by customer type. Government sales declined nearly 30% due to difficult janitorial and safety comps. National Accounts improved their growth rate into the mid-teens, while our core customers maintained their growth rates. DCSG grew in the low double digits.\nSeptember continued the trend of a low double-digit growth rate with ADS growth of 11.1%. Our non-safety and non-janitorial growth was roughly 15% [Inaudible] 11%. Keep in mind that the difficult safety and janitorial prior-year comparisons continue for the first half of our fiscal '22 and particularly the rest of our fiscal first quarter before easing in the back half of the year. Kristen will speak more about our fiscal '22 assumptions when she discusses our annual operating margin framework in just a bit.\nWith regards to the pricing environment, it remains strong as product inflation continues pretty much across the board. Supplier pricing moves led us to take another increase in August, and solid realization of our June increase allowed us to post the gross margin of 42% for the quarter, down just 30 basis points from our fiscal third quarter, which is less than our typical seasonal drop. Continued price escalations from suppliers and increasing inbound freight costs will be a headwind in the coming quarters, and we'll look to offset this with further pricing actions. I'll now turn things over to Kristen, who will cover our financials, Mission Critical progress, and our fiscal '22 annual operating margin framework."
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Thank you, Erik. I'll begin with a review of our fiscal fourth quarter and then update you on the progress of our Mission Critical initiative. Before I turn it back over to Erik, I'll close with our thoughts on fiscal 2022 and our annual operating margin framework. On Slide 4 of our presentation, you can see key metrics for the fiscal fourth quarter and full year on a reported basis.\nSlide 5 reflects the adjusted results, which will be my primary focus this morning. Our fourth-quarter sales were 831 million, up 11.1% versus the same quarter last year. We had one less selling day this year in our fourth quarter. So on an average daily sales basis, net sales increased 12.9%.\nErik gave some details on our sales growth, but I'll just reiterate that the non-safety and non-janitorial ADS sales grew 20% in the quarter, while our safety and janitorial sales declined 14%. Our gross margin for fiscal Q4 was 42%. And as Erik mentioned, was down 30 basis points from our third quarter and up 40 basis points from last year. Operating expenses in the fourth quarter were 253.3 million or 30.5% of sales, versus 227 million or 30.4% of sales in the prior year.\nIt's worth noting that our fourth quarter operating expenses include nearly 8 million of expense add-back from prior year COVID cost containment measures. Opex also increased as inflation challenges began in the fourth quarter. Excluding approximately $1 million of acquisition-related costs, adjusted opex was 252.1 million or 30.3 as a percent of sales. As expected, our adjusted operating expenses came down sequentially from Q3 due to volume-based expenses from sequentially lower sales dollars and lower incentive compensation.\nWe also incurred approximately 4.4 million of restructuring and other related charges in the quarter. Our operating margin was 11%, compared to 9.8% in the same period last year. Excluding the acquisition-related costs, as well as the restructuring and other related costs, our adjusted operating margin was 11.7%, versus an adjusted 11.2% in the prior year. Adjusted incremental margin for our fiscal fourth quarter was 15.3%.\nGAAP earnings per share were $1.18, as compared to $0.94 in the same prior-year period. Adjusted for the acquisition-related costs, as well as restructuring and other charges, adjusted earnings per share were $1.26 as compared to adjusted earnings per share of $1.09 in the prior-year period, an increase of 15.6%. Turning to the balance sheet and moving ahead to Slide 9. Our free cash flow was 69 million in the fourth quarter, as compared to 171 million in the prior year.\nThe largest contributor to the decline were increasing inventory and accounts receivable balances relating to our year-over-year sales lift. I would also note that we repurchased 20 million of stock during the quarter or about 231,000 shares at an average price of 89.08 per share. As of the end of the fiscal fourth quarter, we were carrying 624 million of inventory, up 26 million from last quarter. We're actively managing inventory levels to support our customers as sales continue accelerating and in light of the ongoing supply chain disruptions.\nOur capital expenditures were 16 million in the fourth quarter and for the full year, were 54 million, within our expected range of 50 to 60 million. In addition, our fiscal year 2021 annual cash flow conversion or operating cash flow divided by net income was strong at 103%. Our total debt at the end of the fiscal fourth quarter was 786 million, reflecting a 27 million increase from our third quarter. As for the composition of our debt, 234 million was on our revolving credit facility, about 200 million was under our uncommitted facilities, and approximately 350 million was long-term fixed rate borrowings.\nCash and cash equivalents were 40 million, resulting in net debt of 746 million at the end of the quarter. As of the end of September, our net debt was down to 728 million. Let me now provide an update on our Mission Critical productivity goals. Our original program goal was to deliver 90 to 100 million of cost takeout through fiscal 2023, and that is versus fiscal 2019.\nAs you can see on Slide 10, our cumulative savings for fiscal year 2021 were 40 million against our original goal of 25 million and our revised goal of 40 million. We also invested roughly 23 million in fiscal 2021, which compares to our revised full-year target of 25 million. As we have already begun our fiscal '22, I'll give you our expectations for this year. We expect additional gross savings in fiscal '22 of 25 million and additional investments of 15 million.\nThese investments will continue to fuel share gains by building out our digital platform and expanding our sales force. That will result in additional net savings for Mission Critical initiatives of roughly 10 million. As a result of our strong progress on Mission Critical savings, we are increasing our total savings target to a minimum of 100 million through the end of fiscal '23, as compared to our fiscal '19 baseline. Now let's turn to the fiscal year 2022 adjusted operating margin framework, which is shown on Slide 11.\nOperating margins will naturally vary based on our sales levels. The punchline is that, on an average daily sales basis, sales are up high single digits. We would expect adjusted operating margin to be in the range of 12.3%, plus or minus 30 basis points. And if sales are up mid-single digits, we would expect adjusted operating margin to be in the range of 12%, also plus or minus 30 basis points.\nThis means we expect to achieve 20% adjusted incremental margins at our likely revenue growth range of mid to high single-digit growth. Let me cover some of our assumptions behind the framework. With regard to sales levels, we are assuming an IP index somewhere between low to mid-single-digit growth, and we are targeting market outgrowth of roughly 300 basis points. That yields company growth on an ADS basis in the mid to high single digits.\nWe're optimistic about our growth runway as most of our end markets are still in the early stages of recovery. We aim to hold gross margins roughly flat with fiscal '21. It's worth noting that in addition to volume-related expenses, we will face several challenging headwinds, such as labor and freight inflation of nearly 25 million, as well as COVID cost add-backs and additional COVID-related costs of more than 13 million. I would point out that 3 million of those costs are for an incentive and marketing campaign to help us achieve compliance with the federal contractor vaccination mandate.\nThese costs will likely occur in our first quarter. Please note that the quarterly progression, whether we're talking about sales growth or profitability levels, will not be a straight line. For example, we expect our fiscal first-quarter sales to face more difficult comparisons due to safety, janitorial, and government sales. Likewise, operating expenses will also face difficult comparisons in the first half of fiscal '22 as COVID-related cost-saving measures were still in place in the first half of fiscal 2021.\nFinally, keep in mind that our fiscal year '22 includes a 53rd week, and you can find our fiscal calendar on our IR website. I'll now turn it back to Erik."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Thanks, Kristen. Our Mission Critical transformation is gaining speed. With our recent Q4 performance as another strong data point, our market share capture rate is growing. Our efforts around gross margin and productivity improvements are beginning to lift ROIC toward our FY fiscal '23 goal of high teens.\nLooking to fiscal '22, we're set up for a strong year, including 20% incremental margins in our likely growth range. And we're accomplishing all of this in the face of difficult conditions. I'd like to thank our entire team of MSC associates for their hard work during challenging times. Your work is allowing MSC to stand out from competition and delight our customers.\nThanks, and we'll now open up the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We will now begin the question and answer session. [Operator instructions]. Our first question comes from Tommy Moll from Stephens. Please go ahead."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Good morning, and thanks for taking my questions."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Hey, Tommy."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Erik, I wanted to start on price, cost. What inning does it feel like we're in to you in terms of this inflationary cycle? And more specifically to 2022, fair to discern that you're assuming roughly neutral price cost in that gross margin outlook for the year?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "So, Tommy, I would say that, generally, what happens, as you know, just as a little sort of background, early stage inflationary cycle, distributors like us, see positive price cost spread. And that's what we saw in fiscal '21 that allowed us to realize for us, particularly with where we have the growth engine pointed, there is a mix headwind that we've talked about in the business of 30 to 50 bps, depending upon how things move around. So to achieve a flat gross margin, we've done it two years in a row, the goal would be to make it three years in a row, plus or minus flat. That requires a positive price cost spread.\nThat was the case in '21. That would be the aim again in '22. So to answer your question, Tommy, look, at some point, we're starting to see it now. We're starting to see the purchase cost escalation hit the P&L, right, which limits the upside.\nBut it does feel like there's a lot of legs to this inflation story. I always hesitate to predict the macro. But in terms of innings, it still feels like relative early innings. And I say that because of product scarcity with what's happening with freight and with what's happening with labor, the extreme shortages.\nIt just seems like there's still a ways to go. And that's consistent with most folks I talked to. So I would say still relatively early innings of the story, and hopefully, that can continue to fuel more price and positive price cost spread even as cost creep in."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Thanks, Erik, that's helpful. Kristen, maybe one for you on Mission Critical execution you have planned for 2022."
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Timing of the savings versus the investments is always an important issue. So as we progress through the quarters, are there any that you would point out where savings would significantly be ahead of of investment or vice versa?"
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Yes. So Tommy, it's going to be a bit narrower on the spread in the first half of the year, widening in the back half of the year. And you can kind of see if you look at what happened in Q3 to Q4 sequentially in '21, that net savings spread narrowed. It's going to stay a little narrower in Q1 and Q2 and then widen out again in the second half."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Great."
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "I just said, based on current expectations, I think as I've articulated to you guys before, we have a pretty good pipeline of what projects are in there. And we have definitely shuffled timing on things as we progress through the year. So if we expect that to be significantly different, I'll make sure to signal that to all of you in the next call."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Fair to say, though, Kristen, that in any given quarter, the expectation would be there's still a net savings spread? It's just a matter of the degree to it. Yes. OK."
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Correct. Correct."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "That's helpful. Thank you."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Tommy and Kristen, the one thing I did want to add in was that's related to Mission Critical. Other cost factors, like, Tommy, if you're thinking about modeling out the quarter, so for instance, Q1, like we had in this fourth quarter, we're facing a prior-year comp where there will be COVID cost measure add-backs. So if you're thinking about like incrementals or costs, it will likely be muted in Q1. We've got stuff going on early in the fiscal year.\nThe COVID cost add-back comps is one. Two, Kristen mentioned the vaccine incentive and marketing program. Those will both be first half of year events that will mute incrementals relative to what we'll see in the back half of the year."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Got it. Appreciate it, Erik. I will turn it back."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Ryan Merkel from William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "speech": "Hey, everyone. Congrats on a good year of execution."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Hey, thanks, Ryan. How are you?"
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "speech": "Good. So my first question is on the fiscal '22 sales outlook. So what is your forecast for price inflation? And then is it fair to assume that there's some pent-up demand at your customers, Erik, as supply chain issues get solved?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes. I think, Ryan, so two points. On price inflation, look, tough to forecast precisely. But what I would say is implicit in our assumption is a continued cadence.\nThis has been a very different year, and I expect the next fiscal year to be a very different year from kind of our typical cadence, Ryan. And what I mean by that is you've been following us for a long time. Typically, we'll have one big price increase late summer that takes us into the early fall. And then there'll be -- are midyear sometime early in the calendar the year that's usually of a lesser amount.\nWhat we're seeing now is a more consistent cadence, price increases that aren't necessarily quite as big on a relative basis, but are more frequent given just the rapid fire inflation we're seeing. So that -- sort of continuing that drumbeat and that cadence is baked in. Your second question has to do with pent-up demand. I think it's a really good point, Ryan, and it was one we tried to get across in the prepared comments.\nAnd tough to know precisely when but it does feel like, particularly for MSC, we're heavily levered toward heavy manufacturing sectors. I mean the supply chain right now is really severe. And I'm sure you're hearing this everywhere. No surprise, no question it's constraining growth.\nI think the good news is the fundamentals and the demand outlook seems solid. But we do believe that what this is essentially doing is extending the growth runway and the recovery runway for '22 and maybe even to '23."
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "speech": "Got it. OK. That's helpful. And then second, just how are you thinking about the cadence of gross margin through '22? Should gross margins be higher year over year in the first half and then bleed down a little bit in the second half?"
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Yes. So when I think about gross margin, what you've typically seen from us the past few years, Q4 to Q1 sequentially, is we tend to have a bump up -- Q4, Q1 sequentially, I would not expect that this year. And as Erik articulated, we have really different timing happening right now related to the price increases. It's definitely going to look more even throughout the year than our margin patterns typically look.\nThere kind of tends to be like a little bit of an arc in Q2, Q3 and then comes back down in Q4 with our seasonal decline. You'll still see that in the fourth quarter, just not to the same extent that we would typically see. So everything is basically going to look a little more even than it would if you look at sort of our historical sequential trending in margin. And again, it's, of course, based on what we know today about the pricing environment, costs coming online.\nAnd as Erik articulated, everything there is pretty dynamic right now. But I think that's how I'd tell you to think about the year shaping up at the moment."
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "speech": "Got it. It's helpful. I'll pass it on. Thanks."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Thanks, Ryan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Michael McGinn from Wells Fargo. Please go ahead."
+    },
+    {
+      "speaker": "Mike McGinn",
+      "speech": "Good morning, everybody. I wanted to get a metals update from you. Alcoa had some interesting comments about magnesium shortages, and there's a lot of concerns in China regarding the energy, nat gas prices and what the impact is having on the mills. Can you give us like an impact on what potential lag would be from tungsten or alloys? Or any sort of commentary you're hearing from rising raws there?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes, Mike, look, I would say I don't have any specific commentary to share on our primary metals segment, which for us is meaningful. It's not the biggest, but it's a meaningful segment. Look, I think overall, we're hearing a very consistent pattern. And I think we're feeling the effects now and will continue certainly through the remainder of the calendar year, likely into '22.\nI don't know -- I'm not hearing from our customer base, Mike, that it necessarily gets way worse from here. But in terms of material shortages leading to product scarcity, leading to higher prices, longer lead time, we're living it now. We're feeling it now. I have not heard anything of late.\nAnd we pulse check our field and our customer base regularly that would be a material step change from where we are now. That said, what I would say is it's pretty severe now."
+    },
+    {
+      "speaker": "Mike McGinn",
+      "speech": "Got it. And one of the major suppliers of cutting tools out there is doing some acquisitions in the software space, cat. I just wanted to get your take on how well positioned you are, you think, to grow with those suppliers from a digital footprint standpoint and just emerging platforms out there like kind of like geometry and things of that nature?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes. Mike, look, what I would say there is we -- our whole -- we've sort of anchored the MSC value proposition around helping our customers find productivity on the plant floor, speeding up throughput, finding cost out, getting their products out to their customers faster and solving labor challenges. That's where we sort of have our entire machine aimed. And that includes our people, and the analog and like getting product in and getting people on the plant floor, but it also includes digital technology.\nWe're doing some of it ourselves. We've talked about some of our own innovation. There's a lot of disruptive new technologies out there, many -- some of whom we've mentioned, some of whom have been acquired by suppliers. Certainly, we see, if anything, technology is an accelerator for us to help us do more faster.\nUltimately, what this all comes back to, though, is finding productivity for customers on the plant floor. That's where it's all aimed, and that's -- so using many of the ones you're speaking of and the supplier you're thinking of, certainly is a critical partner in helping us do that."
+    },
+    {
+      "speaker": "Mike McGinn",
+      "speech": "Got it. Appreciate the time. Best of luck."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Thank you, Mike."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Hamzah Mazari from Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Hamzah Mazari",
+      "speech": "Hey, good morning. Thank you. My first question is just around -- just free cash flow conversion. How you think about that metric as you sort of hit these goals of 400 bps of performance, ROIC, high teens? What does the free cash flow conversion look like relative to today? Is there room to optimize that?"
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Yes. Good morning, Hamzah Yes, so I'd say there's definitely room to optimize free cash flow. You probably heard us articulate before we've got different initiatives that we want to focus on specific to the balance sheet as we progress with Mission Critical. It hasn't been a big focus area for us so far in fiscal '21, but definitely an area we're more aggressively turning our sights to here coming in fiscal '22.\nAnd then if you just think about kind of cash utilization in general, first half of '21, we were generating a lot of cash. Things were still kind of sluggish. Second half of '21, we've been utilizing a lot more cash as our sales pick back up as we built up our inventory to support our customers. So I would also expect kind of more of a stabilization of our free cash flow once we get through this kind of inventory build and settled into a little more of a kind of stable working capital pattern for us."
+    },
+    {
+      "speaker": "Hamzah Mazari",
+      "speech": "Got it. Very helpful. And just my follow-up question, I'll turn it over. Could you just remind us how much of the portfolio today is levered to the production cycle -- the OEM production cycle, factory floor relative to sort of just pure MRO facility maintenance type product? Just give us a sense of that.\nI know you flagged automotive as seeing some supply chain issues. But just trying to get a sense of how much of the business today is purely MRO, which may be a little more resilient to supply chain issues?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes, fair, Hamzah. And one thing I would say is that the supply chain issues we're seeing are across -- I think they're acute and heavy manufacturing, but they are across the board. And I think you'll probably -- if you pulse check the portfolio of distributors, you'll see it across the board, not just in heavy manufacturing. But to help you size it for us, I can sort of give you a couple of cuts and end market view and a product view.\nWhat we've talked about is metalworking products, which obviously tend to be most heavily levered to a production environment are a little under half of revenues. And the balance would be made up of the rest of our portfolio of the Class C parts and things like fittings, infuses and fasteners, safety and janitorial, and other MRO. From an end market standpoint, would be another way to sort of get at that, and we've talked about kind of the five big heavy manufacturing end markets also around 50% of company revenues. So that sort of gives you, hopefully, a little bit of a feel for our exposure."
+    },
+    {
+      "speaker": "Hamzah Mazari",
+      "speech": "Great. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from David Manthey from Baird. Please go ahead."
+    },
+    {
+      "speaker": "Dave Manthey",
+      "speech": "Yes. Thank you. Good morning. First off, in your comments, you're saying 20% contribution margins in your likely growth scenarios.\nBut -- as I'm calculating this out, because of the seven extra days you have in 2022, that means reported growth is going to be 2 or 3 percentage points above ADS, I believe? And then under that scenario, your framework sort of implies 15 to 20. So I'm just -- I'm hoping you can help me understand where the disconnect is? Or what am I not understanding there?"
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Yes. So, Dave, the framework that we put in the presentation and commented on is the ADS framework. You're right. We do have the 53rd week.\nAnd the way you can roughly size that is probably about 70 million on sales, rough numbers and added $0.15 on EPS. And because of the flip-flop we have between; '22 and '23 on the extra week, we're very focused on working within the ADS framework because of that change."
+    },
+    {
+      "speaker": "Dave Manthey",
+      "speech": "OK. OK. And then as we're thinking about contribution margins, if price is a bigger component of growth here, and you're picking up 30 basis points from Mission Critical and gross margins are assumed to be roughly flat, thereto, I'm just trying to gauge the teams or the 20% contribution margin. I know there's other cost pressures here.\nBut with all of those positives lining up right now, why wouldn't we see higher-than-normal contribution margins at this point in the cycle?"
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Yes. A few thoughts on that. I think the first thing, Dave, is we are really optimistic about how '22 is setting up generally. The pricing environment is favorable.\nWe've seen early favorable results on price realization. Feeling really good about Mission Critical. So I think it's a fair question. We're giving ourselves a bit of wiggle room in the range here because there's a lot of sort of macro things that play in '22 that may require us to respond differently.\nWe feel like we've got inflation pegged pretty well based on what we know right now, but we've already taken our inflation assumptions up a couple of times even in the second half of '21 here. And then the other thing I would add around why we may not be getting more aggressive on the incrementals is really around our investment expectations. So we've been really thoughtfully prioritizing investment as part of the Mission Critical initiatives. And if there's an opportunity for us to potentially do more investment, depending on how '22 plays out, that's something that we're going to be keeping an eye on and looking for opportunities to invest to have early payback that will help us drive additional growth in '23."
+    },
+    {
+      "speaker": "Dave Manthey",
+      "speech": "OK. Thank you."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "I'll add is just -- and Kristen laid it out in the framework, you think -- there is massive inflation happening right now across the -- so if you just combine the inflation number we gave at 25 million, which is significantly greater than we would see in a normal year on opex, plus 13 million in COVID-related add-back and then the vaccine incentive and marketing program, that's $38 million right there out of the gate that has to be overcome. So we look -- we feel pretty good, like in this environment, to produce 20% plus incrementals in light of what we're seeing in cost inflation. We feel pretty good about."
+    },
+    {
+      "speaker": "Dave Manthey",
+      "speech": "OK. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Adam Uhlman from Cleveland Research. Please go ahead."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Hey, everybody. Good morning."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Hey, Adam."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "A couple of clarifications. I might have missed it earlier, but when we were talking about the mid to high single-digit revenue growth forecast. How much of that is price? I think you said that it's going to be building a little bit through the year. So is that like we go from 3% to like three and quarter, three and a half? Or is that like three, four, five? Could you just help me --"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "We have -- let's put it this way. Yes, and I didn't put -- we're not disclosing a specific number, Adam. But what I said is that it would be basically what's implied for fiscal '22 is a continuation of the pattern that we've seen over the past two, three quarters, which has been a more steady drumbeat of increases. So we didn't break out a specific number.\nAnd obviously, as you can imagine, the price contribution varies in a mid-single digit or high single-digit range. It's a different number. We didn't break it out. But suffice it to say, the implied assumption is that we'll continue seeing steady price increases of moderate size throughout the fiscal year."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "OK. Yes. I'm just trying to put in the context that the labor freight inflation of 25 million seems like a lot. As I understand, I think some of your shipping costs have been you've done a good job with contracts.\nIs it fair to say that most of that is labor? And then could you share any thoughts on -- is hiring folks for the fulfillment centers getting any easier with the enhanced federal benefits falling off?"
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Yes. Maybe I'll take the first part and then I'll let Erik chime in on the second part of your question. So on the 25 million, the way that I would kind of think about that, it is more labor. I'd say roughly, it breaks down to -- a bit more than half of that is labor.\nFreight, we're expecting to go up about 20 bps. And then we've got some sort of inflation baked in on kind of other areas of operating expense. But yes, the labor is the biggest piece of that to your point. And then I think on the second part of your question, on the CFC staffing, Erik, do you want to chime in on that one?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes. Sure, Adam. What I would say is, I think we've -- it's been quite a challenge across the economy in several of our locations. We have already made some adjustments to wages to sign-on bonuses, etc., to respond to what's going on.\nThat is all implicit in our '22 and sort of captured in our '22 framework. What I would say is we are starting to see some benefit there from some of the moves made. The staffing is trending in the right direction. But obviously, we're nowhere near out of the woods.\nAnd I think that cost not just for us, but for the entire economy right now."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "OK. Got you. Erik, could you share any stats on the wins that you guys are having with Mission Critical in terms of -- anything you could share on like new markets where you're getting more traction what the sales are active customer count or anything along those lines?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes, sure. So maybe what I'll do, Adam, and look, I think sort of pulling back up for a second, and I'll give you some -- a few things that we're tracking carefully. Look, I feel like momentum is picking up here. And this transformation story that we've had underway for a while is starting to yield results.\nOn the top line, we talked about we had said, \"Hey, we thought IP was the best proxy over a long period of time for market share capture.\" We are seeing that spread start to widen. We feel like in this environment, product availability and solving customers' labor challenges really set up nicely for us to accelerate share gains. So I think overall, we're picking up steam. And I think what I'd point to is really the five key growth levers.\nThat's sort of where we're heads down focused. So metalworking being the first. We've expanded the size of the team. We are approaching 10% share in metalworking.\nWe still feel like we've got plenty of room. We've got a new technology in MillMax that's being rolled out. Still early stages should fuel that. On the selling of the portfolio front, our big focus has been CCSG and our VMI business, which we're seeing that business return to double digits.\nSolutions is another big area for us. And if you recall, solutions includes vending, it includes VMI, and it includes implant. So on implant, in particular, we had talked about taking that portion of the business, which, by the way, right now, is really resonating with customers because they need help. It's helping them close a labor gap.\nBut what we had talked about is moving that business from 5 to 10% of sales, that's at seven. So we saw a nice healthy jump in a year. We also -- VMI and vending the other portions of solutions, we definitely saw a dip during COVID. Signings are pretty much getting back this past month in September, got back to pre-COVID levels.\nAnd so all in, we're seeing solutions revenues as a percentage of total from customers with solutions, that's implant VMI vending in the mid-50s as a percentage of total sales. So we feel good about that. Fourth area is digital. So we talked about within digital, the primary focus for the last couple of quarters into '22 was going to be on mscdirect.com.\nSo you'll recall our e-commerce as a percentage of total revenues hovers around 60. It had dropped a little bit during the pandemic, primarily because of some of the large PPE sales that did not go through the e-com. But that number is back to the high watermark of around 60. I think more significantly, though, Adam, under the covers, we look specifically at mscdirect.com to say, \"Are we getting payback?\" We're seeing mscdirect.com revenues as a percentage of sales actually hit our high watermark, greater than 50% of that total e-commerce number, but it actually hit our high watermark in Q4.\nAnd then last but not least is government, where we're feeling really good about our competitive position in government, and it sounds ironic, when I'm talking -- coming off of a quarter with a minus 30% growth number, but that really is about safety and janitorial comps. There, we're looking specifically at total customer count and new customer wins. We feel quite good about our position in government. So sort of that's a rundown of the big five, as we call it, which is the five levers that we're focused on to widen the market share spread."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Thanks, Erik."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Steve Barger from KeyBanc Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Hey, thanks. Good morning, guys. Erik, in the pandemic, there was a lot of concern about double ordering of safety equipment. Now that we're seeing the supply chain constraints, are there concerns about double ordering or unusual inventory build at customers for traditional products?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes. Steve, it's actually a great question. It's something we monitor carefully. What I would say is, first of all, we're still watching safety and janitorial, which tends to ebb and flow a bit.\nOverall, what I would say is we're not seeing a significant change in our -- where we would see that play out as our order cancellation rate and [Inaudible] a significant change there. So we are monitoring it carefully. But to date, I would say nothing I'd call out like we were talking about last year with the safety supplies."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Got it. And I know you have a lot of diverse products across categories like a good, better, best exposure. But are there any categories where there are real pinch points and you just can't get stuff right now? Or what's the -- where are you having the most trouble sourcing?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes, Steve. So I would say issue No.1 is overseas is really -- just to put it bluntly, is -- the overseas supply chain right now globally is a mess. So I think the fortunate position for MSC is as a percentage of our total purchases and our total sales, global sourcing is relatively low for us. So I think that buffers us somewhat and gives us a competitive advantage with customers.\nBut that -- where that happens, that is the most acute. I think the other thing that's an advantage for MSC is even where we global source, as you said, most of the lines where we offer an imported product, we have domestic alternatives. Beyond the imports, what I would say is, look, there's a few branded industry suppliers, without getting into names, but there's a few that have been hit acutely hard, whether it's micro company-specific issues or the sector that they're in. So we have some pain points with specific suppliers.\nI wouldn't necessarily call out a product line or two, more so specific suppliers. And again, the nice thing is with the multiple brand choices we are able to offer customers alternatives. And at the same time, it's why you're seeing our inventory go up is to make sure that as lead times extend, we're in a position to be there for our customers because right now, Steve, I will tell you, availability wins out nearly all the time at the moment."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yes. And just as a follow-up, what kind of products do you get most from overseas? Is it hand tools, or gloves, or whatever? Just what are you sourcing from over there?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "So we actually -- it's somewhat across the board. So I mean we have some of our cutting tool and metalworking offering is sourced overseas. Certainly, some of our Class C offering is sourced overseas. We do, to some degree, some of the lines like you mentioned, like hand tools, where we do some private branding.\nBut again, as a percentage of total, I think for us relative to peers is not that great."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Got you. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Chris Dankert from Loop Capital. Please go ahead."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Hey, good morning, everyone."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Good morning, Chris."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "I guess, first off, we touched on it earlier on the government side, but what does large account growth look like if you pulled that kind of big comp headwind out of there? How is the rest of the market is trending on National Accounts?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "So we had said -- I think our National Accounts number was mid-teens, Chris. There is some -- and I don't have the number offhand. I'm sure there is some safety janitorial comp that number because some of our -- along with the government, but there were some large accounts. Look, what I would say, probably just a good proxy.\nChris, would be if you just look total company and say total company sales without the safety janitorial at 20%, so it gives you a feel for how the underlying business is performing. What I would say is on the large accounts, the National Accounts side, we are encouraged by progress there. And what I'd call out that's more specific to that area is we did have a leadership change a couple of quarters back. We put somebody in who is a strong longtime MSC sales leader, who's had a great track rod and moved into large accounts.\nWe're seeing him move the needle relatively quickly there."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. Got a good deal. And then, I guess, maybe just remind us what percent of National Accounts contracts can be negotiation within the next 12 months versus those are kind of on a more multiyear cycle? Just trying to size the ability to really keep pace with inflation if things keep heating up here."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes. Chris, what I would say, most of our National Accounts are in a contract. Most of the times, there is an annual cycle. So while quarter to quarter it may be tricky to keep up precisely over the course of a year, it is something we are able to do.\nAnd what I would say is now so more than ever. Chris, this is a very different environment from what we've seen in past cycles. So customers understand if we talk about the need to open a negotiation on price, whereas the same customer that three years ago would have said go pound salt, there's more of a conversation now because of the environment."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. OK. That's helpful. And I guess if I could just sneak one more in here.\nJust we touched on it with e-commerce, but any update specifically on kind of the enhanced search, the transactional engine rollout? Just anything specifically on some of those new tools that are kind of helping the sales force today?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes. On e-commerce, the new search tool is in the market now. The new user experience is in the market now. So we've launched.\nAnd what I would say is those are constantly fine-tuned to get better and better. We rolled them out during our fiscal fourth quarter. So it's still pretty early. We did like -- so we have sort of the macro, the big metric we track is what are the percent of company revenues flowing through mscdirect.com.\nWe saw a nice tick up from Q3 to Q4. Underneath that, though, our e-commerce team, you can imagine they're measuring 10 ways until Sunday, basically measuring what we call top of funnel to bottom of funnel. Meaning for every visitor to the site, what percentage translates into orders, which is a gauge of effectiveness of the site. Early signs are positive there.\nAgain, still very early. Beyond search and user experience, we have new features coming out. Basically, through the first half -- at least to the first half of the fiscal, we'll continue to flow in. And we'll keep fine-tuning the ones that have already been rolled out like search and UX."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our last question comes from Pat Baumann from J.P. Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Pat Baumann",
+      "speech": "Hi, Erik. Hi, Kristen. Thanks for taking my questions here."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Good morning, Pat."
+    },
+    {
+      "speaker": "Pat Baumann",
+      "speech": "Good morning. You just mentioned, I think, the leadership change in National Accounts. I'm not sure if I missed this, but did you address the change in overall sales leadership that was announced earlier this month? Kind of interested in what drove the change? What is your responsibilities were at this point? How it impacts the transformation, if at all? And then also is the interim replacement kind of longer-term solution here?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Yes. So I didn't touch on it in the prepared remarks because we did have the press release earlier on in the month. Ed -- look, Eddie did a really nice job for us in sort of fine-tuning the sales playbook and driving execution. And so we really appreciate his contributions.\nThat said, I have to tell you, I'm really excited by Kim Schachler taking over. It's on an interim basis. But at the moment, I can tell you there's no search. Kim has been with us for 15 years, and another 15 years before that with J&L, which was a metalworking distributor we acquired.\nShe's one of the most well-respected people, not just in the company, but in the industry with the supplier community, especially. She's excited. I can tell you we've got thousands of people in the field between outside and customer care that are ready to run through a brick wall for Kim. And I think the punchline, Pat, what you can expect is no change in the playbook.\nI think the playbook that Eddie built with the team is the right one, Kim is going to take it and drive it, and I think rally the team around it."
+    },
+    {
+      "speaker": "Pat Baumann",
+      "speech": "Got it. OK. Helpful. And then maybe zooming out a little bit just on pricing.\nJust want to kind of perspective on how you view your current positioning, I guess, on piece price versus the industry? And what I mean by that is, are there any particular product or customer categories where you're less competitive in today that you think you might need to adjust over time in order to grow faster? And then just as a refresh, kind of what percentage of the portfolio today is spot buy versus what you're moving more toward the contract and solutions-based type of sales?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "So, Pat, I'll take it and start. First question on competitiveness of pricing. Look, I think the perspective we've always had at MSC is our goal was never to match market on price. And that doesn't mean we don't at times for large orders, etc., or for big customers.\nBut in general, our pricing philosophy is such that our goal is to help customers bring down their total cost. And if we got into a game of saying the piece price is where we win, we think that's a losing battle. And by the way, for our customers, what we share with them is the cost of the products that they're buying from us, industrial supplies, represent well under 10% of the total cost for a manufacturer. The two single biggest chunks are labor and materials.\nSo MSC has -- especially with this Mission Critical pivot that we've made, we've really aimed and pointed the lens at the 50%, 70% plus that's labor and materials and helping customers drive cost. To do that, we're investing like crazy in technical resources, in digital resources, in products, etc. We've got to be able to charge a premium or we can't afford it. So I feel good about our price position overall.\nPricing has become much more sophisticated in the world and inside the company. So we have a team that's constantly monitoring, and I would tell you, constantly fine-tuning. So what you'd hear from them is there's always areas that need to be tuned up or down. But in general, we feel good about our positioning.\nThere was another part to your question, Pat, and I think it had to do with the -- how the business is migrating?"
+    },
+    {
+      "speaker": "Pat Baumann",
+      "speech": "Yes, I guess I was wondering the percentage that today is kind of spot by oriented versus more solutions or contract-oriented?"
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "So I shared a metric in one of the responses. Sort of as we look at the sort of like the end state of where we're headed with this Mission Critical program, getting closer to customers, one way we get closer is by embedding not just our salesperson, but a solution inside the customer, whether that's an implant vending VMI. That percentage of business is in the mid-50s right now as a percent of total. That would be sort of one proxy.\nAnd then I think beyond that, if you look at where we have a relationship, and it's not just transactional, it would be where we have a salesperson calling on an account, be that an outside person or somebody via phone because that's where we're doing more than just providing a spot by service. That percentage of revenues is closer to 90."
+    },
+    {
+      "speaker": "Pat Baumann",
+      "speech": "Got it. Helpful. And then kind of more of a shorter-term question. The extra week you get in fiscal '22, does that -- would you normally get extra leverage out of that extra week? So is that -- I guess is the 20% incremental, is that just kind of on a normal 52-week basis? And then you have an extra week, which should let you get a little bit better than that?"
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Yes. So the framework is definitely on an ADS basis, and we're doing that because the inverse of what happens in '22, of course, happens in '23. So we'll continue to give the framework on an ADS basis, which is what the 20% incrementals are based on."
+    },
+    {
+      "speaker": "Pat Baumann",
+      "speech": "Helpful. OK. Thanks a lot. I appreciate the color and best of luck, guys."
+    },
+    {
+      "speaker": "Kristen Actis-Grande",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Erik Gershwind",
+      "speech": "Thanks, Pat."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I'd like to turn the conference back over to John Chironna for any closing remarks."
+    },
+    {
+      "speaker": "John Chironna",
+      "speech": "Thanks, Jason. Before we end the call, I'd like to give a reminder that our fiscal 2022 first-quarter earnings date is now set for December 22, 2021, that's roughly two weeks earlier than we typically report as we continue to drive efficiency throughout the business. With that, I'd like to thank you for joining us today, and we hope you enjoy a healthy and safe fall season. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 63 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "John Chironna--Vice President of Investor Relations and Treasurer",
+    "Erik Gershwind--Chief Executive Officer",
+    "Kristen Actis-Grande--Chief Financial Officer",
+    "Tommy Moll--Stephens Inc. -- Analyst",
+    "Ryan Merkel--William Blair -- Analyst",
+    "Mike McGinn--Wells Fargo Securities -- Analyst",
+    "Hamzah Mazari--Jefferies -- Analyst",
+    "Dave Manthey--Robert W. Baird & Co. -- Analyst",
+    "Adam Uhlman--Cleveland Research -- Analyst",
+    "Steve Barger--KeyBanc Capital Markets -- Analyst",
+    "Chris Dankert--Loop Capital Markets -- Analyst",
+    "Pat Baumann--J.P. Morgan -- Analyst"
+  ]
+}

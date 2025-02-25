@@ -1,0 +1,331 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by, and welcome to the VMware's Fourth Quarter and Fiscal Year 2021 Earnings Call. At this time, all participants are in a listen-only mode. Please be advised that today's conference is being recorded. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions]\nI would now like to hand the conference over to your first speaker for today, the Vice President, Investor Relations, Mr. Paul Ziots. Thank you. Please go ahead, sir."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you. Good afternoon, everyone, and welcome to VMware's fourth quarter and fiscal year 2021 earnings conference call. On the call, we have Zane Rowe, CFO and Interim CEO. Following Zane's prepared remarks, we will take questions. Raghu Raghuram, COO, Products and Cloud Services; and Sanjay Poonen, COO, Customer Operations, will join for Q&A.\nOur press release was issued after close of market and is posted on our website where this call is being simultaneously webcast. Slides which accompany this webcast can be viewed in conjunction with live remarks and downloaded at the conclusion of the webcast from ir.vmware.com.\nOn this call today, we will make forward-looking statements that are subject to risks and uncertainties. Actual results may differ materially as a result of various risk factors described in the 10-Ks, 10-Qs and 8-Ks VMware files with the SEC. We assume no obligation to and do not currently intend to update any such forward-looking statements. In addition, during today's call, we will discuss certain non-GAAP financial measures. These non-GAAP financial measures, which are used as measures of VMware's performance should be considered in addition to, not as a substitution for or in isolation from, GAAP measures. Our non-GAAP measures exclude the effect on our GAAP results of stock-based compensation, amortization of acquired intangible assets, employer payroll tax and employee stock transactions, acquisition, disposition, certain litigation matters and other items as well as discrete items impacting our GAAP tax rate. You can find additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP measures in the press release and in our Investor Relations website.\nThe webcast replay of this call will be available for the next 60 days on our company website under the Investor Relations link. Our first quarter fiscal 2022 quiet period begins at the close of business, Thursday, April 15, 2021.\nWith that, I'll turn it over to Zane."
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Thank you, Paul, and thank you to everyone for joining us today. We realize you're used to hearing Pat's voice as we start these quarterly conference calls. I want to thank Pat for his leadership, which helped put VMware in a position to execute on our strategy and drive long-term value. Pat is a true partner and a friend, and of course, will still be a VMware Board member.\nWe're pleased with our Q4 financial performance, as it was a good finish to the fiscal year. Q4 total revenue increased 7% year-over-year, with non-GAAP EPS up over 8%. We finished fiscal 2021 with $11.8 billion in total revenue and non-GAAP EPS of $7.20 a share.\nThis past year was one of unprecedented disruption and uncertainty, and we're proud of what the team accomplished. As we quickly adapted to a distributed workforce, we helped our customers accelerate their work-from-anywhere journey and their application and cloud monetization initiatives. We're seeing customers continue to choose VMware to help them deliver the digital foundation to power their apps, clouds, security and user experiences. Large global customers continue to align and partner with us, and the nature of our strategic relationships with our largest customers continues to grow.\nIn Q4, we closed deals with significant aerospace and telco customers and saw particular strength in the financial sector, including wins with HSBC and Wells Fargo. We see financial services customers utilizing a combination of franchise solutions, ranging from modern apps and cloud infrastructure, to networking in our digital workspace offerings. We also continue to see momentum with key communication service providers, such as NTT DOCOMO and Telia increasing their focus on VMware solutions, as well as new and expanded contracts with additional Tier 1 communication service providers globally.\nIn the retail sector, a large customer that's standardized on our technologies in their private cloud is leveraging VMware as a platform for their cloud migrations, while also investing in edge cloud infrastructure and using Tanzu for containers in their retail edge locations. We see this as a repeatable use case for other retailers, along with other e-commerce app development use cases, retailers are building on top of Tanzu.\nOur work with life sciences and healthcare customers is enabling their critical apps to run on our hybrid cloud and is helping to secure their user devices for employees working from anywhere. In addition, our partner ecosystem is driving momentum for VMware solutions. We're expanding the reach of our solutions through key strategic partnerships from our VCPP partners to hyperscalers, to system integrators. For example, earlier this month, we announced an expansion of our partnership with Accenture, resulting in the launch of their dedicated VMware business unit. The group will bring together approximately 2,000 professionals across a variety of industries with expertise in hybrid cloud and cloud migrations, cloud-native and application modernization, as well as security. We also recently formed a joint innovation lab with Lumen, designed to drive edge computing, security and secure access service edge or SASE for customers in a number of industries.\nLooking at the broader portfolio, we continue to further our multi-cloud strategy and are seeing traction as customers align app requirements to the cloud of their choice, whether it's private, hybrid or public. This quarter, we expanded our resell program with AWS to include additional VMware technologies and services such as VMware Cloud, Disaster Recovery and vRealize. Additionally, VMware Cloud on Dell EMC, a Dell Technologies cloud service from VMware expanded to the EMEA market with immediate availability in the UK, Germany and France.\nWe continue to deliver on innovation with Tanzu. With the announcement of general availability of Tanzu Advanced edition, we now have three Tanzu additions in the market; Basic, Standard and Advanced. Each addition is targeted at a common customer challenge of modernizing infrastructure and applications. Tanzu Advanced includes all the capabilities that enterprises need to embrace DevSecOps and manage complete container life cycle. We continue to see strong positive reception to all three Tanzu additions.\nWe also added container security to VMware Carbon Black Cloud, leveraging technology from our recent Octarine acquisition to provide visibility into on-prem and public cloud Kubernetes clusters. Our NSX portfolio offers a comprehensive set of L2 to L7 capabilities, implemented completely in software. We recently released the latest version of NSX, which included enhancements across routing, identity firewall, load balancing and cloud. In FY '21, VMware was recognized by top industry analyst firms as a leader in 13 key reports across cloud management, networking, hyperconverged infrastructure and end-user computing.\nIn November, Forrester named VMware a leader in the Forrester Wave Hybrid Cloud Management Q4 2020. More recently, we were named a leader in December's 2020 Gartner Magic Quadrant for Hyperconverged Infrastructure Software. And in January, VMware was positioned as a leader in three IDC Marketscape reports related to the end-user computing space, including the Worldwide Unified Endpoint Management Software 2021 Vendor Assessment.\nFrom a broader corporate perspective, I'm personally pleased to highlight that we recently unveiled our 2030 agenda, which encapsulates how we will drive ESG goals into every aspect of our business. Our 2030 agenda is integrated into the business and is focused on three business outcomes; trust, equity, and sustainability. Recently, we also performed well in the areas of sustainability, earning the distinction of being included in the 2020 Dow Jones Sustainability Index among the world's leading ESG benchmarks.\nNow, let's move to more detail on our business performance as well as our forecast. In Q4, the combination of subscription, SaaS, and license revenue grew 8% year-over-year to $1.721 billion. We saw large enterprise demand strength throughout the quarter, which allowed us to close a record 35 deals over $10 million. This was balanced with good performance in our commercial business as well. Subscription and SaaS revenue increased 27% year-over-year for the quarter, with strong growth in our VMware Cloud Provider Program, end-user computing, Carbon Black, and VMware Cloud on AWS offerings. We continue to invest and expect to see further growth in this important area for us in FY 2022 and beyond. Our focus is on scaling existing offerings as well as adding new solutions. VMC on AWS once again had a great quarter, with both workloads and revenue nearly doubling year-over-year as we continue to expand functionality and use case adoption.\nAs of the end of Q4, ARR for subscription and SaaS was $2.9 billion, an increase of 27% year-over-year. License revenue for the quarter declined 2% year-over-year to $1.014 billion. Now, this was better than expected as we had a strong deal closure rate throughout the quarter. Non-GAAP operating income increased 8% year-over-year in Q4 to $1.133 billion, primarily driven by better-than-expected revenue growth. Non-GAAP operating margin for the quarter was 34.4%, with non-GAAP earnings per share of $2.21 on a share count of 423 million diluted shares. We ended the quarter with $10.3 billion in unearned revenue and $4.7 billion in cash, cash equivalents, and short-term investments.\nCash flow from operations for fiscal 2021 was $4.4 billion, which was well ahead of our expectations. Q4 cash flow from operations was $1.324 billion and free cash flow was $1.242 billion. Now, this strength was primarily due to our emphasis on closing certain deals prior to calendar year-end, which resulted in receiving the associated cash in FY 2021 rather than FY 2022. In addition, we benefited from early collections and advanced payments from partners and customers as well as certain other expenditures which were lower than expected in FY 2021.\nWith subscription and SaaS becoming a larger share of total revenue, we're now providing our end-of-period total and current RPO. For Q4, RPO was $11.3 billion, up 10% on a year-over-year basis and current RPO was $6.2 billion, up 12% year-over-year. Total backlog was $93 million, substantially all of which consist of orders received on the last day of the quarter that were not shipped that day and orders held due to our export control process. License backlog at quarter-end was $23 million.\nOverall, our product portfolio performed well in Q4, with customers continuing to purchase solutions that contain multiple products. Core SDDC product bookings increased 12% year-over-year in Q4, highlighted by strength in our vRealize management offerings, which are now available both on a perpetual and SaaS basis. Compute product bookings also performed well, growing in the low single-digits year-over-year.\nNSX and vSAN had single-digit year-over-year declines, which was an improvement for both versus Q3 of FY 2021. These two technologies continue to be further integrated into our broader solutions. Three quarters of our EUC product bookings are now SaaS. EUC's ACV SaaS growth rate was 30% year-over-year in Q4, driven primarily by Horizon and our initiatives related to anywhere workspace. Given our focus on SaaS ACV, EUC product bookings decreased in the high-single digits year-over-year. Carbon Black Cloud once again grew in the high-double digits year-over-year, and we continue to make progress in expanding our endpoint and workload protection capabilities and delivering intrinsic security value to our customers.\nOur Tanzu portfolio exceeded expectations and had a strong attach rate in eight of the top 10 VMware deals in Q4. In Q4, we repurchased 2.7 million shares in the open market at an average price of $140 per share. At the end of Q4, we've utilized over $1.4 billion from our current repurchase authorization of $2.5 billion.\nTurning to guidance for fiscal 2022. We expect total revenue of approximately $12.700 billion or a growth rate of 8%, which is consistent with the early outlook provided on our last call. We expect to generate approximately $6.300 billion from the combination of subscription of SaaS and license revenue or an increase of 12% with approximately 55% of this amount from subscription in SaaS. We expect non-GAAP operating margin of 28% with non-GAAP earnings per share of $6.68 under diluted share count of 422 million shares.\nAs I mentioned earlier, we had very strong cash flow from operations in Q4 due to a number of initiatives that resulted in exceeding our cash flow guidance by over $650 million. While we're extremely pleased with this result, the bulk of this over-achievement was accelerated from our upcoming fiscal year. Taking that into account for FY 2022, we currently expect cash flow from operations of $3.8 billion and free cash flow of $3.42 billion. On a normalized basis, taking into account the acceleration of cash into FY 2021, cash flow from operations would be roughly flat on a year-over-year basis for FY 2022, in line with our operating performance.\nFor Q1, we expect total revenue of approximately $2.910 billion or a growth rate of 6%. We expect approximately $1.320 billion from combined subscription and SaaS and license revenue in Q1, an increase of 7% year-over-year, with over 55% of this amount from subscription and SaaS. Our expected growth rate for Q1 license revenue was impacted by continued growth in subscription and SaaS and the strength we saw in Q1 last year. We expect non-GAAP operating margin of 27.5% for Q1, with non-GAAP earnings per share of $1.49 on a diluted share count of 422 million shares.\nIn closing, we're pleased with our Q4 performance, the improvements we're seeing in the macro environment, and are expanding opportunities to engage with our customers and partners. We're committed to executing at scale as we continue to build our subscription and SaaS business and invest in our future growth, while delivering technologies and solutions today that help our customers and partners with their digital transformations.\nBefore we go to questions, I'm pleased to tell you that we are making progress on the potential spinoff of VMware from Dell. While our special committee of Independent Directors continues to evaluate the spin-off, we believe that it could be value-enhancing to VMware and its stockholders. We will not be commenting further on these discussions until there's more definitive news to share.\nWith that, I'll turn it back to Paul for Q&A."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thanks, Zane. Before we begin the Q&A, I'll ask you to limit yourselves to one question consisting of one part, so we can get to as many people as possible. Raghu and Sanjay are joining us now for Q&A. Operator, let's get started."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, Paul. [Operator Instructions] Our first question will come from the line of Raimo Lenschow. The line is now open."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "speech": "Hey, thanks for taking my question and congrats on a great finish to the year and I do miss Pat as well. Quick -- my question was on vSAN and NSX. Those were obviously growth areas for you in the past. They're now suffering from the pandemic, but it looks like it's getting a little bit better. Can you just talk a little bit what you're seeing there in terms of how this gets impacted and how this acts when we're coming out of the pandemic? Thank you."
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Sure, Raimo. Yeah, happy to talk about that and maybe ask Raghu to add in a few comments afterwards. As anticipated, we did see continued COVID impact, most particularly on the transformational deals in Q4. Even as you pointed out, we had a great quarter, and the performance suggests that there is some recovery in this area. I will point out, we had, as I mentioned on the prepared remarks, 35 deals with $10 million and over versus 28 a year ago. And within those deals last year, we're fortunate to have what we'd call sort of our Uber deals, which are extra-large deals that clearly had an impact on both NSX and vSAN. We also had some tough compares. So, NSX was up 21% last year. Year-over-year, vSAN was up 15%. So, when you think about those transactions, if you exclude the really large transactions, NSX was actually up incrementally on a year-over-year basis. So overall, we're pleased with both where we are in the incremental basis as well as year-over-year for both those products.\nAnd then, Raghu, maybe an opportunity to talk a little bit more about NSX in particular?"
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Absolutely. Raimo, as you know, we greatly expanded our NSX portfolio that offers a complete set of Layer 2 to Layer 7 services and software, notable among them where are our load balancing capability, our advanced threat protection suite that we introduced for IDS, IPS, and East West security, in general, and, of course, our VeloCloud. All of those businesses did really well and we are pleased with the growth of those businesses. And so that's the one aspect of the NSX growth. The other aspect of NSX growth is NSX is also becoming the underlying network for modern applications and container workloads and those used cases did really well for NSX. And then last but not the least, increasingly, NSX is part of our cloud solutions, and we had some benefit there as well."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "speech": "Okay, very good. Thank you."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Raimo. Next question please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from the line of Phil Winslow. The line is now open."
+    },
+    {
+      "speaker": "Phil Winslow",
+      "speech": "Hey, thanks guys for taking my question and congrats too on a strong close of the fiscal year. I just wanted to focus in on Tanzu, in particular. As Zane mentioned, eight of the top 10 deals that you attached Tanzu. Question is, can you just talk about the momentum that you're seeing in Tanzu coming into this coming fiscal year? Obviously, you talked about some transformative deals having been pushed out over the prior quarters. Do you think we're starting to see these transformative deals come back because obviously, Tanzu would probably fit into that bucket?"
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Yeah, we are Phil. It's a great question and thanks for mentioning it. As you pointed out, we're very pleased with our Q4 Tanzu performance. We see good momentum there, and the team exceeded our expectations across a number of fronts. As you pointed out, we had eight of our top deals -- eight of our top 10 deals in the quarter include Tanzu and we saw strength in verticals in Telco, Finserv, life sciences, healthcare that are all embracing the Tanzu platform. So we're very pleased with it. We think we've got good momentum. We're actually -- we just GA-ed Tanzu Advanced.\nAnd maybe, Raghu, if you want to dig into that a little bit more, I think that would be helpful here, too."
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Sure. So, our efforts in Tanzu are around two axis. One is to win new customers, especially in the Kubernetes ecosystem and second, renew and expand the customers that were part of the Pivotal family. So in the new customer acquisition arena, we've been steadily introducing new product innovations in the Kubernetes ecosystem. We started with Tanzu Basic, which embedded Kubernetes into VCR. And then we introduced Tanzu Standard, which provides for multi-cloud management of Kubernetes clusters and usually, it goes along with the VMware Cloud Foundation.\nAnd then as Zane just said, last quarter, we introduced Tanzu Advanced. And Tanzu Advanced has three value propositions. And the first one is, it provides for management of the complete container life cycle. Second is, it allows enterprises to embrace the DevSecOps model of software development. And then the third is it accelerates code to production, which is especially critical in -- when customers are building their digital applications.\nAnd Tanzu Advanced is a pretty unique offering in the marketplace. Gartner classifies about 12 capabilities that are needed for a modern DevSecOps framework and the container ecosystem. Tanzu Advanced has 11 of those with the 12th one coming in the first half of this year. So the first thing to note about Tanzu Advanced is it's a very comprehensive offering across both the infrastructure and the application development layers and it plays to the areas that we have traditionally been very strong in, things like networking and resource management and so on and so forth.\nThe second thing to note about Tanzu Advanced is it is modular. So, customers can pick and choose the elements that they want. It's not like they have to swallow all of it at one shot. And so they can choose best-of-breed. And the third, of course, is it's very well integrated with vSphere, especially for customers that are starting from a vSphere base and it is multi-cloud. So it's a very comprehensive offering in that regard, and that's why customers are excited about that and we hope to do a lot of business with it."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Phil. Next question, please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from the line of Matt Hedberg. Your line is now open."
+    },
+    {
+      "speaker": "Matt Hedberg",
+      "speech": "Hey, great. Thanks for taking my question guys. I had a question about the SolarWinds breach and perhaps the impact on your security business. I know it's -- I think it's kind of at or near the run rate of $1 billion. Just kind of curious on Carbon Black, so any benefits or just sort of the broader thoughts on security transformations in sort of the post-Sunburst world? Thank you."
+    },
+    {
+      "speaker": "Sanjay Poonen",
+      "speech": "Thank you, Matt. This is Sanjay Poonen. Yes, I think it's a wake-up call for security overall. And certainly, it's become a Boardroom topic, as we talk to Chief Security Officers. As you know, we now have a much more comprehensive zero trust security platform. And we found, certainly, it allowed us to have a more -- discussion we have these sort of rules of cyber hygiene, where we could tell them about everything they need to do from multifactor authentication and identity management Workspace ONE, to micro segmentation with NSX, to all of the endpoint and workload security of Carbon Black.\nSo that comprehensive story, that is zero trust, really allowed us to now have much more strategic conversations as the role of the Chief Security Officer became more important in the last 30, 60 days without, of course, being ambulance chasing. And behind that, we were able to then sell elements of it. You heard from Zane's prepared comments about Carbon Black Cloud had high double-digit growth and is now over 25,000 customers. We're excited about that. The good innovation that Raghu talked about with NSX, a lot of that is security capabilities. And then of course, Workspace ONE continues to deliver in a work-from-anywhere environment where security is paramount."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Matt. Next question, please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from the line of Kash Rangan. The line is now open. Kash Rangan, the line is now open."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Okay. I think, we'll move on to the next question?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question will come from the line of Walter Pritchard. Your line is now open."
+    },
+    {
+      "speaker": "Walter Pritchard",
+      "speech": "Hi, thanks. Zane and Sanjay, I guess I'm wondering, as it relates to your articulation around the subscription transition, you've gone through sales kickoff and you're further -- you're getting into a new year here. I'm curious sort of what you're charging the sales force with around pushing vSphere on a subscription basis. And I know, Zane, you mentioned you'd have that, at least to some degree, in the numbers as you guided for the year initially, and you didn't change that. But just an update there would be helpful, I think, for folks. Thanks."
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "We're just pleased you're not asking a security question. We continue to focus on our sub and SaaS growth. As you know, we're a week away from our sales kickoff. We are very comfortable with the transition that we're making and the growth that we're seeing in our sub and SaaS portfolio. I highlighted we grew 27% year-over-year in the fourth quarter, comprised 22% of our total revenue. So we're excited about the opportunity. We're excited about what FY 2022 will bring. We've guided to 31%, if you look at the guide for FY 2022, which will be a nice increase. We think the portfolio within that is growing nicely And the sales teams are candidly doing a great job as we work with our customers, too, to meet their need and to grow the portfolio.\nSanjay, I don't know if you want to talk a little bit more about the comp structure there?"
+    },
+    {
+      "speaker": "Sanjay Poonen",
+      "speech": "Yeah. Very briefly. Next week is our sales kickoff, and what we're emphasizing to them is obviously to go where the customer is going. So as you think about the move toward cloud, it's private cloud, public cloud and edge cloud and we're going to go where the customer is. If there's appropriate deployments on-premise, we'll orient to that. And especially in the edge, we saw with some of those use cases, but certainly, there's an orientation toward cloud and that will accelerate subscription and SaaS. We've also seen good success with some of the places where we have some of these flexible offerings already. vRealize SaaS has some of those capabilities, now Horizon. And that is giving the reps early taste of how we can orient our discussion toward some of those SaaS offerings and bring those flexible universal type offering. So you'll hear more about that from us in the coming months."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Walter, and good luck in your next endeavor. Next question please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question will come from the line of Shannon Cross. The line is now open. Shannon Cross, the line is now open."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Okay. We'll go to the next question then."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question will come from the line of Mark Murphy. The line is now open."
+    },
+    {
+      "speaker": "Matt Coss",
+      "speech": "Hi, good afternoon. This is Matt Coss on behalf of Mark Murphy. I'll add my congratulations for this quarter. I'm wondering if you could let us know, over the past year, where have you specifically seen areas of under investment in private clouds? And where might we see some of this investment come back or snap back in this fiscal year?"
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Yeah. So this is Raghu. From your question, it was not clear whether you're talking about VMware's investment or the customers' investment. I'll try to touch upon both. VMware, we are super excited by, obviously, the full private cloud stack, and that's indeed one of the ways we distinguish ourselves in the marketplace. And over the last year, as you saw in the prepared remarks, our investments in management, our investments in network security and our overall private cloud investments have paid off really well.\nFrom a customer point of view, as Sanjay just mentioned, customers think about their cloud spending in -- certainly in the data center, but also increasingly the edge. But if you step back and look at it, the way customers look at it is they very often adopt what we call a 2-plus-1 or a 2-plus-2 strategy. What I mean by that is they look at their applications and deploy them across two public clouds, a private cloud and an edge cloud. And then the question becomes, how do you modernize your applications on the cloud of your choice? How do you migrate the applications to the cloud of your choice? And how do you manage all of these things together? And that's where our portfolio is focused on. So with VMware Cloud, for example, we can help customers. Historically, we have helped customers migrate to the cloud faster than any other mechanism, 47% faster and 57% cheaper. With our Tanzu portfolio, we can help our customers modernize their application portfolio and in the enterprise, the majority of application are Java and Spring and we provide the fastest path to modernization across the private cloud and the public cloud. And as I said earlier, you can pull it all together and manage it all together as one overall application and infrastructure estate.\nAnd last but not the least, our investments in security, we are focusing on investing in protecting the workload, whether it's a workload on a vSphere-based platform with Carbon Black workload, a workload on a container with altering technology and in the future, workload running natively on AWS. So the answer to your question is, customers look at this as a continuum between private cloud, public clouds and edge. And they would like to be build, run, manage, connect and protect their applications across all clouds and then of course, deliver it to all devices. So that's really how customers are looking at it, and that's where our roadmap is pointed at."
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Hey Matt, I would just add, as you look at our guide for FY '22 and if you were to think about sort of the on-prem piece and where we are with our license guide, if you were to take a look at two elements that we're moving toward SaaS, when you think about the return on investment on that on-prem business, if you looked at just what we're doing with vRealize that Raghu mentioned as well as EUC and you converted that back into sort of an on-prem basis, you would actually see positive growth for our on-prem license business into FY '22. So while we've guided slightly negative, it's not a reflection of our investment going into that business, all the returns we're getting in that business actually with our push toward sub and SaaS, it probably masks some of the growth that we see within that business. So we continue to invest in it and see a great opportunity ahead for that as well."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Matt. Next question please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question will come from the line of Mark Moerdler. The line is now open."
+    },
+    {
+      "speaker": "Victoria Cardenas",
+      "speech": "Victoria Cardenas on for Mark Moerdler. Thank you guys for taking my question. Could you provide any color on what you're hearing from IT organizations about demand for core server virtualization given the current demand environment?"
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Sure, yeah. I'll start and then let Raghu add on the service side. Obviously, what we saw in Q4 was highlighted by what we saw with our core SDDC product strength, which, as I mentioned, was up 12% year-over-year. We saw strength in our vRealize management offerings, as well as the compute products that performed really well on a year-over-year basis. Compute was actually up slightly positive which was, I think, a surprise to many. Our multi-cloud offerings such as VCPP, cloud management, VMC on AWS contribute to this core SDDC growth, which I think is at least somewhat synonymous as you were thinking about where you are with servers and the question you had on compute.\nRaghu, maybe if you want to touch a little bit more on the demand that you --"
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Yeah. So server virtualization typically has been a function of the workloads that are being introduced into these environments. Clearly, historically, we have done really well in traditional enterprise applications. Over the last couple of years, customers are increasingly adopting what we would call cloud-native architecture applications, applications built using micro-services and containers and so on, running on top of vSphere. And as Sanjay pointed out, we are seeing virtualization, not the edge. And in previous calls, we've also pointed out how the core telco network is getting virtualized. They're going on a journey, just like IT did, from physical to virtual and then from virtual to cloud, extending all the way into the radio access network. So the breadth of the workloads that virtualization can handle is continuously evolving and expanding and that's what's fundamentally driving server virtualization business."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Victoria. Next question, please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from the line of Shannon Cross. Your line is now open."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Thank you very much and I apologize, I was juggling a different call and missed it. So anyway, apologize for that. Can you just talk a bit about what's going on with the 5G telco cloud? And just in general, what you're thinking about 5G and the opportunity for VMware? We've definitely started to hear from others who are working around -- working with the providers that they're starting to see a ramp. So I'm just curious how we should expect that to roll through your numbers. Thank you."
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Yeah. I'll take that question, Shannon. So this past quarter, we saw continued momentum with Tier 1 global service providers and 5G. The 5G architecture was one of the big considerations in them, selecting VMware. And as I said a few minutes ago, our customers -- the telco customers are on a journey to go from -- in their core network from physical to virtual and now virtual to cloud, and our offerings have matched the customer needs there. And we have introduced the telco cloud platform with an automation layer and an operations layer.\nThe next step beyond core network virtualization is the radio access network. And in the radio access network, it's fundamentally a couple of disruptive trends that are happening. One is the radio access network being delivered as disaggregated components, delivered increasingly in software, running on virtual machines or containers running in a virtualized framework. And then this is the first step. And then the next step is, of course, open standards here. In fact, if there is any industry segment that -- where open source and open standards matters a lot, it's obviously in the 5G arena. So that's where VMware is -- that's where customers that are selecting VMware are most interested in our roadmap. And we are fast becoming the operating system for 5G providers and we have had a number of wins in this area."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Shannon. Next question, please?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question will come from the line of Keith Weiss. Your line is now open."
+    },
+    {
+      "speaker": "Sanjit Singh",
+      "speech": "Thank you for taking the question. This is Sanjit Singh in for Keith. My question is really around the composition of growth. And the last time when VMware was going through some of a market transition, you really had NSX, EUC, vSAN and VCPP really power and anchor a pretty impressive acceleration from 2016 to 2018 and 2019.\nAnd as we come out of COVID, I wanted to get the key view on what the anchor products are going to be, including NSX, like who's going to sort of lead the charge? And are those products of material scale today to drive that dollar growth in terms of driving that overall [Indecipherable]? So If you can sort of take the picture of how you expect to trend over the next two years from a product portfolio perspective?"
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Sure. Yeah, I'm happy to start and then have Raghu maybe dig into some of the opportunities within those products. I mean, obviously, we feel very good around our sub and SaaS portfolio and Raghu went through sort of all the components of that, that we believe will drive growth for many years to come and are quite pleased with the 31% growth that we're expecting in FY 2022, and obviously, sizable growth beyond that.\nWe are focused on app and cloud modernization. And you've heard us talk about Tanzu and we believe that and how that integrates with our cloud portfolio is going to drive significant upside for us and significant growth for us. We also talk more about stack. So you're going to hear us talk more about whether it's VMC on AWS or just the VMware Cloud and that's probably the area that I would identify as the integrated nature of this in our five franchises that we've been talking about over the last number of quarters now, all as being key drivers to growth as well as the work we've been doing with intrinsic security to form a wrapper around all that. So we're pleased with the portfolio now more than ever before and how it's integrated and how it's working together.\nBut I'll have Raghu maybe give a couple of highlights as he sees the product set as well."
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Absolutely. So I would talk about our portfolio in two halves, if you will. One is addressing customers' drive toward application modernization. A big part of application modernization, of course, one is modernizing the application estate, the other is moving to a cloud. And our VMware Cloud offerings, which are now present across all the hyperscalers and other cloud providers, as well as on-premise and the Tanzu offerings, both of them are maturing and we are bringing them together, along with our management portfolio into something that we are calling as VMware Cloud. And this combination of Tanzu plus the core VMware Cloud Foundation delivered as a service plus management addresses a secular need from the customer base in terms of their application modernization and migration journey and to be able to manage all of that together. So that's going to be one driver of our growth.\nLooking at the other side of the puzzle is our customers increasingly coming to the conclusion that most of their employees, even post-COVID, a significant portion are going to continue working from home. And if you look at the work-from-home environments for most of our enterprises today, it's fairly ad hoc. It has not been architected taking into consideration the needs for security, performance, end-user experience, IT manageability, etc. So what we have done is we have bought all the components necessary for a great work from anywhere experience for both IP and end users by bringing together Carbon Black, our end-user computing portfolio, and our SD-WAN Velo portfolio along with VMware SASE announcements, put them together as a solution and we think that is going to drive significant customer interest and growth as well. So these would be the two pillars that our sales force will be taking to market in a big way this year."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Sanjit. Next question please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question will come from the line of Brent Thill. The line is now open."
+    },
+    {
+      "speaker": "Parthiv Varadarajan",
+      "speech": "Thanks guys. This is Parthiv on for Brent. Zane or Sanjay, can you speak to the assumptions that you're embedding into the 8% revenue growth guide for fiscal 2022 relative to last year? Just in terms of sales cycles, close rates, expansion rates on the SaaS side, any color there would be helpful?"
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Sure. Yeah, I'm happy to start, and then I'll hand it over to Sanjay. As I pointed out earlier, we're expecting 31% growth in our sub and SaaS portfolio. We're fortunate to have great renewal rates, which continue. We also have, I'd say, good duration with our EAs and obviously saw significant EA growth above $10 million spend in the fourth quarter. So we would expect those natural trends to continue through FY 2022. We've got a number of products within that sub and SaaS portfolio that have been performing really well. VCPP had one of its best quarters ever in the fourth quarter and we see that trend continuing. We're also very pleased with the work that's going on with VMC on AWS, both on our side and with AWS as a reseller there. So we're very encouraged by the opportunity set we see there. And candidly, with much of our sub and SaaS portfolio, we think there's a great opportunity ahead.\nSo, Sanjay, I don't know if you want to dig a little bit more and talk a little bit from the customer lens what you're seeing."
+    },
+    {
+      "speaker": "Sanjay Poonen",
+      "speech": "Yeah. I think, as we kind of translate, and hopefully, there's a gradual recovery in the economy, I think those two portfolio elements that Raghu built-on is kind of what we're reinforcing to our sales force. If you think about the app modernization and cloud migration, that should drive subscription and SaaS, led by Tanzu. We almost think of Tanzu like a magnet that pulls the full cloud foundation, software-defined data center underneath it. And that could then be deployed in private cloud, public cloud or edge cloud. We feel that, that should drive subscription and SaaS, but we can certainly hold our own whenever a customer is looking to spend on-premise in a private cloud.\nAnd the second is a workspace and security dialogue. And that should also be driven very much by subscription and SaaS, because Workspace ONE, Carbon Black, the secure access service edges are very subscription and SaaS. So that's the organizing element that led to that 31% subscription and SaaS growth that Zane talked about. But we certainly don't want the feel to feel like it's a student body right, and customers aren't investing in areas like edge or private clouds, where there will be appropriate spending on-premise."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Parthiv. Next question, please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question will come from the line of Kirk Materne. Your line is now open."
+    },
+    {
+      "speaker": "Stewart",
+      "speech": "Hi. This is Stewart [Phonetic] calling on behalf of Kirk. And thanks for taking the questions. I wanted to ask about VMware Cloud. So there's clearly great traction, given the prepared remarks on doubling revenue and workloads year-over-year on VMware Cloud and AWS, the strong established partnerships with all the hyperscale cloud vendors. When you think about your growth here, are VMware cloud customers actively expanding their presence on the platform or is the ARR growth more of a function of bringing on net new customers? And are you able to give any color on what portion you see as longer-term customers or partners versus how many of them you believe would potentially look to lift and shift or refactor workloads for the public cloud in the long run? Thank you."
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Yeah. Let me start. The answer to the first part of your question is the workloads growth in -- on the VMware Cloud and AWS platform is coming from both the axis that you talked about. One is existing customers expanding and, in fact, expanding at a considerable rate after -- once they get used to the platform. And then, we are also acquiring new customers. Our partnership with AWS, both on the product side and on the go-to-market side is helping us greatly in this and the resell relationship is working very well.\nIn terms of the workloads themselves, we see both categories where workloads are being brought as is, as well as workloads that are being brought in for modernization. One of the great benefits and unique benefits of the VMware Cloud architecture is you can bring a workload in and you can refactor and run it on top of the Tanzu stack or even the OpenShift stack on top of VMware Cloud and have it connect to all the native cloud services. For example, if this was VMware Cloud and AWS, the workload running on VMware Cloud and AWS could use Aurora or Redshift or any of the other AWS services.\nSo this provides a great environment where customers can take their entire enterprise portfolio and bring it on to one platform. And none of this transformation happens overnight. So, for a significant period of time, they will always have a lot of workloads on-premise, a lot of workloads in the cloud. And now we can tie it all together with a common management and security layer. That really is the value proposition. And by the way, I use VMware Cloud and AWS, as an example, and that's our preferred partnership and our preferred platform. Of course, we can do the same thing with the other hyperscalers as well. And with the other hyperscalers, that business is in its infancy, but we are seeing very robust pipelines and a lot of excitement and a great working relationship there as well."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Stewart. Next question please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question will come from the line of Keith Bachman. The line is now open."
+    },
+    {
+      "speaker": "Keith Bachman",
+      "speech": "Hi, thank you very much and congratulations on a very strong set of results. I wanted to go back to Tanzu, if I could. And Raghu, thank you for that description on the three levels. And my question is, A, is Tanzu in your mind a part of pull in the portfolio or -- and/or is it a revenue generator? And B, is there any metrics that you anticipate given this year on Tanzu adoption? And what might those metrics include? Many thanks."
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Yeah. I'll answer the first part and then Zane can talk about the second part of the story. So Tanzu for us is all of the above is short answer. We absolutely see it as an independently significant and massive market, which is the market for customers doing their digital transformation and building new applications are refactoring and modernizing their existing applications and we are very unique in that market in terms of both the breadth of our portfolio as well as the fact that we are multi-cloud. And of course, we run really well on top of vSphere. So, that's the first part of the answer to your question.\nAnd of course, customers never run infrastructure for its own sake, right? They always want infrastructure in order to run applications. And the more our platform does better with supporting Tanzu, the more differentiated our infrastructure platforms will be. So it definitely will pull in our infrastructure story as well. And then last, but not the least, Kubernetes is an industry phenomenon. It's turning out to be the cross-cloud portability layer in many respects. And so we are investing very heavily as part of the Tanzu portfolio in providing the world's best Kubernetes management and control regardless of which Kubernetes platform you may be running on. And so it's a strategic benefit to us. It's a revenue generator, and it pulls in the rest of our platform."
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Hey Keith, it's Zane. So just to add to that, I thought, Raghu actually took the easier side of that question. We will continue to give you more information as we find it beneficial. I mean, as Raghu said, it's both of the above. It's very strategic and, we believe, is a great revenue and bookings producer for us as well. So it's part of our strategy. And with that, you'll hear us talk more about customer accounts and other sort of relevant statistics as the product grows and as we grow in adoption and as we continue to make exciting announcements within that product portfolio. So, more to come on that front, Keith."
+    },
+    {
+      "speaker": "Keith Bachman",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Keith."
+    },
+    {
+      "speaker": "Keith Bachman",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Keith. Next question please."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question will come from the line of Ben Bollin. The line is now open."
+    },
+    {
+      "speaker": "Ben Bollin",
+      "speech": "Good evening, everyone. Thank you for taking the question. Could you talk a little bit about the relationship with Lumen? And in particular, how you view your strategy with SASE as differentiated versus the rest of the market?"
+    },
+    {
+      "speaker": "Sanjay Poonen",
+      "speech": "Yeah. I'm happy to take it. Lumen is the former CenturyLink, and we were excited to announce a strategic relationship with them. And it really covered three areas. Number one is edge computing, because we see as compute, storage, networking moves to the edge, these sort of service providers, telco/service providers are very interested in working with us, and it builds on the 5G comments that Raghu and Zane talked about.\nThe second is work-from-anywhere, and they see a tremendous proposition of our VMware portfolio around Workspace ONE, inclusive of Horizon, tying into secure service edge. We made some very strategic announcements in VMworld around that. So that's going to be a very key part to their portfolio. And the third was security, particularly Carbon Black for protecting endpoints and workloads. We're going to form with them a joint innovation lab, where we will take these solutions jointly to market and it's a very, very exciting type of partnership. And we're seeing this type of partnership emerge with other service providers and many telcos as they have a B2B arm that wants to then service our enterprise customers given these big moves in the industry of 5G and security."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Ben. I think we have time for one more question, so let's take the last question."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "All right. Our last question will come from the line of Robert Majek. The line is now open."
+    },
+    {
+      "speaker": "Robert Majek",
+      "speech": "Great. Thanks. A theme I keep hearing about is infrastructure automation, which ties in well with your recent SaltStack acquisition. Can you just expand on how VMware benefits from IT automation and where you stand at integrating the SaltStack acquisition?"
+    },
+    {
+      "speaker": "Raghu Raghuram",
+      "speech": "Yeah. We are very excited by the Salt -- interest in Salt among our customer base. And overall, if you think about our management portfolio, there is an operations piece called vRealize operations and an automation piece called vRealize automation, and the role of vRealize automation and products like that in the industry is to automate the setup of infrastructure to meet the needs of applications and application developers. So if you think about one of the reasons why cloud is so attractive to application developers and application development teams is you can instantaneously set up the right infrastructure for the application and either expand it elastically or shrink it etc. The magic behind all that is what is called automation software. And this has been an area ripe with industry innovation for a number of years now. SaltStack happens to be one of the most popular open-source automation frameworks. It's been around for multiple years, and it has a very, very broad adoption, both for automating pieces of infrastructure as well as automating the setup and configuration of applications.\nWe are in the process of integrating SaltStack with the rest of our vRealize automation to deliver an integrated automation environment that helps our IT teams, our customers' IT teams and DevOps teams regardless of where they are. Clearly, it's going to work phenomenally well in a VMware environment. But like I said, SaltStack and vRealize automation are multi-cloud in nature. So you can use it to automate your ECT environments or your Azure, you name it, right? So that's really where SaltStack plays in our portfolio. And in an area of COVID, as I said earlier, nobody can walk into the data center and nobody can sort of fiddle around with knobs. You really want automation at its highest levels and that's what's driving the interest in that category."
+    },
+    {
+      "speaker": "Paul Ziots",
+      "speech": "Thank you, Robert. Before we conclude, I think Zane has a few final comments."
+    },
+    {
+      "speaker": "Zane Rowe",
+      "speech": "Sure, Paul. Yeah, and thanks to all of you for your questions. In summary, I'd say Q4 was a good finish to the fiscal year. These results demonstrate our ability to execute a multi-cloud strategy at scale. We're committed to investing in our future growth and building our subscription and SaaS business while we deliver technologies and solutions today that help our customers and partners with their digital transformations. So thank you again to our customers, our partners and the VMware team for helping us close a successful fiscal 2021. We look forward to providing continued updates on our progress in FY 2022. Thank you, everyone."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 57 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Paul Ziots--Vice President of Investor Relations",
+    "Zane Rowe--Chief Financial Officer, Interim Chief Executive Officer and Executive Vice President",
+    "Raghu Raghuram--Chief Operating Officer, Products and Cloud Services",
+    "Sanjay Poonen--Chief Operating Officer, Customer Operations",
+    "Raimo Lenschow--Barclays Investment Bank -- Analyst",
+    "Phil Winslow--Wells Fargo Securities -- Analyst",
+    "Matt Hedberg--RBC Capital Markets",
+    "Walter Pritchard--William Blair & Company, LLC -- Analyst",
+    "Matt Coss--JPMorgan Chase & Co. -- Analyst",
+    "Victoria Cardenas--Bernstein -- Analyst",
+    "Shannon Cross--Cross Research -- Analyst",
+    "Sanjit Singh--Morgan Stanley -- Analyst",
+    "Parthiv Varadarajan--Jefferies -- Analyst",
+    "Stewart--Evercore ISI -- Analyst",
+    "Keith Bachman--BMO Capital Markets -- Analyst",
+    "Ben Bollin--Cleveland Research -- Analyst",
+    "Robert Majek--Raymond James -- Analyst"
+  ]
+}

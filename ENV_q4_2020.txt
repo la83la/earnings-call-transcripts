@@ -1,0 +1,324 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Envestnet Fourth Quarter 2019 Earnings Conference Call. Today's conference is being recorded. At this time, I'd like to turn the conference over to Mr. Chris Curtis, Division CFO and Head of Investor Relations. Please go ahead, sir."
+    },
+    {
+      "speaker": "Chris Curtis",
+      "speech": "Thank you, and good afternoon. I'm joined today by Bill Crager, Interim Chief Executive Officer; Pete D'Arrigo, Chief Financial Officer; and Stuart DePina, Chief Executive of our Data and Analytics business. Our earnings press release and associated Form 8-K can be found at envestnet.com under the Investor Relations section.\nDuring this conference call, we will be discussing certain non-GAAP information, including adjusted revenue, adjusted net revenue, adjusted EBITDA, adjusted net income and adjusted net income per share. This information is not calculated in accordance with GAAP and may be calculated differently than similar non-GAAP information for other companies. Quantitative reconciliations of our non-GAAP financial information to the most directly comparable GAAP information appear in today's press release.\nDuring the call, we will also be discussing certain forward-looking information. These discussions are not guarantees of future performance, and therefore you should not put undue reliance on them. These statements are subject to numerous risks and uncertainties that could cause them to differ materially from what we expect. Please refer to our most recent SEC filings as well as our earnings press release, which are available on our website for more information on factors that could affect these matters.\nThis call is being webcast live and will be available for replay for one month on our website. All remarks made during the call are current at the time of the call and will not be updated to reflect subsequent material developments. We will take questions after our prepared remarks.\nAnd with that, I will turn the call over to Bill."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thank you. Christopher. Hello, everyone. It is great to be speaking with you again this afternoon. For Envestnet, 2019 will always be remembered. While it was was an extraordinary year with strong results, it was also the most difficult year. We experienced a great tragedy. The Company though, stood up, moved forward and remained committed to building the leading financial wellness network powered by our data infrastructure, which enables financial advisors and their firms to help millions of American households achieve their goals.\nWhile this call is about our 2019 results, it is also about the future. We believe that Envestnet is the best positioned provider to drive the future of advice. Here is why. Envestnet is grown by driving the rapid evolution of the wealth advice space, launching a platform that level the playing field for all financial advisors, expanding that platform to become a broader holistic advice engine, including the market's leading financial planning software. In 2020, with the adoption of our financial wellness network accelerating and its long-term impact will become recognized and more important.\nNot only is our addressable market expanding, but our ability to create new integrated solutions that provide essential value for our clients and also new revenue opportunities for Envestnet, they're growing. Big data, which essentially was an aggregation source when we acquired Yodlee is now emerging as a key source of information for a decision engine that will help recommend next actions for our clients to guide consumers to better achieve their goal, this with quantifiable results.\nIt is these opportunities, we believe that differentiate Envestnet. As I said on our last quarter's call, we are executing against our vision and the Company is not taking its foot off the gas. In 2019, we achieved the important milestone of serving more than 100,000 financial advisors and more than 5,000 firms. Also in 2019, we acquired PortfolioCenter and also MoneyGuide. More than 150 PortfolioCenter clients signed on to the higher value Tamarac offerings during the year. We're also actively supporting the thousand-plus emerging RIAs using PortfolioCenter's hosted offering.\nWe are thrilled to have MoneyGuide as part of the Envestnet family. MoneyGuide was named the Number 1 financial planning software by the 2020 edition of the T3/Inside Information survey, an astonishing 12 years in a row to earn that recognition. MoneyGuide popularity remains consistent among firms of all sizes, all experience levels and all business models, including Top 10 of the Top 12 custodial platforms and eight of the Top 15 broker-dealer platforms. Most recently, Morgan Stanley licensed for an additional three years MoneyGuide's entire planning offering, including MyBlocks.\nBoth PortfolioCenter and MoneyGuide are performing well financially and in terms of progress each has made in delivery on the strategic rationale for acquiring them. During 2019, we also launched the Envestnet Insurance Exchange and the Envestnet Credit Exchange. Both are making important progress. Insurance Exchange has eight carriers on board and 40 annuity products on the platform, with many more on the way. So far, we have 10 advisory firm partners signed and they are in various stages of implementation.\nOur Credit Exchanges has four lenders in the process of deep integration we are actively processing loans today. On the distribution side, five advisor partners have signed and four are currently on-boarding with additional 10 firms evaluating proposals that represent access to over 15,000 of our financial advisors. This is tremendous progress on both fronts in a very short period of time. Just a few weeks ago, we announced the formation of the Advisor Services Exchange in conjunction with our investment in Dynasty Financial Partners. Feedback from our clients has been extremely positive as we work with Dynasty to provide access to grow capital, business management tools, marketing services and outsource CFO services to our advisory clients.\nIn terms of the financial results for the fourth quarter, adjusted revenue grew by 15% from last year, adjusted EBITDA grew 30%, and adjusted earnings per share grew 13% from a year ago. These results were driven by solid performance in our Wealth Solutions business. Operating activity for that business remain very strong. Gross sales of $34 billion. Asset-based conversions of $8 billion, and another $32 billion in subscription-based conversions. We also benefited from favorable market conditions as we headed into the new year.\nInvestment management continues to be an area where we are innovating and adding value. Assets using our ESG impact platform as well as our tax overlay solutions grew 74% compared to 2018. Our custom direct index portfolio more than doubled. In the index-based low-cost asset management environment, these are value-added growth areas that Envestnet is powering. We're making progress in deploying Envestnet's data cloud solutions, and believe we have an emerging opportunity to help our clients adapt to a more agile data environment and will connect them to their proprietary systems as well as to the growing intact marketplace.\nIn 2015, we acquired Yodlee, with a strong sense of its strategic value. In 2020, it is clear that data's essential value is being recognized. By adapting Yodlee's infrastructure, investment establishing an important use case that connects individual daily financial behavior with their long-term financial goals. This is transforming. There are other exciting opportunities for our data platform that include expanding ecosystem into areas that will empower individuals, achieve flexibility, control and success in their integrated financial labs.\nAs we stick with last year, there are short-term revenue growth challenges as we have seen competitive pressure in our investment manager analytics business, the impact of U.K. open banking changes, as well as the shift from professional services to integrated offerings for financial institution clients. As said, our core aggregation business with financial institutions, continue to do very well. Last quarter, we announced bilateral agreement with JPMorgan Chase, governing direct data feeds. We have a full pipeline of similar agreements or in the process of executing with other institutions. This is important. It's important to the consumer, its important for our industry. It's important that consumers financial data be transfered, be stored and be aggregated in a way that protects the consumer's privacy and that firms follow standards to how to operate in a world where data is essential to driving financial outcomes.\nWe're pleased to be on the leading edge of this important industry change. We're also seeing growth in our FinTech component of our data business as we roll out our enhanced developer platform. We continue to modernize solution set, which will allow third-party developers access to our solutions from which they will build out new enhanced financial products. Longer term, it's clear to us that this tremendous value and the capabilities, infrastructure and scale and what we have built in our data and analytics business. We connect more than 21,000 data sources and aggregate hundreds of millions of accounts, which we believe is more than any other provider in our space.\nAggregated data provides the fuel to unified financial wellness network, driving optimal decisions that advisors and their clients can act on to achieve their financial goals. More tactically, it helps consumers manage their daily financial lives. Envestnet is executing and we see tremendous opportunity to continue investing in our business, both in wealth and also in data. And it's clear that individually and collectively there's meaningful value to be unlocked as we position ourselves, and we do the work to capture more and more of the market opportunity before us, which we believe is in the tens of billions of dollars from a revenue perspective.\nAs an industry leader with about $1 billion in revenue today, we have a long runway for growth and value creation. Value for our customers, value for our employees, and value for our shareholders. I'll turn it over to Pete at this point. I'll be back in a few moments for the few closing comments."
+    },
+    {
+      "speaker": "Pete D'Arrigo",
+      "speech": "Thank you, Bill. Thank you, everyone, for joining us this afternoon. I'm going to review our results for the fourth quarter and full year of 2019, as well as our guidance for the first quarter and full year of 2020. Envestnet's overall results for the fourth quarter of 2019 beat our guidance expectations set out in November. Briefly summarizing these results compared to the fourth quarter of 2018. Adjusted revenue and adjusted net revenue increased 15% and 18%, respectively to $242.5 million and $177.1 million.\nRecurring revenue, which comprises asset-based and subscription revenue was 96% of adjusted revenue. Excluding the contributions from PortfolioCenter and MoneyGuide, adjusted revenue grew 9% from the prior-year period. Adjusted EBITDA was $61.5 million, a 30% increase over last year. And adjusted earnings per share was $0.69 in the fourth quarter, $0.08 or 13% higher than the fourth quarter of last year.\nFor the full-year 2019 compared to 2018. Adjusted revenue increased 12% to $909.4 million. Excluding the contributions from PortfolioCenter and MoneyGuide, adjusted revenue grew 7% from the prior-year period. Adjusted EBITDA was $193.3 million, a 23% increase over last year. Adjusted EPS was $2.15 for the year, $0.23 or 12% higher than last year. Adjusted earnings per share grew at a slower rate than adjusted EBITDA, reflecting a higher fully diluted share count, interest expense and depreciation expense.\nIn December, we settled our maturing 2019 convertible notes through a combination of cash on hand and a draw from our revolving credit facility. We ended the year with a net leverage ratio of 2.8 times EBITDA, slightly lower than the prior quarter.\nMoving on to our outlook for the first quarter and full year of 2020, you will find our guidance detailed in full in the earnings release, but I'll give a few highlights here. For 2020's first quarter, we expect total adjusted revenue to be between $242 million and $244 million, up 21% to 22% compared to the prior year. Asset-based revenue between $134 million and $135 million, up 23% to 24% compared to last year, implying an effective fee rate on our end of December assets under management or administration of roughly 9.8 basis points.\nSubscription-based revenue on an adjusted basis between $102 million and $102.5 million, up 22% to 23% compared to 2019. Professional services and other revenue between $6 million and $6.5 million. Similar to prior years, we expect operating expenses to increase sequentially from the fourth quarter for the first quarter due to the seasonal nature of certain items, particularly personnel expenses, like payroll taxes and other benefits, all of which are significantly higher in the first quarter compared to the fourth quarter.\nAdjusted EBITDA should be between $46 million and $47 million, up 35% to 38% compared to 2019. We expect our normalized long-term effective tax rate to be 25.5%, consistent with 2019. Assuming approximately 55.6 million diluted shares outstanding, this translates into adjusted earnings per share of $0.45 compared to $0.39 a year ago.\nFor the full-year 2020, we expect adjusted revenue in a range of $1.018 billion to $1.028 billion, an increase of 12% to 13% compared to 2019. Contributors to this 12% to 13% growth rate for the year include the first three months or four months of acquired revenue from PortfolioCenter and MoneyGuide. When those acquisitions anniversary, our organic growth rate is expected to be between 10% and 11% for the year. Asset-based revenue should grow in the mid-teens, aided by overall strength in our Wealth Solutions business as well as the carryover impact of the strong equity market in 2019. Subscription-based revenue should grow in the low-double digits. Stronger growth in subscription revenue within our wealth business, including MoneyGuide, will be partially offset by low-single-digit growth in revenues in our Data and Analytics business, driven by the factors Bill discussed earlier.\nProfessional services and other revenue is expected to decline in 2020 as we onboard new business with less of an implementation revenue component associated with them. As professional services goes down, our recurring revenue should go up to about 97% of adjusted revenue. We expect adjusted EBITDA for the year in a range of $220 million to $224 million, reflecting growth of 14% to 16%. And this was consistent with the 1.2 times relationship we've discussed in the past between our targeted adjusted EBITDA growth rate and our revenue growth rate.\nFinally, we expect adjusted earnings per share in a range of $2.22 to $2.27. As we saw in 2019 Q4, fully diluted shares increased year-over-year. Interest expense and depreciation expense were the primary reasons that EPS growth is lower than EBITDA growth. Thank you for your support of Envestnetm, and at this point, I'll turn it back to Bill for his closing remarks."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thank you, Pete. The year 2020 represents our 20th year, but it also represents the beginning of the next transformational age of advice. We've grown our business from product to platform, and today in network. And data is fueling everything from service to integrated applications, and now into the network to drive better decisions that advisors can act on, on behalf of their clients to help them fulfill their financial goals.\nEnvestnet is uniquely positioned to power this next phase of advice. We are moving forward very purposely with our vision and mission in mind. We're focused on expanding the definition of unified advice and continuing to launch services and tools to help advisors grow their businesses and serve more clients efficiently. As we began the call, I said we believe Envestnet is best positioned -- is the best positioned provider to do just that, investing along the way to help our clients continue to grow and to create shareholder value.\nThank you again for your time this afternoon. Thank you for your support of Envestnet. With that, Pete, Stuart DePina and I are happy to take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Yes. Of course. [Operator Instructions] We'll take our first question from Will Cuddy at JP Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Hi, good evening."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Hey, will."
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Hey. So firstly, can you just walk through some of the moving pieces in the 2020 guide? I'm trying to understand a little bit of the walk down from EBITDA to EPS. So what assumptions are you using for interest expense and D&A and share count. That'd be helpful."
+    },
+    {
+      "speaker": "Pete D'Arrigo",
+      "speech": "So instead of getting into a detail on this call, why don't we save some of those detailed modeling questions for follow-up?"
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Pete D'Arrigo",
+      "speech": "There's going to be a lot of calculations, and I don't want to get into that level of step."
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Yeah. And then just turning to the elephant in the room on the media reports on some potential buyers approaching Envestnet for the sale of Yodlee. Could you frame for us how you think about selling parts of your business? And what framework should we be thinking now that you will be using to consider divestitures, if there is a right price?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Hey, thanks Will. This is Bill. As a public company, we don't comment on rumors or any of the speculations. That said, I would say that there has been tremendous activity on marketplace in late 2019 and early 2020 with some pretty profound announcements whether that was Schwab and TD or that is Visa and Plaid or that is even today Morgan Stanley with E*Trade or Franklin Templeton and Legg Mason. There is activity in our space that I think is essentially very validating of the strategy that we have been pursuing and really recognizes the value of the pieces that Envestnet has strategically invested in.\nIf you go back and you think about the history of our Company in areas that we have anticipated, we did make an acquisition to enter the RIA space when we acquired Tamarac, and now have a very substantial position in the RIA space, especially with the $1 billion-plus RIAs with Tamarac. We did last year make the acquisition of MoneyGuide, the leading provider of financial planning. We believe that planning is going to power -- be really be the engine that will help us power this future of unified advice marketplace.\nIn 2015, we acquired Yodlee, ahead of the market's understanding of the value of data. And as I just kind of outlined in my comment, data is the power that fuels on much of our platform and becomes -- creates an intrinsic value beyond just the data business. It really creates a value within our entire ecosystem. All of these were very strategic steps with an understanding where the market is headed and we believe that we continue to have a very good outlook on where the market will go. And we will continue to assess each component of our business and we'll continue to assess the ability to invest in our -- every component of our business and the opportunities that we want to invest deeper in for the next strategic move in our space."
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Okay. Thank you for that. And a quick follow-up. Do you need to own the data? Or is it possible to still benefit from the data without actually owning the underlying pieces?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "There are absolute value for owning the data itself. As you know, we have grown a pretty substantial analytics business. We think that over the last several years, we have optimized to create a very powerful integrated data environment for wealth. And then when it comes to other areas of the use of the Yodlee infrastructure and platform, we've decided to partner. In areas of credit, last quarter, we announced and we spoke about the partnership with Equifax. And we'll continue to contemplate those sorts of partnership and in each case, Will, we're utilizing components of that data infrastructure inside our wealth business that we've optimized.\nAnd so at the end of the day, I think that represents kind of a great use case for the power of data in wealth and there are these emerging wealth case -- use cases as in credit with Equifax, and there are other areas that we think there is a great utility for our data property in the future."
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Great. Thank you for taking my questions."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thanks, Will."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll now take our next question from Peter Heckmann at Davidson. Please go ahead."
+    },
+    {
+      "speaker": "Peter Heckmann",
+      "speech": "Hey. Good afternoon, everyone. Thanks for taking the call. Can you talk about some of the different drivers, both positive and negative, on margins for 2020? And how you think about the mix shifts going on?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Yes. So one of the bigger drivers of the mix shift is the strength of the market in Q4, which increases the growth rate in terms of our revenue breakdown into the asset-based bucket compared to the other buckets. So, we'll see a little bit more mix toward asset base, which of course comes along with the cost of revenues. So margin on that revenue is not as direct of a flow-through to the bottom line. That's a little bit more weighted again toward asset base in 2020 and toward subscription-based, and then, kind of highlighted in the prepared remarks, some of those challenges and why the blended subs base is probably closer to low-double digits than the growth rate we're seeing in the asset base."
+    },
+    {
+      "speaker": "Peter Heckmann",
+      "speech": "Okay. And then the non-GAAP tax rate that you're using in 2019, did you say that was 25.5%?"
+    },
+    {
+      "speaker": "Pete D'Arrigo",
+      "speech": "The tax rate is 25.5%, yes. Same in '19 and '20."
+    },
+    {
+      "speaker": "Peter Heckmann",
+      "speech": "Okay. [Indecipherable] for '20 as well, OK. All right. I'll get back in the queue. Thank you."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thanks, Peter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will take our next question from Chris Shutler at William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Chris Shutler",
+      "speech": "Hi, guys. Good afternoon. So maybe first, an update on the executive leadership team. And Bill do you still having the interim tag? I guess I would have thought by now there would be a decision."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thanks, Chris. Before, I have been working closely with our Board of Directors and they are being very deliberate with respect to succession, very good conversation with them, very deliberate process. We'll make an announcement as soon as we have further information. But the important thing to note is that the Company is very good hands. We continue to lead the Company and drive the Company. I think we're creating more and more opportunity for investment and we're collaborating more closely, I would say, with the Board, who are supporting us and supporting our clients, and really supporting our execution of our wellness vision. So it remains a process and the Board is being very disciplined in that process."
+    },
+    {
+      "speaker": "Chris Shutler",
+      "speech": "Okay. Got it. Let's see, on the Yodlee low-single-digit growth. Could you just reiterate what you felt that the incremental headwinds were versus what you were experiencing in the back half of 2020 or back half of 2019 rather?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Yeah. So I highlighted them, Chris. And I'll have Stuart to add color to this. But really, they are threefold. One is that the data analytics business has become a more competitive environment and so -- that's -- we're keeping our renewal rates pretty high, but have reduced renewal contracts. That's one. The other component of that is we're delivering more and more of the integrated Yodlee solution into Envestnet's wealth clients. There is a reduction in our professional services to support those implementations. And so that has a bit of an impact.\nAnd as the U.K., we have good presence over in the U.K. market. They transition to an open banking environment at the end of the year last year. And with that, a lot of the FinTech clients that we have in the U.K. weren't necessarily prepared, and that has had a little bit of a headwind in our ability to -- it's been a headwind in that particular component of our U.K. market. But Stuart, any color that you'd provide?"
+    },
+    {
+      "speaker": "Stuart DePina",
+      "speech": "Yeah. I think the only thing I would add to that, Bill, is that, probably just to elaborate a little bit more in terms of our growth patterns, we are actively recognizing that there is a lot of activity beyond just wealth. Clearly, that's where we've invested heavily over the course of last two years to four years since we've owned the Yodlee asset and we'e done -- frankly we've made a lot of striving progress in getting -- in bringing to market for the financial advisor universe that we support, tools and outputs that helps them manage their more effectively.\nBut areas where we've been not as active have been in credit and payments and in analytics. In those areas, we are recognizing that there is a substantial amount of opportunity. So from that standpoint, I'm going to add on to what Bill said about professional services. We've been very -- over the course of our deployment with a lot of our clients working with a lot of large financial institutions, our models have been very heavy on the profession subscription-based to professional support-based model to go into those firms and kind of customize those offers for those firms as the marketplace as it's shifting more to working with other clients that are outside of the traditional financial services environment with FinTech firms who want the ability to do it themselves.\nWe've deployed and are deploying tools for them, and we're trying to capture more market share. So from that standpoint, we're seeing a bit of a shift, if you will, in the ecosystem, because if a FinTech is offering and we're being more opportunistic to grab more market share, if you will, with a lot of those firms. So that's part of what is kind of offsetting, if you will or I guess, probably putting some pressure on our revenue growth rates. We're trying to recognize more market coverage, if you will, in some of the deals we're putting today. That's probably the other element that I would add to what Bill just mentioned in terms of our growth rates are at least in 2020."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "And one of the things that I am and Stuart and I are both very encouraged by is the progress we made in that developers platform and how we'll be able to -- we will compete in that FinTech space. And so -- and that's all that's out there in the future, Chris. So as we looked at the year, we realize that it's got a sales cycle and got an adoption cycle and then that will help to restore our growth rates as we're successful in deploying that."
+    },
+    {
+      "speaker": "Chris Shutler",
+      "speech": "Okay. Thanks. And then maybe lastly, just on that same topic with Yodlee, sort of going back to one of the prior questions. But what do you feel are the main benefits of owning Yodlee for the wealth business specifically? And do you see those changing? And the reason I ask now is with Visa owning Plaid, I would think there would be more of an accelerated move toward KPIs and away from screen scraping. So maybe there's going to be less need down the road for all the data scrubbing and all the work that it takes to get the data clean? So any comments there would be great."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Yeah. And I think that's kind of a twofold, because I do think the reconciliation and data cleanup, all that process that we do has extraordinary value. And that -- we've levered the Envestnet chassis and platform to bring -- for investment accounts reconciliation rates on aggregated data from the 60%-something up into the mid-90%. And that is competitively differentiated and very advantaged as we look at the work we've done to kind of optimize the wealth environment.\nAnd so, again, that work has been done and we're leveraging the Envestnet infrastructure to do that reconciliation. All of that, then all that data then sits in -- will sit in our cloud-based services that can then be utilized through micro services and APIs to be pumped out to different applications. Let's use an example of an announcement that we made in -- at Schwab's IMPACT conference last fall, in which we're taking the Yodlee dataset through the Envestnet platform, highly reconciled into FinApps.\nThose FinApps are part of now the MoneyGuide ecosystem and delivered to our client. So that's a great example of how that ecosystem or process is working and optimized absolutely in the wealth business. As we look at -- as we continue to look at other opportunities for our data business is notable that we announced our partnership with Equifax last quarter from a credit standpoint. And Stuart and I and the team continue to evaluate other partnerships that are available to the Yodlee business.\nStuart, I don't know if you want to add any color or any other comments to that?"
+    },
+    {
+      "speaker": "Stuart DePina",
+      "speech": "I don't think I have much to add there, Bill. I think you covered all those basics."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Okay. Good."
+    },
+    {
+      "speaker": "Chris Shutler",
+      "speech": "All right. Thank you."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll now take our next question from Chris Donat at Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Chris Donat",
+      "speech": "Good afternoon. Thanks for taking my questions. I wanted to ask another one around the Yodlee business, Bill. When you mentioned what the agreement with JPMorgan, the bilateral agreement, do you expect to do other bilateral agreements? I guess two-part question. One is, can you give us sort of the historical context, because I think that JPMorgan years ago was being somewhat critical of third-party data aggregators and it seems like you -- I don't know if you persuaded them, but can you give us sort of a sense of what's changed over time?\nAnd then just to let us know if there's any financial implications from these kind of bilateral agreements? Does it change anything? I think I heard that you expect Data and Analytics to grow sort of mid-single digits. But anyway, I'm just wondering if there's any implication on the financial side from them?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "No. And Chris, it's a great question. And I think it's an important question, because the way the data will be collected and then utilized by financial institutions, we believe, is going to change materially. I think that the JPMorgan announcement is very progressive around data use. And so, I think, again, it's a validation of the Yodlee platform and our ability to create the unilateral kind of connectivity to JPMorgan and serve that data in a way that's protected and use from a privacy standpoint that are close to the standards that JPMorgan -- the high standards that JPMorgan has.\nI believe, again, it is -- and they've been very exclusive, JPMorgan, about account aggregation. And to the point, I believe, Jamie Dimon announced in the last earnings update that they're going to turn off aggregators at some point in 2020. So this is the beginning of a new highway system that is going to connect our financial institutions with data providers and really enable a new ecosystem for the way data is utilized by firms.\nAnd so there are other firms that are in that same process. But again, I think it's notable and important that JPMorgan has been a leader here. Stuart, any update or comments about that?"
+    },
+    {
+      "speaker": "Stuart DePina",
+      "speech": "Yeah. I'd add a couple of things here. First of all, we do have several and over a dozen other agreements, like agreements that are little insight, meaning we're -- we actually took a finish line here, and we'll be announcing some of those over the course of next several months. But a lot of this, from a trend standpoint, is really driven by some factors in the marketplace.\nThe biggest one of which, we, Yodlee, are the only data aggregator in this space, truly regulated -- who is regulated, period, end of sentence. We have substantial regulatory bodies, federal, who monitor our actions and what we do in terms of privacy and security. We are aligned with the financial institutions, primarily large banks. In that regard, we have over 200 audits on an annual basis against our platforms and systems from a security and privacy perspective, both at the federal level, state level and then with the individual institutions that we partner with.\nSo, we're in the aligned ecosystem, if you will, in that sense, because the movement of data and all the elements that go around data. So, I would make that as a real core point of -- we know from our conversations with financial institutions, when they look at us, they look at us a partner in that sense. And so that's one element. I think another aspect I'd call out is, our reach -- our simple reach, because we've been in the marketplace for over 20 years, and by the way, I should come back and say, what we've been doing from being regulated isn't a new occurrence.\nWe've been -- when Bill and the founders of this business built the business, they crossed that threshold years ago and we've been in this environment for quite some time. But for the last 20 years or so as we have kind of been working and adopting the team and building out our ecosystem, when you heard Bill talk earlier, we have got 21,000-plus different interfaces, both from large and small and medium sized institutions, many who have capabilities to have automated APIs for us to access data. There are many who don't. They don't have the infrastructure. So they look at us as being, if you will, to partner with them in that context as well. So that's part of the reason why the financial institutions are migrating and gravitating toward us as well.\nAnd then the last thing I'd say is, aggregation is certainly key. It's a critical element for our financial institution partners, and they recognize the value of that. But because of the legacy of the organization, the things we've been able to add to aggregation, the value-added components that we built in terms of having a platform that these financial institutions can use to manage their own consumer relationships is a critical element and that has come over a very long period of time. So, we've added the ability to enrich the data that we get and then create analytics and tools and help those financial institutions serve their customers better.\nSo, I would say that those are the components that are really are kind of that Chase and others are gravitating and embracing with us. And the answer to the last part of your question, does it impact the economics? There aren't different terms per se, but there is a broader use case. I'd probably say it best puts [Phonetic] in, we're getting more deeply integrated into the banks and more broadly deployed in these banks, because we're going from the retail side to the institutional side. So there's lots of different pockets that we are working with a lot of the large banks. So the unit economics aren't changing as much as the reach within the institution are changing, which are giving us more upside. That's how I'd answer your question."
+    },
+    {
+      "speaker": "Chris Donat",
+      "speech": "Got it. Thanks very much, Stuart. And then at the risk of asking the questions that I don't think you can answer, I'll try it anyway."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Chris Donat",
+      "speech": "You guys were singled out by the -- by two senators and a member of Congress for asking for a Federal Trade Commission investigation. Is there anything you can say on that one? Or I don't know how to put that one..."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "No, I think the -- yeah, Chris, yeah -- no, we obviously received the letter and being very responsive to the lawmakers and the commission with any questions that they have. And most of those questions centered around the terms and conditions, the understanding of the consumer as that data is being utilized. And as a B2B provider, it's really up to us to ensure that our customers have the proper terms and conditions and they have a pretty comprehensive process in understanding how are terms and conditions that are being published to those consumers. So again, they're having a conversation with lawmakers about that.\nThe others issue has to do with identification of an individual's data. And really what we do is the data is de-identified, so it goes from personal data to non-personal data as we build the de-identification process. And in the kind of regulation or oversight of data, from a national standpoint, there isn't a single standard. And what Envestnet has done is, we have -- we're complying with what we believe and I think many believe is the most aggressive standard in the United States and that's the California Consumer Protection Act, CCPA, which we just instituted here at the end of the year on protecting an individual's data and identification.\nSo, we're having an engaged conversation with Washington. I think there 's lot of education that goes into it. I think at the end of the day, it's good to be having these conversations. I think it's good to be driving toward standards. I think that standards will help the industry and the standards will certainly help the consumer. And that's something that we are continuing to push and advocate for."
+    },
+    {
+      "speaker": "Chris Donat",
+      "speech": "Got it. Thanks very much, Bill and Stuart."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] We'll take our next question from David Grossman at Stifel. Please go ahead."
+    },
+    {
+      "speaker": "David Grossman",
+      "speech": "Thank you. Good afternoon. So, I think you've answered, to certain extent, most of the questions I have. But just getting back to Yodlee, perhaps you could just anchor all of this. You've talked about a lot of tailwinds starting that business, but also some headwinds. And I'm just trying to get my head around when the growth rate of that business should normalize and kind of the timing of when some these factors either roll off or start to accelerate the growth of that business?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Sure, David. Good to speak with you. So as we began to indicate, I guess, this was mid-year last year, it was Jud who indicated that we're going to face some headwinds. And again it's in that Data and Analytics business. I'll ask Stuart to update on some of the innovative things we're beginning to develop there. We had some regulation coming through our European business in the U.K., and then it was a business decision to reduce our use of professional services and are implementing to large financial institutions.\nWhen you take those, they really create kind of strain on our overall growth rate. What we have done, David, since then, is we've published our developers portal for the FinTech space. We're putting in place these agreements with large financial institutions. The JPMorgan Chase is a good example of that. We're making progress, which again Stuart will speak to, on the analytics front. We are integrating more deeply and improving our reconciliation rate of aggregated data in the wealth market.\nSo, I think all of those things begin to concentrate Yodlee in a way that we'll have resumed strong growth in that business. But it required environment -- couple of environmental things that were occurring and a couple of business decisions that we made to make sure that it was our long-term grower there. Stuart?"
+    },
+    {
+      "speaker": "David Grossman",
+      "speech": "Actually before Stuart kind of add to his comments, Bill, when though -- when you roll all of that up, when do some of those headwinds diminish enough that some of these growth initiatives start supersede then that we'd a more normalized growth rate? And what is the normalized growth rate in your view once all of this stuff settles out?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "So, I think, in our guidance, we're indicating low-single growth in 2020 for subscription in the Yodlee business. So, we think this is a year of kind of working through. And toward the back half of the year, we're anticipating that we're going to begin to get some traction. We're also going to see our relationship with Equifax begin to kind of gain traction toward the latter part of the year. So, David, I think, this is a 2020 story. I think that the work that we're doing positions our data business to resume a healthy growth rate that contributes to the overall kind of objectives that Envestnet has to maintain -- be a strong grower ahead of our peers as the business that we are. And again, Stuart, you can elaborate and kind of be more specific than I am."
+    },
+    {
+      "speaker": "Stuart DePina",
+      "speech": "Yeah. I would just say that, on your question, I see that part of the headwinds and maybe headwinds isn't the right word to use, but we've -- we never really set that bar so to speak. The headwinds I would probably characterize more in terms of the business that we have which we call analytics, which is where we've seen more of the headwinds. We're seeing more opportunity in tailwind in the sense of gaining more adoption with our solution and feel that bit of a bottleneck for us to gain that adoption has been the fact that it had not had a platform which enables FinTech companies specifically to easily integrate our application into whatever offerings if they deliver [Indecipherable].\nWe refer to this phrase we use, the developer experience, which is a set of intelligent APIs that any firm can use to deploy their platform whether it's payments, credits, wealth or otherwise. So that has really been, in my view, a bit of a bottleneck for us to get to that. And as I mentioned on our last quarter's call, we were behind it, because I would honestly tell you in full candor what we've learned from Plaid is that they were able to -- here is a bad analogy, if you will, but I will use it anyway.\nWe at Yodlee have been working with a lot of large banks primarily over the course of last 20 years. And in building those relationships and delivering the service, we were working on 1G, if you will, for lack of better term, keep really in technology. But Plaid was able to come to marketplace with a 5G solution, which really was a bit more modern platform and we've adopted, if you will, and we've watched -- saw what they have done. So we've adopted and modified our platform to frankly not only mimic, but we believe in certain areas, certainly in wealth and revolving credit. We believe that we have a solution that's in place, it's going to be more impactful for the clients that are in those particular channels. So, I would say that having been behind the eight ball for the last 12 months to 15 months is Plaid has really kind of planted themselves in the payments space primarily as having a market share and that grew to a much more modern technology.\nWe believe that we knew we had to make up some room, and we made up that room. And so I think that we're now at the breaking through that bottleneck. So that's a long way of telling you that we think that we're at the position now, but over the course of next, I'd say, 18 months to 24 months as we get more distribution and more -- capture more market share, not only in our traditional wealth space, but also in credits, payments, conversational AI and other channels, if you will, we think that we're going to get further adoption.\nSo -- and I would also say that we believe that we -- that a normalized growth rate looks more like a double-digit growth rate. It's probably a low-double-digit growth rate. As to when we get there, I'm not going to forecast as to when that will be, because a lot of that is going to be how the market matures. But that's how we see things when we play things up over the long term.\nIn terms of answering to your specific question, we are doing a lot of things obviously on wealth side. I won't bore you with that, because I think everyone on the phone is well aware what we are doing in wealth. But I'm really interested in what we're doing outside of the wealth channel in the wealth segment by taking some components such as the blocks capabilities through our acquisition of MoneyGuide, as well as some of the analytics that we're building to supplement the blocks capabilities for a lot of the retail banks and other non-wealth management firms that are using those tools. And we're creating some really very effective dashboards so that a non-traditional financial advisor can support end-consumers to give them insights into their spending habits, their spending pattern, to help them understand.\nAs they get raises, where should they putting the incremental dollars that they have. As their -- as credits gets more challenging for them, where there are better opportunities for them to get better decisions from a credit perspective, whether that's on a retail credit perspective or mortgage or otherwise, insurance capabilities and frankly what's yet to come but there are opportunities for us to kind of bridge, if you will or bridge into capabilities for insurance offerings, whether that's health in the perspective or life perspective.\nAnd you are aware of what we're doing around the Insurance Exchange. But we see an ability to advance, if you will, for what we call the next best action for\nA consumer to get insights into their daily personal life to understand that regardless of where they are an the economic ecosystem, whether they're starting out their careers and if they don't have a lot of money or they have a lot of money and they're looking for an financial advisor, we believe that working with non-traditional wealth firms who are leveraging our technology that we can provide through technology insights that gives them analytics to help them make better decisions.\nAnd those are the areas where I think that we can supplement in a meaningful way what we're doing in wealth to drive more -- ultimately to drive more consumers into the wealth channel to help advisors have more access to more potential investors and more clients themselves. So, I'll leave it at there."
+    },
+    {
+      "speaker": "David Grossman",
+      "speech": "It's a very useful insight. Thanks very much for that and that explanation. I just have one follow-up. So, in the context of you kind of getting back to an equilibrium, is it that -- is it more of the platform from a technology standpoint has to get there? Or is the gating item right now really more, what you said, I think you said channels and market awareness? So I just want to make sure I understand, so distinguishing between kind of where the gating factory is near term, if you will."
+    },
+    {
+      "speaker": "Stuart DePina",
+      "speech": "Bill, I'll take that. To answer you question, Dave, the gating factor for us was the platform. The Yodlee was built by working with some large financial banks and financial institutions primarily. We worked with one at a time, who had a heavy professional services implementation. And that kind of -- it was just a slow growth, for lack of a better term. So the platform was what we needed to enhance it and evolve. So that's -- that was the bottleneck that we've addressed."
+    },
+    {
+      "speaker": "David Grossman",
+      "speech": "Okay. But going forward, I think was the question, Stuart. So you feel like you've got the platform where you want it now, if I am understanding it correctly. And the gating factor to be accelerating is really more market awareness and distribution, if I heard you right."
+    },
+    {
+      "speaker": "Stuart DePina",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "David Grossman",
+      "speech": "All right. Fair point. Thank you very much."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Yeah. Good questions. Thank you, David."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will take our next question from Patrick O'Shaughnessy at Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Patrick O'Shaughnessy",
+      "speech": "Hey, good afternoon. So Pete, the guide for asset-based cost of revenues suggests that's going to tick up a decent amount in the first quarter of '20 relative to the last quarter of 2019. Can you talk about what's going on there? Is the revenue share to the third-party management increasing? What's kind of driving that increase?"
+    },
+    {
+      "speaker": "Pete D'Arrigo",
+      "speech": "As a percentage of the total, I don't think it's changing all that dramatically. But I think the increase is just related to revenue [Technical Issues]. Right."
+    },
+    {
+      "speaker": "Patrick O'Shaughnessy",
+      "speech": "Okay. Maybe I'll follow-up with you after the call. And then we've obviously spent a lot of time talking about the Data and Analytics segment for obvious reasons. But Wealth is still obviously pretty important to the Company. So a question on that side. Can you talk about the Credit and Insurance exchanges that you've launched? And now you have a couple of quarters under your belt, how are you thinking about the long-term revenue opportunity in these areas and the timeline to realize that opportunity?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thanks, Patrick. I hope you're doing well. Yeah -- no, we're excited about it. And there are a couple of elements that I think are important to recognize. One is that these are pretty comprehensive platforms. They're not just product shelves where advisor is able to pick a solution off a shelf and put in a proposal. They're actually tied back into the insurers and the banks that help us execute on these transactions. We're really optimizing the ability for the advisory growth and plan to execution of the plan, have the product choice and then go transact it and have all data come back up so that we can do a comprehensive planning.\nSo the elements of revenue are to keep an eye on would be the solution providers themselves are providing license fees to be part of our universe solution. We are doing a rev share as we hit certain scale on many of those solutions, especially on the security-backed lending program and then firms -- advisors will have a service fee from a platform standpoint to have access to these solutions. So Patrick, they are well thought out, they're very comprehensive components. Think of them each as a platform for that individual product suite, insurance credit and with the adoption, I highlighted advisory firms are beginning to utilize these solutions and they have a growing network of solution providers.\nI neglected to add that on the Credit Exchange, we're probably going to pursue a second syndicate of banks. We currently have four banks in the first syndicate, probably other banks that would be part of it based on needs and feedback from our clients to where they see these opportunities and the profile of banks that we are working with. So, we see these as instrumental for the future of this unified advice engine. The other thing to realize is that it is not an insignificant workload, and it's not an insignificant kind of investment time and resources to build these things.\nAnd so, in my mind, they offer a very distinct competitive advantage for Envestnet today. The fact that these platforms are integrated into the Envestnet platform and sit under the market-leading financial planning engine and then how all those pieces are connected, I think is very competitively advantaged."
+    },
+    {
+      "speaker": "Patrick O'Shaughnessy",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thanks Patrick."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "All right. We'll now take our last question from Will Cuddy at JPMorgan."
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Thanks for the follow up. I know it is early, but could you give just a little bit more on the advisory services exchange? First, could you maybe talk us through a little bit more about the rationale in the minority investment in Dynasty? And second, are there more opportunities for Envestnet to pursue partnerships and relationships like this with RIA firms and wealth management firms?"
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Yeah. Thanks, Will. It's a great question. It's something that we're super excited about. And look, I think, we've have chosen great partner. It's a team that we've respected for a long period of time. Shirl Penney, Ed Swenson, who run Dynasty, I think understand this space and their ability to recruit top advisors at a very established infrastructure and bring them to an independent environment has really been extraordinary, and an important work that they have done. And so we'd recognize that. And we believe that not only it is a transition of an advisor, say, from a captive environment, but the RIA marketplace itself is seeking to network, to acquire, to merge and to grow, both organically and inorganically.\nWe believe that traditionally the Envestnet platform has been a great tremendous organic growth engine for RIA. We've helped them reduce cost to maintaining, help them to be more compliant and giving the technology and the tools and service support to help them engage their clients at a new level, and you can see their asset values and the number of clients grow the longer that they're on the Envestnet platform. So, we help them provide advice. But the advisor service exchange, which helps them to grow their business, and we're doing that again in helping RIA firms who are very interested in utilizing capital to merge with other firms or to make investments to really help their businesses grow.\nWe're providing a suite of business analytics tool. We're also providing -- as part of the service exchange, we'll ultimately provide outsourced access to CFO services and also to -- some marketing services. As I look at it, it isn't really exclusive to the RIA market, but that's an obvious place for our advisor services exchange. More and more, our broker-dealer partners as well are very interested in this space, and they're interested in setting up environment for their top advisors who have the ability to network and grow outside of their firms by making acquisitions and folding those firms into their teams.\nAnd so the advisor service exchange really is an enabler of that. And I believe, kind of again, it helps our clients, both broker-dealers banks as well as RIA, grow. We do it from a technology and advice standpoint, and now we're doing it from a business standpoint."
+    },
+    {
+      "speaker": "Will Cuddy",
+      "speech": "Got it. Thank you, Bill."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thank you, Will."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "All right. This concludes today's question-and-answer session. I will now turn the conference over to Bill Crager for any additional or closing comments. Please go ahead."
+    },
+    {
+      "speaker": "Bill Crager",
+      "speech": "Thank you very much everybody. We really appreciate you joining this afternoon, and we really appreciate your support of Envestnet and we're looking forward to speaking to you in the next quarter. So thank you, and I hope everybody has a good evening."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 64 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Chris Curtis--Division CFO, Envestnet Wealth and Head of Investor Relations",
+    "Bill Crager--Interim Chief Executive Officer",
+    "Pete D'Arrigo--Chief Financial Officer",
+    "Stuart DePina--Chief Executive, Envestnet Data & Analytics",
+    "Will Cuddy--JPMorgan -- Analyst",
+    "Peter Heckmann--D.A Davidson -- Analyst",
+    "Chris Shutler--William Blair -- Analyst",
+    "Chris Donat--Piper Sandler -- Analyst",
+    "David Grossman--Stifel -- Analyst",
+    "Patrick O'Shaughnessy--Raymond James -- Analyst"
+  ]
+}

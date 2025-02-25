@@ -1,0 +1,337 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and welcome to Provident Financial Services Incorporated Fourth Quarter Conference Call. [Operator Instructions] Please note the event is being recorded.\nI now like to turn the conference over to Mr. Len Gleason, Investor Relations Officer. Please go ahead."
+    },
+    {
+      "speaker": "Leonard G. Gleason",
+      "speech": "Thank you, Nick. Good morning, ladies and gentlemen, and thank you for joining us for our fourth quarter earnings call. Today's presenters are Chris Martin, Chairman, President and CEO and Tom Lyons, Senior Executive Vice President and Chief Financial Officer.\nBefore beginning their review of our financial results, we ask that you please take note of our standard caution as to any forward-looking statements that may be made during the course of today's call.\nOur full disclaimer is contained in this morning's earnings release which has been posted to the Investor Relations page on our website provident.bank.\nNow I'm pleased to introduce Chris Martin, who will offer his perspective on the fourth quarter. Chris?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thank you, Len, and good morning everybody. Providence core earnings of $0.43 per share were impacted by continued margin compression, albeit slight and increased expenses primarily from consulting fees related to CECL modeling and implementation. Our core return on average assets was 1.13% and core return on average tangible equity was 11.36% for the quarter.\nWe experienced only 2 basis points of margin compression in Q4 and forecast it being relatively neutral in 2020. The repricing of deposit relationships that had discretionary rates positively impacted overall deposit flows.\nCompetitive deposit pricing has become more rational in our markets, which is a welcome respite for our funding costs. This affords us an opportunity to reduce the rates on our CD book, although not a large portion of our overall deposits.\nKey to our success will be our ability to continue to grow our non-interest bearing and core deposits. We believe we have reached an inflection point in loan pricing and predict lower single-digit growth in the loan portfolio, which continues to be bombarded by payoffs and refinances away from us. Our loan portfolio is skewed to variable rate products and we continue to swap out longer term fixed-rate loans.\nC&I lending has become more competitively of late but we are winning our share of quality loans and relationships. The middle market space has faced headwinds relating to the origination of loans at levels that meet our ROE hurdles. We'd take all commercial lending expectations to the level of GDP growth, so low single-digit growth is what we expect to see in 2020.\nResidential lending has picked up of late and we continue to be selective in our credit decisioning and leave the aggressive lending to competition, so these had outsized growth targets to bolster their margins.\nFurther, we are seeing more and more interest-only periods extended and longer fixed rate terms than we have in a long while, emanating from the agencies and life companies.\nOn the matter of CECL implementation, we expect incremental volatility since reserve levels will be very dependent on the macroeconomic forecasting. This could affect loan pricing in the future also. Our credit costs were elevated this quarter versus the same quarter in last year as we continue to conservatively evaluate our classified credits. We have deemphasized our exposure and concentration in certain industries while also staying away from leverage lending.\nWe believe the current economic backdrop supports a relatively stable credit outlook and our net charge-offs for the year were slightly higher, but still in line with peers. Speculation about a potential recession has been on our and other banker's minds over the last couple of years, but it has not happened yet and we try to spot the potholes beforehand.\nFee income continued its improving trend with Wealth Management leading the way along with loan level swap income and loan prepayment fees. The additional valuation adjustment to the T&L transaction has proved positive as this acquisition is exceeding our initial estimates.\nExpenses were higher in the quarter with the majority being in compensation and the non-cash contingent liability for the T&L acquisition. Consulting and technology expenses continue to increase as we prepare it for CECL. Regulatory costs were being $10 billion and technology investments to remain relevant in the new digital banking paradigm. We continue to balance expenses with investments in the customer platform and product set.\nOur tech spend is embodied in more consumer-centric, efficient and agile decisioning for our clients to enhance their relationship with us. Information compiled in our data warehouse and our use of data analytics will be key to understanding our client's needs.\nReliance on AI will likely expand in the years ahead, especially in the payment channels. We're also investing in the universal banker model, better recruiting processes and on boarding orientation and to constantly evaluating our branch network.\nAs for M&A, we expended a fair amount of time and energy in 2019 assessing potential acquisitions and continue to have more than enough capital to achieve better returns for our stockholders through whole bank transactions and RIA purchases. We can fund our organic growth and support a solid and consistently above average cash dividend with only a 54% pay-out ratio and supportive buybacks when they meet our total return criteria.\nThe consumer segment appears to be in good shape for both the credit and spending perspective and the labor market may be the best that we have seen in a generation. Fed interest rate policy is expected to be on hold for a while with geopolitical issues, pandemic risk and the presidential election grabbing the headlines, we believe the economy will continue to grow in spite of these distractions.\nWith that, I'll turn it over to Tom for his comments. Tom?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you, Chris, and good morning everyone. Our net income was $26 million or $0.40 per diluted share compared with $35.8 million or $0.55 per diluted share for the fourth quarter of 2018 and $31.4 million or $0.49 per diluted share in the trailing quarter.\nCurrent [Phonetic] quarter earnings were adversely impacted by a $2 million or $0.03 per basic and diluted share net of tax expense increase in the estimated fair value of the contingent consideration liability related to the April 1st, 2019 acquisition of New York City-based RAI Tirschwell & Loewy.\nAs previously disclosed, the earn out of the contingent consideration is based upon T&L achieving certain revenue growth and retention targets over a three-year period from the date of acquisition. Based upon T&Ls recent positive operating performance and improved projections for the remaining measurement period, an increase to the estimated fair value of contingent consideration was warranted.\nAt December 31st, 2019, the contingent liability was $9.4 million with maximum potential future payments totaling $11 million. Excluding this charge, the Company would have reported net income of $27.9 million or $0.43 per basic and diluted share and net income of $114.6 million or $1.77 per basic and diluted share for the quarter and year ended December 31st, 2019 respectively.\nOur net interest margin contracted 2 basis points versus the trailing quarter and 23 basis points versus the same period last year. And that margin compression would continue to reprice downward deposit accounts with negotiated exception rates. This deposit rate management coupled with an $80 million or 21% annualized increase in average non-interest bearing deposits resulted in a 3 basis point decrease in the total cost of deposits this quarter to 65 basis points.\nNoninterest-bearing deposits averaged $1.6 billion or 23% of average total deposits for the quarter. We will continue to thoughtfully manage liability costs as the rate environment evolves. Quarter-end loan totals increased $66 million or 3.6% annualized from September 30th as growth in CRE construction and residential mortgage loans was partially offset by net reductions in C&I multifamily and consumer loans.\nLoan originations excluding line of credit advances reached their best levels of the year, up $106 million or 30% versus the trailing quarter to $461 million. But payoffs remained elevated, up $46 million or 18% versus the trailing quarter to $298 million. The pipeline at December 31st decreased to $905 million from $1.1 billion at the trailing quarter end, reflecting strong year-end closing activity.\nThe pipeline rate has decreased 14 basis points since last quarter to 3.97% at December 31st. The lower pipeline rate reflects current market conditions and a decline in interest rates. Our provision for loan losses was $2.9 million for the current quarter compared with $0.5 million in the trailing quarter. Our annualized net charge-offs as a percentage of average loans were 26 basis points for the quarter and 18 basis points for the full year.\nOverall, credit metrics remained stable this quarter with non-performing assets totalling 55 basis points of total assets at quarter end. The allowance for loan losses to total loans decreased to 76 basis points from 79 basis points in the trailing quarter largely as a result of improvements in qualitative allowance factors.\nNon-interest income decreased slightly versus the trailing quarter to $17.7 million as lower swap fee income offset increased bank-owned life insurance benefits and loan prepayment fees. Excluding the increase in the fair value of the contingent consideration liability related to the T&L acquisition, non-interest expenses were an annualized 2.05% of average assets for the quarter.\nCore expenses increased $1.2 million versus the trailing quarter with consultancy and audit costs related to CECL implementation, additional examination and consulting fees that totaled $1.4 million driving the increase.\nWe did, once again, benefit this quarter from an FDIC insurance small bank assessment credit of $758,000 and our total remaining FDIC credit potentially realizable in future quarters is $1 million. Our effective tax rate decreased to 23.6% from 24% for the trailing quarter and we are currently projecting an effective tax rate of approximately 24% for 2020.\nThat concludes our prepared remarks. We'll be happy to respond to questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We'll now begin the question-and-answer session. [Operator Instructions] First question comes from Mark Fitzgibbon, Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Hey guys, good morning."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Just curious, you guys have been holding the balance sheet under $10 billion for a while here, should we assume that absent any acquisitions you'll grow through that $10 billion organically sometime within the next couple of quarters?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Yes. This is Chris. Absolutely, Mark, it was just the last quarter and there is no real reason, an initiative for us to go through after the acquisition. So we anticipate probably, again subject to payoffs and other things that may happen that it would be happening in the middle of the year."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Okay. And then, wondered if you could share with us what total assets under management are today and specifically at Tirschwell & Loewy?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Total assets under management are at $3.4 billion; T&L is about $922 million."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Okay. And then, I'm curious, of the $4.7 million in net charge-offs that you had this quarter, where did those come from. What was kind of the breakdown?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Primarily the C&I category. It's about four borrowers that make up the bulk of that, diverse industries; no pattern to it. Really nothing notable in terms of an indicator of any future deterioration."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Okay. And then Tom, I wondered if you could just share with us any guidance on the margin and expenses for 2020?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Sure, the margin looks pretty stable for us, give us a plus or minus 2 basis points, let's say, but we expect to hold around these levels. We continue to see downward pressure on the asset yield side of things, but we think we're able to manage the liability cost effectively [Technical Issues]. In terms of expense, probably in the $51.5 million kind of range a quarter, we had about $207 million roughly for the full-year expected non-interest expenses."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Okay and then lastly, CECL implications, any updates there?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "No, we're not really providing guidance on the impact to CECL yet. We're on target with our self-planning, cross-functional planning. The governance and control frameworks in place. We're fine tuning completing validation of the model. So, we expect we'll be in position to disclose those results in the 10-K filing. Difficult to predict future provisioning though, given that the volatility associated with the economic forecast and other model variables. So more to come."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "And just one final question for you, Chris. I'm curious as to your thoughts on the M&A environment and if there is a -- if bank deals are a higher priority or asset manager deals are a higher priority for you all?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Well, with our capital levels we consider those as opportunities for us to grow. They are obviously less and less available as the market has been pretty hot in the New Jersey and in Pennsylvania. So we continue to see that as an opportunity for us to grow and leverage. So we will continue to do that and we will do it the same disciplined manner that we do with every investment and utilizing our capital. So I would say, yes, it's always been on the forefront. I think it just even more so now as we go through $10 billion."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "And which is the priority would you say, bank or asset manager deals?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "The answer would be yes, the most accretive, definitely. If we can expand our deposit base and an opportunity in lowering costs. I think a whole bank acquisition would be preferable. But in the interim, we think that the wealth management space is probably going to have a lot more opportunity, being just the numbers game."
+    },
+    {
+      "speaker": "Mark Fitzgibbon",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question [Technical Issues]"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Hello?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Indecipherable] are you there?"
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Hi. Yes, good morning. Can you guys hear me?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Yes, we can."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "We can hear."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Okay, great. Thanks, good morning. I guess first starting with the loans. You noted the pipeline is down, Looks like it's down year-over-year and quarter-over-quarter. I'm curious what's driving that and whether it's a function of market demand or your appetite for loans given the interest rate environment or potentially some other factor?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "I think it's seasonality in terms of the quarter-over-trailing-quarter. Lot of strong closing activity period and still pretty stable levels, close to $1 billion, $906 million -- $905 million, $906 million at the end of the period. I think demand remains pretty consistent. We're not really seeing a big trail off here."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Yeah, I think -- Mark [Phonetic] this is Chris. The first quarter, we're seeing definitely some C&I coming in at a decent level, products we'd like. I think the pull-through is only about 55% of deal sheets versus getting to finalize. Certainly the commercial real estate also has been pretty healthy. So we're looking forward to the first quarter being a little bit better than last year."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Got it. And then just looking at the balances of multifamily loans, they decline throughout the year about $200 million year-over-year. Was that decline conscious on your part? I'm wondering if it's related to pricing or structure you're seeing in the market concentration perhaps or maybe some other -- something else?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Well, certainly it's been, a lot of people just taking permanent loans out. The agencies are offering a lot of interest only periods longer than we would ever anticipate for very stabilized properties. So that definitely hurt the multifamily space and some aggressive lending at some high leverage levels that we just would not do. And so, when people want to take out proceeds and take it back up to 80%, we don't think that's a prudent process for us. So they do move on."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Appreciate the color then. One last one from me. You bought back stock, I think in the first three quarters of the year. It doesn't look like you bought any in the fourth quarter. I'm curious kind of what drove that decision to step back and how are you thinking about the opportunity to repurchase in 2020 versus other uses of capital, and I know you kind of talked about M&A already a little bit?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yes. Well, again, as always, profitable growth would be number one for us and that includes M&A as well as organic growth. We would like to delever the balance sheet and Mark asked earlier about the, the drop and trying to ensure we stay below $10 billion and how quickly we think we can get up ahead of that.\nWe see steepness in the curve. We'll put some securities on and lever that portfolio up a little bit and hopefully then remix it to more profitable loans overtime. But after growth and certainly buybacks and dividends, the regular dividend will probably remain fairly consistent given the economic outlook. But we have plenty of capital available to do buybacks as the pricing in the marketplace makes sense."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Great, thank you for taking my questions."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from Russell Gunther, D.A. Davidson. Please go ahead."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Hey, good morning guys."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Good morning Russell."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "One of the follow-up on your comments about the loan growth outlook, appreciate the low-single digit guide. I'm curious for your thoughts on kind of what the loan mix drivers of that would be. And then Chris, just any further color you could provide on what you think is driving the increased competition in C&I in particular?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Taking the first one, we see, again, the commercial real estate having a lot of opportunities, obviously you get size and scale in our market and contiguous. We definitely are still evolving in some of the construction with very well-known principles that we've been doing for a lot of years. So there is opportunities in that space.\nIn the C&I side, I think a lot of people are trying to diversify their balance sheet. So the competition is definitely there and it's across industry sectors. We do like to do owner occupied properties for the most part. Obviously like a little bit of collateral if it's -- goes those along with the C&I credit and the relationships that come with that.\nSo there's no real industry code red that we look at. I know that we, in the past deemphasized a couple of industry sectors and we just -- you've just to be cognizant of what's going on in the business market to say what do you think is going to be there and that will continue to have real positive growth and good financial results."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Okay, very good, thanks. And then last question would be, on the expense side of things, understand the guide of around $51.5 million a quarter, and what the franchise investment is and pressures there. Just curious if you think there is an opportunity whether it's branch rationalization or some other levers to pull to kind of help mitigate that and maybe that's not a full-year '20 impact, but just curious as to any offsets to continued franchise investment?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Well, we certainly have always been evaluating the franchise with -- we did a sale leaseback of a lot of branches a couple of years ago. We always evaluate the profitability of that network and the cost attached to it. So that's not something that's new to us. Obviously, operating costs as we've gone to over $10 billion, we have the regulators in here on a full-time basis. The risk characteristics of the enhanced regulation have caused us to have to invest a little bit more in that space.\nObviously CECL and all of that with all the consultants to make sure and the documentation that it just adds to the cost structure. On the other hand, we're always looking at -- nickels and dimes add up to dollars and so we're always looking around the edges of how can we be more efficient, use technology and at the end of the day, we should be able to achieve the operating efficiencies through some people counts.\nSo we're really -- always trying to do that. I think just in this interim period with all the things going on between regulatory and CECL that just added to the consultant's expense that hopefully will go down a little bit over time."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Got it. All right. Understood. Thanks for taking my questions guys."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Steve [Technical Issues]"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Steve you there? Hello? Hello?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question is from Collyn Gilbert, KBW. Please go ahead."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Wow, good morning, guys."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Hello, Collyn."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Welcome to cyber space, I guess."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "The joys of technology, OK. So let me start, let me -- I think -- I don't even -- I guess the last question was on expenses, but I just want -- I'm just curious to dig into that a little bit more. So with the increased costs that you guys have had to carry with CECL and crossing $10 billion is the expectation then that those costs will not be able to reverse going forward that some of these new investments are just going to hold or is the thought that those -- you will reverse some of those that we will offset by other areas within the business?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "It gets more productive, I think, certain things are changing, but then other things are growing as we continue to expand and build infrastructure. So the numbers I kind of threw out were about $51.5 million a quarter, about $207 million for the year is what we're expecting for non-interest expense."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay. And have you quantified -- I know going into crossing $10 billion. I think if I recall that your expense outlay seems fairly minimal. I don't remember the exact number, but have you quantified all in now what the cost has been for you guys to cross $10 billion, putting Durbin aside, just on the expense side?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "You know we got away from trying to even measure it because that was less specific to stress testing around Dodd-Frank Act stress testing rather just increases. So, we kind of view this as more as growing capabilities in commensurate with the sophistication and size of the organization. So we don't really isolate it so much anymore."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay. Okay. And then Tom, I just wanted to make sure, did I hear you correctly that the pipeline yield, you did you say 3.70%?"
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "3.97%."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "3.97%, OK. Okay, I mean that's still quite a bit lower, I guess been your portfolio yield. But given the NIM guide, do you still feel comfortable that even with the downward pressure there you can offset it on the funding side, despite the fact that I feel like you're funding costs are so low already?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yeah. We think there's still some room. Certainly I'm going to look at what's coming off in terms of maturities both on borrowings and some of the time deposits. There is opportunity there and we still have some exception pricing deposits that we can move down further. So we think we can match it."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Collyn, this is Chris. And obviously, we're seeing a bit of fixed rate longer-term lending in the C&I space and with competition and we tend to not win in that business. So we don't think that that's the right place to be. So and we have obviously focused on variable rate. You know sometimes in our [Phonetic] expense, but certainly always being prepared and trying to match on an asset liability basis to be pretty much a match funded not being one way or the other, whether it'd be liability or asset sensitive."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay, that's helpful, thanks. And then just on the fee side, just Tom, can you kind of give your outlook there for fees. Obviously elevated this quarter for prepays, swaps. Maybe if you could break out what those specific numbers were in the quarter and then just yeah, -- well your outlook overall for fees?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Sure. Prepayment income was $1.7 million. That was up from $1.5 million last quarter. I guess the other large valve item is swaps that was $1.5 million versus $2.7 million last quarter. So we did have a reduction in there. So I kind of see range of like 16% -- I know it's pretty wide, but 16% to 18%, given the volatility in those two categories, sort of where we land most quarters."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay. And then the -- can you remind us -- there is seasonality, right in the first quarter on service charges. It's jumped around a bit, but I just want to make sure that we're modeling that correctly."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yeah, I mean we're closed seasonality in service charges on the expense side of things we always have a little bit of seasonality around payroll taxes and typically utilities and snow removals that kind of stuff although it's been a pretty mild year so far."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay. But nothing on the service charge. Okay. There might have just been some other items. Okay, that was all I had. Thanks guys."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Oh wait. No I actually I did have one more, sorry, dividend. I know you had indicated kind of you prioritize capital and how you want to spend, which is very clear. Just curious about a special dividend?"
+    },
+    {
+      "speaker": "Thomas M. Lyons",
+      "speech": "Yeah, we've done I think three or four specials in history. I think maybe it's three, certainly something that would remain under consideration given the high levels of capital that we hold. And again as to whether we prefer special dividend versus buyback really depends on the pricing that the buybacks are available at."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Okay. All right, I'll leave it there."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Collyn, this is Chris. Obviously the term special is what has to be considered at the same time. It was routine that would be part of our business model. That's not necessarily the case."
+    },
+    {
+      "speaker": "Collyn B. Gilbert",
+      "speech": "Got it, OK. Thank you."
+    },
+    {
+      "speaker": "Christopher Martin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 29 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Leonard G. Gleason--Senior Vice President & Investor Relations Officer",
+    "Christopher Martin--Chairman, President & Chief Executive Officer",
+    "Thomas M. Lyons--Senior Executive Vice President & Chief Financial Officer",
+    "Mark Fitzgibbon--Piper Sandler -- Analyst",
+    "Unidentified Participant",
+    "Russell Gunther--D.A. Davidson & Co. -- Analyst",
+    "Collyn B. Gilbert--Keefe Bruyette & Woods Inc. -- Analyst"
+  ]
+}

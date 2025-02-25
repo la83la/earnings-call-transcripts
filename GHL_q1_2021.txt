@@ -1,0 +1,200 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Greenhill First Quarter 2021 Earnings conference call. [Operator Instructions]\nI would now like to turn the conference over to Patrick Suehnholz, Director of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Patrick J. Suehnholz",
+      "speech": "Thank you. Good afternoon, and thank you all for joining us today for Greenhill's First Quarter 2021 Financial Results conference call. I am Patrick Suehnholz, Greenhill's Head of Investor Relations. And joining me on the call today is Scott Bok, our Chairman and Chief Executive Officer. Today's call may include forward-looking statements. These statements are based on our current expectations regarding future events that, by their nature, are outside of the firm's control and are subject to known and unknown risks, uncertainties and assumptions. The firm's actual results and financial condition may differ, possibly materially, from what is indicated in those forward-looking statements.\nOr a discussion of some of the risks and factors that could affect the firm's future results, please see our filings with the Securities and Exchange Commission, including our annual report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K. Neither we nor any other person assumes responsibility for the accuracy or completeness of any of these forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. We are under no duty to update any of these forward-looking statements after the date on which they are made. I would now like to turn the call over to Scott Bok."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Thank you, Patrick. We reported first quarter revenue of $68.9 million, operating profit of $7.2 million and net income per share of $0.09. Our quarterly revenue was 3% higher than last year and our operating profit and earnings per share compared to a loss last year. Given that this quarter followed one where we had our best quarterly revenue ever, we see these as respectable results that mark a solid start to the year. We are also pleased that after quarter end, we further accelerated the pay down of our debt and that we have made good progress toward our recruiting goals. I will now comment very briefly on our operations as we continue through the pandemic, then on the state of each of our businesses, then speak on each of our key financial metrics. As I've said in each recent quarterly call, our firm has operated well throughout the pandemic. At this point, most of our offices have at least some people back from home, and some are operating fairly normally. In-person attendance will naturally grow as more people get vaccinated and the virus risk declines, both generally and particularly for our people, most of whom I expect have been or will be vaccinated.\nTo the extent people are still working from home and may be for some time to come, we have proven that we can be very effective at both executing for existing clients and winning new clients in that format. But we do think working from the office is better for our team's productivity, efficiency, training, morale and other reasons. So our goal is to get largely back to that over the next few months in most of our office locations. Turning to our businesses. M&A activity is stronger than it has been in recent years in each of our main markets. It is particularly strong in the U.S. where it is running at a record pace. We see this in the fact that we are winning a significantly larger number of assignments than we did last year just pre-pandemic or the year before, which benefited from a good economy and no unusual health risks. The timing of deal announcements and completions is what determines quarterly results. So those results vary as they always have, given the serendipitous nature of deal timing. But we feel like we're off to a good start this year in all respects. Consistent with industrywide statistics, the U.S. is the most active part of the firm, but we are also very busy in place is the were less active last year, like Australia and Canada. Europe is off to a slower start this year, likely because the pandemic is subsiding less quickly there than in the U.S.\nOur hope and expectation is that as other countries emerge from the pandemic period as the U.S. appears to be now, we will see economic and deal activity rebound sharply there just as we are seeing it in the U.S. now. With respect to restructuring activity, I said last quarter that activity had slowed considerably from last year's frenetic pace, and that continues to be the case. There will come a time when financing markets will tighten simply because that's always the case. And there will then be another surge of restructuring activity. In the meantime, we are supplementing our traditional restructuring activity with an increased emphasis on financing advisory work. The debt markets have become far more diverse in recent years with the proliferation and growth of so-called alternative lenders. We can be very helpful to our clients in accessing that market.\nLastly, after a very slow period last year, the market for private capital advisory transactions is again very active. In our private capital advisory business, we are busy in Europe and Asia doing transactions in the secondary market, including many larger, more complex assignments for the general partner of a private equity fund, is accessing the secondary market to achieve strategic goals. In the U.S., we've made good progress rebuilding our team. And as part of that, we have taken steps to build a primary fundraising business, which we think can be productive in its own right, but also highly complementary to the secondary business. Our press release notes several hires we've made and there are others in progress. We expect very shortly to have a fully functioning global team for the private capital advisory business, encompassing primary capital raising, secondary sales and general partner-led fund restructurings. Speaking of recruiting, our press release also notes recent hires on the M&A side of our business. We have other recruits well in progress and expect this year to be an important year in terms of M&A recruiting with an emphasis on the U.S. market and on adding incremental industry sector expertise. For a wide range of reasons, we are seeing a lot of good candidates. Now turning to our costs.\nOur compensation costs were lower than last year in absolute terms, but our compensation ratio was higher than our target range. Our objective is to bring the ratio down to the target range for the full year. Where we end up, as always, depends heavily on our revenue outcome for the year. Our non-compensation costs were lower than last year and are running at a rate consistent with our target. There were a few unusual expenses this quarter, primarily related to foreign exchange losses, and we continue to look for opportunities to drive costs lower even post pandemic. Our interest expense continues to trend lower, given declining debt levels and continued low short-term interest rates. Our tax rate of 26% for the quarter after adjusting for the impact of charges related to the vesting of restricted stock is consistent with our guidance. We ended the quarter with $87.9 million of cash and $326.9 million of debt. We paid down another $20 million of that debt since quarter end.\nWe also declared our usual $0.05 quarterly dividend and bought back just under a million shares and share equivalents for a total cost of $14.5 million. We have $35.5 million of repurchase authority available for the year ahead through next January. As I said last quarter, our principal focus is on deleveraging, but we also intend to purchase shares in a prudent manner to further enhance the upside potential for continuing shareholders. Our employees currently own about half of the economics of the firm through stock and restricted stock and thus are fully aligned in trying to drive shareholder value in the quarters and years to come. With that, I'll be happy to take any questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Devin Ryan with JMP Securities. Please go ahead."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Great. Good afternoon, Scott. How are you?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Very well, Devin. How about you?"
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Doing great. I guess, first one here just on the outlook, appreciate some of the commentary. If we go back, I think, last quarter's call, you talked about being disappointed if revenues didn't grow year-over-year in 2021. So I'm just kind of curious when you put the kind of outlook together, is that still kind of the view? And how have things evolved in the environment over the past few months, I guess, since the last call that we did with you?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I think my view would be the same as it was a few months ago. I mean, I still feel like we're in -- kind of, as I said last quarter, that restructuring clearly has slowed as financing markets have become so strong. We're trying to do more in the financing space as opposed to bankruptcy type restructuring. And on the M&A side, if anything, I'm probably pleasantly surprised by how strong activity is right now. It is heavily weighted, I would say, toward the U.S. market, but I really think that's a function of the pandemic. I mean, for example, Australia, also very busy for us right now.\nIn Australia, of course, is even ahead of the U.S. in terms of coming out of the pandemic. So it really seems like there's a positive trend, maybe better than I might have thought three months ago in terms of as countries come out of the pandemic, like Australia clearly has and clearly, the U.S. is on its way toward that, you do get a sharp rebound in M&A activity, and we're certainly hopeful that Europe follows that trend in the months as it comes out -- as we go forward as well."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Yes. Okay. Very helpful. And then just to pick up on some of the commentary on, kind of the financing opportunity and what's been a really good environment, as you noted. Is that effectively taking restructuring bankers and pivoting kind of where they're focused? Or is it M&A bankers working with clients around financing needs? Or like how are you guys executing on this? And I'm assuming most of this activity is not showing up in kind of what we see visibly. So just kind of curious kind of how it's happening and then kind of if there's any way to track from the outside?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I mean when we do something meaningful, and it's known publicly, of course, we do at least put it on our website, even if it isn't picked up by some database you may be looking at. But it's primarily, I would say, our -- we call our group financing and restructuring advisory and all the people in there in a year like last year really are spending most of their time on bankruptcy related work, but those people all have tremendous experience in financing as well, obviously, not for double and triple A-rated companies. But for the companies that tap into the alternative lending market and things like that. So that group, it's a great complement to what they do in times when there's a lot of bankruptcy because the same people have the right skills and can do that in a period like now where you've got fabulous financing markets, which means lots of opportunity there, but less opportunity on the bankruptcy side."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Yes. Okay. Got it. And then just last one, I was kind of writing down as you were talking earlier about, obviously, the operating margins in the quarter, but then kind of your targets in the believe mid-20s. And I just want to make sure I'm kind of understanding the thought process here. Is it reasonable to think that if revenues willing, or revenues come in at a reasonable level this year, that you could be back into the, call it, target range? Or is that kind of a longer term view? I just want to make sure I kind of picked up on the way you were framing that correctly."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I mean, it -- obviously, margin is always going to be a function of revenue. But when we put out that target last quarter is back to the mid-20 s operating margin. I mean, we weren't talking multiple years from now. Our objective is to get back there pretty quickly. How -- exactly how quickly is obviously going to depend on how revenue materializes. But we do think that we've had a real benefit in the sense of lower non-comp costs, not just pandemic related, but other things as well, and that provides a big step forward in trying to get toward that goal."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Yes. Okay. Great. Really appreciate it, Scott."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Sure. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And the last question comes from Richard Ramsden with Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Hi. Good afternoon, Scott. Just a couple of questions from me. Could you just expand a little bit on your comments on restructuring? And obviously, I know you said that you do think it's going to be a weaker year. That's consistent with what you said before. But has your view changed since you last spoke in terms of what you think the magnitude of the restructuring opportunity is going to be for 2021? And linked to that, are some of these restructuring mandates getting executed as M&A mandates? Is there a substitution between restructuring and M&A, just given the benign economic outlook and the fact that financing is just so broadly available?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I think my view of the restructuring market is really completely consistent with what it was a few months ago. I mean, clearly, there was just an enormous wave of restructuring assignments that were handed out in sort of the second and third quarter of last year, there were less of them handed out in the fourth quarter because the Fed had stepped in and really made the financing markets a lot better. And I expected that trend to continue, and it really has continued.\nNow we still have things working their way through the pipeline, of course, and getting done, being successful, so that's great. But we came into the year expecting not to see anything like last year's pace of restructuring, but again, trying to shift that talent more toward financing opportunities because that obviously is a hot market, and there's plenty to be done there."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Okay. And then secondly, on corporate tax reform, it's obviously gaining a lot of momentum in the U.S., what sort of impact do you think that could have? Is it too early to say whether it's going to slow down M&A activity? Could it act as an accelerant as people try to get ahead of it. But broadly, what is your thought process around the impact of corporate tax reform in the U.S.? And how important is it a dialogue point with clients today?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I don't think it really is very important. I mean, first of all, I don't think most people expect a really dramatic change in the corporate tax rate. I think most clients I've spoken to and others expect that it's going to be more of a compromise outcome or if there's an increase at all, it will be something that's more manageable. And I don't think public companies make their decisions really based on corporate tax rates.\nI do think there would probably be some private companies out there, whether it's private equity owned or whether it's family owned, where people might decide that they want to get a deal done under a lower tax regime. So maybe it accelerates things a little bit. We had a couple of things last year that I think got accelerated because people expect that there might be higher corporate tax rates this year. But I don't expect anything really meaningful in that sense in a positive or negative way. I just don't think it's going to be a big enough change to really change behavior."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Okay. And then lastly, both strategic and financial sponsor activity has been very, very strong so far this year. As the year progresses, do you think there's going to be a divergence between corporate activity and financial sponsor activity? Or do you think they're going to remain heavily correlated? And perhaps you can just update us on where you've got to in terms of building out your financial sponsor practice, where you are and where you'd like to be."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I would say, I don't expect a big diversions between the two sides. I mean what you're seeing now is public companies getting very active in M&A, particularly some sectors that were very quiet last year, like industrials. Companies are performing well. Their earnings are way up, their stock prices are up. I mean they can borrow very cheaply. I mean they've got really all the building blocks in place to want to do M&A. Now private equity, on the other hand, is sitting there with a tremendous amount of dry powder. So they're looking to do things as well.\nAnd I think the sort of older view from years past that private equity sort of slows down when prices get high. I just don't really think that's true anymore. I mean you see private equity funds paying very high multiples for growth-oriented companies in a variety of different sectors. So I'm pretty optimistic about both types of M&A activity. And for us, we're certainly -- we've got some really good mandates right now for sponsors. But we're in the very early days of building out what I think could become a very significant part of our business. I hope even in the next few months, there will be some more tangible successes of deals that we do for the financial sponsor community. But I think that business could be many times bigger going forward as it is for many of our peers that focused on it a lot earlier than we did when we were more concentrating on public company work."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Okay. Thanks very much. That's very helpful."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And a few more questioners actually have come in. If I may. First, we have Jeff Harte with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Hi Scott."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Hi Jeff."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "A couple from me. One, you mentioned Europe being slower than North America, which we're clearly seeing. What are you seeing there as far as dialogues? And I guess I'm trying to get to maybe what are the lack of face-to-face there is a bigger deal than it is in the U.S., as far as taking deals to the announcement stage versus kind of the underlying demand to transact."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I think there -- I think part of it is related to the lockdowns, and obviously, they in Europe have had much longer lockdowns and kind of more severe lockdowns than we ever had in the U.S. And while it looked for a while like they were somehow getting through the pandemic better than America, it looks the opposite recently. So I think that's having a big impact. But I think there's also an economic phenomenon here where the U.S., economy is now roaring back. You see these quarterly results from companies in a lot of different sectors that are kind of just shockingly good.\nI don't think that's as true in Europe yet because they're looking at very difficult GDP quarters over there because of the lockdown. So I think there's plenty of interest over there, and we've seen things come roaring back in Australia. We think to see companies being very active in M&A in the U.S., and I think as soon as you see that turn in Europe or suddenly, GDP is growing strongly and people aren't quite as locked down. I don't see any reason why you wouldn't have the same kind of surge of activity over there. I just think realistically, it's probably three to six months behind where the U.S., is in that progression."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Okay. Thanks. And you mentioned how strong the environment is now, and we see and hear that a lot. Can you kind of maybe put that, in your opinion, a little bit in context into kind of what you've seen in prior periods of cyclical strength? Just kind of -- it seems like things are exceptionally strong now on versus the past. I'm wondering if you're kind of sensing that as well."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Yes. I would say that one thing you learn a lot in this business, and I'm sure you guys all do as research analysts as well, is you can look at the three or four months into the year and see how M&A is trending versus past years and picture can look very different as you get to the end of the year because sometimes you have a very strong start. Sometimes you have a strong finish. So you can't always just annualize things and think that's where they're going. But if you looked at the first four months of this year, you would say that in Europe and the rest of the world, it's a little bit better than it has been in recent years. In the U.S., it's like 50% above the best it's ever been.\nI mean, it's really pretty extraordinary levels of deals. And I've always looked at sort of the number of $500 million or greater transactions. That's certainly off to a record pace by a significant margin in the U.S. Or you look at deal volume, it's the same thing. So the U.S., is really a standout. And I think it's important to look at it regionally because globally, yes, the numbers look strong, but if you break it out regionally, what you see is really just kind of extraordinary level of activity in the U.S., and frankly, just a little bit better in the rest of the world. But again, I think as Europe comes out of the pandemic, hopefully, they catch up."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Okay. Thanks."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And sir, currently, the last questioner is Michael Brown with KBW. Please go ahead."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "Okay. Great. Thank you. Hi, Scott, I just wanted to start on SPAC's. Obviously, that's been kind of the hottest trend in capital markets over the last few months, obviously going through some indigestion at the current moment. But we saw that in the first quarter, it looked like you guys were involved in some transactions. So just wanted to hear you talk a little bit about Greenhill's capabilities there. Is that an area that you're looking to do a little bit more investments in? And then what is kind of your expectations for how the M&A side of the market there as the sponsors find targets, how that will play out and how that could play out for Greenhill?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Well, we've certainly been quite active in SPAC's and spent a lot of time on it. We have just a lot of dialogues going on related to SPAC's. And there's kind of two types of roles, at least as we see it, and I suspect other firms probably see similarly. I mean, if you're on the buy side for a SPAC, I think there tend to be a lot of advisors involved in the fees -- they're nice to have and the credentials are nice to have, but they're not extraordinary.\nThe better role in terms of economics is to be on the sell side, selling something into the SPAC community. And we've had some of those as well; some pending others kind of in the earlier stage pipeline. And those are very attractive because you've got a lot of SPAC's looking to make acquisitions. And frankly, probably more than our targets for them to get. So you can get good valuations, and you can certainly get appropriate fees for that kind of work. I don't think the SPAC phenomenon is going to continue indefinitely.\nThat's been my view all along and see a little bit of that kind of signaling that in the market right now. But I do think it's ways further to go. I feel like we have all the capability we need to do a lot of business in that area, but we're also not acting as if this is going to be sort of a long-term trend the way other types of public company M&A or financial sponsor activity are. It's just kind of a phenomenon that's happening right now for sort of the last year, perhaps through the next year, maybe two, but I think probably goes back to a more normal level at some point."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "Okay. Great. I appreciate the perspectives on that. And maybe just two quick ones on expenses. So you had mentioned -- you made reference to some episodic items in the non-comp line this quarter. Can you just quantify those, just so we understand where they are and make sure we get the right jumping off points here?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "It's not like it's extraordinary. But we had -- every year, there's just minor sort of foreign currency things. And last year's first quarter, they were a positive. And this year, they were a negative. So the net is somewhat meaningful, but there's always some one-offs each quarter, and we're within our target. And I continue to think that there -- we try to be conservative in setting that target. So I'd like to think we can do even a little better than that in the non-comp side. So we're very happy with the way costs are playing out. And there's an amount that's meaningful enough that it's worth mentioning in our press release and our 10-Q, but it's not so extraordinary that I would sort of change my outlook as to the future run rate of costs."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "Okay. And then on comp expense, comp dollar expense, I heard your commentary about the operating margin, and that seems to be the right way to think about the business. But if you think about, kind of, the near-term comp dollars, which came down nicely year-over-year in the first quarter, any color on how that trajectory or cadence could be for this year? It just sounds like you're expecting a pretty active hiring environment and just trying to square those things with how the comp dollars could play out for the year?"
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "I think we really aim for a comp ratio on an annual basis, and we've done a reasonable job of getting there, not always at the beginning of the year, but we normally get there. I think we expect to do a lot of recruiting this year, but I wouldn't expect to do so much that it would have a dramatic impact on the comp ratio. So I think we can continue to work on getting our comp ratio targets and at the same time, make some significant hires on at least two parts of our business without taking away from that goal."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "Okay. That's helpful. Thank you for taking my questions."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Scott L. Bok for any closing remarks."
+    },
+    {
+      "speaker": "Scott L. Bok",
+      "speech": "Okay. I'll just say thank you, everybody, and we look forward to speaking again next quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator closing remarks]"
+    },
+    {
+      "speaker": "Duration: 26 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Patrick J. Suehnholz--Managing Director Director of Investor Relations Chief Operating Officer of Investment Banking Co-He",
+    "Scott L. Bok--Chairman & Chief Executive Officer New York",
+    "Devin Ryan--JMP Securities LLC -- Analyst",
+    "Richard Ramsden--Goldman Sachs Group, Inc. -- Analyst",
+    "Jeff Harte--Piper Sandler & Co. -- Analyst",
+    "Michael Brown--Keefe, Bruyette, & Woods, Inc. -- Analyst"
+  ]
+}

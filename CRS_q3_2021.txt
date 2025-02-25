@@ -1,0 +1,168 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Hello, and welcome to the Carpenter Technologies Corporation First Quarter Fiscal 2022 Conference Call. [Operator Instructions]\nI now would like to turn the conference over to Brad Edwards, Investor Relations. Mr. Edwards, please go ahead."
+    },
+    {
+      "speaker": "Brad Edwards",
+      "speech": "Thank you, operator. Good morning, everyone, and welcome to the Carpenter Technology earnings conference call for the fiscal 2022 first quarter ended September 30, 2021. This call is also being broadcast over the internet along with presentation slides. Please note, for those of you listening by phone, you may experience a time delay in slide movement. Speakers on the call today are Tony Thene, President and Chief Executive Officer; and Tim Lain, Senior Vice President and Chief Financial Officer. Statements made by management during this earnings presentation that are forward-looking statements are based on current expectations. Risk factors that could cause actual results to differ materially from these forward-looking statements can be found in Carpenter Technology's most recent SEC filings, including the company's report on Form 10-K for the year ended June 30, 2021, and the exhibits attached to that filing. Please also note that in the following discussion, unless otherwise noted, when the management discusses sales or revenue, that reference excludes surcharge. When referring to operating margins, that is based on operating income and sales, excluding surcharge. I will now turn the call over to Tony."
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Thanks, Brad, and good morning to everyone. Let's begin on Slide four and a review of our safety performance. Through the first quarter, our total case incident rate of 1.1 is tracking above our fiscal year 2021 performance of 0.6, which was our best fiscal year safety performance on record. Our ultimate goal continues to be a 0 injury workplace. To that end, our safety teams are placing emphasis on key initiatives, including enhanced safety, leadership development and employee engagement. You can read more about our safety programs in our 2021 sustainability report, which we released earlier this month. In addition to highlighting our commitment to health and safety of our employees, the report details our environmental stewardship and social programs to engage employees and local communities. I hope you will take some time to read the report and learn more about our environmental, social and governance programs.\nNow let's turn to Slide five and a review of the first quarter. We continue to see demand patterns improve across our customer base, where the pace varies by end-use market. Notably, we saw demand improve via backlog growth in our key aerospace and defense and medical end-use markets, which together accounted for approximately 55% of our revenue this quarter. A key indicator of improving marketing conditions is backlog growth, where we generated increases of 25% sequentially and 49% year-over-year.\nWhile the PEP segment finished ahead of our expectations, performance in the SAO segment was impacted by operational delays. Most notably, workforce shortages driven by COVID-19 isolations at certain key work centers due to the Delta variant and hiring difficulties in the current labor environment. Looking ahead, we don't expect any long-term impact from these challenges and expect SAO performance will accelerate as market conditions continue to improve.\nImportantly, our liquidity remains healthy as we finished the quarter with over $500 million in total liquidity, including $213 million in cash. We also continue to provide direct returns to our shareholders through our quarterly dividend program. Collaboration with our customers has been critical during the downturn, and we remain focused on working with them to align our production with their evolving material requirement. It is also important to note that customer engagement on Athens' qualifications remain high as we continue to broaden our capabilities.\nAs we shared on our last earnings call, we recently commissioned a new hot strip mill at our Reading campus. The mill significantly strengthens our soft magnetic capability and production capacity at a time when electrification is increasingly disrupting our major end-use markets. The productivity, quality and consistency of our new hot strip mill is a competitive advantage for us, which has already resulted in increased demand from customers.\nNow let's move to Slide six and the end-use market update. Our aerospace and defense end-use market sales were down 18% sequentially and 9% year-over-year. This decrease was not driven by weaker demand. The sequential decrease was driven primarily by customer arrangements, which required them to take material before the close of our fiscal year as stocking agreements expired. It is noted the majority of those agreements were in the aerospace and defense end-use market. If you remember, I mentioned this point on our fourth quarter call. Year-over-year sales results were impacted by higher prior year shipments as we will then continue to process and ship orders placed prior to the pandemic.\nA year ago, demand backlog was falling as customers reacted to build rate reductions. Today, it is growing. Our Aerospace and Defense backlog is up 25% sequentially and 17% year-over-year as customers anticipate ongoing improvement. Industry consensus is still anticipating a dramatically improved calendar year 2022 compared to 2021. And we are already seeing some customers preparing for increased production plans. For example, the fastener and distribution submarkets are beginning to lean in to replenish the supply chain.\nIn calendar year 2022, replenishment planning continues for our engine customers. In the medical end-use market, sales were down 3% sequentially and up 24% compared to last year. The results reflect [demand that has] improved since this time last year while working through COVID-19 headwinds. While there are some geographical concerns about the ongoing impact of COVID-19, the overall outlook is positive as medical procedures are expected to increase next quarter and into calendar year 2022 as the market approaches pre-pandemic levels.\nAs a result, we expect booking rates, backlog and shipments to show further improvement in the coming quarters. In the transportation end-use market, sales were down 14% sequentially and up 28% compared to last year. The results reflect the supply chain challenges and chip shortages that are impacting the end-use market. As [rightly] reported, uncertainty in the supply chain for parts is driving reductions in production at most manufacturers.\nHowever, we see solid demand over the mid and long term. Fundamentals in the light-duty submarket remains strong as consumers continue to spend even as inventories are low. And we still see market share opportunities in both the light vehicle and heavy-duty truck submarket, while continuing to further penetrate key market adjacencies, including off-road, marine and aftermarket.\nIn the energy end-use market, sales were up 21% sequentially and down 24% compared to last year. In the oil and gas submarket, we are seeing signs of recovery in North America. This is evident as the North America rig count is up 100% compared to last year. The international market has largely stabilized and the outlook is becoming more positive. And we saw sequential growth in the power generation submarket as we continue to work closely with customers on the maintenance upgrade cycle. In the industrial and consumer end-use market, sales were down 2% on a sequential basis and up 5% on a year-over-year basis.\nWe continue to see historically high demand for our semicon solutions and expect demand to remain strong throughout the fiscal year. In addition, we continue to see healthy demand in the electronics submarket. Now I'll turn it over to Tim for the financial summary."
+    },
+    {
+      "speaker": "Timothy Lain",
+      "speech": "Thanks, Tony. Good morning, everyone. I'll start on Slide 8, the income statement summary. Net sales in the first quarter were $387.6 million, and sales, excluding surcharge, totaled $312.9 million. Sales, excluding surcharge, increased 2% from the same period a year ago on 2% lower volume. Compared to our recent fourth quarter, sales decreased 10% or 9% lower volume.\nAs Tony covered in his comments, we continue to see signals of improving demand conditions across most of our end-use markets as evidenced by our growing backlog. Gross profit was $25.2 million in the current quarter compared to $3.5 million in the first quarter of last year and negative $21.3 million in the fourth quarter of fiscal year 2021. The year-over-year improvement in gross profit is primarily due to the higher net sales as well as the significant negative impact on profitability in the first quarter of last year related to lower activity levels across our facilities combined with the significant inventory reduction actions that were executed.\nWhen normalizing for the impact of the LIFO charge in the fourth quarter of fiscal year 2021, the lower gross profit sequentially is largely due to the reduction in volume in the current quarter. SG&A expenses were $44.3 million in the first quarter, up $2 million from the same period a year ago and down $4 million sequentially. The year-over-year increase reflects higher amortization costs related to the ERP system that was placed in service during fiscal year 2021. The sequential reduction is largely due to a reduction in professional services and lower accruals for certain incentive compensation plans. The operating loss was $19.1 million in the current quarter.\nWhen excluding the impact of special items, adjusted operating loss was $17.5 million in the current quarter compared to a loss of $30.9 million in the prior year period and a loss of $12.5 million in the fourth quarter of fiscal year 2021. Our effective tax rate for the first quarter was 41.3%. The effective tax rate is above the annual effective tax rate guidance we gave due to the impact of certain permanent book-to-tax differences and losses in certain tax jurisdictions for which a tax benefit cannot be recorded. For the balance of the year, we expect that our effective tax rate will normalize.\nWe continue to anticipate our full year effective tax rate will be in line with the guidance that we provided at the beginning of the fiscal year. Earnings per share for the quarter was a loss of $0.31 per share. When excluding the impacts of special items, adjusted earnings per share was a loss of $0.28 per share.\nNow turning to Slide nine and our SAO segment results. Net sales for the quarter were $331.9 million or $258.2 million excluding surcharge. Compared to the first quarter last year, sales excluding surcharge increased 1% on 1% lower volume. The year-over-year net sales results were driven by increased sales and materials to the medical, transportation and industrial and consumer end-use markets that were largely offset by declines in aerospace and defense.\nYear-over-year results for aerospace and defense were impacted due to the timing of shipments of orders placed prior to the pandemic. Shipments remained elevated in the first quarter last year while demand backlog is falling as customers reacted to build rate reductions. Sequentially, sales excluding surcharge decreased 11% on 10% lower volume. The sequential decline reflects the impact of the anticipated planned maintenance outages in our facilities in the current quarter as well as summer shutdowns for certain customers.\nDuring the quarter, we also experienced some unanticipated short-term impacts related to COVID-19 isolations at key work centers, which put us behind from a production standpoint throughout the quarter. The COVID-19 isolations compounded some other labor shortages across certain areas of our operations as we dealt with the same hiring challenges that many other businesses are facing in the current environment.\nMoving to operating results. SAO reported an operating loss of $5.9 million for the current quarter. The same quarter a year ago, SAO's operating loss was $18.6 million. In the fourth quarter of fiscal year 2021, SAO reported an operating loss of $47.3 million. Year-over-year operating results improved by almost $7 million when adjusting for the impacts of COVID-19 costs in both periods.\nThe year-over-year improvement is driven by the negative profitability impacts of reducing inventory we experienced in the first quarter of last year at a time when raw material prices were increasing. That year-over-year benefit was partially offset by increased depreciation costs associated with our ERP system that was placed in service during fiscal 2021 and the newly commissioned hot strip mill. When adjusting for the impact of the LIFO charge in the fourth quarter of fiscal year 2021 and the COVID costs, operating results decreased by about $7 million sequentially. The decrease is primarily due to lower volumes, partially offset by improving cost performance.\nLooking ahead, we expect that demand conditions across most end-use markets will continue to improve. As Tony mentioned earlier, our backlogs are growing, and we continue to expect a more pronounced aerospace supply chain recovery to take shape in the second half of our fiscal year 2022. Our teams are focused on managing costs closely and continuing efforts to unlock productivity improvements as activity rates continue to ramp up.\nBased on current expectations, we anticipate SAO will generate operating results in the range of a $2 million operating loss to $2 million of operating income in the second quarter. This takes into account current customer demand as well as the holiday schedules that both we and our customers are anticipating.\nNow turning to Slide 10 and our PEP segment results. Net sales in the first quarter of fiscal year 2022 were $74.6 million, or $73.6 million, excluding surcharge. Net sales, excluding surcharge, increased 20% from the same quarter last year and were down about 3% sequentially. Year-over-year growth in net sales reflects increased sales across all business units, led by our Dynamet titanium business, principally in the aerospace and defense end-use market and our distribution business. The sequential decline in sales primarily reflects reductions in our additive business due to the timing of certain customer shipments, partially offset by increased sales of titanium materials used in aerospace applications. In the current quarter, PEP reported an operating income of $0.6 million. This compares to an operating loss of $3.6 million in the same quarter a year ago, and an operating loss of $2.3 million in the fourth quarter of fiscal year 2021.\nThe year-over-year operating income improvement is primarily the result of increased net sales as well as the benefits of the actions we took to restructure the additive business unit in fiscal year 2021. The sequential decline in operating income when excluding the impact of a LIFO charge of $4.3 million in last year's fourth quarter is primarily due to the lower sales combined with incremental cost investments to drive expanded capacity in future quarters to meet the growing demand.\nAs we look ahead, we believe that demand conditions will continue to improve in the coming quarters. With that said, given some of the same dynamics that SAO faces, with holidays and customers expecting to manage their year-end inventory positions, we currently anticipate PEP will generate similar sequential operating income in our upcoming second quarter.\nNow turning to Slide 11 and a review of free cash flow. In the current quarter, we used $47 million of cash for operating activities. The cash flow used in operations was primarily the result of increasing inventory by $67 million in the current quarter. The increased inventory in the current quarter is primarily the result of increasing activity levels and the production delays I mentioned earlier. We expect this build in inventory to be temporary and have plans in place to reduce inventory for the balance of the year despite the improving demand conditions.\nMoving down, we previously provided guidance that we do not expect to have any required minimum pension contributions for our U.S. qualified plans during fiscal year 2022. In the first quarter, we spent $14 million on capital expenditures. We continue to target $125 million of capital expenditures for fiscal year 2022, but we are monitoring the impact of labor shortages and supply chain disruptions on the timing of our anticipated projects for the balance of the fiscal year.\nWe also continue to fund a constant dividend to our shareholders, which we consider as part of our free cash flow. With those details in mind, we reported $71 million of negative free cash flow in the quarter. Our liquidity remains very healthy, and we ended the quarter with total liquidity of $508 million, including $213 million of cash and $295 million of available borrowings under our credit facility. With that, I will turn the call back over to Tony. Thanks, Tim. Conditions across our end-use markets continue to largely improve, and we are focused on capitalizing on favorable demand patterns. This is supported by our strong backlog growth generated during our fiscal first quarter. While the results for first quarter of fiscal year 2022 were impacted by near-term operational challenges, we believe they are short term in nature and won't impact our ability to serve our customers and drive growth over the long term. Our strong financial position and solid customer relationships position us to capitalize on market opportunities and the overall recovery as it continues to take shape. Our liquidity position remains strong with over $500 million in available liquidity, including $213 million in cash. We continue to work closely with key customers, navigating the recovery and partnering to solve their critical needs. We also continue to implement the Carpenter operating model to drive improved efficiencies across all of our facilities. And finally, our soft magnetics and additive manufacturing platforms offer long-term growth opportunities. Thanks for your time. And now I'll turn it over to the operator to take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And the first question comes from Michael Leshock with KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Michael Leshock",
+      "speech": "First, I just -- given some of the commentary that we got this week from Boeing and other aero suppliers, do you have a sense how you are shipping relative to the current 19-a-month 737 MAX production that they stated, or maybe whether the supply chain is above or below that rate? And then do you see the supply chain position to be able to support the ramp to 31-a-month and beyond in 2022, or do you see more restocking there? Thanks."
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Yes, good morning. Thanks for the question. I thought it was a really important point that they made during that call. We see the same thing as far as demand increasing, we expect it to accelerate through 2022 as well. I think it's an important point. I've said this many times, prior to the pandemic that aerospace nickel billet was constrained, and you saw the lead times were close to a year.\nAnd I've said that once we get on the other side of pandemic, that market that we provide, aerospace billet, will be constrained again. And that is why our Athens facility is so important. That is why customers continue to work with us to qualify Athens throughout the pandemic, and it's why I think Carpenter Technology has a big accelerator in earnings opportunity because we have Athens that prior to the pandemic was basically not utilized. And now I think as you see going forward, as Boeing and others state that they see constraints in that area, you're going to see Athens become much more impactful to Carpenter Technology going forward because it's the only new capacity in the market."
+    },
+    {
+      "speaker": "Michael Leshock",
+      "speech": "Got it. That's helpful. And then what were jet engine revenues in the quarter, either year-over-year or sequentially? And then how should we think about the cadence of jet engine revenues relative to the total aero as your fiscal year progresses?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Yes, thanks for that question.. Let me give you maybe a little bit more detail than what you want because it is a little confusing at times. If you remember last quarter, engine sales for us was up 26%. And I said, hey, that's inflated because of the -- we pushed out customer orders during the pandemic, the customers didn't need it. We worked with them and pushed it out. But we said we needed to close that out by the fourth quarter or last quarter, which we did. So that 26% was too high. If you look from a sequential basis, this quarter, jet engine sales were down sequentially 20%. If you just look, Michael, normalize that over the two quarters, probably last quarter roughly up 7%, this quarter will be up roughly 12%. So that's really the way you should look at our engines over the last couple of quarters.\nI'll give you two more pieces of information that might be helpful to you for jet engine alone. Backlog in jet engine up 21% sequentially, bookings for our aerospace engines up 49% sequentially. I think that really tells the story that says that the market is coming back and could be quicker than what some might think."
+    },
+    {
+      "speaker": "Michael Leshock",
+      "speech": "Great. And then just lastly for me on the temporary inventory build, is that a one quarter event? Or should we expect a drawdown in inventory in the fiscal second quarter?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Yes. Remember, too, Michael -- good question. We took out about $280 million of inventory last year and I said we would keep that relatively flat. We did increase it in the first quarter. Our plans are to decrease inventory in our second, third and fourth and get back to that flat year-over-year number. So that's the plan. We don't see any reason why we need to build considerable inventory, even with the volumes going up because we think we can be more efficient out on our plant sites."
+    },
+    {
+      "speaker": "Michael Leshock",
+      "speech": "Got it, thank you."
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Yes. Thank you, sir."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And the next question comes from Gautam Khanna with Cowen."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Yeah. Hey, thanks. Was wondering on the Ti fastener feedstock. What -- is it broad-based demand that you're seeing? Or is it one OEM or one channel in particular? Anything you can say on this stuff."
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Yes, more than one customer. So we've seen it from a couple of -- as you know, there's three or four big ones there, and we've seen it across the board. And it's both in our SAO segment and in our PEP segment. So stainless steel fasteners as well as titanium."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Okay. That's good to hear. The other thing I was curious about is just seasonality this year, you normally -- you mentioned Q4 has the vacations and all that you're managing. But we normally see a big step-up in the second half of the year -- of the fiscal year, first half of the calendar. I mean are you expecting kind of a big sequential impact given the demand, the backlog growing?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Yes, yes. I don't want to quantify that exactly to give you exactly where we see the second half. But yes, we do see considerable increase in the second half versus the first. I can tell you this, Gautam. We talk about Aerospace a lot. And certainly, ourselves and everyone else is talking about that first half of calendar year 2022 being an increase. You've heard some companies come out and release right before us that have said the exact same thing.\nI think it's important as well when you think about Carpenter Technology, there's other markets other than aerospace that's close to 50%. In the industrial side, we're at levels higher than it was pre-COVID. And in fact, we're spending some capital expenditures to increase our capacity on the back end side for some of those markets right now because we're at levels higher than pre-COVID. So that's really good to see that we've got other markets outside of aerospace that we see growing significantly going forward as well."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Good point. And Tony, last one. Anything on supply chain constraints, either that affected Carpenter's ability to put on output or among customers, where they couldn't -- they're not able to move product for whatever reason agnostic to Carpenter? But I'm just curious, like, is there anything -- any sales that you think are left on the table or that are unusual with respect to backlog growth?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Well, I think -- yes, I think the entire supply chain shortages, those are real. They manifest themselves most from a bigger -- biggest impact standpoint from the labor shortage. I mean it's really difficult to get talented employees to come in. We've adjusted our wages upwardly and many sites to attract and retain. On some of the other areas, you know from some of our -- or not some, but all of our raw materials primarily nickel, we have mechanisms in place where we pass that -- those price changes through our contracts, so not a lot of impact there.\nBut some of the other packaging materials and process materials like lubricants and acids, yes, we've seen increases in those as well. And we've had to make some changes in some cases on where we allocate some of those -- some of that supply. Not to a standpoint that it was a significant event for us and we do see that easy as we go forward. But Carpenter Technology, like everyone else, is dealing with that -- those types of shortages and disruptions, if you will, on a day-to-day basis."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Thanks a lot."
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And the next question comes from Chris Olin with Tier4 Research."
+    },
+    {
+      "speaker": "Chris Olin",
+      "speech": "Hey, good morning. I apologize for the bad connection here. But I wanted to ask a little bit on titanium and thinking about this movement we've seen in like manganese, maybe titanium scrap, some of the alloys, is there an impact on your business if sponge and scrap starts pushing and get prices higher?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Well, I can -- I'll answer it this way, Chris, on a more general level. When we look at our titanium business now, as you well know, we serve two primary markets, we serve the medical market and we serve the aerospace market. Both of those markets for us going forward, we've seen increases in the current quarter and expect those to accelerate over the next couple of quarters. As far as feedstock goes, we have, in many cases, lots in long-term contracts."
+    },
+    {
+      "speaker": "Chris Olin",
+      "speech": "Okay. There is a labor situation going on at one of your competitors. And I'm wondering if there's been any fall off from that or has it impacted your business either way?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Maybe clarify, a labor shortage at someone else's, how it would impact us?"
+    },
+    {
+      "speaker": "Chris Olin",
+      "speech": "Yes, sorry, on the alloy side?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Oh, we haven't seen really any impact there. We plan ahead accordingly and try to keep all of that in front of us. So no material impacts from that as of today."
+    },
+    {
+      "speaker": "Chris Olin",
+      "speech": "And then just last, on the ERP system, is that -- where are you on that? Are we done? Is it in the middle of the, call it, the fifth inning? Something like that. Can you give me like a progress report there?"
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Well, like I said, we kicked off an ERP system this calendar year. They're difficult. I mean we've had our share of challenges. We stayed very close with our customers. I've spoken with customers over the last couple of weeks, specifically on ERP and what it's done for them. To our customers, they all say, \"We're going to stick with you because we know you'll get through it, and we need you in the future.\"\nBut Chris, there's no denying, that has been a challenge for us. And we -- it's delayed some shipments getting to customers. They would have liked it if they got it a little sooner. It impacts probably 20% of our overall customer base. It's primarily those new orders that are coming in. But yes, we do see light at the end of the tunnel, and I think we'll be behind all that by the end of this calendar year."
+    },
+    {
+      "speaker": "Chris Olin",
+      "speech": "Okay, great. Thank you so much."
+    },
+    {
+      "speaker": "Tony R. Thene",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And this concludes the question-and-answer session. I would like to turn the floor to Brad Edwards for any closing comments."
+    },
+    {
+      "speaker": "Brad Edwards",
+      "speech": "Thank you, and thanks, everyone, for joining us today for our first quarter fiscal 2022 conference call. We look forward to speaking with all of you in the coming months. Take care, and have a great rest of your day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 32 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Brad Edwards--Investor Relations",
+    "Tony R. Thene--President, Chief Executive Officer & Director",
+    "Timothy Lain--Senior Vice President & Chief Financial Officer",
+    "Michael Leshock--KeyBanc Capital Markets -- Analyst",
+    "Gautam Khanna--Cowen -- Analyst",
+    "Chris Olin--Tier4 Research -- Analyst"
+  ]
+}

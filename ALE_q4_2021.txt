@@ -1,0 +1,221 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and welcome to the ALLETE fourth quarter financial results call. Today's call is being recorded. Certain statements contained in this conference call that are not descriptions of historical facts are forward-looking statements, such as term defined in the Private Securities Litigation Reform Act of 1995. Because such statements can include risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements.\nFactors that could cause results to differ materially from those expressed or implied by such forward-looking statements include, but are not limited to, those discussed in filings made by the company with the Securities and Exchange Commission. Any of the factors that will determine the company's future results are beyond the ability of management to control or predict. Listeners should not place undue reliance on forward-looking statements which reflect management reviews only as of the date hereof. The company undertakes no obligation to revise or update any forward-looking statements or to make any other forward-looking statements, whether as a result of new information, future events or otherwise.\nWelcome to ALLETE's conference call announcing fourth quarter 2021 financial results after the speaker's presentation, there will be a question-and-answer session. [Operator instructions] As a reminder, this call is being recorded. I would now like to turn the call over to Bethany Owen, chair, president, and CEO. You may begin."
+    },
+    {
+      "speaker": "Bethany Owen",
+      "speech": "Thank you and good morning, everyone, and thanks for joining us today. With me are ALLETE's senior vice president and chief financial officer, Steve Morris; and senior vice president, Bob Adams. Also with us this morning are Al Rudeck, president of clean energy; and Frank Frederickson, Minnesota Power's vice president of customer experience. I'd like to start by first congratulating Steve on being named ALLETE's CFO last week.\nSteve is a familiar face to you all, and he is an integral member of ALLETE's executive leadership team. With his breadth of experience and strategic and technical expertise always founded on strong integrity, Steve is the perfect person for this next era as ALLETE continues to advance the nation's clean energy transformation. Steve succeeds Bob Adams as CFO. As we announced earlier this year, Bob is retiring in June after more than 35 years at ALLETE.\nCongratulations to you, Bob, and thank you for your strong strategic leadership and many tremendous accomplishments and contributions to the current and future success of ALLETE. We're all grateful Bob will be with us over the next several months. Turning to the subject of this morning's call, corresponding slides can be found on our website at allete.com in the Investors section. To follow along, we'll call out each slide number as we go through today's presentation.\nI'm very pleased that this morning ALLETE reported full year 2021 earnings of $3.23 per share on net income of $169.2 million. These financial results were firmly within our 2021 earnings guidance range of $3 to $3.30 per share. I couldn't be more proud of our entire team for these results and all of our accomplishments in 2021. Our businesses had an incredibly strong fourth quarter, ending the year on a high note.\nWe delivered on many operational, positioning, and financial successes driven by ALLETE's amazing employees and strong culture, as together we advance sustainability in action. These accomplishments are providing value to our customers and our shareholders today and will continue to do so for years to come. In a few moments, Steve will provide details of the 2021 financial results and 2022 guidance, and Bob will provide his thoughts on our growth trajectory. Before that, I would like to highlight just a few of the accomplishments we achieved during the year.\nWhile we serve our customers with excellence and provide exciting opportunities for our employees, we take great pride in creating value for our shareholders, and ALLETE soundly executed in 2021, hitting our earnings target and paying an attractive dividend while strategically positioning all of our businesses for sustainable growth well into the future. We're committed to ALLETE's long-term five-year objective of achieving consolidated average annual EPS growth within a range of 5% to 7%, and I'm confident in our ability to achieve this for our investors. During 2021, a year we characterized early on as a transitional year for ALLETE. We highlighted several initiatives we put in motion to improve returns on capital and to provide avenues for additional investments in clean energy infrastructure.\nI'm pleased with our success on these key strategic initiatives. First, regarding improving returns. In late 2021, Minnesota Power received an interim rate order to begin charging new rates, which support the quality and reliability of electric services provided to our customers. The interim rates were approved as filed and went into effect at the beginning of 2022.\nAlthough there's more to play out during the year, we view this as a very constructive outcome that supports Minnesota Power's financial health and ability to continue our clean energy transformation while delivering safe, resilient, reliable, and affordable service to our customers. Superior water, light, and power is also preparing to file a rate case later in 2022. And this will support the company's ability to continue to upgrade infrastructure and maintain the resiliency, reliability, and high quality of services for its customers. Onto new clean energy investments driven by our sustainability in action strategy.\nPlease refer to Slide 3. We're making significant progress on Minnesota Power's vision to provide 100% carbon free energy to customers by 2050. This bold vision reflects our commitment to the climate, our customers, and our communities through Minnesota Power's Energy Forward strategy. Minnesota Power's clean energy transition, detailed in its Integrated Resource Plan, is moving forward in the process, including extensive engagement with a broad range of stakeholders, from customers to communities, to regulators, to employees, and many others, and we expect a decision in the second half of 2022.\nToday, we're pleased to provide updated information regarding our capital expenditure plans to effectuate this transition, and Bob will share some additional comments on all of that in a moment. And it has been great to see that Minnesota Power's taconite customers finished 2021 at full production of approximately 40 million tons. We anticipate 2022 production to be closer to average at around 35 million tons as reflected in Minnesota Power's rate case. But the ongoing investments by these customers in existing production and in product enhancements, including sustainability as well as the prospect of new customers, clearly support the long-term viability and attractiveness of the natural resource based economy of the region that Minnesota Power is privileged to serve.\nALLETE Clean Energy is also making significant progress in our sustainability in action strategy. ALLETE's second largest business with operations that spanned from coast to coast is well positioned to drive additional clean energy sector growth. With the recently completed 303 megawatt Caddo wind facility now in service, ALLETE Clean Energy's total wind capacity has increased to more than 1,300 megawatts. We've also made significant progress in our work to expand ALLETE Clean Energy's focus beyond wind to provide additional growth engines in the clean energy space.\nWe've identified several promising opportunities for investment that would augment ALLETE's existing clean energy solutions and expand our capabilities into solar and storage. We anticipate sharing more on this effort this year. Along with creative solutions for our customers and great opportunities for our employees, ALLETE's mix of businesses offers differentiated value to investors with earnings growth, an attractive dividend, and strong positioning to thrive in the clean energy future. Now I'll turn it over to Steve for further details on our 2021 financial results and 2022 guidance.\nSteve?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Thanks, Bethany, and good morning, everyone. We'd like to remind you, we filed our 10-K this morning along with an 8-K that provides details of our 2022 earnings guidance. Please refer to Slides 4 through 7 for significant year-over-year variances. Today ALLETE reported 2021 earnings of $3.23 per share or net income of $169.2 million.\nEarnings for 2020 were $3.35 per share or net income of $174.2 million. As Bethany mentioned, we finished the year well within our guidance range with both our regulated operations and ALLETE Clean Energy and corporate and other near the upper end of their respective original guidance range. A few significant highlights impacting the full year ended 2021. Earnings in 2021 reflected a $0.16 per share gain recorded in the fourth quarter for the sale of a portion of the Nemadji Trail Energy Center by South Shore Energy, ALLETE's non-rate regulated Wisconsin subsidiary.\nEarnings in 2021 reflected a $0.07 per share charge resulting from the Minnesota Public Utilities Commission decision to order refunds in Minnesota Power's fuel adjustment clause filing, covering the periods of July 2018 through December 2019. Net income in 2021 also included a $0.10 per share negative impact of ALLETE Clean Energy's Diamond Spring wind energy facility related to the extreme weather in the first quarter of 2021. Turning to the fourth quarter of 2021. Overall, ALLETE's consolidated results for the fourth quarter exceeded our expectations with earnings at $1.18 per share, compared to $0.90 per share for the same quarter in 2020.\nAt least regulated operations segment recorded net income of $29.7 million in the fourth quarter of 2021, as compared to $25.3 million in 2020. Earnings reflected higher net income at Minnesota Power, primarily due to higher megawatt hour sales to retail and municipal customers, including a 10% increase from taconite customers and positive income tax expense timing differences. The fourth quarter did include a reserve for the Minnesota Public Utilities Commission decision to order refunds in Minnesota Power's fuel adjustment clause filing related to prior years. ALLETE Clean Energy recorded fourth quarter 2021 net income of $14.6 million, compared to $13.1 million in 2020.\nAnd income in 2021 include a full quarter contribution from the Diamond Spring wind energy facility, which commenced operations in December of 2020, and earnings from the new Caddo wind energy facility, which was in service in December. Offsetting these increases was an anticipated loss on the Northern Wind power project due to higher than expected total estimated cost to complete this project. I will provide additional details on this in a moment. Our corporate and other businesses recorded net income of $17.6 million in 2021, compared to net income of $8.7 million in 2020.\n2021 included an $8.5 million after-tax gain from South Shore Energy sale of a portion of its interest in the Nemadji Trail Energy Center. Also positively impacting 2021 results are higher earnings from our investment in the Nobles 2 energy facility, which commenced operations in December 2020, and higher net income from land sales at ALLETE properties. I'll now turn to our 2022 earnings guidance. Please refer to Slide 8 for further reference.\nToday, we initiated 2022 earnings guidance of $3.60 to $3.90 per share, a net income of $195 million to $210 million. The midpoint of our guidance range represents a 16% increase over 2021 results and reflects our expectations of improving returns and positive momentum around our clean energy investments. This guidance range is comprised of our regulated operations within a range of $2.60 to $2.80 per share in ALLETE Clean Energy and our Corp. and other businesses within a range of $1 to $1.10 per share.\nRecall in February 2021, we shared at a high level that 2021 was expected to be a transition year with continued economic impacts from the ongoing COVID-19 pandemic and preparations for a much-needed Minnesota Power rate case. To provide visibility into 2022, ALLETE provided a preliminary estimated earnings guidance range of $3.70 to $4 per share. The reason for the approximately $0.10 difference between our preliminary guidance estimate and our 2022 guidance issued today relates primarily to ALLETE Clean Energy's expectation of lower megawatt hour generation from its legacy wind energy facilities. At a high level, our actual megawatt hour generation at these facilities has been lower than our recent projections.\nAnd to better reflect recent historical results and updated models, we have refined our estimates and expectations. A few comments on a regulated operations outlook for 2022. Our guidance reflects interim rates for the Minnesota Power retail rate case of approximately $87 million. Interim rates are subject to refund.\nOur guidance assumes we will achieve reasonable outcomes in regulatory proceedings. Minnesota Power's investor sales are expected to range between 6 million to 6.5 million megawatt hours, which reflects anticipated production from our taconite customers of approximately 35 million tons. Our taconite customers started the year with full production. However, recent customer announcements signaled some curtailments during the year, which would result in production in line with our estimates.\nAs you might recall, Minnesota Power has asked for a large power sales true-up mechanism in its recently filed rate case to fairly balance this type of variation in sales between customers and investors. A few highlights from ALLETE Clean Energy outlook for 2022. ALLETE Clean Energy expects total wind generation of approximately 4 million megawatt hours this year, compared to 3 million megawatt hours last year with the expectation of normal wind resources. The increase in megawatt hours is primarily related to the Caddo wind energy facility in service for the full year.\nOur guidance reflects the downward adjusted megawatt hour generation from ALLETE Clean Energy's legacy wind energy facilities, which is more in line with 2021 actual megawatt hour generation. For our Corp. and other businesses, we expect slightly higher earnings from our investment in the Nobles 2 wind energy facility and earnings from a new Minnesota solar project expected to be completed later this year. Earnings per share reflects $50 million of additional equity issuances to fund the Caddo project and other growth initiatives.\nA further update on ALLETE Clean Energy projects, which is detailed on Slide 9. As previously disclosed, we plan to repower and sell the now 100 megawatt Northern Wind project, which consists of the existing Chanarambie and Viking facilities to a subsidiary of Xcel Energy. This transaction remains on track for completion in late 2022 and will provide a significant cash contribution for redeployment. ALLETE Clean energy has experienced inflationary increases and significant cost pressures related to this project, and as a result, now anticipates a slight loss on the eventual sale of this project, which resulted in an approximately $2 million after-tax charge in the fourth quarter of 2021.\nWe will be working to maximize the value of this project and minimize costs as we further navigate supply chain options and work with vendors to make this project profitable. The 20 megawatt Rock Aetna portion of this project is positioned to move forward in tandem with the Northern wind power as a shovel-ready project with attractive future profit potential. We are finalizing development plans to begin and complete construction of the 92 megawatt Red Barn build-on transfer project, the closing expected in early 2023. This project will utilize some of our safe harbor turbines while expanding our customer base and presence in another geographic region of the country.\nThe extension of this project, and a testament to our strong relationships with optionality to serve C&I customers or regional utilities, the 68 megawatt whitetail development project is also advancing with its advanced transmission Q position and landowner relationships for either a long-term PPA or build-on transfer project. Leveraging ALLETE Clean Energy safe harbor turbines, we continue to advance the 200 megawatt Ruso wind project in North Dakota and are working with various regulators on permitting and citing for this facility. I'll turn it over to Bob to share his views on 2021 and our longer-term growth outlook. Bob?"
+    },
+    {
+      "speaker": "Bob Adams",
+      "speech": "Thanks, Steve, and good morning, everyone. First of all, I too would like to begin by congratulating Steve on his promotion to senior VP and CFO of ALLETE. I have worked with Steve for over 20 years, and I found him to be an individual of very high integrity and rock solid in terms of his financial expertise, leadership qualities, and strategic mindset. He has worked closely with me in recent years on numerous major initiatives aimed at improving our overall returns, growth profile and competitiveness on behalf of our investors and customers alike.\nSteve is supported by one of the strongest teams in the industry, and I have no doubt that Bethany, Steve, and the rest of the management team will continue to succeed as the company prosecutes its clean energy vision and strategy. As Steve just shared with you, 2021 was a highly successful year, evident not just by the strong financial results, but the advancement of many key sustainability-in-action initiatives on both the regulated and non-regulated parts of our business that will pay dividends in future years. These results came even despite ongoing challenges from the pandemic, as well as significant volatility in weather and lower-than-expected wind production levels at ALLETE Clean Energy. We begin 2022 with a strong balance sheet, conservative capital structure at approximately 40% total debt, and an excess of $260 million in operating cash flow.\nA notable achievement on the financing side was our ability to secure approximately $240 million in tax equity financing of the $450 million project under very competitive terms. Of the $200 million in total equity investment, $50 million will be raised through our ATM program, as Steve noted earlier in his 2022 guidance overview. As Bethany stated, we are committed and confident in our ability to achieve ALLETE's longer-term average annual growth objective within a range of 5% to 7%. As a reminder, this is comprised of 4% to 5% from the regulated utility businesses and at least 15% for the non-regulated businesses.\nThe favorable growth outlook is being fueled by historic clean energy transformation that we are leading regionally at our utility business, as well as our growing non-regulated clean energy platform, which is expanding both its geographic footprint and product service offerings. As promised in recent quarters, we have updated our five year capital expenditure table in the 10-K, as well as provided -- the supporting schedules to provide added granularity to assist you with your financial modeling. Please refer to Slides 10 through 12. As promised, Slide 10 represents our traditional capex table, and Slide 12 is the financing and support of this $1.8 billion capex plan, highlighting significant clean energy investments in the next five years.\nIn conjunction with Minnesota Power's outstanding IRP process currently under consideration by the MPUC, our projected spend in this updated capex table is approximately $1.8 billion over the next five years and is predominantly for regulated or utility-like clean energy infrastructure, representing a 19% compounded annual growth rate over 2021 levels, and translate into rate base growth of over 5%. As you can see, the primary driver of investment growth is further transformation to clean energy, particularly in the transmission area, to address large transmission constraints currently limiting Mysore region power movement on the grid. As renewable generation continues to expand, our planned expansion of our 550 megawatt DC transmission line by 65% to -- or 900 megawatts is a key component in the solution to address this issue. On Slide 11, you can see we have additional clean energy project opportunities also in the pipeline, and we expect that more will materialize into actionable projects as the IRP process plays out.\nMinnesota Power's mission to deliver 100% carpentry energy by 2050 will require significant investment in renewable generation and in transmission and distribution over the next decade or so. We will continue to navigate this clean energy transition that we have, as we have in the past with customer rates and overall competitiveness in mind. Our non-regulated business segment, which is comprised primarily of ALLETE Clean Energy, is expected to continue to exceed our 15% growth objective in the foreseeable future. And we are confident that this highly successful platform will soon advance us into new, complementary, and higher returning segments of the clean energy market, such as solar and storage.\nAs I begin my transition into retirement, I want to pause and express my sincere gratitude to ALLETE, my team, and the investor community more broadly, for your support and confidence in me, especially over the past five-plus years as the CFO of the organization. I will surely miss our many conversations and proactive input as we navigated the challenges and opportunities facing the industry and our company. Stepping back, I feel extremely proud in what the ALLETE team has accomplished thus far in terms of positioning the company for future success and have every confidence the company will continue to do well as it continues to be a leader in the exciting and historic clean energy transition. I will now hand it back to Bethany.\nBethany?"
+    },
+    {
+      "speaker": "Bethany Owen",
+      "speech": "Thank you so much, Bob, and again, hearty congratulations to you on your upcoming retirement in June. We're obviously very pleased with all that our team has accomplished in 2021, and we're already making significant strides here in the early weeks of 2022. This is truly an exciting time for ALLETE, and we look forward to sharing more with you in the near future, and of course, delivering another year of value to our shareholders. Demands for cleaner energy are increasing, providing new and diverse opportunities for investment for ALLETE.\nWe believe ALLETE's reputation as a leader in this environment will continue to attract capital and we're committed to deliver value to our investors. On Slide 13 is a list of ESG-related information you can find on our website at allete.com. I'm particularly proud of our internal team, who put together our Corporate Sustainability Report, which is well aligned with SASB and TCFD reporting requirements. We'll evolve, expand, and improve on our CSR as we continue to execute our sustainability-in-action strategy.\nThe very foundation of ALLETE's growth strategy is sustainability in all of its forms, people, planet, and prosperity. And as always, we are committed to doing all of this in the absolutely right way. We've taken significant steps already and will continue not only to mitigate climate change risks, but to build a clean energy future through just, equitable, and meaningful change, making a difference and doing our part to make the world a better place for everyone. ALLETE's family of businesses is well positioned for an even brighter future.\nThank you for your interest and your investment in ALLETE. And at this time, I'll ask the operator to open the line for your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our first question comes from the line of Peter Bourdon from Mizuho. Your line is now open."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "Great. Thank you. Thanks for taking my question, congrats to Steve and Bob."
+    },
+    {
+      "speaker": "Bob Adams",
+      "speech": "Thanks, Peter."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "Sure. So just to start on the regulated side, you mentioned the lower industrial load for the year. Just curious is that -- what was driving the customer curtailments? Is that something specific to customers or more of a macro issue with those end customers?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yeah, I'll let Frank talk about that, if you will."
+    },
+    {
+      "speaker": "Frank Frederickson",
+      "speech": "Hey, good morning, Peter. Frank Frederickson here. So there's been some announcements out from our customers at Cleveland Cliffs and also some stuff at U.S. Steel, too.\nAnd Cliffs has announced in their earnings call, Friday, that they will be taking some curtailment at the North Shore mining facility. They're working through a royalties issue on their end with the mine and they've been shifting production. So it's really kind of puts us in line with Steve mentioned and Bethany as well in their opening comments that it really puts us in line with our expectations. We're close to that 35 million ton average.\nAnd that's also included in our rate case that we filed and their interim rates and also the sales true-up mechanism that we have out there to account for some of this variability. There's also an incident at the U.S. Steel's Minntac facility that they're working through in terms of a conveyor belt that they are making plans to repair and don't anticipate any long-term impacts to their customers with that. So I don't know.\nAnything else, Steve?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yeah, Peter, if you look at our rate case, Frank has really good testimony on there where we talk about the average three years, five years, 10 years, 15 years, anywhere you want to look at it, 35 million times is the average. Of course, that's what we have in our rate case, and that's what we're budgeting for this year as well."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "OK. And in terms of the formal nominations, have those decreased yet or that's to come, I guess, based on what your -- you've mentioned."
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "To come, Peter. That will be March 1st and we had full nominations for the first full months -- four months."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "OK. OK. And then just shifting to the 2022 guidance. Just to confirm the -- it does embed the full booking of the 87 million interim rate increase.\nThat is correct?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "That's right. Yeah, correct, Peter."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "And then also in terms of the updated capex plan, how should we be thinking about that in terms of IRP outcomes? Is all of that secured or is some of that going to be contingent on regulatory outcomes?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yeah, so the Slide 11, where we have identified some of the other type of investments, outside of the -- what's in capex right now, we're waiting for the IRP outcome on that, and we'll have more information as that outcome comes about. So what's in the base capex now, Slide 10, I believe, would be projects that are moving forward."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "OK. So there could be upside, I guess, from the IRP outcomes?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yes. Yeah, which are not -- that's -- those are reflected in Slide 11. We have not reflected those yet in our base capex. So correct."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "OK. And then last one for me just on the equity issuance update. I know you have the $20 million a year of DRIP and then you've signaled $50 million for this year. In terms of, I guess, the non-DRIP equity that would remain for the five years, which I think amounts to about $130 million, how should we think about that? Is that more on kind of similar this year, the $50 million to $60 million a year of cadence [Inaudible]?"
+    },
+    {
+      "speaker": "Bob Adams",
+      "speech": "Yeah, Peter, this is Bob Adams. Yeah, so it's a combination of the remaining equity that's reflected in the guidance that Steve talked about for 2022, about $50 million. That's largely Caddo related. And then as you look at that capex table, we're just assuming traditional sort of 50-50 debt equity financing as it relates to some of those incremental transmission investments."
+    },
+    {
+      "speaker": "Peter Bourdon",
+      "speech": "OK. Thank you for your time."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Brian Russo from Sidoti. Your line is now open."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Hi, good morning."
+    },
+    {
+      "speaker": "Bethany Owen",
+      "speech": "Good morning, Brian."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "Would it be possible to break out what the specific ACE EPS guidance is in 2022, given you had some moving parts both on the ACE side and the corporate another side, 2021? Just want to figure out what the year-over-year growth is at ACE that kind of triangulate with your at least 15% growth."
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yeah. Brian, thank you. Steve Morris. Well, obviously, we haven't done that.\nBut of the $1 to $1.10, it's roughly 75%."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "OK, great. And then on just one Northern Wind, you mentioned the small write down. What -- specifically, what are the inflationary pressures that you're absorbing in that loss and/or -- but you mentioned the projects on time, so you're getting your parts delivered just at a higher cost."
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yeah, Brian, I'm going to let Al Rudeck address that."
+    },
+    {
+      "speaker": "Al Rudeck",
+      "speech": "Yeah, good morning, Brian, Al Rudeck here. Yeah, thanks for the question. Yeah, what we're seeing, Brian, broadly is what you're hearing and reading in the headlines around the country is higher costs for various cost inputs for the project. Things like wire and cable, equipment, and labor.\nSo we're seeing just a step change in inflationary pressures affecting those items. Our long standing relationship with the trade unions and with the suppliers have kept the project on schedule and our customers working collaboratively with us and the commission's working collaborative with us on the permitting. But at the end of the day, when we look at the cost of the project and the book value of the project today, we felt it prudent based on what we knew to take the action Steve described in '21 here and project the project as outlined in guidance."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "OK, great. And then just in the K, you disclosed the PPA you signed with ST Paper, which I guess is the old Verso beginning in 2023. Any idea -- it's a large power customer, so it's 10 megawatts or more but could you be more specific in the size of that customer and does that need to be approved by the commission?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yeah, I'll let Frank answer that question."
+    },
+    {
+      "speaker": "Frank Frederickson",
+      "speech": "Thanks for the question, Brian. So the -- ST Paper, they're totally converting that mill so they are -- they did acquire the Duluth mill that Verso operated, but they're putting in an entirely different paper machine to make a recycled tissue product. So in that, they're not using components of the mill that Verso used when they were putting things together to make a super calendar paper. And we did just file the electric service agreement with our regulators yesterday.\nAnd it's going to be a smaller electric customer than Verso was, but still going to be a valued large power customer."
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "And it does require their approval too, Brian."
+    },
+    {
+      "speaker": "Frank Frederickson",
+      "speech": "Thanks, Steve."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "OK. And is that sensitivity around the taconite tons of production, is it still $0.04 on a million ton change even where I would imagine that the historical relationship with what you could sell in the wholesale power markets have improved?"
+    },
+    {
+      "speaker": "Steve Morris",
+      "speech": "Yeah, it's still $0.04, Brian. That's a good number."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "OK. And just to clarify on the news from Cliffs and U.S. steel, when are those of outages supposed to occur? I mean, is it post April?"
+    },
+    {
+      "speaker": "Frank Frederickson",
+      "speech": "Yeah, well, I'll take that. Brian, Frank Frederickson here. So Cliffs is planning to take North Shore down this spring through the summer months, so that's what they announced. And then at U.S.\nSteel, they had a conveyor incident at their Minntac facility here just in the past couple of weeks, and so that's all occurring as we speak. They're working on plans for repair to move forward."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "OK, great. And is there any update on the potential real estate land sales that you received approval for several months ago that could offset future rate increases or be refunded to customers through an environmental writer?"
+    },
+    {
+      "speaker": "Bethany Owen",
+      "speech": "Yeah, Brian, this is Bethany. That's still moving through the process. Obviously, we got approval for that and we appreciated the commission's approval of that. We think it's going to be really important to our customers to mitigate future rate increases.\nAnd we've got some work to do on our end in terms of plotting and that type of thing to effectuate those land sales. But moving forward, and we're really committed to that, we think it's a really important initiative benefiting our customers going forward."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "OK. So that 100 million type of market value is still relatively intact?"
+    },
+    {
+      "speaker": "Bethany Owen",
+      "speech": "Yes, we believe so."
+    },
+    {
+      "speaker": "Brian Russo",
+      "speech": "OK, great. Thank you very much, and best of luck, Bob."
+    },
+    {
+      "speaker": "Bob Adams",
+      "speech": "Thank you, Brian, appreciate that."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our allotted time has expired. I would not like to turn the call back over to Bethany Owen for closing remarks."
+    },
+    {
+      "speaker": "Bethany Owen",
+      "speech": "So, Steve, Bob, Al, Frank, and I thank you again for being with us this morning and for your investment and interest in ALLETE. We look forward to speaking with many of you soon, whether in-person or virtual at various investor venues throughout the year. Hope you enjoy the rest of your day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 40 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Bethany Owen--President and Chief Executive Officer",
+    "Steve Morris--Vice President, Controller, and Chief Accounting Officer",
+    "Bob Adams--Senior Vice President and Chief Financial Officer",
+    "Peter Bourdon--Mizuho Securities -- Analyst",
+    "Frank Frederickson--Vice President of Customer Experience",
+    "Brian Russo--Sidoti and Company -- Analyst",
+    "Al Rudeck--Vice President of ALLETE Clean Energy"
+  ]
+}

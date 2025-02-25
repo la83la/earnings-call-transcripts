@@ -1,0 +1,285 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Hello, and welcome to Jabil's third-quarter 2021 earnings call and webcast. [Operator instructions] A question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded. It's now my pleasure to turn the call over to Adam Berry, vice president, investor relations.\nPlease go ahead, sir."
+    },
+    {
+      "speaker": "Adam Berry",
+      "speech": "Good morning, and welcome to Jabil's third quarter of fiscal 2021 earnings call. Joining me on today's call are chief executive officer, Mark Mondello; and chief financial officer, Mike Dastoor. Please note that today's call is being webcast live, and during our prepared remarks, we will be referencing slides. To follow along with slides, please visit jabil.com with our -- within our investor relations section.\nAt the conclusion of today's call, the entire call will be posted for audio playback on our website. Before handing the call over to Mark, I now ask that you follow our earnings presentation with slides on the website, beginning with our forward-looking statement. During this conference call, we will be making forward-looking statements, including, among other things, those regarding the anticipated outlook for our business such as our currently expected third-quarter and fiscal-year net revenue and earnings. These statements are based on current expectations, forecasts, and assumptions involving risks and uncertainties that could cause actual outcomes and results to differ materially.\nAn extensive list of these risks and uncertainties are identified in our annual report on Form 10-K for the fiscal year ended August 31, 2020, and other filings. Jabil disclaims any intention or obligation to update or revise any forward-looking statements whether as a result of new information, future events, or otherwise. With that, it's now my pleasure to turn the call over to Mark."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Thanks, Adam. Good morning. I appreciate everyone taking the time to join our call today. I'll begin by saying thank you to all of our people here at Jabil.\nThanks for the attention you give to our customers and the care you offer one another. At Jabil, it's people that drive our success. And it's these same people that truly make us who we are. Each day, they carry our culture and they cement our values.\nAgain, thanks to all. Please turn to Slide 5 where we'll now take a look at our Q3 financial results. The quarter came in ahead of expectations, driven by solid execution and a moderate uptick in demand. Said differently, we saw well-balanced contributions across the company.\nAltogether, the team delivered core operating income of $277 million on revenue of $7.2 billion, creating a core operating margin of 3.8% for the quarter. For sure, I'm pleased with these results. Although, what's most interesting to me is the current construct of the business and the improvements we've made to our balance sheet. This powerful combination has us feeling confident as we look toward fiscal '22.\nAs customary, Mike will provide more detail around the quarter and speak to our forward guidance during his prepared remarks. Moving to Slide 6, you'll see a pie chart. A colorful chart that represents our commercial portfolio and underscores the effectiveness of our team. Today, our business is diversified and is diversified at scale, providing more resiliency than ever before.\nAnd in my opinion, it offers Jabil a real competitive advantage, especially when we consider our performance and the sustainability of the business. Furthermore, each individual piece of the pie harbors specific domain expertise and deep technical knowledge, all of which make up our library of essential and valuable capabilities. Add to this the method in which our team weaved together these capabilities. It elevates the way in which we serve our customers, particularly when we move with speed and precision.\nThis approach is enabled by our structure and open collaboration across the enterprise. And when it's done correctly, it yields a proven formula that allows us to simplify the complex for many of the world's most remarkable brands. With that, let's turn to Slide 7 where you'll see management's outlook for the year. And looking at the slide, you can see the earnings power of the company and imagine our potential as we look to FY '22 and beyond.\nFor this year, we now anticipate core earnings per share to be in the range of $5.50 on revenue of $29.5 billion. But most importantly, we're maintaining our outlook of 4.2% for core operating margin and increasing our outlook for free cash flow by 5% to $630 million. For me, a positive testament on how the team is managing the business. In wrapping up our forecast for FY '21, I'd like to note, when we communicate inside the company, our strategy is understood and our path is clear.\nDuring these internal discussions, the thing that stands out to me is our team's obsession with how we produce outcomes. And when we think about the how, we think about our behaviors. Behaviors such as keeping our people safe, servant leadership, ensuring a fully inclusive work environment, and giving back to our communities. I'm proud that our teams dialed in on all of these areas.\nIn fact, their conduct is exceptional. Consistent with the past few years, we're looking forward to hosting our annual investor briefing. This year, the briefing will be held on the morning of September 29. We'll open the session by reporting our fourth-quarter and full-year results.\nWe'll then follow with a complete review of our priorities. And we'll connect the dots on how these priorities will guide us throughout fiscal '22. Add to this, a discussion on end markets and our observations specific to the macro environment. Our management team will also share how we plan to expand core operating margin year on year.\nIn addition, we'll also describe the hard work put forth that reinforces our goal to deliver double-digit growth in core earnings per share and free cash flow for fiscal '22. In wrapping up the September session, Mike will break down the shape of the year and share our capital return framework for the coming one to two years ahead. We have lots to share and we have a good story to tell. As we transition to my final slide, I once again say thanks to our team.\nTheir efforts over the past two to three years have allowed us to reshape the business as we've targeted growth in select markets. A few examples of these markets are areas of 5G infrastructure, electric vehicles, personalized healthcare, cloud computing, clean energy, and eco-friendly packaging. I really like the decisions we're making, and we're doing so while ensuring each employee can be their true self while respecting the environment in which we work. In closing, we've made tremendous progress financially, operationally, and commercially.\nAt Jabil, we solve problems over and over again. It's why we welcome the continued challenges put forth by our customers. Thank you. I'll now turn the call over to Mike."
+    },
+    {
+      "speaker": "Mike Dastoor",
+      "speech": "Thank you, Mark, and good morning, everyone. As Mark just highlighted, our third-quarter results were very strong, driven higher by the combination of continued end-market strength and excellent operational execution by the entire Jabil team. In Q3, we saw continued strength with notable revenue upside during the quarter in mobility, cloud-connected devices, and semi-cap relative to our plan 90 days ago. Given the additional revenue, I'm particularly pleased with the strong leverage we achieved during the quarter, which enabled us to deliver a solid core operating margin of 3.8%, approximately 30 basis points higher than expected.\nIn Q3, our interest and tax expense also came in better than expected. The compounding effects of higher revenue and the associated leverage, along with lower interest and tax expense, allowed us to deliver strong quarter diluted earnings per share in Q3. Putting it all together on the next slide. Net revenue for the third quarter was $7.2 billion, approximately $300 million above the midpoint of our guidance range.\nOn a year-over-year basis, revenue increased 14%. GAAP operating income was $240 million and our GAAP diluted earnings per share was $1.12. Core operating income during the quarter was $277 million, an increase of 61% year over year, representing a core operating margin of 3.8%, a 110-basis-point improvement over the prior year. Net interest expense in Q3 was $36 million and core tax rate came in at approximately 18%.\nCore diluted earnings per share was $1.30, a 251% improvement over the prior-year quarter. Now, turning to our third-quarter segment results in the next slide. Revenue for our DMS segment was $3.6 billion, an increase of 21% on a year-over-year basis. The strong year-over-year performance in our DMS segment was broad-based, with strength across our connected devices, healthcare, automotive, and mobility businesses.\nCore margins for the segment came in at 3.9%, 140 basis points higher than the previous year. An incredible performance by the team. Revenue for our EMS segment also came in at $3.6 billion, reflecting strong year-over-year growth in our cloud and semi-cap businesses. Core margins for the segment were 3.8%, up 90 basis points over the prior year, reflecting solid execution by the team.\nTurning now to our cash flows and balance sheet. Cash flows provided by operations were $585 million in Q3 and capital expenditures net of customer co-investments total $197 million. We exited the quarter with cash balances of $1.2 billion. We ended Q3 with committed capacity under the global credit facilities of $3.8 billion.\nWith this available capacity, along with our quarter-end cash balance, Jabil ended Q3 with access to more than $5 billion of available liquidity, which we believe provides us ample flexibility. During Q3, we repurchased approximately 2.5 million shares for $130 million. At the end of the quarter, $124 million remain outstanding in our current stock repurchase authorization and we intend to complete this authorization during Q4 as we remain committed to returning capital to shareholders in FY '21 and beyond. Turning now to our fourth-quarter guidance.\nDMS segment revenue is expected to increase 11% on a year-over-year basis to $3.95 billion. This is mainly due to strong end-market outlook. EMS segment revenue is expected to be $3.65 billion, a decrease of 2% on a year-over-year basis. It's worth noting, our EMS business remains strong and healthy.\nThe modest decrease is reflective of our previously announced transition to a consignment model, offset by higher server volumes in the cloud business. We expect total company revenue in the fourth quarter of fiscal 2021 to be in the range of $7.3 billion to $7.9 billion for an increase of 4% on a year-over-year basis at the midpoint of the range. Core operating income is estimated to be in the range of $280 million to $340 million for a margin range of approximately 3.8% to 4.3%. Core diluted earnings per share is estimated to be in the range of $1.25 to $1.45.\nGAAP diluted earnings per share is expected to be in the range of $1 to $1.20. Next, I'd like to take a few moments to highlight our balanced portfolio of businesses by end market. Today, both segments are in incredibly good shape. Last quarter, I highlighted some long-term sustainable secular trends in strategically important end markets such as healthcare, automotive, connected devices, 5G, cloud, and semi-cap, all of which continue to show strong performance for the balance of FY '21 and beyond.\nIn tandem with this, in more foundational areas of businesses like print, retail, mobility, networking, and storage, we've retooled, reoptimized, and reimagined our long-standing partnerships with some of the best brands in the world by leveraging Jabil's differentiated capabilities to deliver successful solutions to our customers. The resiliency in our portfolio, coupled with the long-term secular trends under way across our businesses, we believe, will continue to drive sustainable growth across the enterprise in FY '21 and beyond. Putting it all together for the year on the next slide. For FY '21, we expect core operating margins to be 4.2% on revenue of approximately $29.5 billion.\nThis improved outlook translates to core earnings per share of approximately $5.50. And importantly, we now expect to deliver more than $630 million in free cash flow despite the stronger growth. In summary, I'm extremely pleased with the sustainable broad-based momentum under way across the business, which has allowed us to deliver much better-than-expected results through the first nine months of fiscal '21. As we enter Q4 and look beyond, we fully expect the long-term secular tailwinds that are driving our business to continue.\nThis, coupled with our improved portfolio mix and lower interest and tax expenses, gives me confidence around continued margin accretion and strong earnings growth in FY '22. We've been working extremely hard as a team to grow margins, cash flows, and positively impact our interest and tax. Seeing this hard work manifest in strong financial results is a testament to the exceptional execution by our teams on all fronts. I want to offer my sincere thanks to our team for their tremendous commitment and execution during FY '21.\nThank you for joining us today and for your interest in Jabil. I'll now turn the call over to Adam."
+    },
+    {
+      "speaker": "Adam Berry",
+      "speech": "Thanks, Mike. As we begin the Q&A session, I'd like to remind our call participants that per our customer agreements, we will not address any customer- or product-specific questions. We appreciate your understanding. Operator, we are now ready for Q&A."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll now be conducting a question-and-answer session. [Operator instructions] Our first question today is coming from Ruplu Bhattacharya from Bank of America. Your line is now live."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Hi. Thanks for taking my questions and congrats on the quarter and on the guide. I have two questions. The first one is on margins.\nSo you talked about margin accretion in fiscal '22. Mark, when I look at fiscal '20 versus fiscal '21, you're having strong margin improvement, 100 basis points, to 4.2%. But going forward, should we think that the margin improvement will be more on the DMS, the diversified manufacturing side versus EMS? Because it looks like, you know, from your last quarter's guidance, EMS revenues are going from 13.4 billion to 14.1 billion, but the margins are still 3.6%. So just your thoughts on what you can do to improve margins and what are the areas -- what are the leverage factors you have to improve margins going forward."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "So Ruplu, if I could take the liberty of maybe answering the question directly, but maybe slightly indirectly, right? We -- I think one of the interesting things about the way we've shaped the company the last four or five years is we have a portfolio where we balance constantly, and the balancing really is about the team. It's led by, you know, the likes of Mike Loparco, Steve Borges, to Kenny Wilson, the guys running the segments. And then our operational team, our supply chain team, day in and day out, we're balancing between cash flows and margins. And they're not mutually exclusive.\nSo one of the things -- I said something in my prepared remarks around FY '22, you know, our objective internally, and we decided to share it on the call, is in terms of margin accretion, we think we'll get margin accretion year on year. And then in terms of core EPS off of, you know, the $5.50 that we talked about today for '21, you know, our goal is to try to get EPS next year with a six-handle on it, which is the double-digit growth. And then as importantly, is the cash flows, which we think next year, we can get a seven-handle on the cash flows. Where does all that come from? I just -- I think it comes from things that we continually talk about internally, and we've talked about on the call.\nIt comes with our approach, the solutions we're taking to the marketplace, and then again, Ruplu, the portfolio overall. If we look at our DMS business, very round numbers, right? Our DMS business in fiscal '20, you know, 13 billion. In '22, it will be substantially higher. If we look at our EMS business, 13.5 billion, 14 billion.\nI don't think the top line will grow as much as DMS. But I think in terms of what that team has done reshaping the business, they've been very, very selective and intentional in terms of where we're making investments. So I would say it's approach, I would say it's portfolio. And I don't think we need -- you know, we don't need substantial tailwinds to deliver '22.\nNow if the macro goes sideways on all of us, all bets are off. But, you know, I don't think we would have -- Mike and I had a long talk the last couple of days, and we just felt it was appropriate to give, again, a little bit of color on kind of what we're up to internally in terms of '22. Quite frankly, when I get together with my direct reports at this point in the year, we spend very little time talking about 4Q. We've got a wonderful team of folks that will, we hope, touch wood, will deliver the year.\nWe're spending all of our efforts on '22. So again, I don't know if that answers your question, but we'll provide a lot more color on that on the September 29 meeting."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "OK. Thanks for all the details on that. I appreciate the color. Maybe for my last question, Mark, if you can just kind of talk a little bit about the healthcare and packaging side.\nHow is the J&J business trending? How is the core medical business trending? And any thoughts on packaging? So any color on the growth of that market? Thank you."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah, I'd say we like it all. You know, we continue to make investments and capabilities. You know, if I take that in reverse order, we've had a couple of press releases come out, and we're not big on press releases in terms of -- I think companies get overpress released. So we try to be very selective.\nBut on the packaging side, a lot of focus on integration in terms of smart packaging and then a lot of efforts in terms of the environment, what we call eco-friendly packaging. And we're bullish on that. And in terms of healthcare, we've been banging the drum on healthcare for three or four years. And again, I would just say healthcare overall, whether it be on the pharma side, med device, diagnostics, etc., is performing above plan.\nAnd we've got a pretty interesting path forward for FY '22, Ruplu."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Got it. Thanks again and congrats on the strong execution."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "I look forward to talking to you on Monday."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Yeah. Same here. Thank you."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "All right."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question today is coming from Steven Fox from Fox Advisors. Your line is now live."
+    },
+    {
+      "speaker": "Steven Fox",
+      "speech": "Thanks. Good morning. Two questions, if I could. First, on the 30 basis points of upside in the quarter.\nCould you break that down a little bit in terms of how much was just pure revenue-driven versus some execution? And what the headwinds might have been in the quarter related to supply chain and COVID? And then secondly, Mark, you mentioned how on the EMS side, you're reimagining some OEM relationships in the last couple of years. Can you just give us a couple of examples of what that exactly means and how it's driving growth? Thanks."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "I like your term reimagining. I'll come back to that in a minute. For the quarter, it was just -- you know, I forget the words I used in my prepared remarks, but it was modest top-line strength. It cut across.\nI think the upside for Q3 was just under $300 million versus guide. If I had to think through the areas where we saw that, this is an overused term, an overly generic term, but, you know, when it's the truth, it's -- you know, it was really across lots of our different sectors. If I had to pick a couple, network and storage were stronger than we expected. Connected device, I think, was a bit stronger than we expected.\nCloud, a bit in mobility, but it was a broad scattergram. And in terms of the 30 bps upside on margin, again, I just think it's an indication how we're running the business. We got a little bit of a leverage on the $300 million, and then it was really good execution by the team. And touch wood, I think that -- I think the good execution continues.\nIn terms of the reimagining, I don't know if I said that or Mike said that, but I think it's an interesting way to think about it. It's -- I think we start with, Steve. I think it's huge around obsession around our customers. And it's about starting every conversation about what's best for the customers is not necessarily what's best for Jabil, but then we've got to do a lot of processing to be sure that what's best for the customer aligns with our path forward for the next couple of years.\nAgain, if you think about -- and you've been connected with us a long time. You know, we -- we've been on this three-, four-year path of really good intentional growth with a long-term eye on margins and cash flows because the margins and cash flows going forward are going to give us a decent amount of optionality, a decent amount of levers to turn for shareholders. The team has done a nice job. If you look at where our revenue was back in '17, and you look at where it's, you know, going in '22, you know, I think the top line of the company has grown or will grow like close to 50%.\nAnd it's not growth for the sake of growth because what's coming along with that is, again, potentially in '22, a seven-handle on cash flows and a six-handle on core EPS. Again, those are goals, those are objectives, but that's where we're spending all of our time. In terms of the reimagining part, looping back to that, Steve, we ask ourselves all the time, you know, \"Are we or are we not providing great value for every single customer in every single subset of customers?\" And if we're not providing the best value and they can go find that value at a different price somewhere else, you know, we kind of encourage that because I think when we're doing our job, when we're providing good value, everything kind of works. The tension in the system comes out.\nSo we've been spending a lot of time on that. And then I think somewhere in your question, I think for the quarters, but maybe I'd talk about it, Steve, for Q3 and Q4, you know, we're still seeing some supply chain headwinds. But as I said in the March call, and I said on -- I was doing something with Paul with JPMorgan, we just have the best supply chain team. And I don't say those things often, although I love our team.\nI just think we've got -- I think we have the best supply chain team in the industry. Our approach to demand planning, the analytics we use, the fact that our supply chain team is tightly linked to their commercial folks and then the trust and long-term relationships we have with suppliers, and that spans across things, whether it's semis, PCBs, interconnects, passives. And then we -- I think we've done a very good job in terms of bulk purchases, locking in pricing on raw commodities. So yes, there's headwinds.\nI think I said in the March call, Steve, that we thought the supply chain headwinds would probably be with us through the early part of '22 as we sit today. I think that's true for about half of the challenges and the other half of the challenges may actually creep into the summer at '22. But I think a large catalyst to that is going to be, does demand hold or not across all the different end markets."
+    },
+    {
+      "speaker": "Steven Fox",
+      "speech": "Great. That's super helpful. Congrats on the quarter."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Next question today is coming from Adam Tindle from Raymond James. Your line is now live."
+    },
+    {
+      "speaker": "Adam Tindle",
+      "speech": "All right, thanks. Good morning. Mark, I just want to start from a high level you're wrapping up another strong year here. Now, if I look back over the past five years or so, it's been kind of two different eras.\nYou know, prior to this, it's been a heavy focus -- it was a heavy focus on diversification, adding revenue while operating margin was kind of flattish hovering in the mid-threes and capex was a little bit heavier. This recent era has focused on digesting and optimizing margin and cash flow. What inning are we in on that second journey for margin and cash flow? It sounds like you're expecting it to continue into 2022, I'm thinking beyond that. And how do you think about the right timing to perhaps step on the gas with capex for an outsized growth era again?"
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah. I'm pausing because I'm thinking. I think it's a great question. I think -- I don't want to be dismissive of your question at all.\nI think that you can hold us accountable to offer some of those details in September, but I don't want to duck the question altogether. I think at what inning are we in, I don't separate the -- or bifurcate the journey. I think it's all -- I think it's a holistic journey. So, I look at it and say, you know, this strategy, this whole path started in around fiscal '16 something like that.\nWhere we're at today and heading into fiscal '22, I don't know. You know, to use an American phrase, I guess, maybe seventh inning, something like that. But I wouldn't want to take that it's over. Like if we do our job right with the margins, by the way, we're still going to press on growth.\nI think, you know, sheer numbers and math on that, Adam, is just, you know, I said on the J.P. Morgan thing. I said, you know, I can envision us being a $40 billion company at some point. So, that would suggest continued growth.\nBut with the sheer math, I think the top-line growth starts to attenuate a little bit, although still grow. If we can control our overhead costs, continue to get leverage on the factory network, scale matters for sure. We continue to be really select in the customers' reserve and I go back to something I said in Steve's comment. You know, every single dollar of revenue we bring in, if we stress test that around are we or are we not providing great value for the customer, again, it takes some of the friction out in the relationships.\nI don't know I would think that in '22, we'll see margins greater than '21. And I would think in '23, we'll see margins greater than '22. And the one thing about our business is, especially if top-line growth -- let's say hypothetically, and this is a complete hypothetical. But let's just say top-line growth for the next five years normalizes at 4%, 5%, 6%, and I don't know what that's going to be.\nI think '22 will be greater than that, but let's just say longer term. You know, this machine now, with this portfolio, boy, the cash flows look awfully good in the modeling that Dastoor and I sit around and play with. So, I don't know where we're at, but it's been a lot of hard work, and pretty excited about the next couple of years, Adam."
+    },
+    {
+      "speaker": "Adam Tindle",
+      "speech": "Understood. I wanted to follow up on that cash flow question for Mike. Mike, Mark mentioned the composition of the balance sheet in his remarks and the key positive net leverage is tracking the multi-year lows as EBITDA continues to build. And I think Mark mentioned perhaps a seven handle on cash flow in the next year.\nSo, maybe just talk about how you think about optimal capital structure and timing and priorities for the deployment of capital to create shareholder value. Why not just return all that $700 million-plus next year."
+    },
+    {
+      "speaker": "Mike Dastoor",
+      "speech": "The upside of that's a -- that's a great question. I think we'll provide a lot more color in September around our capital allocation. I think it'll be a balanced capital allocation methodology as we've done in the past. We're committed to returning to shareholders.\nAnd I absolutely think it's on the cards to look at that seven handle and see how much we can return to shareholders. Having said that, the discipline we're seeing in our working capital, the discipline we're seeing in our capex spend, etc., just gives me a lot of comfort that there's a lot of optionality, I think was the word Mark used going forward in terms of what we can do with our free cash flow. And returning to shareholders will be, in my opinion, will be No. 1 for sure."
+    },
+    {
+      "speaker": "Adam Tindle",
+      "speech": "Understood. Congrats on the results."
+    },
+    {
+      "speaker": "Mike Dastoor",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Thanks, Adam."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Next question today is coming from Jim Suva with Citigroup Investment Research. Your line is now live."
+    },
+    {
+      "speaker": "Jim Suva",
+      "speech": "Thank you. And I just got to say, wow, congratulations on the results and the recovery of your teams through COVID. I'm looking ahead, you know, both for the next quarter and maybe further out, how should we think about the seasonality of your reporting segments? I know we've been a long time since it's been normal, but how should we think about seasonality and maybe strip out the layer of the consignment?"
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "So, it sounds like there's two questions there, Jim, and thanks for the kind comments, seasonality, and consignment. For sure, us transitioning to consignment and some of our business distorts the seasonality because it has an impact on the top line, which is just fine, by the way, because our -- again, our focus is on the bottom line, margin, and cash flow. In terms of seasonality externally, so if I try to net out the -- if I try to net out the impact of consignment, I think that as long as the portfolio exists the way it exists today. So, things like automotive and transport, and healthcare and packaging, and mobility and connected devices, and then the digital print retail, industrial semi-cap wireless, etc., network storage.\nI would say that as the company grows, depending on where that growth comes from, and again I think we're doing -- I think the team is doing an exceptional job of what they're saying yes to and what they're saying no to. I would guess as we go from say a $30 billion company to maybe a $34 billion, $36 billion company, the -- what you think of is historical seasonality going back to say the shape of the year in fiscal '17 or '18. That probably flattens a bit, so I think the seasonality, I think there'll be some of that there. But if you went from peak to trough, it probably narrows.\nI think that's happening a bit this year. So, -- but with that said, I think this fiscal year, if you take the midpoint of our guide we just prevent -- presented for Q4, I think the op income we just provided midpoint was $310 million. Q1 was around $365 million, Q2 $285 million. So, Q3 was a soft quarter and I think that aligns a little bit with historical Although going forward, again, I think the shape of the year really starts to flatten.\nAnd quarter to quarter, I think demand narrows."
+    },
+    {
+      "speaker": "Jim Suva",
+      "speech": "Great. Thank you so much for the additional details."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah. Thanks, Jim."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Next question today is coming from Shannon Cross with Cross Research. Your line is now live."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Thank you. My first question is with regard to 5G and cloud. Can you just provide some more details? You know, does it seem like -- especially from cloud ignoring consignment that this is, you know, people buying to sort of I don't know, pre-buy for capacity needs in the future or fulfill what, you know, the hole that they have right now. I'm just kind of curious about how you see this trend and if it -- you think there's any pull through from fiscal 2022."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "I don't know that there's pull through for -- by the way, thanks for the question, Shannon. I don't know that there's pull through for '22. I think hyperscalers, I think cloud, and I think 5G wireless, I think all of that has a good runway. So, I'm not overly concerned about demand evaporating as long as, again, we go back to we're providing a great service with great quality to the customers.\nI see the -- although they're different, they're the same. I see both the cloud markets as part of a -- now, a robust ecosystem that the world is heavily reliant on. And I see 5G much the same, although a bit different. So, you know, if we were to take a look at -- and I -- don't hold me any of these numbers, Shannon, but, you know, 5G, wireless, cloud for us, as we exited last year was a little over $5 billion.\nAnd I think as we go into '22, you know, we'll see a reasonable uptick to that. Again, I just think it's a great fit to our portfolio. I think the solutions and the technologies that we're providing, both on the design side and the process side, and the configuration and distribution side, they just fit that marketplace today. So, that's my thinking on the 5G, cloud, wireless stuff."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "OK. Thanks. And then I was just wondering, you know, it was -- in theory, we're coming out of COVID and things are opening up at least in some geographies, how have the conversations with customers sort of changed? And I'm wondering, you know, is it -- are people focused on onshoring diversity of supply chain? You know, looking more to outsource? Or -- I don't know. How have things changed maybe when you discuss, you know, potential new business versus, you know, conversations you would have had in 2019? Thanks."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "I want to make a comment that I'm not sure is linked to your question. So, bear with me and -- I just think that maybe a bit unrelated to COVID, but maybe related to COVID. I'm really not sure. But I do believe I'm sure in my next comment, which is when you get to be our scale and you think about the opex we spend in IT, and I think about the opex we spend in terms of automation and data analytics, and artificial intelligence, and machine learning, and all the things that are going on every day in our ecosystem.\nI think we for sure have the most efficient IT system of any manufacturing services provider out there because I don't think anybody else has the holistic connection that we have of their IT systems, factory-to-factory and then linked in with supply chain and ops. By the way, a huge, huge advantage. But I think about the expertise, I think about the experience, I think about our lessons learned, mistakes we've made, and then I think about the global reach, our people, and everything else. I think because of that, there's just less and less people in the world that want to take on the task of building stuff.\nCustomers still want it for sure and they're experts in this, by the way. Our customers are experts in branding, marketing, and they're experts in product design. But there's just less interest, you know, the capital intensity of the business, sometimes people look and go, geez, you guys run a business at 4% to 5% operating margin with a huge barrier to entry. I think in some weird way, I think building stuff is a secular trend at scale.\nBecause again, the barrier to entry is way, way high. And it's just really, really hard, but it's what we do and we do it well. So, I think that's a general comment. I'm not sure it has much to do with COVID, although maybe COVID has slowed people down a little bit to think and figure out are they doing the right things for their businesses strategically versus tactically.\nSo, maybe there is a little bit of a catalyst there, Shannon. In terms of onshoring and offshoring, China yes, China no, Asia yes, Latin America yes, Mexico, U.S., Northern Europe, Western Europe, Southern Europe, etc. I still end up being a big believer that the capital markets are always, over the long term, going to decide where stuff gets built, where the supply chains get designed. And again, there's pockets of friction, whether it be geopolitical or whatever.\nBut however which way that goes, I'll come back to, \"boy, the scale matter.\" And when you take a hard look at our footprint, our expertise, and where that exists around the globe, I think we're in really, really good shape regardless of how that plays out."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Great. Thank you very much."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah, Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question today is coming from Mark Delaney from Goldman Sachs. Your line is now live."
+    },
+    {
+      "speaker": "Mark Delaney",
+      "speech": "Yes. Good morning. Thanks for taking the question and let me add my congratulations to the good results and outlook that the company reported today. I was hoping to talk a little bit more on healthcare and, yeah, the company has built a very good set of capabilities, I think not just in traditional medical products but also some things that sit directly with consumers that help with consumer health and wellness.\nAnd given everything the world's in some countries still going through but has gone through over the last year with COVID,\u00a0 I'm interested in what sort of trends Jabil is seeing when you talk with our customers and potential strength over the intermediate to a longer term around some of those products targeting things like wearables, consumer health and wellness, patient monitoring, those sorts of areas. Thanks."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Well, I think you answered part of your question, Mark. By the way, thanks for the nice comment at the opening. I think you know, Steve and his team, they're the experts. But if I -- if we just step back, the reason we're bullish in that area is a lot of what you alluded to.\nYou know, it's a long-term industry that has historically been heavily around kind of pharma, big iron diagnostics, you know, med device, and in some ways, there's been such amazing focus on the patient that maybe there's been a little bit of a fall behind in some of the technology, whether that be connected to 5G or whatever it might be, Mark. As we look at it over the next couple of years, I think one thing COVID did is it reshaped the activity at hospitals around the world. Elective surgeries were kind of put on the shelf. I think as vaccines take hold, there is a pent-up demand for elective surgeries so I think that'll be good for that whole industry for a period of time.\nAnd then, maybe at a more strategic long-term deal, for sure, personalized medicine, telehealth, prevention in terms of physiological or biological makeup, DNA chains, and then monitoring, you know, the aging population and on-body monitoring, that started years ago, but the output from the monitoring was poor, unreliable. I think that's gotten substantially better. We're playing in the middle of that, not just with healthcare customers but others that want to make a real difference in that space. So I think those are some of the catalysts why we've got a pretty bullish outlook on healthcare.\nAnd then, I think the other part that's beneficial for Jabil is the trajectory where Steve Borges and our team are taking healthcare, whether it be on med device, pharma, diagnostics, on-body, off-body personalized health, they're able to look around the company and say, wow, and ironically, I said some of those in my prepared remarks. Steve and his team can weave together lots of interesting capabilities, whether he borrowed some capabilities from Mike Loparco's group or Kenny Wilson's group both on mobility, both on mechanics, both on how to connect to 5G wireless, industrial design, etc. So A, we like where the market's going, and B, I think our -- the term I used in my prepared remarks, I think our library of collective capabilities is going to serve as well as we take solutions to the marketplace."
+    },
+    {
+      "speaker": "Mark Delaney",
+      "speech": "It is very helpful, thanks. My second question was on how the time component and supply chain environment may be impacting some of your customers. And there's a lot of discussion across various end markets of many big companies unable to get all of the supply that they would like. I'm curious how you think that may be impacting some of the orders and inventory strategy from some of your customers, and how you're trying to plan for that in terms of your operations financial planning and potentially factor that into some of the comment you gave about what next fiscal year may look like? Thanks."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah. We -- I don't know, take these as very round numbers. We haircut our Q3 outlook, you know, unconstrained in Q3, just rough numbers were probably $7.1 billion. We cut it to a midpoint of 6.9 because of concerns around supply chain components, silicone passes, the whole deal.\nAnd we end up delivering 7.2, which I think is just a stellar recognition of the job our team has done managing the supply chain. Oh, by the way, again, day in, day out, not without challenges. So the challenges are real and I mentioned it earlier on the call. We are unconstrained with Q4, be a little bit higher, probably.\nHave we haircut it a little bit? Yes. But we got a lot of confidence in our supply chain, folks, and we'll see what happens. So I don't want to make a kind of peanut-butter-vanilla statement on the supply chain because, truthfully, Mark, there are so many variables that go into it -- everything from which end market, what's the construct of the technology, which part of the supply chain are people leveraging, what kind of relationships are there, how quickly and how agile are the design teams to maybe alter some designs, etc. So it's everything across the board that we're dealing with.\nThe one nice thing about Jabil is because we built a little bit of everything and we have so many good relationships both on the customer side and the supply side, we have a very good vantage point, we believe, in being able to triangulate what's really going on. And again, I think that allows us to help our customers and, again, gives us a bit of competitive advantage. But as I said before, I don't think we've come out of this choppiness of supply chain until the spring or summer of '22. What you can rest assured is this, as we did on this call for Q4, and as we'll do for September, we'll take all that into consideration and try to handicap that appropriately before we give any forward-looking numbers."
+    },
+    {
+      "speaker": "Mark Delaney",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question is coming from Paul Coster from J.P. Morgan. Your line is now live."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Hi, this is Paul Chung on for Coster. Thanks for taking my question. So just on the outsourcing versus insourcing, you know, which industries are you kind of seeing a greater priority to outsource, and are there higher-margin opportunities as well in terms of the industry? And then, what are the kind of margin dynamics when you, you know, you're working with existing customers that accelerate this move from insourcing to outsourcing? Do you see some operating leverage benefits there on that shift as well? And then I have a follow-up"
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "OK. I guess my first answer be pretty short, which is, great question, it's just that the insource to outsource, it's all over the map. It's not -- as we sit today, I mean, there are certain industries that are fully outsourced and we're all aware of what those are. I really do believe though that in boardrooms talking to my counterparts that lots of our customers, again, there's just not a lot of interest in people wanting to build their own stuff because it is capital intensive and it is hard.\nIf you don't have the opex and the reinvestments, constantly you fall behind. And I don't -- I wouldn't point to any specific end market or sector at this point in time. It's kind of all over the map. And in terms of, you know, margin rich or not margin rich, that's all speculative on a relative basis.\nI can tell you for Jabil, again, we'll deliver on a relative basis, fairly modest margins but very good margins for us. Looking to deliver this year at 4.2%, we're looking to accrete margins and have them be higher in fiscal '22. But in combination with that, Paul, is the importance of the cash flows as well. So I'll say something like I said earlier, we're spending a lot of time with the very first question being, if we're going to add a single dollar of revenue to our top line, are we or we not providing great value to that customer? And if we can get by that yes or no question, then it becomes, can we make it work for Jabil either on the cash flow side or the margin side, and then we try to keep that well balanced going forward.\nAnd I would suggest that even though FY '20 was a COVID year, the team did a nice job navigating COVID in '20, and I think the teams are doing a nice job this year. And if we continue to work hard and do what we think we can do, I think it's setting up for a nice fiscal year '22."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Thanks for that. And then, can you talk about, you know, the $250 billion tech bill passed by the Senate recently. You know, do you expect the firm to kind of participate here, and in what magnitude, or kind of too early to tell?"
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "You said 250, right?"
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah, OK. I didn't -- you broke up a little bit, I want to be sure we're talking about the same bill. It's too early to tell. You know, we have great relationships around the D.C.\narea in terms of understanding it. It's just too early to tell, so TBD. I can tell you that I think we will benefit from that indirectly whether we were to, you know there's nothing in our forward-looking numbers that anticipates us participating in that directly, but we'll see. But again, we're staying well informed on that because it has the potential to be an important bill for us."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "OK, great. Great quarter. Thanks."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Yeah. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question today is coming from Matt Sheerin from Stifel. Your line is now live."
+    },
+    {
+      "speaker": "Matt Sheerin",
+      "speech": "Yes, thanks. Good morning, everyone. Mark, your early outlook for 2022 implies that the DMS segment is growing faster than EMS. Do you see that coming from all four key subsegments as you have seen this year, or is that from one in any particular market? And if you are seeing that broad-based strength, is that just from underlying demand, or are you also seeing share gains or new program wins there?"
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "So your observation on the math is correct. And I know this isn't very satisfying, but it is really kind of across the board. I'd like to be able to point to something but let's just say on a collective basis, Matt, I think it's a combination of change in technologies, as an example, a higher percentage of vehicles moving more toward electric content, electrification, or EV, altogether. That's just a broad example.\nSo it's technology, I think it's human behavior, in terms, you know, when Delaney was asking earlier on healthcare, you know, we talked about personalized medicine, connected health, on-body monitoring, and that doesn't mean that market's getting bigger. It means that the activities in the market are shifting and some of those activities work well in our favor. So I think it's a technology shift. I think it's life's lifestyle shift.\nFor sure, some of its are market share gains, and then for sure, some of it is just kind of continued global GDP growth and things like that. So it's a combination of all of the above. And I don't really have a specific sector in DMS I'd point to."
+    },
+    {
+      "speaker": "Matt Sheerin",
+      "speech": "OK, great. Thanks for that. And a question for Mike regarding the inventory situation. The inventory was up sequentially in dollars and also on a daily basis, which makes sense given the strong seasonal guide for Q4, but should we expect you to be at that somewhat elevated levels for a while now, and our customers compensated you in any way such as in the form of deposits, or anything else?"
+    },
+    {
+      "speaker": "Mike Dastoor",
+      "speech": "Yes, Matt. I think the inventory balance you see at the end of Q3 was largely timing. All that disappears or reverts back in Q4. I expect inventory levels by the end of Q4 to be around the 60-day number, and in the longer term it's mid-50s, for sure, that's what we're working toward."
+    },
+    {
+      "speaker": "Matt Sheerin",
+      "speech": "OK. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We've reached the end of our question-and-answer session. I'd like to turn the floor back over to management for further closing comments."
+    },
+    {
+      "speaker": "Mark Mondello",
+      "speech": "Thank you for joining our call today everyone. If you have any follow-ups, please reach out to me. Thank you. This concludes our call."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 64 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Adam Berry--Vice President, Investor Relations",
+    "Mark Mondello--Chief Executive Officer",
+    "Mike Dastoor--Chief Financial Officer",
+    "Ruplu Bhattacharya--Bank of America Merrill Lynch -- Analyst",
+    "Steven Fox--Fox Advisors LLC -- Analyst",
+    "Adam Tindle--Raymond James -- Analyst",
+    "Jim Suva--Citigroup -- Analyst",
+    "Shannon Cross--Cross Research LLC -- Analyst",
+    "Mark Delaney--Goldman Sachs -- Analyst",
+    "Paul Chung--J.P. Morgan -- Analyst",
+    "Matt Sheerin--Stifel Nicolaus -- Analyst"
+  ]
+}

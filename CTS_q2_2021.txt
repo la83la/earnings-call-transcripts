@@ -1,0 +1,376 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the CTS Corporation's Second Quarter 2021 Earnings Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Kieran O'Sullivan. Please go ahead, sir."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thank you, Tracy. Good morning. Thank you for joining us today and welcome to CTS' second quarter 2021 conference call. Sales in the second quarter were $129.6 million, up 54% compared to the same period in 2020. Customer demand remains robust, while supply challenges persist especially for automotive products. Second quarter gross margin was 36.8%, up 525 basis points from 31.6% in the second quarter of 2020. Though improved, gross margin performance continues to be impacted by semiconductor and commodity price increases, as well as increased logistics costs.\nEBITDA margin of 21.5% was up 480 basis points from 16.7% in the same period last year. Second quarter adjusted earnings per share of $0.52 were up 225% from $0.16 in the second quarter of 2020. Later, Ashish will add color to the GAAP performance including a non-cash charge related to the U.S. pension plan termination. Operating cash flow of $19 million was up from $12 million in the second quarter of 2020. New business awards of $174 million were solid and up from $105 million in the same period last year.\nAshish Agrawal, our CFO, is with me for today's call and will take us through the Safe Harbor statement. Ashish?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "I would like to remind our listeners that this conference call contains forward-looking statements. These statements are subject to a number of risks and uncertainties that could cause actual results to differ materially from those expressed in the forward-looking statements. Additional information regarding these risks and uncertainties is contained in the press release issued today. And more information can be found in the company's SEC Filings. To the extent that today's discussion refers to any non-GAAP measures under Regulation G, the required explanations and reconciliations are available in the Investor section of the CTS website.\nI will now turn the discussion back over to our CEO, Kieran O'Sullivan."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thanks, Ashish. In the second quarter, our sales were $129.6 million, up 54% from the second quarter of 2020. Excluding sales from the acquisition of Sensor Scientific, sales were up 52% organically. The SSI acquisition continues to deliver solid growth. As I referenced in our last earnings call, we expected the transportation sales run rate to be slightly lower than our first quarter 2021 performance due to ongoing supply challenges. Our teams worked creatively and diligently to secure parts, approved substitutions and adapt with speed to support our customers.\nTransportation sales while up 88% from the same period last year would have been stronger by a few million dollars if we did not have these supply challenges. We expect the supply challenges and some customer shutdowns to persist in the second half. New business awards were $174 million for the quarter, up from $105 million in the same period last year. We added three new customers in the quarter; two in transportation and one in telecom. In Asia, we added a new transportation customer in China for a large platform that would ship in the 2023 timeframe.\nAcross the accelerator modules, we had wins with two existing customers in China, secured awards with two Japanese OEMs for the North American market and added a new electric vehicle customer in Europe. With passive safety sensors, we had wins with existing Tier 1 customers across all three regions with one of the wins for an EV application. In Europe and North America, we had wins for throttle position and transmission position sensing. Bookings and sales for two-wheeler applications were strong in Asia. We continue to advance our diversification strategy by growing in non-transportation end markets.\nIn Defense, we had several undersea sonar wins and we also maintain good momentum with our RF filter products for GPS anti-jamming applications. Temperature sensor wins were solid in defense, and we had an important win for an aviation application in Europe. In Industrial, we continue to see strong demand for temperature products across pool and spa as well as HVAC applications. We also had a large win in industrial printing, securing a two-year contract where the market has expanded into new applications such as garment printing. Momentum in medical markets was positive but with inconsistencies regionally due to countries emerging from lockdowns and some customers being impacted by material shortages.\nWe had various temperature application wins and additional wins in CPAP, medical ultrasound and intravenous drug delivery. For medical ultrasound, our design wins are increasing through new programs with existing customers and several new customers sampling our solutions. We received two transportation OEM quality awards and we're also recognized for delivery performance by an industrial OEM and a large distributor. Overall, across all end markets, demand remains robust. Some automotive customers have confirmed demand through 2022. Order intake for electronic components was strong in the second quarter.\nAlthough we've not seen signs so far, we remain cautious of potential inventory buildup in various end markets. This past quarter we announced the $50 million stock buyback program. As we look to capital deployment, our emphasis remains firmly on supporting organic growth investments and using our strong balance sheet to advance on M&A in alignment with our strategic priorities. We continue to strengthen our M&A pipeline. Potential changes in capital gains taxation may also provide some further momentum in our areas of interest. We continue to seek to expand our range of technologies, products, customers, and geographic reach.\nAnd at the same time, continue to diversify our end market profile to complement our quality of earnings. For the second quarter, transportation sales represented 55% of our total company revenues as we made progress in Industrial, Medical, and Defense sales. Operationally, we can see the end of our journey and the rollout of the SAP system, though we will continue to optimize our learnings and capabilities. The previously announced restructuring savings of $0.22 to $0.26 by the second half of 2022 are tracking close to the target range. Building the CTS operating system capability continues with four sites advancing their proficiency on the system and tools as we aim to empower our teams and strengthen operational and enterprise expertise.\nTransitioning to end markets, the semiconductor shortage is expected to reduce vehicle builds by 6 million units this year. The supply of global microcontrollers is improving from companies such as Renesas and NXP, which should deliver some improvements to vehicle OEMs. For the U.S. light vehicles transportation market, demand remains robust. We still expect approximately a 15 million to 16 million unit range this year, up double digits year-over-year. On-hand days of supply are between 25 and 30 days, the lowest in recent history, and down 50% since January of this year. European production is forecasted in the 16 million to 18 million unit range with some uncertainty persisting due to the extended COVID lockdowns.\nThe Chinese market has fluctuated recently showing the first chip-related impact. China volumes are expected in the range of 23 million to 25 million unit range for this year. The commercial vehicle market remains strong, not only for this year but likely into the first half of 2022. The biggest challenge is the supply of semiconductors as demand remains robust. As I mentioned earlier, for transportation, the supply challenges will continue to impact our sales in the second half of this year. However, we see improvements in medical as well as solid growth in industrial and defense markets. In terms of guidance for the full year 2021, we are updating our range.\nOur previous guidance was for sales in the range of $445 million to $500 million, and adjusted earnings in the range of $1.35 to $1.70. We are now updating our guidance for sales to be in the range of $480 million to $500 million, and adjusted earnings are expected to be in the range of $1.70 to $1.90. Further updates will be provided as we continue to monitor the ongoing supply challenges. Phase 2 of our journey and our biggest priority as we advance toward our 2025 goals is layering on a more robust sales growth profile. Our teams are making progress as we continue to focus on existing accounts and add resources and capabilities to further support business development.\nAt this time, Ashish will take us through the financial performance. Ashish?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Thank you, Kieran. Second quarter sales were $129.6 million, up 54% compared to the second quarter of 2020 and up 1% sequentially from the first quarter. Sales to transportation customers bounced back 88% compared with the pandemic-driven lows in the second quarter of 2020. However, we were down 6% sequentially as we saw the impact of supply challenges on global production volumes. Sales to other end markets increased 26% year-over-year and were up 10% sequentially. We had another quarter of solid year-over-year double-digit growth in the industrial as well as aerospace and defense end markets. Sales to the transportation end market represented 55% of our total revenue.\nThis reflects progress toward our strategic goal to further diversify our business by growth in the Industrial, Medical as well as Aerospace and Defense end markets. Our two temperature sensing acquisitions have performed well and had strong top line growth in the second quarter. Changes in foreign exchange rates impacted our revenue favorably by approximately $2.7 million. Our gross margin was 36.8% in the second quarter, up 525 basis points compared to the second quarter of 2020 and up 360 basis points sequentially from the first quarter of 2021. These improvements reflect the progress in operational efficiency in our foundry operations over the last 12 months, as well as improvements in other parts of our business.\nWe also benefited from a larger portion of our revenue coming from the Industrial, Medical and Aerospace and Defense end markets. Raw material price increases, as well as freight costs continue to impact us unfavorably. And we are working closely with our customer base to offset or share these cost increases. In the last quarter, we generated $0.03 of EPS in savings from our restructuring program announced in the third quarter of 2020, bringing the total savings to $0.12 of EPS so far. As we mentioned back in April, the timing of some of our projects is being impacted due to the ongoing impact of COVID-19 on travel, as well as an increase in demand. We are still on track to achieve the targeted annualized savings of $0.22 to $0.26 by the end of 2022.\nSG&A and R&D expenses were $27 million or 21% for the second quarter. Operating expenses increased primarily as a result of reinstating cost cuts made during the pandemic to offset the impact of revenue decline and higher incentive compensation expenses. In the second quarter, we recorded a non-cash charge of $20.1 million related to the termination of the U.S. pension plan. We are expecting the remaining non-cash charge of approximately $101 million to be booked in the third quarter when we complete the settlement process. As a reminder, these are non-cash charges and the U.S. pension plan is expected to be overfunded at settlement.\nSecond quarter tax rate was 246% as a result of the impact of the pension settlement charge on our income statement. We anticipate our 2021 tax rate to be in the range of 19% to 21% excluding the impact of the pension settlement and other discrete items. We are carefully watching the new tax proposals and initiatives of the Biden Administration, and we'll discuss the impact on our business in the coming months as we get more clarity. Second quarter 2021 earnings were $0.03 per diluted share. Adjusted earnings per diluted share were $0.52 compared to $0.16 for the same period last year and $0.46 last quarter.\nNow I'll discuss the balance sheet and cash flow. Our controllable working capital is essentially flat from the end of 2020. While we remain focused on working capital efficiency, we anticipate carrying some excess inventory where possible to manage supply chain concerns over the next few quarters. Our operating cash flow was $19 million for the second quarter which is an improvement from $12 million in the second quarter of 2020. We generated $16 million in free cash flow. Capex was low in the first half primarily due to the timing of various projects. In 2021, we expect capex to be in the range of 4% to 4.5% of sales.\nOur cash balance on June 30, 2021 was $117 million, up from $92 million on December 31, 2020. Our long-term debt balance was $50 million, down from $55 million on December 31, 2020. Our debt to capitalization ratio was at 9.9% at the end of the second quarter compared to 11.4% at the end of 2020. The combination of a strong balance sheet with a net cash position and access to approximately $250 million through our credit facility gives us the liquidity to make progress on the right M&A transactions. In early July, we successfully went live on SAP at Boise, Idaho, and Tecate, Mexico. These are locations from our first temperature acquisition.\nAs we had previously mentioned, more than 90% of our revenue now comes from sites that are running on SAP. We expect to complete the rollout to our remaining sites in early 2022. Before we wrap up, as Kieran mentioned earlier, we see a sustained demand environment in the second half of 2021. However, supply chain challenges are expected to persist for us and our customers on both material availability and cost through the rest of the year. Our current expectation is that Q3 could be the most challenging with some improvements in the fourth quarter.\nThis concludes our prepared comments. We would like to open the lines for questions at this time."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, sir. [Operator Instructions] We will now take our first question. Please go ahead, caller. Your line is open."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Thanks and good morning."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Hi, Justin."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Good morning. Maybe to start with one on the guidance, so if I look at the midpoint of the updated revenue guidance, it was up about 4%. The midpoint of the EPS guidance was up 18%. Can you just help us understand how your assumptions have changed from a margin perspective along with any tailwinds below the line that can just help us bridge that gap between the revenue upside and the EPS upside?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yeah, Justin. I'll start with the revenue side of it and Ashish can address the margin. If you look at it, you can see that we're being a little cautious in the second half of the year. The supply situation has been very challenging. We did -- the teams did a great job here in the second quarter where we faced an uphill battle on many parts and we made a lot of progress. And to give you a sense of it, I'm on escalation calls on a regular basis here with our suppliers.\nIf you take the second half of the year, we're probably looking at a $10 million to $15 million risk per quarter in the revenue side of it. Now, we'll tell you we're doing everything possible to get parts. If you talked to us earlier in Q2, we would have been in a tougher situation and we made a lot of progress. But it's still pretty challenging out there. And what we're seeing from some of the OEM customers is extending some shutdowns in certain areas as well along with the summer month shutdowns. So that's on the top line. Ashish?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Sure. Justin, on the profit side, you'll see that the gross margin and the EBITDA performance in the second quarter was considerably stronger than the first quarter. We are gaining more confidence in the operating efficiency in our operations. And we have been working hard on that for the last 12-plus months as we have updated you guys every quarter. So that is built into it. We are actually being cautious, as Kieran mentioned, on the revenue. So the same level of profitability may not continue in the second half just as the volumes come down, and we still have the pressure from commodity pricing, freight costs although some of it, as we've talked about, we are passing on to our customers. And so it's a mix of all that that is giving us a little bit more confidence on the earnings for the second half."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Okay. That's helpful. And Kieran, following up on what you said about the $10 million to $15 million revenue risk in the second half. Is most of that in the Transportation segment or is a component of that within the non-transportation end markets? Maybe you could just give us a rough split on that."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yeah, Justin, absolutely. Really all of it is in the transportation segment. The other areas of the business had some small challenges, but we overcame those. It's really the transportation side."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Okay. And then, Ashish, maybe a quick one for you on the share repurchase authorization. Anything on the timing of executing on this plan that you could share? And maybe you could clarify if this is baked into the updated 2021 guidance as well."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "So, Justin, the one thing that I'd like to point out that Kieran mentioned, our biggest priority in capital deployment is on organic and the right inorganic activities. The share buyback program was authorized by the board in the second quarter. The primary purpose is not to significantly reduce the shares outstanding. It's more from an opportunistic as well as a maintenance sort of a buyback. So we'll periodically do stuff, but I don't think it will have a massive impact on our earnings per share in the second half."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Okay. That's very helpful. Congrats on the quarter. Thanks for the time."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thanks, Justin."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question. Please state your name and company before posing your question."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Hi. It's John Franzreb from Sidoti. Good morning, Kieran, Ashish."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Good morning, John."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Hi, John."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "I guess I will start with some of the input costs that you expect in the second half. Is there any meaningfully different cost that you expect in the second half from the first half? Are you dealing with the exact same issues?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "John, the issues are the same. The magnitude has actually increased. We saw inflation -- we talked about roughly $1.6 million impact and that number has gone up slightly, and freight costs also continue to impact us unfavorably. And as we discussed earlier in the year, we are actively working with our customers to pass on some of those cost increases. And we're getting traction in many cases, some more than others obviously. But we are working closely to balance that out to the extent possible."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay, and."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "And our expectation, John, is that the cost increases will continue impacting us in the second half."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. So, in recovering these costs, are these through price increases or surcharges?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "We've gone with price increases in most of the cases, John. We are also evaluating where it makes sense to do surcharges. Freight costs would be a good example of that."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "But in our case, it's mostly through price increases at the moment."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "And John, just to add to that. I mean, the main challenges across the supply base are on semiconductors and also on residences. And then there's some other areas, too, but those two really standout has been the biggest challenge."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Residence still cost a big supply issue? There was a doubt that there was obviously a Texas issue and that's kind of gone away for the most part."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yeah. I understand the Texas piece but there's other components or materials that go into it like some glass substrates and other things in there. I would tell you the inflation there is not just double-digit, it's high."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. And Kieran, you said something in your prepared comments your concerns about inventory buildup. Where are your concerns? What market are you seeing that in?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yeah, John. Just to be clear, my comment was we are not seeing signs so far of any inventory buildup. But we remain a bit cautious. We're watching that, checking that. But we haven't seen any yet."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. Okay. My misunderstanding. All right. And automotive customer confirmations through 2022 and it sound like class -- commercial vehicle construction through the first half of 2022 at least as far as visibility. How is that different than in prior years?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Normally, we would -- we have long-term contracts. The POs would extend for a few months as we go forward on the transportation side. So some of our customers there have come and said, hey, we want to book out through the first half or the end of 2022 in transportation and in some other areas as well, John. So, it's a much longer -- it's a firm commitment on the parts."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "And John that does not apply to all customers. There's a few customers that have done that more to ensure that we can provide more clarity on the supply chain continuity there."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "And does that encompass the price increases that you're talking about? Is that kind of factored into those longer term agreements?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "It's a mix, John. Some of the pricing terms are for this year. Next year is kind of probably going to get reevaluated as well."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. And one last question and I'll get back into queue. You talked about the higher SG&A as other deferred costs come back. Is there anything else in that $20.7 million number, that's kind of how I backed it out in the quarter, or is that a good go-forward kind of a run rate for the balance not only this year but through 2022, or would there be changes from other restructuring items?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "John, we normally don't guide at that level, but the $20.7 million should be a reasonably good representation of where our cost base is right now. And as we go forward, we'll give more updates on that. We generally don't guide on the SG&A, but we'll obviously talk about it as we publish our actual results."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. I thought I'll rephrase the question. Are there any other restructuring actions that have yet to happen that are going to lower the SG&A number going forward?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "The restructuring costs that we are working on -- or the savings, sorry, are more associated at this point with the gross margin side. There will be some impact on overall operating expenses as well, but the larger portion of the remaining will come out from the gross margin numbers."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Great, great. Thank you Ashish and Kieran. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thanks, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question. Please state your name and company before posing a question."
+    },
+    {
+      "speaker": "Eddie",
+      "speech": "Hey. Hello, guys."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Hey, Karl."
+    },
+    {
+      "speaker": "Eddie",
+      "speech": "Hey. Hello, guys. This is Eddie [Phonetic] for Karl Ackerman from Cowen. Congrats on the quarter."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Hi, Eddie."
+    },
+    {
+      "speaker": "Eddie",
+      "speech": "So last quarter you indicated 80% of order backlog was tied to electric vehicles while you have previously said you are not going to be in electric vehicles and gas-powered. Would you -- my question is would you receive a price premium or margin uplift from your EV products? And I have another question please."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "So just on the EV side of it, for pure transportation awards, it's -- automotive market is tough. It's always been difficult. And you've got to win it and you've got to be reducing costs and good quality. So I wouldn't say a huge difference at all."
+    },
+    {
+      "speaker": "Eddie",
+      "speech": "Okay, all right. And you talked about commercial vehicle build staying strong into the first half of next year. Maybe just tell us what assumptions you have for commercial vehicles and light vehicles unit growth for Q3? Any color would be helpful."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "So -- just probably take your -- part of your question for next year. Obviously, we read some industry reports out there on the forecasts and where the volumes are at. The biggest headwind there is just component supply. But if we're going from that is just what we're hearing from our customers and what we can secure in parts in terms of supporting that as well."
+    },
+    {
+      "speaker": "Eddie",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "You're welcome, Eddie."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Thanks, Eddie."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] We will now take our next question. Please state your name and company before posing. Please go ahead."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Hendi Susanto, Gabelli Fund. Good morning, Ashish. Good morning, Kieran."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Good morning, Hendi."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Hi, Hendi."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Kieran, I'm wondering whether you are -- whether you can give us some insight on customer behaviors. At some point, given the supply shortage, customers will start building up their inventory of components. I mean, this applies to your customers as well. So what kind of track or path are we expecting going forward? Like, OK, currently there's a supply chain shortage and then at some point customers will build like perhaps like higher inventory of components, which include some of your products as well. So what is your expectation in that area?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yes. Hendi, it's -- as we said in the earlier comments, we're cautious about inventory buildup but we haven't seen any certainly on the component side of it. On the transportation side of it, actually inventory levels are way down. They're down at historic lows at 25 to 30 days -- on-hand days of supply in North America when that should be up in the 65-day range. Basically, at the moment, it's just get every part you can to build the vehicles. And so we're not seeing any inventory buildup. And looking at the forecast out there, some people are saying if we didn't have supply, we could be getting back to a, I don't know, $16 million, $17 million SAAR.\nI don't think we're going to fly back to a $17 million SAAR in the next year or two, but staying more robust around $16 million seems somewhat possible. And again, on the other end markets and through distribution, we're not seeing an inventory buildup. And believe me we're keeping a very cautious eye on that. The others side of that is, on the escalation meetings with our suppliers, they're checking as well making sure that people are not over-ordering because you can imagine, they've got other customers who can take the parts as well. And so, it's really a pretty robust demand environment. It's just this whole supply chain. And we see it getting better in the fourth quarter and into next year. But it's just challenging at the moment."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "I see. So, Kieran so let's say if supply shortage like persist for several quarters, I'm wondering whether let's say like inventory buildup may happen later and then therefore, inventory buildup may not be in the second half of 2021?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yeah. We're not seeing any signs of inventory buildup in the second half of '21. And it's probably a little too soon to comment with great detail on '22. But all the signs we're seeing are just securing supply for more sustained demand."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "I see. Yeah, OK. And then, second question is for Ashish. So Ashish, I think my understanding about gross margin is directionally for the second half, we will still see some headwinds. But there's also some improvement. And then, I think, can we look at your long-term target range as our base case scenario or the restructuring may take gross margin a little bit above the high-end of the gross margin target range?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "So Hendi, I think you're right on in terms of restructuring. We would expect further improvements. Some of the headwinds that we did talk about, volume is probably the biggest one that we are anticipating in the second half. And you can see the magnitude of that based on our guidance that we have provided. And the material cost increases that we just mentioned, they've gotten slightly worse compared to the first half, so there'll be some added pressure there. And the other thing that does have an impact on our cost structure is the foreign exchange rates. Most of our manufacturing is done outside the U.S., and that can also have an impact on the gross margin percentage from time-to-time."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Thank you, Ashish. Thank you, Kieran. Great Q2 results."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thank you, Hendi."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Thank you, Hendi."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We will now take our next question. Please go ahead."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Hi, guys. Just a quick follow-up. Ashish, I think you said you got -- you've realized $0.12 of savings, and maybe I didn't hear you properly, in the first half of the year from restructuring actions. Is that -- did I hear that properly?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "$0.12 from the launch of the restructuring program, John. So I believe the number was $0.03 in the first quarter, $0.03 in this quarter, and we had said $0.05 in the second half of last year and there's some rounding in there. So it's $0.12 program to date."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. So that's an annualized number, $0.03 in the first quarter, $0.03 in the second. You're running at an annualized $0.12 is the -- am I understanding that properly?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "It would be $0.12 in the last 12 months, and we are looking for more savings as we go forward."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay, OK, OK. I was just a little confused on that one. Okay. And just on the revenue that -- expectations to go down, can we just work through that one more time, why is that the case?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Supply chain challenges, John, particularly in transportation. That's where the real issue is. Getting semiconductors is the real crunch point at the moment. And then the other side of that is some of the customers are doing extended shutdowns as well or shutting down because there's other semiconductors that they can't get like microcontrollers."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "And you expect -- go ahead."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Sorry, John. I was going to say Kieran's comments earlier on the call, we were able to pretty reasonably manage the second quarter and we did better than we expected to be able to do because of the supply chain challenges. We are expecting things to be much tougher in Q3."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "And John, obviously, we'll be doing everything we can to support our customers and minimize that as much as possible, but that challenge and risk exists at the moment."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Well, I guess, I'm just curious because we had a fair amount of high profile shutdowns in the first half of the year. So, are you suggesting you expect more shutdowns in the second half of the year than the first half?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yeah, at least the same or a little -- sorry, a little more is what we're reading, John. When I look at the whole forecast, we see about 6 million of shortage on vehicles overall globally. And I think 5 million has been announced up to about a week ago, but there's other noise out there that's indicating more like 6 million."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. All right. Thanks for clearing it up. Thank you, guys."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] It appears there are no further questions at this time. I would like to turn the conference back to Mr. O'Sullivan for any additional or closing remarks."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thank you, Tracy, and thank you to everyone for your participation on today's call. We look forward to updating you on our performance in October and getting through these supply chain challenges as best we can. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 38 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kieran O'Sullivan--President, Chief Executive Officer and Chairman of the Board",
+    "Ashish Agrawal--Vice President and Chief Financial Officer",
+    "Justin Long--Stephens, Inc. -- Analyst",
+    "John Franzreb--Sidoti & Company, LLC -- Analyst",
+    "Eddie--Cowen and Company, LLC -- Analyst",
+    "Hendi Susanto--GAMCO Investors, Inc. -- Analyst"
+  ]
+}

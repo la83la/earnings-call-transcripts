@@ -1,0 +1,379 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Greetings and welcome to the Edwards Lifesciences First Quarter 2021 Results Conference Call. [Operator Instructions] Please note that this conference is being recorded.\nI will now turn the conference over to our host, Mark Wilterding, Vice President of Investor Relations. Thank you. You may begin."
+    },
+    {
+      "speaker": "Mark Wilterding",
+      "speech": "Thank you, Diego. Good afternoon and thank you for joining us. With me on today's call are Mike Mussallem, Chairman and Chief Executive Officer; and Scott Ullem, Chief Financial Officer.\nJust after the close of regular trading, Edwards Lifesciences released first quarter 2021 financial results. During today's call, management will discuss those results included in the press release and accompanying financial statements and then use the remaining time for Q&A.\nPlease note that management will be making forward-looking statements that are based on estimates, assumptions and projections. These statements include but aren't limited to, financial guidance and expectations for longer-term growth opportunities, regulatory approvals, clinical trials, litigation, reimbursement, competitive matters and foreign currency fluctuations. These statements speak only as of the date on which they were made and Edwards does not undertake any obligation to update them after today.\nAdditionally, the statements involve risks and uncertainties, including, but not limited to, those associated with the pandemic that could cause actual results to differ materially. Information concerning factors that could cause these differences and important product safety information may be found in the press release, our 2020 Annual Report on Form10-K and Edwards' other SEC filings, all of which are available on the company's website at edwards.com.\nFinally, a quick reminder that when using terms underlying and adjusted, management is referring to non-GAAP financial measures, otherwise, they are referring to GAAP results. Reconciliations between GAAP and non-GAAP numbers mentioned during this call are included in today's press release.\nWith that, I'd like to turn the call over to Mike for his comments. Mike?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Thank you, Mark. As we anniversary our one year impact of the pandemic on our financial results, I'd like to briefly reflect on the current environment and to discuss our 2021 and longer-term priorities as a company. I'd also like to touch on Edwards' response to the pandemic and our efforts to better support our patients, employees and the community. Recall that our sales were dramatically impacted in the last few weeks of Q1 2020 as procedures fell due to COVID disruptions. One year later, after an extraordinarily difficult global crisis, I'm encouraged by the signs of recovery and although we recognize that many people are still struggling around the world.\nOur sales growth this quarter was better than expected across all product lines. Although we expect the pandemic will impact the global healthcare system based on the environment as we exited the quarter, we have continued confidence in our positive 2021 outlook. We continue to believe that 2021 will be an important growth year for Edwards with mid-teen sales growth highlighting the importance of treating structural heart patients even during this pandemic. We also anticipate meaningful progress on expanding large under-appreciated and underserved transcatheter opportunities in 2021.\nRecently, we achieved several important milestones. Let me mention four. Just last week, in transcatheter aortic valve replacement or TAVR, we received approval to initiate a pivotal trial for patients suffering from moderate aortic stenosis. Also earlier this month, we received approval to begin treating patients at low surgical risk in Japan with SAPIEN 3. And in Transcatheter Mitral and Tricuspid Therapies, or TMTT, I'm pleased to announce that the first patients were recently treated with EVOQUE Eos, our next-generation Transcatheter Mitral Replacement System. Also in TMTT, we initiated the TRISCEND II US pivotal trial for transcatheter tricuspid replacement.\nLooking beyond 2021, we remain confident in our long-term strategy and our pipeline of innovative therapies. Our patient-focused culture drives us and motivates our employees around the world every day. Our R&D targets breakthrough therapies that can create significant value for patients and health systems enabling strong organic sales growth and exceptional shareholder returns. Despite COVID disruptions, we've continued to invest aggressively for future growth.\nAs a reminder, about a third of our research and development investments today are focused on generating a robust body of guideline changing clinical evidence and although clinical studies slowed during the pandemic, our dedicated clinician partners are eager to accelerate enrolment in this important research. Regulators have also been supported in addressing the impact of the pandemic and its impact on clinical studies.\nFinally, I want to provide some perspective on how we've maintained our focus on creating long-term value as we navigated the pandemic over the last year. We continue to invest in our people, in our infrastructure. During a time when widespread uncertainty impacted many families across the globe, we have prioritized protecting our employees and have grown our team. We enhanced employee benefits, rewarded performance and protected incentives.\nWe also moved ahead on expanding Edwards research and production facilities around the world. We adjusted our agreements to support hospitals as they navigated COVID and additionally, we provided extra support to the communities where our employees live and work. In fact, we recently converted one of our facilities into a mass COVID vaccination site to support the community of 3 million people, where our company is headquartered. As a company, we expect that Edwards will be positioned even stronger and be able to help more patients than ever before as the world emerges from the pandemic.\nNow, turning to our first quarter results. We reported $1.2 billion in sales this quarter, up 5% on a constant currency basis from a year ago. Recall that our guidance assumed Q1 sales would be in line with the first quarter of last year, which was largely unaffected by COVID. We were pleased with how sales improved as the quarter progressed.\nIn TAVR, first quarter global sales were $792 million, up 4% on an underlying basis. The SAPIEN 3 Ultra platform remains differentiated with low complication rates, ease of use and significant potential for length of stay efficiency. Our average selling prices were stable and we estimated that global TAVR procedure growth was comparable with our growth. In the US, our Q1 TAVR sales were flat with fourth quarter and year-ago results and we estimate that overall US procedure growth was comparable.\nConsistent with our guidance on the Q4 earnings call in late January, COVID stressed the global healthcare system during the winter months. We are encouraged, however, that US TAVR procedures grew as COVID hospitalizations decrease and vaccinations increased during the quarter. Small and medium-sized centers played a valuable role in serving patients during the quarter. We continue to activate new centers this quarter as we have been throughout the pandemic. This demonstrates the clear interest of many smaller centers to provide state-of-the-art care for structural heart patients.\nOutside the US, in the first quarter, we estimated TAVR procedures grew in the low-double digits on a year-over-year basis and Edwards growth was comparable. Although we are off to a strong start, the slow vaccination progress outside the US provides uncertainty for the remainder of the year. Edwards underlying TAVR growth in Europe versus the prior year was in the mid-single digit range. Edwards growth in countries with lower TAVR adoption rates outpaced countries where the therapy is more established. Although TAVR centers were more prepared to treat patients, patient flow was disrupted due to regional lockdowns and uncertainty among patients about the urgency of their disease.\nSales growth in Japan and other countries was strong as aortic stenosis remains an immensely undertreated disease and we remain focused on increasing the availability of TAVR therapy. As previously noted, we received approval earlier this month in Japan for SAPIEN 3 in patients at low surgical risk. We anticipate increased treatment rates when reimbursement is approved later this year.\nIn addition to geographic expansion of our TAVR therapies, we remain dedicated to pursuing indication expansions. Our groundbreaking early TAVR trial is focused on patients who have severe aortic stenosis, but without recognized symptoms and who do not meet the current guidelines for valve replacement. We expect enrollment to increase as we and participating sites are motivated to complete enrollment of the trial this year. I'm also pleased to report that we received FDA approval for a pivotal trial for TAVR in moderate AS patients as we expect enrollment to begin later this year.\nBased on recent trials, we're learning on what was once thought of as the benign precursor to severe aortic stenosis may actually be associated with higher rates of morbidity and mortality than previously recognized. Thus, we believe TAVR may be a future treatment option for these patients. Separately, last week, we received SAPIEN 3 CE Mark approval to begin treating patients with a previously repaired or replaced valve in the pulmonic position.\nLooking ahead to the upcoming virtual EuroPCR meeting next month, we expect long-term follow-up data from our European Registry on SAPIEN 3 as well as the late-breaking clinical trial results on low risk bicuspid patients.\nIn summary, based on the strength we saw at the end of the first quarter, we have confidence that the underlying TAVR sales will grow in the 15% to 20% range in 2021. We expect continued near-term COVID-related regional disruptions and a more normalized second half of the year. We remain confident that this large global opportunity will exceed $7 billion by 2024, which implies a compounded annual growth rate in the low double-digits.\nTurning to TMTT. We're enrolling five pivotal trials across our differentiated portfolio of technologies to support patients suffering from tricuspid and mitral valve disorders. This quarter, we progress with the enrollment of our three CLASP pivotal trials for PASCAL. We continue to expect approval for patients with DMR late next year. This is expected to be the first commercial approval of the PASCAL system in the US.\nWe've also begun treating patients with EVOQUE TR in the TRISCEND II randomized pivotal trial in accordance with the FDA's breakthrough pathway designation. This trial will evaluate the safety and effectiveness of the EVOQUE tricuspid valve replacement system for patients with severe tricuspid regurgitation.\nIn addition, the first patients were recently treated with our next-generation Transcatheter Mitral Replacement System called EVOQUE Eos through the MISCEND study. This study will evaluate the safety and performance of EVOQUE Eos, which is designed to advance the treatment of patients with mitral regurgitation with low profile valve delivered through a sub-30 French transfemoral delivery system. We believe our two platform replacement strategy with SAPIEN M3 and EVOQUE Eos strongly positions us to be the leader in treating these underserved patients.\nAs we expand our body of clinical evidence, we look forward to presenting meaningful data across our portfolio at the upcoming virtual ACC and EuroPCR medical meetings, including multiple late-breaking presentations. These include longer-term outcomes for transcatheter mitral repair from our CLASP trial and the first report of 30-day outcomes with EVOQUE tricuspid replacement from our TRISCEND study.\nTurning to our results. First quarter global sales were $16 million, driven by continued adoption of our PASCAL system and activation of more centers across Europe. Assuming diminishing COVID-related impact, we expect to ramp up sales throughout the year. We remain confident in our 2021 sales guidance of $80 million as we advance commercialization, staying focused on physician training, procedural success and patient outcomes. Adoption and favorable real-world clinical outcomes remain key drivers to transforming treatment.\nIn summary, we are making meaningful progress toward our 2021 milestones and we continue to estimate the global TMTT opportunity to reach approximately $3 billion by 2025. We remain committed to transforming the treatment of patients with mitral and tricuspid valve disease around the world.\nIn Surgical Structural Heart, first quarter 2021 global sales was $213 million, increased 7% on an underlying basis over the prior year. Despite a soft start associated with COVID, we are encouraged by the improvement across all regions over the course of the quarter. Notably, growth was lifted by premium products and improved as declining COVID cases enabled more hospitals to resume treating surgical structural heart patients.\nWe remain very encouraged by the steady global adoption of Edwards RESILIA tissue valves, including continued adoption of the INSPIRIS RESILIA aortic surgical valve. We anticipate that adoption will be bolstered by the five-year data from our COMMENCE clinical trial presented at the recent meeting of the Society of Thoracic Surgeon, which demonstrates the excellent durability of this tissue technology. And we're pleased that in the first quarter, we initiated sales of INSPIRIS in China. Sales in the US also continue to gain traction with KONECT RESILIA, the first preassembled aortic tissue valve conduit for patients who require replacement of the valve, route and ascending aorta, a critical unmet patient need.\nFinally, we're pleased to announce that we received regulatory approval with reimbursement in Japan for our MITRIS RESILIA valve, a new mitral valve incorporating our newest tissue technology. Yesterday, in Japan, we performed our first commercial cases with this differentiated innovation.\nIn summary, we have confidence in our full-year 2021 underlying sales growth in the high single-digit range for Surgical Structural Heart, driven by market adoption of our premium technologies. We continue to believe the current $1.8 billion Surgical Structural Heart market will grow in the mid-single digits through 2026.\nIn Critical Care, first quarter sales of $196 million increased 4% on an underlying basis, driven by increased sales of technologies for both the operating room and intensive care units. HemoSphere orders increased as hospital capital spending began to show signs of recovery. Demand for our products used in high-risk surgeries remain strong and our ClearSight non-invasive finger cuff used in elective procedures also recovered to near pre-COVID levels. Our TruWave disposable pressure monitoring devices used in the ICU remained in demand due to elevated hospitalizations in both the US and Europe at the beginning of Q1.\nWe continue to expect full year 2021 underlying sales growth in the high single-digit range for critical care. We remain excited about our pipeline of critical care innovations as we continue to shift our focus to smart recovery technologies designed to help clinicians make better decisions for their patients.\nAnd now, I'll turn the call over to Scott."
+    },
+    {
+      "speaker": "Scott B. Ullem",
+      "speech": "Hey. Thanks, Mike. Well, we are encouraged by the start to our year. Despite COVID still impacting the global healthcare system in the first quarter, we were able to post positive year-over-year sales growth across all of our product lines and regions as our advanced therapies helped patients globally.\nTotal sales grew 5% year-over-year on an underlying basis, which was better than the flat growth we expected when we gave guidance for the first quarter back in January. This stronger-than-expected sales performance fell through to the bottom line, resulting in adjusted earnings per share of $0.54, which was 8% higher than the first quarter of 2020. The improvement in our sales performance during the quarter was choppy, but we exited the quarter in a stronger position and that gives us continued confidence in our outlook for the balance of the year.\nWhile macro conditions remain variable across our key geographies, we're projecting total sales in the second quarter to grow sequentially to between $1.25 billion and $1.33 billion resulting in adjusted earnings per share of $0.54 to $0.60. As our business continues to rebound from the impact of COVID, we expect sales to strengthen and expenses to grow as travel and clinical trials ramp up.\nWe are maintaining all of our previous sales guidance ranges for 2021. For total Edwards, we expect sales of $4.9 billion to $5.3 billion; for TAVR, $3.2 billion to $3.6 billion; for TMTT, approximately $80 million; for Surgical Structural Heart, $800 million to $900 million; and for Critical Care, $725 million to $800 million. And based on our first quarter earnings, we are raising full year adjusted earnings per share guidance to $2.07 to $2.27, up from $2 to $2.20.\nSo, now I'll cover additional details of our results. For the first quarter, our adjusted gross profit margin was 76% compared to 76.7% in the same period last year. This reduction was driven by a negative impact from foreign exchange and incremental costs associated with responding to COVID, partially offset by improved manufacturing efficiencies. We continue to expect our 2021 adjusted gross profit margin to be between 76% and 77%.\nSelling, general and administrative expenses in the first quarter were $331 million or 27.2% of sales compared to $308 million in the prior year. This increase was primarily driven by the strengthening of OUS currencies, primarily the euro and personnel-related costs, partially offset by reduced travel spending resulting from COVID. As I mentioned earlier, we anticipate our spending will increase during the year as travel restrictions subside and we resume a more normalized operating environment.\nWe continue to expect full year 2021 SG&A as a percentage of sales, excluding special items, to be 28% to 29%, similar to pre-COVID levels.\nResearch and development expenses in the quarter grew 10% to $207 million or 17% of sales. This increase was primarily the result of continued investments in our transcatheter innovations. For the full year 2021, we continue to expect R&D as a percentage of sales to be in the 17% to 18% range, similar to pre-COVID levels as we invest in developing new technologies and generating evidence to expand indications for TAVR and TMTT. Turning to taxes, our reported tax rate this quarter was 13.1%. This rate included a 290-basis-point benefit from the accounting for stock-based compensation. We continue to expect our full year rate in 2021, excluding special items, to be between 11% and 15%, including an estimated benefit of 4 percentage points from stock-based compensation accounting.\nForeign exchange rates increased first quarter reported sales growth by 280 basis points or $30 million compared to the prior year. At current rates, we now expect an approximate $60 million positive impact or about 1% to full year 2021 sales compared to 2020. FX rates negatively impacted our first quarter gross profit margin by 150 basis points compared to the prior year. Relative to our January guidance, FX rates positively impacted our first quarter EPS by about $0.01.\nFree cash flow for the first quarter was $195 million defined as cash flow from operating activities of $301 million, less capital spending of $106 million.\nBefore turning the call back over to Mike, I'll finish with an update on our balance sheet and share repurchase activities. We continue to maintain a strong and flexible balance sheet with approximately $2.1 billion in cash and investments as of March 31, 2021. We repurchased 3.6 million shares for $303 million during the first quarter and have approximately $300 million remaining in our share repurchase authorization.\nWe plan to continue to execute our strategy of offsetting dilution from incentive stock compensation as well as opportunistically reducing our shares outstanding over time. Average shares outstanding during the first quarter were 631 million, down approximately 1 million from the prior quarter. We continue to expect average diluted shares outstanding for 2021 to be between 630 million and 635 million.\nSo with that, I'll pass it back to Mike."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Thanks, Scott. We remain confident in our long-term patient-focused strategy on our innovation pipeline. To serve the many patients suffering from structural heart disease, we have never stopped investing in our people, our innovative technologies and our new growth capacity. As a company, we expect that Edwards will be positioned even stronger and in a position to help more patients than ever as the world fully emerges from this pandemic.\nSo with that, I'll turn the call back over to Mark."
+    },
+    {
+      "speaker": "Mark Wilterding",
+      "speech": "Thanks, Mike. So, Diego, with that, we're ready to take questions now. In order to allow for broad participation, we ask that you please limit the number of questions to one, plus one follow-up. If you have additional questions, please reenter the queue and management will answer as many participants as possible during the remainder of the call.\nDiego?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question comes from Bob Hopkins with Bank of America. Please state your question."
+    },
+    {
+      "speaker": "Bob Hopkins",
+      "speech": "Great. Thank you and good afternoon. One thing that I would love to get your view on is that going to stood out in the quarter is the TAVR growth rate you guys put up in the first quarter outside the United States, and especially outside the United States and excluding Europe, given some of the numbers you gave us. So, I was wondering if you could just talk a little bit more about that. And specifically, was Japan and maybe China really strong in the quarter? Mike, just love your take on what happened outside the US this quarter with TAVR?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Bob. That's a correct observation. Clearly, OUS did pull our performance up in the quarter. And even though Europe grew nicely, most of this came from Japan and other countries. And so, Japan was pretty significant in size. And so, it really was a meaningful contributor to growth, but it certainly wasn't alone. You could go across many other countries, it's sort of that normally don't get called out like the Australias or the Koreas and these kind of places in the world where it's under-penetrated. And we just don't have TAVR rates where they should be at. We're really strong growers. Some of that may have been that they were impacted earlier by the pandemic. And so, the year-over-year comparisons are a bit stronger. But frankly, the numbers were just up. We continue to see that therapy grow in those areas. China, we're very early in that game. It was not a meaningful contributor to those results. So it's really not a factor."
+    },
+    {
+      "speaker": "Bob Hopkins",
+      "speech": "Okay. And then, one quick follow-up on that is just, was there anything in particular that you think that gave you better results in Japan this quarter? And then, on Europe, I'm just curious. Did Europe get worse over the course of the quarter just following what happened with COVID or was it pretty stable or did it improve like the US, just curious on that?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. So, in Japan, there was no specific thing that drove this. We've been focused in Japan for many years and actually somewhat disappointed that adoption rates haven't been higher. And so, this has been a long-term and consistent effort. And it's really nice to just continue to see the adoption. We are glad to see this approval for low risk in Japan that will start having some meaning later on in the year. In Europe, it was interesting, it was kind of choppy, I would say, not consistent across all countries. We still saw the countries that were less penetrated probably have a little bit more growth in those countries that have traditionally been strong. And if you looked at it through the course of the quarter, it exited pretty solid, I think, similar to the overall growth rate of the quarter. So I don't think there was anything notable there, Bob."
+    },
+    {
+      "speaker": "Bob Hopkins",
+      "speech": "Great. Thanks for taking the question. Very helpful."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Robbie Marcus with JPMorgan. Please state your question."
+    },
+    {
+      "speaker": "Robert Marcus",
+      "speech": "Great. Thanks for taking the question and congrats on a good quarter. Maybe the opposite of Bob's question, in the US, it'd be great to get a sense of sort of the trends you're seeing how the quarter went and especially with so many of the adults, particularly the 65 and older population now fully vaccinated, are you starting to see trends improve there? And then, maybe I'll just ask the second question upfront. I've heard from a lot of doctors throughout the COVID time that the time from diagnosis to screening to treatment with TAVR starting to compress. I want to see if you're seeing that on a company level. And if so, is that a durable trend? Thanks."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Okay. So let's talk about the US. The US did improve during the course of the quarter, no doubt about it, but we would call it choppy. It wasn't straight up. So for example, things were tough in January and February and clearly got better in March. Although when you got toward the back end of March and you had spring break, you felt that effect as well but clearly an upward trend.\nI just remember the sort of the roller coaster that we went on, Robbie, when we first put out the TAVR estimates of 15% to 20% growth in our December Investor Conference, we are feeling pretty good about it. When we got to the end of January and reported Q1, we are saying, well we're still in that range, but probably were a little lower in that range, just based on things were going. And then, here they want and recovered nicely. So we feel confident about the 15% to 20% range going forward. So hopefully that helps you get a sense for the US.\nIn terms of the question about is it easier? All hospitals are not identical in the way that the screen patients. And so, although some are more efficient at getting more efficient, others are more challenging. And one of the things that happens when you have COVID, so in addition to all the tests that you run through, you also have to do COVID tests before you come in the hospital. So it just becomes a hassle for these patients in addition to just the fear factor. So, I wouldn't say, it's uniform. Overall hospitals get a little better, but it's still a battle. The good news is length of stay is coming down. Hospitals are clearly improving in that regard. And maybe some of that is COVID-driven, but it seems to be a trend as well."
+    },
+    {
+      "speaker": "Robert Marcus",
+      "speech": "Great. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Vijay Kumar with Evercore ISI. Please state your question."
+    },
+    {
+      "speaker": "Vijay Kumar",
+      "speech": "Hey, guys. Thanks for taking my question. And I had two, maybe I'll start with the first on the guidance here. Mike, on your comments on 15% to 20%, January was perhaps low end, seems more appropriate. I mean, you just beat Q1 at the high end. It looks like procedures have come back. So I'm thinking, are we -- should we be looking at the high end of the guide? And I think that 15% to 20% just to put a finer point to it, that's versus last year's guide, right, if you look at the actual TAVR revenue numbers. I mean, this is more like a 16% to 26% growth off of actual fiscal '20 TAVR numbers?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. No. Thanks, Vijay. We feel pretty good about the fact that we're putting pretty specific guidance out there in the first place. And guidance is not that simple during the age of COVID. We did -- we do feel better about it. We probably would tend to guide people more toward the middle of the range, Vijay. Of course, it's possible for it to be higher and lower. And this is going to be somewhat dependent on what your perspective is about COVID. So, even in the US or certainly across Europe, if COVID is more challenging, it will put pressure on our numbers. If things go -- vaccinations go nicely and COVID really -- we start winning the battle, it helps us trend toward the higher end, but I feel like there is pretty balance in the guidance that we tried to advance."
+    },
+    {
+      "speaker": "Vijay Kumar",
+      "speech": "Understood. And then, I did have one, perhaps a more -- a bigger picture question, Mike. I guess, the question we've gotten is, how de-risk is MITRAL. Because prior to make a thesis, MITRAL is going to be a really big TAM, much bigger than TAVR. I guess, the question was, look, you've had COAPT versus MITRAL FR, patient selection matters. And then when I look at your trials, you have two different trials on the replacement side SAPIEN 3 and EVOQUE. Is that a two-valve strategy? Is that perhaps Edwards trying to take a portfolio approach? Are these valves different? Or I guess, I'm trying to ask, how de-risked is MITRAL? Are we at a point where we know exactly what patients we need to select? And this is just a question of time before MITRAL ends up being much larger than TAVR?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Thanks for that, Vijay. Well, you can probably get a sense in terms of how dedicated Edwards is to pursue Transcatheter Mitral and Tricuspid. We really think it's a big opportunity. We think it's within our reach. And we think the time is right for us to go after. And we're going after it with a lot of energy. We're pursuing it with a toolbox. To say it's de-risked would be overstating the situation at this point. It certainly is not de-risked. There is leaflet therapy out there right now that has a fair amount of data around it, but there is still limited data on replacement, limited data in tricuspid. And I think, each time you see results from these trials and you see them actually in human use, you start to see more and more derisking and more and more clarity. And frankly, more clarity on which patients are appropriate for which therapies.\nAnd I would say, that's not fully known at this point. We have some pretty good ideas and maybe we know more than most because we have so many technologies advancing in this space, but there is still more to learn. And so, I'll turn your attention mostly to these big clinical meetings where they'll be reporting the results from Mitral and tricuspid trials to get a sense for us getting a better understanding of the opportunity."
+    },
+    {
+      "speaker": "Vijay Kumar",
+      "speech": "Understood. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Larry Biegelsen with Wells Fargo. Please state your question."
+    },
+    {
+      "speaker": "Larry Biegelsen",
+      "speech": "Good afternoon. Thanks for taking the questions. Mike, one on early TAVR, one on TMTT. Just on early TAVR, just a clarification. Mike, I thought I heard you say earlier that you expect to complete the trial in 2021. Maybe that's just enrollment but the ClinicalTrials.gov was just updated in April. It says, the primary endpoint will be reached in December 2021. So, my question is, can you just tell us kind of what the status is on enrollment and when we could expect to see a data read out there? And I have one follow-up."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yes. Sorry if there was a lack of clarity on it. What I meant to infer is, we're striving to achieve enrollment completion by the end of 2021. You may have also gotten from my comments that enrollment was a little lighter than we like in Q1. And that anticipates actually that we're going to have increased enrollment as the year goes on and COVID gets a little bit more under control. So we're working hard to get there. Remember that there is a two-year endpoint on this trial as well."
+    },
+    {
+      "speaker": "Larry Biegelsen",
+      "speech": "That's helpful, Mike. On TMTT, can you talk a little bit more -- you seem to be getting traction -- nice traction there. A little bit more about what you're seeing in the mitral and tricuspid businesses there. I don't know if you're willing to kind of split out mitral and versus tricuspid. But any color, you're willing to provide would be helpful. Thank you for taking the questions."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yes, thanks, Larry. Yes. At this point. Clearly there is more sales in mitral than there is in tricuspid. Tricuspid is pretty new still. I mean, it's been an pretty impressive ramp in tricuspid. We're pleased with what we're seeing. We think the opportunity is a nice one. But still the opportunity is -- at least the sales right now is to a great majority related to mitrals. There is still more centers that are doing this. And so, for Edwards, actually activating sites is important, very careful training, trying to make sure that we get great outcomes. Those are all critical success factors, but I don't know if that helps answer your question."
+    },
+    {
+      "speaker": "Larry Biegelsen",
+      "speech": "It does. Thanks for taking it."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Josh Jennings with Cowen. Please state your question."
+    },
+    {
+      "speaker": "Josh Jennings",
+      "speech": "Hi, good evening. Thanks for taking the questions and congratulations on strong start to the year. I have two questions on TAVR. The first one just on low-risk bicuspid, the PARTNER 3 bicuspid registry data has been made public. And I just wanted to get a sense of from you, if your team is relaying the penetration of TAVR into the low-risk bicuspid opportunity, where it sits with the registry data on hand now, where can that go?\nAnd the follow-up question is just thinking about the replacement cycle for TAVR. It's still very early, but as younger patients are getting implanted with TAVR and the SAVR opportunity out in the outyears, maybe even past 2024. Mike, do you mind just framing of what needs to be done clinically to bring TAVR and SAVR into a place maybe where TAVR and SAVR sits today? Thanks for taking the questions."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Josh. So, let me take a shot at this. So overall, we're pleased with our bicuspid data. I don't have anything specific breakout to share with you. We routinely treat a lot of bicuspid patients. And I think what will be interesting is what we mentioned this upcoming meeting, I believe it's EuroPCR, you're going to see a report of a pretty significant registry of patients that are bicuspid patients that have been treated with transcatheter technology. So that should be an interesting data point and help give you some good insight not just here within the next couple of months.\nIn terms of where we are in the journey for TAVR -- in TAVR versus TAVR and SAVR, you hear clinicians talking much more about how do I plan a lifetime therapy, right. What should be for a given patient, given their age, given their disease, what should be the first treatment? What might be the second? Should it be surgery first, TAVR second? SAVR first, then surgery, then another TAVR and all that. And that's very active discussion. I think there has been some really strong evidence that says, TAVR and TAVR is good as well as TAVR and SAVR, so those are both proven to be realistic options. And so now, it's trying to sort through for any given patient what's the best therapy. And it's on the podium pretty regularly. And I think we're on a pretty steep learning curve in that regard."
+    },
+    {
+      "speaker": "Josh Jennings",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Cecilia Furlong with Morgan Stanley. Please state your question."
+    },
+    {
+      "speaker": "Cecilia Furlong",
+      "speech": "Great. Thanks for taking the question. I guess I wanted to start off with TMTT again. And just really, as you're expanding in Europe and you think about the $80 million in 2021, really what's coming from further account penetration versus account expansion as you factor that into your guidance?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Cecilia. The short answer is, I'm not sure, clearly more sites is an important component here. I also know that there is an increase within the existing sites, but probably site expansion is the biggest part of that if you were to just got to pick one versus the other, given the outcomes."
+    },
+    {
+      "speaker": "Cecilia Furlong",
+      "speech": "Okay, great. Thank you. And I guess, I did want to turn back to TAVR in Japan. And just what you're seeing there, really just ahead of low risk reimbursement if that has changed dynamics in terms of just interest versus what you've seen historically and not being kind of a driver of recent strength. And thank you."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Cecilia. We believe that clinicians and the environment in general is pretty disciplined in Japan. And that clinicians do treat to approve the guidelines. And so we don't think that there is a lot of low-risk that's in the current numbers. And so, we expect that to be a positive boost. Having said that, as we've talked about before treatment rates in Japan compared to where they should be are just low. There is almost as many elderly in Japan as there are in the United States, but it's still dramatically less treated. So we still have work to do. There is still potentially a lot of upside there. We're pleased to see the growth rates, but we're not pleased at the penetration rates yet."
+    },
+    {
+      "speaker": "Cecilia Furlong",
+      "speech": "Okay. Thank you, Mike."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Matt Miksic with Credit Suisse. Please state your question."
+    },
+    {
+      "speaker": "Matt Miksic",
+      "speech": "Hi. Thanks so much for taking the question. So, hoping, Mike, you could shed some light on just a couple of dynamics that we get questions about often and how they potentially affecting the growth of the TAVR business globally, and I guess maybe especially in the US. So, these two things and I'll keep it to one question. First, the idea that TAVR somehow benefited during COVID, this idea of a preference for TAVR over SAVR driven by length of stay and that potentially maybe that rolls back toward SAVR over time somewhat. And then, the second is sort of what you had contemplated in terms of, you gained an awful lot of share -- a fair amount of share from your largest competitor over the past year-and-a-half or so. And how much you've contemplated sort of having to feed that back or and maybe what you've seen on that front so far as it compares to what you've assumed?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Well, thanks, Matt. So, a couple of things. I mean, clearly we've heard clinicians and hospitals talk a lot about their focus on length of stay and about how helpful it is if they don't have to utilize their ICU or have patients that stay in the hospital. Having said that, I would say that if you were to take the US mix, for example, of TAVR versus SAVR during the pandemic, that's remained relatively flat. There really -- we haven't seen TAVR versus SAVR or vice versa advantage very much during the pandemic. It's been pretty stable. And so, it's difficult to know if that's COVID-related or if it's just a sign of the times, but that's the observation.\nGo ahead. Okay. You also asked -- also the second part of the question was about share."
+    },
+    {
+      "speaker": "Matt Miksic",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. We feel pretty good about our competitive position. We're really pleased with the performance of SAPIEN 3 Ultra. It's demonstrated not only to be easy to use, but low complication rates and its length of stay has been remarkable. And people have really been able to count on it during the pandemic. I don't know anything that's going to change that. We continue to be aggressive innovators and we'll continue to advance the state-of-the-art. But we've gotten a lot of positive feedback from clinicians."
+    },
+    {
+      "speaker": "Matt Miksic",
+      "speech": "Fair enough. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Joanne Wuensch with Citibank. Please state your question."
+    },
+    {
+      "speaker": "Joanne Wuensch",
+      "speech": "Good evening. Thanks for taking the question and nice quarter. Is it a way to quantify backlog of patients that have put off a procedure during COVID-19?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Joanne. It's a tough one. We do think about that a lot. In general, we don't think that there's a significant backlog of patients. Clearly it's variable across centers. There might be some centers actually that have some, but we don't think that significant, more of what we found during the pandemic is that. At the same time, when centers have a capacity problem and it impacts their implants, it also tends to impact their screening. So you don't necessarily get this backlog built up. They tend to move more or less in parallel. So it's not one that tends to drive a big backlog."
+    },
+    {
+      "speaker": "Joanne Wuensch",
+      "speech": "Thank you. As a follow-up question, I'm sort of curious what you're sort of seeing in terms of the clinical trials. It sounds as if you've restarted many of them. Are they back to, what I would call, sort of a normalized run rate in terms of enrollment? And thanks."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Joanne. Yeah, we never officially stopped any clinical trials. They were clearly slower in the first quarter. And so, that was a factor. Actually, interestingly enough, the CLASP IID trial actually enrolled pretty nicely in the second quarter. So it wasn't uniform. But I'd say, most of our trials were impacted. We think that the clinicians who we're working with, they're eager to get back at it. To say we're back at pre-COVID rates I think would be an overstatement. But I think we should start building back up again. And as we mentioned, I think the regulators have been pretty good, are thought partners in this as we try and really react to what COVID has done to clinical trials."
+    },
+    {
+      "speaker": "Joanne Wuensch",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Danielle Antalffy with SVB Leerink. Please state your question."
+    },
+    {
+      "speaker": "Danielle Antalffy",
+      "speech": "Hey. Good afternoon, everyone. Thanks so much for taking the question. Mike, I have one TAVR question and one PASCAL question for you. First, on TAVR in Japan. So you've talked a lot about how Japan has sort of -- I don't know if underperformed your internal expectations is the right way to think about it. But what is going on there? And what does Edwards do -- like what's going to change the tide in a meaningful way in Japan? And then again just one quick follow-up on that."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Danielle. It's multifaceted in Japan in terms of what's going on. We think there needs to be more centers in Japan among other things because in many cases, patients like to stay within their own region to get treated. And we don't have TAVR centers in all regions. There still is some pretty high requirements for TAVR centers to begin in Japan. They actually have to be cleared by an external panel. And so it's not just between us and the clinicians. And we're hoping the low risk. It has the possibility of being a catalyst to be able to help along the way and maybe simplify this journey for clinicians and patients."
+    },
+    {
+      "speaker": "Danielle Antalffy",
+      "speech": "Okay. Got it. Okay, that's helpful. And then, on PASCAL, big catalyst potentially coming next year with a late 2022 US launch what can you talk about as far as learnings in Europe as you're opening new centers? I mean, has your progress in Europe -- I appreciate COVID has had an impact here, but has your progress in Europe given you sort of a blueprint for what you might -- how you might approach the US? Maybe talk a little bit about that if you could? Thanks so much."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Sure. Yeah. You're right, Danielle. Naturally we're learning quite a bit in Europe, as you might imagine. What we stay focused on, and I think we've been pretty vocal about this, is trying to maintain really, I'll call it, a high-touch model. So we stay very close to clinicians, try and help make sure that they have terrific outcomes, that they're very well trained and that they get incredible results. And we think we can't do anything more important than that to really drive the adoption of the therapy on a long-term basis.\nWe're optimistic about the US, it's very large. Even though things have been -- we've had nice growth in Europe. The pandemic doesn't make it easy. You can imagine the biggest user of this technology is Germany. And when Germany goes through tough times, it doesn't make it so easy. So we're a bit dependent on this. But we're going to apply much of the same strategy in the US that we apply it in Europe."
+    },
+    {
+      "speaker": "Danielle Antalffy",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Anthony Petrone with Jefferies. Please state your question."
+    },
+    {
+      "speaker": "Anthony Petrone",
+      "speech": "Thanks. Congratulations. Strong start to the year. I'll have two questions I'll ask upfront. The first would be on early TAVR for asymptomatic patients. Just wondering to get -- if you could provide some high-level comments on sort of the latest view on the asymptomatic opportunity. And then, once we sort of get there in the next year or so with data, how influential the findings from the study will be at opening up asymptomatic. And then, on existing US centers, maybe just a refresh on where the average TAVR volumes are today. And when you think about fewer hospital end days, how significant of a driver could that be to average utilization, that average utilization number? Thanks."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "So, let me start with the asymptomatic trial, the early TAVR trial. We think this is a really important trial. One of the obstacles for patients to be treated is, they can have severe aortic stenosis. And if there's uncertainty whether they have symptoms, then they're not treated because that's what guidelines say that assessing and identifying symptoms is a very sketchy game. It's subject to a lot of misinterpretation. So if we took that requirement out of the equation, we think it would be very meaningful. And if you could simply take some echo measurements and say, hey, this patient has severe aortic stenosis and that drives treatment. That simplifies the diagnosis dramatically. It would make a big difference. So we think that's important.\nThe second question, I didn't fully understand. Do you mind, Anthony, saying it again?"
+    },
+    {
+      "speaker": "Anthony Petrone",
+      "speech": "Sure. When you look at the average US volumes in US TAVR centers today, is there a number where average utilization is just in terms of monthly surgical volumes? When you think of fewer hospital end days as a driver, does that have the potential to move that average utilization number higher?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Okay. So, we've seen new hospitals come into the system. And that's been -- that's helped with growth. We feel like hospitals have the ability to add capacity if that's really underlying your question and that they do that quite well. They can do it by adding days. They can do it by adding clinicians. And we found them routinely able to do it and not really be a big burden to them. And so, it is clearly helpful when the length of stay is shorter but some of it is their own practices. If they're able to do, for example, multiple TAVRs in a day, that really helps. If they're able to discharge patient faster, that helps. And all those are improving. And also, I would just say generally, their desire to be able to increase capacity. So, it's -- we're getting to a place where TAVR is becoming far more predictable than it had been in the past. And that really helps hospitals' ability to plan."
+    },
+    {
+      "speaker": "Anthony Petrone",
+      "speech": "Okay. Thanks, again."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Adam Maeder with Piper Sandler. Please state your question."
+    },
+    {
+      "speaker": "Adam Maeder",
+      "speech": "Hey, guys. Thanks for taking the questions and congrats on the nice start to the year. Maybe just sticking with the capacity theme. I wanted to ask about new US TAVR centers and kind of where we are today. I think there was a lot of optimism in 2019 with the new NCD that would span a couple of hundred new TAVR centers, COVID-19 has obviously been impactful. But just wondering if we're starting to see some green shoots again and new centers open up or are we just not quite there yet? And then I have a follow-up. Thanks."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Adam. I hope your follow-up is for Scott Ullem. He's getting lonely over here without any questions. But let me get to your question. Yeah, we're probably approaching something around 800 centers in the US. It's interesting even during the pandemic, there has been an increase each quarter, maybe 10 to 20 centers per quarter. And so, it's gradually increased. We've been impressed that centers have actually come online during the pandemic, who tells you about their desire to be able to bring the TAVR treatment to these structural heart patients. So we've been doing nicely. I think at the time of the NCD, we thought the number might go to 850. We really don't have any update on that at this point. So maybe that gives you a sense of where we are."
+    },
+    {
+      "speaker": "Adam Maeder",
+      "speech": "That's really helpful, Mike. Thanks for that. And apologies to Scott. But one follow-up on the TAVR side of things in the pipeline. Just -- it's been a little bit of time here, I think, since we've gotten an update on the SAPIEN X4 program. So just wondering if there's any new developments you can share there? And is that something you still plan? I think you're planning to move that to a pivotal trial at some point in '21. So, is that still the case? And just when will we learn more about the feature set and product design? Thanks so much."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah, thanks. Yeah, at this point, Adam, we're not prepared to share more about the feature set of the product line. We are still expecting to begin the clinical trial in 2021. And I think maybe even from a bigger picture perspective, although we're really pleased with where we are on TAVR, we're just not going to stop innovating. We continue to find opportunities for us to improve this therapy and make it better for patients. And we're just going to stay relentless in that regard."
+    },
+    {
+      "speaker": "Adam Maeder",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Matt Taylor with UBS. Please state your question."
+    },
+    {
+      "speaker": "Matt Taylor",
+      "speech": "Hi. Maybe I'll try to get Scott involved. I guess I'm just wondering, with -- slightly but you had better than expected growth across the product lines in Q1. And you basically raised guidance by the beat for the year. But I'm just curious, at least from a high-level standpoint, are you feeling better about the year now that you have one card turned over here, one quarter under the belt and why not raise guidance more? Is that out of an abundance of caution or have things gotten worse to the point where you don't feel comfortable doing that yet?"
+    },
+    {
+      "speaker": "Scott B. Ullem",
+      "speech": "Well, look, we're pleased with what happened in the first quarter both in terms of sales and how much of that fell right through to the bottom line. But just to take you back, remember at our investor conference in December, where we laid out guidance for all of 2021, we said it was assuming three things. And that was that we get through the winter months that vaccinations get widely administered and that hospitals remain open. And when we got to January, in our earnings call in late January, it felt pretty bad. I mean we felt like things would probably on the margin gotten worse, not better since our investor conference. But here we are now having seen the results of the first quarter and we're feeling positive and still confident about the guidance that we laid out originally in December. We think it's going to be choppy. It has been choppy in the first quarter, although there's certainly signs of strength and it's the reason why we still feel confident in the guidance that we've laid out for the second quarter and reiterating the guidance for the full year."
+    },
+    {
+      "speaker": "Matt Taylor",
+      "speech": "Okay, great. Well, thanks, Scott."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Pito Chickering with Deutsche Bank. Please state your question."
+    },
+    {
+      "speaker": "Pito Chickering",
+      "speech": "Thanks, guys, for fitting in there. One for Mike, one for Scott. First one for Mike. As the world begins to recover post-COVID, I'm curious if you're seeing any changes with any referral channels you talked about, smaller centers outperforming larger centers. Have you seen local docs help drive increased diagnosis of patients within their markets?"
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. Thanks, Pito. I think it's not fair to say that we've really seen meaningful changes in the referral centers. One of the things we have seen though is -- and then we just hear this anecdotally that patients maybe are less likely to travel long distances to a center of excellence and they're more likely to want to stay local to their centers. And so that's probably been in there to some extent, probably driven some of the behavior during the pandemic."
+    },
+    {
+      "speaker": "Pito Chickering",
+      "speech": "Okay. Fair enough. And then, for Scott, I get the cost will increase as travel and conferences begin to pick up again as revenues begin to recover here. But if you can quantify how much travel conferences will generally impact expenses throughout the year?"
+    },
+    {
+      "speaker": "Scott B. Ullem",
+      "speech": "Yeah. We're not going to break down travel versus the other expenses. But now there are a couple of different drivers of our expectation that expenses increase. One is just actual travel and people out in the field; two is more training, more time going in-person to society meetings to the extent that those start becoming more in-person. And then, of course, on the clinical trials and we're expecting that clinical trial enrollment will continue to increase. That's a number that shows up in our research and development expense line item on our income statement. So those are at least some of the pieces that will be influencing our overall expense ramp in the rest of 2021."
+    },
+    {
+      "speaker": "Pito Chickering",
+      "speech": "Great. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Jayson Bedford with Raymond James. Please state your question."
+    },
+    {
+      "speaker": "Jayson Bedford",
+      "speech": "Hey, good afternoon. Thanks for taking the question. No one's asked about the strength in Surgical. And I realize there's a comp dynamic, but I can't remember last time Surgical grew faster than TAVR. So, just a couple of questions on that. Can we assume most of the strength was from international markets? Were there any stocking orders that impacted growth? And you also mentioned growth was helped by premium products. Any way to parse out procedure growth versus dollar growth? Thanks."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Yeah. So, a few things. One is, you're right. Surgical rates dropped pretty precipitously in late March. So some of that is a comparable. So that should go into account. But actually the U.S. was quite strong. It certainly was comparable, if not slightly stronger than the global rates. And so, I think it certainly was broad globally, but the US was good. And I don't know if that ended up answering the question. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. That's all the time we have for questions today. I will turn the floor back to management for closing remarks."
+    },
+    {
+      "speaker": "Michael A. Mussallem",
+      "speech": "Okay. Well, thanks all very much for your continued interest in Edwards. And Scott and Mark and I welcome any additional questions by telephone. Back to you, Mark."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. This concludes today's conference. And just a reminder, to access a replay of this call, you can dial 877-660-6853 or 201-612-7415. Once again, the number is 877-660-6853 and use conference ID 13717235, once again conference ID 13717235. [Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 62 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Mark Wilterding--Vice President, Investor Relations",
+    "Michael A. Mussallem--Chairman and Chief Executive Officer",
+    "Scott B. Ullem--Corporate Vice President, Chief Financial Officer",
+    "Bob Hopkins--Bank of America -- Analyst",
+    "Robert Marcus--JPMorgan -- Analyst",
+    "Vijay Kumar--Evercore ISI -- Analyst",
+    "Larry Biegelsen--Wells Fargo Securities -- Analyst",
+    "Josh Jennings--Cowen -- Analyst",
+    "Cecilia Furlong--Morgan Stanley -- Analyst",
+    "Matt Miksic--Credit Suisse -- Analyst",
+    "Joanne Wuensch--Citibank -- Analyst",
+    "Danielle Antalffy--SVB Leerink -- Analyst",
+    "Anthony Petrone--Jefferies -- Analyst",
+    "Adam Maeder--Piper Sandler -- Analyst",
+    "Matt Taylor--UBS -- Analyst",
+    "Pito Chickering--Deutsche Bank -- Analyst",
+    "Jayson Bedford--Raymond James -- Analyst"
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Dave Hafner",
+      "speech": "Good morning, everyone, and welcome to SolarWinds' fourth quarter 2021 earnings call. With me today are Sudhakar Ramakrishna, our president and CEO; and Bart Kalsu, executive vice president and CFO. Following prepared remarks, we'll have a brief question-and-answer session. This call is being simultaneously webcast on our Investor Relations website at investors.solarwinds.com.\nOn our Investor Relations website, you can also find our earnings press release and a summary slide deck, which is intended to supplement our prepared remarks during today's call. Please remember that certain statements made during this call are forward-looking statements, including those concerning our financial outlook, the impact of the cyber incident on our business, our market opportunities, the impact of the global economic environment on our business and the impact of the spin-off of the N-able business. These statements are based on currently available information and assumptions, and we undertake no duty to update this information except as required by law. These statements are also subject to a number of risks and uncertainties, including the numerous risks related to the cyber incident and the completed spin-off of the N-able business.\nAdditional information concerning these statements and the risks and uncertainties associated with them is highlighted in today's earnings press release and in our filings with the SEC. Copies are available from the SEC or on our Investor Relations website. We completed the spin-off of the N-able business on July 19, 2021, and accordingly, have included the results of the N-able business as discontinued operations for current and historical periods. Therefore, the financial results presented on this call reflect SolarWinds as a stand-alone business and do not include any contribution from the N-able business.\nFurthermore, we will discuss various non-GAAP financial measures on today's call. Unless otherwise specified, when we refer to the financial measures, we will be referring to the non-GAAP financial measure. A reconciliation of the differences between GAAP and non-GAAP financial measures discussed on today's call are available in our earnings release and summary slide deck on the Investor Relations page of our website. We note also that because there was no impact of purchase accounting on revenue in the fourth quarter of 2021, our GAAP total revenue for the quarter is equivalent to the non-GAAP total revenue measure that we have historically reported.\nBeginning in the first quarter of 2022, we will no longer adjust our revenue for the impact of purchase accounting. With that, I'll now turn the call over to Sudhakar."
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Thank you, Dave. Good morning, everyone, and thank you for joining us today. I hope you're doing well and staying safe. Once again, I would like to start by thanking our employees, customers, partners and our shareholders for their ongoing commitment to SolarWinds.\nIt's now a little over a year since I joined SolarWinds. Thanks to the competence, commitment, great attitudes and resilience of the entire SolarWinds team, we have made significant progress related to our key priorities of customer retention, increasing our focus on subscription revenue growth and evolution to platform-based solutions. The efforts of our team resulted in several highlights in our performance, which I'll go into shortly. As many of you are also aware, we held our annual Analyst Day meeting on November 10, 2021.\nDuring this virtual event, we described our portfolio and go-to-market plans for SolarWinds, our expanding market opportunity, which we believe will amount to approximately $60 billion by 2025; and our goal to achieve at least $1 billion in ARR by 2025, with a compounded annual subscription ARR growth north of 30% over that time period; and then building to EBITDA margins in the mid-40s. We believe this combination of top line scale, growth and strong profitability will put us in a small group of public software companies with a similar financial profile. As I mentioned earlier, we had several highlights in the fourth quarter of 2021. I'll touch on some of the highlights before turning it over to Bart for more color on the fourth quarter, as well as our financial outlook for the first quarter and full year of 2022.\nThe continued relevance of our solutions, the execution abilities of our teams and the trust that our customers have in us were all on display during the fourth quarter. For the fourth quarter, we delivered revenues of $186.7 million, above the high end of the range we provided of $180 million to $184 million. Adjusted EBITDA was $78.4 million, representing an adjusted EBITDA margin of 42%, again, exceeding the high end of our outlook for the fourth quarter. Customer retention remained our top priority throughout 2021, and we made great progress toward this goal in Q4.\nOur trailing 12-month Q4 maintenance renewal rate of 88% was above the low- to mid-80% renewal rates we noted -- we expected in 2021. Based on our customers' loyalty and strong execution of our customer and go-to-market teams, we expect to return to our retention rates to improve in 2022 and approach our historical best-in-class levels in the low-90% range. Our continued focus on driving subscription-first resulted in an 18% year-over-year increase in subscription revenues in the fourth quarter, and we believe we are well-positioned to accelerate this level of growth moving forward. For the full year, we delivered $719 million of GAAP revenues, representing flat year-over-year performance relative to 2020; and adjusted EBITDA of $303 million, representing a 42% EBITDA margin while growing subscription revenue 19% year over year on a GAAP basis.\nWe anticipate both our license and subscription revenues to grow in 2022, reflecting a recovery in sales to new and existing customers and further expanding our recurring revenue base. Our focus on delivering simple, powerful and secure solutions, combined with our still very early efforts to build out our system integrator and enterprise go-to-market motions as a result -- has resulted in continued ASP expansion and an increasing number of large deals. Specifically, our product and platform integrations combined with simplified packaging and pricing, delivered tremendous value to customers, resulting in multiple million dollar plus deals and an increasing number of $100,000 deals in 2021. Our efforts to transition our customers to our new SolarWinds' observability offerings was well received in the second half of 2021.\nWhile still very early, both customer adoption and subscription bookings have been very encouraging. Customers are looking to leverage their on-premises deployments while seamlessly connecting to the cloud, and we are providing them with the solution to accomplish their goal while modernizing their deployments and helping them accelerate their digital transformations. This subscription transformation to SolarWinds' observability will become a mainstay beginning in 2022. Our AIOps capabilities are being delivered on the same platform, further bolstering our customers' productivity by helping them to manage their deployments more simply to isolate issues efficiently and to remediate them quickly.\nWe are unifying our application monitoring solutions to give customers even easier ways to deploy and consume them. Application monitoring will become an integral part of our SolarWind's platform. We believe our database monitoring solutions continue to lead the market with significant depth and breadth across functionality, platform and deployment support. Our volume of $100,000-plus deals has continued to grow alongside our SolarWinds' velocity motion.\nWe intend to continue working closely with our hyperscaler partners like Azure and AWS to further accelerate our growth. Our service desk solutions are ideally suited for the mid-market, and we are accelerating our integrations most recently with Microsoft Teams. While we believe the stand-alone motion will continue to accelerate, our Service Desk solutions will become integral elements of the SolarWinds platform to support our automation and remediation capabilities. We continue to take our commitment to building a safer and more secure customer environment very seriously.\nTo this end, we are working on all aspects of our Secure by Design initiative, which I detailed in 2021. Our teams recently published a white paper on our next-generation build systems, that is a result of our efforts to set a new standard in secure software development to engage with and contribute to open source efforts and to share what we have learned to help secure software supply chain practices. It is my hope that the entire industry will embrace these practices and together, we can enable our customers' digital transformation securely. With that, I will turn it over to Bart to provide more details on our financial performance and outlook."
+    },
+    {
+      "speaker": "Bart Kalsu",
+      "speech": "Thanks, Sudhakar, and thanks again to everyone joining us on today's call. Once again, I will discuss our SolarWinds results on a stand-alone basis. As most of you know, our spin of the N-able business was effective on July 19, 2021. Therefore, their results are reflected as discontinued operations in our fourth quarter and full year financial results.\nAlso, a quick reminder that the guidance for the fourth quarter that I provided in October did not include any impact from N-able as the spin has been completed prior to the start of the fourth quarter. In addition, our public filings will present N-able as discontinued operations in prior periods for better comparability. At the start of 2021, we determined not to provide full year guidance, given the uncertainty we faced at that time as a result of the cyber incident, the ongoing impact of the COVID-19 pandemic and the potential timing of the spin-off of our N-able business. As we discussed in our Q4 2020 earnings call, while we felt it was too early to predict a range of outcomes with our usual level of precision, we were encouraged by the recent customer engagements and focused on customer retention and maintaining renewal rates above 80%.\nReflecting back on the year, despite the significant challenges we faced, we are pleased with our performance and expect to improve upon it in 2022. Although we had indicated that we expected maintenance renewal rates to be in the low- to mid-80s, we ended the year with renewal rates at approximately 88% for 2021. We also saw new sales improve as we moved through the year in our commercial business, and our fourth quarter financial results reflect another quarter of improving execution. That execution led to another quarter of better-than-expected financial results with total revenue ending at $186.7 million, well above the high end of our total revenue outlook of $180 million to $184 million.\nFor the fourth quarter of 2021, there was no impact to purchase accounting on revenue, so our GAAP total revenue is equivalent to the non-GAAP total revenue measure we have historically reported. Total license and maintenance revenue was $152 million in the fourth quarter, which is a decrease of 3% from the prior year period. Maintenance revenue was $119 million in the fourth quarter, which is a decrease of 3% from the prior year. As we talked about at our Analyst Day, our maintenance revenue has been impacted by a combination of year-over-year declines in license sales for the past nine quarters and a reduction in our renewal rates in 2021.\nThe trend of lower license sales intensified with the introduction of subscriptions of our licensed products in the second quarter of 2020, as well as the cyber incident in December of 2020 as well. We focus more of our efforts on longer-term customer success and retention. As I mentioned earlier, we are encouraged by the fact that our renewal rates remained higher than our expectation of low- to mid-80s that we shared at the start of 2021. On a trailing 12-month basis, our maintenance renewal rate is 88%.\nWorking with our customers has been a top priority this year, and our renewal rates reflect our focus on customers and the trust they place in our solutions and relationships. Also consistent with recent quarters, we want to provide the in-quarter renewal rate for the fourth quarter, which currently stands at approximately 87%. But believe it will be 88% by the end of the first quarter, which again is above our expectations at the start of the year. For the fourth quarter, license revenue was $33.8 million, which represents a decline of approximately 2% as compared to the fourth quarter of 2020.\nOur new license sales performance with commercial customers improved sequentially each quarter during the year. On-premises subscription sales resulted in an approximately 8 percentage point headwind to our license revenue for the quarter. Moving to our subscription revenue. Fourth quarter subscription revenue was $34.4 million, up 18% year over year.\nThis increase is due to the additional subscription revenue from SentryOne products, as well as increased sales of our on-premises subscriptions as part of our early efforts to shift more of our business to subscription. Total ARR reached approximately $631 million as of December 31, 2021, reflecting year-over-year growth of 1% and up slightly from our ending third quarter total ARR balance of $624 million. Our subscription ARR of $134.7 million is an increase of more than 20% year over year and 3% sequentially from the third quarter. Total GAAP revenue for the full year ended December 31, 2021, was $719 million.\nSubscription revenue was $125 million of that total and represents growth of 19% year over year on a GAAP basis. The growth was led by our continued focus on expanding our subscription offerings through our on-premises subscription sales, as well as sales of our database offerings, including the SentryOne products acquired in the fourth quarter of 2020. Total license and maintenance revenue for the full year in 2021 decreased 3% year over year to $594 million. Total maintenance revenue grew 2%, reaching $479 million.\nLicense revenue for the full year was negatively impacted by a combination of the 2021 cyber incident and the impact of offering perpetual license products on a subscription basis, which we expect to yield more revenue over the full duration of a typical customer lifetime but negatively impacts license revenue and total revenue in the near-term. We finished 2021 with 829 customers that have spent more than $100,000 with us in the last 12 months, which is a 5% improvement over the previous year. We continue to supplement our traditional high-velocity, low-touch sales approach with targeted efforts to build larger relationships with our enterprise customers, which we spoke about at our Analyst Day in November. We delivered a solid fourth quarter of non-GAAP profitability.\nFourth quarter adjusted EBITDA was $78.4 million, representing an adjusted EBITDA margin of 42%, exceeding the high end of the outlook for the quarter despite continuing to invest in our business. And for the year ended December 31, 2021, adjusted EBITDA was $303 million, representing an adjusted EBITDA margin of 42% as well. Excluded from adjusted EBITDA in the fourth quarter are one-time costs of approximately $9.3 million of cyber incident related remediation, containment, investigation and professional fees, net of insurance proceeds. These one-time costs for the full year of 2021 totaled approximately $33.1 million net of insurance reimbursements.\nThese cyber incident-related costs are not included in the adjusted EBITDA, are one-time and nonrecurring. They are separate and distinct from our Secure by Design initiatives, which are aimed at enhancing our IT security and supply chain processes. Costs related to our Secure by Design initiatives are and will remain part of our recurring cost structure on a go-forward basis. We expect one-time cyber incident-related costs to fluctuate in future quarters, but to overall, lower in future periods.\nThese one-time cyber costs are, however, difficult to predict. Net leverage on December 31 was approximately 3.9 times our trailing 12-month adjusted EBITDA. As a reminder, we retained the full amount of the $1.9 billion in term debt that we had prior to the spin-off of N-able. Our cash balance was $732 million at the end of the fourth quarter, bringing our net debt to approximately $1.2 billion.\nOur plan is to keep that cash on our balance sheet for the foreseeable future. We intend to maintain flexibility as it relates to our cash on balance sheet. Our debt matures in February of 2024, and we expect to reevaluate our level of gross debt and possible paydowns well in advance of that maturity date. I will now walk you through our outlook before turning it back over to Sudhakar for some final thoughts.\nWe are providing guidance for the first quarter of 2022 and for the full year of 2022 for total revenue, adjusted EBITDA margins and earnings per share. For the full year guidance of 2022, we expect total revenue to be in the range of $730 million to $750 million, representing year-over-year growth of 2% to 4%. We expect our total revenue to be positively impacted by increases in our license revenue, as well as subscription revenue growth as a result of an increase in new sales in 2022 as compared to 2021. We will lead with a subscription-first focus as it relates to new sales, and we'll also focus on migrating our maintenance customers to our observability products, which are sold as subscriptions, especially in the second half of the year when we expect that more of the functionality will be available.\nWe expect that our total revenue growth will be partially offset by a decline in maintenance revenue due to lower license sales over the past two years. Adjusted EBITDA margin for the year is expected to be approximately 41%. Non-GAAP fully diluted earnings per share is projected to be $1.01 to $1.08 per share, assuming an estimated 162.6 million fully diluted shares outstanding. Our full year and first quarter guidance assumes a euro to dollar exchange rate of 1.13 down from the 1.16 we assumed for 2022 when we provided our initial 2022 outlook at our Analyst Day in November.\nEven so, we are comfortable reaffirming the guidance we gave previously. For the first quarter of 2022, we expect total revenue to be in the range of $173 million to $176 million, representing a year-over-year growth rate of flat to 1%. Once again, we expect license and subscription revenue growth to be partially offset by a decline in maintenance revenue, which we expect to be down approximately 4% to 5% year over year. Adjusted EBITDA margin for the first quarter is expected to be approximately 36%.\nOur historical trend has been that the first quarter of the year is at a lower level of profitability due to several factors, including payroll taxes on year-end bonuses, higher levels of social security taxes. In addition, the full impact of our Secure by Design initiatives that we discussed a year ago are now in place. We expect our level of profitability to improve as we move through the year as has been the case historically as revenue increases and our investments scale. As stated earlier, our outlook for the full year for adjusted EBITDA margins of approximately 41%.\nNon-GAAP fully diluted earnings per share is projected to be $0.22 per share, assuming an estimated 160.5 million fully diluted shares outstanding. And finally, our outlook for the first quarter assumes a non-GAAP tax rate of 22%, and we expect to pay approximately $6.5 million in cash taxes during the first quarter. We also expect that maintenance renewal rates will improve and continue to get closer to historical levels in 2022. As we think about our EBITDA margins for 2022, the costs associated with our Secure by Design initiatives, investments in transitioning our product portfolio to a greater subscription mix and our continued investments in our sales and marketing initiatives are factored into the margins for the year and while we expect margins to be consistent with 2021.\nWe believe we will return to accelerating margins again in the future, but in the near-term, we are committed to and excited about the investments in our business that we shared with you at our Analyst Day in November. Finally, we believe our unlevered free cash flow conversion will improve in 2022 over 2021 and we expect to be in line with our fourth quarter 2021 levels. With that, I will now turn the call back over to Sudhakar for his closing remarks."
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Thank you, Bart. I'm pleased with our strong Q4 performance, exceeding our outlook in both total revenue and adjusted EBITDA and with how we ended 2021. We are executing our mission to help customers accelerate their business transformation via simple, powerful and secure solutions for multi-cloud environments. I'm excited about accelerating our ability to serve our customers and to grow our business.\nWe expect to deliver strong license and subscription growth in 2022 via continued execution of our strategy. In 2022, we will continue our journey of subscription growth with unified platforms, superior customer experiences, expanding go-to-market motions and a growing list of applications as the foundations for this growth. We will continue to exercise discipline in how we invest in our business in order to deliver a unique combination of growth and profitability that we believe represents a compelling investment opportunity. I'll conclude by again thanking our employees, partners and customers for their commitment to SolarWinds.\nBart and I will now be happy to address your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Your first question today comes from the line of Sterling Auty with J.P. Morgan. Your line is now open."
+    },
+    {
+      "speaker": "Sterling Auty",
+      "speech": "Yeah. Thanks. Hi, guys. So in terms of the new customer wins, I'm curious if you can give us a sense of what percentage of those new customers are choosing subscription.\nAnd what is the product that you're kind of seeing the most success leading into those new customer wins?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Definitely, Sterling. A couple of different ways to think about it. One is, as I mentioned in my remarks, the database opportunity is continuing to expand for us, both on the velocity side, as well as, call it, the $100,000 deal -- $100,000-plus deal size. So a lot of those customers are a good mix of that customers prefer subscription.\nTwo, is that as we have embarked on integrations and different levels of packaging and pricing for our core products, if I can use that word, we have also been able to lead with subscription-first in that. And some of the larger deals that we won were subscription deals and increasingly in the mid-market, we see the same focus as customers move, let's say, from either maintenance to a tools consolidation type scenario, and we have the opportunity and the ability to sell subscription to them as well, and we are seeing greater traction there. So to put it simply, we are seeing that trend across the board, be it in mid-market or large enterprise. However, it is not a subscription-only model.\nWe still give the preference to the customer, although we sell on the value proposition of acquiring subscription."
+    },
+    {
+      "speaker": "Sterling Auty",
+      "speech": "Makes sense. And one follow-up on that database side, can you give us a sense in terms of the use case that customers are putting that into production? Is it for on-premises databases private data center? Or are they also using it to maybe manage some storage repositories in the cloud?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "All of those, Sterling, as well as there are some specific DevOps capabilities that our database monitoring solutions provide as well. So that represents an expanding opportunity for us whereas historically we have been focused on ITOps. Increasingly, we are serving the needs of DevOps and SRE community, as well as it relates to database and other products."
+    },
+    {
+      "speaker": "Sterling Auty",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Matt Hedberg with RBC Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "Matt Hedberg",
+      "speech": "Great, guys. Thanks for taking my questions. Kind of taking a step back, it's really good to hear improved maintenance renewal rates and expectations into 2022. I guess on the new business side, sort of following up on Sterling's first question.\nHow do you guys feel about kind of SME spending trends in 2022? I mean, maybe just talk about the -- on a global basis or maybe by geo, how you kind of expect kind of that new business to trend in 2022?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "So Matt, first of all, thanks for the question. As you know, SolarWinds' foundation has been the SME and the mid-market with an expanding motion into enterprise. I will say that the enterprise motion, albeit early has been encouraging. But the majority of the business still comes from SME, and that's where we expect to see the growth into 2022.\nIn terms of macro trends, I would say that they have they have been stabilizing, although I don't have evidence to tell you that the spend in that sector is accelerating. But that could be a general statement about most organizations in terms of, as they look at their needs for the future, as they look at their multi-cloud capabilities. One of the things that we are doing for them is how do we declutter their environments, provide them simplicity as they deploy these multi-cloud environments at an affordable cost for them to -- from a value proposition standpoint. So it's very much a value-based sell.\nAnd in many cases, what we have noticed, as we have won deals is it is a share of wallet shift into us rather than net new expansion."
+    },
+    {
+      "speaker": "Matt Hedberg",
+      "speech": "Got it. Thank you. And then -- and maybe just as a follow-up to the maintenance renewal improvements that you expect in 2022. Obviously, the federal side had been running at lower renewal rates for the last couple of years.\nHow much of -- I guess what are sort of the expectations on federal maintenance approval -- maintenance rates as we move into 2022 and beyond?"
+    },
+    {
+      "speaker": "Bart Kalsu",
+      "speech": "Actually, our federal renewal rates were fairly consistent with our commercial renewal rates in 2021, Matt. And so as we move forward, we're projecting that same trend, to be honest with you. Obviously, our federal business was impacted in 2021 as a result of the breach. You saw that in our third quarter results.\nBut as far as maintaining and renewing customers, we're seeing a positive trend there. All the efforts that we put into working with our customers, making sure they understand how the breach may have impacted them. As you know, most of the customers, that wasn't the case. And we've done that with our federal customers as well, and we're seeing good traction there."
+    },
+    {
+      "speaker": "Matt Hedberg",
+      "speech": "That's great. Thanks a lot, Bart."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Erik Suppiger with JMP. Your line is now open."
+    },
+    {
+      "speaker": "Erik Suppiger",
+      "speech": "Yeah. Thanks for taking my question. Talk a little bit about the rollout plans for the application monitoring service. When you said that's going to be an integral part of '22.\nHow -- can you talk a little bit about timing? And then also how do you see the competitive dynamics playing out there? Is it going to be largely Datadog? New Relic? Or who do you see there?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Definitely. Erik, let me provide two parts to that question. First is that we have a fairly rich application monitoring portfolio today. However, most of those products are sold on an individual basis, meaning there's a logging product, that is a specific application monitoring product and so on.\nSo what we have more recently done is unified them in a way that allows customers to more simply consume them. So consequently, the cross-sell of our existing products improves through both better e-commerce integration, as well as the product integration itself. So that's kind of, call it, a standard motion. What I was referring to when I said APM becomes an integral part of our SolarWinds platform is that as we come out with our hybrid cloud platform as-a-service platform.\nThese capabilities will be directly ported onto that platform and that becomes the basis of all future innovations. In terms of the competitive landscape, all the competitors that you mentioned will be relevant in this space, except the way to think about the SolarWinds platform is, it will be a unique integration across all forms of previous monitoring, whether it be application, network and infrastructure, database and obviously, the system monitoring pieces. But with increased automation and remediation capabilities derived from our service desk solutions. That is what will give us a unique combination, which is the breadth of our solutions the ability to integrate them more simply and securely for our customers.\nSo that will be the value add be it for the mid-market customer, albeit for specific segments of our customers like the DevOps community that I mentioned earlier."
+    },
+    {
+      "speaker": "Erik Suppiger",
+      "speech": "And how do you expect your pricing to compare with the competition?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Yeah. So historically, as you know, we have been very price competitive. And that tendency will continue going forward, except that we will be much more focused on value-based pricing going forward. And in the early tests that we have done, that has been very well received as well, both on the packaging front, as well as on the pricing front."
+    },
+    {
+      "speaker": "Erik Suppiger",
+      "speech": "Very good. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Sanjit Singh with Morgan Stanley. Your line is now open."
+    },
+    {
+      "speaker": "Sanjit Singh",
+      "speech": "Thank you for taking the question. I wanted to start my first question on the topic of sales. I think at the Analyst Day, Sudhakar, you sort of laid out how you're going to sort of evolve the strategy and leaning in a little bit more into account-based sales. What can you tell us about how that early traction is going? Typically, there's sales kickoff meetings at the beginning of the year.\nHow is the -- what is sort of Phase 1 of that strategy in 2022 looking like? And in terms of hiring against those initiatives, how would you assess the progress thus far?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Sanjit, we just completed our global kickoff events, in fact, a couple of weeks ago, which -- at which we obviously spoke to our sales teams about the plans and their motions and so on, but also about the product strategy and the excitement that the team share around the unified offerings that we're coming out with. As it relates to the sales motion, think of it as -- I'll just, for the benefit of everybody, remind us of the three broad motions, call it, the velocity motion, which is a traditional SolarWinds motion. And then we have expanded to more of the mid-market and the enterprise motion. The investments in the latter two, we started making them in the second half of last year with the expectation that as we enter 2022, we'll start getting better and fuller yields from those teams.\nMany of those teams are already in place, specifically in EMEA, those are already in place and they're already getting into productivity. In the Americas, it is still a work in progress, but we are making very good traction. And similarly, in APJ, we have added those resources as well. So account-based marketing motion has been standardized across the company today, driven by our marketing teams in conjunction with our sales team.\nSo what you should expect to see, and I gave you some very early indicators of that in the Q4 earnings report, of multiple million dollar deals, increasing number of $100,000-plus deals that Bart also noted as customers spending with us. So what we see is a clear increase of the ASP trends that we have. At the same time, our intention is not only to continue keeping the ASPs going up but also the transactions going up, which is why I say we need to continue nourishing our velocity motion."
+    },
+    {
+      "speaker": "Sanjit Singh",
+      "speech": "Makes total sense. And very encouraging to hear the traction with your larger customers in Q4. As my follow-up question, I just want to talk about the trajectory of growth throughout the year. The full year guide is definitely encouraging.\nQ1 starts from a lower level of growth. And can you sort of connect the dots on why the weaker growth to begin the year? And how do you expect that to trend as we get throughout the year? And any comments there would be helpful."
+    },
+    {
+      "speaker": "Bart Kalsu",
+      "speech": "OK. Yeah. One thing, Sanjit, that trend is consistent with our prior years. We've always had a little lower revenue in the first quarter particularly as it relates to license revenue historically.\nThis year, however, we're facing a headwind as it relates to maintenance revenue. We talked about back at Analyst Day, how maintenance revenue was going to be flat to slightly down in 2022. But the main thing is maintenance revenue reaccelerates in the back half of the year. So that impact is most heavily felt in the first quarter.\nSo when you're putting together your models, you now want to think about maintenance revenue being at its lowest point in the first quarter and then it starts to pick back up as we move through the year. So it's really the combination of those two things. It's why Q1 is -- from a growth perspective, is going to be our lowest quarter in the year and based on the way we laid it out. So once again, very consistent with what we've done and the way we projected in the past."
+    },
+    {
+      "speaker": "Sanjit Singh",
+      "speech": "Super helpful. Thank you, Bart."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Rob Oliver with Baird. Your line is now open."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "speech": "Hi. Great. Good morning, guys. Sudhakar, one for you to start.\nAnd then Bart, I had follow-up for you. So Sudhakar, on the federal portion of the business. Obviously, per your earlier commentary, you guys have done a really outstanding job maintaining the renewal rates through a lot of variables post the hack. As we get into the federal year-end in '22, what constitute success for you guys here? I mean a lot of product initiatives, you've got the unified UI.\nIs the idea at federal to be able to just get the renewal rates at -- were better or consistent on the core? Or is there an opportunity here as you look at federal to drive some of the newer platform product initiatives into that vertical?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Great question. So what constitutes success in federal this year will not only be the maintaining of our renewal rates, which, as you heard, we were able to establish in 2021 but also reaching out to customers and expanding their footprints with the full complement of our capabilities. So even as of 2021, while it was not our main focus, we started introducing database monitoring into federal customers, and that was very well received. So the database specialist teams and the federal sales teams are working in conjunction to see how we can cross-sell that into Federal Government customers this year, as an example.\nI'm not restricting it to just that. Equally, in talking to many federal customers myself, they have a very strong interest in our application monitoring portfolio, not necessarily due to the depth and breadth of the capabilities but the simplicity that we deliver to their environments. And the synergy, if I can use that word, that they have relative to the other products that we have deployed in those environments. So those motions will start accelerating.\nAnd the other thing I'd note is that our government team, broadly speaking, has been reaching out to customers much more for demand gen and selling activities in 2022 versus, largely speaking, stabilizing activities in 2021. And -- so those three factors, at a minimum, should also contribute to ongoing growth in the business."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "speech": "Great. Thanks, Sudhakar. That's great color. And then Bart, just for you, a bit of a follow-up to Sanjit's question earlier around some of the account-based efforts that you guys have that laid out at the Analyst Day, a bunch of new turf for you guys here.\nAnd I think even for companies that have a lot of experience here, there's a lot of variables this year, employment costs, hiring, things like that. So just maybe you could help us understand how you contemplated some of those things or others as you looked at the guidance for this year. Thank you."
+    },
+    {
+      "speaker": "Bart Kalsu",
+      "speech": "When we put together guidance, Rob, a lot of factors go into that. Clearly, the enterprise motion for us is something we've been talking about for not just in 2021, we started some of those efforts even before that. But I would tell you, it's still -- the majority of our business is still going to be in that volume and velocity motion that we've always had. We are going to start to continue to build upon the bigger relationships that we've had.\nI think one of the things I talked about in my script was the fact that we have over 800 customers who have spent more than $100,000 with us, and that number actually grew in 2021. That will still be the case. But you can do the math on those 800 customers and get -- figure out exactly what percentage of our revenue that is. It's -- we're still dominant on the SME customers and we still have most of our relationships.\nWe're in that less than $10,000 amount."
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "And that will continue to be the case. The other point I'd highlight on that is, we have presence in almost every large enterprise there is. I mean, in fact, well over 498 of the Fortune 500. So that's not been the issue historically.\nBut most of the purchases in many of those environments were departmental purchases, which will seem like a mid-market purchase. And so the motion that we have added, both with our direct touch resources and the global system integrator relationships is to basically expand it and go across department, as well as to the director of IT/CIO levels."
+    },
+    {
+      "speaker": "Bart Kalsu",
+      "speech": "And the other thing, too, is that one of the things we talked a lot about at Analyst Day is that the shift to observability, our -- we'll become more of a platform and the fact that you'll -- it will be more of an integrated product offering so that hopefully, we'll have better upsell opportunities within the product itself. In the past, our products have just mainly been point products. So a new sales opportunity almost is a complete new focus for us."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "speech": "Great. Very helpful. Thanks again, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Kingsley Crane with Berenberg. Your line is now open."
+    },
+    {
+      "speaker": "Kingsley Crane",
+      "speech": "I'd like to think more about the balance between maintenance growth and subscription growth. What expectations do you have for converting that maintenance base to subscription in fiscal '22?"
+    },
+    {
+      "speaker": "Bart Kalsu",
+      "speech": "So our expectations in 2022 are still fairly -- we're not aggressively shifting that maintenance base. And the biggest reason is because we don't have the full functionality of that -- of the product available. We are starting to reach out to the customers that we think will have -- would be interested in a migration, Kingsley. But as far as it relates to building that into our 2022 expectations, those numbers are still very, very low.\nWe'll talk more about that in the second half. Yeah. Yeah."
+    },
+    {
+      "speaker": "Kingsley Crane",
+      "speech": "OK. And so then potentially, what could that level be in '23? And then also just thinking about the growth in subscription revenue ex that maintenance conversion for really any year?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Kingsley, can you repeat the second part of your question?"
+    },
+    {
+      "speaker": "Kingsley Crane",
+      "speech": "Thinking about the organic growth in subscription revenue or is the growth ex the maintenance conversion."
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "We're not stating specific percentages of conversion of maintenance to subscription in that way, Kingsley. What we are looking at is how do we deliver different and differentiated functionality to our customers on a go-forward basis. So let me give you an event-based model. A customer, if they have any cloud deployment, but at the same time, want to preserve their premises deployment, that would be an ideal candidate for us to evolve them to, call it, cloud connectedness and modernization of their deployments.\nSo that would be a prime customer of how we would evolve from maintenance to subscription. But in many cases, what we also experienced at least to date is that we also experienced a significant uptick in the average selling price to those customers. So it is much more based on need as opposed to a forced maintenance to subscription like-for-like conversion."
+    },
+    {
+      "speaker": "Bart Kalsu",
+      "speech": "Yeah. And as you think about subscription revenue growth for us in 2022, we -- like Sudhakar said and one of the things I emphasize is that we expect subscription revenue growth to be higher in 2022 than what we had in 2021. And that would all be organic as far as it relates to the subscription sales of our on-premises subscription offerings today, as well as the observability in the second half of the year."
+    },
+    {
+      "speaker": "Kingsley Crane",
+      "speech": "OK. It was very helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Connor Passarella with Truist Securities. Your line is now open."
+    },
+    {
+      "speaker": "Connor Passarella",
+      "speech": "Hey, good morning, team. It's Connor on for Terry. Thanks for taking my questions. Just one to start on customer strategy.\nSo you've mentioned investment in customer success management as a supplement to our selling motion. Just curious as to what effect you've seen CSM have on adoption rates and maybe what kind of benefits there might be from an expand point of view as a result of successful CSM engagements?"
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Absolutely. So Connor, thanks for the question. I'll take that. We started that motion last year, and it will be an expanding motion into 2022.\nWhat we have observed so far is the following. Initially, the CSMs where focused due to the incident in December 2020 on maintaining customers, supporting them, bringing them back online in conjunction with our partners and so on. As we evolve to the second half of 2021, we became much more involved -- or they became much more involved in pipeline generation activities, as well as the expand motion as you referred to. We expect that to continue going forward into '21, especially in the mid-market to their enterprise motion.\nAnd what we notice is as you can imagine, because of the direct touch that we have with the customers, the trust that the customers have in our CSMs, the pipelines that we generate through that converts at a much higher rate than what you would normally expect a marketing-led pipe conversion to happen. So that's a significant impact that we see in both expansion and conversion as we get into '22 and beyond."
+    },
+    {
+      "speaker": "Connor Passarella",
+      "speech": "Great. That's really helpful. Thank you."
+    },
+    {
+      "speaker": "Dave Hafner",
+      "speech": "Sorry about that. We have time for one more question."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your last question today comes from the line of Kirk Materne with Evercore. Your line is now open."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "Hey, guys. This is [Inaudible] here asking on behalf of Kirk. But thanks for taking my questions. First, Sudhakar, can you give us some more color on what gives you confidence that the license business can rebound in '22 in terms of like positive revenue growth? And is that just more so top of the funnel activity or as you mentioned, more stability in ASPs or maybe both? And then I have a follow-up."
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "Yeah, definitely. So I'll remind us of what we did or didn't at the beginning of 2021, which is to serve our customers and get their environment stable. We did not engage in a lot of demand gen activities for the first part of 2021. I expect 2022 to be a much more normal year, if I can call it that, in terms of our demand activities, conversion activities, go-to-market activities and so on.\nSo that's one factor. The second factor is that throughout 2021 and specifically in the second half of 2021, we engaged in adding more people to our go-to-market efforts, be it in sales or in marketing across the world. So I expect to get yield out of those investments into 2022. The last thing is because of our better packaging and pricing activities, we also are seeing an uptick in ASP.\nSo as you can basically create the multiplicative effect of those three to convince yourself that the license growth will happen. Obviously, the foundation remains. Our solutions -- relevance of our solutions to our customers."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "Gotcha. Makes sense. And then just wanted to ask a quick update on the international initiatives, specifically in Japan and Germany."
+    },
+    {
+      "speaker": "Sudhakar Ramakrishna",
+      "speech": "They were both -- so Germany or I'll call it, broadly speaking, the DACH region. It was always served by our inside sales motion. But more recently, I would say specifically end of Q3, beginning of Q4, we have on the ground resources in the DACH region. That is a large, underpenetrated part of the overall market for us.\nAnd while early, we have very strong and positive signs there. In Japan, most of the activities to date have been on partner acquisition, partner enablement. As you know, the motions in Japan tend to be a little bit slower, but as they start flowing, they tend to sustain. So I would say we are in business development phase in Japan and revenue acceleration phase in the DACH region."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "Yeah. Thank you so much."
+    },
+    {
+      "speaker": "Dave Hafner",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 54 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Dave Hafner",
+    "Sudhakar Ramakrishna--President and Chief Executive Officer",
+    "Bart Kalsu--Executive Vice President and Chief Financial Officer",
+    "Sterling Auty--J.P. Morgan -- Analyst",
+    "Matt Hedberg--RBC Capital Markets -- Analyst",
+    "Erik Suppiger--JMP Securities -- Analyst",
+    "Sanjit Singh--Morgan Stanley -- Analyst",
+    "Rob Oliver--Robert W. Baird and Company -- Analyst",
+    "Kingsley Crane--Berenberg Bank -- Analyst",
+    "Connor Passarella--Truist Securities -- Analyst",
+    "Unknown speaker"
+  ]
+}

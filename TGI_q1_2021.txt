@@ -1,0 +1,294 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by. Welcome to the Triumph Group conference call to discuss our first quarter fiscal year 2022 results. This call is being carried live on the Internet. There is also a slide presentation included with the audio portion of the webcast. [Operator Instructions] On behalf of the company, I would like to read the following statement. Certain statements on this call constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause Triumph's actual results, performance or achievements to be materially different from any expected future results, performance or achievements expressed or implied in the forward-looking statements.\nPlease note that the company's reconciliation of non-GAAP financial measures to comparable GAAP measures is included in the press release, which can be found on their website at www.triumphgroup.com. In addition, please note that this call is a property of Triumph Group, Inc. and may not be recorded, transcribed or rebroadcast without explicit written approval.\nAt this time, I would like to introduce Daniel J. Crowley, the company's Chairman and Chief Executive Officer; and James F. McCabe, Jr., Senior Vice President and Chief Financial Officer of Triumph Group, Inc. Go ahead, Mr. Crowley."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Thank you, Kevin. And welcome, everyone, to Triumph's Q1 earnings call. I hope you're all safe and well. Earlier today, we reported our first quarter results for fiscal year 2022. I'm pleased to share that Triumph demonstrated strong organic growth and year-over-year improvement in margins companywide, driven by increased MRO volumes, all while we continue to come through the pandemic and clean up our portfolio and balance sheet. Having stabilized and exited most of our structures business, our focus in Q1 was on strengthening and improving our core business, while pivoting to growth and retiring several nonrecurring cash uses. Our cost reduction actions continue to boost our results as the market recovers. We continue to see promising macro trends this quarter on multiple fronts. First, increases in demand for commercial aviation translated into higher orders for maintenance, repair and overhaul work. MRO order flow, both in terms of volume and the nature of the work coming in, continue to be a strong indicator of recovery.\nOur MRO job inductions metrics, which serve as an early indicator for carrier traffic recovery, increased 37% for the quarter with a 6% sequential increase overall led by engine accessories and the sales structures. Aftermarket spares and repairs, sales were up overall more than 70% for the quarter. Second, military continues to be a source of strength for Triumph, with new wins contributing to both revenue and backlog, offsetting planned declines in commercial aviation. These platforms enjoy continued budget support, particularly those we supply. Favorable trends in Systems & Support military helicopter and engine programs and increasing narrow-body production rates were key contributors to our continued recovery and reinforce the hidden value of Triumph's diversified customer base and platform content.\nWe're optimistic this upward trajectory will continue. Commercial air travel indicators continue to be positive. Delays in widebody recovery have been offset by narrow-body programs. Orders for the A320 and 737 MAX have seen new highs since the beginning of the pandemic. I want to congratulate Boeing for completing the first flight of the 737 MAX-10 on June 18, which was followed by June 29 order from United Airlines for 150 aircraft. Orders for commercial transport aircraft are up in 2021 as Airbus and Boeing have reported 721 new orders, offset by 476 cancellations. Bright spots include United's June order for 737 MAX and A321neo aircraft, the FedEx order for 767, and the May Southwest Airlines orders for the MAX. Commercial transport backlog now stands at approximately 12,000 aircraft. The industry's focus is now shifting to mitigating production ramp risks. Boeing recently announced a slowing of the 787 production rate. Triumph had already de-risked its twin-aisle build rates with our 787's percentage of sales and inventory, reflecting conservative assumptions.\nSimilarly, we are on a path to exit the A350 build-to-print brackets production line in our interiors business. Reductions in these rates will not have a material effect on Triumph. The combined benefits of strong military demand and recovering commercial MRO demand, coupled with our comprehensive actions to improve financial performance, create positive momentum for fiscal 2022 and the years to follow. After 18 months of uncertainty, we have more clarity on near-term OEM and MRO demands as markets continue to stabilize, and we see lift from military and cargo demand. Combined with our diversification, we are now able to provide guidance for fiscal '22 that reflects increasing revenue and positive cash flow over the balance of the year. Environmental, social and governance initiatives remain a high priority for Triumph and our Board. While reducing CO2 emissions, wastewater and energy usage, considerable investment has been made in the development of new products to enhance aircraft fuel efficiency.\nWe are adopting additive manufacturing across our core products, which has the benefits of lower production costs and substantially lower weight. We are making similar advancements in heat exchangers to enable a more efficient airframe with less drag. Triumph is investing in energy efficiency projects such as eliminating lead-based components and implementing closed-loop solvent recycling systems and converting hazardous waste to non-potable water. Triumph has launched an energy conservation project in our largest production facility, which will reduce electrical power use by 25% annually. As a result of this work, Triumph's Seattle R&D facility will be featured in a future episode of Earth with John Holden, which showcases an inspiring array of companies with eco-friendly initiatives that are enhancing the lives of Earth's inhabitants through advanced technologies. Overall, we're pleased with Triumph's first quarter results, which are either in line with or above our expectations, enabling us to meet our objectives.\nOn slide four, I summarized some of the quarter's highlights. MRO and aftermarket spares continue to be a leading indicator of the market recovery. Our portfolio actions, cost reduction efforts and expanding sales resulted in improved operating margins across the enterprise. We are on track to complete our final 747 production components this month, and in the last of our significant loss-making programs. We repaid the remaining balance of our 2022 bonds while preserving strong liquidity. Last, continued improvements and stability in the broader markets enhances our confidence in our outlook as we initiate financial guidance for fiscal 2022. At this point, the worst of the pandemic is behind us and the macro trends remain positive, yet we recognize that the market recovery will continue to be uneven over the next several quarters. So we're prudently maintaining our cost reduction austerity measures from last year, with intentions to reverse them as the market continues to improve.\nOur actions, combined with OEM and MRO rate increases will support expanded margins and cash flow, putting us on a path to de-lever the company year-over-year. On slide five, I quantify the drivers for this quarter's results. First, organic growth was 11%, led by improved MRO and aftermarket spare sales within our core Systems and Support business. OEM sales were driven by Airbus A320, 321 shipments, Bell 429 gearboxes and E2D actuation. Systems & Support revenues for our third-party MRO increased 19%, while proprietary spare sales, primarily for military rotorcraft and commercial narrow-body production rates, more than offset commercial widebody declines. Shipments to FedEx and UPS are up 52% for the quarter as cargo aircraft returned for deferred maintenance. We continue to anticipate a bow wave of MRO repairs as deferred maintenance returns to our shops. Military sales now comprise 53% of our sales in Systems & Support helping to offset the temporary commercial aerospace decline. Military platforms such as the E2D, UH-60 and CH-47 contributed to the sequential sales growth driving a 12% increase in our military sales year-over-year.\nAs mentioned, we will deliver our final 747 structures this month, at which point Triumph will fulfill our program obligations. We will close the second of two large structures facilities dedicated to the 747 in December, ending a long period of losses. Setting the legacy cash-consuming programs, stabilizing performance across all of structures allowed them to be solidly profitable in Q1 on an adjusted basis. Jim will provide an update on our exit of non-core structures business. We remain on track to achieve our future state configuration as a largely pure-play Systems & Support provider to military and commercial customers, with interior structures capabilities. Moving forward, we are increasingly leveraging our installed capacity and intellectual property portfolio to secure price increases on an annualized basis, which will benefit margin expansion plans. A few updates on the state of the economy and our industry. The global economic recovery continues with 2021 GDP expected to rise more than 6% in aggregate globally and in the U.S.\nEarly indicators within the aviation industry indicate steady progress in the quarter toward 2019 levels with airline travel bookings improving from 46% to 69% and corporate bookings up from 18% to 40% as strong summer bookings benefited domestic carriers. Reflecting a return to airline normalcy and profitability, average airfare prices, weekly load factors and TSA throughput continue to recover in the U.S. Parked fleets have declined substantially with over 1,800 aircraft returned to service since March. Finally, we are watching emerging defense legislative [marks] closely and are encouraged to see strong support for defense in key military programs on both the House Appropriations and Senate Appropriations committees, which should ensure stability and predictability in our defense programs for fiscal '22, including programs such as the CH-53K, F-15EX and E2D in our backlog.\nAs you know, the single-aisle segment will lead the aviation recovery, gratifying the OEM single-aisle deliveries for both Boeing and Airbus increase each month within the quarter, culminating in strong June numbers with Airbus delivering 62 single aisles and Boeing delivering 36. We expect this positive trend to continue and are making plans across the supply chain to be ready for the ramp. Overall, this is encouraging news, and I expect Triumph to gain momentum as the aviation recovery continues through the balance of the fiscal year. We are well positioned to capture returning MRO business and OEM rate increases while expanding our defense programs. Turning to wins for the quarter. Our Systems, Electronics and Controls team are designing and upgrading engine controls for the global fielded fleet of T700 engines. We received orders for FADECS upgrades to both U.S. Navy Seahawks and U.S. Army Apaches. We are upgrading heat exchangers on the F-22 F119 engine for Pratt & Whitney, where we have significant IP. 95% of our heat exchangers are designed and developed by Triumph engineering teams. We secured orders from GE for the F/A-18 E/F, F414 aircraft-mounted accessory drives.\nThis complex gearbox builds on the legacy of our F/A-18 C&D gearbox for the F404 engine. Triumph is the world's largest and most capable third-party provider of gear and gearbox solutions, spanning the entire life cycle of gear products from design, development and test through manufacturing and sustainment. Our customers value our capabilities and engage us in new and exciting opportunities such as the T-7A, the KF-X, Future Vertical Lift and classified programs. Some of our largest customers in the MRO space are OEMs and Tier 1s. We look to Triumph to support legacy program offloads, allowing them to concentrate on new platforms. For the quarter, we completed another important Tier one agreement with Collins Aerospace, overhauling air cycle machines. Finally, I'd like to highlight several strategic developments in our thermal business. We are actively engaged with the Air Force Research Laboratory and the University of Dayton to design heat exchangers that use additive manufacturing to replace castings in an effort to address Air Force fleet sustainment issues.\nWhile we started with heat exchangers, we believe additive has the potential to expand into other areas, which are traditionally constrained by casting suppliers, including gearbox and pump housings. Finally, we completed an agreement with Paragon space to develop heat exchangers for their space vehicle life support systems. In summary, we are pivoting from restructuring and contraction to growth across higher-margin IP-driven market segments. In summary, our markets are improving, and we expect this trend to continue as commercial production rates increase into the next year. We grew margins in the quarter across the enterprise, and retired several nonrecurring cash uses giving us the confidence to initiate financial guidance for fiscal 2022 with improving cash outlook quarter-over-quarter and year-over-year. The combined lift of cost reductions, volume increases where favorable pricing and new product and service introductions, support our goal of doubling our profitability over our planning horizon while de-leveraging the company. We will continue to invest sustainably in the development of our people, operations and products to enhance shareholder value year-over-year.\nWith that, Jim will now take us through results for the quarter in more detail. Jim?"
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Thanks, Dan, and good morning, everyone. We started our fiscal year with solid year-over-year organic growth and improving margins across the enterprise as the commercial aerospace market continues its recovery. The actions we have taken through this first quarter enable us to have positive free cash flow over the balance of the year. We continue to execute on our plans to pair the few remaining non-core businesses and product lines to decrease debt, maintain liquidity and focus on our profitable core business. Our performance in the quarter, the improving market environment and the diversification of our business give us the confidence to establish financial guidance for the fiscal year. I will discuss our consolidated and business unit performance on an adjusted basis. So please see our press release and supplemental slides for the explanation of our adjustments. On slide 10, you'll find our consolidated results for the quarter. Sales are up 11% organically.\nWhile the impact of the recent divestitures and sunsetting programs and structures led to lower sales compared to the prior year. Q1 adjusted operating income was $31 million. Adjusted operating margin was 8%, up 477 basis points from the prior year. We continue to improve profitability on an adjusted basis quarter-over-quarter. With respect to the segment results, on slide 11, net sales in Systems & Support were up 8%, and benefited from continued recovery in the aftermarket. While an increase in narrow-body OEM work offset wide-body headwinds. This segment sales were 53% military this quarter, up from 51% in the prior year quarter. Adjusted operating margins for Systems & Support was 14%, 235 basis point improvement from the prior year, and benefited from increasing MRO demand. Summarized on slide 12. First quarter net sales for structures increased 15%, largely due to the prior year's impacts of the pandemic after adjusting for divestitures and the sunsetting 747 and G280 programs.\nAs noted on our prior call, the divestitures of the Composites and Red Oak businesses were completed in the quarter on May 7. The results for the quarter include modest revenues and earnings through the date of the sale. The continuing business is stable and improving as evidenced by the 10% adjusted operating margin compared to 1% in the prior year. During the quarter, I visited our Grand Prairie, Texas facility and saw the significant progress our team has achieved to successfully complete the production of the 747 later this month. Our remaining large structures facility in Stuart, Florida is a profitable business, and we are in active discussions with several strategic parties. Turning to slide 13. In Q1, we retired $100 million of discrete cash obligations related to advances, settlements, restructuring and wind down of 747 production. Q1 included two quarterly payments of our advanced liquidations with no liquidation expected in Q2. Excluding these sunsetting uses of cash, we used $51 million of cash in the first quarter on modest working capital growth in support of anticipated production rate increases, primarily on commercial narrow-body platforms.\nWe remain focused on aggressively managing our working capital with several initiatives across the enterprise targeted to improve our inventory turns. Capital expenditures will accelerate over the remaining three quarters as we anticipate investment in our core Systems & Support segment in support of rising OEM and MRO demand. On slide 14 is a summary of our net debt and liquidity. Our net debt at the end of the quarter was approximately $1.4 billion, and our combined cash and availability was about $263 million. In the quarter, we completed the mandatory paydown of approximately $112 million of first lien notes and redeemed the remaining $236 million of outstanding 22 notes. Our next debt maturity is not until 2021 which gives us time to continue executing our deleveraging actions to strengthen our cash flow and improve our credit. slide 15 is a summary of our FY '22 guidance. Based on anticipated aircraft production rates, and excluding the impacts of potential divestitures, for FY '22, we expect revenue of $1.5 billion to $1.6 billion. We expect adjusted EPS of $0.41 to $0.61.\nOur earnings expectations take into consideration certain supply chain and inflationary pressures. The good news is we have secured adequate inventory and supply commitments for critical materials, and we work to lock in the vast majority of our unit costs for the fiscal year and beyond. Cash taxes, net of refunds received, is expected to be approximately $4 million for the year, while interest expense is expected to be approximately $140 million, including approximately $137 million of cash interest. After approximately $150 million of free cash use in the first quarter, we expect in total to generate free cash flow over the balance of the year, with about $40 million to $60 million of use in Q2, approximately breakeven in Q3 and solidly cash positive in Q4.\nFor the full year, we expect to use $110 million to $125 million of cash from operations with approximately $25 million in capital expenditures, resulting in free cash use of $135 million to $150 million. We've made significant progress in improving the predictability of our profitability and our cash flow. We had solid organic growth and improving margins in Q1, and we expect to be cash positive over the balance of the year. Cost reductions and operational efficiencies will help us to continue to improve margins as volume increases. Measures we have taken and are taking are making us a stronger, more competitive and sustainable company moving forward.\nNow I'll turn the call back to Dan. Dan?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Thanks, Jim. We're off to a good start as are our customers, as we put the pandemic behind us. Increasing OEM narrow-body production rates with continued signs of recovery within the MRO markets give us confidence that the worst of the pandemic is behind us. Consistent with our full year guidance, we'll build momentum quarter-over-quarter by continuing the track record of growth and margin expansion in our core business and drive to positive free cash flow over the balance of the year. We continue to take the hard actions to position Triumph for the future, including cost reduction, the exit of loss-making programs and divestitures. Triumph is becoming a leaner, more profitable and cash positive company. We continue to make strides toward our future state configuration, and we're unlocking the hidden value in our business, improving our win rates and delivering benefits for all stakeholders in a responsible and sustainable way.\nKevin, we're now happy to take any questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from Peter Arment with Baird."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "Congrats on the progress you're making. Dan could you maybe just give us an update on the status of your kind of the LTAs that you've been doing with the OTM -- with your OEMs you mentioned one with Collins but maybe just give us an update there on what's the latest and how many are left?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Yes. Thanks Peter. So the business is a cycle of long-term agreements that tend to be three to 10 years in duration. And Triumph happened to have a lot of them that were coming to exploration over the 2-year period about now. And OEMs tend to set back one to two years to renegotiate those to ensure that they've got continuity of supply. And we've fared well in the negotiations because we have a strong IP position. We're often the full source supplier. The cost of switching is high. They have to requalify a new supplier. But I really view it as joint problem-solving because Triumph has certain thresholds for returns. They have needs on the aircraft for both production and aftermarket. And how do we work together to achieve mutual goals of continuity supply and affordability? And so these are going to -- even though we're negotiating them now they kick in in fiscal '23 and '24.\nAnd what's been encouraging about it is as we work through these we haven't lost any customers and are already major contracts they've stuck with us. And in many cases, we've been able to say all right -- we've reset pricing on these products because it may be 10 years old and didn't have escalation clauses. Now let's talk about what else we can do together. So I'm encouraged by the progress and Jim can comment on how it will contribute over time."
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Yes. As you mentioned there was a good bump of them Dan and we're going to benefit particularly in the fourth quarter this year from some price increases on significant programs, but it's a continuous process. And it's just -- not just about price as Dan said we worked together to reduce costs with the customers. So we both get the best solution moving forward."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "And just as a follow-up could you maybe just give us -- you mentioned the you're in active discussions on Stuart just expectations on any time line. And then any use of proceeds that you'd be focused on either de-leveraging or advanced payments? Thanks."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Yes. It's tracking to the time line that Lazard has laid out. We had I mentioned on the last call, a very interested buyer and then they opted out at the end and we had a bit of a start over. But now we've got over five interested parties. And what's -- they're in the due diligence phase site visits really in the details. So we expect this to go into a signing phase in the next quarter.\nSo we're not worried about getting it done. I think our track record of 14 successful divestitures speaks for itself. And we've been able to sell assets with an average multiple on the order of 13 times some of which were distressed. And this business is not distressed. It's got a strong backlog with the 767 both freighter and tanker. It's performing very well. It's a lean leader for Triumph and we've got a great workforce there. So I'm confident we can get it done. Jim?"
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Yes. It's a good business and process is going well and we have a good track record of getting these things done. So we're confident in our ability to get it done. The proceeds will go to reduce our first lien debt. So it will reduce leverage in one of our highest cost debts."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "Appreciate the color. Thanks. I will jump back in the queue."
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Thanks, Peter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Cai von Rumohr with Cowen."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "Yes. Thank you very much. So could you give us a little color on cash flow. It was negative in the quarter. And obviously you took out some prior advances. But can you give us any color maybe in terms of the trends and the magnitude of the positive cash flow you see over the nine months? And then maybe some discussion of those Boeing advances that remain and kind of what's the status in terms of how quickly you have to pay them back? Thanks so much."
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Sure. Thanks, Cai. So we used that $150 million of cash in the first quarter and we had said we had those non-recurring cash uses. It's about $100 million of those. They did include advanced liquidations and we did get two of them behind us this quarter. They were due at the beginning of the quarter and we paid a couple of days early. So there'll be no liquidation in the second quarter of advances. But we do still expect $21 million in a quarter in Q3 and Q4 of this year. And as of now we have about $145 million left of advances.\nOther cash uses in the quarter which we had mentioned last quarter was customer settlements. I've estimated about $30 million of usage. We used $18 million only. We do expect about another $7 million in Q2 moving forward. So we did better on that. In terms of 747, we used $20 million in the quarter and that's a sunsetting use as well. We will use about the same in Q2 and then it'll start to reduce over the balance of the year. The second half will be about $20 million."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "You said we're using the same Jim which -- for the 747?"
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "That's right. On 747 well use another $20 million. And then for restructuring costs as we mentioned there was $20 million of restructuring costs cash in this first quarter carryover from an accrual in the last year. So these uses are reducing over time. If you look forward, advanced liquidations will be none next quarter. There's about $25 million to $30 million of usage next quarter based on the 747 plus the customer settlements and that reduces over time. So we're quickly reducing these items and looking forward to going cash positive for the balance of the year even, while retiring these."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "Terrific. Thank you very much."
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Thanks, Cai."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Myles Walton with UBS."
+    },
+    {
+      "speaker": "Myles Walton",
+      "speech": "Thanks. Good morning. Dan, you talked about doubling profitability over the planning horizon. I was hoping you could put a little bit more color to that. Is it margin rates? Is it absolute dollars? And what's the base year and what's the end year within that horizon planning?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Thanks, Myles. So when you look at Triumph and where the cash has gone over the last five years to seven years those sources of cash used are rapidly disappearing. Costs that we incurred by choice, restructuring, to consolidate from 75 to about 25 plants, reducing our workforce from what started out at around 15,000 now down to about half of that. Then there's the cost that we incurred in sunsetting loss-making programs, as Jim mentioned, 747. And development programs, misadventures like the G650 and the Bombardier Global 7500 those are all behind us now.\nAnd then, we're shoring up pricing on programs that were below our weighted cost of capital. So that's also a source of margin expansion. And we're coming to the very end of restructuring. So expenses we incurred for that, all help us on margin expansion. But then you add to that cost reductions that we've done during the pandemic, which will benefit as volumes return, volume increases on both OEM and MRO. Some government support has also been a source and then new products and services.\nWe have factories that generate very strong MRO margins, north of 50%, whereas their OEM margins might be 20%. And as MRO comes back, the relative contribution of MRO to margin expansion versus OEM is going to be a real tailwind. So the main message on margin expansion over our planning horizon which we do four-year planning horizon. So 22% to 25% is the current planning horizon. Next year it will be 23% to 26%. It's not driven by any one factor, like pricing or volume, MRO. It's the cumulative effect of all those contributors, which we believe de-risks our margin expansion plans."
+    },
+    {
+      "speaker": "Myles Walton",
+      "speech": "Okay. So just to clarify, Dan. 22% to 25% is what you're referencing in terms of doubling profitability, is that right?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Myles Walton",
+      "speech": "Okay. And just a clarification, on the P&L for this year, the assumption of non-service pension income, maybe excluding the curtailment gain in the quarter, do you have that in?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "I'm sorry, could you repeat that?"
+    },
+    {
+      "speaker": "Myles Walton",
+      "speech": "Yes. Within the P&L, the non-service pension income, what's the assumption baked into the EPS for fiscal 2022?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "It's a $45 million to $50 million. It should be -- there should be a schedule about that in the presentation."
+    },
+    {
+      "speaker": "Myles Walton",
+      "speech": "Okay. All right. Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from Michael Ciarmoli with Truist."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Hey, good morning, guys. Thanks for taking the question. I guess maybe just on Systems & Support margins, the 14% margin there on the adjusted basis, I guess, maybe a little bit weak relative to -- you guys were putting up 16% 17%. You've got the spares coming through, presumably with higher margins. You're getting some of these contract resets. I would have thought, we'd start to see better margins in Systems & Support. What sort of color or what's the view there that you can kind of give us on the trajectory?"
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Yes. Thanks, Michael. I think it's a journey. We're improving year-over-year. We're improving quarter-over-quarter. It doesn't happen overnight, but we are making progress. And it's a combination of all the elements Dan talked about. The prices aren't kicking in for some of the contract renegotiations yet. Revenue is recovering, but we still have some restructuring that we're getting out. So moving forward we're going to continue to see a cadence of margin improvement toward our goals."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Is there something different? I mean, in fiscal 2020 you were putting up 16% 17% for certain quarters. I mean, you presumably gotten rid of bad businesses. Is there anything changing in mix there? Obviously, commercial down. I mean, is that the biggest difference right now?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "So commercial is down at a few of our plants that do, let's say, actuators for the MAX. So that's a temporary absorption challenge for a couple of those plants. And we're very much looking forward to the rate increase that Boeing has put up for the MAX. We're building at a kind of a composite rate of around 15%, 16% a month. Some plants a little higher, some plants a little lower. But we're going to get into the 20s next year and then the 30s thereafter. So that's going to be -- allow us to get back to the levels of profitability that we've -- that you mentioned in the past.\nWe have a couple of development programs that are transitioning from development to production. So right now they're not contributing to earnings. But I mentioned, the T-7A and the KF-X, we're doing gearboxes for those. So right now, those are not contributing. So there's a short-term drag on TSS earnings. But we're very encouraged by-we are up year-over-year in the quarter on earnings. And we're encouraged by the MRO volumes coming back. That's something that we expect to sustain.\nOne of the reasons, we're seeing MRO recovery that others are not is that, we mainly do high-cycle engine components and thrust reversers which are again cycle count-based MRO. We're not in the heavy maintenance that-where they take aircraft out of service to do large structural repair. So we're seeing earlier uptick in MRO than others and that will help us pull margins back to where they are. And then we're not going to stop at prior year levels. We intend to go beyond, what we've done in fiscal 2020 because of the reasons I cited earlier."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it. Perfect. Thanks, guys."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Robert Spingarn with Credit Suisse."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Hi. Good morning."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Jim, I just want to go back to the cash flow again and maybe sum this up into what the cash flow for the core businesses would be this year. Is it right to think about, if we are minus $151 million in Q1 and then maybe slightly positive in the rest of the year in Q1-or rather this year includes I think, if you added up $169 million in kind of non-core use. Does that mean that for the year the core businesses are generating just a little bit over breakeven?"
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Yes. That's exactly right. If you look at page 13 in the presentation, you can see the expected FY 2022 cash driver still in the $84 million for advances the second --"
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "That's where you got the $169 million from, yeah."
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "That's $169 million. That's correct. If you exclude those three discrete kind of non-operating issues, you're cash positive for the year."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Modestly. And what does that contemplate for Stuart?"
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Stuart's still in here. So for guidance, we have not assumed any future divestitures."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Right. But is-I assume Stuart is contributing because it's profitable? In other words, I'm trying to think about what the company looks like when Stuart is gone and all this other stuff is gone."
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Yes. Stuart is profitable. It's modestly cash positive in the year."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. And then Dan, just one for you. It just-it seems like a part of the military strength we've seen from some suppliers, could be because of the actions DoD and the defense primes have taken to support the supply chain during the pandemic. Do you see-I know you're growing and adding a lot of contracts. But is there a point in the near future where we could see some pressure at least in parts of the military business as they fade that away? And could you talk about just the sequential move in the military business from March to June?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "During the depths of the pandemic, it was very helpful to have Tier One OEMs reach out, Kathy Warden, Northrop called me directly and-to say, how do we help Tier three Tier four suppliers like Triumph? And they improved their cash payment terms and-down to 10 days and that was a big help at the time. But that's a short-lived contribution. We don't expect that to necessarily do. But what's more to your question we've been studying the House and Senate marks and platforms that Triumph support are all well supported and many have been plused up in quantities. There are some bill payer programs, particularly out of the Army, but Triumph has no exposure on those platforms. So there will be some winners and losers, I think coming out of the defense spending. But thankfully, the top line is growing year-over-year. We've not seen any signals from the DoD that, there'll be a shift in their priorities over the next few years. There's certainly a lot of inertia in their spending a lot of challenges to improve readiness, where we support them on spares and aftermarket. So we feel good about our position on the defense business.\nQuarter-over-quarter, we're seeing strong refreshes on military helicopter engine controls, fuel systems, landing gear actuation. Those are all our core businesses heat exchangers. So as Triumph supports the DoD's objectives for readiness, we'll continue to expand our aftermarket. I just-during the quarter, I went out and met with the Care Logistics Center at Ogden. And we were the first contractor to come in in-person and visit, which by the way has been a frequent refrain for many of our customers, is that Triumph kept on the road. And as soon as they took meetings we were first in. And what we learned is that they have a lot of unmet needs. And sometimes those unmet needs in the defense side are for pretty niche-y type requirements. And I won't name them, because they don't want me to talk about what their readiness issues are.\nAnd if Triumph can't solve them I go back and I work with my peers. Question the issue say, hey Ogden needs help on this. And that helps I think solidify Triumph as a partner of choice. But it also identifies new areas for support. And today Triumph is fairly narrow in our aftermarket offerings, engine accessories, structural repair, thrust reversers. And we're starting to open our aperture about other things we can support such as air cycle machines I mentioned in my script. So I'm excited about what we can do in aftermarket. And so far we've favored well in the budget marks."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Just to clarify, have you seen any kind of meaningful change one way or the other in the recurring aftermarket? Not the new programs, but were your mature just quarter-to-quarter here? Has it slowed at all or gone up?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "No. We haven't. We haven't seen a change. It's been steady."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question comes from Ron Epstein with Bank of America."
+    },
+    {
+      "speaker": "Mariana Perez Mora",
+      "speech": "Good morning, everyone. This is Mariana Perez Mora on for Ron today."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Mariana Perez Mora",
+      "speech": "So I'll follow-up with the cash question, but probably like switching to a longer term view. Could you please discuss the path to the targeted teams free cash flow conversion to sales? What, kind of, volumes or commercial mix or profitability is implied in those terms [Phonetic] conversion target?"
+    },
+    {
+      "speaker": "Jim McCabe",
+      "speech": "Thanks Mariana for the question. Look cash is improving period-over-period and we're very pleased to be able to give guidance for this year, which a lot of people haven't been able to give guidance. The cash uses this year as pointed out earlier are all related to those very discrete items, if you took those out the core business is modestly cash positive.\nAnd moving forward, we're very confident we're going to be able to improve the cash and looking forward to giving guidance on conversion rates and specific numbers for the future. But right now we're focused on this year's guidance. Rest assured that our businesses are very strong in terms of their IP content, our ability to price and manage costs. And we're confident we are going to have strong cash flow. We're not ready to give specific ranges for future years right now."
+    },
+    {
+      "speaker": "Mariana Perez Mora",
+      "speech": "Okay. And next one is related to your exposure. On business jets, are you interested on increasing like exposure from current levels? How do you see that in the future?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Yeah. On business jets, Triumph has potentially reduced our position, which was mostly on structures. And we do a little bit -- we do landing gear for some of the Cirrus Aircraft as an example. We have good relationships with Gulfstream, Embraer. But that's really not our focus. Our focus is on defense and commercial and industrial applications. And as I mentioned increasingly space. We do the entire landing gear arrangement for the Sierra Nevada, Dream Chaser, which is very impressive. It's obviously inspired by the recent Blue Origin and Virgin Galactic shots in those aircraft or forms of aircraft require heat shields. And our landing gear actually has heat shields on the outside of the doors which is different for us. But we're really not focused on business jets. I have read that there are some encouraging tailwinds for the business jet community but it is a cyclical business. If there's a match between our core Systems & Support business we'll certainly support them. I don't expect it to contribute significantly to our revenues."
+    },
+    {
+      "speaker": "Mariana Perez Mora",
+      "speech": "Thank you. And last one for me. You mentioned space. How large could be that opportunity probably like five 10 years from now for Triumph?"
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "I've worked in space for probably half of my career and it's a great -- an exciting business to work in but it's very boom and bust. And the consequence of that -- and the volumes tend to be fairly low. So we'll provide solutions where there is a match between the needs of the platform. Examples are heat exchangers where they're trying to get heat off board. But we expect it to not go to more than 5% of our revenue. It's not going to be a big contributor. But because of the challenges of working in space weight 0G environment inaccessibility for repair the technology solutions you have to bring are at another level beyond commercial aviation. So there is a good match with some of our IP solutions but we'll do that opportunistically."
+    },
+    {
+      "speaker": "Mariana Perez Mora",
+      "speech": "Great, thank you."
+    },
+    {
+      "speaker": "Daniel J. Crowley",
+      "speech": "Thank you"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And since there are no further questions this concludes Triumph Group's First Quarter Fiscal Year 2022 Earnings Conference Call. There's also a replay associated with today's conference. You can listen to the replay by dialing 1-800-585-8367 and entering pass code 5174356. Again to access the replay you can dial 1-800- 585-8367 and entering pass code 5174356. Thank you all for participating, and have a nice day. All parties may disconnect now."
+    },
+    {
+      "speaker": "Duration: 47 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Daniel J. Crowley--Chairman, President And Chief Executive Officer",
+    "Jim McCabe--Vice President And Chief Financial Officer",
+    "Peter Arment--Baird -- Analyst",
+    "Cai von Rumohr--Cowen -- Analyst",
+    "Myles Walton--UBS -- Analyst",
+    "Michael Ciarmoli--Truist -- Analyst",
+    "Robert Spingarn--Credit Suisse -- Analyst",
+    "Mariana Perez Mora--Bank of America -- Analyst"
+  ]
+}

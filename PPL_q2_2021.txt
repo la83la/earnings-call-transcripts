@@ -1,0 +1,278 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the PPL Corporation's second-quarter earnings conference call. All participants will be in a listen-only mode. [Operator instructions] Please note today's event is being recorded. I would now like to turn the conference over to Andy Ludwig, vice president, investor relations.\nPlease go ahead, sir."
+    },
+    {
+      "speaker": "Andy Ludwig",
+      "speech": "Thank you. Good morning, everyone, and thank you for joining the PPL Corporation second-quarter investor update. We have provided slides for this presentation and our earnings release issued this morning on the Investors section of our website. Before we get started, I'll draw your attention to Slide 2 in a brief cautionary statement.\nOur presentation and earnings release, which we will discuss during today's call contain forward-looking statements about future operating results or other future events. Actual results may differ materially from these forward-looking statements. Please refer to the appendix of this presentation and PPL's SEC filings for a discussion of some of the factors that could cause actual results to differ from the forward-looking statements. We will also refer to non-GAAP measures, including earnings from ongoing operations and adjusted gross margins on this call.\nFor reconciliations to the comparable GAAP measures, please refer to the appendix. Participating on our call this morning are Vince Sorgi, PPL president and CEO; Joe Bergstein, chief financial officer; and Greg Dudkin, chief operating officer. With that, I'll now turn the call over to Vince."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Thank you, Andy, and good morning, everyone. We appreciate you joining us for our second-quarter investor update. Moving to Slide 3 and the agenda for today's call. I'll begin this morning with an overview of the exciting quarter we've had here at PPL, including an update on our strategic repositioning, our newly announced net-zero emissions goal along with a brief operational update.\nJoe will then provide a detailed review of second-quarter financial results and walk through some recent actions we've taken to strengthen PPL's balance sheet. And as always, we'll leave ample time for your questions. Turning to Slide 4. The second quarter has been a busy one as we continue to advance the strategic repositioning of the company.\nFirst, we completed the sale of our U.K. utility, achieving exceptional value for the business and once again demonstrating our ability to deliver on our strategic priorities to maximize shareowner value. The sale resulted in net cash proceeds of $10.4 billion, which will support the repositioning of PPL as a high-growth U.S.-regulated utility company. As a reminder, we've earmarked $3.8 billion of those proceeds to acquire Narragansett Electric from National Grid.\nWe also deployed some of the proceeds to achieve our previously stated objective of strengthening our balance sheet, utilizing $3.9 billion to retire $3.5 billion of outstanding holding company debt which will provide the company with substantial financial flexibility. Regarding the remaining proceeds, we continue to review various options as previously discussed, including investing incremental capital at our utilities or in renewable energy, as well as the repurchase of PPL shares. On the topic of share repurchases, our board recently authorized the company to repurchase up to $3 billion in PPL common stock. We currently expect to repurchase about $500 million by year-end, while we continue to assess other opportunities to deploy proceeds to maximize shareowner value.\nThe actual amount we apply to share repurchases will depend on various factors, including the determination of other uses for the proceeds. We believe our current plan provides a balance of an efficient use of proceeds while still maintaining financial flexibility. I'll note that we are in the process of reevaluating our capital plans for incremental investment opportunities for the benefit of our customers. As a result, we have removed our prior capital and rate base projections from our presentation.\nWe'll provide further updates to our capital and rate base plans after we complete this review. The U.K. sale represented an important first step in our strategic repositioning. Simplifying our structure with a clear focus on U.S.\nrate-regulated utilities and strengthening our balance sheet while providing much greater flexibility to support future growth. We're also making great progress in the acquisition of Narragansett Electric in Rhode Island. To date, we've satisfied our HSR and FCC requirements. And on July 16, the Massachusetts Department of Public Utilities granted a waiver of jurisdiction over the sale, streamlining the overall path to regulatory approval for the acquisition.\nWe continue to make progress on securing approvals from FERC and the Rhode Island division of public utilities and carriers, which are the two remaining approvals required for the transaction. Looking ahead, we remain confident in our ability to close the transaction by March of next year with hopes of closing before year-end. As we pursue the final regulatory approvals, we are working closely with National Grid on transition planning to ensure a seamless transition for Rhode Island customers and Narragansett employees upon closing. We've also announced our planned leadership team for the Rhode Island Utility, Dave Bonenberger, who has nearly four decades of energy industry experience, including leading both the transmission and distribution businesses at PPL Electric Utilities will serve as the Rhode Island President upon completion of the transaction.\nDave is well-positioned to lead the execution of our operational strategy in Rhode Island as we seek to drive significant value for Rhode Island customers and to support the state's decarbonization goals. Dave will be joined in Rhode Island by former National Grid employees in creating a strong, experienced, and local leadership team with a deep commitment to delivering energy safely and reliably to Rhode Island customers. Moving to Slide 5. In addition to strong execution toward our strategic repositioning, we also continue to advance our clean energy transition strategy and announced a new net-zero carbon emissions goal this morning.\nThis goal encompasses greenhouse gas emissions from our Kentucky generation, as well as other aspects of our business as outlined in the footnote on the slide. PPL is fully committed to driving innovation to enable net-zero carbon emissions by 2050. And to ensure a balanced, responsible, and just transition for our employees, communities, and customers as we advance toward our clean energy goals. Our new goal reflects our continuous evaluation of our progress and opportunities through ongoing business and resource planning efforts.\nBased on our latest reviews, we believe we are on a path to achieve 80% emissions reduction by 2040, a full decade ahead of our prior goal. As a result, in addition to today's announced net-zero emissions goal, we've also accelerated our previous interim goals, now targeting an 80% reduction by 2040 and a 70% reduction by 2035. In addition, we are undertaking an enterprisewide effort to enhance our clean energy strategy and develop additional programs, metrics, and goals that will guide our path to net-zero emissions. We've hired an industry-leading global consulting firm to assist us in this endeavor.\nIn addition to the strategic initiative, we are completing an updated scenario-based climate assessment to evaluate the potential impacts to PPL from climate change and potential future requirements. Our last climate assessment report was published in 2017. Our updated assessment, which we intend to publish later this year, will analyze multiple scenarios, including a scenario tied to limiting the global temperature increase to no more than one and a half degrees Celsius. As we conduct our climate assessment, our efforts will be informed by our ongoing integrated resource planning activities in Kentucky.\nLG&E and KU submit an IRP once every three years to the Kentucky Public Service Commission. And the next IRP will be filed in October of this year. Both the Climate Assessment and the IRP will serve as key inputs as we further define the pathway to achieving our emissions goals. Wrapping up this slide, we recognize that achieving these emissions reductions while maintaining reliability and affordability will require significant advances in clean energy technology and solutions, that can be scaled economically to meet the country's energy needs.\nThis is especially true as we support greater electrification of other sectors. With that in mind, investing in research and development is a key pillar of our clean energy strategy. And we continue to look for opportunities to engage in this area to drive the innovation and solutions necessary to achieve net-zero. PPL, for example, is an anchor sponsor of the low carbon resources initiative, being led by EPRI in the Gas Technology Institute and I chair EPRI's LCRI Board Working Group.\nWe also recently joined Energy Impact Partners global investment platform, which brings together leading companies and entrepreneurs worldwide to foster innovation toward a sustainable energy future. Through our participation in the EIP platform, PPL will support up to $50 million in investments aimed at accelerating shift to a low carbon future and driving commercial-scale solutions needed to deliver deep economywide decarbonization. Apart from LCRI and EIP's investment platform, we also continue to engage in a number of other R&D efforts related to clean energy technologies and enhancing the power grid. These collaborative efforts provide PPL greater visibility into emerging technologies that can be leveraged to advance the clean energy transition, and we will continue to look for opportunity to expand our work and support in this area.\nMoving to Slide 6. We've outlined our updated path to net-zero carbon emissions on this slide, along with our current expectations on coal-fired generation capacity in Kentucky, which is consistent with the generation planning and analysis study included in our recently approved rate case filings. It's clear that we'll need to advance technology to achieve net-zero emissions by 2050 as we balance the need for affordable, reliable, and sustainable energy for our customers. Based on these current factors and consistent with our most recent rate case filings in Kentucky, we currently expect to achieve a reduction in our coal-fired capacity of 70% by 2035, 90% by 2040, and 95% by 2050 from our baseline in 2010.\nWe anticipate having about 550 megawatts of remaining coal-fired generation in 2050 due to our highly efficient and relatively new Trimble County Unit 2 that started commercial operation in 2011. Therefore, our objective is to continue to explore innovative ways through our R&D efforts to economically drive these reductions further while supporting our customers and local communities. We have also assessed the implications of advancing these goals even further. Our internal view of what it could take to achieve 100% carbon-free generation by 2035 as proposed by the Biden administration using current technologies would create significant affordability issues for our customers.\nour new commitment to achieve net-zero carbon emissions by 2050 is backed by the actions that we are and will continue to take to support a low-carbon energy system that is affordable and reliable and provides the time needed for technology to advance. Next, on Slide 7, I'll cover the details of the Kentucky rate cases. On June 30, the KPSC approved the settlements that LG&E and KU had reached with parties to their rate reviews with certain modifications. At a high level, the orders support continued investment to modernize our energy infrastructure, strength, and grid resilience and upgrade LG&E's natural gas system to enhance safety and reliability for those we serve.\nEffective July 1, the KPSC authorized a combined $199 million increase in annual revenue for LG&E and KU with an allowed base ROE of 9.425% and a 9.35% ROE for the environmental cost recovery and gas line tracker mechanisms. In addition, the KPSC approved a $53 million economic release or credit that was proposed by LG&E and KU to help mitigate the impact of rate adjustments until mid-2022. Importantly, the commission's order authorized full deployment of advanced metering infrastructure, which will empower customers with detailed energy usage information, enable LG&E and KU to respond more quickly to power outages, and improve operational efficiency. We continue to believe the resulting O&M savings from installing advanced meters will exceed the cost of this investment for the benefit of our customers.\nThe $350 million capital cost of the proposed AMI investment is not included in the new rates that took effect July 1. Instead, we will record our investment in the AMI project as CWIP and accrue AFUDC during the project's implementation period. The KPSC also approved a very constructive retired asset recovery rider to provide recovery of and a return on the remaining net book values of retired generation assets, as well as associated inventory and decommissioning costs. The rider will provide cost recovery over a 10-year period upon retirement of such assets, as well as return on those investments at the utilities then weighted average cost of capital.\nAs we announced in January, Mill Creek Unit 1 is expected to retire in 2024. Mill Creek Unit 2 and EW Brown Unit 3 are expected to be retired in 2028 as they reach the end of their economic useful lives. These units represent a combined 1,000 megawatts of coal-fired generating capacity. The retired asset recovery rider balances the interest of all stakeholders and provide certainty of recovery for the prudent investments made in these coal plants.\nPursuant to the settlement agreements approved by the KPSC, LG&E and KU have committed that they will not increase the new base rates for at least four years, subject to certain exceptions. And before leaving this slide, I would note that in approving the settlement agreements, the commission adjusted the proposed base ROE downward from 9.55% to 9.425% and disallowed the recovery of certain legal costs. These modifications reduced the annual revenue requirements proposed in the settlements by approximately $20 million. We have filed a request for a limited rehearing on these matters.\nAnd finally, turning to Slide 8. In other highlights across PPL, we continue to achieve recognition for our strong commitment to diversity equity inclusion, innovation, and safety. During the second quarter, PPL was recognized by Diversity Inc. in two distinct areas.\nFirst, as one of the top utilities in the nation for workforce diversity, and second, as one of the top 50 companies for ESG, determined by several factors, including our programs and practices surrounding talent in the workforce, corporate social responsibility and philanthropy, supplier diversity programs and overall leadership in governance. PPL was also named the Best Place to Work for Disability Inclusion for the fourth consecutive year, earning a perfect score on the 2021 disability equality index. And finally, PPL Electric Utilities received the Southeastern Electric Exchange's Chairman's Award for its groundbreaking technology that safely and automatically cuts power to down power line. These awards reflect the corporate strategy focused on creating value for all stakeholders as grounded in our five strategic priorities.\nThese include achieving industry-leading performance and safety, reliability, customer satisfaction, and optional efficiency, advancing a clean energy transition while maintaining affordability and reliability, maintaining a strong financial foundation, and creating a long-term value for our shareowners, fostering a diverse and exceptional workplace, and building strong communities in the areas we serve. I'll now turn the call over to Joe for the financial update. Joe?"
+    },
+    {
+      "speaker": "Joe Bergstein",
+      "speech": "Thank you, Vince, and good morning, everyone. Turning to Slide 10. Today, we announced second-quarter reported earnings of $0.03 per share. This reflects special item net losses of $0.16 per share, primarily related to a U.K.\ntax rate change and a loss on the early extinguishment of debt, partially offset by earnings from the U.K. utility business that have been recorded as discontinued operations. I'll note that the tax-related item was a noncash adjustment prior to the completion of the sale of WPD in June. Adjusting for these special items, second-quarter earnings from ongoing operations were $0.19 per share compared with $0.20 per share a year ago.\nWe remain encouraged by the economic recovery from the pandemic in both our Pennsylvania and Kentucky jurisdictions, which has resulted in continuously improving commercial and industrial sales. These higher sales were offset by several factors, which I will cover on the next slide. So let's move to Slide 11 for a more detailed look at our second-quarter segment results. As a reminder, we've adjusted the 2020 corporate and other amount to reflect certain costs previously reflected in the U.K.-regulated segment, which was primarily interest expense.\nTotal amount of these costs was about $0.02 per share for the quarter. Turning to the ongoing segment results. Our Pennsylvania-regulated segment results were $0.02 per share lower compared to a year ago. The decrease was primarily due to lower adjusted gross margins, driven by lower transmission demand as discussed in Q1 and consistent with our expectations and an increase in the reserve recorded as a result of a challenge to the transmission-based return on equity, partially offsetting these negative variances were increased returns on additional capital investments.\nWe also experienced an additional $0.01 decline due to favorable tax-related items recorded in the second quarter of 2020. Turning to our Kentucky-regulated segment. Results were $0.01 per share higher than our comparable results in Q2 2020. The increase was primarily driven by higher commercial and industrial demand revenue as we experienced a strong recovery in 2021 in these sectors from the significant impacts of COVID-19 and lower interest expense primarily due to the interest costs previously allocated to the Kentucky-regulated segment in 2020 that are now reflected in corporate and other.\nPartly offsetting these items was higher operation and maintenance expense, primarily at our generation plants. Results at corporate and other were flat compared with a year ago. Higher interest costs of $0.01 a share related to the corporate debt previously allocated to the Kentucky segment were offset by several factors that were not individually significant. Turning to Slide 12.\nI'll cover some notable financing-related updates. First, following the sale of the U.K. utility business, we successfully completed a series of financing activities in June and July that led to a significant reduction in holding company debt. The result was a total reduction of PPL capital funding debt by about $3.5 billion, which was in line with our previously discussed targets.\nThrough these actions, we've reduced total holding company debt to about 20% of PPL's total outstanding debt, while effectively clearing all near-term maturities at PPL capital funding through 2025. We've provided a detailed breakdown of these actions in the appendix of today's presentation. In addition to the activity of PPL capital funding, we redeemed at par $250 million at LG&E and KU Energy in July, which was part of our original financing plan for the year in order to simplify the capital structure of the company by eliminating intermediate holding company debt. That was the final remaining outstanding debt security at the LKE entity.\nTherefore, we have deregistered LKE as we no longer expect to issue debt out of this entity. We expect PPL capital funding will be the financing entity at the holding company level to provide support to all of our operating subsidiaries. The successful execution of liability management leaves PPL well positioned and on track to achieve our targeted credit metrics post closing of the Narragansett Electric acquisition. In addition to these notable financing updates, we also reduced outstanding short-term debt as an efficient use of available cash until we fully deploy the remaining proceeds from the sale of WPD.\nThat concludes my prepared remarks, and I'll turn the call back over to Vince."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Thank you, Joe. In summary, as we continue to execute our strategic priorities, I am incredibly excited about PPL's future. We continue to deliver electricity and natural gas safely, reliably, and affordably for our customers. We continue to evolve our clean energy strategy and to drive innovation across our company.\nWe completed the sale of our U.K. utility business, achieving outstanding value for our shareowners. We're on track to close on our Narragansett acquisition within the expected time frames. And the new PPL will emerge from our strategic repositioning as a much stronger company, one poised for long-term growth and success.\nWith that, operator, let's open the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will now begin the question-and-answer session. [Operator instructions] Today's first question comes from Shar Pourreza with Guggenheim Partners. Please go ahead."
+    },
+    {
+      "speaker": "Shar Pourreza",
+      "speech": "Hey, good morning, guys."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Good morning, Shar."
+    },
+    {
+      "speaker": "Shar Pourreza",
+      "speech": "So first off, looking at the $2.5 billion that remains unallocated after the '21 buyback. How should we think about the timing of the allocation decision-making process? I mean, maybe put differently, how long will it take to evaluate the capex opportunity set across the footprint? What are the trigger points there, if any? Is it the Kentucky IRP? Is it Rhode Island closure? I mean, I guess, Vince, how long will you sit on it? And is the door completely closed on an outright regulated utility acquisition at this point? Maybe just give us a little bit of a sense on the background and the process that you just went through?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Sure. You hit a lot in that question, Shar. In terms of timing, I would say that we're not really setting an arbitrary timeline to complete this. We want to make sure that we're going through this process in a disciplined and diligent way as we always do.\nSo not really setting an artificial timeline on that. But to your point, you mentioned many of the factors that really are going into the process, right? So we're in the middle right now of assessing the capital plans including for Rhode Island once acquired, we do see additional T&D opportunities across the utilities, again, including Rhode Island for the benefit of our customers to drive improved efficiency and resiliency of the networks, as well as additional gas LDC investments to further enhance the safety of those operations. And again, from a capital deployment perspective, we think deploying capital into the utilities can create significant value for all of our customers and our shareowners. So a lot of work going on right now going through that.\nYou mentioned having the closure of Rhode Island. That's obviously a key component of how we think about capital deployment moving forward within the utilities. So in terms of timing, we'll want to see the closure of getting deals done. You also mentioned the IRP in Kentucky, that as well as the climate assessment report, those will be key inputs into our clean energy strategy going forward.\nThere could be some capital deployment opportunities coming out of that. So yes, I think you hit all the points in terms of the areas that we're looking at that will ultimately drive the organic use of the remaining proceeds. In terms of M&A, I would just say that, first of all, we don't need M&A to hit the targets that we're targeting from both an earnings and a growth perspective. And we will continue to be disciplined as we look at M&A opportunities as we always have been.\nI'll just say that current valuations that we're seeing in the market are quite high. The utilities are trading quite expensively right now. We didn't pay anywhere near some of those valuations for Rhode Island, and we continue to think that Rhode Island acquisition will drive value for our shareowners. It will be earnings accretive, credit accretive, and value accretive for our shareowners.\nSo again, from our perspective, maintaining discipline is incredibly important, and we'll continue to do that."
+    },
+    {
+      "speaker": "Shar Pourreza",
+      "speech": "Got it. And that's a paraphrase, it just sounds like your organic capex opportunities is sort of the best use of the residual cash flows versus coming out and doing something inorganic in this kind of a market?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Well, again, I would say, never say never, but it's not impossible to create value at these valuations, but it's tough. So we'll continue to look at inorganic opportunities, strategic opportunities. But again, maintaining that discipline as we think about capital deployment opportunities organically, as I talked about, but also share buybacks as well."
+    },
+    {
+      "speaker": "Shar Pourreza",
+      "speech": "Got it. And then just lastly for me, Vince, what is the board's decision mean for maybe the timing of the dividend adjustment? And just remind us on the targeted payout range in the long term? Thank you."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Yes. So we'll come out with the dividend guidance and all of that once we close the Rhode Island transaction, right? At that point in time, we'll be able to come out with our earnings guidance, what the growth rate -- narrow the range on the growth rate for earnings. As we've indicated, we expect once we adjust the dividend to a targeted payout of around 60% to 65%. We would expect to grow that going forward in line with our earnings.\nAnd all of that will be communicated once we close the Rhode Island transaction."
+    },
+    {
+      "speaker": "Shar Pourreza",
+      "speech": "Perfect. Thanks a lot, and congrats on the execution. I'll pass it to someone else. Thank you."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Thank you, Shar."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question today comes from Durgesh Chopra with Evercore ISI. Please go ahead."
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "speech": "Hey, good morning team, and thanks for the update today. Maybe just going back to the use of proceeds. Can you just talk about -- one of the things the press release says Vince, is like the opportunities organically with your current assets. Maybe can you just elaborate on them? Where do you see those opportunities Pennsylvania, Kentucky, Rhode Island, all three? Maybe just a little bit more color."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Yes. Thanks, Durgesh. Yes, look, I think we see opportunity across the entire portfolio once we acquire Rhode Island, of course. We need to get through the regulatory process in Rhode Island.\nWe will be meeting with the governor and the legislature up there, as well as the commission and the regulatory bodies, putting together what we think the best investment plan moving forward for Rhode Island will be. We've talked about the clean energy aspiration that the state has. They are quite aggressive when you compare them to other states, which we completely think we can support with what we've been able to accomplish in Pennsylvania and be able to replicate that there. So I think for us, Durgesh, it's really about working with the state stakeholders and identify how quickly they want to move on that.\nAnd then how quickly can we deploy our operating model and keep it affordable for customers, and so we see tremendous opportunity up there, but that's something that we'll be working on once we close the deal. Having said that, I think we see continued opportunity, both in Pennsylvania and Kentucky to continue to bring those utilities along the utility of the future curve and continue to make investments in PA and Kentucky as well. So those are the activities we're going through right now over the summer, and we'll be in a position to communicate that again once the Rhode Island deal closes when we come out with the whole story."
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "speech": "Got it. Looks like opportunities are throughout your sort of existing platform. OK. Then maybe just I'm curious, $500 million this year in share buybacks, why $500 million?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Yeah. We just thought that it struck a nice balance in terms of deploying the proceeds in an efficient manner, do some buybacks, but also provide us with the financial flexibility to continue to assess alternative against further buyback. So we just felt that that was a nice balance, Durgesh. And again, we'll continue to look at the other opportunities between now and certainly closing of the deal, but potentially a little bit after that as well."
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "speech": "Got it. OK. And then just to be clear, like you had roughly $3.5 billion in proceeds left after the Narragansett acquisition. So with the $500 million share back, you would have roughly $3 billion in excess cash to be deployed.\nIs that correct?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "No. I think it's closer to two to two and a half."
+    },
+    {
+      "speaker": "Joe Bergstein",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "After the liability management."
+    },
+    {
+      "speaker": "Joe Bergstein",
+      "speech": "And the buybacks. So yes, so after the --"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "And the buyback, yeah."
+    },
+    {
+      "speaker": "Joe Bergstein",
+      "speech": "Including the liability management."
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "speech": "So two to two and a half?"
+    },
+    {
+      "speaker": "Joe Bergstein",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "speech": "OK. Thank you very much."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Joe Bergstein",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question today comes from Ryan Greenwald at BofA. Please go ahead."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Hey, guys, it's Julien on. If I can go back and clarify the last couple of questions here, just on timing, just to make sure we heard you right. Clearly, you specifically designated $0.5 billion for '21 or at least the balance of the year here as well as, as you think about the next few months, you should start to get some clarity on the capex, right? So when you think about that available capital here, really you're going to get the clarity of what is sort of \"remaining\" in the not-too-distant future, right? I just want to make sure, at least from a visibility capital -- available visibility perspective, you'll know pretty soon?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "I mean, certainly, we'll be working that through the summer and through the business planning process, Julien, right? We, of course, need to take all that to the board, get all that approved. And so in terms of publicly being able to disclose and announce that, still, I think that will coincide with the closing of the deal. If that happens before our year-end earnings call, as you know, we normally would have an update on the capital plans at our year-end call. If the deal goes beyond the year-end call, then certainly, we would expect to provide that update then.\nBut again, if the deal closes prior to the call, I think you could expect it in concert with the deal announcement and coming out with a new story post deal."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Got it. And just to clarify here, I mean, how do you think or rank transmission assets versus distribution versus other asset types? I know we've talked about this before, but obviously, the market has been fairly volatile. And obviously, as you comment fairly elevated across a number of these asset classes. So curious if that has driven any rethink, as well as are you open a minority ownership in assets? I suspect that's equally robust in terms of valuations, but just figured I would throw it out there."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "So T versus D versus other transmission. Well, first of all, we think as long as the capital deployment serves our customers well and is providing value to our customers, we think that's a good use of capital across all of the business segments. The returns are still strong in all three -- really, transmission and distribution, but also generation down in Kentucky, as well as gas. But transmission still has slightly higher ROEs than distribution.\nBut again, we're not strained from an ability to finance capital perspective. So it's not like we're deciding whether we're going to do transmission versus distribution."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "Got it. And last one, just to clarify this, you obviously went through your portfolio just now on the call a little bit, but the Kentucky Power Mitchell update here, any read-throughs at all to your planning? Just want to make sure."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "No."
+    },
+    {
+      "speaker": "Julien Dumoulin-Smith",
+      "speech": "OK. All right. Excellent. Thank you all very much.\nAll the best, and I look forward to seeing what you have to say."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Sure. Thanks, Julien."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And the next question today comes from Paul Patterson with Glenrock Associates. Please go ahead."
+    },
+    {
+      "speaker": "Paul Patterson",
+      "speech": "Hey, good morning."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Hey, Paul."
+    },
+    {
+      "speaker": "Paul Patterson",
+      "speech": "Just first of all, on Rhode Island, do we have a procedural schedule? I haven't been able to locate it. But I was just wondering, do we have a -- do you guys have any key dates on coming up here in Rhode Island?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "We do not. The division has not yet put out the procedural schedule, Paul, so you're not missing it."
+    },
+    {
+      "speaker": "Paul Patterson",
+      "speech": "OK. And then just finally on the EIP and your discussion on the call about technology, the need to sort of find affordable solutions. I was wondering if you could just elaborate a little bit further on this. I mean, the $50 million investment, is that in this -- is that all in the Elevate fund? And just how should we think about the accounting on this? Are you guys going to be expensing this or capitalizing it? Or how do we think about that?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Sure. So it's not all going in the Elevate fund. It is across multiple funds that are driving really the -- some of the funds are focused on utility of the future and innovation in that space, the smart technologies, and others. They're focused on decarbonization technologies.\nSo EVs or energy storage or things like that. So really, it cuts across multiple funds within the EIP platform. And from our perspective, the benefit of that, Paul, is that we get -- I mean, not only has EIP demonstrated positive returns in the fund which takes what traditionally would be a cost center for a company with R&D efforts and potentially turn that into neutral to a positive return. But really, the strategic value of getting in there is that we get board seats.\nSo we have visibility into the technologies that are emerging in all of these different areas as we think about potential for demonstration projects or just where we think the next breakthrough in technology will come, whether that's on car recapture or energy storage, a long-duration storage technologies, various different areas that we're looking at as we think about getting to net-zero for not only the fleet but economywide."
+    },
+    {
+      "speaker": "Paul Patterson",
+      "speech": "So this -- should we think about this as being your primary vehicle for looking at that technology or emerging technology R&D? Or you mentioned some other things. I apologize, but I was slightly distracted when you were talking about it. You mentioned, I think, EPRI and some other things. I mean, is there -- are you looking for additional investments in this area? Or I mean, how should we just -- I'm just wondering how much of an initiative you're putting into this and also if there's any particular technology that you're finding particularly interesting or exciting."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Well, I would say that EIP is part of it. I wouldn't say it's necessarily the primary R&D avenue. But certainly, it's part of our strategy there. You talked about EPRI and the low carbon resources initiative.\nSo I've just recently taken over the board working group chair role for EPRI. And so we're integrally involved with the expert team at EPRI and looking at various different technologies. Again, as it relates to carbon capture, new nuclear, hydrogen, ammonia all different types of decarbonization technology, again EPRI is focused on what are the technology breakthroughs that are currently being -- or the technologies, the emerging technologies that are currently being looked at, but they're also assessing alternatives to those and then identifying demonstration projects down the road to try to commercialize some of these newer technologies. And so we are actively engaged with them on all of that, depending on how those things evolve, whether it's hydrogen for storage or even hydrogen blending for gas LDCs or combined cycle generation.\nThere's a way to go, I think, to prove all that out for hydrogen, but there's a lot of work and a lot of activity going on there. Our carbon capture sequestration continues to be an area. Again, about 80% of the world's energy is coming from fossil fuel spill. So for the growth to get to net zero at some point, we think carbon capture will have to play a role in that.\nAnd so EPRI is spending some time on that as well. Again, nuclear -- looking at different forms of nuclear modular units, etc., could also play a role but making those units smaller and more adaptable. So a lot of things going on there, Paul. And I think we're -- our strategy is to make sure that we keep our finger on the pulse there.\nAgain, we'll be retiring coal plants this decade and next. And so could there be potential opportunities for demonstration projects on some of those plants. We'll work with the state to see if there's opportunities there as we think about, again, Trimble County 2 which went in service in 2011. And so unless things change at the federal level, where that plant will be forced to be shut, our current projection is that it would continue to be economic in 2050.\nAnd so identifying these technological advancements to drive specifically that plant to net-zero. But again, you're going to have combined-cycle fleet that are part of the transition strategy that you heard from me and many of my -- again probably it can play a role there."
+    },
+    {
+      "speaker": "Paul Patterson",
+      "speech": "I think I understood. So it's basically a finger on the pulse kind of thing is how we should think about this as opposed to saying that we're going to see impacting earnings in any significant way in the next few years. Is that probably the best way to think about it?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Yes, I think so. Certainly, in the near term."
+    },
+    {
+      "speaker": "Paul Patterson",
+      "speech": "OK. I do appreciate it. Thank you so much."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our next question comes from Steve Fleishman with Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Steve Fleishman",
+      "speech": "Hi. Good morning. Thanks. Hey, Vince, so just in thinking about -- I guess two things.\nOne is, in thinking about the potential for more organic capital plan, you had this multiyear deal that you just did in Kentucky. And so I'm just curious the regulatory mechanisms you have to kind of recover an increase in capex, if that happens over this period? And then secondly, how long are you willing to hold -- sometimes it's hard to kind of raise capex to like later in the plan and you have this money upfront, and actually, if you turn it into an actual rate base number $2.5 billion is $5 billion of rate base, so lot of rate base. So how should we think about how long you're willing to wait to kind of put the money to work so to speak, yes?"
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Sure. So I think maybe I'll answer your second question first. Again, we don't want to put an artificial timeline on the use of the proceeds, right? So the first step, I think, is getting through the detailed process of identifying the organic growth opportunities and putting those plants together and to your point, when do they get staged in, in terms of '22 maybe versus potential feeding into the back part of the 5-year plan and then even beyond that. So I would just say we're -- the first step is to get through that, and then we'll assess the timing of when that cash is needed and then see exactly how much is really fitting into the scenario that you're talking about.\nIn terms of the mechanisms, while we're staying out, first of all, I would just say that, again, in Pennsylvania, we've been very successful at growing our rate base and our earnings despite staying out of rate cases. And we haven't had a distribution rate case since January 1, 2016. But over that time, and again, this is just distribution. We've grown our rate base 6%, 7% CAGR over that time period, and our net income CAGR has pretty much stayed in line with that rate base growth.\nAnd the way that you're able to do that is obviously we have some mechanisms within the different jurisdictions that reduce regulatory lag, whether it's the PPA or the ECR and the gas line tracker and Kentucky, of course, we had some in Rhode Island as well around capital planning. But also when you deploy the capital, in many cases, you will see operational efficiencies as a result and those operational efficiencies can drive the return on that capital even though you're staying out of rate cases. I will say that our -- we don't think the right answer just because we're staying out of rate cases is not to invest in the networks. It's incredibly important, and we continue to reinvest in the networks and then making sure that we do that in a way that drives efficiency for the customers and drives a return while we're staying out.\nWe have experience and have successfully done that in Pennsylvania. So we'll look to replicate that. But just because we're staying out, we don't think that that means that there won't be rate base or earnings growth opportunity."
+    },
+    {
+      "speaker": "Steve Fleishman",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, this concludes our question-and-answer session. I'd like to turn the conference back over to the management team for any final remarks."
+    },
+    {
+      "speaker": "Vince Sorgi",
+      "speech": "Great. Thanks, everybody, for your participation. Thanks for your questions. Everybody, have a great day, and look forward to the next time we get together.\nThanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 48 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Andy Ludwig--Vice President, Investor Relations",
+    "Vince Sorgi--President and Chief Executive Officer",
+    "Joe Bergstein--Chief Financial Officer",
+    "Shar Pourreza--Guggenheim Partners -- Analyst",
+    "Durgesh Chopra--Evercore ISI -- Analyst",
+    "Julien Dumoulin-Smith--Bank of America Merrill Lynch -- Analyst",
+    "Paul Patterson--Glenrock Associates -- Analyst",
+    "Steve Fleishman--Wolfe Research -- Analyst"
+  ]
+}

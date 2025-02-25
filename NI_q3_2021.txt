@@ -1,0 +1,312 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. My name is Chile and I will be your conference operator today. At this time, I would like to welcome everyone to the Q3 2021 NiSource Earnings Conference Call. [Operator Instructions] Chris Turnure, you may begin your conference."
+    },
+    {
+      "speaker": "Christopher Turnure",
+      "speech": "Good morning and welcome to the NiSource third quarter 2021 investor call. Joining me today are Joe Hamrock, our Chief Executive Officer; Donald Brown, our Chief Financial Officer; Shawn Anderson, our Chief Strategy and Risk Officer; and Randy Hulen, our VP of Investor Relations and Treasurer. The purpose of this presentation is to review NiSource's financial performance for the third quarter of 2021 as well as provide an update on our operations and growth drivers. Following our prepared remarks, we'll open the call to your questions. Slides for today's call are available on nisource.com.\nBefore turning the call over to Joe, Donald and Shawn, just a quick reminder, some of the statements made during this presentation will be forward-looking. These statements are subject to risks and uncertainties that could cause actual results to differ materially from those expressed in the statements. Information concerning such risks and uncertainties is included in the MD&A and Risk Factors sections of our periodic SEC filings. Additionally, some of the statements made on this call relate to non-GAAP measures. For additional information on the most directly comparable GAAP measure and a reconciliation of these measures, please refer to the supplemental slides and segment information, including our full financial schedules available on nisource.com.\nWith all of that out of the way, I'd like to turn the call over to Joe."
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Thanks, Chris. Good morning everyone and thank you for joining us. Hopefully, you've all had a chance to read our third quarter earnings release, which we issued earlier today. Strong execution of NiSource's significant renewable energy investments continues to be the highlight of our foundation for future growth and we continue to expect that our core infrastructure programs and renewable generation investments will drive industry leading compound annual growth of 7% to 9% in diluted net operating earnings per share through 2024, growth driven by our commitments to safety, reliability, customer affordability and sustainability.\nAs we begin to refine our outlook for longer-term growth, the preferred path from NIPSCO's 2021 Integrated Resource Plan identifies additional investment opportunities, while advancing the retirement of remaining coal-fired generation between 2026 and 2028 and it supports our plan to reduce greenhouse gas emissions 90% by 2030.\nLet's turn now to Slide 3 and take a closer look at our key takeaways. We are updating our guidance for 2021 to target the top end of the range of a $1.32 to a $1.36 per share in non-GAAP diluted net operating earnings or NOEPS. We are also initiating guidance for 2022 of a $1.42 to a $1.48 and that is consistent with our 5% to 7% near term growth commitment. Our long-term diluted NOEPS guidance of 7% to 9% through 2024 is now based on the expected top end of our 2021 guidance range and we reaffirm 5% to 7% growth in 2023.\nAs I mentioned a moment ago, the preferred plan from NIPSCO's 2021 IRP, advances our plans to retire remaining coal-fired generation between 2026 and 2028 as we shift to lower cost, clean and reliable generation. Investments of up to $750 million will be required to replace retiring coal-fired generation. The NIPSCO portion of this investment will be better understood following further evaluation of the proposals we solicited associated with the IRP. Our regulatory execution progresses with a proposed order approving a settlement in Pennsylvania, a settlement filed in Kentucky and a proposed order in Maryland. In addition, we filed a gas rate case in Indiana in September. We achieved non-GAAP diluted NOEPS of $0.11 in the third quarter of 2021 versus $0.09 in 2020.\nNow let's look at some NiSource utilities highlights for the third quarter, starting with our gas operations on Slide 9. Columbia Gas of Ohio rate case continues to progress. Net of the trackers being rolled into base rates, the filing requests an annual revenue increase of approximately $221 million. Pending its decision next year from the Public Utilities Commission of Ohio, new rates would be effective in mid 2022. NIPSCO filed a gas rate case on September 29th requesting a revenue increase of $115 million annually. The case is focused on infrastructure modernization and providing safe, reliable service, while remaining in compliance with state and federal safety requirements.\nIn Pennsylvania, an Administrative Law Judge issued a proposed order recommending that the Pennsylvania Public Utility Commission approved the settlement in our rate case. The settlement would increased revenue by $58.5 million with new rates effective December 29th of this year. The adjusted rates will help to continue investments in infrastructure upgrades, system reliability and maintenance enhancements. We expect the Commission's final order by mid-December.\nIn Kentucky, we have filed a proposed settlement of our rate case. The settlement includes an overall increase in revenues of $18.6 million to support continued investments in safety and replacing aging infrastructure. Columbia Gas of Maryland received a proposed order from an administrative law judge on Friday, recommending an increase of approximately $2.56 million in revenues as compared to our request of approximately $4.8 million. We expect a final order from the Maryland Public Service Commission in December.\nBefore we move on, I'd like to note the Columbia Gas of Ohio, our largest LDC, is ranked number 1 in the Midwest region in J.D. Power's 2021 Gas Utility Business Customer Satisfaction Study. Also congratulations to our customer experience team for the successful launch of the Columbia Gas and NIPSCO mobile apps. They are an important step forward in building our connected digital customer experience.\nLet's now turn to our electric operations on Slide 10. NIPSCO's electric TDSIC plan is pending before the Indiana Utility Regulatory Commission or IURC. This is a five-year $1.6 billion proposal that would replace the previous plan, which NIPSCO filed in April to terminate. The pending plan includes newly identified projects aimed at enhancing service and reliability for customers as well as some previously identified projects. The other items on this slide relate to our renewable generation strategy and I'll turn it over to Shawn Anderson to give more detail."
+    },
+    {
+      "speaker": "Shawn Anderson",
+      "speech": "Thank you, Joe. The selection of the preferred path from NIPSCO's 2021 IRP is a significant milestone in our transition from coal-fired generation toward cleaner and reliable forms of generation, all of which are expected to save NIPSCO customers' approximately $4 billion over the long term. The preferred path from the 2021 IRP refines the timeline to retire coal-fired generation at the Michigan City Generating Station to between 2026 and 2028. It also calls for retirement of two vintage gas peaking units 16A and 16B, which are both located at the Schahfer Generating Station site.\nThe most viable replacement option calls for our portfolio of resources, including incremental solar, stand-alone battery storage and natural gas peaking resources. We estimate that investments of up to $750 million will be required to support the retirements of these units. We expect to be able to quantify the NIPSCO portion of this investment opportunity in the first half of next year after further evaluating bids and the request for proposals and completing due diligence on projects, which align with the preferred path.\nMeanwhile, we continue to execute on the plan for retirement of remaining coal-fired generation at Schahfer. Units 14 and 15 retired as of October 1st and units 17 and 18 are on track to retire by 2023. We are making steady progress on the renewables project build out, informed by the preferred path from NIPSCO's 2018 IRP. Our partners on these projects are some of the strongest developers in the renewable energy space and we remain in close contact regarding the progress of these projects. We continue to expect to invest approximately $2 billion in renewable generation by 2023 to replace the retiring capacity at Schahfer.\nAs part of the execution of this plan, construction continues on the Indiana Crossroads I wind project, which is on track to become operational in the fourth quarter of this year. Construction has also started on a pair of solar projects Dunns Bridge Solar I is being constructed by a subsidiary of NextEra Energy Resources under a build transfer agreement. EDP Renewables North America is building the Indiana Crossroads Solar project, which will be operated as a joint venture. Both are expected to enter service next year.\nThe IURC provided regulatory approval of the Indiana Crossroads II wind project on September 1st and with that action, all 14 renewables projects needed to replace the retiring capacity of Schahfer Generating Station, have now received approval. In addition to the slate of renewables projects we have announced, NiSource plans to evaluate hydrogen in emerging storage technologies. It's important for us to gain a risk informed understanding of the options and technologies that may emerge as pathways toward further decarbonization.\nNow I'd like to turn the call over to Donald, who will discuss our third quarter financial performance in more detail."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Thanks, Shawn and good morning everyone. Before getting into the specific results, I'd just like to highlight the solid execution and progress that now has us guiding to the top end of our 2021 guidance range of a $1.32 to a $1.36. This new 2021 expectation also serves as the starting point for both our near-term and long-term commitment. We have also initiated 2022 guidance of a $1.42 to a $1.48, which at its midpoint represents a growth rate of over 6.6% from the 2021 top end.\nTurning to our third quarter 2021 results on Slide 4. We had non-GAAP net operating earnings of about $47 million or $0.11 per diluted share compared to non-GAAP net operating earnings of about $36 million or $0.09 per diluted share in the third quarter of 2020. The 2021 results reflect our ongoing execution of infrastructure investments, offset somewhat by the sale of Columbia Gas of Massachusetts, which closed in October of 2020.\nLooking more closely at our segment three-month non-GAAP results on Slide 5, gas distribution operating earnings were about $18 million for the quarter, representing an increase of approximately $8 million versus last year. Operating revenues, net of the cost of energy and tracked expenses were down nearly $18 million due to the sale of CMA. Operating expenses also net of the cost of energy and tracked expenses were lower by about $26 million, mostly due to the CMA sale, offset slightly by higher employee-related costs and outside services spending.\nIn our Electric segment, three-month non-GAAP operating earnings were about $130 million, which was nearly $3 million lower than the third quarter of 2020. Net of the cost of energy and tracked expenses, operating revenues decreased slightly by about $2 million due to slightly lower residential usage, offset by increased TDSIC revenues. Operating expenses net of the cost of energy and tracked expenses were nearly flat compared to 2020.\nNow turning to Slide 6, I'd like to briefly touch on our debt and credit profile. Our debt level as of June 30 was about $9.6 billion of which about $9.2 billion was long-term debt. The weighted average maturity on our long-term debt was approximately 14 years and the weighted average interest rate was approximately 3.7%. At the end of the third quarter, we maintained net available liquidity of about $1.7 billion, consisting of cash and available capacity under our credit facility and other accounts receivable securitization programs.\nAs we know, last quarter, all three major rating agencies have reaffirmed our investment grade credit ratings with stable outlooks in 2021. Taken together, this represents a solid financial foundation to continue the support for our long-term safety and infrastructure investments. As you can see on Slide 7, we've narrowed our 2021 capital investment estimate to approximately $2 billion and reiterated our 2022 capital forecast of $2.4 billion to $2.7 billion.\nTaking a quick look at Slide 8, which highlights our financing plan. There are no changes to our plan since April's equity unit issuance. I would highlight that this balanced financing plan continues to be consistent with all of our earnings growth and credit commitments. as I mentioned earlier, we have updated our 2021 earnings guidance, issued guidance for 2022 and reaffirmed our long-term growth commitments. I would also remind everyone that we're planning to provide an extension to our growth plan at an Investor Day during the first half of next year. So please stay tuned.\nThank you all for participating today and for your ongoing interest in and support of NiSource. We're ready now to take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Your first question comes from Richard Sunderland from J. P. Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Richard Sunderland",
+      "speech": "Hi, good morning. Thanks for taking my questions. Maybe just starting with the IRP here. Curious if you could outline the guard rails on the potential investment in any gating items here as we progress to the update in the first half of next year? You've just -- in terms of the high, low and where that could realistically fall in the [Indecipherable]?"
+    },
+    {
+      "speaker": "Shawn Anderson",
+      "speech": "Yes. Thanks for that question. Good morning, this is Shawn. So ultimately, as you can imagine the range, will be informed by the actual project selected. So what we know now are the tranches of technology that we believe will provide the capacity. We need to step through the due diligence now to better understand those projects and that will inform and some way, shape or form the specifics of the range. So, certainly the selection of technology, the actual projects themselves, how efficient they can be constructed, those types of things will have a bearing on the ultimate capex for it. I'd also note that the MISO resource adequacy rules, certainly as those finalize, could come into play a bit as well, though we think that we've modeled those out and incorporated that in the indicative pathway."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes, thanks, Shawn. Rich, let me just add, all else being comparable through that analysis, we have a bias to own these assets as we step through this next progression. And we believe we have a strong case and a value proposition for doing that. As Shawn noted the factors or guard rails as you said, do include the MISO seasonal capacity factor ultimate requirements and the evaluation of the proposals that's still underway, but also the federal policy landscape that is a bit unpredictable right now, but that could shape timing and mix of investments as well. We look forward to being able to work through that in the next quarter or two."
+    },
+    {
+      "speaker": "Richard Sunderland",
+      "speech": "Thanks for the color there. And maybe just following up on the subtle aspects. Could you unpack that a little bit more in terms of what could specifically impact the 2021 IRP considerations or maybe even more broadly, whether it's a financing plan? How could something like direct pay change those plans now."
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Hi. I can take the direct pay question. Certainly think that that provides some additional flexibility and how we finance our renewable investments, certainly positive if it allows us to reducing the equity needs for those future investments or external financing needs in terms of tax equity, but certainly need to understand how direct pay would be treated by our fixed jurisdictions from a base -- rate base and deferred tax standpoint."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "And then I just add on as it relates to how federal policy could shape the technology cost that we certainly can't speculate to that. The $750 million is a derivative of what we saw come through the RFP in May related to the capacity and the technology required to meet that capacity to the extent that the marketplace changes that efficiency and it could get you back into a different selection of technology to comprise the capacity necessary, but you'd have to see how that federal policy landscape would impact that marketplace versus to due diligence, which we're performing on actionable projects that came through the RFP that we expect to be able to execute against."
+    },
+    {
+      "speaker": "Richard Sunderland",
+      "speech": "Understood. Thank you for the time here. Thanks."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Thanks, Rich."
+    },
+    {
+      "speaker": "Richard Sunderland",
+      "speech": "Your next question comes from Insoo Kim from Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Insoo Kim",
+      "speech": "Yes. Thank you. My first question is just going back to the IRP that $750 million potential, is that the total opportunity set, whether it's PPA or owned or does it contemplate some percentage of ownership there? And then the follow-up to that is, if we're taking the more accelerated retirement options and the 2026 retirements, how much of that potential investment could come in the 2025 time period?"
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Thank you for that. The $750 is the total inclusive amount of investment expected to be able to functionally deliver the capacity. Once the capacity gap is created to the retirement of Michigan City and Schahfer's units A and B. So the everything included, also inclusive of the transmission that we anticipate necessary to construct to enable that to occur. And then in terms of timing, there is some flexibility because these projects in some ways could be a little bit modular in nature. It provides us a fair amount of flexibility to optimize that. The transmission work for example is going to begin immediately and it could take up to three years to complete the transmission work necessary to take those units offline. So the other resources could be feathered in, likely starting in that 2024 time horizon, but we'll know a lot more through the first half of 2022 after we've gone through the due diligence process and started to select the exact projects that we think can deliver that capacity."
+    },
+    {
+      "speaker": "Insoo Kim",
+      "speech": "Got it. That's good color. And my second question is on the dividend policy. I think over the past -- or at this time around and then the past couple of years, I think the growth in the dividend has been a little bit more modest versus history and as we get back into this more robust EPS growth cycle and I think you had a 60% to 70% payout ratio target as of the last disclosure. How should we think about some of the future dividend growth trends that you could see over the next few years?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Hi, good morning. For the 60% to 70% payout ratio that is still our guidance at this point. We will revisit our dividend on our -- in January as we normally do with the Board, but when you look at our long-term plan in the 7% to 9% EPS CAGR that we've indicated, you certainly would expect to see growth in that range, saying growth along annually because of the earnings growth in that range of 60% to 70%. But again, we'll provide an update in January."
+    },
+    {
+      "speaker": "Insoo Kim",
+      "speech": "Got it. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Julien Dumoulin Smith with Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Kody Clark",
+      "speech": "Hey, good morning. This is actually Kody Clark on for Julian. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Good morning, Kody."
+    },
+    {
+      "speaker": "Kody Clark",
+      "speech": "So first kind of a housekeeping item and just to clarify. If I'm thinking about 2023 EPS, what base should I be using for the 5% to 7% growth? Is it the top end of '21 or the midpoint of the new '22 guidance?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "I would use the top end of '21 as the guidance going forward for '22 and for our long-term 7% to 9% EPS growth."
+    },
+    {
+      "speaker": "Kody Clark",
+      "speech": "Okay, got it. And then, so one of the main variables on NIPSCO share of the capex tied to the IRP would be the breakdown of ownership versus PPA and certainly understand the bias to own there, but wondering if you can talk about how you, other stakeholders and the regulators are thinking about ownership percentage of the resources? Have you had any conversations here? How do you think that's going to shake out?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Thanks for that question. We have not had any discussions regarding ownership percentage as we've just focused on the tranche of technology delivered -- to deliver the capacity and certainly that's been the main focus to understand what the solutions in the pathway we expect to transpire. And then we would need to complete the full due diligence necessary on the projects themselves to better understand that ownership percentage, although I'd note that certain of these asset classes track toward a higher ownership percentage, for example, Sugar Creek upgrade would make a lot of sense for us to own at our own plant. So there is a bias to own and some of these asset classes could track toward that. However, we need to complete the full due diligence to have a final point of view, which we expect in the midpoint of next year."
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Yes, Kody, I'd only add to that, I would note that key drive results the cost to customers over the life of the projects and that's probably the first variable we look at for comparability across different ownership structures."
+    },
+    {
+      "speaker": "Kody Clark",
+      "speech": "Okay. So looking forward to the first half updates and we've seen some of your peers introduce longer term capex and growth plans to highlight kind of the runway for spending. Do you see yourself in a position to be able to provide that level of disclosure when some of these spending items around generation become a little bit more clear in the first half of next year?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes, absolutely, we are intending to have an Analyst Day somewhere in that first half of next year. The goal of that Analyst Day would be to provide more clarity around next generation investments to replace the Michigan City, as well as to extend a long-range plan for both our gas and electric businesses."
+    },
+    {
+      "speaker": "Kody Clark",
+      "speech": "Got it. That's very helpful. Thanks so much for the time and looking forward to seeing you all next week."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And your next question comes from Travis Miller from Morningstar. Please go ahead."
+    },
+    {
+      "speaker": "Travis Miller",
+      "speech": "Good morning everyone and thank you."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Hey, good morning, Travis."
+    },
+    {
+      "speaker": "Travis Miller",
+      "speech": "Question on the electric side of NIPSCO vector, the IRP. How do you think about the timing and the relationship between the IRP and as you go through the process to IRPs, etc., and the TDSIC? Are regulators thinking about these in terms of the need for new transmission and distribution to supply and support the IRP? And how does that work?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes, that's a good question, Travis. The TDSIC really operates on kind of the existing transmission assets on maintenance and reliability improvements, not so much new capacity related to new generation or retiring generation. So there's not a direct relationship between TDSIC. We're pending TDSIC discussion As you note. It doesn't really depend in a meaningful way on the IRP. Typically, the projects we're looking at from the RFP within the Integrated Resource Plan are tied to specific transmission investments that are inside the bids that we solicited. So, those really don't crossover in a meaningful way."
+    },
+    {
+      "speaker": "Travis Miller",
+      "speech": "Okay. So, we could see more transmission investment as you roll out some of the IRP steps?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "That's right. just like we have in the current cycle or in the $2 billion includes pretty healthy transmission investment as well."
+    },
+    {
+      "speaker": "Travis Miller",
+      "speech": "Okay, great. And then on the gas side, what are your latest thoughts on all the discussion about methane emissions? Where does that fit into your capex plan as, obviously, we've heard domestically and internationally?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes, the EPA methane rule is out now. We see clearly opportunities to improve the emissions profile, particularly that's focused on the upstream assets, exploration production and transmission storage, a little bit of a light touch on our asset portfolio. But overall, we believe the right way to drive a cleaner profile for the gas business and the gas supply chain. I would go to the other side and say one of the provisions inside the pending legislation or the proposed legislation is the methane tax, which we think is a bad mechanism. It basically just drives cost of customer without having the same -- or the same effectiveness as the EPA methane. Well, those two certainly work together, but the methane rule is a better mechanism. And that helps to drive sustainability of natural gas, and to do that in an affordable way, which we think is the right recipe."
+    },
+    {
+      "speaker": "Travis Miller",
+      "speech": "Okay. Is there any upside to the capex -- gas capex of the government in U.S. or even international were to come down really hard on methane emission?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes. Things that will handle the methane rule for the distribution entity still remain to be seen. We have to see how that rule plays out."
+    },
+    {
+      "speaker": "Travis Miller",
+      "speech": "Okay, great, thanks so much."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from David Peters from Equity Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "David Peters",
+      "speech": "Yes. Hey, good morning guys."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Good morning, David."
+    },
+    {
+      "speaker": "David Peters",
+      "speech": "Just on the higher earnings outlook of the new base -- the 2021 base. Could you maybe talk about some of the factors that are underlying that better outlook in the interim and through '24? And then I know you have a couple of bigger rate cases pending, just wondering how sensitive to the plan is to some of the outcomes that are in there? And then just related to that, maybe you could comment, where you are -- where you guys are at in those cases, I guess, specifically, Ohio?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes. Thank you for the question. Certainly, as we look at our plan, it's really built on the modernization investments that we're making. So think about 75% of those investments being tracked that gives us lots of confidence on our year-to-year earnings guidance. This year is a heavy year from a rate case standpoint. We did fall five base rate cases in our LDCs. We've got two settlements there and one other in Maryland, we're expecting get an order in December and then the Ohio and NIPSCO case that we filed will have impacts -- significant impacts from Ohio by the middle of next year and in then the fourth quarter for NIPSCO. So that gives us confidence in our earnings guidance and the strength of our overall growth plan.\nBut that's what continues and really gives us confidence as we think about that 7% to 9% EPS growth, which includes the $2 billion of generation investments that are already approved through the Indiana Commission this year. So that's the strength of our plan and that's really what gives us the confidence of being able to execute on that. Otherwise, it comes down to O&M in managing that. We kicked off our NiSource Next Transformation Program a little over a year ago. That is going well within our plan and our guidance. It really is intended to reduce costs to help offset inflation aspects for thinking long-term around customer affordability, but also improve the rigor of our processes and allow us to improve our safety and customer service to our customers."
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Yes, let me pick it up there on the related question around Ohio. The Ohio rate case, Donald touched on it, mid-year expectation in terms of the filing itself with a $221 million ask, net of rider. So there's a rider interplay there as well. But as we all know -- and not a lot to report at this time as we all know the PUCO has been very busy. And so as we see the current workload of the commission play out, we would expect momentum to pick up. No concerns with that. We're early in the schedule overall.\nBut that said, given that we're early and not a lot to report as you would expect and as we expected, discovery activities have been heavy so far, this being the first base case since 2008 for Columbia Gas of Ohio. So no surprise there. And we believe that parties to the case recognize the long duration between the cases and our strong investment history and commitment to the state across a range of different activities, including economic development. So we remain confident in the mid '22 resolutions and that's all baked into our outlook for next year."
+    },
+    {
+      "speaker": "David Peters",
+      "speech": "Great, thank you. I appreciate all the detail. I just had one follow-up just on the financing plan and around kind of some of the things being proposed in Washington. Several of your peers have talked about how meaningful direct pay could be in helping fund future renewable investments and lowering equity needs. So, assuming that option is included, I'm guessing, it doesn't impact the approved projects at all, since you've done the funding for that. But you said in the RFP the $750 million you've outlined, I think historically you've said something like 60% equity content for new generation investments. Do we effectively expect that to be materially reduced with a direct buy option?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes, let me address the equity content first. So we think for the future investments of the $750 million, potential investment that we've got. If we would not need the same level of equity content, our balance sheet is going to be in much stronger position by the end of 2023 and so certainly be in more typical regulatory cap structure of 50/50. But having said that, direct pay does provide some flexibility and potentially reducing the need for external financing or reducing equity needs. So we do see it as a positive, but we've got to get more detail really to understand how that would impact rate bases and deferred taxes to see what the pure impact would be to our financing plan."
+    },
+    {
+      "speaker": "David Peters",
+      "speech": "Okay, great. Thank you guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thanks, David. And your next question comes from Shahriar Pourreza from Guggenheim. Please go ahead."
+    },
+    {
+      "speaker": "James Moore",
+      "speech": "Hey, guys. This is James Moore here on for Shar, how are you doing?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Great. Good morning, James."
+    },
+    {
+      "speaker": "James Moore",
+      "speech": "I was just curious with the IRP if it's taking into account cost inflation for renewables in determining what the actual project cost would be and if these submitting parties are going to be held to the fixed cost or if there's any allowance for cost inflation? And I have a second question on the gas side."
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Thanks, James. I'll take that. So the estimate that we shared derives from the RFP process, which was for actionable projects toward the mid part of this decade, which align with the contemplated retirement of 16A/B and Michigan City. We have asked for a period of time for us to evaluate those projects. When we go to the RFP marketplace, we ask for the opportunity to evaluate those for a period of time as you can imagine. We are still within that window. So we would be able to execute against those bids for those proposals still into 2022 and then continue through the refinement and due diligence process thereafter."
+    },
+    {
+      "speaker": "James Moore",
+      "speech": "Right. So once you -- once the winners have been decided, just wanted to clarify if there is any potential for pass-through for higher commodity costs, higher other input costs, anything that could, delays on components etc., or if it's just like a fixed price regardless if we look the winners and I'm being curious if you thought that's decided yet?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "It's not decided yet. Generally speaking, you think about it as a fixed cost that would then relate to that project and that project is still executable through a window of time that it's been bid. That's really through 2024, 2025, maybe 2026 depending upon the project and you'd have that fixed cost related to that project associated with that technology to the extent that that bid is executed within this window that we're describing. And to the extent that you continue through the due diligence process, you might understand more or less about what it would take on the total investment side, most notably transmission to action those projects."
+    },
+    {
+      "speaker": "James Moore",
+      "speech": "Got it. Thank you for the clarification there. The second question on the LDCs, you've mentioned number of times you're seeing in excess of 10% rate base growth. First, how long should we think of that level of growth as being sustainable and then I have a follow-up?"
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yes, I'll take the sort of the long view side of that question. And if you look at the $40 billion of identified investments that we rolled out on Investor Day, just a little over a year ago, that's really predominantly on the kinds of investments that are already in flight in the gas business in particular. Electric is a little different with the transition from coal to renewables and clean energy. So, those are typically long dated programs. If you look at the underlying regulatory mechanisms, like the TDSIC gas plan in NIPSCO, there's almost a $1 billion of identified investment approved in the gas TDSIC plan. It's a multi-year beyond our '24 guidance horizon.\nSimilarly, the Ohio IRP operates that way in Virginia, the gas SAVE Program, similarly. So a lot of these are annualized programs with trackers to support them that run beyond our current 2024 long-term guidance horizon. So I'm not going to guide to a specific point in time where 10% rate base growth is predictable, that's the kind of update we'll give on Analyst Day next year. But the core point here is the underlying fundamental investment thesis is very long dated across all of the LDCs."
+    },
+    {
+      "speaker": "James Moore",
+      "speech": "Perfect, that's I was hoping you'd say and expecting there. So that leads into the second part of the question. Given the recent tracked evaluation data points that we've been seeing for where gas assets have been transacting at. How do you think strategically about your 10% plus rate base growers this long-term horizon and the potential for asset optimization to limit, other -- need for other types of financing over your forecast horizon? Thank you."
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Yes, I'll take the front end and ask Donald to touch on the financing side. So very much the same long-term strategic orientation when we look at a portfolio of companies that have that kind of fundamental growth opportunity that we see as long dated in constructive jurisdictions that's well supported, any rotation would have to be accretive to a plan that reflects that kind of growth engine build in across. Really, literally, each and every company that we operate has that same profile right now. So it's a strategic question about long-term growth first and foremost. That said, we're very open minded, very analytical about that very objective and work very closely with our Board to continuously assess that opportunity. As it comes to capital rotation and alternative forms of financing, let me ask Donald to touch on that side of the question."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Yeah, it's a good question and certainly one we've gotten in the past, we'll continue to evaluate all forms of financing to finance our growth programs and our growth plan. It is a strategic question and certainly when I think about how we enhance that plan long term, certainly as we think about that next level of generation investments here, we'll evaluate that as well to see what makes the best sense for us long term."
+    },
+    {
+      "speaker": "James Moore",
+      "speech": "Perfect. Thank you very much for the color and for taking my question."
+    },
+    {
+      "speaker": "Donald Brown",
+      "speech": "Thanks, James."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And there are no further questions at this time, I will turn the call back over to the presenters for closing remarks."
+    },
+    {
+      "speaker": "Joseph J. Hamrock",
+      "speech": "Hey, thanks, Julie. And thank you all for your questions. Let me just close by reiterating a few of the key takeaways from our release today. We are targeting the top end of our guidance range for 2021 and we initiated guidance for 2022 of $1.42 to a $1.48 that's diluted net operating earnings per share and our long-term growth commitments have been reaffirmed. I talked about it here on the call, the preferred plan for NIPSCO's IRP, now advances our plans to retire all coal-fired generation to between 2026 and 2028. And NIPSCO's portion of those investments needed to replace this capacity will be evaluated in the coming months with an expectation to roll out more clarity and precision on that at an Investor Day to be held in the latter part of the first half of next year.\nOur progress on the gas rate cases continues. We've got settlements on the table, orders awaited in three states and filing of the new case in Indiana, along with the Ohio case is pending. And finally, again we do look forward to the steps between now and an Investor Day at the end of the first half of 2022, key opportunity for us to extend this long-term growth trajectory. And we do appreciate you for joining us this morning. We know it's a busy day for all of you, so please stay safe and make it a good day. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]"
+    },
+    {
+      "speaker": "Duration: 43 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Christopher Turnure--Director of Investor Relations",
+    "Joseph J. Hamrock--President, Chief Executive Officer and Director",
+    "Shawn Anderson--Senior Vice President and Chief Strategy and Risk Officer",
+    "Donald Brown--Executive Vice President/Chief Financial Officer & President, NiSource Corporate Services",
+    "Richard Sunderland--J. P. Morgan -- Analyst",
+    "Insoo Kim--Goldman Sachs -- Analyst",
+    "Kody Clark--Bank of America -- Analyst",
+    "Travis Miller--Morningstar -- Analyst",
+    "David Peters--Equity Wolfe Research -- Analyst",
+    "James Moore--Guggenheim -- Analyst"
+  ]
+}

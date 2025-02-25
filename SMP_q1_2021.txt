@@ -1,0 +1,214 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, good day, and thank you all for joining us for this Standard Motor Products First Quarter Earnings Call. As a reminder, all phone participants are in a listen-only mode, but later, you will have an opportunity to ask questions during the question-and-answer session. [Operator Instructions]. Please note, today's session is being recorded.\nAnd it's now my pleasure to turn today's program over to Mr. Larry Sills. Please go ahead, sir."
+    },
+    {
+      "speaker": "Larry Sills",
+      "speech": "Good morning everyone and welcome to Standard Motor Products' first-quarter earnings call. My name is Larry Sills. I'm Chairman of the Board.\nWith me this morning are Eric Sills, President and CEO; Jim Burke, Chief Operating Officer; and Nathan Iles, Chief Financial Officer. Today, our agenda will be Eric will go over some of the first quarter highlights, and Jim will discuss operations and finally, Nathan will go into more detail on the numbers. Then we'll open it to Q&A.\nSo, let's go, and I'll start by turning it over to Nathan for the forward-looking statements. Thank you."
+    },
+    {
+      "speaker": "Nathan Iles",
+      "speech": "All right. Thank you, Larry and good morning everyone. Before we begin this morning, I'd like to remind you that some of the material that we will be discussing today may include forward-looking statements regarding our business and expected financial results. When we use words like anticipate, believe, estimate, or expect, these are generally forward-looking statements. Although we believe that the expectations reflected in these forward-looking statements are reasonable. They are based on information currently available to us and certain assumptions made by us, and we cannot assure you that they will prove correct. You should also read our filings with the Securities and Exchange Commission for a discussion of the risks and uncertainties that could cause our actual results to differ from our forward-looking statements.\nI'll now turn the call over to Eric."
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Well, thank you, Nathan and good morning everybody. Welcome to our first-quarter earnings call. So as always, I would like to open today by thanking all of our employees for continuing to go above and beyond. The last year has been a roller coaster and while the challenges were undoubtedly significant, I believe we've navigated it quite well, and there is no doubt in my mind that we would not have managed it as successful if it were not for the dedication and skills of all of our people around the world. I couldn't be more proud of how they guided us through. The first quarter had many high notes. Our sales were very strong, up almost 9% as we saw the ongoing market strength continue from the second half of last year.\nFurthermore, we posted the highest earnings we've ever had in the first quarter, more than doubling last year's profitability due to a combination of sales leverage and cost control. It's important to note that the first quarter of 2020 was only modestly impacted by COVID for us with a minor downturn in the last two weeks of March.\nSo while comparisons going forward will be muddy, the first quarter is a bit cleaner. Sales in our Engine Management division were up more than 5%. As previously discussed, we lost a large account and had a sizable reduction in sales to them in the quarter as they transitioned the business, but this loss was more than made up for by strong demand from our other customers.\nOff in the first quarter is March with some large pipeline orders, but that was not the case this year. Rather, we believe that our customer's strong purchases from us were the direct result of surging sell-through rather than inventory building. Their POS was extremely strong with many accounts showing gains well into the double digits.\nObviously, March POS comparisons are not relevant due to last year's March COVID shutdowns, but our customers are also up double digits against their more normalized 2019 March POS. And we are pleased to see that this trend is continuing into the second quarter with no apparent sign of abating.\nTemperature Control also posted strong sales but as stated every year, the first quarter is largely related to preseason orders, which can vary in size year-to-year depending on various factors, and the full year will depend on demand in the summer months. We are encouraged, however, by very strong POS in the quarter, which suggests that some of the purchases intended this pre-season are actually being sold through already and similar to Engine Management, these trends have continued into the second quarter. Looking forward, we are quite bullish on the market in general. Overall, industry trends are very favorable. Cars are getting back on the road. Miles driven are increasing and the repair base are getting busy again. In all likelihood, this will continue as more Americans are vaccinated and more restrictions are lifted. We believe that this will favor the ongoing recovery of the DIFM market, which is where our product categories excel. Key economic indicators are also favorable. Unemployment is dropping, and consumer spending is soaring and we expect SMP to enjoy those tailwinds.\nAs for our own initiatives, we are seeing very strong success in programs we have developed with our customers to pursue market share gains at the street level and while there are always some gains and losses, we are happy to report that we have been able to secure some new business, which annualized, will replace roughly a quarter to a third of the business that we lost.\nThis new business will begin to phase in over the next few quarters. We're also very excited about our strategy to expand our original equipment business with a focus on heavy-duty commercial and off-road vehicles targeting sectors such as heavy truck, construction, agricultural, industrial, and power sports.\nOver the past many years, we have been quietly building up this part of our business, both organically and through acquisition. As previously announced, during the first quarter, we acquired the particulate matter sensor product line from Stoneridge. This sophisticated technology, often referred to as SIP sensors is utilized in heavy-duty trucks to reduce tailpipe emissions.\nWe inherited $12 to $14 million business with blue chip customers but almost more importantly, we acquired the intellectual property and complex manufacturing capabilities to court more business in this fast-growing product category, and new opportunities are already presenting themselves.\nOverall, the OE channel accounted for over $150 million in sales last year and is the fastest-growing part of our business. We believe that we are now at a point of critical mass where we have the internal resources and competencies to support it as well as credibility with the customers to be an important supplier to them.\nWe also strongly believe that this focus is complementary to our aftermarket business for several reasons. First off, it tends to be in similar product categories and technologies, which can be leveraged in the aftermarket. Secondly, all this holds us to extremely high-quality standards, which get universally adopted throughout all of our operations and finally, we believe that in time, it will help us shift away from an over-reliance on conventional powertrains. It does this in two ways. It gets us into products for alternative energy vehicles as with our successful compressed natural gas injection program or our joint venture in AC compressors for electric vehicles or moves us further into product categories that are not powertrain-related such as many of the product types that came with the Pollak acquisition. So overall, we are very pleased with the state of the market and of our position within it. Most trends are favorable and while the COVID crisis is not completely over, we are confident that the worst is behind us and that we have emerged from it stronger than we went in both operationally and from a financial standpoint. Our core business is doing very well.\nWe have initiatives in place to take advantage of the momentum and we are very excited about our prospects in this adjacent commercial vehicle space. And as such, we look forward to the future. So, with that, I will hand it over to Jim to talk about our operations."
+    },
+    {
+      "speaker": "Jim Burke",
+      "speech": "Okay. Thank you, Eric and good morning. I'll provide some color around our operations. To begin, as you have seen in our release, our first-quarter gross margins in both segments reflected some of our best results in the last 10 years. At a very high level, this is primarily the benefit of increased production to meet our strong customer demand and the associated efficiency gains generated in our factories.\nI'm very pleased with how our manufacturing and supply chain teams adapted to meet this higher demand. Our supply chain team also addressed headwinds. First material source of supply, we faced semiconductor chip and resin supply delays. Our teams worked with our suppliers, increasing lead times and working around allocation limitations.\nFortunately, we were able to mitigate much of these supply issues with existing safety stocks and where necessary, alternate vendors. On the material inflation front, we experienced price increases on semiconductor chips, resins, and other general commodities such as copper and aluminum, but no single commodity has a significant impact on our overall cost structure. Lastly, Asia-sourced product face the same global inflation pressures, but also the compounded effect from higher container cost and vessel fees. Fortunately, our global manufacturing footprint has been of benefit as compared to our peers sourcing 100% from Asia, recall our low-cost manufacturing facilities are in Mexico and Poland with other highly skilled and less labor-intensive operations in the US and Canada.\nWe believe our NAFTA footprint provides advantages for lower cost, improve supply chain logistics, and cost avoidance. To offset these inflationary pressures, we looked internally at our margin enhancement efforts. First, to expand in-house manufacturing versus buy initiatives. In this effort, we are targeting the tool products earlier in the product life cycle to better control our costs, quality, and supply.\nNext is our new vendor sourcing initiative. This effort is driven by our overseas sourcing office working with our engineering teams to validate new vendors capturing significant cost reductions. Another internal effort is referred to as value engineering where we evaluate existing processes for automation and other cost improvements. Externally recognized and we are in a competitive marketplace, we look for pricing to offset inflationary costs incurred.\nOverall, our intent is to alleviate any cost increases and strive for incremental margin improvements. Looking forward, we will continue to enjoy increased production levels to meet our strong customer demand as we go into Q2. Our goal is to be the number one full-line supplier for premium parts in our product categories.\nOn this point, many of our customers recognize the SMP with their 2020 Vendor of the Year Award. We are thankful for this customer recognition, but still have room for further improvements to ship on time at 95% or better performance levels. I want to thank all of our operations team and all our SMP family members, who are focused on our mission to be the number one supplier across all our channels of distribution.\nThank you for your attention, and I will turn the call over to Nathan for our financial wrap-up."
+    },
+    {
+      "speaker": "Nathan Iles",
+      "speech": "All right. Thank you, Jim. Now turning to the numbers, I'll walk through the operating results for the first quarter and also cover some key balance sheet and cash flow metrics. Looking first at the P&L, consolidated net sales in the first quarter were $276.6 million, up $22.3 million or 8.7% versus Q1 last year with increases coming from both of our segments.\nLooking at it by segment,, Engine Management net sales in Q1, excluding wire and cable sales were $173.7 million, up $9.1 million versus the same quarter last year. This 5.6% increase is partly reflective of the softness we experienced in Q1 last year but also reflects continued growth in sales with the ongoing customers that they are noted for.\nWire and cable net sales in Q1 were $38.4 million, up $1.8 million or 4.7%. Sales continued to be positively impacted by strong DIY sales as consumers work on their own vehicles, but we're helped too by strong sales to OE customers as business ramped up in that channel as well.\nWhile the sales in the wire and cable business continued to be steady, the product category remains in secular decline, and we believe sales will ultimately resume a trend line of declines in the range of 6% to 8% on an annual basis. Temperature Control net sales in Q1 2021 were $62.5 million, up 21.4% versus the first quarter last year and increased primarily as a result of stronger pre-season ordering by our customers.\nAs we always point the first quarter is not indicative of how the year will turn out for the segment, as the year ultimately depends on summer weather. Turning to gross margins, our consolidated gross margin in the first quarter was 30.3% versus 27.7% last year, up 2.6 points with both of our segments reporting increases for the quarter.\nLooking at the segments, first-quarter gross margins for Engine Management was 30.7%, up 2.5 points from Q1 last year and for Temperature Control was 25.6%, an increase of 2.1 points from 23.5% last year. The higher margins in both segments remain with the result of three things.\nFirst, the higher sales volumes we experienced versus last year. Second, favorable plant absorption from inventory production in the quarter and third, the carryover impact of favorable manufacturing variances from the record sales and production levels last year.\nLooking ahead, the gross margin expectations for the year in Engine Management, we are seeing strong customer POS sales and new business wins, which should help offset the loss of the customer from a sales perspective. However, we're also facing headwinds from inflationary cost and labor, raw materials, and transportation as Jim touched on earlier.\nWhile we expect the impact of higher sales and higher costs will have somewhat offsetting effects, gross margins will vary across quarters, and we continue to forecast full-year 2021 gross margin of 29% plus for this segment. For our Temp Control segment, we continue to target a gross margin of 26% plus for the full year in 2021.\nMoving now to SG&A expenses, our consolidated SG&A expenses in Q1 declined by $1.4 million to $54.5 million ending at 19.7% of sales versus 22% last year. Expenses declined despite some higher distribution costs, mainly due to continued cost control around discretionary spending.\nAnd the improvement as a percentage of sales mainly reflects the improved expense leverage due to higher sales volumes. Looking at our SG&A cost for the full year in 2021, we expect expenses to be about $54 million to $58 million each quarter, a slightly higher range that noted on our last call as we'll see some higher expenses as a result of higher sales.\nConsolidated operating income before restructuring and integration expenses and other income net in Q1 2021 was $29.3 million or 10.6% of net sales up 4.9 points from Q1 2020.\nAs we note on our GAAP to non-GAAP reconciliation of operating income, our performance resulted in first-quarter 2021 diluted earnings per share of $0.97 versus $0.43 last year. The increase in our operating profit for the quarter was mainly due to higher sales volumes, higher gross margin percent, and slightly lower SG&A expenses.\nTurning now to the balance sheet, accounts receivable at the end of the quarter were $174.1 million, up $21.9 million from March 2020, but down $23.9 million from December 2020. The increase over March last year was due to the increase in sales during the quarter, while the decrease from December mainly reflects the timing of collections and management of our supply chain factoring arrangements. Our inventory levels finished the quarter at $390.9 million, up $20 million from March 2020 reflecting the need to carry higher balances to support higher sales levels.\nAs compared to December 2020, our inventory was up $45.4 million, mainly due to our effort to restock our shelves to normal levels. As a reminder, our inventories were depleted during 2020 due to strong sales in the last half of the year, and we expected to build back our inventories in the quarter.\nLooking at cash flows, our cash flow statement reflects cash used in operations in the first quarter of $11.4 million as compared to cash used of $32.8 million last year. The $21.4 million improvement was driven by an increase in our operating income as noted earlier and by changes in working capital.\nThe changes in working capital in the first quarter of 2021 were mainly again a result of timing and were to be expected if sales returned to normal levels. Inventory balances finished higher as we replenished our shelves, the cash used for inventory was partly offset by an increase in accounts payable.\nAdditionally, we generated cash from accounts receivable, again due to the timing of collections and management of our factoring programs while we used cash for customer rebates that were earned and accrued last year. Turning to investments, we used $5 million of cash for capital expenditures during the quarter, which was slightly more than the $4.4 million we used last year.\nWe also used $2.1 million to purchase the SIP Sensor business from Stoneridge that was discussed earlier. Financing activities included $5.6 million of dividends paid and $11.1 million paid for repurchases of our common stock. Financing activities also included $31 million of borrowings on our revolving credit facilities, which were used to fund operations, investments in capital, and returns to shareholders through dividends and share buybacks.\nWe finished the quarter with total outstanding borrowings of $42.5 million and available capacity under our revolving credit facility $206 million. Thank you for your attention. I'll now turn the call over to the operator and open it up for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Gentlemen, thank you. [Operator Instructions] We'll hear first from the line of Daniel Imbro at Stephens Inc."
+    },
+    {
+      "speaker": "Daniel Imbro",
+      "speech": "Hey, good morning, guys. Congrats on the quarter and good start to the year."
+    },
+    {
+      "speaker": "Nathan Iles",
+      "speech": "Thank you very much, Daniel."
+    },
+    {
+      "speaker": "Daniel Imbro",
+      "speech": "Eric, I wanted to follow up on how you guys are successfully offsetting this customer loss. I guess first, you noted in the release and you talked about some of your existing customers, have helped take that share. In the past, you talked about how you've been able to help that during the technician teaching, can you just update on how that's going? What kind of reception you're getting from technicians? And maybe why brand loyalty does matter in helping you gain the share back?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Sure, Daniel and that's a great question and we've always had programs with our customers to go arm-and-arm to do those installers to try to build that loyalty back upstream through our brands. This year, we doubled down on some of those initiatives. I'm not going to go into the specific tactics that we used, but really to get programs to show that in market, there are multiple sources of supply and that our brands are still very much available within the market and to help them find them and to help them make that decision. So, we don't have any exact data on market share gains or anything like that, but anecdotally, we find that it seems to be working quite well. The feedback we get from our channel partners is that they feel that it's been successful.\nSo, we're pleased with the results. But again, it's very difficult to measure market share downstream but anecdotally, we feel very good about it."
+    },
+    {
+      "speaker": "Daniel Imbro",
+      "speech": "That's really helpful. And then on the inflationary topic, Nathan, you mentioned, it's going to be a headwind to margins just on the cost side, but how are conversations going with your customers? I think, typically you guys know to pass through broad-based cost pressures, do you think that will be the same this year, I mean you can pass that during the topline? And anyway to help quantify kind of how you're thinking about that as we move through the year?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "To summarize your question you're asking about our ability to price for inflation and if I'm understanding what you're saying, and this is Eric. We're in a competitive space, always have been, but we do believe that we are in an inflationary period right now and not just for our product types, but just in general, the market is seeing commodity inflation, cost inflation, whether it's wages, materials, freight, transportation, et cetera.\nSo, we work with our customers with the hopes of being able to pass some of that through but also as Jim Burke mentioned, we also look to work on that inflation with our other cost reduction initiatives and combined, we come out hopefully OK."
+    },
+    {
+      "speaker": "Daniel Imbro",
+      "speech": "Got it. And then last one for me and I'll hop back in the queue. Just on a topical issue, with the proposals coming out of Washington around green energy and public transportation, do you guys see opportunities to leverage your JVs over in China? Thinking specifically, you guys have that EV bus joint venture over there. So, curious if there is any opportunity to maybe leverage that knowledge and bring that over here to the US? Well, there're certainly opportunities. Right now, our joint ventures in China and specifically the one you're referring to, we're doing electric vehicle compressors, our joint venture with a company called CYJ, the majority of what we're working on is to stay within the country for both pass car and heavy-duty but there are also absolutely opportunities elsewhere in the globe. We're still a very small company over there, but we see that there are opportunities really in general as you're referring to emphasis on green energy, emphasis on infrastructure spending and so on, that we think that we're well-positioned to hopefully take advantage of some of that. It's a very interesting question. Got it. Thanks so much, guys. Thanks a lot."
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Thank you, Daniel."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And our next question today is going to come from Matthew Brooklier [Phonetic]. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Hey, thanks, and good morning. I was wondering if you could talk to the large customer that was lost in the quarter, are you able to put a number to how much that impacted revenue in the first quarter? And how we should think about it going forward through the rest of the year?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Sure, Matt. This is Eric. As previously announced, this account and this was only in the Engine Management segment, represented approximately $140 million in annualized revenue and as again previously stated, we only saw a partial first quarter as they transitioned the business.\nSo, it was roughly 50% reduction of what they typically would have bought in the period and it has essentially gone from here on out from the second quarter forward."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Okay. That's helpful. And then do you have any direct recourse with this customer pulling this business from you? I know you talked about right, you're going out, you're being proactive, you're getting new customers, but is there any recourse with this customer in terms of getting something back for what they pulled?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "I'm not exactly sure I understand what you're referring to as recourse. This is still a customer bars within our Temperature Control Segment, and they chose to make a decision, we honor that decision, and we move forward, but maybe if you clarify what you mean by recourse, I can give a clearer answer."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "No, I mean if there was investment around equipment to source products for this particular customer, is there any way to recoup portion of it in that investment?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "I see, what you say. No, there was nothing dedicated to this account. It was just additional volume for the same or similar products that we sell to others in the channel. So, there was no obsolescence associated with it or anything like that if that's addressing about Matt."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Yes. Okay. Thank you. That does it for me. Thanks."
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next, we'll hear from the line of Scott Stember. Please, go ahead."
+    },
+    {
+      "speaker": "Scott Stember",
+      "speech": "Good morning, guys and congratulations on the great results as well."
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Thank you, Scott. Good morning."
+    },
+    {
+      "speaker": "Scott Stember",
+      "speech": "Can you talk about the cadence of sales in the quarter? And also it doesn't sound like you got hit nearly as bad as some of your competitors from a supply chain standpoint. Do your customers you believe have an adequate amount of inventory as we are in the early stages of Q2?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Sure. Well, in terms of the cadence of sales through the quarter, it was pretty strong throughout and as we look at their POS, for the most part within really all three areas Engine, Temp, and Wire, the first couple of months, January and February were in the low double digits and then March really accelerated, and I think you're hearing some of that from their public comments as well. Whether it was related to stimulus checks or whatever it is, but we really saw an uptick in margin and that has continued. Inventory in the channel Engine Management is normal. It's where we would expect it to be and has been pretty consistent over the last several months.\nTemperature control is an interesting story from what we have visibility of. They are roughly at the same levels that they were talking about quarter-end. So, end of March to end of March last year and as you know and as we stated, last year, their pre-season orders were light.\nSo, you would have expected their inventory would be higher now, it's not, which is further evidence that they're really selling it through rather than stocking up. And we also think that that well answers most of your questions, Scott. I think you were asking something about supply chain, if you want more on that. Sure, Jim can speak to it."
+    },
+    {
+      "speaker": "Scott Stember",
+      "speech": "Yes. Maybe Jim just give us an update there? It sounds like it's not as bad as some competitors are talking about, given your footprint."
+    },
+    {
+      "speaker": "Jim Burke",
+      "speech": "Yes and Scott, I think we may have benefited a little bit there with the inventory levels that we may have had in place and safety stocks and again part of this goes back to our efforts from over a year ago where right before COVID hit to bring product in before Chinese New Year. So, we had healthy inventory levels and the teams have just done a phenomenal job working with our suppliers, finding alternate vendors, and we've had hiccups and we've had some challenges but we seem to have worked through many of them."
+    },
+    {
+      "speaker": "Scott Stember",
+      "speech": "Got it. And then just last question on Temperature Control. You mentioned, Eric, that that I guess pull through at retail has been pretty strong. Obviously, the weather hasn't turned that warm. Is there anything going on that you're aware of from a trend perspective throughout the country that would drive that?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "It's a very interesting question. You're right, it's not that there have been heat waves or anything. So, how much of it is potentially pent-up demand for cars getting back on the road, I'm guessing that that is somewhat of an influence. And so, it's positive, but it's hard to put your finger on what's driving it. It could well be a combination of that pent-up demand and people having some excess savings from the past year that they are now investing back in their vehicles. And you're seeing that a lot of categories and perhaps air conditioning is benefiting from that as well."
+    },
+    {
+      "speaker": "Scott Stember",
+      "speech": "Got it. That's all I have. Thank you, guys."
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Thank you, sir."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] We'll hear next from Bret Jordan."
+    },
+    {
+      "speaker": "Bret Jordan",
+      "speech": "Hey, good morning, guys."
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "Good morning, Bret."
+    },
+    {
+      "speaker": "Bret Jordan",
+      "speech": "I mean I guess you're on the heavy-duty side, you were talking about in the prepared remarks, when you think about that business, is the visibility attached to the OE side greater than what you might see in the aftermarket? And how do you think about the growth rate in that segment going forward now that you sort of seem to be broadening your exposure?"
+    },
+    {
+      "speaker": "Eric Sills",
+      "speech": "It's a very interesting question. In terms of more visibility as we have because as opposed to just receiving replenishment orders and shipping and we're able to work with longer horizons with them and it is encouraging what we are seeing, I think that those sectors are also roughly in the long run that is similar, low to mid-single-digit growth.\nBut right now, they are seeing a very nice comeback and a lot of these categories that I'm referring to Bret are really very much related to some of the other growth areas that we're seeing in our economy right now, whether it's construction getting back and some of the other areas that we're now selling parts into.\nSo, we're encouraged by it. But what we're, I think, in many ways more encouraged by is the receptiveness that we're getting from these accounts as they are really learning who we are and seeing the breadth of our capabilities and the breadth of our product offering. So, for example, we acquire a company like Pollak and these accounts only know what that narrow portfolio is that they had visibility too, now we're able to show, hey, we're also in the air conditioning business. We're also in a lot of these other electronic components, and it starts to open doors. So, nothing happens that quickly, as you know as you go through negotiations, validation and so on.\nBut we're very encouraged by what we're seeing in this space and the receptiveness from the accounts."
+    },
+    {
+      "speaker": "Bret Jordan",
+      "speech": "Okay. Great. And then I guess on the inflation side, do you have a feeling I guess sort of back of the envelope? Do you think the inflation rate might be this year when you sort of compound the materials and labor, and freight, and everything what you might see sort of a percentage increase in your catalog?"
+    },
+    {
+      "speaker": "Nathan Iles",
+      "speech": "Well, hi, Brett. This is Nathan. I think maybe what Jim alluded to earlier, we're seeing some of the same impacts that other companies in the market are seeing and so when you see headlines out there, inflation in the low single digit range and that's again the headlines 1% to 3%. I think we're seeing the same thing in that area.\nSo, not any different than what you're about already."
+    },
+    {
+      "speaker": "Bret Jordan",
+      "speech": "Okay. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And gentlemen, there are no further questions in the queue at this time. I am pleased to turn the session back to Mr. Larry Sills for any additional or closing remarks."
+    },
+    {
+      "speaker": "Larry Sills",
+      "speech": "No bit closing remarks but we thank you all for attending this call. Thank you very much."
+    },
+    {
+      "speaker": "Nathan Iles",
+      "speech": "Thank you, everybody."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 34 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Larry Sills--Executive Chairman",
+    "Nathan Iles--Chief Financial Officer",
+    "Eric Sills--President and Chief Executive Officer",
+    "Jim Burke--Chief Operating Officer",
+    "Daniel Imbro--Stephens Inc. -- Analyst",
+    "Unidentified Participant",
+    "Scott Stember--CL King -- Analyst",
+    "Bret Jordan--Jefferies -- Analyst"
+  ]
+}

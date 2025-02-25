@@ -1,0 +1,475 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and thank you for standing by. Welcome to the Hexcel Q1 2021 earnings call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session [Operator Instructions]\nI'll now turn the conference over to your speaker today, Patrick Winterlich, Chief Financial Officer, please go ahead."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Thank you. Good morning, everyone. Welcome to Hexcel Corporation's First quarter 2021 earnings conference call. Before beginning, let me cover the formalities. First, I want to remind everyone about the Safe Harbor provisions related to any forward-looking statements we may make during the course of this call. Certain statements contained during this call may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. They involve estimates, assumptions, judgments, and uncertainties caused by a variety of factors that could cause future actual results or outcomes to differ materially from our forward-looking statements today. Such factors are detailed in the company's SEC filings and last night's news release. A replay of this call will be available on the Investor Relations page of our website.\nLastly, this call is being recorded by Hexcel Corporation and is copyrighted material. It cannot be recorded or rebroadcast without our express permission. Your participation on this call constitutes your consent to that request. With me today are, Nick Stanage, our Chairman, CEO and President; and Kurt Goddard, our Vice President of Investor Relations. The purpose of the call is to review our First Quarter 2020 results detailed in our news release issued yesterday.\nNow, let me turn the call over to Nick."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thanks, Patrick. Good morning, everyone, and thank you for joining us today as we share our first-quarter results. These numbers reflect the beginning of what we expect will be a gradual and steady recovery over the coming quarters as the world emerges from the economic effects of the pandemic and regains its confidence in air travel once again. The results we reported in our news release, last night, represent a solid start to the year and were largely consistent with our expectations. And we were more than pleased with how well we performed in controlling costs and delivering stronger margins. Our Hexcel team has transformed this downturn in demand into an upturn in productivity, cash management, inventory control, and efficiency. While we have a few more months of restructuring ahead of us, especially in Europe, which is on track, we are already realizing meaningful results from our rapid and robust response to the pandemic and its unprecedented effects on our business.\nAs we have previously communicated, we expect to reduce overhead costs by the middle of this year on an annual basis by approximately $150 million. And I'm pleased to report a significant portion of those savings are reflected in our first-quarter results. We expected that second half of 2020 and our first for this year would represent the troughs or the low point of the demand cycle resulting from COVID-19. Now, with Q1 behind us and a clearer view ahead, we're even more convinced that our expectations were correct, which we continue to validate via regular customer interactions, including customer site visits where this can now be accomplished safely. Keep in mind, however, the pandemic has triggered many challenges that the world has not yet fully overcome, and therefore, any substantial increases in build rates, air passenger demand, and even consumer spending remain uncertain. For example, we anticipate that 2021 will continue to be impacted by pandemic headwinds, including inventory destocking, which we expect will wind down as we move through the second quarter and to be largely behind us as we move into the second half of the year.\nSome tightness in our supply chain is always a risk, and even more so with the ever-present threat of pandemic-related slowdowns, shutdowns, and shortages. The rollout of vaccines is encouraging in some countries, yet, unfortunately, slow in others. Domestic travel in the US is showing signs of improvement and may boom by year-end. While other countries are entering their second, third, or fourth lockdowns with minimal domestic flights. International travel is still showing little sign of recovery. So, for the aerospace industry, 2021 remains a transition period between the dramatic decline triggered by the pandemic and a return to strong growth in 2022. We remain cautiously optimistic by both our demonstrated performance and the momentum we see building in the global economy as the air travel begins a gradual return to pre-pandemic levels.\nNow, let me highlight some of the results. First-quarter sales of $310 million were in line with our expectations. Adjusted first-quarter EPS was a negative $0.10 compared to a positive $0.64 last year. Throughout the pandemic, we have maintained a strong focus on cash, and in the first quarter, our free cash flow was a use of $6 million compared to a use of $19 million in Q1, 2020. Despite significantly lower sales, we continue to tightly manage cash by controlling spending, which includes capital expenditures. Liquidity at the end of the quarter was strong and included $82 million of cash and $536 million of revolver borrowing availability. Overall, our balance sheet remains robust.\nTurning to our three markets. Aerospace sales of $147 million were down more than 59% compared to the first quarter of last year, which included sales before the effects of the pandemic began to dramatically impact Commercial Aerospace. Sales were down significantly across all major platforms, which reflects pandemic induced build rate reductions by the aircraft OEMs and continued supply chain destocking. While one quarter does not make a trend, we did see sequential sales growth in the first quarter for narrow bodies. Admittedly, Boeing 737 MAX sales continue to be at a low level as the supply chain works through channel inventory. This may take some time and will be uneven as inventory levels vary across the supply chain. Sales to other Commercial Aerospace, which include regional and business aircraft, were down 48% compared to 2020. Business Jets is the largest portion of this sector and while most business jet programs were down significantly year-over-year, there were a few select programs that increased modestly. While not getting into program specifics, we are confident business jet demand will return over time, likely led by the small and mid-sized classes. Space and Defense sales were basically flat year-over-year at $112 million. We have content on over 100 space and defense programs and they fluctuate by quarter. Our space business has been growing nicely over time, yet, paused in the first quarter with softer sales which was not usual. We are -- not unusual.\nWe are beginning to benefit from the ramp in the CH-53K and we are pleased to see the growing international demand for this composite rich, heavy-lift helicopter. We are encouraged with the initial outlook through proposed US defense spending, particularly as composite lightweighting [phonetic] supports the US military focus on longer-range aircraft and rotorcraft. We expect to benefit from growth in Space and Defense throughout the year. Total Industrial sales of $51 million in the first quarter were down more than 23% and 27% in constant currency. Lower wind energy sales drove the decrease, yet were partially offset by stronger automotive sales, which may be an indication that consumer confidence is improving. Wind energy sales, which is the largest submarket in Industrial, were down more than 40% compared to last year. And reflects a previously reported softening in customer demand, as well as the closure of our wind blade prepreg production facility in North America, last November.\nWind energy remains a good business for Hexcel and Vestas continues to be a great customer. Material manufacturing continues at our plants in Neumarkt, Austria; and Tianjin, China, as well as our continuing commitment to innovation in the wind energy market. During the quarter, we announced our new HexPly XF Surface Treatment Technology that significantly reduces show manufacturing time during the wind blade production process. It's a product that has had a successful track record in prepreg blades and now is adapted for infusion processes. We also received type approval certification for our HexPly M9 [Phonetic] prepreg materials, which adds to our growing portfolio of prepreg processing options for marine applications.\nTo finish, I'd like to provide a slightly longer-term perspective. As sales recover in 2022 and beyond, we expect to deliver strong incremental margins as utilization of existing capacity increases. While we do not guide to incremental margins, what may be helpful is to review past sales levels and operating margin performance before the A350 reached peak rates. Specifically, in the 2014 to 2015 timeframe Hexcel sales were in the range of $1.8 billion to $1.9 billion, with operating margins in the range of 17%. And what is noteworthy is that the A350 production rate was ramping to five per month during these years. We believe that we can return to these margin levels when we attain similar sales levels. While our depreciation expense is now higher than during that prior time period, our focus is to more than offset this by efficiency improvements and our overhead cost reductions. Our cost base will expand with growth, but what is incumbent on our management team is to be extremely disciplined in managing cost growth and ensuring the depreciation headwinds is more than off overcome. To state this succinctly, we expect to achieve strong, mid-teens plus operating margins, with sales of approximately $1.8 billion to $1.9 billion, and we are targeting to exceed prior peak margins when we return to previous peak sales levels.\nNow, I will turn the call over to Patrick to provide more details on the numbers."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Thank you, Nick. As a reminder, the year-over-year comparison will be in constant currency. The majority of our sales are denominated in dollars. However, our cost base is a mix of dollars, euros, and British pounds, as we have a significant manufacturing presence in Europe. As a result, when the dollar strengthens against the euro and the pound, our sales translate lower while our costs also translate lower leading to a net benefit through our margin. Accordingly, a weak dollar, as we are currently facing, is a headwind to our financial results. We hedge this currency exposure over a 10-quarter horizon to protect our operating income. Quarterly sales totaled $310.3 million. The sales decrease year-over-year reflects production rate decreases by our Commercial Aerospace customers in response to the pandemic, combined with the continued Commercial Aerospace supply chain destocking. Turning to our three markets. Commercial Aerospace represented approximately 48% of the total first-quarter sales. Commercial Aerospace sales of a $147.6 million, decreased 59.7% compared to the third quarter of 2020 as destocking continues to impact our sales. We continue to expect destocking to wind down during the second quarter of 2021, consistent with what we have communicated during our fourth quarter 2020 earnings call. We don't expect to generally be aligned with OEM production levels entering the second half of 2021, with destocking largely behind us and recognizing the beneficial impact of the cost takeout actions that we have implemented.\nSpace and Defense represented 36% of first-quarter sales and totaled $111.7 million, basically unchanged from the same period in 2020. We remain bullish for the outlook for our Space and Defense business globally. Industrial comprised 16% for first quarter 2021 sales. Industrial sales totaled $51 million, decreasing 27.1% compared to the third quarter of 2020 on weaker wins and recreation market, partially offset by stronger automotive. Wind energy represented approximately 50% for first quarter Industrial sales. On a consolidated basis, gross margin for the first quarter was 17.1% compared to 26% in the first quarter of 2020. The sequential gross margin improvement from the fourth quarter of 2020 had three drivers, including greater impact from our cost reduction actions, improved sales mix, and a few more carbon fiber lines coming back online as our production levels and inventory becomes appropriately realigned with demand.\nWe continue to temporarily idle select carbon fiber assets. And as we bring further lines back into production over time to support this expected gradual and steady sales growth in future periods, this should help generate strong incremental margins. First-quarter selling, general, and administrative expenses decreased 17% or $8 million in constant currency, year-over-year, as a result of headcount reductions and continued tight controls on discretionary spending. Research and Technology expenses decreased 19.7% in constant currency. The other expense category consisted primarily of severance costs in Europe.\nWe continue to target approximately $150 million of annualized overhead cost savings, including indirect labor. As Nick said, a significant portion of these savings have been achieved and were reflected in our Q1 2021 results. We expect that most of the remainder of this cost and take-outs will be achieved by the end of the second quarter of 2021. Adjusted operating income in the first quarter was $1.9 million, which is the first positive operating income since the destocking began in earnest during the third quarter of 2020. The year-over-year impact of exchange rates was negative by approximately 10 basis points.\nNow turning to our two segments. The Constant Materials segment represented 76% of total sales and generated a 3% operating margin or an adjusted operating margin of 8% compared to 19.9% adjusted operating margin in the prior-year period. The Engineered Products segment, which is comprised of our structures and engineered core businesses represented 24% of total sales and generated a 6.4% operating margin or a 5.4% adjusted operating margin compared to 6.6% adjusted operating margin in the first quarter of 2020.\nThe tax benefit for the first quarter of 2021 was $7.5 million, which included a discrete tax benefit of $3.2 million from the revaluation of deferred tax liabilities related to a favorable US state tax law change. The pandemic and consequent mix of results across the countries in which we operate is expected to continue to have an impact on the Company's overall effective tax rate throughout 2021. Net cash used by operating activities was $1.2 million for the first quarter. Working capital was a use of cash of $26.2 million in the quarter, primarily related to increased receivables as first-quarter sales were weighted toward the end of the quarter. Capital expenditures on an accrual basis were $4 million in the first quarter of 2021 compared to $21.9 million for the prior-year period in 2020. Capital expenditures continue to be tightly managed with a focus on improving existing asset efficiency and new technology flexibility.\nFree cash flow for the first quarter of 2021 was negative $6.1 million compared to negative $18.6 million in the prior-year period, which reflects tight spending control on significantly lower sales. In late January 2021, we announced the second amendment to our revolver, which we've structured to accommodate the temporary economic impact of the pandemic. The amendment temporarily replaces the leverage covenant with a minimum liquidity covenant. The minimum required liquidity is $250 million, which includes unrestricted cash, plus unutilized revolver-based [Phonetic] availability. This minimum liquidity requirement is through and including March 31, 2022. The facility terms then revert to the prior leverage covenant, effective April 1, with the first measurement of leverage to occur as of June 30, 2022. Additionally, the amount of the revolver is reduced to $750 million from $1 billion, previously. This amendment preserves our access to liquidity during this period of market transition and reinforces our strong relationship with our bank's indication. We remain within all covenant conditions. Our total liquidity at the end of the first quarter of 2021 was $618 million, consisting of $82 million of cash and an undrawn revolver balance of $536 million [Phonetic]. Our revolver matures in 2024 and our two senior notes mature in 2025 and [Technical Issues] purchase program remains suspended and is also restricted by the previously referenced revolver amendment. Our Board continues to regularly evaluate capital allocation priorities.\nAs our earning release states, we are not providing financial guidance at this time, but I would like to reinforce and expand upon the information shared during our fourth quarter 2020 earnings call. We continue to expect 2021 annual sales to be lower than 2020, in fact, largely in line with the current market consensus. We expect the aerospace supply chain destocking to largely come to an end during the second quarter 2021. While some destocking may continue into the second half in select instances, it should be offset by strengthening narrow-body sales. Some additional restructuring costs are anticipated in the remaining quarters of 2021 but below the first-quarter level. We expect the fiscal year 2021 adjusted operating margin percentage to be in the low single digits. Capital expenditure in 2021 will continue to be managed very tightly and is expected to be at a similar level to 2020. We expect to generate free cash flow in 2021 and further reduce debt levels.\nThe tax assumption is more contrary to normal, but we expect the underlying effective rate to be approximately 25% in 2021. This change from prior rates was due to a change in the mix of jurisdictions where we generate income. Over time, we expect the tax rates to return to pre-pandemic levels assuming no changes to existing tax rates in the major jurisdictions where we operate.\nWith that, let me turn the call back to Nick."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thanks, Patrick. Our first-quarter results give us confidence in our outlook for a steady recovery throughout 2021. We believe that the aerospace industry will realize some upticks in demand beginning in the second half. And as it does, Hexcel is well-positioned to benefit from our leadership and much sought-after advanced lightweight composites from our strong customer relationships that have grown stronger throughout the pandemic, and from our continuous focus on continuous improvement through operational excellence. This also is not the time to be shy about investment in R&T and we are continuing to realize a strong pull from our customers to further drive advancements in existing and new innovations that position us to win next-generation platforms. I encourage the participants on this call to review the webinars on our website as we position for high volume aerospace composite manufacturing with liquid composite molding and thermal plastics, as well as examples illustrating how we are tailoring our innovative solutions for new and evolving market, such as urban air mobility and space. Despite all the turmoil and challenges that arose in 2020, the great strengths and values of Hexcel remain as robust as ever. We still have leading positions on the world's largest aerospace programs with our advanced composite materials and the broadest technology portfolio in our industry. The great job our team has done puts us in a position to return to substantial growth once this pandemic is behind us. Few companies are as efficient or as good at execution, or as committed to excellence as Hexcel. Our people are the most resilient and talented group that I've ever known and I'm always proud to share with you their accomplishments every quarter. For several years, Hexcel has been building capacity to meet extraordinary ramp-ups in demand. So the chance to pause with our customers, over the past few months, has afforded us a unique opportunity to ensure that we are aligned with them and in the strongest position possible to meet the growing demand at hand.\nHexcel has never been more focused on its customers, innovation, and operational excellence. We expect to emerge from these challenges as a leaner and stronger company and even better positioned for strong growth and return to shareholders.\nJulianne [Phonetic], I will now turn it over to you, and we are ready to take questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Please note that management asks that you please limit yourself to one question and one follow-up question. Thank you.\nYour first question comes from Robert Stallard from Vertical Research. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Thanks so much. Good morning."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Good morning, Robert [Speech Overlap]"
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Nick, I just wanted to follow up on that comment you made in your prepared commentary about narrow-body rates. I think you said it was up sequentially. I was wondering where Hexcel now stands relative to the production rates at Airbus and Boeing? Is the first question. And secondly, what is your sense of inventory in the chain for narrow bodies and could we actually flip over into a restocking period as these rates start to move up?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "So, Robert, we still believe there is destocking going on. As you know, our supply chain is very complex and it's at different levels depending on whether the material is being shipped to OEs, tier ones, tier twos, and tier threes. Having said that, we believe that the narrow-body rates are getting closer in line than the wide body, and certainly, we would expect more of the Q2 destocking to be weighted toward the widebodies.\nWith respect to rates, we would expect, as we go into the second half of the year, to be fairly aligned with the OE build rates, and again, the last to come into alignment are going to be, specifically, the widebodies."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "And just on the tightness in the chain for narrowbodies, what's your sense there?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "You know, again, we were expecting that both Boeing and Airbus narrow rates could trend up and increase production rates toward the second half of this year. So, I do believe there will be some sales related to restocking as the rates go back up. Clearly, there is probably some in the supply chain that have cut inventory levels down to align with very low rates, and we'll get a kiss from that as the rates rebound. So, to your point, there will be some restocking in the supply chain and that will be led with the narrowbodies."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "That's great. Thanks much, Nick."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thank you, Robert."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Ken Herbert from Canaccord. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Hi. Good morning, Nick and Patrick."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "And I just wanted to follow up, Nick, on your longer-term comments around the $1.8 billion to $1.9 billion in sales and the margin implications. With the capacity you've taken out as you get back to those higher numbers, does that represent full capacity in terms of utilization, or is that still even less optimal?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Well, again, remember our assets come online in chunks, so the assets that we bring up to support $1.8 billion to $1.9 billion will be run at -- at optimum efficiency. Having said that, remember, we were almost $2.5 billion. So, there is incremental capacity in our supply chains and in our global plants that will still be available. So, if you want to look at the total Hexcel, and you roughly size it based on the revenue drop, that gives you an indication of the asset utilization."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay. Very helpful. And just to follow up, on the first quarter, you indicated the part of the gross margin sequential expansion was from some lines coming back on. Can you talk about your plans for bringing lines back on through the remainder of this year? I mean, it sounds like, from your commentary, probably not a lot near term, but in the second half, we might see a step-change in that? Any color around that would be helpful."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Yeah, Ken, I don't know that you're going to see a step-change. But as we speak, we continue to bring on additional fiber lines and assets. You can imagine, we talk about fiber because it's so asset-heavy and rich on capital as well as driving our margin and our mix. But think about our prepreg plants, our core plants, there is assets that are idle in most of those plants [Technical Issues]"
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Hello?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Hello, Ken?"
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Yes?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Were you able to hear Nick?"
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "No, I missed the very last part of what he said."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Nick, are you still online?\nI think [Speech Overlap] Nick's line must have dropped. Julianne, can you try and get Nick back, please? I can try and answer questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Certainly."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "So, Patrick, not sure if anybody else can hear, you can hear this. But it sounds like some gradual lines come on as we go through this year, but no [Speech Overlap]"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Yeah. So I think -- I think that's what Nick -- exactly. I think that's what Nick was outlining. It's not going to be a dramatic step change, it's going to be a gradual increase in production levels as we go throughout the year, as we bring the lines on, we'll look to sort of strongly utilize each incremental line. We won't bring up lots of lines and use them at 20% level. We'll bring up one at a time and use it at 80%, 90%, and then we'll bring the next one up, and fill that up. But it will be a gradual and steady increase, rather than a dramatic step up in -- at any point in time."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Great. All right, thank you."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Hey. Thanks, Ken. I am sorry. I got disconnected, but I've rejoining now."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Great, thanks. So I think I'm all about good with Patrick. So, thank you very much."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Okay, Ken. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Robert Spingarn from Credit Suisse. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Hi. Good morning."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Good morning, Rob."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Morning."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Turning to wind. With Vestas buying out Mitsubishi in the offshore area, does that increase your access to the offshore part of the wind market going forward?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "So, you know, we've got a long relationship with Vestas and we are working with them on new technologies, one that I noted in the script today with our Surface Treatments. But most of those blades continue to be via infusion processing, which does not lend itself to the type of production that we had in the US, or what we're doing in Tianjin, or in Neumarkt, today.\nSo yes, it will provide us access to continue to implement new technologies, but it will not most likely be related to blade shell manufacturing for the prior technology."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. And then just as a follow-up. Patrick, you mentioned earlier that sales mix was one of the three drivers of margin in the quarter. And I was going to ask if you could just elaborate a bit on that?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Allow me to say that the mix was pulling through a bit more of our carbon fiber than we've seen in the previous couple of quarters. And then, just one or two programs with favorable pricing and that combination just gave us a better overall mix, and essentially variable margin, which drives the gross margin within the company. And as I said, that combined with more carbon fiber production and the strong cost control, really gave us the very positive gross margin in the quarter."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thanks, [Speech Overlap] Robert."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from David Strauss from Barclays. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "David Strauss",
+      "speech": "Morning, everyone."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Morning."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Good morning, David."
+    },
+    {
+      "speaker": "David Strauss",
+      "speech": "So, just a follow-up there on Rob's question. So, Composite Material, Patrick, you talked about a 8% margin in the quarter. You're talking about margins, low-single-digit for the full year for the -- in spite of the total level. Was there anything unusual at Composites in the quarter that would kind of imply that things step down from here or don't -- don't go up, weren't higher with additional volume as we go throughout the rest of the year?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Yeah. So, what I would say is that over the next several quarters, there is going to be a general steady increase in performance. Now, quarter-to-quarter, it may be a little bit lumpy. But I would say, Q1 was kind of in the ballpark, the mix was particularly strong. So, we should be there or thereabouts now, going forward. And if I look over, sort of a longer sort of time frame, four quarters or six quarters, it should -- we should see steady increases as we get more top-line leverage against the cost base."
+    },
+    {
+      "speaker": "David Strauss",
+      "speech": "Okay. And then a follow-up question on the, I guess, for Nick, on its margins -- comment around margins getting back to kind of a similar level that you were at when you were doing $1.8 billion, $1.9 billion revenue before. How does mix kind of factor into that by end market? I would think, out there, you're potentially looking at a lower mix of Commercial Aerospace, getting more heavy -- heavier on Space and Defense. Does that -- does that mix potentially negatively impact the margin outlook?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "I don't think between Commercial Aerospace and Space and Defense, there is going to be a big change in the complexion of Hexcel and the mix impacting yet. What I would say is the Wind, as you know, is a lot lower margin business, and the North American transition and our closure of our site there, that's going to go on the positive direction. So, overall, David, I don't see a big change being driven by heavier Space and Defense as a percent of sales going forward."
+    },
+    {
+      "speaker": "David Strauss",
+      "speech": "Okay. Thanks for the color. Appreciate it."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thank you, David."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Mike Sison from Wells Fargo. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Mike Sison",
+      "speech": "Hey, guys. Just a quick question on Industrial, longer-term. It was a platform that you had looked at for growth and acquisitions, potentially. What do you think -- when you think about that $1.8 billion, $1.9 billion, how does industrial sort of fit in, and what's the potential for that segment, longer-term?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Well, Mike, we -- we've been really [Phonetic] focused on the Total Industrial, and again I'll remind everyone that the way we track it, it consists of 30, I think 32 subsegments, everything from Wind, Automotive, to Marine to Winter Sports rec, tooling, the list goes on, and on.\nWe still are very excited about the opportunities within Industrial. Clearly, Wind, Automotive, Marine are some of the sectors that we see more near-term growth, but solar fuel cells, other industrial applications, pressurized tanks continues to be a spot that we are looking at. Not to go into areas that we view is more commoditized, but look at areas where we can introduce our new technology, innovative solutions that help position a differentiated sustainable competitive advantage with our customers. So, Thierry Merlot leads -- and I'm looking forward to the opportunities that the team are identifying and that we're prioritizing going forward."
+    },
+    {
+      "speaker": "Mike Sison",
+      "speech": "Got it. And just one quick one on Commercial Aerospace. Since you commented on comfort with consensus, first half looks like to be about $630 million in sales, second half about $750 million. Is that the delta between the run rate?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "So, obviously, I only you kind of alluded to the annual consensus number and we're not going to get into the course of the detail. But, I think that kind of steady traffic stat is a [Technical Issues] likely [Phonetic] shape of the year. And obviously, a large portion of that is the destocking, completing, finishing a [Indecipherable] as we come out of the first half of the year, going into the second half, yet."
+    },
+    {
+      "speaker": "Mike Sison",
+      "speech": "Valid. Thank you."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thanks, Mike."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Richard Safran from Seaport Global. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Richard Safran",
+      "speech": "Nick, Patrick, Kurt, good morning, if I will."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Good morning, Rich [Speech Overlap]"
+    },
+    {
+      "speaker": "Richard Safran",
+      "speech": "So, I wanted to ask you if you could expand on your working capital comments. Am I right that you're seeing an end to the cash flow benefit from inventory reductions? You noted in the quarter the increase in receivables, I think your original expectations were working capital would level off in '21. I want to know if that's still the case? And, in your answer, if you could comment on the cadence for the rest of the year."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "So, yeah. I think you pretty much got it right there, Rich. Essentially, last year, we drove fantastic working capital benefit, about $116 million, we squeezed inventory dramatically until the receivables reflected the change, the decline in sales offset by payables. This year our scope to squeeze that further, I think as we called out and you just mentioned, is much less. We don't expect to get a lot more out. We will manage it as timely as we can in terms of the relative days of inventory and controlling our days of receivables. Receivables will move a little bit depending on the mix of customers, the timing in a given quarter, etc. But we expect working capital to be relatively neutral, overall this year, is the way I would put it."
+    },
+    {
+      "speaker": "Richard Safran",
+      "speech": "Okay. Thanks for that. And then quickly, in reference to your remarks about cost controls, you noted in the filings that you reduced headcount by about 35% globally. I think with the volume increasing, I'm just wondering if you're now happy with the balancing struck between anticipated volume and headcount?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "So [Technical Issues] I'll give you my perspective on it. I am very pleased with how quickly our team right-sized our business on direct headcount, as well as driving [Technical Issues] efficiencies and finding opportunities to reduce our indirect -- indirect headcount as well. So, where we sit today, as we bring lines up, as we increase our production to align with customer demand, clearly we're bringing in direct resources, but we're also finding opportunities and continuing to look for efficiency before we bring in heavy indirect resources, going forward.\nSo today, we're close to right-size. We still have some restructuring ongoing, as we mentioned in Europe, which takes longer. So, we'll be doing both, some additions in areas where demand requires it, and some additions to -- or reductions to continue to drive efficiencies."
+    },
+    {
+      "speaker": "Richard Safran",
+      "speech": "Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Pete Skibitski from Alembic Capital Global. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Pete Skibitski",
+      "speech": "Hey. Good morning, Nick, and Patrick, and Kurt. Hey guys, just want to talk more about widebodies, the 787 and A350, in particular. I'm just wondering how the visibility is there? I know we expect the inventory kind of dwindle down this quarter, maybe in the third quarter. But, Patrick, you mentioned really bad levels of international traffic. So, I'm wondering how your visibility is and what's your confidence level is that the real kind of demand-pull will be there and start to ramp in the back half of the year on the widebodies?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "So, let me start and touch on the fact that Q1, clearly, destocking was a heavy element on the widebodies, and we were nowhere near our customers publicly stated production rates. Having said that, and again, I think if you read the reports from the airlines, and a lot of the tracking firms and companies, they are expecting the domestic growth to come back fairly robustly in the US, hopefully by the end of the year, and international to lack. I, for one, am a big believer there is tremendous pent-up command for winter travel, international. I think the business travel is the element that is a question on how companies will evolve post-pandemic to do business, but I, for one, can tell you, Hexcel will be traveling internationally to support our customers, to support our suppliers, to support our plants. And I believe it will go back to pre-pandemic levels. It's just a question of how much time. And it will lack domestic flight return."
+    },
+    {
+      "speaker": "Pete Skibitski",
+      "speech": "Okay, OK. Last one for me. Just wondering, what's the tipping point for when you kind of restart the repurchase program and reinstate the dividend?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Well, we talk about that with the board every quarter, at least every quarter and every Board meeting, we're monitoring that and the share repurchase program. And [Technical Issues] we still have certain restraints that are built into our amended facility. So, we're monitoring that as well. So, I think perhaps later this year, we'll be in a better point to give more guidance on that. But right now, we're in the launch mode, we're conserving cash, we're controlling our spending. And mostly, we're focused on aligning with our customers, the anticipating [Phonetic] the ramp-up."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "And just to note, we are restricted on the share repurchase until the current amendment finishes at the end of March 2022."
+    },
+    {
+      "speaker": "Pete Skibitski",
+      "speech": "Thanks, guys."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thanks, Pete."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Paretosh Misra from Berenberg. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Paretosh Misra",
+      "speech": "Thank you. Good morning, Nick, Patrick, and Kurt. Just a quick one on your 737 MAX sales. Did you see any sequential improvement in the MAX sales in Q1? And, I guess, any other color you could provide on inventories at different points in the supply chain with regard to the MAX?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Yes. I mean, net sales, big step up as did A320. We saw narrow-body rates and sales increases, Q1 over Q4, on that sequential basis. Whereas we saw wide-body decreases, Q1 over Q4 was pretty much as you would expect, and what we expected is particularly with the 797 build rate reduction being one of the sort of the later programs to come down. So, and to simple answer your question, yes, the MAX sales stepped up, Q1 over Q4."
+    },
+    {
+      "speaker": "Paretosh Misra",
+      "speech": "Thanks, Patrick. And then, just another follow-up, I guess, now. Your SG&A and Research and Technology expenses for this year, any thoughts on how those might look on a full-year basis versus the last year?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Well, I'm not going to get into specifics. I think R&T expenditure has probably bottomed out. We would probably expect to see that sort of now gradually step up. I mean, Nick talked a lot about sort of the investments in R&T and integration, which is critical, and we're going to keep pushing that forward.\nSG&A, obviously, Q1 is a little bit unusual with the stock comp charge. We're stripping that out. We will continue to maintain tight cost controls over time as the business grows. That-that will -- will step up, but we will manage that as strongly and as disciplined as a way as we can."
+    },
+    {
+      "speaker": "Paretosh Misra",
+      "speech": "Great. Thanks, guys."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Gautam Khanna from Cowen. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Yeah, thanks. Good morning, guys."
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Patrick, maybe a specific question, following up on David Strauss' question about composite materials through the year. I'm just curious, do we -- there were a couple of quarters where we were negative operating profit. Do you expect it to remain positive throughout, and I'm asking because we also -- in Q3, there tends to be some seasonality in terms of number of working days and the like. But just to be clear, is there -- we're expecting positive operating profit levels like CM throughout the year, is that fair?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "Yes, I mean, I think that's fair. I mean, the exact sort of percentage level will fluctuate and that's up and down a little bit, but I think we are now moving into positive territory for Composite Materials, yeah."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Okay. And then, second question on that. Just, can you remind us of any sort of seasonality we should be aware of in Q3, in particular, or are we just bucking all seasonal -- seasonal trends, given the destocking dynamics?"
+    },
+    {
+      "speaker": "Patrick Winterlich",
+      "speech": "I mean -- I mean there obviously still is a little bit of underlying seasonality. You've got the European August, if you like, effect where we get a bit of a slowdown. You've obviously got the end-of-year holiday season in December, the Christmas, New Year, whatever. So, you've got -- that is always there. But perhaps, it has been disguised or overwhelmed to some extent by the pandemic through 2020. The pandemic impact of destocking will lessen. And so, yes, I mean, I think where we've historically seen Q3 and Q4, those impacts will still be there going forward. But -- and will be more prominent, if you like, as the destocking becomes less and less."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Okay. And on the destocking point, sorry, another question here. In the past you've talked about outlook on the A350 in terms of the number of different subcontract manufacturers to Airbus that Hexcel sells to. And I imagine that's true on the 87 [Phonetic] and other programs. So, it's not just direct to the OEM. Can you talk about, are you seeing any major outliers with respect to where they are in their inventory journey, or I mean, are we finally getting to the point, three quarters in the destocking where more or less everyone's aligned with whatever rate. Yeah, I'm just curious if you're seeing any bizarre outliers with respect to how quickly they've responded?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Yeah. So, just a reminder, on A350 alone, we shipped to more than 40 different locations, including OE tier ones, tier twos, and beyond, globally. So you can imagine that total alignment and everybody to be at the exact same place is just not going to happen. It never does. Everybody is a little different. Having said that, we are communicating regularly. We've got great relationships and people touching our supply chain throughout the A350. And, we really haven't identified any party that's wildly high or wildly low, and expect it to be a material driver in our recovery or destocking on the A350 program, specifically."
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "speech": "Thanks very much, guys."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Michael Ciarmoli from Truist. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Hey. Good morning, guys. Thanks for taking the question. Maybe just to put a little finer bow on kind of the narrowbodies and production rates. So, are you guys effectively then tracking with sort of Airbus' plan to be at 45 a month on the A320 by 4Q '21? And then, it sounds like you're not going to give us specifics on the MAX, but the confidence level to get to 30 of them per month, [Indecipherable] that some of these electrical issues really, seemingly modest, but you know, effectively rails enough momentum. But can you provide any specifics on the rate alignment with those programs?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Yeah. So, Michael, perhaps not to the level of detail that you're looking. But you can imagine, w are talking with Airbus and Boeing constantly. And doing scenarios on upside scenarios and growth to make sure that the supply chain is aligned. And I can assure you that we are aligned with them today. We are prepared and ready as they're ready to ramp-up, going forward. Airbus' rates that they've communicated ramping their 43, then 45 this year. And Boeing's intent to get to 31 next year. We are fully in line with that and really not much more to say other than we're rooting for them and the airlines and passenger travel to continue to grow and require those airplanes."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it, got it. And then, just a follow-up on the widebodies. Clearly, internationally, you called it out, still weak. Is there any scenario where you see downside to rates there on either of the platforms, you know, assuming international airline financials remain depressed? I mean, either pent-up demand will help, but it seems like they really need to get back to profitability, and then how are you guys looking at your scenario planning for widebodies? Are you comfortable here that sort of, we're at bottom, or is there a chance in the way you see -- we see another modest step-down or even a lower for longer scenario before we really see any ramp up?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Yeah, I'll really leave it Boeing and Airbus to provide guidance on specific rates and risk of downside. I would remind everyone that there have been a tremendous number of older aircraft that are parked today and that have sat idle. And the longer those aircraft are parked, probably a lower probability that they'll come into the existing fleet as traffic grows. So, the demand for the new, safe, efficient 787, A350, we believe is a long-term growth prospect. And we're very excited and we're bullish as the pandemic comes to a close and we believe people will feel comfortable traveling again and visiting those countries, those areas that they did pre-pandemic."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it. Perfect. Thanks then."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your last question will come from Sheila Kahyaoglu from Jefferies. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Thanks, guys. Good morning, Patrick and Nick. Just one question for you guys. Nick, maybe for you, since it was in your script. Back in the fall, you had previously talked about double-digit margins and timing of reaching it, and now it seems you guys could reach mid-teens' level when A350 reaches five per month and that could be as soon as Q4. So, I guess, what's changed over the past few months that you've kind of gone from potentially reaching double-digit some time in maybe 2022 to mid-teens?"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Well, Sheila, I think, maybe you've heard incorrectly on what we actually stated. What we gave were revenue ranges of $1.8 billion to $1.9 billion, and we sighted 2014-2015 when the A350 was ramping to five per month. A similar type scenario toward the A350 is today or moving to based on Airbus' communication that they're planning to stay applied per month.\nSo, our point there was the work we've done, the efficiencies we've driven, the cost actions we've taken, even in light of the increased depreciation, we believe that we will deliver similar margins in the mid-teens when we achieve those sales revenue numbers. So, we were given a timing for this year or next year. It was based on when we achieve those sales levels."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Okay. No, I understood. I just to -- I just assumed that the destocking would be over in the second half on the widebodies. So I assumed that you could potentially reach a rate of five per month on the A350. But, of course, there's other factors that go into that. Okay -- [Speech Overlap]"
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Well, on -- on -- on your specific point on the A350 and being well aligned closer to five which Airbus is producing at, we believe when we will be at that level in the second half of the year."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Okay. All right. Thank you very much."
+    },
+    {
+      "speaker": "Nick L. Stanage",
+      "speech": "Thank you, Sheila."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 61 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Patrick Winterlich--Executive Vice President and Chief Financial Officer",
+    "Nick L. Stanage--Chairman, Chief Executive Officer and President",
+    "Robert Stallard--Vertical Research Partners -- Analyst",
+    "Ken Herbert--Canaccord Genuity -- Analyst",
+    "Robert Spingarn--Credit Suisse -- Analyst",
+    "David Strauss--Barclays -- Analyst",
+    "Mike Sison--Wells Fargo -- Analyst",
+    "Richard Safran--Seaport Global -- Analyst",
+    "Pete Skibitski--Alembic Global Advisors -- Analyst",
+    "Paretosh Misra--Berenberg -- Analyst",
+    "Gautam Khanna--Cowen -- Analyst",
+    "Michael Ciarmoli--Truist Securities -- Analyst",
+    "Sheila Kahyaoglu--Jefferies -- Analyst"
+  ]
+}

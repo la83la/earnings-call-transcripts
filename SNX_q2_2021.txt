@@ -1,0 +1,280 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good afternoon. My name is Jeff and I'll be your conference operator today. I would like to welcome everyone to the SYNNEX Second Quarter Fiscal 2021 Earnings Call. Today's call is being recorded and all lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session.\nAt this time for opening remarks, I would like to pass the call over to Liz Morali, Head of Investor Relations. Liz, you may begin."
+    },
+    {
+      "speaker": "Liz Morali",
+      "speech": "Thank you, Jeff, and good afternoon to everyone. Thank you for joining us for today's call. With me today are Dennis Polk, President and CEO and Marshall Witt, CFO.\nBefore we continue, let me remind everyone that today's discussion contains forward-looking statements within the meaning of the Federal Securities Laws, including predictions, estimates, projections or other statements about future events, including the benefits of the proposed merger to our various stakeholders, timing of the merger, capital structure and growth. Actual results may differ materially from those mentioned in these forward-looking statements as a result of risks and uncertainties discussed in today's earnings release, in the Form 8-K we filed today and in the Risk Factors section of our Form 10-K and our other reports and filings with the SEC. We do not intend to update any forward-looking statements.\nAlso during this call, we will reference certain non-GAAP financial information. Reconciliations of GAAP to non-GAAP results are included in our earnings press release and related Form 8-K available on our Investor Relations website ir.synnex.com. This conference call is the property of SYNNEX Corporation and may not be recorded or rebroadcasted without our permission.\nI will now turn the call over to Marshall. Marshall?"
+    },
+    {
+      "speaker": "Marshall Witt",
+      "speech": "Thanks, Liz, and thank you to everyone joining us for today's call. Before getting into the details of the quarter's performance, I would like to remind everyone that the year-ago quarter was the first full quarter impacted by the COVID-19 pandemic. Given the significant negative impact that this had on our fiscal Q2 2020 results, the year-over-year comparisons that we discuss today are greater than normal in magnitude.\nOur fiscal Q2 results came in well ahead of our expectations, fueled by continued strong demand environment. Total revenue for Q2 was up 31% year-over-year to $5.9 billion. Gross profit increased 20% or $55 million compared to the prior year to $329 million. Gross margin was 5.6%, down from 6.1% in the prior year, primarily due to product mix.\nTotal adjusted SG&A expense was $159 million or 2.7% of revenue, down $14 million compared to the year-ago quarter, primarily due to COVID-related expenses in the prior year. Non-GAAP operating income was $170 million, improved by $68 million or 67% versus the prior year and non-GAAP operating margin was 2.9%, up 62 basis points year-over-year. Q2 interest expense and finance charges were approximately $23 million and the effective tax rate was 25%, both in line with our expectation. Total non-GAAP income from continuing operations was $109 million, up $44 million and improved by 68% over the prior year. And non-GAAP diluted EPS from continuing operations was $2.09, up from $1.26 in the prior year.\nNow turning to the balance sheet. We ended the quarter with cash and cash equivalents of $1.7 billion and debt of $1.6 billion. Accounts receivable totaled $2.5 billion, down 12% year-over-year and inventories totaled $2.7 billion, flat from the prior year. Our cash conversion cycle for the second quarter was 26 days, 17 days improved from last year. The decrease was driven by DSO improvements and better inventory turns. Cash generated from operations was approximately $280 million in the quarter. And including our cash and credit facilities, we had approximately $3.1 billion of available liquidity.\nWe are pleased to report that our Board of Directors have approved a quarterly cash dividend of $0.20 per common share for the current quarter. The dividend is expected to be paid on July 30, 2021 to stockholders of record as of the close of business on July 16, 2021.\nBefore moving to our Q3 outlook, let me provide a brief update regarding our proposed merger with Tech Data. Since our announcement in March, we have established the capital structure for the planned merger through a new $5 billion credit facility and are on track with the debt financing for the merger.\nNow moving to our outlook for fiscal Q3. Revenue is expected to be in the range of $4.95 billion to $5.45 billion. This estimate does not contemplate any impact related to the customer consignment change that we have previously spoken about. At this time, we no longer expect the change to occur within our fiscal 2021. Non-GAAP net income is expected to be in the range of $99.9 million to $110.4 million. And non-GAAP diluted EPS is expected to be in the range of $1.90 to $2.10 per diluted share based on weighted average shares outstanding of approximately 51.9 million. Our Q3 non-GAAP net income and non-GAAP diluted EPS guidance exclude the after-tax cost of $7 million or $0.13 per share related to the amortization of intangibles and $5.3 million or $0.10 per share related to share-based compensation. Please note that these statements of our third quarter and fiscal 2021 expectations are forward-looking and that our actual results may differ materially.\nI will now turn the call over to Dennis."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Thank you, Marshall, and thank you to everyone joining our call. I want to start off with a special thank you along with much appreciation to our associates for delivering very strong results in Q2. With our quarter starting off with the Tech Data merger announcement, there was a potential of this news being a distraction to our daily efforts. As expected though, our team executed very well, provided exceptional service to our customers and continued to expertly manage through the ongoing dynamics of our industry and the pandemic.\nFor Q2, our results came in above our internal expectations due to continued demand for remote capability, digital transformation, the ongoing recovery of office and data center IT purchasing and overall above-market growth. Essentially, every product category we participate in saw strength in the quarter, most notably notebooks, Chromebooks, cloud, security, services, networking and collaboration. Our manufacturing business also performed very well with results above the high end of our internal forecast.\nThe demand came from across most all our customer segments with SMB and public sector leading the way. From a geographical perspective, all regions were at expectations or better.\nRegarding our proposed merger with Tech Data, everything is going well. As Marshall mentioned, we are set up for an effective financing of the transaction. Our proxy has been filed and our shareholder meeting will be held next week. And from a regulatory standpoint, we have received clearance from a number of governmental authorities and expect the rest to process through normal course. As would be expected, the COVID pandemic has led to review delays in some countries. We still believe our transaction will close in the second half of 2021, reflective of the typical six to eight months announced to close time frame for a deal of this size and complexity.\nSince the announcement of the transaction, we have continued to receive internal and external support for the merger. The integration work we have performed since the announcement, albeit limited due to regulatory rules, further supports the strategic benefits of this deal that we discussed in March. We look forward to sharing more when the transaction closes later this year.\nMoving to our outlook. Our priority remains on the health and safety of our associates. As we enter the second half of calendar 2021, we are thankful for the effectiveness of the vaccines and are hopeful that all who desire one will have access as soon as possible. Overall, we are optimistic about the IT spending environment, given the current strong demand, the expectation of more geographies reopening and the resumption of on-premise enterprise IT projects. We believe these factors represent potential tailwinds for our business.\nSpecific to our Q3 guidance. We are planning for continued growth in our distribution business but have added a bit of conservatism in the forecast this quarter given the widely reported supply chain component challenges. Considering our current backlog, still very strong, we know the business is there. It just remains to be seen when it will transact.\nFor our manufacturing business, we use the low end of our internal range for forecasting purposes. This low end for manufacturing will reflect the decline over Q3 last year. This is a result of the very strong prior-year quarter, the over-forecast achievement in Q2 of this year and the overall unpredictable nature of this business. Taking all these factors into account, we believe our Q3 view reflects a balanced outlook, which incorporates all the various puts and takes of the current environment. Hopefully a conservative view, and as always, we'll strive to do better.\nIn closing, I'd like to thank our customers and vendor partners for putting their trust in us to assist in growing their businesses, and as always, our outstanding team of associates whose daily efforts are the reason for our success. I am confident with ongoing execution we will continue to progress on our stated strategy of improving our core business, driving organic growth, increasing our value-added services and products and successfully closing our proposed merger with Tech Data.\nWith that, I'd like to open up the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We request you to limit yourself to one question and one follow-up. First question from the line of Ruplu Bhattacharya of Bank of America. Your line is open."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Hi. Thank you for taking my questions. My first question is on margin performance. Marshall, can you help us bridge the operating margin between fiscal 1Q and fiscal 2Q sequentially? Looks like you had stronger than expected revenue performance. I mean, revenues were up $900 million plus sequentially. Just -- it looks like operating margins were down about 26 bps. How much of that was FX, how much of that was mix related and how much of that was COVID related costs? If you can just help us bridge that margin performance?"
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Sure. [Indecipherable]"
+    },
+    {
+      "speaker": "Marshall Witt",
+      "speech": "Yeah. Most of it was just mix related in terms of the sequential relationship from Q1 to Q2. If you look at the underlying performance of the various sectors of our business, they all did very well. It was a good overall balanced contribution from all locations and as Dennis said in his remarks, across the spectrum of products and end markets."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "And, Ruplu, I would just add, we performed very well now through Q1 and Q2. So in Q2, we had some compensation accruals we had to make to recognize that strong performance by the team."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Okay. Okay, thanks for the details on that. Maybe for my follow-up, can you talk a little bit about the higher consignment model transition? Did I hear correctly that that transition will not happen in 3Q or 4Q of this year? And when it does happen in fiscal '22, what is the expectation for revenues per quarter impact?"
+    },
+    {
+      "speaker": "Marshall Witt",
+      "speech": "Ruplu, you're right. For 2021, as I said in my prepared remarks, we don't anticipate a transacting taking place this year. As we think about next year, we will have to face that when we get there. As we've said previously, the overall economics on a profit dollar basis, assuming ongoing growth in relationship with this customer should not change, but the types of services that we provide will change."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "And just my only follow up, Ruplu, would be, we're just staying flexible and assisting our customer in their needs. Clearly the consignment program is taking longer to execute and when they desire to do so be it whatever time in 2021, we'll help them out at that time."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Okay, great. If I can just squeeze in one more. Just, Marshall, on the -- on your capital allocation plan, I know the transaction is expected to close later this year. In the meantime, are you -- do you still have a share repurchase authorization list? How much is left on that? And just your thoughts on your inorganic growth versus spending on buybacks till that transaction happens."
+    },
+    {
+      "speaker": "Marshall Witt",
+      "speech": "Ruplu, yeah, right now as we said in our March discussion with you in regards to not only our results, but the merger, our overall goal right now is to ensure that we keep our leverage ratios appropriate as we enter into the transaction. We do have an open repurchase program in place. But we anticipate that to be more anti-dilutive than it is actually going beyond that. So that would be our intent heading into the merger.\nAnd just in terms of the overall just allocation of dividends, we're happy to announce another $0.20 this quarter. That won't change as we move forward. But we really are thinking about keeping the position of strength we have on a real strong current and long-term capital structure really well laid out as we go into the merger."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya",
+      "speech": "Okay. Thanks for all the details. Appreciate it."
+    },
+    {
+      "speaker": "Marshall Witt",
+      "speech": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question from the line of Vincent Colicchio of Barrington Research. Your line is open."
+    },
+    {
+      "speaker": "Vincent Colicchio",
+      "speech": "Yeah. In your prepared remarks you talked about most -- some of the regulatory approvals that have occurred already. Does that -- was that most of the approvals? What -- to what extent are approvals remaining in the balance?"
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Hi, Vince. This is Dennis. Yeah, so we had -- we have about 20 regulatory approvals to work our way through. And I'd say at this point, we're more than halfway through."
+    },
+    {
+      "speaker": "Vincent Colicchio",
+      "speech": "Okay. Thanks for that clarity. In terms of supply chain constraints, where are the biggest constraints? Any color would be helpful."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Yeah, really, Vince, across the board. Yeah, it's in client devices constraints, networking, certainly CPUs, even displays and some print products. So there wasn't a major product category that we serve that has not been affected by supply chain challenges, certainly over the last quarter, but really frankly over the last 15 to 18 months."
+    },
+    {
+      "speaker": "Vincent Colicchio",
+      "speech": "Thank you. Nice quarter."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question from the line of Jim Suva of Citigroup Investment. Your line is open."
+    },
+    {
+      "speaker": "Jim Suva",
+      "speech": "Thank you. In your prepared comments you mentioned about your forecasting and being conservative on the outlook. My question is regarding that conservativism. Is it probably accurate that your lead times and visibility for the demand side is better than expected, but you're being more conservative on the ability to procure supply or are you also discounting the demand to some extent?"
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "No. I'd say -- Jim, thank you for the question and glad to hear you back covering our account again. Thank you. I'd say that it's really more the completion of the product and delivery is what's making us most cautious so the lead time is causing the conservative aspect in our guidance. I should say, I don't want our investors to oversteer too much on this conservatism that we're placing on our forecast. To put a number around it, it's about $150 million to $200 million that we reduced from what would be our normal forecast for the higher or elevated challenges in the supply chain that we're experiencing right now.\nAs I responded to Vince a few seconds ago, supply chain challenges have been going on for a good year and a half plus. But it's just an elevation in the tightness, if you will, of SLAs and everything it takes to get products to our customers we decided to be a little more conservative this quarter to the tune of about $150 million to $200 million."
+    },
+    {
+      "speaker": "Jim Suva",
+      "speech": "Great. Thank you so much for the detail and additional commentary. It's greatly appreciated."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Thank you, Jim."
+    },
+    {
+      "speaker": "Marshall Witt",
+      "speech": "Thanks, Jim."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question from the line of Adam Tindle of Raymond James. Your line is open."
+    },
+    {
+      "speaker": "Adam Tindle",
+      "speech": "Okay. Thanks. Good afternoon. Dennis, I wanted to start, you talked about getting internal and external feedback since announcing the transaction. You've had more time to talk to both vendor partners and to customers. I'm just wondering if you could double click on feedback from each of those cohorts and how should we think about potential revenue synergy and dissynergy associated with that."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Yeah. Adam, thank you for the question. So what I wanted to first start off with is the positive feedback is from what we classify as our four main constituents, our associates, our customers, our vendors and our shareholders. So since our announcement, we have received, again, positive feedback and recognition from all four categories, if you will.\nSpecific to your question regarding our customers and our vendors. So our customers are positive because they see us having a larger platform to service all their needs. SYNNEX prior to the merger more of a niche from a vendor perspective and a geography perspective. But combined with Tech Data, will be able to service customers with all product sets and all geographies. So very, very positive and consistent feedback from that customer set as a result.\nFrom a vendor side, again positive feedback from the fact that we'll have, again, a global platform to service vendor needs, wherever they want to sell their products. And as important we will be combined and able to consolidate our investments to invest where their business is going, either an as-a-service cloud or any other next-gen IT product."
+    },
+    {
+      "speaker": "Adam Tindle",
+      "speech": "Okay. Again I guess I just asked because when Tech Data acquired Avnet TS one of their main competitors talked about $300 million or so of owner [Phonetic] share shift as those [Phonetic] customers were seeking to diversify. Just wondering if the investors should expect -- obviously long term makes a lot of sense, but near term any expectations for synergies to the tune of that sort of a magnitude?"
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Adam, our expectation is to grow the combined business. And we know through every acquisition prior and we expect through this acquisition when we service your customer and your vendor partners well, you get more business, not less. And that's what our expectation for this transaction."
+    },
+    {
+      "speaker": "Adam Tindle",
+      "speech": "Got it. And just as a follow-up, you talked about how a little bit of the integration work that you've been able to do so far supports the strategic rationale behind this. Just wondering if you can also maybe double click on that comment, particularly any color on from a system standpoint how you're potentially going to decide which will go on as SYNNEX home film [Phonetic] system versus Tech Data's SAP, more color on integration will be helpful. Thank you."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Sure, Adam. Thanks. So I want to emphasize during this period there is only so much we can do. But the discussions we've been able to have again reiterate and support our thesis for this transaction again for the four constituents I talked about before. We also talked about how culturally it was important for the two teams to come together. That's been solidified as we've had discussions with our coworkers at Tech Data going forward. So very, very happy about the cultural aspects that are going forward and also to your point about the benefits of the merger from potential cross-sell and other aspects. Good ideas are coming out from those discussions as well. But I have to emphasize all preliminary. We need to close this transaction and get together and at that point in time I know we'll see all the benefits that we talked about back in March."
+    },
+    {
+      "speaker": "Adam Tindle",
+      "speech": "Got it. Thank you very much."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question from the line of Matt Sheerin of Stifel. Your line is open."
+    },
+    {
+      "speaker": "Matt Sheerin",
+      "speech": "Thank you. Good afternoon. Wanted to drill down a little bit more on your commentary regarding the demand picture. It sounds like it's fairly robust across the board, specifically client devices and PCs. Could you talk about what frankly you're seeing with [Phonetic] SMB? I mean is there -- the education market continuing to be strong, do you still see legs to that PC cycle? And then on the infrastructure side, I know last quarter you started to see a little bit of a pickup in on-prem infrastructure spending. Are you continuing to see that and is that factored into your guidance?"
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Hi, Matt. Thanks for the question. Yeah. So you talked about three categories there of our business and all three are positive, which is great to be experiencing right now. Specifically you called out SMB. Certainly that was one of the more challenged areas of our business this time last year as a result of the pandemic and it was frankly, from our perspective, a slower recovery. But in the past few quarters, especially Q2, we really saw a real strong come back for the SMB environment. So very encouraged by that and we're hopeful that it continues throughout the rest of the year and beyond.\nRegarding state and local and fed business and specific to your educational comment, I called out in our prepared remarks public sector was very strong. That includes the education part of our business and we don't see that business really changing too much in the coming months and quarters. It is affected by the supply chain challenges. So we have to factor that. But overall, our public sector business is very good.\nAnd then your last point was about enterprise spending, again, another area that was hit very hard. Q2 of this year was another quarter that was better than the last quarter. There is still not year-over-year growth across all of our enterprise products, but we're starting to see growth in some of them and overall just the -- that sector of our business had another positive incremental growth than the prior quarters from the pandemic time."
+    },
+    {
+      "speaker": "Matt Sheerin",
+      "speech": "Okay, great. That was very helpful. And then on my follow-up regarding your guidance on revenue and net income backing into the gross and operating margin, it looks like both will be up sequentially and back to or near the levels they were a couple of quarters ago. Is that a function of mix issues as well, the benefit of mix or anything else going on there?"
+    },
+    {
+      "speaker": "Marshall Witt",
+      "speech": "Yeah, Matt, you're exactly right. We see mix played a part in Q2 and we also see mix probably benefiting some of those margin improvements heading into Q3."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Yeah, Matt, I would just add, we're still not at a point where everything is normal in our business and obviously normal from a pandemic standpoint. But as Marshall said, the mix and the business is definitely on the pathway toward that and our Q3 guidance is another step forward."
+    },
+    {
+      "speaker": "Matt Sheerin",
+      "speech": "Understood. Okay, thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question from the line of Ananda Baruah of Loop Capital. Your line is open."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "Yeah. Thanks a lot. I appreciate it. Thanks guys for taking the question and congrats on the strong execution and solid results. Yeah, I guess the first one in my queue [Phonetic] it sounds like you guys are anticipating the IT spending environment to continue to strengthen. And so I guess the first question is, are you seeing the component environment tighten further as well? And then I have a quick follow-up. Thanks."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Sure, Ananda. This is Dennis. So, yes, we -- as we talked about in the prepared remarks, we are encouraged by IT demand overall. We talk about a lot that when companies and businesses and even individuals invest in technology product, they often get strong returns and we think that's only going to continue going forward as digital transformation and other investments are made by businesses. So we're definitely positive about the marketplace that we're in right now. Specific to your question about components and are they part of the supply chain challenges and tightening that we talked about. Yes, we definitely include components in that category."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "Okay. And then just the PC business in general, it sounds like you guys are continuing to get really good demand and you sound sort of ongoingly [Phonetic] optimistic about it. Some of the monthly data that's come out of Taiwan, the OEM data has been choppy April to May. Do you see any -- I guess the question is are you seeing any change sort of in the cadence of demand from PCs in general? That's it. I appreciate it. Thanks."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Sure. Thank you. At this point in time really nothing significant to call out from a cadence perspective. We're obviously balancing our comments today against the supply chain challenge we talked about and obviously receiving product and getting to our customers. So that's a factor. But if you're talking about just overall demand, no we feel good about overall demand right now and don't expect any change certainly in the quarter that we're guiding to today."
+    },
+    {
+      "speaker": "Ananda Baruah",
+      "speech": "That's really helpful. Thank you, guys. I appreciate it."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question from the line of Shannon Cross of Cross Research. Your line is open."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Thank you very much. I was curious, pricing, I realize you passed through pricing. But I'm wondering what you're seeing in terms of price increases from some of your partners. And if you're seeing any hesitancy from a customer perspective due to elasticity of demand. And I'm thinking more on the IT hardware side. And then, I'm curious like from a component perspective just are there any timing issues we need to think about within Hive that might impact you given some of the expected increases in commodity prices. And then I have a follow-up. Thank you."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Hi, Shannon. This is Dennis. So I'll take in reverse order. From a Hive standpoint, no, do not seen any challenges necessarily from a pricing standpoint that will affect any aspect of the demand in our business -- for that segment of our business.\nAs far as your overall question, certainly we're in an environment where pricing is increasing more than not. But we have not seen any major issues as far as the continuation of our sales cycles and working with our reseller customers with their end customers such that it would hurt demand, if you will, in any way."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Okay. And then it may be a bigger picture question. I know, we've talked a lot about revenue guidance and how you're thinking about it. And I know you gave us the parameters of what to think about with regard to supply chain challenges. But given how much you have exceeded expectations for last few quarters, maybe if you could just walk through some of the puts and takes that you're thinking about as you put together your guidance for the quarter that are beyond that I think you said $150 million, $200 million on the supply chain side just so we can have an idea of things to look for that could potentially lead to upside given you mentioned conservative several times in the script. Thank you."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Thanks, Shannon. So I'll start off with number one what you just talked about, we have about $150 million to $200 million of reduction in our forecast because of our conservatism on the supply chain challenges. That's number one. Number two, we talk about the fact that for our manufacturing business internally we have a forecast that has a low and a high. We always take the low end and factor that into the numbers we guide to today with you because of the fact that that business is very unpredictable. We use the term lumpy, hard to predict. And so it always makes sense to guide to the low end and enjoying the benefit of performance above that. So that's a factor that I think is important for investors to know and that's something we've been calling out for some time now.\nThe third is just overall conservatism in our business. We want to make sure we perform well and hit our metrics. And so whenever we look at our numbers before we bring them to you and our investors, we obviously put a little bit of a discount on that, just to make sure that when we produce our numbers at the end of the quarter, we meet them."
+    },
+    {
+      "speaker": "Shannon Cross",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Okay. And at this time there are no more questions. I will turn the call back to Dennis Polk for closing remarks."
+    },
+    {
+      "speaker": "Dennis Polk",
+      "speech": "Very good. Thank you. In closing, I want to thank the SYNNEX team for their dedication and efforts. We have ongoing confidence in our business and look forward to the eventual combination with Tech Data. Stay well. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 33 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Liz Morali--Investor Relations",
+    "Marshall Witt--Chief Financial Officer",
+    "Dennis Polk--President and Chief Executive Officer",
+    "Ruplu Bhattacharya--BofA -- Analyst",
+    "Vincent Colicchio--Barrington Research -- Analyst",
+    "Jim Suva--Citi -- Analyst",
+    "Adam Tindle--Raymond James -- Analyst",
+    "Matt Sheerin--Stifel Nicolas and Company -- Analyst",
+    "Ananda Baruah--Loop Capital Markets -- Analyst",
+    "Shannon Cross--Cross Research -- Analyst"
+  ]
+}

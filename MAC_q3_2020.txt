@@ -1,0 +1,384 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day. And welcome to the Macerich Company third-quarter 2020 earnings conference call. Today's conference is being recorded. At this time, I would like to turn the conference over to Jean Wood, vice president of investor relations.\nPlease go ahead."
+    },
+    {
+      "speaker": "Jean Wood",
+      "speech": "Thank you, and good morning. Thank you all for joining us on our third quarter 2020 earnings call. During the course of this call, we will be making certain statements that may be deemed forward-looking within the meaning of the safe harbor of the Private Securities Litigation Reform Act of 1995, including statements regarding projections, plans or future expectations. Actual results may differ materially due to a variety of risks and uncertainties set forth in today's press release and our SEC filings, including the adverse impact of the novel coronavirus suddenly seen on the U.S.\nregional and global economy, and the financial condition and results of operations of the company and its tenants. Reconciliations of non-GAAP financial measures to the most directly comparable GAAP measures are included in the earnings release and supplemental filed on Form 8-K with the SEC, which are posted in the Investors section of the company's website at macerich.com. Joining us today are Tom O'Hern, chief executive officer; Scott Kingsmore, senior executive vice president and chief financial officer; and Doug Healey, senior executive vice president, Leasing. With that, I would like to turn the call over to Tom."
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Thank you, Jean. And thank all of you for joining us today as we continue to navigate through these unprecedented times. As you read in our earnings release, the third quarter was a challenging quarter, albeit better than the second quarter in most respects. We had releasing spreads of 5% and occupancy at nearly 91%.\nAt the end of the third quarter, most of our town centers were open with only our three closed centers in Los Angeles remaining closed by government mandate. Those centers reopened in early October. So as of today, all of our centers are open and our tenants are eagerly planning for a busy holiday season. Most of the results were better than the second quarter, but we were obviously adversely impacted in the quarter due to COVID in general and specifically due to the protracted California and New York City closures.\nThe No. 1 priority during the quarter was to safely reopen all of our centers, to let tenants open and get their employees rehired and back to work, and to welcome back our shoppers. I'm very appreciative of the entire Macerich team that did a tremendous job of getting our centers reopened safely in some cases for a second time. Some of the self-health and safety measures we took went way beyond CDC recommendations that included significantly upgrading our air filtration systems to include hospital quality air filtration with [Inaudible] filters; engage the clinical head of Infectious Disease at UCLA Medical Center to review and advise us on our protocols and policies.\nWe hired a nationally renown engineering firm to advise us on advanced HVAC systems and protocols. We implemented modified hours, increased cleaning and sanitizing protocols, CDC guidelines, and approved products that are baseline for our services. In terms of rent collections, we are much better off in the third quarter compared to the second quarter. During the third quarter, our average rent collections were 80%.\nOctober is trending above 80%. For most of the tenants not paying rent during the closure period, we would generally come to terms with them. In general, we agreed to rent relief usually in the form of deferred rent for the closure months with repayment in 2021. In many cases, in exchange for landlord-favorable amendments to leases.\nThere were some large reserves for uncollectible rents in the quarter, which Scott will comment on. Cash flow continues to improve by the month as we move into the fourth quarter, and I expect that to continue. As of today, we have significant liquidity and currently have approximately $675 million of cash on the balance sheet. The tenant reactions to reopening has been good.\nOur tenants, almost without exception, were eager to get reopened. By October, for centers opened at least eight weeks, sales were up to 90% of pre-COVID levels. The consumer is shopping with a purpose and there has been pent-up demand. Our second quarter was more about getting centers opened and getting our tenants open safely and less about leasing.\nThe focus in the third quarter was collecting past due rents and started to shift back to leasing. Looking at traffic, in general, it's running about 80% compared to a year ago. Some of that has to do with capacity limits, particularly for restaurants and also for having no seating in the food court. Sales, on the other hand, are running on average 90% of a year ago, which means there, I'd say, higher capture rate.\nThis year will be a different holiday season. We believe it's going to start earlier. Operating hours will be shorter. There will be capacity limits.\nAnd most stores will be closed on Thanksgiving Day. With consumers not spending money on vacations and entertainment during COVID, most of our consumers in our markets have money to spend this holiday season. Top categories are expected to be fitness and wellness, home furnishings, electronics and athletic leisure. There will be [Inaudible] but with lots of social distancing.\nWe've got a number of questions about potential for property tax increases in California, although small in the political scheme of things. There was a proposition in California that would have increased property taxes on commercial property. It is known as Proposition 15. That proposition would have removed the protection of Prop 13 from commercial properties in California.\nFor us, generally, we structure our leases to pass-through taxes to the tenant as a recoverable expense with a significant bottom line impact that the [Inaudible] shows Prop 15 passing. As of today, it is trailing. The yes votes stand at 48.7%, the no are at 51.3%. So hopefully, that means no increase for commercial taxes in California.\nLooking at the balance of 2020. The pandemic has shown that good retail is not going away, especially in A quality centers. Digitally native brands appreciate, more than ever, the profitability of their physical stores. Big format retailers got active again in the third quarter, and you'll hear some of the specifics from Doug.\nAlthough we are still in the midst of COVID, our centers are operating at 90% capacity, sales levels of 90% pre-COVID. And even if you look at one of the more challenging categories, restaurants, in our portfolio, we have 247 restaurants and 94% of those are open today. The second quarter was an extremely unique quarter and some of the second quarter challenges carried into the third quarter and may even carry partially into the fourth quarter. But many metrics got better in the third quarter, specifically collections.\nAnd the number of tenants opened and the progress we are making on leasing activity. The impact on reserves for adoption accounts was less than 20 \u2014 second quarter of '20, but still much higher than normal. We expect to gradually improve to a more normal level in the first quarter of '21. Although there are still too many uncertainties to give guidance, we expect the fourth quarter of 2020 and the year 2021 to be much better than the second and third quarters of 2020.\nAnd now I'll turn it over to Scott."
+    },
+    {
+      "speaker": "Scott Kingsmore",
+      "speech": "Thank you, Tom. Disruption from COVID-19 continued to severely impact 2020 results in the third quarter. Funds from operations for the third quarter was $0.52 per share, down from the third quarter of 2019 at $0.88 per share. Same-center net operating income for the quarter was down 29%, and year to date, it was down 17%.\nChanges between the third quarter of 2020 versus the third quarter of 2019 were driven primarily by the following factors and the numbers I'm going to cover [Inaudible] for the company: One, $20 million \u2014 $21 million in bad debt allowance in the form of the $14 million of increased net debt expense versus the third quarter of 2019, coupled with $7 million of lease revenue reverse for tenants, that are accounted for on a cash basis per GAAP within the third quarter; two, over $20 million of short-term nonrecurring rental assistance; three, a $9 million decline in common area and ancillary revenue as well as percentage rents; four, a $4 million decline in parking income driven by protracted property closures and reduced parking utilization at our urban centers in New York City and Chicago primarily; five, interest expense increased $4 million due to a decline in capitalized interest; six, net operating income declined from the Hyatt Regency Hotel [Inaudible], it was about a $2 million decline; seven, a negative $0.03 per share dilutive impact from shares issued in the second quarter relating to our stock dividend issued in the second quarter. These factors were all offset by increased lease termination income of $7 million and land sale gains totaling $11 million net impact. Revenue declines from occupancy loss also contributed to declines in both net operating income and FFO for the third quarter. As Tom mentioned, we are not providing updated 2020 earnings guidance given continued uncertainties.\nWe do anticipate continued volatility operating results in the fourth quarter. While we're not providing guidance for 2021, as we mentioned last quarter, we still believe that 2020 will be a trough in the company's operating results including primarily to the following factors: The pandemic has effectively accelerated the financial troubles with numerous [Inaudible], resulting in a wave of bankruptcy filings that were funneled and due 2020. We do not anticipate this volume to recur in 2021. The majority of the filings have resulted in reorgs and not full fleet liquidations.\nWe do expect approximately a 3% cumulative drop in occupancy from lease rejections, approximately half of which is already embedded within the 90.8% reported occupancy [Inaudible] third quarter, and the balance of these stores will close within the fourth quarter. Year to date, we have reported $57 million in additional bad debt reserves versus 2019, including $50 million of bad debt expenses and $7 million of lease revenue reversals for tenants accounted for on a cash basis. Similar levels of reserves are certainly not anticipated going forward. We've recorded well over $20 million in nonrecurring short-term rental assistance year to date and we expect those to continue into the fourth quarter of 2020.\nAnd then lastly, we anticipate increases to transit revenue line item going forward into 2021, namely the percentage rent, temporary tenant income, parking garage revenue, advertising, sponsorship, vending and other ancillary property driven revenue. We look forward to providing 2021 guidance on our typical cadence this time next quarter. Given the continued improvement in rent collections of 80% in the third quarter and over 80% in October, liquidity continues to improve. Cash on hand has increased from $573 million at June 30 to $630 million at September 30.\nAnd as Tom noted, liquidity continues to improve to this day. This improved liquidity is solely due to improved operating cash flow and is a testament to the herculean efforts by our people to both secure the right to open all of our properties and to negotiate thousands of agreements with our retailers. With continued progress in these negotiations, which Doug will soon elaborate upon, we anticipate further improvement to operating cash flow throughout the year. We are closing on a 10-year $95 million financing on Tysons Vita, the residential tower at Tysons Corner.\nThe loan will have a fixed rate of 3.3% and will include interest-only payment during the entire loan term. This will provide approximately $47 million of liquidity to the company, and we expect the loan closing to occur within the next several weeks. We secured a short-term extension on Danbury Fair through April 1, 2021. The loan amount and interest rate remain unchanged following that extension.\nWe have agreed to terms with the loan servicer for a three-year extension on Fashion Outlets of Niagara, which will extend the loan maturity through October of 2023. We expect the loan amount and interest rate also to be unchanged following that extension. And then lastly, we continue to work with our lenders to secure loan extensions for the nonrecourse mortgages on each of FlatIron Crossing, Green Acres Mall and the power center adjacent to that Green Acres Commons, and we anticipate securing extended term within the coming weeks. Now I will turn it over to Doug to discuss the leasing and operating environment."
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "Thanks, Scott. Like the second quarter, the majority of our efforts in the third quarter involved getting our retail partners open as quickly and as safely as possible once our centers were allowed to reopen. To date, all of our properties are open, and I'm happy to report that 93% of the square footage that was opened pre-COVID is now open today. As I discussed on our last call, it has been the case in the third quarter, much of our time and energy was spent working with those retailers that did not have the ability to pay rent while closed.\nAnd we've made great progress. In fact, as we look at our top 200 rent paying retailers, we've either received full rent payment or secured executed documents with 147 and are in LOI with another 23, all of which totals approximately 93% of the total rent these top 200 pay. Consequently, collections continue to improve. Third quarter saw an average collection rate of 80%, that's compared to 61% in the second quarter.\nAnd as of today, as Tom mentioned, our collection rate for October stands at about 81%. But the third quarter wasn't all about collection. As our centers continue to open and as our retailers opened and were able to trade with some consistency, the leasing climate began to improve. Retailers began executing leases that have been out since before COVID.\nBut most importantly, the retailers began committing to new deals again. A true sign that for the first time in months, we're now looking forward rather than solely focusing on the past. I'll expand on this in a moment, but first, let's take a look at some of the third-quarter metrics. Portfolio-related sales for the third quarter were $718 per square foot, and that's computed to exclude the period of COVID closures for each tenant.\nThe $718 is down from $800 per square foot at the end of the third-quarter 2019. For centers opened the entire month, sales in September were actually 92% of what they were a year ago, once we exclude Apple and Tesla.Occupancy at the end of the third quarter was 90.8%. That's down 50 basis points from last quarter and down 3% from a year ago. This is primarily due to store closures for bankruptcies and from our local tenants that couldn't survive the pandemic.\nTemporary occupancy was 5.7%, that's down 70 basis points from this time last year. Trailing 12-month leasing spreads were 4.9%, that's down from 5.1% last quarter and down from 8.3% in Q3 2019. Average rent for the portfolio was $62.29, down from $62.48 last quarter, but up 1.8% from $61.16 one year ago. As I mentioned earlier, the leasing environment continues to improve.\nIn the third quarter, we signed 120 leases to 342,000 square feet. This is over 3x the number of deals and square footage that was signed in the second quarter, and these stats do not include any COVID workouts. Some leases signed in the third quarter of note include Gucci, Fashion Outlets of Chicago, Ducati Paris at Scottsdale Fashion Square; Kids Empire and State 48 Brewery at SanTan; Barbarie's Grill at Danbury Fair; Starbucks at Fashion District Philadelphia; Madison Reed at 29th Street; Polestar at The Village at Corte Madera; finally, Lucid Motors at Scottsdale Fashion Square and Tysons Corner. Both Lucid and Polestar are new additions to the electronic car category and first to the Macerich portfolio.\nAs we head toward the end of the year, much of our focus is on our 2021 lease expiration and finalizing deals in order to secure as much expiring square footage in 2021 as possible. At this point in time, by virtue of COVID workouts and through the normal course of leasing, we have commitments on 26% of our 2021 expiring square footage with another 67% in the LOI stage. This brings our total leasing activity on 2021 expiring square footage to just over 90%. Turning to openings in the third quarter.\nWe opened 44 new tenants and 276,000 square feet, resulting in total annual rent of $11.3 million. This represents 65% of the openings we had at the same quarter last year, but with 15% more square footage and virtually the same total annual rent. Given the conditions our industry has faced over the last several months, I think this speaks volumes to the strength of the leasing pipeline we had pre-pandemic. Notable openings include adidas and Tory Burch at Fashion Outlets of Niagara Falls; Aerie at Vintage Faire; West Elm at La Encantada; and Golden Goose, Capital One Cafe and a new Levi's store at Scottsdale Fashion Square.\nIn the large-spread \u2014 in the large-format category, we opened Dick's Sporting Goods at Deptford Mall, in a portion of a former Sears store; Saratoga Hospital at Wilton Mall, also in a former Sears store; a new and spectacular looking restoration hardware gallery at The Village at Corte Madera. And all of this was in the third quarter. In October, we finished the repurposing of Sears at Deptford with the opening of Round One. And also in October, we remained active with Dick's Sporting Goods, opening them at Vintage Faire in a portion of Sears, and at Danbury Fair in the former Forever 21 box.\nThe digitally made of and emerging brands continue to expand their omnichannel presence by opening stores. And the third quarter was no exception. We opened Amazon 4-Star and Indochino at Scottsdale; two Warby Parker stores at Scottsdale and 29th Street, along with Amazon Books and Tempur-Pedic at FlatIron Crossing. And our pipeline remains strong.\nAt this point, we have signed leases with 190 retailers scheduled to open throughout the remainder of 2020 and into 2021. This totals 1.7 million square feet for a total annual rent of $63 million. And since the pandemic, only nine of these retailers with signed commitments have informed us that they won't be reopening \u2014 they won't be opening. Total impact of this is only 60,000 square feet of the 1.7 million square feet and only $3 million of the $63 million in total rent.\nLastly, I want to address the issue of traffic. There's been a ton of focus on traffic and the fact traffic is down compared with last year, and it is. There's no arguing that. However, I struggle with the notion that traffic seems to be perceived as the sole means to a retailer's success.\nWhy aren't we talking more about conversion or sales or the combination of both? Despite less traffic, the Macerich portfolio is seeing tremendous success in the reopening of stores that were forced to close due to COVID, like Primark at Danbury, being the No. 1 store in its region since reopening; or like Bath & Body Works at Freehold, beating last year's sales three months in a row with capacity limited to 50%; or HomeGoods at Atlas Park, outperforming last year by 15% while also at 50% capacity; or Burlington, reopening at Kings Plaza and selling through inventory that took a month to replace; or Sephora at Broadway Plaza, is currently ranked as one of the top stores in the company by virtue of conversion rates that are 20% to 30% higher than last year; or Round One at Deptford and Valley River, operating at full capacity with hour-long waits at night and on weekend; luxury retailers at Scottsdale Fashion Square such as Gucci, Louis Vuitton and Golden Goose, all exceeding planned by 25% to 40%; or North Italia, a restaurant at La Encantada, back to pre-COVID sales even at 50% occupancy; and Tillys at Arrowhead, reported double-digit sales increases since reopening in May and is expecting their best holiday season ever at this location. And the list goes on and on. Unfortunately, these success stories are too often overshadowed by the overwhelming focus on the effect this pandemic has had on traffic in the short-term and pre-vaccine.\nMake no mistake, traffic is important. There's no denying that. However, I do think it's time we stop thinking so one dimensionally and focus on other metrics in addition to simply traffic. And when we do, I think we'll all find that we are in a much better place than many think.\nAnd with that, I'll turn it over to the operator to open up the call for Q&A."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator instructions] And we will go to the first question from Craig Schmidt of Bank of America."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "Thank you. I was just wondering, given the late openings of some of the enclosed malls, are they able to get fully stocked in inventory for holiday '20? Or has this limited their ability to [Inaudible]."
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Hi, Craig. How are you? Actually, as a result of having closed doors and reopened, most of the retailers had a little bit of experience in managing their inventory, being ready to go. So in California, even though we didn't know exactly when the enclosed malls were going to open, the retailers had a decent expectation, had their inventory lined up and were in pretty good position, both in terms of inventory and employees, because most of the employees have been furloughed. And given the generous unemployment benefits, a lot of them found difficulty in getting their employees back.\nBut they did, and most of them are poised and ready for the holiday season."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "Great. And then a follow-up. Is Macerich fully liable for rise of debt and guarantees of Fashion District Philadelphia?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "No, Craig, that's a loan that is a several loan, so half the obligation is Penn REIT, half the obligation is Macerich."
+    },
+    {
+      "speaker": "Craig Schmidt",
+      "speech": "OK. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll move to our next question from Mike Mueller of JP Morgan."
+    },
+    {
+      "speaker": "Mike Mueller",
+      "speech": "So the 91% of 2021 leasing activity that was referenced, can you talk a little bit about how the spreads are on that full bases compared to what you've just reported for this quarter?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Yes. Doug should take that one."
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "I'm sorry. Could you repeat the question, please?"
+    },
+    {
+      "speaker": "Mike Mueller",
+      "speech": "Yes. For the leasing activity for 2021 that you walked through, what are the rent spreads on that?"
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "Scott, feel free to jump in. [Inaudible]"
+    },
+    {
+      "speaker": "Scott Kingsmore",
+      "speech": "So Mike, good morning. The hazard of a call when we're all separated [Inaudible]. We haven't computed the spreads, I would say this, though. We're using this as an opportunity to get in front of our '21 [Inaudible] Our largest focus right now is occupancy.\nOccupancy is critical, certainly more critical than the final dollar of the REIT. As a result of some of the declines in occupancy, I would expect perhaps spreads to paper a bit, but we don't have that metric computed at this point. Bear in mind that the strategy we're taking right now, focusing on occupancy rather than [Inaudible] very similar to what we did about 10 years ago, coming out of the recession. Feedback show to be a very good strategy.\nAnd so these renewals, I would say, are going to err on the side of being shorter rather than longer to give us [Inaudible] price when the environment is better a couple of years from now."
+    },
+    {
+      "speaker": "Mike Mueller",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "The actual \u2014 the spreads that we reported, though, to the extent a lease has been signed, even if it's a 2021 start, it's included in the leasing spread. So I think last quarter, we were 7%. Third quarter, we're 5%. So to the extent any of those leases, Doug referenced, the 2021 openings are actually signed deals rather than letter of intent.\nThere will be on the spreads that we reported in the second and third quarter."
+    },
+    {
+      "speaker": "Mike Mueller",
+      "speech": "Got it. And then a follow-up. Can you talk about how strong the tenant interest is and the activity levels when you look at your top quartile portfolio compared to the bottom three quarters of it?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Yes. I can take that, Mike. When the pandemic shutdown, the malls, our business really came to a screeching halt. I mean nobody was really focused on real estate or leasing.\nThe retailers were focused on their corporate offices, their employees, and getting their stores back open. But since the retailers have opened, and as I've mentioned, been trading for 60, 90 days and understanding that they can get back to 90% of where they were last year, the interest has really started to peak. It's interesting. Our top \u2014 I think you mentioned our top quartile, our top 20 properties have normally been in '16 or '17, 95%, 96% leased.\nAnd now we see them 93% \u2014 92%, 93% leased. So with that said, really, it's the first time in years, we have some real good space opening up in some of our top-tier centers. And that hasn't happened in a while, and that's really peaked the interest of some of these retailers that are going to be \u2014 want to be opportunistic. Those that went into the pandemic with strong balance sheet, great products and come out on the other side in good shape are going to take advantage of that."
+    },
+    {
+      "speaker": "Mike Mueller",
+      "speech": "Got it. OK. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll go to our next question with Floris Van Dijkum of Compass Point."
+    },
+    {
+      "speaker": "Floris Van Dijkum",
+      "speech": "Hey, guys. Thanks for taking my question. I wanted to get a sense of how your third-quarter billable rents compared to your first quarter billable rents? So I could \u2014 so your market should get a sense of what it the sort of the run rate in NOI and how much has it declined? And presumably, with the leasing activity that you guys are talking about, you're setting yourself up for some increase off that base. But if you can give some more color on that, that would be great."
+    },
+    {
+      "speaker": "Scott Kingsmore",
+      "speech": "Yes, Floris. Good morning. I don't have that figure handy. We can perhaps follow-up off-line, but I will say that the third quarter is certainly \u2014 the billing rate in the third quarter is down a bit relative to the first quarter, as one can imagine.\nYou've got some short-term rental concessions that have factored into the third quarter, primarily with locals going through challenged categories. And then we've had some closures as a result of the bankruptcy. So certainly, that has reduced the billable rate in the third quarter relative to the first quarter pre-pandemic, but I do not have that in front of me."
+    },
+    {
+      "speaker": "Floris Van Dijkum",
+      "speech": "Maybe we can follow-up offline. My follow-up question maybe and \u2014 has your pitch to tenants changed as a result of the pandemic in terms of getting them signing up to your assets? Or how have you changed your \u2014 the positioning of your assets as a result of this?"
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "Floris, it's Doug. I don't think our position has changed really at all. Our focus has been and continues to be morphing our malls into what we call town centers where there's something for everybody. And that hasn't changed.\nI think it slowed down the process in some of the categories, where we look to bring entertainment, theaters, experiential concepts to the properties. That slowed a little bit, but it's not going away. It's going to come back and it's going to come back in a different form, and that category does still remain active. But our philosophy of town centers and creating such hasn't changed a bit."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And so we'll move to our next question which comes from Michael Bilerman of Citi."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "It's Michael Bilerman here with Citi. Tom, I was wondering if you can spend some time talking about sort of leverage levels. And I understand from a liquidity standpoint, the company has a fair amount of liquidity and certainly shored that up by having the extensions on Danbury and Fashion Outlets and getting a new loan on Tysons on the resi complex. It sounds like you're doing the same for FlatIron and Green Acres.\nBut the overall leverage level of the company still remains quite high. And so how are you thinking about addressing that element in terms of raising some additional equity capital either through sales, maybe it's handing back keys of assets that may be overleveraged? Or are you planning on just waiting it out?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Well, Michael, much as we saw with the great financial crisis, capital markets have basically shut down. So now isn't a particularly good time to be raising capital to delever. That will change. We saw a change in 2009 and 2010, and that will happen again.\nAnd the same will happen with appetite for assets. As you recall, we sold 25 malls coming out of the financial crisis starting in 2011, generated about $1.5 billion of liquidity. So we expect post-pandemic, post-vaccine, things will return to a more normal level, and we'll have the opportunity to dispose of noncore assets and use that capital for reducing leverage levels. One thing I would point out is, given the current cash flow, even though it's less than had been forecasted at the beginning of the year, it's significantly in excess of the current dividend level and that ought to allow us a fair amount of cash flow from operations to use in the near term for delevering, and that would be the play."
+    },
+    {
+      "speaker": "Michael Bilerman",
+      "speech": "And if you could give an update on the line of credit which you extended this past July, you used your one year extension to push it out to next July, obviously, predominantly all drawn. Can you help us sort of understand whether you'll be able to get the full $1.5 billion of proceeds as you look to refinance that? And if there's any sort of capital commitments now that your joint venture partners, because you have a lot of joint venture assets, are not willing to fund in any way?"
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "I'll take the first part of that and the last part of that, and then you can elaborate, Scott. As you indicate, Michael, we've extended our line of credit, and we're currently in conversations with our line lenders to do a new line of credit. We've got some time and we've also got a 22-year relationship with that bank group. So this will be the seventh time we've recast that line of credit.\nSo those discussions are really on. It's too early to tell you what the terms would look like in the overall amounts. But obviously, we have a fair amount of cash on the balance sheet as well. And at some point, that will be used to reduce the credit balance.\nBut that's really in the discussions. And so far, I think, all of our joint venture partners have been similar to us in terms of being cautious about capital spending during the pandemic. Very similar to what we saw in the financial crisis, and then as things started to improve, capital spending increases, and I would expect to see that post-COVID as well."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And so we will move on to our next question from Caitlin Burrows of Goldman Sachs."
+    },
+    {
+      "speaker": "Caitlin Burrows",
+      "speech": "Good morning. I was wondering if you could talk about your current watch list with occupancy down 300 basis points as of 3Q, but then you talked about leasing progress. Combined with the watch list, what does that mean for your future occupancy expectations?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Caitlin, well, as Scott mentioned, I think in his remarks, we had an acceleration of our watch list into bankruptcy as a result of COVID. So bankruptcies, tenants failures [Inaudible] that would have happened over the course of the next two or three years, happened in the course of the last eight months. And so frankly, our watch list is pretty short. Obviously, the tenants that are in reorg right now, we keep an eye on them.\nMost of them, as Scott indicated, were not liquidations, but reorgs. And in our case, we typically keep roughly 65% of the stores open post bankruptcy, about 1/3 are rejected and that's similar to what we're seeing here. So the watch list is actually fairly short today as a result of COVID. Doug, you want to elaborate further on that?"
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "Sorry?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Doug, you care to elaborate further on the watch list?"
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "No. I think, Tom, you were spot on. The only thing I would say of all of the bankruptcies that we saw this year, I think, there were probably 38 or 39, I think only six or seven weren't on our locked watch list, which means two things. We keep a pretty good watch list.\nAnd the fact that so many of them weren't on it means our watch list has decreased significantly similar to a concert."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll move then to our next question from Alexander Goldfarb of Piper Sandler."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Hey, morning. Two questions. First, just following up on the balance sheet. You guys have extended a few of the maturities right now.\nI don't know if that covers the full $800 million that we talked about on the last quarter. But then there's also another 19 malls that were discussed last quarter that were in forbearance. So can you just give us an update on the forbearance process? And if it's still 19 malls? Has that shrunk? Has that increased?"
+    },
+    {
+      "speaker": "Scott Kingsmore",
+      "speech": "Yes. Sure, Alex. It's Scott here. As I mentioned in my opening remarks, we have either closed or secured terms on two of our five near-term secured maturities.\nStill working on FlatIron, Green Acres Mall, Green Acres Commons. So that's what comprises the $800 million. Again, so far, pretty successful effort. Terms ranging from short-term extensions to longer-term extensions thus far, no change in principal or interest rate.\nAnd the remaining assets, those were FlatIron and Green Acres Commons are high quality [Inaudible] assets. So I think we'll be successful on those as well. The 19 assets that you mentioned, we agreed on simply [Inaudible]. It was a very amicable process with the loan servicers or with the balance sheet lenders to agree to defer debt service payments.\nWe do have extensive disclosures in the queue, which cover how long those lasted and what the repayment periods are. Now that we are in November, I believe they have about two or three months with the remaining, I'll call it, catch-up debt service to [Inaudible] through the first quarter of 2021. So very amicable..."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Scott, just so I make sure I understand you. So those 19 assets that were in forbearance, basically, you got \u2014 and we'll see when the queue comes out. You guys got deferred debt service through the end of first quarter 2021. Is that correct?"
+    },
+    {
+      "speaker": "Scott Kingsmore",
+      "speech": "We got deferred debt service, which is now being repaid. So all of those deferrals were during the summer months. And we're now repaying that debt service. And those repayments, Alex, will extend into the first quarter of 2021."
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "It's generally a two-month agreement that we were able to defer debt service payments for two months when generally they will repay it even later in the fourth quarter or in the first quarter of 2021."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "OK. And then just, Tom, going back to the dividend. The amount that you're paying right now, is that taxable income driven? Or right now, you don't need to pay a dividend for tax purposes?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "You obviously pay dividend for tax purposes, if you have any taxable income. And we cut last quarter and we maintained the same dividend. The limits coming up here based on estimation of taxable income for the balance of the year."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "OK. But that's based on \u2014 so the $0.15 is where your taxable income is currently?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "No. It's an annual number, Alex. And you recall, we had higher dividends in the first half of the year. So it's not quite that simple.\nWe consider taxable income when we make our dividend payout."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "Got it. So next year, it would likely then go up just to get it back to what your taxable income would be. Is that how I should interpret that?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Sure. It depends on what taxable income is. Yes, you've got to payout 90% of your taxable income. So that's a fundamental premise that all REITs have to follow."
+    },
+    {
+      "speaker": "Alexander Goldfarb",
+      "speech": "OK. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll go to our next question from Todd Thomas of KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Ravi Vaidya",
+      "speech": "Hi there. This is Ravi Vaidya on the line for Todd Thomas. Just looking forward here, given the stresses in large-format fitness and theaters, how is the company going to look to backfill department store boxes? What's the appetite to use these spaces for nonretail purposes, perhaps distribution centers or otherwise?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Well, I think Doug commented on that to some extent in his comments. We've done a handful of deals just in the past quarter with Dick's Sporting Goods. A lot of that was in the empty boxes; Sears boxes, Forever 21 boxes. We also did a deal with a hospital at \u2014 one of our Sears boxes, we replaced with a hospital and \u2014 at Wilton Mall in New York.\nAnd there's a lot of uses. In some cases, we'll be knocking down the empty department store and building multifamily. That's going to be the case in Los Cerritos. The Washington Square, we'll also knock down the Sears box and replace that with a hotel and the entertainment complex.\nSo there's a lot of demand in the big format, but it also will go non-retail. It will go nontraditional retail, multifamily, and we will do a lot of hotel deals and just repurposing the square footage and eliminating a certain nonretail."
+    },
+    {
+      "speaker": "Ravi Vaidya",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll move to our next question from Greg McGinniss of Scotiabank."
+    },
+    {
+      "speaker": "Greg McGinniss",
+      "speech": "Good morning. Minimum rent in the installed portfolio was down 9% from last quarter. Can you just help us understand the drivers of that change? And what the expectation might be on any additional jeopardy we anticipate heading into Q4?"
+    },
+    {
+      "speaker": "Scott Kingsmore",
+      "speech": "Yes. Sure. This is Scott. I covered some of that in my opening remarks.\nI certainly mentioned the bad debt allowance which included a component of leasing revenue that has been reversed for tenants on a cash basis for that as a component. We did grant some short-term nonrecurring rental assistance, primarily to locals and, I'd say, challenged categories. That was a factor. And then, of course, we reported occupancy down roughly 3% from a year ago and certainly that was a factor quarter-over-quarter.\nSo all of that factors in. I do think that some of that will certainly carry forward. As these bankruptcies taper off, those tenants will start to now convert to accrual basis accounting, but we may have a little bit of that cash basis with revenue reversal noise in the fourth quarter. I certainly think we'll deal with a little bit more of rental concessions, especially when you think of some of our properties in New York City and California that were opened, excuse me, closed either for a second time or closed for a very protracted period of time through the third quarter.\nSo we may deal a little bit with a little bit of that there. And certainly, the occupancy impacts that we're reporting on will carry into the fourth quarter. So like I said, I think the operating results in the fourth quarter will continue to feel the impacts of COVID."
+    },
+    {
+      "speaker": "Greg McGinniss",
+      "speech": "OK. And then just trying to think about the recurring revenues a bit more, just some clarity on two other items. First is on currencies. Curious if that was associated with any large tenants in particular or just across the portfolio, and then kind of what you expect from that number heading into Q4? And then second, on the land sale, was that flowing through the income statement or just on FFO?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Yes. Sure. On the [Inaudible] I don't want to get specific with certain tenants. But I would expect in a tightened kind of volatility that the termination fees will continue to remain elevated.\nYou think in prior moments in history where we've got heightened volatility, sometimes tenants want to buy out of their lease obligation, an opportunity effectively for us to secure a nice termination fee and we'll be able to backfill and effectively profit of that backfill. But I'm certainly not going to get into specific names. I would expect the termination fee to continue to be elevated relative to last year. Land sales did flow through the P&L in terms of FFO.\nAs I mentioned, it was roughly $11 million after accrual of the tax provision."
+    },
+    {
+      "speaker": "Greg McGinniss",
+      "speech": "OK. But it wasn't going through other income or gains on the income statement to net income?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "That's correct. Yes. It was below the line."
+    },
+    {
+      "speaker": "Greg McGinniss",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we will move now to the next question from Rich Hill with Morgan Stanley."
+    },
+    {
+      "speaker": "Rich Hill",
+      "speech": "Hey. Good morning, guys. I wanted to come back to the early comments on the conversion rates, which I thought was pretty interesting. I recognize that, that is a really important driver of sales and why there's some retailers that are actually seeing really high conversion rates on the other side of COVID-19.\nBut I'm also wondering if you could speak to maybe conversion rate that the overall mall itself in terms of the in-line tenant and trends that you might be seeing there?"
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "I can take that and, Tom, feel free to jump in. I don't think we have specific conversion rates for each mall. A lot of what we talk about is anecdotal. But what we are hearing across the board is that while traffic is down and we know that our sales are up, it does relate to the fact that our shoppers are converting more.\nThey're not necessarily going to the mall as much, but when they're there, they're buying. And that's what we're seeing, whether it's in traditional retail, luxury or otherwise. We're seeing it across the board. I think a lot of their dwelling and a lot of their research is being done online so that when they get to the mall, they know what they're there for, and they buy it."
+    },
+    {
+      "speaker": "Rich Hill",
+      "speech": "Got it. That's helpful. Scott, one question for you. I think a lot of us would have bought a guide in the next quarter.\nBut I'm curious, what do you think is going to happen over the next several months that will give you the confidence to guide for the full year '21? But maybe be a little bit reluctant to guide for 4Q? Look, I'm not questioning why you're not guiding for 4Q and more questioning. I'm more curious, like what's going to change over the next three months to give you a lot of confidence in '21?"
+    },
+    {
+      "speaker": "Scott Kingsmore",
+      "speech": "Well, Rich, I would say, fundamentally, just the fact that our centers are open and trading gives you an underpinning of confidence. That combined with, as Doug mentioned, we've made tremendous progress with our national retailers, which number \u2014 just a touch over 200 in number. So we're gaining visibility on that front. Collections continue to improve.\nI think all of those factors are what gives you some comfort that you could give guidance for the following year. That's, again, fundamentally, the centers are open and the tenants are trading, it gives you a lot of confidence. Tom, I don't know if you want to add anything to that?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Yes. Well, I think where we're at today, we've come to terms of our top 200 retailers. We've come to terms with 90-plus percent of those. And so the balance of them, that's going to happen in the fourth quarter, that's creating some of the uncertainty in the fourth quarter that we don't think is going to carry over to 2021.\nAnd with each passing month, I think the retailers get more comfortable as they move through COVID, looking forward to the post-COVID era. And I think we'd be in a much better position 90 days from today to give guidance than we are today. I mean in the COVID world, 90 days is like an eternity and we learn more, and we know a lot more than we did, even we'll get our last earnings call. So I think that's going to put some position by January to be able to do it."
+    },
+    {
+      "speaker": "Rich Hill",
+      "speech": "That's really helpful, Tom. And I anchor your comments. Pretty much feels like an eternity. Sometimes a week feels like an eternity.\nSo I think you've got the \u2014 the comments on the cadence was really helpful.\nThanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll go to Linda Tsai of Jefferies."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "[Inaudible] tenant categories are looking to expand?"
+    },
+    {
+      "speaker": "Doug Healey",
+      "speech": "Linda, it's Doug. We're seeing it across the board. There's a lot going on in the traditional retailer environment. Just some examples, Aerie, I'm sorry, American Eagle has come out with a new concept called OFFLINE, which is a branch of their Aerie store, women's at leisure, and they're doing in three test stores this year.\nWe have one of them. And should everything work out, that's going to be a real rollout vehicle for them. Aritzia out of Canada is expanding. Levi's went public last year.\nThey're opening another 100 stores between this year and next year. Lululemon is always expanding, whether they're expanding their fleet or they're trying to expand their store size. J.Crew, Madewell also and that list goes on."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "And then I was wondering if you share any of the same lenders with two of your lower quality counterparts who recently filed and if you had a sense of what ultimately drove the decision to default those companies?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "I'm sorry, Linda, could you repeat that? You broke up a little bit."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "Sure. No. I was just asking if you possibly shared any of the same lenders with two of your lower quality counterparts who recently filed? And if you maybe have a sense of what might have driven the decision to default those companies?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Is that shared lenders, is that your question?"
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Yes. We do. It's a relatively small group of REIT unsecured lenders. So I don't really want to speak for either of them.\nObviously, we're a partner with PREIT, and they're very well informed as we went through the process. And I think if you read the public filings, they had support of 95% of their lender group. There was a 5% holdout, and under their document, that was relevant in \u2014 we think that's why they went that route. I think they've put out press releases themselves [Inaudible] they expect to be in and out of bankruptcy very, very quickly.\nSo I'll defer to them. But yes, we know a lot of that \u2014 the lenders they have, we know a lot of them, and I think they were the ones that were supportive of PREIT."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "And then just one follow-up. The denominator for collections in 2Q, 3Q in October, did that change at all?"
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "The definition?"
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "Linda, we've treated the collections consistently as we moved forward. So the 2Q, the way we treated 2Q collections is no different today than it was 90 days ago."
+    },
+    {
+      "speaker": "Linda Tsai",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And at this time, I would like to turn the call back over to Tom O'Hern for any additional or closing comments. Please go ahead, Mr. O'Hern."
+    },
+    {
+      "speaker": "Tom O'Hern",
+      "speech": "I'm sorry. Thanks, everyone, for joining us today. We hope to see many of you virtually at NAREIT in a few weeks. Until then, take care."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 62 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Jean Wood--Vice President of Investor Relations",
+    "Tom O'Hern--Chief Executive Officer",
+    "Scott Kingsmore--Senior Executive Vice President and Chief Financial Officer",
+    "Doug Healey--Senior Executive Vice President, Leasing",
+    "Craig Schmidt--Bank of America Merrill Lynch -- Analyst",
+    "Mike Mueller--J.P. Morgan -- Analyst",
+    "Floris Van Dijkum--Compass Point -- Analyst",
+    "Michael Bilerman--Citi -- Analyst",
+    "Caitlin Burrows--Goldman Sachs -- Analyst",
+    "Alexander Goldfarb--Piper Sandler -- Analyst",
+    "Ravi Vaidya--KeyBanc Capital Markets -- Analyst",
+    "Greg McGinniss--Scotiabank -- Analyst",
+    "Rich Hill--Morgan Stanley -- Analyst",
+    "Linda Tsai--Jefferies -- Analyst"
+  ]
+}

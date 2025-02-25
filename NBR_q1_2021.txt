@@ -1,0 +1,233 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the Nabors Industries first-quarter 2021 earnings conference call. All participants will be in listen-only mode [Operator instructions]. After today's presentation, there will be an opportunity to ask questions [Operator instructions]. Please note, this event is being recorded.\nI would now like to turn the conference over to William Conroy, vice president of investor relations and corporate development. Please go ahead, sir."
+    },
+    {
+      "speaker": "William Conroy",
+      "speech": "Good afternoon, everyone. Thank you for joining Nabors' first-quarter 2021 earnings conference call. Today, we will follow our customary format with Tony Petrello, our chairman, president, and chief executive officer; and William Restrepo, our chief financial officer, providing their perspectives on the quarter's results along with insights into our markets and how we expect Nabors to perform in these markets. In support of these remarks, a slide deck is available, both as a download within the webcast and in the investor relations section of nabors.com.\nInstructions for the replay of this call are posted on the Website as well. With us today, in addition to Tony, William, and myself, are Siggi Meissner, president of our global drilling organization, and other members of the senior management team. Since much of our commentary today will include our forward expectations, they may constitute forward looking statements within the meaning of the Securities Act of 1933 and the Securities Exchange Act of 1934. Such forward-looking statements are subject to certain risks and uncertainties as disclosed by Nabors from time to time in our filings with the Securities and Exchange Commission.\nAs a result of these factors, our actual results may vary materially from those indicated or implied by such forward-looking statements. Also, during the call, we may discuss certain non-GAAP financial measures, such as net debt, adjusted operating income, adjusted EBITDA and free cash flow. All references to EBITDA made by either Tony or William during their presentations, whether qualified by the word adjusted or otherwise, mean adjusted EBITDA, as that term is defined on our website and in our earnings release. Likewise, unless the context clearly indicates otherwise, references to cash flow mean free cash flow, as that non-GAAP measure is defined in our earnings release.\nWe have posted to the investor relations section of our website a reconciliation of these non-GAAP financial measures to the most recently comparable to GAAP measures. With that, I'll turn the call over to Tony to begin."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "Good afternoon. Thank you for joining us as we review our results for the first quarter of 2021. This afternoon, I will begin with overview comments. Then I will follow with the discussion of the markets and highlights from the quarter.\nWilliam will discuss our financial results. I will make some concluding remarks before opening up for your questions. Our performance in the first quarter exceeded the expectations which we laid out on our last conference call. We made further progress on our twin priorities of generating free cash flow and reducing net debt.\nOur free cash flow was especially noteworthy. In the first quarter, we generated $60 million. We accomplished this after funding semi-annual cash interest payments on the outstanding notes. We generated adjusted EBITDA of $108 million.\nAll our major segments performed well. Highlighting the earnings power of Nabors portfolio. We believe this accomplishment will rank favorably compared to the market. I am pleased with this start to 2021.\nI'm looking forward to reporting further progress as the year unfolds. Now, I would like to spend a few moments on the macro environment. The quarter began with WTI in the high 40s. By early March, WTI exceeded $66.\nThe price held back has been in the tight range around $60 since. Global oil supply demand continued to rebalance in the first quarter. The EIA reports global inventories of approximately 185 million barrels during the quarter. These trends to commodity prices and inventory are supportive of generally increasing oilfield activity across markets.\nComparing the first quarter and fourth quarter averages, the Baker Hughes Lower 48 land rig count increased by 28%. According to Inverness, from the beginning of the first quarter through the end, the Lower 48 rig count increased by 116 or approximately 30%. The growth rate among smaller clients outpaced the growth of the larger operators at 39% versus 13%. Among the larger clients, approximately two thirds only modestly increased their operating rig counts or held them flat.\nIn comparison, with our focus on larger midsized companies, our own average working rig count increased by 21%. Our total recount increased by three rigs as we add our rigs with multiple customers, while the number of rigs stacked on rate declined by six. Once again, we surveyed the largest Lower 48 clients. This group accounts for approximately 40% of the working rig count.\nOur review of these clients shows flattish activity plans for the balance of 2021. Smaller and medium sized operators are responding faster to the recent trends in commodity prices. In our international markets, we saw the expected demand increase in selected geographies as measured by the number of active rigs. This trend extends across major markets in Latin America and in Saudi Arabia.\nIn summary, global oil supply and demand continues to approach equilibrium as inventories rationalized. Commodity prices seem to have stabilized at levels which generate acceptable operator economics. In response, drilling activity is increasing. Having said that, virtually every day there is a report of a major outbreak of COVID in some geography, the most recent example is India.\nThe possibility of a resurgence of COVID remains a drag on confidence in the recovery. Overall, assuming global economics continue to improve the oilfield market environment is poised to support higher levels of activity. Now, I will comment on our first-quarter results. Total adjusted EBITDA was 108 million in the quarter.\nThese results reflect operating performance that was somewhat better than anticipated. With this performance, we generated approximately $60 million in free cash flow. Our global rig count for the first quarter increased by eight rigs. We saw growth across all our drilling segments.\nIn our Lower 48 business, reported daily big margin of 8,466 was in line with our guidance. For the international segment, adjusted EBITDA for the quarter met our expectations. Daily margin at 12,917 was near the upper end of our guidance range driven by expert performance in the field. Once again, we had outstanding operational execution at our high spec rig fleet.\nStrong operations are leading safety performance, continued cost control and capex discipline all drove the quarter's results. Next, I would like to mention some specific highlights. During the first quarter, we completed additional debt exchange transactions. Between these in our free cash flow, we lost another quarter of balance sheet improvement.\nAdjusted EBITDA in our drilling solution segment again increased sequentially. We saw continued growth in the penetration of our SmartDRILL app. SmartDRILL is Nabors' proprietary rig activity sequencer that digitizes workflows and optimizes rig processes. Our installations on Nabors' Lower 48 rigs increased by nearly 25% versus the fourth quarter.\nOverall, NDS penetration of five or more services, our Nabors' Lower 48 rigs increased versus the prior quarter. It now stands at more than 70%. A year ago, this penetration rate was 60%. As we are adding rigs, clients increasingly realized the value in NDS services.\nWe see this reflected in NDS's results. Also, in NDS client use of our RigCLOUD platform for digital operations increased. In the first quarter, clients utilized RigCLOUD on nearly all of our working rigs in Lower 48. Our third-party installations also grew sequentially.\nWe continue to roll out our differentiated rigs our Analytics platform. This innovative platform aggregates a wide spectrum of drilling and well data, including KPIs and wellbore placement statistics. Clients receive this information with customizable dashboards that enable real time decision making and drive optimal results. We successfully completed the restart of eight idle rigs in Saudi Arabia.\nThis is notable considering the logistical and staffing challenges of starting up a large number of rigs in a compressed timeframe. The local team in the kingdom collaborated closely with our customer to plan the idling process. This arrangement yielded significant cost benefits while the rigs were idle, and as they were restarted. We recently published our updated ESG report for 2020.\nI think you will be impressed with our progress in this area. On a related note, we now have two rigs running advanced battery-based hybrid energy management solutions in the Lower 48. We believe Nabors has the first successful installation on a natural gas fueled rig in the industry. This system has yielded significant fuel savings, as well as an improved emissions profile.\nA third Lower 48 system is expected to deploy in the near future. We are in early discussions with multiple operators or systems in our international markets as well. In addition to these highlights, I would like to discuss RigCLOUD Analytics in more detail. As a reminder, the RigCLOUD value chain combined our Edge, Analytics and digital workflow capabilities.\nThese create a unique and compelling value proposition during the well construction process. RigCLOUD Analytics is powered by high-end edge computing at the rig site. This infrastructure enables us to deliver real time analytics that drive database decisions across multiple wells and rigs. In addition, RigCLOUD Analytics offers key differentiators brands Yes digital and automated solutions, such as our Smart Suite.\nWith RigCLOUD Analytics, clients can explicitly determine the value generated by our apps and drilling services. In turn, these features to support a faster pace of technology adoption and mutually beneficial performance-based contracts. The initial focus of our RigCLOUD Analytics is the prediction of future outcomes, answering the questions, what is likely to happen and when. Our roadmap should lead us beyond this functionality, and ultimately facilitate through automation of the drilling process.\nI would also make some comments on the energy transition and our initiatives to position Nabors as a leader as our industry evolves. I mentioned earlier, increased deployment of the power management system for rigs. We are also examining several alternatives to improve Nabors own carbon footprint, including technologies aimed at carbon capture, emissions, minimization and power management. We look forward to leveraging our expertise, global footprint and proven record of innovation to develop and deploy impactful clean energy Solutions.\nWe expect to make tangible progress in the near future and are excited with the potential of the strategic initiatives. Before turning the call over to William, I will discuss our view of the market in more detail. The Lower 48 industry has added 197 rigs, or 87% since its low in August. Based on the commodity price backdrop, and our conversations with clients, we expect Nabors rig count to increase each quarter through the balance of 2021.\nAlong with this activity outlook, and the resulting increases in utilization, we see pricing traction in the second half of the year. In our international markets, we continue to see steady increases in activity across our major markets. There are two specific developments which I would like to draw your attention to. First, the standard joint venture in Saudi Arabia has now received four awards for new buildings from Saudi Aramco.\nWe expect the first of these to deploy in early 2020. These new deployments are the first step to scale the operation to a new level, backed by the support of our key customer. We are excited at the beginning of this phase of relationship with our partner, and the future growth opportunity presents. In Latin America, we are seeing the customer base broaden in both Argentina and Colombia.\nWe have rigs working for three customers in Colombia, and five in Argentina, where we hold 38% of the market. We think this diversification is healthy for Nabors. It indicates the wide appeal of our value proposition across the customer base. Now, let me turn the call over to William who will discuss our financial results and guidance."
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "Thank you, Tony. And good afternoon everyone. The net loss from continuing operations of $141 million in the first quarter represented a loss of $20.16 per share. First-quarter results compared to a loss of $112 million, or $16.46 per share in the fourth quarter of 2020.\nThe fourth quarter included $162 million of pre-tax gains from debt exchanges and repurchases partially offset by charges of $71 million, mainly from asset impairments for a net after tax gain of $52 million or $7.40 per share. Excluding this unusual item, the net loss improved by 23 million, primarily reflecting lower depreciation and interest expense. Revenue from operations for the first quarter was $461 million, a sequential gain of 4%. Revenue improved in most of our segments, driven by increased drilling activity in the markets we serve.\nIn the Lower 48, drilling revenue of $110 million increased by 6.2 million, or 6%, as a rig count improved by 5%. Despite some deterioration in the average pricing for a fleet, revenue per day increased by $700, reflecting a significant reduction in the number of rigs stacked on rate. Generally, stacked on rate rigs return to work as day rates increase substantially. Lower 48 average rig count at 56.2 was up sequentially by 2.6 rigs in line with our expectations.\nInternational drilling revenue at $247 million increased by 1.7 million or 1%. Despite the absence of 4 million in early termination revenue from the prior quarter. Average rig count of 64.8 increased by 2.2 rigs or 3.5% matching our expectations for the quarter. As anticipated, eight rigs were reactivated in Saudi Arabia progressively during the first quarter.\nHowever, average rig count in the eastern hemisphere fell, reflecting mostly the contract terminations we experienced in the fourth quarter. Canada drilling revenue was $21 million, an increase of $6.2 million or 42%. Rig count increased by four rigs on the seasonal ramp up in activity. Daily revenue increased by nearly $400.\nNabors drilling solutions revenue was $35.7 million, up 3.7 million or 12%, primarily driven by improved performance software and manage pressure drilling. Notably, there was continued growth of rocket with third parties and further adoption of SmartDRILL by new clients. Rig technologies revenue of $25.7 million increased by $1.6 million or 6% due to lower capital equipment sales and fewer rentals. Although assets certification and repair activity were favorable, federal clients deferred deliveries of new equipment.\nTotal adjusted EBITDA for the quarter was $108 million in line with the fourth quarter, and somewhat ahead of our expectations. Sequentially, improved results in Canada and NDS offset reductions in our other segments. US rolling adjusted EBITDA of $58.8 million was down by 3.4 million or 5.4%. sequentially.\nLower 48 performance was in line with our expectations. As we expected daily rig margin came in at $8,466, a $1,000-impact compared to the fourth quarter. Quarter on quarter, although rig count increased, the additional volume was more than offset by a reduction in the number of rigs working at pre pandemic rates and of rigs stacked on rate.I would like to point out that margins for the stacked-on rate rigs are generally higher than the fleet average. For the second quarter, we expect daily rig margins are between $7,000 and $7,500 drew mainly by the signing of renewals or new contracts with current day rates, which are lower than the average for a fleet.\nWe forecast as six to seven rig increase for the second quarter, or an 11 to 12% sequential improvement. Our rig count in the Lower 48 currently stands at 64 rigs or about 7.8 rigs higher than the average for the first quarter. Our other markets within the US drilling segment are expected to improve somewhat as compared to the first quarter, reflecting incremental recount. International adjusted EBITDA decreased by $1.9 million to $62.6 million in the first quarter, or 2.9% sequentially.\nThe improvement in rig count was more than offset by the absence of early termination revenue that occurred in the fourth quarter. Daily gross margin for the quarter was $12,917, a $600 reduction as compared to the prior quarter. The fourth quarter included approximately $700 per day in early termination revenue. Turning to the second quarter, we expect an international rig count increase of three to four rigs, or 5 to 6% driven by units that return to work in Latin America and Saudi Arabia over the course of the prior quarter.\nWe expect gross margin per day of approximately 12,500 reflecting a long rig move in Mexico and general strikes in Argentina. These strikes could result in a period on standby rates for some of the rigs. Current rig count in the international segment is 69 rigs, which translate into a 6.5% increase over the average of the first quarter. We believe that activity in international markets where we operate, already reflected in the fourth quarter of last year.\nCanada adjusted EBITDA of $9.7 million increased by $6.2 million. Rig counts at 13.7 rigs was four higher sequentially. Gross margin per day of 8160 also increased due to the higher activity level and the receipt of $3.5 million in governmental wage subsidies. In the second quarter, we expect the effects of the seasonal spring breakup to impact results, with average rig count around six rigs and daily margins between $5,500 and $6,000.\nWe currently have six rigs operating in Canada Drilling solutions adjusted EBITDA of $11.5 million was up $1.2 million in the first quarter, or 12%. On the strong performance drilling and manage pressure drilling revenue. We expect adjusted EBITDA in the second quarter to be in line with the first quarter. Rig technologies reported negative adjusted EBITDA of $500,000 in the first quarter, a decrease of roughly $1 million.\nFor the second quarter, the segment should once again deliver positive EBITDA and improved capital equipment sales. Now, before I turn to liquidity and cash generation, let me remind you that the mandatory convertible preferred shares will be converting next Monday May 3, approximately 668,000 common shares will be issued and a final dividend will be paid on the conversion. In the first quarter, free cash flow totaled $60 million. This compares to free cash flow of approximately $66 million in the fourth quarter.\nI would like to point out that in the first quarter of 2020, we delivered $8 million in free cash flow. Our EBITDA in that quarter was almost twice the EBITDA of the first quarter of 2021. This improvement in cash flow conversion as compared to a year ago reflects the stain efforts and costs and capital discipline that will continue over the years to come. As in the past, the first quarter was marked by the semi-annual interest payments and a senior note of over $70 million and by approximately $25 million in several annual payments that we incur at the beginning of the year.\nThese payments which will not recur during the remainder of the year include property and other taxes, as well as employee incentive bonuses. These outflows were offset by strong customer collections in the first quarter, including some catch up from last year end as well as by lower capex and higher asset sales. Our capital expenditures of $40 million in the first quarter included $7.5 million in payments related to SANAD newbuilds. To date, we have been awarded four rigs by Saudi Aramco.\nDuring the second quarter, we expect to incur $80 million in capex, of which 30 million will be paid by SANAD for the new bill program. Our target remains at 200 million for the full year 2021 excluding in Kingdom newbuilds for SANAD. For this year the total payments by SANAD for the newbuilds will depend on the achievement of construction milestones by the local manufacturer. Although the local rig program has been delayed by multiple years, Saudi Aramco has now demonstrated its commitment to SANADs rig building program.\nGiven the recent awards, and additional rig purchase orders by SANAD, we now expect SANAD's total payments for these new rigs to approach $100 million for this year assuming milestones are met. In January, SANAD distributed a combined 100 million of the excess cash it had accumulated to its partners. Half of that amount was paid to a Nabors subsidiary, and the other half to Saudi Aramco. On a consolidated basis, the payment to Saudi Aramco partially offset the free cash flow generation.\nAs a result, the net debt reduction for the quarter was limited to $6 million. Nonetheless, with a standard distribution to Nabors and other cash regenerated, we continue to reduce our total debt. During the quarter, we retired approximately 40 million in senior notes, including convertibles, which resulted in a 30-meter reduction in our total debt as reported. We also reduce the amount of standing on a revolving credit facility by an additional $40 million.\nOur total debt reduction for the quarter was $70 million. At the end of the first quarter, the amount drawn in our credit facility was $633 million and our cash balances stood at $418 million. For the second quarter, we are targeting approximately $50 million in free cash flow. Although our interest payments will decrease sharply in Q2.\nWe anticipate a reduction in customer collections, higher capex and lower asset sales as compared to the prior quarter. We will continue to focus on delivering industry leading drilling performance to our customers and sustained growth and market penetration in our drilling solutions business. We're continuing to push for cost and capital discipline We believe that successful implementation of these goals will support our exceptional free cash flow generation. We will continue to allocate our future cash flow to debt reduction until we reach our leverage targets.\nWith that, I will turn the call back to Tony for his concluding remarks."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "Thank you, William. I will now conclude my remarks this afternoon with the following. As we review the first-quarter results, I cannot lose sight of the fact that it was just a year ago that we began to understand the full impact of the COVID-19 virus, the effects of a global pandemic were far reaching. I think it is fair to say that virtually every aspect of our lives was impacted.\nThe same is true for our company. As we adapted to the demands of the pandemic environment, we were forced to reexamine all of our business processes, policies and procedures. The beginning of the second year of this pandemic era reinforces our concentration on several priorities. First, we maintain a laser focus on safety.\nOver the past year, we continue to improve our work processes and procedures. What has become more evident is a palpable change in our underlying safety culture for the better. For this reason, I now believe that mission zero, our goal of zero safety incidents is closer to reality than any time since we introduced it. Second, our commitment to operational excellence continues, client's value and compensate for performance.\nOur industry-leading rig level economic results stems from a multiyear company wide effort at extending Nabors position as the global performance pillar of choice. And we're not finished yet, which brings me to the third priority. Nabors remains dedicated to extending its position as the drilling industry's technology leader. Nabors has been an innovation engine for decades; it has become clear that our industry must now transform itself.\nLooking ahead, our Advanced Solutions will enhance performance and efficiency, as well as sustainability. We believe our investments in robotics and automation technology will catapult us to a new level of performance. I hope you sense my enthusiasm and genuine excitement for our future. I look forward to reporting on our progress.\nThat concludes my remarks this afternoon. Thank you for your time and attention. With that we will take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] And the first question today will come from Karl Blunden with Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Karl Blunden",
+      "speech": "Thanks, good afternoon. Thanks for the time. You keep making progress on paying down some of the maturities, both on the bank side and the bond side. And curious your thoughts on what the next steps would be here you have some maturities coming to you a little bit later this year, but this morning, 23 and 24.\nAnd then, liquidity levers that you see as most feasible to address this."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "So, at this point where we have left this year, amounts to fairly manageable amount. So, nothing particular needs to be done for that. And then, the next maturity is coming in 2023. So, at this point, I don't think it makes sense to telegraph anything, or start, we have many options.\nAnd as the market develops over the coming year, we will decide what we do about those maturities."
+    },
+    {
+      "speaker": "Karl Blunden",
+      "speech": "That makes sense. And certainly you're -- the near leash guaranteed bonds are trading at levels that are relatively tight now. With regard to other ways to raise capital and maybe address some of this already. But some companies in the industry with the strong equity rally has spoken about equity linked issuance, is that something that you would consider as well in the range of options."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "We consider everything all the time. But again, like I said, we're not going to be telegraphing what we will do in the future because I mean, we have many options. So, I don't think it makes sense to focus on anything and talk about it at this point."
+    },
+    {
+      "speaker": "Karl Blunden",
+      "speech": "Fantastic. Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And the next question will come from Taylor Zurcher with Tudor, Pickering, Holt. Please go ahead."
+    },
+    {
+      "speaker": "Taylor Zurcher",
+      "speech": "Hey, good afternoon, and thank you. My first question is in international the margin guidance for us $4,500 a day It sounds like that includes some negative impact from a rig movement in Mexico and then also some negative impact from Argentina strike event. I was hoping you could help us think about the magnitude of the negative impact for both those points. And, maybe give us some guidance or just high-level commentary on where you see the margins trending once you get past Q2 and into the back half of the year."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "OK. So, you're right to guard the guidance was 12, five, and we expect the second Q guidance to be impacted by along with Mexico, and Australia and Argentina. I think we've indicated that we expect the rig count to grind higher throughout the course of the year. And those incremental wage will be accretive to the overall fleet.\nI think the issue about margins, though, is as those rigs roll out, there will be start-up costs ramp up costs, that will have to, to also bear so on that basis, we'll see what happens. But we're not going to give any specific numbers for the rest of the year on margins beyond the second quarter right now."
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "So, I'll add to what Tony said. I mean, the pricing right now is fairly stable to up in the international markets that deterioration in this coming quarter is slowly resulting from the rig move in Mexico. And it's really the health, health employees in Argentina that are striking and their -- they're basically blocking the roads and the access into the well sites. So, that's what's going on Argentina.\nThey are asking for higher salary increases, and they're sort of arguing with the government on what that should be. So, we expect the government to sort that out pretty quickly, but nonetheless, decided to put some preventive contingency for, for those potential standby rates."
+    },
+    {
+      "speaker": "Taylor Zurcher",
+      "speech": "OK, that's helpful. And from an international activity perspective and the backdrop just feels like it has to be improved. And right now, your rig counts trending higher. And so, I'm curious what sort of visibility you have toward incremental rig additions, in both Latin America and the Middle East and maybe even elsewhere, in the back half of the year.\nAre those things that you do have visibility on today? Or is it just a bit too early to make that comment today?"
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "Well, as I said, I think we do see visible to say, say enough right now that we think the rig count is going to grind higher during the course of the year. I think as William alluded to; we thought the inflection point occurred last quarter. And I think in the fourth in the fourth quarter, rather in the fourth quarter, and therefore we do believe that's the case that that will be in the Middle East and in Latin America. I'm not going to get into specific countries right now."
+    },
+    {
+      "speaker": "Taylor Zurcher",
+      "speech": "OK, fair enough. That's it for me."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Waqar Syed with ATB Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "Thank you. Just following up on the last question on International. So, some of the larger cap service companies are saying that second half, the revenues in International would be up move -- seen capital spending could be up like low double digits, maybe 12 or 13%, year over year. So, what's your rig count international kind of mirror that that means second half, international rig count for Nabors could be like, 12, 13% or something in that range up second half of last year, that would imply maybe 75? You know, 75, 76 rigs on average in H2? Is this right way to think about it?"
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "Waqar, I think you shouldn't extrapolate what the big companies are. Remember, we're indifferent. We're not in all the markets, internationally. And we're certainly not an offshore internationally.\nSo, I don't think those percentages are applicable to our fleet. But we're pretty confident given the clients that we do have some of the negotiations on-going, and some of the tenders that we feel we're very well positioned for that you will see a very nice progression of the second half of 2021."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "OK, thank you. Secondly, your margin guidance for Canada. Does that include wage subsidies?"
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "No."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "It does not. OK. And then, second -- and then finally, just --"
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "We don't expect a number as big as that in the second quarter. So, that's what we have."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "Right. And then, in terms of the US Lower 48 drilling margins, do you think that second quarter is the bottom?"
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "No. I do not. I think today in the market, Waqar we are looking at, on average current margins on a marginal basis, incremental basis is somewhere in the $6,000 range. That's where the new contracts are being signed, roughly.\nIt's a range, of course, but that's the average. So, we do believe, as Tony mentioned, and I think Tony can elaborate a little bit on that that pricing will evolve in the second half. So, we'll go up from that. But it's a question on how many rigs we add and how fast.\nSo, it's depending on how well we do with rig additions. It's good in general, but it does bring the margin slightly down. Now, we don't think well, we're hoping to hold the line at 7,000. That's what we're hoping where we think we will bottom."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "Yes, just to add some more color there. So, I think the good news is we are seeing some slight movement in leading edge pricing, particularly West Texas and East Texas. Both of those, I think as the as the high spec rig, gain utilization there, it's much more constructive pricing environment. I think South Texas, North Dakota, and the Northeast are lagging there a little bit.\nBut in terms of pricing, leading edge pricing continues to be below our current average of the fleet. However, I think from even last quarter, we're now seeing leading edge rates in the high-teens and maybe crossing over into some low-20s. So, it is constructed. The question is as, as utilization drives forward in the second half, and price increases, will that offset the client that you're seeing in terms of the delta between the historical backlog of rigs versus the spot price.\nAnd as we have said, we're hoping to balance that to have some good results going in the second half."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "It makes sense. Then do you have handy your schedule of contract explorations in going forward in the coming quarters for low 48 rates."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "I think, I don't really have that handy. So, maybe you can follow up with that Bill."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "I'll do that. Thanks. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our next question will come from Gregg Brody with Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "Good afternoon, guys. Just maybe, could you clarify a bit on sign out? So, you said there's four rigs coming up that are on order now? I think you said there's 100 million of capex."
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "Now, let me clarify. Aramco has awarded four rigs. We have not yet issued deals for all of those rings. Only for some of them.\nSo. So, that so we have an order. But yes, I mean, we expect that we will order those for rigs sometime this year."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "Got it. So, how much capex at SANAD should we expect this year, I'm trying to separate what's the total capex for the company? And then just figure out what's at SANAD?"
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "I think we can talk about that at another venue. I don't have the specifics that we look at Saudi Arabia together. But what I can tell you is for the in Kingdom rigs, depending of course on the milestones and achieve the milestones by our local manufacturer, which is part of the assumption of the number that I gave earlier, we should approach somewhere in the range of $100 million this year, paid by sign up for those new bills. The rest is the rest of our capex spending is in line with what we've guided before, at the end of the year.\nAnd we still expect us the number one for the rest of --"
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "And am I correct? Is that 65? That was the that was the guidance, right?"
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "No. The guidance, 200 million for the full year."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "Got it. Thanks."
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "Some number approaching 100 depending on milestones being achieved by the by the local manufacturer, paid by SANAD."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "So, you're saying 200 million plus whatever it is between zero to 150."
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "Got it. And then, you made a comment about exceptional free cash flow this year. Can you help us think through what's driving, what's what we expect from working capital harvesting? And are you comfortable actually giving what that exceptional free cash flow number is?"
+    },
+    {
+      "speaker": "William Restrepo",
+      "speech": "No. I think this is not just working capital. Working capital did well in the first quarter. We had maybe a few tens of millions extra from the delays we suffered at the end of last year.\nWe had a couple of customers that sat on their invoices, large one, so that had an impact in the fourth quarter of last year. But a lot of what you're seeing today in Nabors is driven by reductions in overheads, cuts in capex. And interest rates, of course, have been going down. So, all those items are much more impactful that proceed or working capital, harvesting, as you said, That's not a big component of our free cash flow."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "OK, got it. And one more. One last one for you. So, you mentioned, you're planning on participating in the carbon transition -- the energy transition, which splits investments you mentioned a few of them.\nCan you talk a little bit about how should we think about the timing of the of those investments from your side? And when you see that becoming part of your business?"
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "Yes, well, I think some of the some of the things are internally developed from our normal course, operations. And as I said, the power management we're rolling out right now. And we have some follow-on activities. The next couple quarters, you're going to see some follow-on products that are add on.\nI don't see that it's a big capital expenditure consumer, though if that's what you're getting at."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "I mean, that's part of it. I'm just trying to understand what it what the business can if there is much investment required?"
+    },
+    {
+      "speaker": "Tony Petrello",
+      "speech": "Yes. Well, like I said, what we're what we're targeting is things that actually have scale capability. That that is our goal, to think that and that not only apply to Nabors rates it could apply more generally as well. That's the kind of thing we're looking at.\nAnd next couple quarters, I think you'll begin to see what some of those products will look like."
+    },
+    {
+      "speaker": "Gregg Brody",
+      "speech": "Well, I appreciate the time, guys. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] This will conclude our question-and-answer session. I'd like to turn the conference back over to Bill Conroy for any closing remarks."
+    },
+    {
+      "speaker": "William Conroy",
+      "speech": "Thank you, Paul. We'll wrap the call up there. Thank you, ladies and gentlemen, for joining us this afternoon. If you have any questions, please give us a call or email us."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 44 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "William Conroy--Vice President of Investor Relations and Corporate development",
+    "Tony Petrello--Chairman, President, and Chief Executive Officer",
+    "William Restrepo--Chief Financial Officer",
+    "Karl Blunden--Goldman Sachs -- Analyst",
+    "Taylor Zurcher--Tudor, Pickering, Holt & Co. -- Analyst",
+    "Waqar Syed--ATB Capital Markets -- Analyst",
+    "Gregg Brody--Bank of America Merrill Lynch -- Analyst"
+  ]
+}

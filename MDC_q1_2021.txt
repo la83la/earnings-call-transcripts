@@ -1,0 +1,338 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good afternoon and welcome to the MDC Holdings Inc. Quarterly Earnings Conference Call. I now would like to turn the call over to Derek Kimmerle, Director of SEC Reporting. Please go ahead."
+    },
+    {
+      "speaker": "Derek Kimmerle",
+      "speech": "Thank you. Good morning, ladies and gentlemen. And welcome to MDC Holdings 2021 first quarter earnings conference call. On the call with me today, I have Larry Mizel, Executive Chairman; David Mandarich, Chief Executive Officer; Bob Martin, Chief Financial Officer; and Staci Woolsey, Chief Accounting Officer.\nAt this time, all participants are in a listen-only mode. After finishing our prepared remarks, we will conduct a question-and-answer session, at which time we request that participants limit themselves to one question and one follow-up question. Please note that this conference is being recorded and will be available for replay. For information on how to access the replay, please visit our website at mdcholdings.com.\nBefore turning the call over to Larry and David, it should be noted that certain statements made during this conference call, including those related to MDC's business, financial condition, results of operation, cash flows, strategies and prospects and responses to questions may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve known and unknown risks, uncertainties and other factors that may cause the company's actual results, performance or achievements to be materially different from the results, performance or achievements expressed or implied by the forward-looking statements. These and other factors that could impact the company's actual performance are set forth in the company's first quarter 2021 Form 10-Q, which is expected to be filed with the SEC today.\nIt should also be noted that SEC Regulation G requires that certain information accompany the use of non-GAAP financial measures. Any information required by Regulation G is posted on our website with our webcast slides.\nAnd now, I'll turn the call over to Mr. Mizel for our opening remarks."
+    },
+    {
+      "speaker": "Larry A. Mizel",
+      "speech": "Good morning. Thank you for joining us today as we go over our results for the first quarter, provide an update on current market conditions and give our thoughts on the outlook for our industry and our company.\nMDC Holdings delivered another quarter of strong profitability in the first quarter of 2021 generating net income of $111 million or $1.51 per diluted share. Our teams did an excellent job executing in their respective markets, leading to double-digit year-over-year increase in closings, orders and quarter-end backlog for our company.\nWe also expanded our home sales gross margins by 200 basis points and improved our SG&A leverage by 180 basis points. These results are a testament to the favorable housing fundamentals that exist today as well as the strategic focus of our company, which targets the more affordable segment of the market and adheres to a build-to-order operational model.\nWe ended the quarter with 7,686 homes in backlog, a 65% increase over the first quarter of 2020. On a dollar value basis, our backlog stood at $3.9 billion and represents the highest quarter end backlog value in our company's history. This gives us great visibility into our closings for the remainder of the year and allows us to focus more on our efforts to maximize profitability with our existing sales efforts.\nI will now turn the call over to our President and Chief Executive Officer, David Mandarich, for additional comments on the current market conditions and our strategic focus. David?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Thank you, Larry. The demand for new homes during the quarter remained strong and continued to be broad-based in nature as we witness positive trends across the number of markets and price points.\nOur unit orders increased 34% year-over-year, mainly due to the acceleration in orders per community, which averaged 5.6 per month in the quarter. This figure could have been even higher were not for our efforts to balance orders and pricing to best manage our backlog.\nWe continue to see particular strength at our more affordably priced communities as homebuyers from all demographic segments look for alternatives to the lack of availability in the high cost of existing homes in most markets. This has been a focus for ours for the last several years and the response has been incredible. We attribute a large part of our success at lower price points to the quality and design of our homes, which allows for personalization and flexibility, thanks to our build-to-order model.\nToday's homebuyers are looking to get more out of their homes than ever before. They want something that is tailored to suit their needs, whether it be a home office, a place to exercise or an entertainment venue. Our home offerings are intended to cater to the desire for personalization and our home galleries provide even more options for our buyers. We believe this approach leads to a higher customer satisfaction and better results for our company over time.\nAnother benefit to our build-to-order model is that it's more consistent and stable to run the business. Building out speculative inventory can be lucrative during periods of heightened demand, but it can also be a result in a glut of completed homes and a lack of pricing power when the market turns. We feel a more prudent strategy is to start the build process once the contract is in hand. This is part of our ongoing strategy to be a builder that operates through housing cycles rather than is consistently chasing market then.\nI'd like to turn it back to Larry for a few more comments."
+    },
+    {
+      "speaker": "Larry A. Mizel",
+      "speech": "Thank you, David. Another way in which we operate in housing cycles is by maintaining a strong balance sheet. Our total availability liquidity at the end of the first quarter was over $1.9 billion, with cash and cash equivalents representing over $750 million of that figure. Our debt-to-capital ratio was 38.6% and our net debt-to-capital ratio was 22.3%.\nRecently, S&P, a global rating, recognized this financial strength as well as our consistent operational performance by upgrading our credit rating to investment-grade. Having access to low cost capital is a key ingredient for success in our industry. And the fact that we are one of the few builders with an investment-grade rating is a competitive advantage.\nOur strong balance sheet also gives us the ability to pay out an industry-leading quarterly dividend of $0.40 per share, which is up 31% from the first quarter of last year. Returning capital to shareholders via dividends has been a hallmark for our company for years now and we believe it is a great way to attract and reward long-term shareholders.\nIn summary, the outlook for our company remains bright, thanks to favorable housing dynamics, our strategic focus and our considerable liquidity position. We ended the first quarter with the largest backlog on a dollar value basis in our company's history, giving us great visibility into the remainder of the year and supporting our decision to make significant investments in land that will serve as a foundation for the growth in the coming years.\nNow, I'd like to turn the call over to Bob, who will provide more detail on the results of the quarter and give us an update on the outlook for the year."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Thanks, Larry. And good morning, everyone. We delivered another quarter of strong profitability generating net income of $111 million or $1.51 per diluted share. This represented a 201% increase from the first quarter of 2020. Home sale revenues grew 49% year-over-year to over $1 billion, while homebuilding operating margin improved by 380 basis points from the prior-year quarter. The growth in home sale revenues and margin expansion resulted in a 129% increase in pre-tax income from our homebuilding operations to $113.5 million.\nIn addition, our financial services pre-tax income increased to $30.8 million compared to a loss of $1.1 million in the first quarter of 2020. The increase was driven by our mortgage business, which continues to benefit from the increased volume generated by our homebuilding operations. Our mortgage business further benefited from a year-over-year improvement in capture rate and profit margin on loans originated. Additionally, our financial services pre-tax income in the first quarter of 2020 was negatively impacted by $13.9 million of unrealized losses on equity securities, whereas no such loss was incurred in the first quarter of 2021.\nOur tax rate decreased from 24.3% to 23.3% for the 2021 first quarter. The decrease in rate was primarily due to an increase in the estimated amount of energy tax credits to be recognized during the year. For the remainder of the year, we currently estimate an effective tax rate of 24%, excluding any discrete items and not accounting for any potential changes in tax rates or policy. Homes delivered increased 41% year-over-year to 2,178, driven by an increase in the number of homes we had in backlog to start the quarter. This was slightly below our previously estimated range of 2,200 to 2,400 closings.\nFrom a construction standpoint, we completed enough homes to reach the top end of our range. However, with cycle times extending by about two weeks from the fourth quarter, we had an unusually high volume of closings for the final week of March that caused a delay in the timing of certain pre-closing activities. As a result, we moved some of our expected first quarter closings into the month of April. In spite of these minor delays, we remain confident in reaching our full-year target range for closings of between 10,000 and 11,000 units.\nFor the second quarter, we are anticipating home deliveries to reach between 2,500 and 2,700 units. We continue to see lower backlog conversions year-over-year as a result of considerable year-over-year increases in net orders and, to a lesser extent, increased cycle times. We believe that cycle times could increase further due to longer lead times for various building products and high demand for labor required to build homes.\nThe average selling price of homes delivered during the quarter increased 6% to about $478,000. This increase was the result of price increases implemented across the majority of our communities over the past 12 months as well as a shift in the mix of homes closed from Arizona and Florida to Southern California and the Mid-Atlantic. We expect the average selling price for our 2021 second quarter unit deliveries to approximate $500,000.\nGross margin from home sales improved by 200 basis points year-over-year to 21.9%. We experienced improved gross margin from home sales across each of our segments on build-to-order and spec home deliveries, driven by price increases implemented across nearly all of our communities over the past 12 months. Gross margin from home sales also benefited from a 40-basis-point improvement in our capitalized interest in cost of sales as a percentage of the home sale revenues, which is a great example of how our business continues to benefit from increasing scale.\nWe continue to closely monitor building costs, which have increased as a result of the pandemic. However, we have been successful to this point in offsetting most of these increased costs through home price increases. Gross margin from home sales for the 2021 second quarter is expected to be approximately 22.5%, assuming no impairments or warranty adjustments. We continued to benefit from improved operating leverage during the first quarter as our SG&A expense as a percentage of home sale revenues decreased 180 basis points year-over-year to 11%.\nGeneral and administrative expenses increased $12.1 million due to increases in compensation-related expenses, including higher average headcount during the quarter. For each of the remaining quarters of 2021, we currently estimate that our general and administrative expense to be at or above the $57 million we just recognized during the first quarter.\nMarketing expenses increased $4.3 million due to variable marketing costs such as deferred selling amortization and master marketing fees as well as increased online advertising costs. Our commission expenses as a percentage of home sale revenues decreased 20 basis points as we have taken steps to control these costs during this period of strong demand for new housing.\nAs previously mentioned, our homebuilding operating margin, defined as gross margin from home sales, minus our SG&A rate, grew by 380 basis points year-over-year to 10.9%. On the strength of this improvement, as well as the success of our mortgage operations, our last 12 months pre-tax return on equity increased by more than 1,000 basis points year-over-year to 27.6%.\nI would now like to turn the call over to Staci Woolsey, who will talk about our sales and backlog trends. Staci?"
+    },
+    {
+      "speaker": "Staci Woolsey",
+      "speech": "Thanks, Bob. And good morning, everyone. Let's look at our net new home order information for the quarter on Slide 9. The dollar value of our net orders increased 50% year-over-year to $1.64 billion and unit net orders increased by 34%, driven by a 30% increase in our monthly absorption rate to 5.6.\nAs David mentioned, demand continued to be broad based in nature with particular strength at our more affordably priced communities. Also, as previously noted, our net new home orders for the first quarter could have been even higher were it not for our efforts to balance orders and pricing to best manage our backlog.\nThe average selling price of our net orders increased by 12% year-over-year, driven by price increases implemented over the past 12 months as well as decreased sales incentives. We ended the quarter with 186 active subdivisions and expect this number to remain relatively consistent throughout the second quarter before seeing growth in our active subdivision count during the second half of the year.\nNow, we'll turn to Slide 10 to discuss backlog, As a result of our strong sales, we ended the quarter with an estimated sales value for our homes in backlog of $3.93 billion, which was up 81% year-over-year. The average selling price of homes in backlog increased 9% due to price increases implemented over the past 12 months, decreased incentives and a shift in mix to California. These factors were slightly offset by a shift in mix to lower-priced communities, consistent with our ongoing strategy of offering more affordable home plans.\nWith that, I'll now turn the call back over to Bob."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Thanks, Staci. I will turn now to land activity on Slide 11. We approved 4,347 lots for acquisition during the quarter, a 108% increase from the prior-year, reflecting our confidence in market conditions and our focus on continued growth. We acquired 3,231 lots during the quarter across 60 subdivisions, which is a 90% increase from the prior year. This included the acquisition of our first lots within our newly formed division in the Boise market.\nLand acquisition and development spend for the quarter totaled $358.7 million. As a result of our recent land acquisition and lot approval activity, our total lot supply to end the quarter exceeded 32,000 lots, representing an 18% increase from the prior-year. We believe that this lot supply, combined with continued lot approval and acquisition activity, provides us with a solid platform to meet our growth targets.\nIn summary, we are pleased with our start to 2021 and believe that housing backdrop remains favorable as we look forward to the rest of the year. We are mindful that there are many risks to achieving our goals for 2021. With that said, we are confident that our talented employees across the country will continue to be successful in mitigating these risks as we work to execute our strategic plan.\nWith respect to the pandemic, we are encouraged by the increase in vaccinations occurring in the United States and other parts of the world. However, we are keenly aware that much uncertainty remains. As such, we remain firmly committed to ongoing safety protocols that keep our customers, subcontractors and employees safe.\nThat concludes my prepared remarks. We will now open up the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And the first question comes from John Lovallo with Bank of America Merrill Lynch."
+    },
+    {
+      "speaker": "John Lovallo",
+      "speech": "Hey, guys. Thank you for taking my question. First one, I guess is, can you just help us to mention how much of prices increased across your communities, maybe over the past quarter or two? And with the order ASP at about 510 in the quarter, just maybe any thoughts that you guys have on affordability today and how that may progress through the year?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Yeah. I'd be happy to give you an answer to that, John. So, first of all, with regard to how much prices have increased during the first quarter, we increased prices by about 10% from the start of the first quarter to the end of the first quarter. For the fourth quarter, it was about 5%. With regard to affordability, certainly we are managing our business. With that in mind, we are making adjustments based upon the demand that's out there. And we've continued to see pretty strong demand even in spite of the recent price increases."
+    },
+    {
+      "speaker": "John Lovallo",
+      "speech": "Got it. Okay. That's helpful, Bob. And then, maybe just on gross margins, if you could help us, just any thoughts on progression of gross margins through the year and perhaps even the sustainability of margins heading into next year?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Yeah. We put up the 22.5% as our estimate for Q2. And I think there is the opportunity for sequential improvement from there. We have not put a number to that yet. Not quite ready to go out into 2022 yet., but right now with the demand we're seeing and lack of supply, we think things set up well for 2022 as well."
+    },
+    {
+      "speaker": "John Lovallo",
+      "speech": "Thanks for the time, guys."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And the next question comes from Michael Rehaut with JPMorgan."
+    },
+    {
+      "speaker": "Maggie Wellborn",
+      "speech": "Hi, this is Maggie on for Mike. First, I was just wondering if you could talk about any of the trends that you've seen into April, just a little bit more color around what you've seen over the last month."
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "April -- this is David. I will tell you the trends are pretty consistent with the kind of the first quarter. Sales are good. I think you heard Staci talk about that we're balancing the demand with starts. And overall, we're seeing it pretty well and we have a lot of subdivisions that have a lot of demand and people are waiting for the next release of lots."
+    },
+    {
+      "speaker": "Maggie Wellborn",
+      "speech": "Got it. Thanks. And second, obviously demand was broad-based during 1Q, but could you give a little bit more regional color, any regions worth calling out as being a little bit stronger or a little bit weaker than others?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Maggie, Larry and I've been doing -- this is our 45th year. And I'll tell you, I don't think we've ever seen what I call real consistent demand in all of our markets. So, we're feeling this broad-based, I think, our strategy that we started a couple of years ago with a lot more affordable product has been really good. And weather in Seattle or Orlando or Virginia, Maryland, Colorado across the board, we're seeing a lot of demand really not only for affordable product, but for our products that we have, especially with the build-to-order model."
+    },
+    {
+      "speaker": "Maggie Wellborn",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And the next question comes from Alan Ratner with Zelman & Associates."
+    },
+    {
+      "speaker": "Alan Ratner",
+      "speech": "Hey, guys. Good afternoon. Nice job in the quarter. My first question, it sounds like you as well as others are obviously managing orders based on however many homes you can get built. So, if I look at your sales pace over the last year, including this quarter, you've been kind of in that five to six per month range per community. Is that a decent way to think about how many homes you're actually able to start right now on a monthly basis per community? And is there any ability to flex that higher based on what you're seeing in terms of labor availability or lot availability or anything like that? Or is that five to six kind of the way we should think about that going forward?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Alan, this is David. I'll just make a couple of comments and turn it over to Bob. But we really have a policy in place since we build-to-order that we really want to sell homes and be able to start it for our customers in 60 days or less. And so, every subdivision acts a little bit differently, and some subdivisions, we get a little more absorptions than others, some are a little bit less, but overall, were sticking to our business model.\nBob, what do you have to add to that?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "The one thing I would add just from a kind of a practical standpoint, if you look at the number of starts we had during the quarter, it was about 3,200 and that pretty closely matched the sales that we had during the quarter. And that gives me one indication that we're keeping up with the pace of our sales. Like David said, we have a policy that we manage to, where we really don't feel like we can start it within the next, call it, 30 to 60 days. Then we really try not to sell it. So we're very detailed about how we go through that process and how we track and manage through that."
+    },
+    {
+      "speaker": "Alan Ratner",
+      "speech": "Got it. That's helpful color. I appreciate that. My second question, it's a little bit multi-part, so I apologize. But if I look at your backlog, the 700 homes or so you've got in backlog, what percentage of those are currently under construction? And for the ones that are not, do you have perfect visibility into your costs on those homes or is there any inflation risk assuming the homes have not yet been started? And tied into that, a few years ago, you kind of toyed around with this concept of drywall specs. And if I remember correctly, I think you did that to kind of protect against some shortages that were going on at that time. And I'm curious if there is any contemplation to doing something similar, this go around [Phonetic]?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "I'll just start by saying that we have about 5% of our backlog is around 60 days. We've got a few more that's in the process. But overall, we feel pretty good about it. But one of the things we're not going to do is, we're not going to build specs and we've pre-planned houses with plans and ready to go, but we're not doing what we did in years past where we stuck [Technical Issues].\nBob, would like to add on to that?"
+    },
+    {
+      "speaker": "Alan Ratner",
+      "speech": "David, that [Speech Overlap] number you gave, I just want to confirm, so that's the piece of the backlog that you don't necessarily have the costs?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "No, it's a little higher than that [Indecipherable]. So just to be clear, so of that backlog at 03/31, I think it was about 76% of our backlog was started, and I think the number of David is referring to is the ones that are past 60 days since we sold them."
+    },
+    {
+      "speaker": "Alan Ratner",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Not yet started -- which is actually pretty normal number for us, that's within a normal range just due to permitting times and things like that. So, we feel pretty good about that. And the other thing is, when you look at that 76%, go back a year, we only had 70% of the houses started, so we're actually a little bit ahead on starts, relative to our backlog, which I think is really good fact. There's always the potential that something increases as you're building the house. But I think once you started it, you feel pretty good about where you're at."
+    },
+    {
+      "speaker": "Alan Ratner",
+      "speech": "Got it. I appreciate that, guys. Thanks a lot."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "No problem."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And the next question comes from Truman Patterson of Wolfe Research."
+    },
+    {
+      "speaker": "Truman Patterson",
+      "speech": "Hey. Good afternoon, everybody. Thanks for taking my question. First, Bob, wanted to follow-up on pricing, very robust pricing in the quarter. Is there any way you could help us break that out between entry level and the move up? Are you seeing any real discrepancy there? And then also, can you remind us how you all by lumber? Do you actually lock it in on a trailing 13-week basis or is it more spot?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Yeah, I think on the first question, I don't have the granularity between product types, I would say it's pretty similar between the two. If I had to hazard a guess, I think we're seeing good pricing across most of our price points. And we're not building in ultra high price bands. So there is a lot of stuff, even with, outside of our affordable stuff that's still very attainable, I think by a lot of consumers."
+    },
+    {
+      "speaker": "Truman Patterson",
+      "speech": "Okay. Thanks for that. Locking in lumber costs?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Yeah. So, on the lumber cost side, it varies by division how we do it. Some of it might be on a 90-day lock, some of it tighter than that.\nDavid, is there anything you want to add to that?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "No, depending on which market you're in, it's anywhere from 60 days to 90 days. As you well know, we've had a tremendous increase in lumber for the last 12 months. So it's really a sticker shock, but we believe that we've been able to increase prices for all the increase that we have in lumber and other categories."
+    },
+    {
+      "speaker": "Truman Patterson",
+      "speech": "Okay. And then, as a follow-up question, you all generally buy more retail lots, you don't really speculate in development or land price appreciation or anything like that, but it seems like given the shortage of communities and just active lot supply in the market right now, I would imagine those lots are heating up activity. So, just trying to understand what sort of inflationary pressures you're seeing in current land deals? And are you seeing other builders be -- become a bit more rational, either with pricing targeting much larger communities, higher absorption paces, etc? Just hoping to get your color there."
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "I'll tell you. It's -- I think the whole industry has been pretty disciplined. Now, you have certain builders that are certainly buying bigger parcels than we are. But I'd say, generally speaking, when I look across the industry, I think everybody is very disciplined, they're all looking to make a margin. And one of the things I want to clarify is, we do some finished lots and we also do some lots that we develop. We don't speculate and we only buy entitled lots.\nBob, maybe you can give him a little bit of color on kind of our spread."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Yeah. The development lots that require any level of development for the first quarter in terms of what we approved, it was actually about 70% of the lots versus 30% finished. And it's always been kind of in that 50/50 type of range. We love to buy more finished, but it's just not practical in all of our markets. So there is a quite a bit of development involved."
+    },
+    {
+      "speaker": "Truman Patterson",
+      "speech": "All right. Thank you. Appreciate that."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And the next question comes from Stephen Kim with Evercore ISI."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Yeah. Thanks a lot, guys. Obviously strong results, but no good deed goes unpunished. And so, one of the things that we've been hearing from investors more and more has been this concern that the builders just simply can't ramp up their starts. So your 3,200 figure that you gave, I thought was important, because that's up about -- what -- 55% year-over-year. I think that's the second quarter in a row that you've done something like that.\nSo I wanted to delve into that a little bit more, because obviously that's a pretty huge ramp in your production and it's in the history books here. So you've done it. Just want to understand, how much of this increase in starts would you say is from growth or increased productivity within each community as opposed to a greater mix of communities that are, let's say, entry level in orientation. So how much is mix versus how much is sort of just ramping up your productivity within each community?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Steve, I'll start and just make a couple of comments. But clearly one of the things that's happened to our company last couple of years is, the start process for our more affordable houses has certainly been faster and our cycle time is actually a little better on the more affordable products. And we're seeing a lot of demand there. And I think overall, it's challenging for every builder today with labor and supplies, but overall, I think our start process has been pretty good and we look at it as you well know every week, every day, so we're really on it. We really track it.\nBob, what do you have to add?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Yeah, I guess, just looking at kind of where we are now versus a year ago, so what we call affordable on net orders for Q1 we were at about 63% and a year ago it was 54%. So it's increased, but not to the degree that you would say it's overly impactful, I guess, upon the -- the cycle times or the starts or at least to believe that that's the primary factor. I think it's really just our focus on ramping up and having the resources ready, including certain increases to our headcount in prior periods that's helped us with that."
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Steve, just to add on a little bit. Cycle times are little faster in some of the markets that might not have weather like Colorado, which you know well and same thing with Utah, and maybe somewhat with Seattle with the rain."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Yeah. No, it's impressive because you could almost have thrown in Texas into that list of states, which isn't usually in there. And so, the starts given that headwind are particularly impressive. I wanted to ask also, if I could, about the order ASP. Obviously the ASP was up 12%, it's been up double-digit to each of the last three quarters, you gave some good info on price so far today. But was curious how much of this increase you're seeing in increased option activity, I mean options and upgrades versus base price would you say?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "I would say it's mostly base price."
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Yeah, I'd say, Steve, it's mainly base price. And one of the things I think you heard Staci said and Bob said, we've had a fair amount of increase in California starts that has a higher average sales price."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Great. That's helpful. Last housekeeping item, land spend was, I think, you said $349 million this quarter, do you have a goal for the year?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "We do not have a specific goal for the year."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Okay. That's fine. I'll follow-up later. Thank you very much guys. Good job."
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "See you, Steve. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And the next question comes from Deepa Raghavan with Wells Fargo Securities."
+    },
+    {
+      "speaker": "Deepa Raghavan",
+      "speech": "Hi. Good afternoon, everyone. Thanks for taking my question. So, a lot of positives across the industry, Larry, David, Bob, Staci. But was there anything you would call out as a concern that could linger? You called out cycle times to be temporary, maybe couple of quarters, maybe cycle back to normal times, but anything else you would highlight maybe from this continued price increases or anything that would actually -- that could actually, I wouldn't say necessarily keep you up at night, but something that you would definitely want to understand as the year goes?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "I'm not sure there is any one thing, it's being in the good part of the cycle where you are trying to figure out how to start a very healthy amount of backlog. And of course that puts more pressure on the labor pool, on the subcontractors, on the product supply coming through and that's complicated by the pandemic. So, we've talked about lumber before. And I think on prior calls, we talked about appliances one time, HVAC units, we've talked about windows have come up from time to time. So it's little fires here and there and not just one thing.\nSo, I think, as we look forward, we're cognizant about that it can pop up really anywhere at any given time. And the important thing is that our division managers are staying on top of it in constant communication with their subcontractors to make sure they are giving the appropriate lead times and what have you. And I think, to this point, our division managers have done a great job with that."
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "And I would just like to add on that we have the best group of division managers we had in 45 years. And every state and every division and every subdivision might have a challenge or two, but our leaders have done a great job of adapting to whatever the issues may be and working their way through it."
+    },
+    {
+      "speaker": "Deepa Raghavan",
+      "speech": "Okay, that's helpful. Can you talk about how your subdivision net adds are trending? I see your active subdivisions fell the most in the Mountain region, I mean, strong absorption there obviously, but could you elaborate on that and how you plan on replacing communities there? I mean, is that pacing with what you had expected or you're facing some difficulties in trying to add communities there?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Well, this is David. I'll start off a little bit and let Bob add on. But you saw that we added on a number of subdivisions in the first quarter. We're in the subdivision acquisition business in every market that we're in. And we actually believe we're going to have an increase in subdivision count by the end of the month.\nBob, what do you have to add to that?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Well, it's not by the end of the month."
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "I mean, by the end of the year, excuse me."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "[Speech Overlap] is what, yeah. And I think Staci described it earlier, we expect it still to be a little bit flat here in Q2. And then in the back half of the year, we'll see most of the growth as a lot of the communities that we purchased over the course of the past year come online. So that's kind of the cadence. The Mountain region, as you noted, it was down, but probably it's going to reflect a similar sort of trend."
+    },
+    {
+      "speaker": "Deepa Raghavan",
+      "speech": "Okay, fair. Just last one, if I can sneak it in. The steep increase in pricing in your East, a 32% average pricing that stands out, just curious what drove that. How sustainable is this? Thanks."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "I think a little bit of that is mix, a little bit of it's product mix and kind of mix between the two areas within, which is Mid-Atlantic and Florida in that region. So, I think, Mid-Atlantic is a little bit higher priced. We've made a lot of investments in that market. I think you're going to continue to see that be a higher percentage of the overall mix going forward. So it's probably going to stay a little bit higher."
+    },
+    {
+      "speaker": "Deepa Raghavan",
+      "speech": "Great. Thanks very much. I'll pass it on."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] And the next question comes from Alex Barron with Housing Research Center."
+    },
+    {
+      "speaker": "Alex Barron",
+      "speech": "Yes, thank you. And great job on the quarter. I was kind of looking at the growth you guys have experienced in orders and it's obviously pretty impressive, but it doesn't seem like the growth in lots has been to the same magnitude. So I'm just kind of wondering, I know you guys have always had a short land strategy, but I'm wondering if that's something that's just in the works?"
+    },
+    {
+      "speaker": "David D. Mandarich",
+      "speech": "Well, we're at about 32,000 lots, I believe, as of the end of the quarter. And our closings expected for the year between 10,000 and 11,000, that puts us kind of right on a three-year supply. So I think it's a good spot to be in. I'd also say that 32,000 is up about 18% year-over-year. And it doesn't include another tranche of lots probably around 8,000 additional lots that are in Escrow but not yet approved by our Asset Management committee, so we have a tranche behind that we're not working on so or not reflecting that number yet. So, we feel pretty good about where the lot supply is and that year-over-year comparison has accelerated just in the past quarter, which feels really good."
+    },
+    {
+      "speaker": "Alex Barron",
+      "speech": "Got it. And then, obviously you guys just increased the dividend and the stock dividend, but historically your payout ratio has been kind of higher relative to where earnings are at now. So, I'm wondering your thoughts around potentially raising the dividend even further?"
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Naturally if we're making more money per share and bringing more cash flow into the business, it feels better. Certainly we have been a company that could pay a consistent dividend since dividend program began really in 1994. And we've been able to maintain or increase it over the time -- that time period, even in periods where we incurred a loss, which really is reflective of our financial strength. So it's not always a perfect comparison versus current year EPS. I think if you look over time, it may have averaged 30% or 40%, but it's not a perfect comparison in any one period. But with the business being good, demand being strong, supply being low and the potential for future earnings, it's a good environment for continued payment of our dividend."
+    },
+    {
+      "speaker": "Alex Barron",
+      "speech": "Okay, thanks. Best of luck."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And that does conclude the question-and-answer session. I would like to return the floor to Mr. Martin for any closing comments."
+    },
+    {
+      "speaker": "Robert N. Martin",
+      "speech": "Great. We appreciate everyone being on the call today and look forward to talking again following the release of our Q2 earnings."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 45 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Derek Kimmerle--Director of SEC Reporting",
+    "Larry A. Mizel--Executive Chairman",
+    "David D. Mandarich--President and Chief Executive Officer",
+    "Robert N. Martin--Senior Vice President and Chief Financial Officer",
+    "Staci Woolsey--Vice President and Chief Accounting Officer",
+    "John Lovallo--Bank of America Merrill Lynch -- Analyst",
+    "Maggie Wellborn--JPMorgan -- Analyst",
+    "Alan Ratner--Zelman & Associates -- Analyst",
+    "Truman Patterson--Wolfe Research -- Analyst",
+    "Stephen Kim--Evercore ISI -- Analyst",
+    "Deepa Raghavan--Wells Fargo Securities -- Analyst",
+    "Alex Barron--Housing Research Center -- Analyst"
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the NCR Corporation second-quarter fiscal-year 2021 earnings conference call. Today's conference is being recorded. At this time, I will turn the conference over to Mr. Michael Nelson, vice president of investor relations.\nPlease go ahead, sir."
+    },
+    {
+      "speaker": "Michael Nelson",
+      "speech": "Good afternoon, and thank you for joining our second-quarter 2021 earnings call. Joining me on the call today are Mike Hayford, president and CEO; Owen Sullivan, COO; and Tim Oliver, CFO. Before we get started, let me remind you that our presentation and discussions will include forward-looking statements. These statements reflect our current expectations and beliefs but they are subject to risks and uncertainties that could cause actual results to differ materially from those expectations.\nThese risks and uncertainties are described in our earnings release, in our periodic filings with the SEC, including our annual report. On today's call, we will also be discussing certain non-GAAP financial measures. These non-GAAP measures are described and reconciled to their GAAP counterparts in the presentation materials, the press release dated August 3, 2021, and on the Investor Relations page of our website. A replay of this call will be available later today on our website, ncr.com.\nWith that, I would now like to turn the call over to Mike."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Thanks, Michael, and thank you, everyone, for joining us today for our second-quarter 2021 earnings call. I will begin with some of my views on the business, including an update on the Cardtronics transaction and the LibertyX acquisition we announced yesterday. Tim will then review our financial performance and an outlook into the second half of 2021. And then Owen, Tim and I will take your questions.\nLet's begin on Slide 4 with some highlights from the second quarter. NCR delivered strong performance that included accelerated revenue growth, significant margin expansion and strong cash flow production. The team drove solid execution across all segments and we are continuing to build momentum in our NCR-as-a-Service strategy. In the second quarter, we delivered 13% total revenue growth.\nThis includes 11% growth for NCR stand-alone and an incremental 2% growth for the 10 days following the close of the Cardtronics transaction. NCR stand-alone recurring revenue growth grew 11% over second quarter of 2020. Adjusted EBITDA increased 40%, while adjusted EBITDA margin expanded 330 basis points to 16.8%. We delivered strong free cash flow.\nWe generated $142 million of free cash flow in the quarter. This is the fifth consecutive quarter of positive free cash flow. And finally, we closed the Cardtronics transaction and announced a definitive agreement to acquire LibertyX, a leading cryptocurrency software provider. The combination of NCR, Cardtronics and LibertyX will accelerate our digital-first strategy and enable NCR to offer a digital currency solution to our customers.\nNow moving to Slide 5. I want to provide an update on the Cardtronics transaction. Although the transaction closed on June 21, it is still as we expected under U.K. antitrust regulatory review.\nWhile under review, we are required to operate independently. And although integration activities have been planned, execution of these integration activities will not start until we have received CMA approval. We remain very excited about the transaction as the addition of Cardtronics will accelerate our NCR-as-a-Service strategy and is expected to be accretive to non-GAAP EPS for the first full year by 20% to 25%. It will enhance our scale and cash flow generation while advancing our 80/60/20 strategic target by roughly two years.\nWe believe the combination of NCR and Cardtronics will drive significant value for our customers and our shareholders. In the second quarter, Cardtronics contributed $32 million of revenue and $8 million of adjusted EBITDA to NCR results for the 10 days following the close of the transaction. Tim will provide more color on Cardtronics performance during his remarks. Now moving to Slide 6.\nThe second-quarter execution was strong, both tactically and strategically as we executed on our financial objectives while continuing our strategic progress toward NCR-as-a-Service. As we enter the second half of the year, we have strong momentum across all segments. In banking, our digital banking platform signed eight new deals in the second quarter, including a long-term agreement with TruMark Financial, a leader in the credit union industry with $2.7 billion in assets. We also had success cross-selling new products to existing clients, including digital business banking and online digital account opening.\nWith digital account opening, which we obtained through the acquisition of Terafina in the first quarter, NCR can now onboard a broad array of accounts across multiple channels. During the second quarter, Terafina signed the largest deal in its history and also won the 2021 Javelin Research Award for best-in-class business account opening. In retail, we continue to gain traction with our NCR Emerald offering, which is our next-gen cloud-based retail point-of-sale solution. We have positive momentum in winning upgrade imperative for retail POS software.\nWe recently signed a new NCR Emerald deal with a top five U.S. grocer. This is our largest Emerald deal to date and includes POS software, self-checkout, NCR Commerce platform API module for pharmacy and the NCP API module for fuel. During the quarter, we signed 13 contracts where our digital-first retail front-end app, Freshop, which we also acquired in the first quarter of this year.\nIn self-checkout, we are also seeing continued adoption of our market-leading solutions. We are experiencing demand across customers and geographies driven by labor shortages, wage pressures and changing consumer preferences. In hospitality, the momentum of Aloha Essentials, which bundles software, services, hardware and payments into a single offering, continued in the second quarter. This model is proving itself in our ability to attract new customers and better service existing customers.\nDuring the second quarter, we increased the number of restaurant payment processing sites by 50% from the first quarter. Our strategy to run the restaurants saw a significant win with Firehouse Subs recently entering into a five-year contract for NCR support Firehouse Subs across 1,100 locations with subscription-based point-of-sale software, consumer marketing software and end-to-end managed services. As we focus on executing our NCR-as-a-Service strategy and drive business transformation, we will strive to become an even more efficient steward of our resources. We continue to focus on taking care of our customers and advancing our product capabilities with investments in our strategic growth platforms.\nIn addition, we will continue tuck-in acquisitions like LibertyX, Terafina and Freshop, which strengthened our digital engagement with creating better consumer experiences for our clients. With that, let me pass it over to Tim."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Thank you, Mike, and thanks to all of you joining us today. As Mike mentioned, our second-quarter results are reflective of strong operational execution, accompanied by significant strategic progress. We closed the Cardtronics transaction on June 21. We In the 10 days that followed, Cardtronics contributed $32 million of revenue and $8 million of adjusted EBITDA that is included in our Banking segment.\nWhile our financial results will only include those 10 days for context, where Cardtronics have reported a stand-alone second quarter on their historical basis, they would have described a very successful quarter with approximately 26% revenue growth and 77% EBITDA growth year over year. They would have reported gross margin of more than 40% and record EBITDA margins of 28%. My first slide is Slide 7, which presents a top level overview of our second-quarter financial performance. So starting in the top left.\nConsolidated revenue was $1.68 billion, up $193 million or 13% versus the 2020 second quarter, driven by very strong growth in both our retail and Hospitality segments and more modest growth in Banking. Our software and services businesses grew in the high single digits, while hardware paced by SCO and POS grew faster than that for the quarter. Revenue was up $133 million or 9% sequentially. On an NCR stand-alone basis, revenue increased 11% year over year and 7% sequentially.\nImportantly, our strategy to shift to recurring revenue streams again accelerated. Recurring revenue was up 11%, calculated on a stand-alone basis, and comprised 55% of our revenue in the quarter. In the top right, adjusted EBITDA increased $80 million or 40% year over year to $281 million, including $8 million from Cardtronics. Adjusted EBITDA margin rate expanded 330 basis points to 16.8%.\nThis improvement is a direct result of the more than $150 million in recurring cost savings executed at the end of 2020. Direct cost productivity from cost reductions and volume leverage together allowed us to more than offset significant cost inflation related to materials, labor and freight, all caused by the strained global supply chain. Reductions in indirect costs were more than sufficient to offset the dramatic short-term actions that we launched in the depths of the pandemic-induced uncertainty in the year-ago quarter. Similar to the discussion on revenue, we are driving improved linearity in profitability.\nAdjusted EBITDA was up 9% sequentially and adjusted EBITDA margin expanded 10 basis points. In the bottom left, non-GAAP EPS was $0.62, up $0.35 or 130% from the prior-year second quarter. NCR's stand-alone non-GAAP EPS was $0.02 higher at $0.64. The tax rate of 26.6% is in line with our full-year guidance of 26%.\nAnd finally, and maybe most importantly, we delivered another strong quarter of free cash flow with generation of $142 million adjusted for the effects of the closing process. This compares to $160 million in the second quarter of 2020, which benefited from the cash preservation actions we put in place at the beginning of the pandemic and an insurance payment from the Nashville tornado last year. Consistent with our goal to drive modest sequential improvement and more linear free cash flow production, our free cash flow was up from $93 million in the first quarter of '21. And free cash flow during the first six months of 2021 is up more than 60% over 2020 results.\nMoving to Slide 8 for our Banking segment results, which includes 10 days of Cardtronics operations. Banking revenue increased $46 million or 6% year over year, with Cardtronics comprising $32 million or 4% of that increase. On a stand-alone basis, software and services revenues both increased in the high single-digit percentages to more than offset the decline in ATM hardware revenue. We continue to successfully replace our one-time revenue that was traditionally recognized with the sale of ATM hardware with more durable, predictable and valuable software and services revenue streams.\nSubscription total contract value signed in this segment more than doubled from the prior year with significant increases in both annual value and duration. Banking adjusted EBITDA increased $21 million or 16% year over year with Cardtronics adding $8 million. Adjusted EBITDA margin rate expanded by 170 basis points to 18.7%. On a sequential basis, revenue was up 7%, while adjusted EBITDA decreased 2%, and the adjusted EBITDA margin rate declined 170 basis points against the extremely strong Q1.\nThe sequential decline was driven by a less favorable mix of hardware, by geography and by customer, as well as escalating supply chain costs. The bottom of the slide shows our key metrics for the Banking segment. On the left, while current-quarter wins have a typical lag to conversion and eventual revenue generation, prior-period wins at Digital Banking drove an 8% year-over-year growth rate in the second quarter. The rate of growth in Digital Banking has accelerated in the last several quarters.\nWe expect Digital Banking to generate roughly 8% revenue growth in the second half of 2021 and to exit the year at double-digit revenue growth rates as we lap most of the attrition caused by the 2019 customer losses. Digital Banking registered users increased 11% compared to Q2 of 2020, and we are seeing commensurate growth in recurring revenue, which increased 12% year over year and 4% sequentially. Moving to Slide 9, which shows our retail segment results. Retail revenue increased $93 million or 19% year over year, driven by strong self-checkout and point-of-sale solutions revenue.\nRetail adjusted EBITDA increased $43 million or 88% year over year, while adjusted EBITDA margin rate expanded by 590 basis points to 16%. The second-quarter performance demonstrates the power of double-digit revenue, growth accompanied by cost absorption and control. Incremental EBITDA conversion was $0.46 on every dollar. Lower on the page, we depicted the three key metrics for retail.\nSelf-checkout revenue increased 42% year over year to $273 million, with particular strength in hardware due to a customer request to accelerate an order that would otherwise have been delivered in Q3. For the full year, we expect low double-digit growth for SCO with revenue split almost evenly between hardware and the accompanying software and services. Platform lanes increased 63% compared to the prior-year second quarter, and we expect this rate of growth to continue to accelerate in the second half. And importantly, recurring revenue in this business increased 14% versus the second quarter of last year.\nSlide 10 shows our Hospitality segment results, which is participating fully in the recovery of the restaurant industry. Hospitality revenue increased $55 million or 34% as restaurants reopen, rework existing locations and expand. Our signed subscription total contract value in this business tripled from the year-ago second quarter. Our sales pipeline is getting stronger, and we continue to hire to increase our feet on the street and catalyze growth.\nSecond-quarter adjusted EBITDA increased $30 million, double from the second quarter of last year. While adjusted EBITDA margin rate expanded by 460 basis points to 14%, this improved profitability was driven by higher revenue and lower operating expenses. Hospitality's key metrics on the bottom of this slide include Aloha Essentials sites and recurring revenue. Aloha Essentials sites grew 88% when compared to the prior-year second quarter and grew 18% sequentially.\nWe expect this rate of growth to also accelerate in the second half of the year. In the graph at the bottom right, recurring revenue increased 7% from last year and 5% sequentially. Turning to Slide 11. We provide our second-quarter results for 80/60/20 strategic targets.\nNote that this is the last time we will present these metrics as NCR stand-alone as next quarter, we will reflect our combined results, including Cardtronics. First, we strive to generate 80% of our revenue from software and services or less than 20% of our revenue from discrete hardware sales. In the second quarter, software and services represented 69% of our revenue, which is a modest decrease from the 72% in the year ago driven by SCO and POS hardware revenue this year. The pandemic-induced spending pause in 2020 was particularly severe in hardware, and similarly, the recovery is heavy in pent-up demand for that same hardware.\nWe aim for 60% of our revenues to be recurring to drive more resilient, more predictable and more valuable revenue. Recurring revenue represented 55% of total revenue this quarter, flat compared to last year's second quarter. Our recurring revenue streams outpaced growth during the pandemic, and the growth rates are now converging as hardware spending returns. And we aspire to a 20% adjusted EBITDA margin rate.\nWe made significant progress in this metric with an adjusted EBITDA margin of 16.6%, compared to 13.5% in the second quarter of 2020. On Slide 12, we present free cash flow, net debt and adjusted EBITDA metrics to facilitate leverage calculations. We continued the trend of strong, more linear free cash flow. We generated total free cash flow of $142 million, including 10 days from Cardtronics and excluding the items associated with the closing of that transaction.\nFrom a working capital perspective, versus Q2 of 2020, all categories of inventory were down in aggregate 11%, with days on hand down 11 days. NCR stand-alone receivables were down 5%, with an eight-point improvement in those longer than 90 days, and days sales outstanding improved by 11 full days to 65 days. This slide also shows our net debt to adjusted EBITDA metric with a pro forma leverage ratio of 4.2 times. We are pleased to report that our pro forma leverage is well below the 4.5 we estimated when we announced the Cardtronics transaction due to higher-than-forecasted cash generation by both companies.\nWe ended the second quarter with $449 million of cash and remain well within our debt covenants, which include a maximum pro forma leverage ratio of 5.5 times. We have significant liquidity with over $1 billion available under our revolving credit facility. And my last slide is Slide 13, which provides an outlook for the second half of '21 for both NCR stand-alone and Cardtronics, and then I combine them. Remember that both NCR and Cardtronics suspended guidance during the pandemic.\nWhile Cardtronics is currently operating separately and independently from NCR, pending the completion of the merger review by the U.K. Competition and Markets Authority, we have received sufficient information from them to provide an outlook for Cardtronics. For revenue, we expect NCR stand-alone of $3.43 billion to $3.48 billion, representing 6.5% to 7.5% year-over-year growth. This growth rate is negatively impacted by about a point and a half due to the elimination of revenue for sales from NCR to Cardtronics.\nCardtronics operations are expected to generate revenue of about $600 million, representing approximately 8% year-over-year growth for them. Total company revenue then is expected to be $4 billion to $4.1 billion, including intercompany eliminations. For adjusted EBITDA margin, we expect NCR stand-alone rate of approximately 16%, slightly below the rate we demonstrated from our very hot start to the first half, anticipating higher second-half supply chain costs. And we expect Cardtronics rate of approximately 28%, very similar to their historically high Q2 level.\nTotal company adjusted EBITDA is then expected to be between $700 million and $750 million. For EPS, we expect a range of $1.30 to $1.50, which includes the immediate accretion for Cardtronics of more than 10%. That accretion will increase to our targeted 20% to 25% within the first full year of the combination. We expect strong free cash flow generation in the range of $325 million to $375 million.\nThis performance should allow us to reduce leverage more quickly than our plan at the time of the acquisition. To calculate this guidance, we have assumed a few things. First, OIE of approximately $150 million, a tax rate of 26%, and a share count of 148 million shares. This share count is higher due to the conversion of shares owned by Cardtronics employees.\nThe recently announced LibertyX transaction could put a little more upward pressure on share count. Both of these uses of equity will align and retain key employees in these two very important strategic acquisitions. I do want to highlight some assumptions as outlook around some obvious risk factors. First, we've assumed that we will continue to prioritize customer delivery and revenue growth over temporal cost increases from supply chain challenges in materials, labor and freight.\nWhile we absorbed about $20 million of premium costs in the first half, we were able to meet customer commitments or even accelerate delivery on request. We expect $40 million of further escalation in these same costs in the second half as we continue to maintain availability and meet customer needs. We are hopeful that further productivity efforts, strong vendor relationships and price increases can help offset some of the impact to both profit and cash flow. Second, it's not lost on any of you that there remains uncertainty regarding the pace of the global post-pandemic recovery.\nEach new cycle brings more discussion of regional challenges, vaccination efficacy and uptake and consumer disposition. We are assuming that the current state of play in the U.S. remains as is and that other key markets like Canada and the U.K. begin to reopen as is currently scheduled.\nBy this time next quarter, we expect to be more articulate on the combined entity, have a more integrated outlook and have more to say about the progress of the integration effort and its synergy execution. With that, I'll turn it over to you, Mike."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Thanks, Tim. Now turning to Slide 14. I want to provide an update on the definitive agreement to acquire LibertyX, which is a software-based cryptocurrency solution. This is a unique opportunity that will enable NCR to provide a complete digital currency solution, including the ability to buy and sell cryptocurrency, conduct cross-border remittance and accept digital currency payments across digital and physical channels.\nLibertyX has one of the largest deployment footprint through partnerships with ATM operators like Cardtronics at physical locations including convenience stores, pharmacies and supermarkets. Our key markets are very complementary and will help both companies grow. This acquisition continues our strategy to digitally engage with consumers and provide retailers and banks additional solutions for their customers to pay, transact and remit. Now turning to Slide 15.\nLooking forward, our key priorities are clear. First, we are eager to capitalize on the opportunities that Cardtronics brings us. We are excited to leverage Cardtronics to accelerate ATM as a Service, broaden our retail business and increase our payment offerings. Second, we will expand our solution portfolio to include a complete cryptocurrency offering.\nOur digital currency platform will allow consumers to buy and sell cryptocurrency across digital and physical channels. Increasingly, retailers are looking for a broader set of financial transaction capabilities, which we are uniquely positioned to deliver on financial kiosks and ATMs. Third, we will continue to allocate capital to the highest growth and return opportunities with the goal of driving free cash flow and increasing returns for our shareholders. Fourth, we will continue to focus on customer satisfaction initiatives.\nSince I arrived at NCR three years ago, we have been keenly focused on improving customer satisfaction with the simple belief that happy customers will buy more. We strive to garner a larger share of wallet with the mission to help our customers run the store, run the restaurant and run self-directed banking. Our focus is paying dividends as our Net Promoter Score saw significant improvement last year and we continue to strive for further improvements. And lastly, I'd like to extend an invitation to each of you to participate in our Investor Day, which is scheduled for December 9, 2021.\nWe are looking forward to the event and intend to take a deep dive into our strategy and update on our strategic goals. That concludes our prepared remarks for today. With that, we will open the call for questions. Thank you for your time.\nAnd operator, please open the line."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator instructions] Our first question comes from Katy Huberty from Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "Thank you. Good afternoon. Tim, first question for you around just reconciling the second-half EPS guide. If I think about the business stand-alone in the first half, you did $1.15 of EPS.\nNormal seasonality would put you in the $1.40 plus range just for the core business in the back half, and you're talking about accretion from Cardtronics. So just if you can help us understand if there are some pressures in the core business that that is suggesting less-than-normal earnings seasonality or if there's some below-the-line items that we should be thinking about? Then I have a follow-up."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Yeah. So I don't think it's -- on the revenue line, it's very much the way we expect it to play out. We've tried very hard over the last six quarters to stop doing the unnatural things that cause our years to be more back-end loaded. And in fact, last fourth quarter was not that much higher than the third, certainly relative to prior fourth quarters.\nI think the same will be true this year. So there's a pattern of modest sequential improvement that we've been on is when I expect to continue. And I think another three-or-so percent organic growth quarter to quarter into the third, and then another sequential growth into the fourth of probably a little bit higher, maybe 4% going into the fourth, so modestly back-end loaded. But we're trying not to unnaturally pull things in to do things at end of quarters that cause us to maybe compromise on price or anything else.\nSo I think that was planned and probably compares reasonably well with one year back anyway, so 2020. On the -- I think the biggest disconnect first half to second half is going to be the, I would say, 50 to 60 basis points of margin contraction -- EBITDA margin contraction that I built into the model. And that's almost entirely attributable to a pressure that we're seeing in the cost structure. I think it's temporal.\nI think it goes away once this passes, but we've got some premium costs associated with parts, with freight, with expedites and with premium labor. We're trying not to miss a customer delivery. And thus far, we've not yet missed one. In fact, we've allowed our customers to even pull forward some delivery dates as they need them.\nAnd we've been able to make our supply chain work. So I think if there's a disconnect in people's models, especially when you play out the calendarization, it would be in margin rate. Cash flow is still very strong. Tax rate at 26% in the second half, similar to the first.\nProbably a little lumpy. I think it's going to be 29 in the third and 22 in the fourth due to some tax stuff around the transaction that we just completed and some discrete events that they're pulling back into the fourth quarter. But I don't know, does that get you closer?"
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "Yeah, that's helpful. Just to follow up on your comment around supply chain and prioritizing timeliness and revenue over cost, does that open up market share opportunities because some of your competitors are talking about missing some revenue opportunities, just given freight and supply chain?"
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "That's exactly our thoughts -- our thought -- yes, Katy. That's exactly our thought. We do not think this is a time that we should miss on orders."
+    },
+    {
+      "speaker": "Owen Sullivan",
+      "speech": "Yeah. And I would say, Katy, we're seeing that -- this is Owen -- across the industries that it is opening an opportunity for us. And I will tell you that Adrian and George Sloan, who is our Chief Procurement Officer, came in about 18 months ago. They've done a phenomenal job on a day-to-day basis, keeping the supply chain operating at a level that is allowing us to meet our customers' needs.\nAnd I will tell you, along with that is the quality has not taken any hits along that. So to Tim's point, we'll take a little cost. But if it positions us to grab customer confidence and market share, that's a trade-off we're willing to make."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "So if you think about the productivity we generated on a direct basis in our manufacturing and services base, all of that was in place when we started the year. So we came into the year with significant productivity you saw in the first half. Price inflation -- we're getting weird feedback. Katy, can you still hear us?"
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "Yeah, I can hear you."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "OK, sorry. Price inflation was relatively muted in the first half. We did a good job of holding on to -- with our vendors. It's clear in the second half that we're going to need to relent a bit on cost on both freight and on parts.\nAnd so I think that's what you're seeing in terms of the relative margin rate from first half to second."
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "Thank you for that. And then just lastly, Owen, maybe you can comment on the time line and the potential outcomes of the U.K. regulatory review? And if there's any scenario where that would impact your synergy assumptions?"
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Katy, this is Mike. Yeah. So we have very frequent conversations with the CMA to our legal team. And as you may be aware, they posted an August 10 date where we expect to get some feedback from them.\nSo we'll look to that date to determine what next steps we have based on their feedback. So we don't have any color relative to what they're going to do at this stage, but we will get that soon."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "And we don't anticipate any impact to our assumptions on cost synergies."
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "Thank you. Congrats on the quarter."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Dan Perlin from RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "speech": "Thanks. Hey, I wanted to revisit the supply chain question again a bit. I know it's kind of doubling what you're absorbing in the second half. Is that a function of, as you said earlier, conceding to people within the supply chain? Or is that because you've got a larger footprint with Cardtronics.\nAnd then secondly on that, if I could just -- sorry, go ahead. I'll let you answer real quick."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "No, no, go ahead. I'm sorry."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "speech": "I was just going to say, is there any risk that there's finished goods inventory that just doesn't get completed and/or that even though you are willing to pony up price for logistics, there's just not enough to go around. Like just trying to really handicap that $40 million absorption number."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Yeah. No. So 40% is our best guess as to what we're going to experience, primarily on costs associated with parts and freight. And we can see that pricing now.\nWe're able to hold off a lot of that in the first half of the year. So I don't -- now we're very hopeful. There are ways to get that back, right? We can ramp up our productivity efforts, and we're trying to do that. We can go back to our vendors and ask them for a little bit more help as we get into the second half of the year and to hold on to this a little bit longer.\nWe're doing that. We can try to pass some of that on to our customers in price, and we will try to do that as well. So I'm not giving up on that $40 million. I just think as we sit here today, it's the prudent thing to do.\nAnd to the point we made earlier, we much prefer to spend that $40 million and drive revenue growth and make sure our customers are happier and particularly happy with us than to not spend that $40 million."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "speech": "Yeah. And then the idea around logistics, let's say, not associated with cost, if you're willing to pony up the point, but what kind of supply and demand capacity out there?"
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Yeah, on the cash flow side, I guess, we'd be getting at. Our inventory levels are down significantly year over year thus far in the year, down about 11% in the second quarter. Really good progress. In fact, every category of inventory was down.\nI suspect we may choose to invest a little bit in inventory as the year plays out, but I do not expect -- you saw our free cash flow guidance is pretty terrific. Maybe our best metric on the page. I don't anticipate having to compromise on that to invest in inventory."
+    },
+    {
+      "speaker": "Owen Sullivan",
+      "speech": "Yeah. And I would say, Dan, we've talked about this before. We've done an awful lot, one, in rebuilding that supply chain. As you recall, not too long ago, wasn't where we needed to be.\nSo we've got great partners in the quality that they're delivering for us and the collaboration is really outstanding. I would say the other thing, which the business lines have done a really good job at is simplifying our product offerings. So what was a high customization the market wasn't looking for. We've simplified our products across all three business lines.\nIt's allowing us to be much more responsive in terms of delivery time frames. It's also allowing us to be much more efficient with our raw material inventory, which is to Tim's point, across the board, our inventory right now is really in good shape."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "speech": "Yup. No, that's really good to hear. And then just quickly on the banking side, ex Cardtronics, I think you called out weakness in ATM. I'm wondering if you could just comment around what are some of the dynamics that you're seeing in the market? What are your bank partners suggesting to you? Are they holding off for some reason that we need to be mindful of? And is there any expectation that there's lumpiness in terms of how we think about it from a cadence perspective over the next couple of quarters? Thank you."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "I'll hand it to Mike here, but the banking business in aggregate is performing well. It's up actually from a -- on a revenue basis, which means those things that are not ATM hardware are doing very well. And so ATM hardware, down close to 10%, about 9%, I guess, in the quarter. We are clearly making that up with the right types of revenue.\nSo while we wait to see if our big U.S. customers have major orders, North American customer major orders and ATMs as the year plays out to get back on the replenishment cycle we were on, we don't need those to make our numbers."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Yeah. I'm just -- just add color to that. But you referenced Cardtronics in your question that the banking segment performance in the second quarter has nothing to do with Cardtronics other than the 10 days got booked there. So the only softness we saw in banking was ATM hardware sales.\nAnd as we talked about through all last year, we've really built our business around focusing on recurring -- on focusing around delivering software footprint and a service footprint, which is clearly part of the desire and the deal to go to Cardtronics to do ATM as a Service. If you look at our numbers in the second quarter, even with ATM hardware down, our EBITDA margins are up considerably. Our EBITDA number is up, our cash flow is up. So our business is really built to perform and deliver even at these levels of ATMs.\nSo having said all that, if the market -- if the banks continue to get a little more clarity in light at the end of the pandemic and start to free up the capital, we would still expect at some point to see some of that recovery. But if it doesn't, we still have a very solid execution in the second half of the year and going into '22."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "speech": "Yup. that's great. Thank you very much."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "It has run several quarters in a row now, hardware in ATM has been right around $210 million, and that's kind of what we built going forward."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "speech": "OK. Super. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Kartik Mehta from Northcoast Research. Please go ahead."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "Hi. good afternoon. This is Alex on for Kartik. Just a quick question.\nI was wondering if you could speak about the competitive landscape in the domestic ATM business? And any type of market share dynamics that you're seeing right now? That would be great."
+    },
+    {
+      "speaker": "Owen Sullivan",
+      "speech": "Yeah. This is Owen. So I think to the point of the ATM business, it's performing where we anticipated it would be in that $210 million range. As we look across the landscape, we actually feel really good about the competitive position of the ATM business.\nI would say the discipline that the team has put in place has really allowed us to be selective about deals that we want to stay actively engaged in. And you can see that, to Tim's point, in the performance of the Banking business on the EBITDA side. So as we look at the business, the market is still slow in terms of their capital spend, but we feel pretty good about our market position both here in the U.S., in Europe and EMEA, yeah, we're feeling pretty good about where we're at right now. If you look at our -- the overall growth of the business in banking, in particular, our teams are feeling pretty good about the position."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "OK. Great. And then also, I believe, on the last call, you guys called out that the payments attach rate for Aloha, I think, was somewhere around 85%. And I'm just wondering if that trend is somewhere the same? Or are you seeing any improvement or somewhere maintaining that attach rate? Thank you."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Yeah. I mean again, we shared the quarter over quarter, a tremendous growth in the number of restaurants that we're processing payments for in the hospitality space. So the attach rate, similar numbers. We're continuing to see very high attach rates on new Aloha Essentials sales, and then the team actually had a fair amount of success going back into existing accounts and starting to convert them over for payments."
+    },
+    {
+      "speaker": "Unknown speaker",
+      "speech": "OK. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Matt Summerville from D.A. Davidson. Please go ahead."
+    },
+    {
+      "speaker": "Matt Summerville",
+      "speech": "Thanks. Tim, to get back to one of your answers to a prior question, that $40 million, I just want to put a finer point on it. That is an unmitigated number. That is prior to anything you can do productivity-wise going back to vendors and trying to move pricing.\nDo I have that accurate?"
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Yeah, I would say that is a gross number in the second half of the year relative to the first half. So I absorbed $20 million in the first half. I think there's an incremental $40 million over and above that in the second. And at this point, we're working lots of different angles.\nSo we'll have to keep the productivity we generated in the first half of the year, which covered that first 20. And now you'll find another $40 million or $80 million annual run rate and productivity to get that back. The reason I called it out is I'm not sure that we can get all of that back. But I want to make it clear, we're not giving up.\nAnd there's probably some messaging in here for our partners that we could use our help to get there."
+    },
+    {
+      "speaker": "Matt Summerville",
+      "speech": "Sure. And then how should we be splitting that out between Q3 and Q4 and across the lines of -- across the industry groups as we try and model the back half and think about how to cadence this out."
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Yeah. So I think margin rate will be north of 16%, around 16% of both quarters. If there's upside to that number, it's going to be in the fourth quarter. So I think it will be closer to 16% in Q3.\nAnd then when we're able to cover some of that, it would be higher in the fourth. I think revenue I described earlier to Katy's question, I think the growth rate sequentially will be stronger in the fourth quarter than it is in the third. And I think I have a higher tax rate in Q3. I know I'm going to have high tax rate in Q3 than in Q4.\nSo all things point to a stronger Q4, modestly stronger Q4, not as back-end loaded as we've seen in the past. But we always have a spend or a lose-it mentality with some of our customers as we enter the fourth quarter that causes -- and some renewals and as such, that take place in the fourth quarter that causes to perform better."
+    },
+    {
+      "speaker": "Matt Summerville",
+      "speech": "Got it. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Paul Chung from J.P. Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Hi. Thanks for taking my questions. So on CATM, you have projected at $600 million for the second half from what I see. If I comp this against '19 levels, it's down around 13%.\nSo what are the steps you're taking to accelerate this business? And if you could expand on some examples of revenue synergies you expect to see in the coming quarters?"
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "Yeah. So let me try. There's only so much I can do here. So we're still run as two separate companies, right? We've not completed the transaction in terms of the regulatory authorities in the U.K.\nSo I'm not able to know too terribly much about the causal analysis of the results. I just get to know the results. That said, that margin rate is incredibly impressive. And what it says is they're getting traction in the right places.\nWhen they deliver margin up that much on revenue that's not up very much -- not nearly as much, they're growing the right place. And as you know, if you followed them, they have some revenue streams that are much more profitable than others. And it's obvious to me that those must be growing more quickly than the average. And speaking with them about their expectations going forward, that margin rate as I described is the same in the second half as the record they generated in the second quarter, which again speaks to where that growth is coming from.\nSo remember that they're changing their business model and their revenue mix, much like we're trying to do to ours, and I think they're being successful. I'm very focused on their EBITDA and not so much on the top line."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Thank you. That's very helpful. And on LibertyX, any metrics you can provide on purchase price revenue, margins, etc.?"
+    },
+    {
+      "speaker": "Tim Oliver",
+      "speech": "So it's a technology-rich transaction that doesn't bring with it a tremendous amount of impact to our reported financials. You'll see a release from us or a filing from us for 1.66 million shares, which you can do the math on that was the -- what we used to purchase LibertyX. It's exciting to us that guys in this space who look to see things move upward in terms of valuation relatively rapidly are -- currency. So we pay for the deal entirely in stock."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "And Paul, I think you have to look at a transaction like that, similar to what we did with Terafina or what we do with Freshop where we bought technology, we bought a product to get speed to market and to maybe get into a product where we didn't have the expertise and then to integrate it into our channel. So if you look at the ability to take a LibertyX physical to digital translation. And then you look at our footprint that NCR and our footprint, combined with Cardtronics, we believe we'll have one of the largest distribution channels to do these transactions in the industry. So we will push it through our distribution channel and grow it rapidly."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Very cool. And then lastly, can you talk about kind of the long-term strategy -- and maybe give us an example of monetizing kind of along the end-to-end experience. A restaurant example, maybe were JetPay, Aloha, LibertyX, CATM, kind of all play a role in generating revenue and recurring revenue would be helpful."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Yeah. Let me break those out into a few components. So if you take Cardtronics and what they do on the retail side, think about it as a capability to do a financial kiosk or financial center at maybe a grocery store, a big box store or a pharmacy, where traditionally those have been maybe a cash out, maybe a cash deposit is -- again, think of Cardtronics delivering a physical presence with a lot of endpoints for bank customers, where the banks may not have physical presence themselves. So think of about a neo bank that doesn't have physical presence.\nSo they create a transaction point for their customers. So whether it's cash out, whether it's cash in, whether it's now the ability to get a digital currency like a LibertyX, whether it's ability to pay bills, whether it's ability to other transactions at the fiscal kiosk. So that's -- on that side, when you talk about JetPay, that strategy has been fairly straightforward, the ability to connect and process the back end of a payment transaction behind all of our POS, whether it's in hospitality, in the restaurants like we've done with Aloha and Silver, or whether it's in retail, we're going to start doing with our retail point-of-sale products, that's really completing a payment transaction on the back end of the point of sale initiation. So really getting end to end.\nAnd then we started to look at how do we connect across retail and payments with a network like the Allpoint network. So as we lay out the components, we really look at physical points of presence, whether it's a POS, whether it's a self-checkout, whether it's an ATM, whether it's a financial kiosk and then what products we can push to the bank consumers or the retail consumers and then what transaction fees we can obtain from those products."
+    },
+    {
+      "speaker": "Paul Chung",
+      "speech": "Thanks. Very helpful."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Dan Kurnos from The Benchmark Company. Please go ahead."
+    },
+    {
+      "speaker": "Dan Kurnos",
+      "speech": "Yeah, thanks. Maybe just one, Mike. Can we just follow up on that a little bit. I don't know if I'm making too big a deal out of this, but we had all of the credit card companies get deeper into crypto this year.\nWe've had all of the payment companies announced solutions for it. You bought the largest bitcoin ATM operator, it fits clearly within all of the verticals that Cardtronics plays within. So just -- I know you just bought it, and I'm sure you're thinking about this stuff. But just maybe help us think through how you think about even, to the last question, just sort of deeper integration and how you think about whether it is on the payment side, how you deal with some of the issues around fiat and translation, as well as does this provide an incremental opportunity for something that the banks themselves are asking for."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Yeah. You had a lot [Inaudible] there. I'll just try to focus on kind of the macro trends. So LibertyX, the largest crypto software provider out there.\nAnd as you point out, the end point with NCR coupled with Cardtronics, and Cardtronics had already partnered with LibertyX to offer the ability to load bitcoin, to buy bitcoin on your wallet at a Cardtronics point of presence. So clearly, that's a piece of it. We will continue to expand that. If you look at NCR, we need to continue to move beyond cash and be able to look at the future of currencies and the future payments.\nSo we believe that crypto or digital currency is a part of that -- the product today is really bitcoin-centric. You can expect to see us move to a stable currency to really allow for payments where you don't have the risk of a cryptocurrency like bitcoin that's fluctuating. You could envision the ability to load up on your wallet a digital currency and then transact at NCR point of presence at NCR point of sale, at self-checkout devices or to do transactions at a financial kiosk as we talked about. You could envision the ability to load digital currency and to make payments, again, at that point or to do person-to-person payments or to transfer money to another person or to transfer across border.\nSo we just think as a macro trend where that's going to go, we need to be in the middle of it. We think our ability to connect physical and digital points is very unique in the industry. So we saw an opportunity and jumped in and did the deal."
+    },
+    {
+      "speaker": "Dan Kurnos",
+      "speech": "Do you become the one to now kind of proselytize the category? Or do you let somebody else kind of continue to push that given your retail or your -- I mean really your SCO presence? And is there any difference longer term, do you think in sort of the margin profile if things migrate in that direction?"
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "Yeah. I don't -- right now, today, you wouldn't view NCR to be the prophesying to the retail consumer. That's just not the brand that we have today. I do think we have a very good brand as it comes to retailers, if it comes to restaurants, as it comes to financial institutions.\nAnd then again, with Cardtronics, we have a tremendous amount of distribution points. Our ability to then take it from a bitcoin to maybe a stable currency to maybe build their own wallet and then to start to connect those dots. Clearly, as we go down the road, we might look at those opportunities."
+    },
+    {
+      "speaker": "Dan Kurnos",
+      "speech": "Got it. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "It appears there are no further questions at this time. Mr. Hayford, I would like to pass the call back over to you for any additional or closing remarks."
+    },
+    {
+      "speaker": "Mike Hayford",
+      "speech": "All right. Thanks. I just want to thank everybody for, again, joining us today for our second-quarter earnings update. We feel very good about our performance.\nWe feel very good about our performance in the second quarter based on where we had expected to be, we actually feel very good year to date. And as Tim talked about, our outlook for the year, we're very optimistic as we look at 2021 mid-year going to the end versus where even we thought we would have been starting the year. We're very excited about the upcoming integration with Cardtronics. We're very excited about the recent announcement we did this week with LibertyX.\nI think more importantly, as we look at progress in the first half, we are continuing to see that our strategy, the strategy that we outlined a number of years ago to shift to software, shift to software services led, our investment in strategic platforms, the strength we're seeing in digital banking, the strength we're seeing in hospitality with the growth of Aloha Essentials, the strength we're seeing in the payments growth, and the strength that we're seeing in wins in the retail cloud-based solution with Emerald. We look forward to seeing you all on December 9 at our Investor Day that we announced today where we can talk a little bit more in depth about our strategy, our execution and our plans for the future. Again, thank you for joining us, and we'll see you next quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 60 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Michael Nelson--Vice President, Investor Relations",
+    "Mike Hayford--President and Chief Executive Officer",
+    "Tim Oliver--Chief Financial Officer",
+    "Katy Huberty--Morgan Stanley -- Analyst",
+    "Owen Sullivan--Chief Operating Officer",
+    "Dan Perlin--RBC Capital Markets -- Analyst",
+    "Unknown speaker",
+    "Matt Summerville--D.A. Davidson -- Analyst",
+    "Paul Chung--J.P. Morgan -- Analyst",
+    "Dan Kurnos--The Benchmark Company -- Analyst"
+  ]
+}

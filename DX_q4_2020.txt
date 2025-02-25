@@ -1,0 +1,325 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by, and welcome to the Dynex Capital Q3 2019 Earnings Conference Call. [Operator Instructions]. I would now like to hand the conference over to your speaker today, Alison Griffin. Please go ahead."
+    },
+    {
+      "speaker": "Ms. Alison Griffin",
+      "speech": "Thank you, operator. Good morning. And thank you for joining us, everyone. With me on the call today, I have Byron Boston, President and CEO; Smriti Popenoe, EVP and CIO; and Steve Benedetti, EVP, CFO and COO. The press release associated with today's call was issued and filed with the SEC this morning, February 6, 2020. You may view the press release on the homepage of the Dynex website at dynexcapital.com as well as on the SEC's website at sec.gov. Before we begin, we wish to remind you that this conference call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. The words believe, expect, forecast, anticipate, estimate, project, plan and similar expressions identify forward-looking statements that are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified.\nThe company's actual results and timing of certain events could differ considerably from those projected and/or contemplated by those forward-looking statements as a result of unforeseen external factors or risks. For additional information on these factors or risks, please refer to the annual report on Form 10-K for the period ending December 31, 2018, as filed with the SEC. The document may be found on the Dynex website under Investor Center as well as on the SEC's website. This call is being broadcast live over the internet with a streaming slide presentation, which can be found through a webcast link on the homepage of our website. The slide presentation may be referenced under quarterly reports on the Investor Center page.\nI now have the pleasure of turning the call over to our CEO, Byron Boston."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Thank you, Alison, and thank you all for joining our call this morning. We finished 2019 on a strong note and the momentum is carried over into the first month of 2020. Throughout the year, we actively managed our portfolio based on our macroeconomic view that we expressed in our third quarter 2018 conference call. If you recall, at the time, we expressed our view that the Fed would pause its rate hiking cycle and that our financing cost will begin to decline. We also expressed a view that interest rates would spend more time in a tighter historical range with a bias toward the lower end of the range. As such, in 2019, we actively managed both sides of our balance sheet to lock in lower financing costs, take advantage of declining interest rates, adjusted our portfolio to increase the percentage of assets allocated to the agency CMBS sector and repurchased our own stock when our shares were grossly mispriced. Our collective actions in 2019 continue to create long-term value for our shareholders despite a global risk environment that continues to intensify. I'll let Smriti and Steve to go into more details, but we solidly outearned our dividend in the fourth quarter.\nOur book value was down slightly at year-end, but has rebounded solidly during the first month of 2020 as the spreads on our CMBS portfolio tightened, and we once again managed our portfolio to take advantage of declining rates. Our margins have been increasing for the past few quarters, and we are anticipating our financing costs to remain stable or decline. Over the past several years, we have been consistent in our macroeconomic view of the global economy. Global economy and capital markets are stuck in a cycle that depends on increasing levels of debt and continued flow of liquidity from the global central banks. As such, we continue to emphasize higher credit quality assets with more liquidity, and we are braced for continued global surprises such as we have witnessed so far in 2020 with the Middle East conflicts and the outbreak of the coronavirus in China. I will now turn the call over to Alison, and she will walk you through a series of questions and answers. So -- walk Smriti and Steve through a series of questions and answers to give you more detail about our results.\nAlison?"
+    },
+    {
+      "speaker": "Ms. Alison Griffin",
+      "speech": "Thanks, Byron. Let's start with Steve. I'd like to ask -- if you could walk us through the fourth quarter results, please?"
+    },
+    {
+      "speaker": "Stephen J. Benedetti",
+      "speech": "Sure, Alison. And welcome, everybody. Our results for the quarter on a GAAP and non-GAAP basis are summarized on slide five. Reconciliations of non-GAAP results are included in the presentation on slide s 27 through 29. As Byron noted, results for the fourth quarter were strong, headlined by an $0.18 increase in core EPS to $0.66 per common share from $0.48 per common share last quarter. Driving the increase in core EPS was a sequential improvement in adjusted net interest income and adjusted net interest spread. Adjusted net interest spread is a non-GAAP measure, which includes swap and dollar roll transactions on our GAAP net interest spread. And it was 1.53% for the fourth quarter, up from 1.14% in the third quarter and 1.24% for the year ago fourth quarter. Our historical net interest spread is included in the appendix on slide 26, and you can see the positive trend over the last several quarters. The adjusted net interest spread continued to benefit this quarter from a declining financing and hedge costs. Repo financing costs declined 37 basis points to 2.1% this quarter from the decline in the Federal funds rate, coupled with the subsequent injection of liquidity into the repo markets by the Federal reserve.\nCompared to fourth quarter last year, repo borrowing costs have declined approximately 40 basis points, reflecting a little more than half of the 75 basis point reduction in the Federal funds rate in the second half of the year. Smriti will comment on repo costs and they're -- as they have evolved in the first few months of 2020. As it relates to our hedge portfolio, core EPS continued to benefit from the tactical decision that we've made over the last several quarters, as alluded to by Byron. Overall, the net receive rate on our interest rate swap position was down five basis points during the quarter, but the adjustments in our hedge position more than offset this decline. Net payments received on our interest rate swaps increased by $700,000, which accounted for 77 basis points of the increase in the adjusted net interest spread compared to last quarter. Overall, our hedge book added 39 basis points to our net interest spread during the quarter, up from 32 basis points last quarter. As it relates to leverage, our leverage overall was modestly down as were our average interest-earning asset balance. From a book value per common share standpoint, we added -- we ended the year at $18.01 down from $18.07 for both last quarter and the prior year-end. Smriti will elaborate in more detail on book value later in the call. Total economic return to common shareholders for the quarter was 2.2% and 10.8% for the full year. For the quarter, we declared $0.45 in dividends and $2.01 for the full year.\nThat concludes my comments, and I'll turn the call back to Alison."
+    },
+    {
+      "speaker": "Ms. Alison Griffin",
+      "speech": "Thank you, Steve. Smriti, can you walk us through the performance for the year in 2019 as well as the fourth quarter?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Yes. Hi, everyone, and thank you, Alison. I will start with the market. Please turn to slide 20 in the appendix, so you can follow along for this section. Interest rates went through a series of shifts last year, ending the year down almost 100 basis points across the yield curve. More importantly, we had significant moves in the shape of the yield curve, specifically between financing costs and longer maturity bonds. As you can see on the top two panels, when you compare the one-month repo rate or three-month LIBOR versus the respective 10-year rate, we started the year off with a flat to positively slow yield curve, which inverted in the second quarter. This inversion, which we felt would be temporary in nature, lasted about two quarters, peaking in late September before the curve resteepened in the fourth quarter. Though the Federal reserve is 3x for a total of 75 basis points, as Steve mentioned, repo rates only declined 43 basis points. Mortgage rates dipped over 100 basis points to their lowest since 2012, touching 3.56% on the FHFA primary mortgage rate. This triggered a refinancing wave that was much more benign than markets expectations. Spreads ended the year wider in agency RMBS and tighter in agency CMBS. Agency RMBS underperformed in the third quarter, but ended the year tighter in the fourth quarter relative to the third quarter-wise. On the next page, we show pay-ups versus TBA for various specified pool types across the coupon stack.\nPay-ups for specified pools rose versus TBA last year as the TBA deliverable worsened and interest rates fell, making the prepayment protection more valuable. Year-to-date in 2020, the trend has been for longer maturity rates to come down, flattening the yield curve. Agency RMBS OAS and CMBS spreads are tighter. Higher coupon Agency RMBS have outperformed lower coupon so far this year. Please now turn back to slide six and seven. Against this market backdrop, we managed the portfolio to generate a 10.8% total economic return for the year, paying $2.01 dividend, keeping book value relatively flat. We were active in managing the portfolio, as you can see on slide seven, eight and nine. Our key decisions made last year include, on slide seven, increasing capital allocation to agency CMBS shifting the percentage to 50-50 earlier in the year. Slide eight, a reduction in Agency RMBS held in TBA form with the purchase of prepayment protected specified pools and dynamic management of our coupon exposure. Slide nine, rebalancing of our swap portfolio in the second and third quarters, resulting in locking in lower overall financing rates as the curve inverted and adjusting our hedge position in the fourth quarter. And finally, management of our financing portfolio to create value with no disruption during the spike in the repo market rates. As Steve mentioned, our rebalancing decisions in the second and third quarter had a significant impact on our fourth quarter results for core EPS.\nFirst, the decision to add the pay fix swaps as the curve inverted added a onetime benefit to fourth quarter earnings as the three-month LIBOR receive rate was very favorable at 2.13%. While we will continue to benefit from the low pay fixed rates in the future quarters as three-month LIBOR has come down, that benefit is much lower in current and future quarters. Second, we also benefited from a 37 basis point decline in average repo cost during the quarter. Some of this will continue to benefit us in early 2020, you can see that on slide 20, one-month repo rates have declined to about 1.75% in January. And finally, as a result of the share buyback we executed, the lower average share count also boosted per share core earnings for the fourth quarter. Late in the fourth quarter, consistent with our macro view, we added protection for higher rates in the form of options, while lifting existing pay fixed positions. You can see on slide 11 the impact this had on our risk profile. Quarter-over-quarter, our exposure to lower rates was more positive. The book value performance for the fourth quarter reflected our longer duration position in the back end of the yield curve, causing book value to initially decline as rates in the long end increased. During the month of January, this positioning, along with the tightening in agency CMBS and higher coupon RMBS outperformance has resulted in book value increasing to an estimated $19.30 to $19.50 per share, a 7% to 8% rise versus year-end.\nOur book value and earnings performance reflect the diversified construction of the portfolio and our consistent macroeconomic view. 2019 clearly demonstrated the value of diversification in the portfolio and in several ways. First, the improved ability to keep book value stable even when Agency RMBS spreads widened was largely due to the positive convexity of the agency CMBS portfolio. Second, the ability to protect cash flows with the offset provided by prepayment compensation from the CMBS portfolio, while higher premium amortization arose from increasing prepayments on the RMBS portfolio. This is a significant impact. For the full year 2019, prepayment compensation from CMBS offset 43% of the negative impact from increased premium amortization on the Agency RMBS portfolio.\nAlison?"
+    },
+    {
+      "speaker": "Ms. Alison Griffin",
+      "speech": "Thanks, Smriti. Tell us how the portfolio is positioned today, how are you thinking about the investment strategy for 2020?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Our macro research and work continue to point to a range bound environment for interest rates, with a higher probability for rates to be at the lower end of the range. We have always talked about the possibility of surprises, impacting an already fragile global economic framework that is burdened by debt. We view the coronavirus as exactly the type of unexpected trigger that can shift fundamental economic trends in an unfavorable direction. Our actions last year and continued active management have resulted in us outearning the dividend significantly so in the fourth quarter. As I mentioned earlier, the three-month LIBOR set was a onetime benefit to core EPS in the fourth quarter. For 2020, we expect net interest margin to benefit from our rebalancing actions last year. The decline in repo costs in the first quarter, eventually stabilizing at a level moderately above the dividend later in the year. Our portfolio strategy for this type of environment remains focused on building durable cash flows for the lower end of the interest rate range with protection for a movement in rates to the upper end of the range.\nAs we have said before on many conference calls, in environments like this, we expect to manage the duration, leverage and asset mix dynamically intra-quarter. We continue to believe in the up in credit, up in liquidity diversified portfolio that will perform in the environment. We like the combination of agency CMBS and specified pools. On page 22, we have laid out why we choose to buy some of our prepayment protection in the form of an explicit lockout in the agency CMBS market. One of the main reasons is that you actually receive compensation as an investor if your bonds prepay. This is a very important feature if we are going to spend a lot of time at lower interest rates. The same type of protection is nonexistent in the Agency RMBS market. That's not to say we don't like that market or don't invest in it, we absolutely do. But we recognize that the prepayment protection is implicit, and it can disappear when rates fall low enough or the refinancing machine becomes efficient enough. So we have both. The prepayment compensation from the CMBS offsets the increased premium amortization from the Agency RMBS, and that creates a more stable earnings profile and lower rate environment."
+    },
+    {
+      "speaker": "Ms. Alison Griffin",
+      "speech": "Thanks, Smriti. Can you comment on the repo market trends and the Fed actions and what your expectations are?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Absolutely. The repo market is a big deal, and it continues to be a big deal. At this point, the Fed has clearly communicated that they're on hold. With a high bar to raising interest rates and a low bar to easing. They remain extremely focused on the liquidity in the repo markets and have continued to add their support by increasing their TBA exposure on their balance sheet and offering temporary repo facilities. It is very clear to us that they do not want a repeat of September 2019 or December 2018, so they're intervening, offering support for the financing of the most liquid assets, such as Agency MBS and treasuries. Over the long term, they have solutions, such as a standing repo facility, and this remains something that the Fed is reluctant to commit to, but apparently exploring. Regulatory reform is also an option, but they're, again, politically charged.\nAnd that really leaves us with the Fed stepping in right now as the lender of last resort. As far as repo rates are concerned, we'll just go back to page 20. We're finally seeing the benefit of the full 75 basis points of easing last year just now in the first quarter. From this point on, we expect financing costs to be stable and future declines are going to come from further easing by the Fed and competition among our funding providers. And then as well as a company that participates actively in the housing markets, we're also watching the developments at the Federal Home Loan Bank system. The FHFA is reconsidering the ability for REITs to be an active participant in that system, and that would be another tailwind to our financing costs."
+    },
+    {
+      "speaker": "Ms. Alison Griffin",
+      "speech": "Where do you see marginal returns today?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Interestingly, Alison, and we've said this for some time now, the most liquid asset continue to provide the best marginal returns. And in an era where central banks have stepped in to flood the system with liquidity, it's really easy to overlook the value of liquid assets. Right now, we see the best hedge static returns in the Agency RMBS space. 11% to 14% returns in the Agency RMBS space, depending on the coupon and type of specified pools purchased. In the agency CMBS space, we're a little bit tighter given how well they've performed, and those returns are somewhere between the 8% to 11% range."
+    },
+    {
+      "speaker": "Ms. Alison Griffin",
+      "speech": "Thanks, Smriti. I'd like to now turn the call over to Byron."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Thank you, Alison. Well, everyone turn to slide 13. As we anticipated, business conditions have improved considerably for Dynex with the Fed on hold and with a low bar for reducing interest rates and a high bar for raising interest rates. Furthermore, spreads on agency mortgage-backed securities are more attractive today than over the past several years. So we have opportunities to invest our capital. We continue to believe the global economic and political environment is subject to sudden surprises, as we have seen so far in 2020. But we are positioned with a liquid portfolio, and we will continue to actively manage both sides of our balance sheet to generate solid cash flow for our shareholders. Please turn to slide 14. And I will remind you, as I do so often, that we are managing our business for the long term. The cash dividends that we continue to pay to our shareholders are extremely attractive in a world where long-term U.S. government bonds will only pay you less than 2% cash interest. Furthermore, we believe that above average dividends will be a major driver of returns over the next five to 10 years, given that today, global asset price levels are highly inflated. Dynex has existed for 30 years. We have a seasoned management team, we are internally managed. We own our own stock, and we continue to remain dedicated to a disciplined top-down macroeconomic approach in our decision-making process to create value for our shareholders.\nAnd with that, operator, we're going to open the lines up for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Certainly. [Operator Instructions] Your first question comes from the line of Doug Harter from Credit Suisse. Your line is open."
+    },
+    {
+      "speaker": "Josh",
+      "speech": "Hi guys. This is actually Josh [Phonetic] on for Doug. I appreciate the commentary around the book value range provided Through the end of January. I was wondering if you could walk us through some of the puts and takes around those numbers. It seemed high to us when compared to anything we could see. So just curious if you could estimate or quantify how much of that book value increase is coming from CMBS tightening versus maybe the higher coupon RMBS performance? And any commentary around the performance of the lower coupon RMBS in the first quarter would be great. I know that's a lot a of questions, but appreciate it."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "I'm going to let Smriti give you some of the basic Detail. But there's -- from our perspective, it's not a surprising result. We purchased -- we increased our agency CMBS position throughout 2019. And spread have tightened. We stuck with our higher coupon positions, spreads have tightened. And they've outperformed for in this first quarter. And then given our macroeconomic view, we've always had a bias. We stated a year ago, one and half years ago. We believe we're in a range. We believe we're going to be in the lower end of the range. And when you're in a range with lower volatility for managing a book of securitized part and it becomes a more favorable environment. And I'm going to leave with that backdrop, Smriti, you can get more specific about it. But as far as we're concerned, it's not an unusual result."
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Thanks, Byron. So Josh, if you could just turn to page 10 on the slide deck. Page 10 on the slide deck where it says risk position interest rates. We did execute a substantial shift in the way our hedges worked, and that's probably one of the biggest drivers of book value in the first month. So if you look at September 30 versus December 31, the change in shareholders equity for a 50 basis point decline in interest rates is about 7% to the positive relative to our position in September. So that's one of the bigger drivers in terms of how we were positioned coming into this year. Again, no one can predict Iran or the coronavirus or anything else, but our macro opinion was literally that you're going to be in a range, we're spending more time at the lower end of the range. We had contingent protection for higher interest rates and to be able to benefit if interest rates were to decline, OK? So you can see that even in the upgrade scenarios, that contingent protection was sort of kicking in as rates rose. So that's a big driver. The second thing I would say is our book is weighted toward the higher coupon. So I think we own a good 70% of the book.\nIt's sitting in four's and four and half's and some in three and half's as well. Those coupons, even though the market rallied, really held in there and actually went up in price even though the dollar price -- even though the treasuries rallied. So that was the second piece. And then the bigger piece was just this -- the 50% allocation to the CMBS portfolio. Some of those bonds really outperformed in January. There was a lot of demand for that product. We're showing you where par price bonds are trading in slide 20. We own a variety of bonds, some that are pulled down, some that are 12 and 11.5. So that spread tightening, while it's an approximation, there's other ways in which -- where there was demand for more lower duration securities, for example, which we own. So that was another piece of the outperformance. So there's really three things: market rallied, we had a position that benefited; number two, higher coupon Agency RMBS outperformed or overweight there; CMBS, agency CMBS also outperformed; and the bonds we specifically own were -- happened to be very much in demand. So those are the three reasons."
+    },
+    {
+      "speaker": "Josh",
+      "speech": "Great, really appreciate the color guys. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Eric Hagen from KBW. Your line is open."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Good morning. Congrats on a good year and a good January. You guys amortize prepays as they occur. So I'm just confirming that the expected slowdown in prepays on Agency RMBS should boost your net spread a little bit relative to the fourth quarter."
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "That is correct in terms of the method, but I'll let Steve address that."
+    },
+    {
+      "speaker": "Stephen J. Benedetti",
+      "speech": "Yes, Eric, that's correct. We're a prospective method. So the -- we reflect the actual pay downs that occur during the quarter on the RMBS book. So any slowdown from seasonality or portfolio construction would be reflected in the results."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Great. I just wanted to confirm that. And then what was the optimal level of leverage that you think the pairing of Agency RMBS and CMBS can get run at? I imagine you are comfortable where you're at around 9x right now, but what would be your comfort level and taking that a little higher from here?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "I think on -- given the positive convexity on the agency CMBS, it's -- we can run the leverage higher from this level. I mean, 9 times is buying, we're thinking about the risk-adjusted return at this point. But the agency CMBS as a product does sort of enable the ability to run the leverage higher."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Yes. And that's a real important one that Smriti has said here is that the structure of the agency CMBS product, it's a better structured loan, and it does give us the ability to carry a higher leverage level. It's just simply a better structured product. Do you want to add something to that, Smriti?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "No. No. We're good."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Okay. And I know a lot of your comments around the repo market probably pertain mostly to Agency RMBS. But on the agency CMBS side and a little bit on the -- a little bit of credit that you guys do, would you say that the commentary is the same or any different?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "I would say -- so there's really..."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Regarding repo rate?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Right. There's really no difference, Eric, between the agency CMBS and the Agency RMBS. So those two really get funded right at the same haircut and the same levels. The market doesn't distinguish that. On the small amount of the IOs that we own, the credit product that we own, we've seen very stable profile. They really did not suffer in the disruption last year. Those things are primarily funded on bank balance sheet. And as you guys know, ours is, we have a committed repo facility with one of our banks that -- really you don't suffer disruption. We didn't suffer that disruption in any of the repo market."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Right. Great, thanks you so much. That's very helpful."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Trevor Cranston from JMP Securities. Your line is open."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Alright, thanks. You guys talked about, in your prepared remarks, dynamically managing your sort of rate positioning as the market moves around. And obviously, you guys benefited a lot from rates in January. Can you comment on how you might have shifted the rate exposures of the portfolio as rates came out in January?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Yes. So again, we are going to manage that portfolio dynamically. We used a variety of instruments for the upgrade scenarios, we're constantly in the options market, either using options on treasury futures or swaptions. If we get the opportunity to lock in attractive, forward financing rates through the swap market, we are doing that. We've had the opportunity to do that. Early in February, those rates -- we basically came back to rates that were in existence in September. So we are opportunistic in that manner, Trevor. And what we're trying to say when we manage things dynamically is that from quarter-to-quarter our positions are actually changed intra-quarter. And what you see as the position at the end that's reported in December 31 by the time we get to March 31, we will probably have made some adjustments. But yes, if we see these forward rates coming down in the manner that they have, we're going to take advantage of them and lock them in."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Okay, got it. And I apologize if I missed this, but given the improvement in earnings this quarter, can you guys comment on how you're thinking about the dividend in light of where the earnings level is now?"
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Trevor, the -- what's really important, you hear us talk about disciplined process and disciplined decision-making and actively managing our balance sheet and our capital dividends are part of that process. First and foremost, understand that the dividend levels is a Board decision. And throughout the year, the Board meets and decides on what's the appropriate dividend level and throughout 2020, we will continue to do that. But dividends are also part of the larger capital management process, which we're very disciplined. And if you think about 2019, at one point, we raised capital, at another point, we bought back capital, at another point, we had reduced our dividend just to reflect the overall risk environment. So we're very disciplined in trying -- and being very intelligent about the way we manage our overall balance sheet on both sides and the dividend decision is part of that. So it is a Board decision. We are outearning our dividend. But you should always note that with those earnings, you can see what can happen when you deploy capital at the right spreads and right product, it can be extremely powerful. So it's a disciplined process. And the Board, as always, will continue to meet throughout the year to make decisions on where that dividend sits for the competing uses of capital that we see at any moment in the marketplace."
+    },
+    {
+      "speaker": "Trevor Cranston",
+      "speech": "Gotcha. Okay, appreciate the comments. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Christopher Nolan from Ladenburg Thalmann. Your line is open."
+    },
+    {
+      "speaker": "Christopher Nolan",
+      "speech": "Hi guys. The hedges that benefited the book value per share in January 2020, should we expect that the contribution to the net spread from hedges should increase in the first quarter as things currently stand?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "I would say, Chris, so it's -- again, it's a balance, OK? So on page 10, if you look at what -- the way we were positioned at the end of the year, some of the hedges that we had on the balance sheet, in September, we took off. And then we replaced those with options. And so on a net basis, I would say that's not going to be a major driver of where the earnings go, but that's sort of more of the dynamic aspect of when we feel like it's appropriate to lock in that financing cost in the future versus not. On that, I would say it's not going to be a major driver of contributing to net spread going forward. At worst, it's even."
+    },
+    {
+      "speaker": "Christopher Nolan",
+      "speech": "And so am I reading it correctly where given that you had a really strong quarter, but you cut the dividend. And the book value seems to be taking a nice jump in January. But it -- that does not seem to be flowing through to earnings. So book value could benefit in the first quarter, it looks like the earnings run rate is not likely to be significantly different than it might have been in recent quarters unless leverage changes. I mean is that a fair way to look at it given everything?"
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "So I'm going to -- let me try to repeat back. I'm a little confused on what you're asking. You're trying to understand the earnings run rate or the earnings, particularly, is that what you're -- is that the question that you're asking? I'm going to let Steve and Smriti get in more detail, but what has happened is, I do want to make sure that you and everyone else on this call understands how consistent we are in our process and what we say. We are very disciplined with our top-down approach. We gave you an opinion at the end of 2018 by third quarter, October 2018. We told you conditions were going to improve. We told you our financing costs were going to come down. We told you also several years ago, the Fed doesn't have the ability to raise rates and do what they were trying to do. Now things have moved in that direction. And we've been able to take advantage of that.\nAnd you have seen the results of that in 2019, and you see that today in terms of where we sit. And I'll let -- so again, it all starts with our macroeconomic view. And we want to make sure that you understand how consistent we are. And please go back and listen to our other conference calls, go back multiple years. And you're going to see and listen to what we say, and then you should be able to see what took place here over the last year and one month. And it shouldn't be too unusual. And then when we talk about the future or we give you the macro view that the Fed is on hold with a lower bar to reduce rates versus a higher bar to increase our rates, which will drive our financing cost. So Smriti and Steve, you want to chime in a little bit more to have Chris understand the outlook for 2020?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Sure. Right. I mean, I would say, early last year, the primary reason, if you looked forward last year, you saw an inverted yield curve and really sort of NIM compression coming your way, OK? So that's what drove the idea that maybe there's some -- there's NIM compression coming your way and we needed to reduce the level of the dividend at the time. Once you started to see the markets move in the second and third quarters, we got the opportunity to lock in some of that attractive forward financing rate, which offset the impact of that NIM compression from an inverted yield curve. And so we were able to capture some of that margin. One part of capturing that margin, we had a onetime benefit in the fourth quarter, which was the three-month LIBOR set at 2.13%. That was great. That helped us outperform the dividend in the forward. That's not going to continue necessarily into the first and -- first quarter and into the rest of the year.\nBut what is, is the fact that we've locked in those lower financing costs in the second and third quarters, OK? So a driver of core earnings improving from last year to this year is that pay fixed position, all right? And then the second thing that happened is that over all of last year, repo rates only came down 43 basis points. They're already down 25 basis points this month and last month. So that's giving you some tailwind going into 2020. Now will that continue every quarter, 25 basis points? That's going to depend on whether the Fed eases or there's competition in the marketplace or whether we get into the Home Loan Bank. But let's just say that stays the same, that's another thing that sort of solidly puts the margin at levels where it is larger than where it was at the beginning of last year. So those are the two things, I would say, contribute to that wider margin coming into 2020. Now certain other onetime things, which I mentioned, will help us here again in the first quarter, and then we eventually expect that the margin will stabilize at a level above the dividend later in the year."
+    },
+    {
+      "speaker": "Christopher Nolan",
+      "speech": "Right. Okay. Thanks for your clarification."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Jason Stewart from JonesTrading. Your line is open."
+    },
+    {
+      "speaker": "Jason Stewart",
+      "speech": "Thank you. Good morning. I wanted to ask in the RMBS market, given the reduction in rates in 2020 so far, as you're talking to originators and servicers, what their assessment of capacity in your view of how that translates into prepayments is sort of going to play out, given that the lower rate environment?"
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Can you repeat that? I missed a little bit about what you were asking about originators."
+    },
+    {
+      "speaker": "Jason Stewart",
+      "speech": "All right. And just given that where mortgage rates are to consumers, in your discussion with originators, even, I guess, servicers to a lesser degree, what their assessment is in terms of capacity? If they're increasing it or they view it as just more of a temporary low rate environment? And maybe how the -- how that would translate to your view of external rates in the Agency RMBS?"
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Okay. That's a great question. So let me just start off with a general statement, the market in general, both equity investors and some bond investors made a huge mistake last year. They miss price what happened in prepayments. The market was priced for Armageddon, our stock was priced for Armageddon, and those shareholders who either sold the stock or sold mortgage-backed securities were wrong. So I'm going to -- period. That's what took place, it was mispriced. Now when you go across the origination universe, it is not, and it was not and is still not consistent today. Some originators have better technology than others. Some originators did increase capacity, but there were several originators that did not increase capacity because they were not willing to believe that, that low rate environment was going to continue and that they should incur the higher costs, what's trying to increase capacity to push through faster prepayment speeds. So we made a smart decision, and I applaud our investment team on making that decision, to maintain our positions in some of our higher coupon -- mortgage-backed securities. And as such, Smriti said earlier, she said, we still have a large position in four's and four and half's. Those positions have done extremely well, and they're generating a lot of cash flow.\nSo the market made a huge mistake last year. Prepayments have gone through -- every prepayment cycle since 1986, and I've yet to see prepayment modelers get it right. They're generally working with empirical data, which they're using historical data, which means every single prepayment cycle has been different. And this one was different than the others in the past. So there was a great business opportunity. CMBS, agency CMBS spreads widened out despite the fact that they don't have the cloud prepaid -- they have actually flexible prepayment protection built in the loans. Four's, four and half's, another 30-year mortgage backed securities were priced to an Armageddon-timed scenario. So there was a great business opportunity. You see it in terms of when spreads have finally tightened back in. You can see in terms of the amount of carry or net interest income we were able to generate as the Fed has reduced our financing costs, and the team has been able to actively manage our hedge book to take advantage of the environment. So I'm going to leave it with -- starting with that Smriti, you can add more specific detail around. I think that's a great question because I think most of the marketplace has been confused in terms of prepayments. And I think that seasoned players, really, with a lot of history in this business, have a huge advantage in managing through these type of cycles."
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Yes, I would agree with that, Jason. I think what you're seeing is a mortgage market that is getting more and more efficient on the originator side. It is patchy because certain originators have invested in so much technology that they get more and more efficient, others are coming along. But the trend is unmistakable in that the efficiency of that mortgage refinancing option is just getting better over time. And for us, that's what makes us buy the agency CMBS and the Agency RMBS. So if you go back to that pricing matrix, really, on page 21, we're showing you what it costs you to buy prepayment protection in the Agency RMBS market. So if you wanted to buy a protection in the 4% coupon, for example, in January, your TBA price was 104.46 and from 85K Max pool, you paid five points above 104.46, getting you to a dollar price of almost 110. All right?\nSo just to give you a comparison in the DUS market or in the agency CMBS market, there are pools that trade with a 4% coupon with a 10-point premium. However, when that bond prepays, you get compensated for that extra 10 points because of the structure of the bond. When the 4% 85K Max prepays, you get par. That's what you get. So there's value in these things, and the value of them is going to get more as the TBA gets more negatively convexed, but also there is a diminishment of the value of the specified pool itself over time, intrinsically. We're not saying this happening tomorrow, but the more efficient the market gets, the better originators get at building capacity and taking that capacity down. The value of that $5.38 eventually starts to erode. So that's why we invest in both. But that's -- hope that answers your question."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "That was a great question. It is a big -- this understanding of prepayment, it was a big factor in 2019, and the market simply miss price what took place. One day, highly probable, we break through the lower end of the yield range, somewhere out in the future. We don't predict, we don't have a clue when that can be. That today, when you should see a major readjustment because of prepayment speeds. But as we sit here in this range with a low ball environment what our book is showing, and I'm sure others are showing the same thing, that you can generate more cash flow than the market priced in last year."
+    },
+    {
+      "speaker": "Jason Stewart",
+      "speech": "Appreciate that."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your next question comes from Jay Weinstein from Wealthspire. Your line is open."
+    },
+    {
+      "speaker": "Jay Weinstein",
+      "speech": "Hi everybody, how are you?"
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Hi Jay."
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "Hi Jay."
+    },
+    {
+      "speaker": "Jay Weinstein",
+      "speech": "Nice to hear from you. So Byron, last year when -- at the annual meeting, you made an interesting forecast that proved to be very prescient. I ask you at the time, rates were in a range -- at a higher range, and I asked you which direction if you thought it was going to break, it would go, and you thought about it for a second, and you said down, which proved to happen in about three months later, four months later, whatever it was, so it was a very accurate forecast. I was wondering if I ask you the same question today with the new range that we were sort of tracking in. And it seems like let's call the 10-year between 150K and 200K, for instance. How would you answer that question today?"
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "It is a little more nuanced, if I put it like that. The -- we believe, we've used this phrase. So I'll be consistent. We've said the globe is complex. We said risks have intensified, but the most important thing we've said is that surprises are highly probable. And we've used that phrase for multiple years. When we go to our scenario analysis, most surprises we can come up with have rates breaking to the lower side. And one of the major problems is there's a ginormous, and I love using the word ginormous, amount of global debt. It is continuing to increase. Deficits do matter in the U.S. and it matters than every other country. Huge borrowing at the corporate level and at the individual level. So any movement up in rate, in our opinion, will be temporary because it will put downward pressure on economic activity because we find it baffling that we believe that we can increase the amount of global debt and then increase the price of that debt and believe that, that won't put a downward pressure on economic growth and as a result, interest rates.\nSo already this year, we've seen two events, two surprises. One was a Middle East flare-up, and that situation is extremely chaotic. We saw -- there was a drop in rates. When it looked like things were not going to escalate, rates moved back up. Now we have another situations putting downward pressure on growth, which is another surprise factor. That also has put downward pressure on growth -- and on growth and on interest rates. And we're in a range. It's a tighter range than we've been. But if you look back to 2011-ish/'12, it's the same range we were in were like between 150K and 200K per se. If you look back to 2016, we were between 150K and 200K per se. And I would urge everyone to go back and study those periods because we only broke out of those periods for something related to government policy, whether it be the Fed, we thought they could tighten credit or there was the Republican sweep in the U.S. Government.\nSo our still bias is that you can ultimately test the low end of rates or break through it. We're not predicting when that will happen. I think it's important that you understand that we're going to have a bias when we can to be longer. Now the rates have already rallied so much for this quarter, of course, we have made some adjustments to our portfolio to reflect that fact. But in general, our bias in our mindset has been for multiple years because we believe global risks have intensified that you have downward pressure overall on interest rates."
+    },
+    {
+      "speaker": "Jay Weinstein",
+      "speech": "Yes, because you use the phrase, I think that all the -- I think it's now $15 trillion or $16 trillion of negative interest rate. Assets were sort of like a black hole sucking our rates in that direction. And I assume you still sort of feel -- as you said, these are surprises, do you just kind of -- you felt like any surprises would drag downward, which proved to be correct. So when somebody says..."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Jay, look -- Jay can I point out something. When I say, there are scenarios that worries out from the upside. So for example, in Europe, could Germany decide to deficit spend to try to boost their economy, which could potentially have some impact on boosting. Europe, if nothing else, there's going to be -- if that took place, there will be a psychological move in bonds. And then I think that would have an impact on global rates and supporting the higher rates in the U.S. and elsewhere. And that would be a surprise."
+    },
+    {
+      "speaker": "Jay Weinstein",
+      "speech": "Okay. And in terms of -- when somebody says to you, the U.S. government is printing these huge deficits, so therefore that should be upward pressure on rates. But that actually has proved to be the opposite. And what do you say to those when people say things like that to you?"
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Well, I'll point out, I went back to look at -- you remember, when I first said the word complex, I think it was like February of 2014, we basically made a statement that the Fed would try to normalize, but they really can't do it. And it's not a -- we're not being -- trying to be oracles or predict the future. All we're saying is from the simple concept that we increased an enormous amount of debt globally. And if you try to increase the prices of debt, it eventually has a downward pressure on economic growth. And that in itself creates a scenario where rates come back down. So we've seen the Fed do to a round trip. Eventually, they got to a point where they realized that, in fact, continuing to tighten financial conditions were going to create problems, not only from a global growth perspective, from a financial stability perspective. And so then -- and you end up with rates coming back down. So it's a dynamic process. It's not saying that we can't test this upper end of the range, right now is at 2%.\nSo let's say, everything calms down from the coronavirus. Let's say that the world gets to the point where the world gets this under control, still has put some downward pressure on the world, but it's temporary pressure on the world. You could see, again, the rates start to drift back up toward 2%. I don't think it was unusual that a lot of people thought you could pierce the 2%-type level. But again, you try to push rates up on top of this enormously growing level of global debt, which includes the United States, we believe that's a problem. And we believe it will create a scenario where economic growth is slow, and rates will come back down. And we're not into making political statements. Unfortunately, when you talk economics today, people think you're making political statement, but the fact of the matter is debt do matter. Huge amounts of debt is detrimental, and we believe it's a destabilizing factor beneath the surface of the global economy. Smriti, you want to add something?"
+    },
+    {
+      "speaker": "Smriti L. Popenoe",
+      "speech": "I do. Jay, I would say, the one other thing to consider is central banks, right? The U.S. government increased its deficits at a time when central banks were just massive buyers of debt. So eventually, the central banks proved to be bigger than the U.S. government's increase in the deficit. And so rates are down, and it's not just our central bank, global central banks. So that's where that black hole comes in again. So it's kind of an incredible situation where we're able to increase our deficit at lower and lower interest costs, largely because of central bank activity."
+    },
+    {
+      "speaker": "Stephen J. Benedetti",
+      "speech": "Imagine, Jay, if the central banks don't buy this debt, imagine if they weren't buying the debt."
+    },
+    {
+      "speaker": "Jay Weinstein",
+      "speech": "All right. Thank you. I will hopefully I'll see you again in April."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Okay, thank you so much Jay, for plugging in."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Glen Peterson from GRP Trading LLC. Your line is open."
+    },
+    {
+      "speaker": "Glen Peterson",
+      "speech": "Hi guys. Thanks for taking my follow-up. Can you tell us all what went through -- how -- if I'm reading it correctly, you said in the quarter in $18.01 in terms of book value and currently, you're saying somewhere between $19.30 and $19.50. Can you talk to me or speak to just exactly what improved that much as inside portfolio. I'm just having a little hard time battling that 7% or 8% more. And thanks so much for taking a call."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Let me just summarize again. I'm going to go back through what we've already said. And the first point to understand is, agency CMBS spreads tightened. And we bought and increased our portfolio throughout 2019. And part of the spread tightening with agency CMBS spreads, we did -- there was some widening last year, which took place not only -- as for the second widening out, but it was also a function of higher premium prices. And that sector definitively repriced in January more than it did in the fourth quarter of last year. So that's the first point. And spreads have been very solid in that sector. Second to that, Smriti pointed out that we still have positions in four's and four and half's, where the market has realized as prepayment speeds have come down, that they're very -- and those products are generating very good cash flow, and we watch those products also improve. And then thirdly, as we've talked and you've listened to this call, you understand our macroeconomic view, and we adjusted our hedges in such a way that we anticipated that if rates rise, it would be temporary and that most surprises that we will incur, will put downward pressure on rates. So that's the philosophy behind it. We have a unique portfolio. I don't think there's another mortgage REIT that has a 50-50 split between agency CMBS and Agency RMBS. So it is a unique portfolio, and it proved valuable."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There are no further questions at this time. Byron Boston, I'll turn the call back over to you."
+    },
+    {
+      "speaker": "Byron L. Boston",
+      "speech": "Thank you, operator. I appreciate all the questions. I appreciate you all tuning into our conference call. And for those who want to get a better understanding of Dynex Capital, please feel free to go back and listen to other conference calls going back multiple years, we're pretty consistent in terms of our macroeconomic view. And we're very consistent in our approach to the market. Thank you very much, and we look forward to you plugging in again with us for our first quarter 2020 conference call in a couple of months. Thank you very much. [Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 40 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ms. Alison Griffin--Vice President of Investor Relations",
+    "Byron L. Boston--Chief Executive Officer, President, and Co-Chief Investment Officer",
+    "Stephen J. Benedetti--Executive Vice President, Chief Financial Officer and Chief Operating Officer",
+    "Smriti L. Popenoe--Executive Vice President and Co-Chief Investment Officer",
+    "Josh--Credit Suisse -- Analyst",
+    "Eric Hagen--KBW -- Analyst",
+    "Trevor Cranston--JMP Securities -- Analyst",
+    "Christopher Nolan--Ladenburg Thalmann -- Analyst",
+    "Jason Stewart--JonesTrading -- Analyst",
+    "Jay Weinstein--Wealthspire -- Analyst",
+    "Glen Peterson--GRP Trading LLC -- Analyst"
+  ]
+}

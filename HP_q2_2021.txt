@@ -1,0 +1,275 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, everyone, and welcome to the Helmerich & Payne Fiscal Second Quarter Earnings Conference Call. [Operator Instructions]\nIt is now my pleasure to turn the call over to Vice President of Investor Relations, Mr. Dave Wilson. Please go ahead, sir."
+    },
+    {
+      "speaker": "Dave Wilson",
+      "speech": "Thank you, Jim, and welcome, everyone, to Helmerich & Payne's conference call and webcast for the second quarter of fiscal year 2021. With us today are John Lindsay, President and CEO; and Mark Smith, Senior Vice President and CFO. Both John and Mark will be sharing some comments with us, after which we'll open the call for questions. Before we begin our prepared remarks, we'll remind everyone that this call will include forward-looking statements as defined under the securities laws. Such statements are based on current information and management's expectations as of this date, and are not guarantees of future performance. Forward-looking statements involve certain risks, uncertainties and assumptions that are difficult to predict. As such, our actual outcomes and results could differ materially.\nYou can learn more about these risks in our annual report on Form 10-K, our quarterly reports on Form 10-Q and our other SEC filings. You should not place undue reliance on forward-looking statements, and we undertake no obligation to publicly update these forward-looking statements. We will also be making certain references to non-GAAP financial measures, such as segment operating income and operating statistics. You'll find the GAAP reconciliation comments and calculations in yesterday's press release. With all that said, I'll turn the call over to John Lindsay."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Thank you, Dave, and good morning, everyone. Reflecting on where we were at this point last year, I'm encouraged by the recovery we are currently experiencing as well as how the company has navigated through a multitude of challenges in 2020. Last year, I said that two factors were crucial for us for continued success going forward. First, maintaining our financial strength and second, maintaining a long-term focus for future opportunities. I'm happy to report that the company continues to execute in both areas. Today's mid-$60 oil price is robust compared to what we experienced over the past year. But going forward, we anticipate a degree of permanence in the change of historic industry behaviors and norms. Energy markets are coming back into balance, global oil demand is reviving and oil inventories are falling back to their 5-year average. The energy industry's capital discipline, which actually began prior to the global pandemic, also remains resolute. While this last point is uncomfortably limiting for the industry's near-term growth horizon, this is something we believe is imperative. Focused disciplined spending that generates returns under a variety of commodity price scenarios is what the industry needs to attract and retain investors. Back to the long-term focus and what we believe the future holds for H&P. A natural step in capital discipline is driving the most value per capital dollar spent, not just in a 1-year budget cycle, but over the life of an investment.\nThis corresponds to where we believe H&P as the leading drilling solutions provider contributes the most value to our customers and is the driver behind the development of our digital technology solutions, and our new commercial models that are structured around achieving value-added outcomes. Aligned with our strategic objectives, H&P will continue to concentrate on delivering value to the customer by leveraging software, data and FlexRig technology. Our digitally enabled drilling operations provide automation solutions that deliver both efficiency gains and wellbore quality. Not only do our customers experience near-term financial benefits like lower well costs and the reduction of certain downhole risks, but also improvements in areas that were historically beyond our ability to influence, but have significant economic implications over the long-term life of the well. An important ingredient to a successful technology strategy is the integration of new commercial models, which incorporate performance metrics and eventually, wellbore quality metrics. One example is having a tortuosity index and tying them together with financial remuneration.\nNew commercial models are designed to generate win-win outcomes. The customer has a well with improved economics, and H&P is compensated for helping to create a portion of that value. Currently, approximately 30% and of our active U.S. fleet is under some type of performance contract. Contrasting the successful adoption of these new commercial models compared to a year ago, where we only had about 10% of our fleet on performance contracts. Our digital technology is providing H&P and our customers another differentiating capability in delivering the best outcomes. Let me give you a few examples. H&P's automation technology deployed on our FlexRig is providing smoother wellbores and reduced tortuosity, which helps extend downhole tool life, deliver smoother casing runs, increase reliability and reduced well durations. In addition, a less tortuous wellbore also saves the customer time and money during the completion phase of the well by lowering downtime events, reducing overall completion time and creating more certainty for the life of the well. We are automating directional drilling with our AutoSlide solution, and this is driving repeatability and consistency in drilling the curve.\nThis enables landing the curve earlier in the zone, resulting in an additional frac stage and improved returns for the customer. Well cost consistency achieved through automation is providing more certainty and confidence to key stakeholders, affording a clear vision and more confidence in future expansion. I do believe that FlexRig solutions are unique in the industry and contributing to the demand for H&P as our current rig count in the U.S. is at 118 rigs, up 25% since the end of fiscal Q1. In addition, we have approximately 35% of the public company E&P market share and about 14% of the private E&P market share. Both are leading metrics in the U.S. We're making good progress in deploying digital technology solutions and introducing new commercial models to the industry. All of that said, we also realize there's still a lot of work ahead. As the demand for FlexRig solutions has increased, we find ourselves at a point where rig reactivations are becoming an increasing financial burden. We believe the market is fast approaching an inflection point where this financial burden will have to be carried by our customers as well, either through lump sum payments or pricing over the life of the contract. We estimate that industrywide, there are only a handful of idle super-spec rigs that have been active during the past nine to 12 months, particularly as longer idled rigs are put back to work, higher reactivation costs will play a larger role in contract economics going forward. We already see a shortage of ready-to-work super-spec rigs in the market.\nSo there's momentum emerging in the near-term to improve FlexRig solutions' pricing and contract economics during the rest of 2021. If commodity prices remain strong, many believe E&P budgets will likely respond positively in 2022, and that will increase the demand for incremental super-spec rigs. Those incremental rigs will be those that have not worked in well over a year, and it will be costly to bring those rigs back into service. Again, contract pricing and economics must be supportive of that investment. I will not soon forget last summer's reorganization effort where we downsized corporate G&A and operational overhead in response to the pandemic. Mark will give a more complete description of how these efforts are expanding this year. But I wanted to underscore that our industry is structurally smaller today. And the prospects of that trend reversing, seem very slim, especially near term. We must respond to the changing priorities, but it doesn't mean there are no longer opportunities for H&P to innovate, to grow and to thrive in this evolving environment. Oil and gas is still critical to the global economy, and it will remain so for many years to come.\nGrowing internationally is another strategic priority for H&P. While international markets are lagging behind the U.S. recovery, we are participating in several bid opportunities in South America, the Middle East and elsewhere. We are encouraged that several of these opportunities are unconventional resource-type plays, and we have industry-leading technology and expertise. The process of obtaining international work has its set of challenges, and we are shifting our strategy to drive success. We are committed to growing that part of our business and given our significant U.S. super-spec capacity, leading-edge technology offerings and financial ability, we are well positioned for many of these opportunities. H&P has long been committed to operating in a safe and environmentally responsible manner, and we continue to invest in advancing cleaner and more efficient energy through new technologies that minimize the environmental impact of our drilling operations. We are pleased with our ongoing partnerships with our customers to reduce GHG emissions. Our operational and technological experience, combined with our rig design, help our customers minimize operational costs and risks and reduce the environmental impacts associated with producing oil and gas. We are also investing in power management systems and alternative power sources.\nThe company recently launched our new website, and it's designed to provide greater insight into our solutions capabilities and outcomes-based results and other important disclosures. We've included new disclosures around our CO2 emissions including rig and vehicle emission improvements we've realized over the past three years. In the coming months, we plan to publish our HSE sustainability metrics, and other information as we continue to improve our ESG disclosures and culminating with publishing our sustainability report in 2021. As we commented on our last call, we entered 2021 optimistically and so far, so good. One of H&P's strengths is its ability to adapt to changing and often volatile market conditions. Our people, our rig assets and digital technology and our financial position are the drivers behind why H&P is considered a market leader and partner of choice within the energy industry. The industry will continue to face challenges, but I'm confident that H&P and our people are up to the task and will be successful.\nAnd now I'll turn the call over to Mark."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Thanks, John. Today, I will review our fiscal second quarter 2021 operating results, provide guidance for the third quarter, update remaining full fiscal year 2021 guidance as appropriate and comment on our financial position. Let me start with highlights for the recently completed second quarter ended March 31, 2021. The company generated quarterly revenues of $296 million versus $246 million in the previous quarter. The quarterly increase in revenue was due to a higher rig count activity in North America Solutions as expected. Total direct operating costs incurred were $231 million for the second quarter versus $200 million for the previous quarter. The sequential increase is again attributable to the aforementioned additional rig count in the North America Solutions segment. General and administrative expenses totaled $39 million for the second quarter, consistent with our expectations and with the previous quarter. Towards the end of the second quarter, we continued our focus on operating super-spec rigs and phasing out the less capable portions of our fleet. As a result, we developed and began executing a plan to sell 68 domestic non super-spec rigs, all within our North America Solutions segment, the majority of which were previously written down and decommissioned and/or used as capital-spared donors.\nWe expect most of these rigs to be sold for scrap value. These assets were written down to their net realizable value of $13.1 million and were reclassified as held for sale on our balance sheet. As a result, we recognized a noncash impairment charge of $54.3 million. Additionally, during the second quarter, we downsized and moved our Houston FlexRig assembly facility as part of our ongoing cost management efforts. In conjunction with this initiative, we incurred a loss on sale of assets of $18.5 million, primarily due to closing on the sale of scrap inventory and obsolete capital spares for an aggregate loss of $23 million.\nThis loss was offset by approximately $4.5 million in aggregate gains on asset sales, primarily related to customer reimbursement for the replacement value of drill pipe damaged or lost in drilling operations. Our Q2 effective income tax rate was approximately 23%, which is within our previously guided range. To summarize this quarter's results, H&P incurred a loss of $1.13 per diluted share versus a loss of $0.66 in the previous quarter. Second quarter earnings per share were negatively impacted by a net $0.53 loss per share of select items as highlighted in our press release, including the aforementioned impairments and loss on sales. Absent these select items, adjusted diluted loss per share was $0.60 in the second quarter versus an adjusted $0.82 loss during the first fiscal quarter. Capital expenditures for the second quarter of fiscal 21 were $17 million below our previous implied guidance as the timing for that spending has shifted to the third and fourth quarters. H&P generated approximately $78 million in operating cash flow during the second quarter of fiscal 21. I will have additional comments about our cash and working capital later in these prepared remarks. Turning to our three segments, beginning with the North America Solutions segment. We have averaged 105 contracted rigs during the second quarter, up from an average of 81 rigs in fiscal Q1.\nWe exited the second fiscal quarter with 109 contracted rigs, which is at the high end of our guidance range as demand for rigs continue to expand from the low reached back in August of 2020. Revenues were sequentially higher by $48 million due to the activity increase. North America Solutions operating expenses increased $29 million sequentially in the second quarter, primarily due to the addition of 15 rigs. We ended up reactivating 21 rigs during the quarter due to churn across basin geographies where some releases offset the total number of reactivations. Most of the rigs released during the quarter have returned to work or are expected to return during the third fiscal quarter. As of this call, we have added nine more rigs to the active count since March 31, for which a substantial portion of reactivation costs were incurred prior to the third quarter. This resulted in onetime reactivation expenses of approximately $9.7 million in fiscal Q2, including a portion of expenses for the April incremental fleet additions. Looking ahead to the third quarter of fiscal 21 for North America Solutions. As I mentioned earlier, we exited Q2 at the high end of our expected range.\nThe activity level has continued to grow at a strong pace since March 31 but we expect that growth to be more moderate for the remainder of the quarter. As of today's call, with the nine additions I discussed, we have 118 rigs contracted and turning to the right. We expect to end the third fiscal quarter of 2021 with between 120 and 125 contracted rigs. As of March 31, about 30% of our active rigs were working under some form of a performance contract. As John mentioned, these new commercial solutions contracts reward H&P with incremental margin for delivering better and more consistent outcomes for the customer. In the North America Solutions segment, we expect gross margins to range between $65 million to $75 million with no early termination revenue expected. We will have quite a few rigs rolling off term contracts during the third quarter, with many front loaded in Q3. We expect many of the operator programs from these rollovers to continue. However, the rigs will reprice in conjunction with the term expirations. As we continue to add rigs, one-time reactivation expenses continue to pressure margins, as I mentioned a moment ago, with regards to Q2. We expect those expenses to be approximately $6 million in the third quarter. As John mentioned, there is a strong correlation between the length of time a rig has been idle and the cost required to reactivate.\nHistorical experience indicates the rig stacked for nine months or longer will incur costs in excess of $400,000 to reactivate, and that figure rises as more time passes. Keep in mind that most of our rigs were stacked back in April of 2020, some 12 months ago. Reactivation costs are mostly incurred in the quarter of start up, so the absence of such cost of future quarters is margin accretive. Our current revenue backlog from our North American Solutions fleet is roughly $370 million for rigs under term contract. But importantly, this figure does not include additional margin that H&P can earn if performance contract targets are achieved. Regarding our International Solutions segment. International Solutions business activity averaged approximately four active rigs quarter-on-quarter, but we did add a fifth rig in Argentina midway through the second fiscal quarter. Margin contribution was above expectations for the quarter, primarily due to the incremental rig commencing work in Argentina, coupled with revenue reimbursements for upgrades performed on a rig.\nAs we look toward the third quarter of fiscal 21 for International, our activity in Bahrain is holding steady with the three rigs working, and we have two rigs under contract in Argentina. Also, we still have a pending rig deployment in Colombia that continues to be delayed as our customer waits unrequired regulatory approvals to begin work. In the third quarter, we expect to have a loss of between $1 million to $3 million, apart from any foreign exchange impacts. Turning to our Offshore Gulf of Mexico segment. We continue to have four of our seven offshore platform rigs contracted, and we have management contracts on three customer-owned rigs, one of which is on active rate. Offshore generated a gross margin of $6 million during the quarter, which was at the lower end of our estimates due to some unexpected downtime on one rig. As we look toward the third quarter of fiscal 21 for Offshore segment, we expect that Offshore will generate between $6 million and $9 million of operating gross margin. Now let me turn to the third fiscal quarter and update full fiscal year 2021 guidance as appropriate. Capital expenditures for full fiscal 2021 year are still expected to range between $85 million to $105 million with the remaining spend distributed evenly over the last two fiscal quarters. Our expectations for general and administrative expenses for the full fiscal year 21 have not changed and remain approximately $160 million. We also remain comfortable with the 19% to 24% range for our estimated annual effective tax rate and do not anticipate incurring any significant cash tax in FY 21. The difference in effective rate versus statutory rate is related to permanent book to tax differences as well as state and foreign income taxes.\nNow looking at our financial position. We had cash and short-term investments of approximately $562 million in March 31, 2021, versus $524 million at December 31, 2020. Including our revolving credit facility availability, our liquidity was approximately $1.3 billion. In mid-April, lenders with $680 million of commitments under our $750 million in revolving credit facility, or RCF, extended the maturity of the RCF from November of 2024 to November 2025. No other terms of the RCF were amended in conjunction with this extension. The remaining $70 million of commitments under the 2018 credit facility will continue to expire in November of 2024. Our debt-to-capital at quarter end was about 14%, and our net cash position exceeds our outstanding bond. H&P's debt metrics continue to be best-in-class measurement among our peer group that allows us to keep our focus on maximizing our long-term position. As a reminder, we have no debt maturing until 2025, and our credit rating remains investment grade. Now a couple of notes on working capital. As discussed in our February earnings call, we received a $32 million tax refund, plus $3 million of interest in January. Still included in our accounts receivable is approximately $19 million related to further tax refunds that we expect to collect in the coming quarters.\nThe preponderance of our trade AR continues to be less than 60 days outstanding from billing date and increased a modest $8 million sequentially. Our inventory balance has declined for the third consecutive quarter even as our active rig count climbed. We continue to focus our efforts on reducing out-of-pocket expenditures. Given our current outlook for activity, we expect our cash balances at fiscal year-end to be relatively unchanged from March 31. On one hand, rising activity drives our run rate cash generation higher, while on the other hand, in the short term, some of that higher cash generation potential was masked by reactivation expenses and working capital investments required to enable that higher activity. We believe at these higher activity levels, our point forward quarterly operating earnings will fund our maintenance capital expenditures, debt service costs and dividends. As John mentioned, cost control remains a high priority. Since we last spoke on the February earnings call, we have further advanced this initiative as we seek to adjust our cost structure to what we expect to be a smaller industry scale. This effort is one of our current strategic objectives, and we have several work streams being carried out in parallel. One such work stream was the reduction in size and relocation of our Houston FlexRig assembly facility, which lowers go forward overhead while simultaneously increasing capabilities at that facility. As these work streams progress, we will update you on the expected magnitude and timing of these various cost savings opportunities. That concludes our prepared comments for the second quarter.\nNow let me turn the call over to Jim for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] We'll take our first question today from Ian MacPherson at Simmons. Please go ahead."
+    },
+    {
+      "speaker": "Ian MacPherson",
+      "speech": "Thanks, Good morning John and Mark appreciate the perspective there. So it sounds like you provided us with the building blocks to confirm what we were expecting with respect to margins improving beyond your fiscal third because reactivation costs going forward as a percentage of the total pie should be easing. Spot pricing has bottomed. And you'll have probably increasing share of performance contracts that are probably accretive to your margin as well. So I wanted to confirm that directional bias for margins to probably begin to tilt upward a little bit after the third quarter unless the state of the world changes? That's my first question."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Sure, Ian. I think you're right on that. We do feel like we've -- rates in general have -- are off of the bottom. And we've been able to see some improving pricing. And as you said, improving commercial-based or performance-based type contracts. So yes, we think we're working on increasing that. And I think just in general, the -- there's -- the super-spec fleet, while not at near 80% utilization, I think when you look at what is available and idle, it's been idle for quite some time, and I think that ultimately drives some higher pricing as well, as we continue to activate rigs."
+    },
+    {
+      "speaker": "Ian MacPherson",
+      "speech": "Okay. And John, as you go about this -- the sort of maintenance scrapping program, how much idle capacity of super-spec rigs is -- makes sense for you to keep in the back pocket? How much idle capacity do you think you need for the cycle ahead?"
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Well, Ian, I'll let Mark give some additional color and details on that. But we haven't scrapped anything that's of super-spec capacity. Everything that we scrapped is as lower-tier FlexRig4 and older Flex 3."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Yes, Ian, just to footnote that. Everything that we are culling from the fleet, as I mentioned in the prepared remarks, has really been previously impaired to some sort of salvage value, but also along the way, these rigs -- calling them rigs is really kind of generous. They've been utilized as donors for equipment and components, they're not a complete rig, if you will. They're really mainly Flex four rigs and non super-spec rigs that we impaired going back to June of 19 and March of last year."
+    },
+    {
+      "speaker": "Ian MacPherson",
+      "speech": "So if we just subtract your working rig count now to where you were at the peak a year ago, is that a good proxy for what your less than $1 million reactivations reserve looks like?"
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Yes. I think, Ian, I think that's a good approximation."
+    },
+    {
+      "speaker": "Ian MacPherson",
+      "speech": "Okay great. Thank you John and I will pass on."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Taylor Zurcher at Tudor, Pickering and Holt."
+    },
+    {
+      "speaker": "Taylor Zurcher",
+      "speech": "Hey John and Mark and thanks for taking my question, the first question I have is really a two-part question as it relates to some of the moving pieces for the June quarter. So reactivation costs, obviously, a bit elevated as you're putting a whole bunch of rigs back to work. I just wanted to clarify, are you able to pass-through any of those costs to the customer today? And then secondarily, you talked about a number of term contracts, which are rolling over in the June quarter. I suspect most of those are under the traditional dayrate model. So I was hoping you could help us understand if you expect any of those rollovers to transition to more of the performance-based model as we progress forward?"
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Taylor, I think it's going to be a mix. You won't be surprised by that. I think there are definitely rigs our customers that we're partnering with today on performance-based contracts that have rigs that will be rolling off. And they will, I believe, be interested in pursuing a performance-based contract again because it's a win-win opportunity for them and for us. There will be some more than likely that will just roll into a dayrate-type contract, which will be lower than what the leading edge pricing was then. But again, I don't expect them to -- I expect them to be at improved pricing from where the -- where you might see the average today or definitely off of the bottom on what we experienced. On the reactivation cost, again, that's a mix as well. I mean, historically speaking, we're not going to put a rig to work for one well. We're not going to reactivate a rig that's been idle for six, nine, 12 months for the expectation of only drilling a well. We're typically going in with some sort of a term or some sort of a commitment or some sort of a way to get paid back over time that reactivation cost. And it's -- and of course, they're all different. This is not unusual. If you just think about market cycles over the past five, eight years, 10 years even with the cycles that we've had, where you reach a certain part in the cycle where you -- where the market is tight enough that you're able to start passing more of the cost over to the customer, which, again, makes sense as the market tightens. Hopefully, that helps."
+    },
+    {
+      "speaker": "Taylor Zurcher",
+      "speech": "Yes, that's super helpful. And my follow-up's unrelated and more as it relates to capital allocation moving forward. The cash balance is obviously still very healthy. The dividend is a top priority, but you can cover that pretty easily moving forward. And so I was wondering if you could help us think about how we should view M&A for H&P moving forward. Particularly on the technology side, I suspect that's still going to be the focus. But are there any kind of notable gaps that you'd like to fill in on the software, digital, etc. side moving forward, that you might do inorganically versus organically? Or maybe it will be a mix of both. But any color there would be helpful."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Sure, Taylor. That's a great question. And on the M&A side, on the rig side, that's not something of interest. We've always got our eyes open on the technology side. I mean we've made some -- what I think are some very strong acquisitions over the last four years, coming up on four years. And there's not anything right now that comes to mind, but I'll say that we're obviously looking to be opportunistic. And if something comes up we're definitely going to look at that. But I think right now, I feel pretty good about where we are. Mark, do you have anything you want to..."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Yes. I would just add that maybe in as we consider capital allocation, Taylor, beyond M&A, we'll look at -- for the international expansion, John discussed in his prepared remarks, we'll look at opportunistic growth opportunities, including organic ones for the Middle East, by way of example. But when speaking of capital allocation, it's, for us, in particular, it's returned to shareholders, our long history of the dividend. And something that we consider as we move forward, potential dividend accretion, special dividends as others in the energy complex have done and share buybacks as we have our $4 million per annum authorized share buyback program that we can get into. But yes, these are the things that we're talking about at Helmerich & Payne."
+    },
+    {
+      "speaker": "Taylor Zurcher",
+      "speech": "Alright good to hear. Thanks for the answers."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Tommy Moll at Stephens. Your line is open please go ahead."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Good morning and thanks for taking my question. John, I wanted to start on your progress with new commercial model and drilling, automation, penetration, all those metrics are up and to the right, which is great to see. I'm curious at the customer level, have you had any customers that maybe tried a new commercial model on a handful of rigs and then scaled the approach across their entire program? In other words, a customer that's tried it and then leaned in fully. Or do you find that you're driving those penetration numbers higher as more -- a larger number of customers trying out the new models on a rig or two. And where I'm going with this, is I'm just trying to think about a potential tipping point there and what the pathway might be going forward? I know it won't happen as quickly as we'd all hope, but I'm just trying to think about the building blocks."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Right. Okay. Thank you, Tommy. It's a -- your first example, it's both. We do have customers that started with one rig, two rig. And now they've got it on every rig that we have working for them in the fleet. Same way with the technology offerings, AutoSlide, automation and those solutions, same way, they start with one rig and then they continue to grow. But we've also had new customer or customers adopt it new. So we do have additional adoption. We're seeing additional opportunities to partner on drilling automation and the new commercial models. At times, I liken this to the early days of the FlexRig, as you can imagine, not every customer was looking for an advanced technology rig and particularly one that was a much a higher price than what the going rate would have been for a conventional rig. But we had the -- thankfully, we had the early adopters we're able to partner with. They saw the benefits, and we created a whole lot of value. So now we're taking this very old commercial model with the traditional dayrate, and we're having to approach it in a different way. So we're learning as an organization, our sales force and our account managers, our marketing group, our operations folks, everybody is working together as a team with the customer to make this happen. So I really think that we're going to continue to grow that capability. I'm pleased to share, like I said in our prepared remarks, that 30% of our working fleet today have commercial models. And a year ago, it was 10%. So we're continuing to grow in that respect. Another great point to make is AutoSlide retention, we've seen 100% retention over these last -- gosh, I don't even know how long it's been.\nWe have over 30 jobs running. It's another example where we have customers that start with one rig, and then they're up to four rigs, they're up to six rigs, and then we have new customers that are coming in and adopting the technology. Again, when you start thinking about the advantages to the customer, the advantages with AutoSlide and automation is it's not just in the drilling of the well. We're leaving behind a better well, higher quality wellbore. We have advantages while drilling the well, like I'd mentioned, extended downhole tool life, smoother casing runs, increased reliability, reduced time on the well, but we're also delivering a less tortuous wellbore, which also has an impact on the completion side of the equation and really the lifetime value of the well. So we're really encouraged that we're seeing additional adoption. Again, as I said on the last call, it is a partnership. We both have strengths that we bring to the party, and we're having to kind of expand outside of our normal area of -- that we've worked with the customer. So overall, I think it's moving along pretty well."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Thank you John and you mentioned wellbore quality there, which is something that I wanted to follow up on. So I believe in your prepared remarks, you indicated that incorporating some terms related to wellbore quality is either in the early stages or maybe we're not there yet in terms of the new contract structure. But just conceptually, on that point, how do you approach it with one of these more performance-based models. I think it's a newer theme for us to think through. And so I'm curious what that concept looks like."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Sure. I think -- two examples. One is what I had in my prepared remarks where -- and I think we may have talked about this on a previous call, but we've had several customers recognize that when drilling the curve by using automation compared to using a human, doing the decision-making of drilling that curve, we're actually able to land that curve, 150 to 200 feet earlier in the zone. And it creates an additional frac stage. Well, there's also -- there's obviously risks in doing that and what customers have seen is that it's more challenging for a human directional driller to do that. And so that's an example of delivering additional wellbore, a better curve. The tortuosity index -- we have a tortuosity index, and we've developed that. We have other customers that are developing it. And I think that's something that ultimately will be used more in the future right now. I think it's still really early stages. The good news is that there's -- we're finding additional advantages as we go through this process. No surprising as you start thinking about leveraging these technologies. So there's more to come on that, but I do think there'll be more metrics that we can share and talk about in the future."
+    },
+    {
+      "speaker": "Tommy Moll",
+      "speech": "Thank you John, will phone the progress and turn it back."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Thanks Tommy."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question today comes from Waqar Syed at ATB Capital Markets. Please go ahead your line is open."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "Good morning, a couple of questions here. First of all, as I look at some of the information provided in the press release, I think that you've added maybe 10 to 15 rigs under kind of long-term contracts like 18 to 24 months out. And one, is that correct? And if that's so, what do you think -- what are the rates on those, the base rates? Are they substantially above where the current spot is or they are being locked at the spot rates with the performance-based contracts to provide upside?"
+    },
+    {
+      "speaker": "Dave Wilson",
+      "speech": "Waqar, I'll take that one. Yes, we had, had a few, as you see in the press release, term contracts resigned, and those prices are above what the current -- the spot market is. So we're happy to see that."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "Okay. Good. And then secondly, historically, you mentioned the performance-based contracts kind of add around $1,500 per day or so, to margins. As you've collected the data over the last six, eight months, are you -- are the numbers coming in, in line with those expectations or exceeding those expectations? Or how do you frame the reserves so far?"
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Waqar, this is Mark. We're still in -- it depends on the customer, the rig, the region, but we're still in between 1,000 and 2,000, yes. And that same ZIP code, if you will, on the incremental uplift for the performance contracts."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "And I think the thing that to -- and it's one of those things that in working with our customers, again, we're working on delivering outcomes. And obviously, whether it's $1,500 or $2,500 on a per day basis, the outcomes we're delivering were -- that additional revenue more than pays for that additional value add. So that's the opportunity set, Waqar, is -- and then as we do a better job of that, we do more of that and the reality is, I don't think there's others out there in our peer set that are able to deliver that same level of performance we're talking about. So that's the opportunity set."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "Okay. Appreciate that. And then just finally, like normally in international contracts, you have six to eight months kind of lead time before the rig starts to turn to the right. So from our modeling perspective, for the next, like, through calendar year -- end of calendar year 2021, should we not model any incremental rigs beyond the four to six that you've mentioned?"
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "I think all week and really -- and you've heard me say this for years, Waqar, it's really hard to see with certainty much past a quarter. We're working really hard to hit those targets, like we did the last quarter, we're going to hit that 120 to 125 target. Obviously, we're pushing for 125. I do think we're going to continue to see a slight increase in rig count during the course -- the remainder of 2021. Obviously, a lot of that is a function of oil prices. We do think our customers are going to maintain discipline. And they're going to spend within their budgets. I think particularly on the public companies. So I think that's going to be the case. However, as we begin to set up for the back half of 2021 and getting ready for 2022, if oil prices do remain higher, I do think we're going to be -- we'll be entering into 2022 with a higher budget cycle than what we experienced in 2021. So hopefully, we're going to continue to see some increase in activity. And again, we think most of that activity is going to be directed toward super-spec type capacity. We think customers' expectations are going to grow in terms of both performance and wellbore quality. So I think that positions us well for additional growth but again, we can't really give you a rig forecast past Q3."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "I would just..."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Go ahead, Mark."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "I would just add, John, we carve back on the international part of that, you're right. I think as we look at these through our planning horizon, we, as John has said, and we've said, we're very focused on international opportunities. But as you point out, it's a longer sales cycle, and I think those would be more calendar 2022 as we think fiscal 22, to the extent that they come to fruition. But the good news is we are seeing more bidding activity, tendering activity internationally in various countries. And it's a long process, as you mentioned in your question, and so we'll just stay tuned for that. But not in this year's fiscal model."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "And just one other question. The talks of labor strikes in Argentina, is that affecting your activity there?"
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Yes. Waqar, there was some healthcare workers that were striking down there blocking roads to the Vaca Muerta. So I think as of yesterday, those have stopped. So that kind of put a pause on a lot of activity down there, but hopefully, that gets up and running relatively soon."
+    },
+    {
+      "speaker": "Waqar Syed",
+      "speech": "Okay great. Thank you very much appreciate it."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Thanks Waqar."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Vebs Vaishnav at Coker & Palmer. Please go ahead"
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Morning Veb."
+    },
+    {
+      "speaker": "Vebs Vaishnav",
+      "speech": "Morning thank you for taking my question. So your daily costs declined significantly. And obviously, you guys are doing a lot around cost savings. So maybe if I can ask how much more cost savings to come and maybe timeline? Essentially, what I'm trying to think about is, let's say, if we think about HP rigs, call it, 150, 175 rigs working eventually, how should we think about that daily operating cost?"
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Well, Vebs, thanks for the question. I'll give you a couple of things to think about because we're not ready, as I mentioned in the prepared remarks, to give you specifics yet on timing or dollar amounts, but we're very focused on cost management. Just a couple of things. We've started, as I mentioned, scrapping process for previously decommissioned rigs, previously impaired rigs. And another example that we will move forward with is consolidation of yards as scrap sales are completed. Last year, we had to make some tough choices on cost. As John talked about, the reorganization we did. And that involved removing much of the labor element of consolidating our seven North American districts to four regions. We are now working toward the physical structural geographic footprint to align with those four regions, and that's, again, kind of consolidating yards in that specific example. And these changes will result in stack yard closures and forward cost savings related to everything they're with. The timeline and impact around these is that specific initiative as an example, and many other things that we are working on now those will -- those initiatives are carrying forward and protracted, and we'll be talking more about that, especially as we move toward fiscal 22."
+    },
+    {
+      "speaker": "Vebs Vaishnav",
+      "speech": "And then a follow-up, if I think about your exposure to private rates, can you talk about like what's the average length of contract with private operators. And what I'm trying to think about is like, well, if commodity prices do go down, what is the risk of those rigs coming down?"
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Vebs, it's really across the board. I mean we have spot market exposure to the public companies as well. So it's kind of hard for us to pull that out and give you some information that would really help in that case."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Yes. Vebs, I'll just add on there, yes. It's across the board. I mean we've had some private guys that were contracted earlier in the year and didn't add rigs when commodity prices moved up. So yes, it's -- again, there'll be some that might retract but yes, it's a really mix for us."
+    },
+    {
+      "speaker": "Vebs Vaishnav",
+      "speech": "And maybe if I can squeeze in one more. As we talk about reactivation cost, obviously, you talked about $6 million for this quarter and maybe if -- I guess like conversations are going forward with customers trying to push that reactivation cost to them, is that fair to think like there should not be any reactivation cost not in a major amount starting fiscal fourth quarter?"
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "No, Vebs. I don't -- I think it's too early in the game for that. We -- I'm sure we already have some commitments for rigs in Q4. We're going to do the best that we can. Again, sometimes that reactivation cost is captured through a term contract built into the dayrate. So we would still potentially have some reactivation costs, but we're getting compensated for that over the life of the contract. So there's a lot of different -- a lot of different examples on that. But no, Q3 would be too early. Thank you"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And gentlemen, our next question this morning comes from the line of Chris Voie at Wells Fargo."
+    },
+    {
+      "speaker": "Chris Voie",
+      "speech": "Thanks good morning. Maybe just to start with a pretty high-level question around efficiency. So in 2019, you saw a lot of dramatic increases in footage per rig and E&P presentations or if you just do the math. In 2020, obviously, a pretty crazy year, tough to track with all the volatility. Now that we've got some -- obviously, the rig count is increasing pretty solidly, but probably easier to measure at this point. If I think about the drivers for increasing footage per rig, there's higher rate of penetration with more super-specs and service excellence, that's in your control. And there's bigger pad sizes, fewer moves that -- in your customers' control. I'm just curious if you can give any perspective on whether increasing footage per rig has leveled off compared to the exit rates in 2019 or if it continues to increase."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Chris, I don't have a sense for how 2021 is measuring up to 2019. But I think, in general -- generally speaking, in the U.S., we continue to improve cycle times. I can really only speak to the H&P rigs. But we're improving cycle times. We're also continuing to drill longer laterals. All the things that you mentioned play into that. I will say on the technology side, as I mentioned in our prepared remarks, less tortuosity and having fewer hard turns downhole has an impact on downhole tool life. So fewer trips, which also enhances the speed of drilling the well. So I think we still have runway ahead of continuing to improve performance. Automation is going to contribute to that. We're going to continue to see technology advances, both downhole as well as with software. So I think we're going to continue to see that happen."
+    },
+    {
+      "speaker": "Chris Voie",
+      "speech": "Okay. That's helpful. And then for a follow-up, this is more of a clarification. But in the prepared remarks, I think you're talking about a bunch of rigs this quarter rolling over to lower rates after contracts expire. But then in of the Q&As, I think there was a commentary that maybe suggested that leading edge now might be near or exceeding the portfolio average. So if we just think about gross margin per rig, excluding reactivation costs, is that leading edge now near the portfolio average? Or is that going to keep ticking down maybe as you head into 4Q from 3Q?"
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Thanks Chris, this is Mark. Thanks for the clarification question. No, it's not the portfolio average. I think what John was talking about in Q&A is it's up from the recent bottom of the spot, if that makes sense. So we continue to have rigs rolling off a contract. They're repricing in the current environment, but that spot has moved up from our low rig count back in August of 2020. And in addition to that, we are with our sales team, working with our customers and looking at win-win solutions, leading with those discussions for the renewals with performance-based contracts. So that, to the extent that we're successful there and getting a better outcome for the customer, we also get a better uplift with the bonus for hitting KPIs at the end of the job."
+    },
+    {
+      "speaker": "Chris Voie",
+      "speech": "Right OK. Thank you."
+    },
+    {
+      "speaker": "Mark W. Smith",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And this does conclude today's Q&A session. I am pleased to turn the floor back to Mr. John Lindsay for any additional or closing remarks."
+    },
+    {
+      "speaker": "John W. Lindsay",
+      "speech": "Thank you, Jim, and thanks again to everyone for joining us on our earnings call today. As we've outlined, we have several strategic objectives that the company is working on that we believe are going to continue to bring about an evolution in our industry. The industry, obviously, will continue to face challenges, but I believe that H&P and our people are up to the challenge. So we're going to keep working very hard to keep improving it. So thank you again. For joining us today, and have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 56 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Dave Wilson--Director of Investor Relations",
+    "John W. Lindsay--President and Chief Executive Officer",
+    "Mark W. Smith--Senior Vice President and Chief Financial Officer",
+    "Ian MacPherson--Simmons -- Analyst",
+    "Taylor Zurcher--Tudor, Pickering and Holt -- Analyst",
+    "Tommy Moll--Stephens -- Analyst",
+    "Waqar Syed--ATB Capital Markets -- Analyst",
+    "Vebs Vaishnav--Coker and Palmer -- Analyst",
+    "Chris Voie--Wells Fargo -- Analyst"
+  ]
+}

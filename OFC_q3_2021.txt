@@ -1,0 +1,500 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to the Corporate Office Properties Trust Third Quarter 2021 Results Conference Call. As a reminder, today's conference call is being recorded. At this time, I will turn the call over to Stephanie Krewson-Kelly, COPT's Vice President of Investor Relations.\nMs. Krewson-Kelly, please go ahead."
+    },
+    {
+      "speaker": "Stephanie M. Krewson-Kelly",
+      "speech": "Thank you, Blue. Good afternoon, and welcome to COPT's conference call to discuss third quarter 2021 results and updated guidance. With me today are Steve Budorick, President and CEO; Todd Hartman, Executive Vice President and COO; and Anthony Mifsud, EVP and CFO. Reconciliations of GAAP and non-GAAP financial measures that management discusses are available on our website in the results press release and presentation and in our supplemental information package.\nAs a reminder, forward-looking statements made during today's call are subject to risks and uncertainties, which are discussed at length in our SEC filings. Actual events and results can differ materially from these forward-looking statements, and the company does not undertake a duty to update them.\nSteve?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Good afternoon, and thank you for joining us. The company delivered another fantastic quarter, with better-than-expected results, another record-setting bond deal, an excellent achievement in all areas of leasing. Third quarter FFO is adjusted for comparability of $0.57, outperformed the high end of guidance by $0.01, and represented the sixth time in the past seven quarters that we outperformed expectations. We also exceeded our guidance for two of the last three quarters. For the third time this year, we're increasing the midpoint of our full year guidance for FFO per share as adjusted. The $2.27 midpoint of updated 2021 guidance is $0.08 above our original midpoint and represents an increase of 7.1% over 2020 results. We completed another record bond financing in the quarter.\nIn August, we issued $400 million of senior unsecured notes with a 2% coupon, which tied as the second lowest coupon ever issued among office REITs. Our growth strategy targets owning and developing specialized office and data center shells in mission-critical Defense/IT locations, and this strategy continues to deliver excellent results. In the quarter, we achieved a total of one million square foot of leasing, which included extremely strong vacancy leasing of 215,000 square feet.\nThis vacancy leasing volume represented the highest achievement in two years, and was 67% above the trailing eight-quarter average volume. Vacancy leasing also included a 68,000 square foot lease with the United States government for two floors at 310 NBP. In the quarter, we also completed 274,000 square feet of development leasing, all at Defense/IT locations, including a full building lease with the US government.\nLastly, we renewed 553,000 square feet, delivering a 76% retention rate at lease economics that were consistent with our expectations. Leasing for the nine months indicates our fundamentals continue to strengthen, with customers making long-term commitments to new space. We completed 2.7 million square feet of total leasing, which included 420,000 square feet of vacancy leasing at an average lease term of 8.6 years. We completed 1.4 million square feet of renewals, achieving a 75% retention rate.\nAnd we executed 915,000 square feet of development leasing with an average initial term of 14.1 years. After the quarter, we leased another 263,000 square feet, bringing our total development leasing for the year to just under 1.2 million square feet with an average lease term of 13.4 years. As a result of this transaction, our active developments totaled 1.8 million square feet that are 94% leased.\nDevelopment leasing to date exceeds our 2021 goal by 18% and represents the fourth consecutive year we've achieved over one million square feet of development leasing. Our excellent leasing performance continues to translate into impressive operating results. Including the impact of assets sold to fund development, for the nine-month period, NOI from real estate operations increased 7%, FFO per share as adjusted for comparability grew 10%, and AFFO is up 16% from one year ago.\nOur unique Defense/IT portfolio, strong balance sheet and reliable low-risk development program continue to generate high-quality FFO per share and cash flow growth that are extremely durable because demand is driven by defense spending and national security requirements rather than traditional office fundamentals. As important, demand in our Defense/IT locations is not impacted by work from home and other trends that may affect office demand in the future. We continue to have a strong set of leasing and development opportunities before us and the balance sheet to seize upon them.\nWith that, I'll hand the call over to Todd."
+    },
+    {
+      "speaker": "Todd Hartman",
+      "speech": "Thank you, Steve. Continued strong demand in our markets has driven outstanding lease achievement this year. Third quarter vacancy leasing was exceptionally strong at 215,000 square feet, representing 18% of our available space at the beginning of the quarter. To put this achievement in perspective, since defense spending began rebounding in 2016, our quarterly vacancy leasing has averaged 132,000 square feet.\nThere were two major transactions from the quarter worth highlighting, the first of which was a 68,000 square foot lease with the US government at 310 NBP, leaving two floors to lease to bring that building to 100%. The customer continues to indicate their intent to lease the remaining space, but because the government is operating under a continuing resolution, we now project lease execution during 2022. The second major vacancy lease was for 63,000 square feet at 6740 Alexander Bell Drive in Columbia Gateway.\nThe new tenant is consolidating multiple offices, and executed a 16.5-year lease for the entire building with lease commencement expected in July 2022. Although we had intended to redevelop this asset, we backfilled the full building in just four months and accordingly have moved it back into our same property pool.\nFor the nine months, our 420,000 square feet of vacancy leasing represented 114% of the trailing five-year average through nine months, and was the second highest nine-month volume in the past five years. Our current leasing activity ratio is 101%, and since the start of the second quarter has averaged 90%, underpinning much of the third quarter's vacancy leasing success and our expectation for strong lease achievements continuing into the fourth quarter. During the third quarter, we renewed 553,000 square feet, translating into a 76% tenant retention rate. Cash rents on renewals rolled down 0.6%, and GAAP rents grew 1%.\nExcluding an 89,000 square foot renewal where the tenant was rolling off a 10-year lease that had escalated above market, cash and GAAP rents increased 1% and 5%, respectively, in the quarter. For the nine-month period, we completed 1.4 million square feet of renewals with a 75% retention rate, cash rents rolling down 0.3%, with annual escalations averaging 2.4% and average initial lease terms of 3.8 years. Excluding the two Boeing buildings and Redstone Gateway that are still on one-year renewals, the lease term for the nine months averaged 4.7 years.\nWe continue to advance negotiations to renew the 11.25 megawatt user at DC-six. The customer's process remains slow and methodical, and we are confident they will renew. Given we cannot control their pace, we are not putting a time frame on its completion. The tenant's original lease remains in effect and they continue to pay their escalated rent.\nDuring the quarter, we executed 274,000 square feet of development leasing at Redstone Gateway. The largest transaction was a 205,000 square foot full building lease with the U.S. government. Lease commencement is scheduled for early 2024. This development represents our second building in the secured campus, which, upon completion of this project, will total 460,000 square feet.\nThe remaining 69,000 square feet of development leasing was with two defense contractors who leased space at 8,000 Ride Out Road. That development was started because of the contractor demand we are tracking, and is now 88% leased. We are working to close a lease for the remaining 12,000 square feet. Earlier this month, we executed leases with Northrop Grumman for two build-to-suit office buildings along right out road at Redstone Gateway. The 2-building campus totals 263,000 square feet of highly visible Class A office space with one of the world's largest defense contractors, just outside Redstone Arsenal's main gate. We are on track for lease commencement in the second half of next year.\nOnce the active projects under development at Redstone Gateway are placed into service, the park will total 2.2 million square feet, making it our second largest concentration of Defense/IT assets, and equal to slightly more than half the size of the National Business Park. The Northrop leases brought our year-to-date development leasing total to nearly 1.2 million square feet, making 2021 the tenth straight year we have exceeded our development leasing goal.\nBased on the 1.5 million square feet of opportunities we are tracking in our development leasing pipeline, we expect continued strong development leasing. Lastly, in the first nine months, we placed 709,000 square feet of developments into service that were 89% leased. We expect to place another 74,000 square feet into service in the fourth quarter bringing our total for the year to roughly 800,000 square feet.\nWith that, I'll turn the call over to Anthony."
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "Thanks, Todd. Third quarter FFO per share as adjusted for comparability of $0.57 exceeded the midpoint of guidance by $0.02 driven by $0.01 of deferred R&M projects and $0.01 of other outperformance. We expect to complete the deferred R&M projects in the fourth quarter, which will impact same-property cash NOI and FFO per share. Incorporating this change, we are adjusting the midpoint of our fourth quarter guidance to a new range of $0.55 to $0.57. The timing of R&M projects drove 165 basis points of outperformance in same-property cash NOI, which increased 4.8% in the quarter.\nGiven the year-to-date results, we are increasing our full year guidance for same-property cash NOI growth again from a prior range that was flat to up 1% to a new range that is up 50 to 100 basis points. At the 75 basis point midpoint, our revised full year guidance for same-property cash NOI growth is 175 basis points above the midpoint of our original guidance. We are also narrowing our full year guidance for same-property occupancy from the prior range of 90% to 92% to a new range of 90% to 91.5%.\nOur revised guidance continues to incorporate the 20 basis point negative impact of joint venturing fully occupied, wholly owned data center shells to raise equity in the fourth quarter, and has been adjusted to include the 40 basis point negative impact of placing 6740 Alexander Bell Drive back into service, back to the same property pool.\nIn August, we issued $400 million of long 7-year senior unsecured notes priced at 2% and used the proceeds to retire floating rate debt. Specifically, we prepaid $100 million of our 2022 term loan, retired the $89 million construction loan at 2100 L Street and paid down amounts on our line of credit with the remainder. The August deal was more than five times oversubscribed and priced at 105 basis points over the seven-year treasury, which was 25 to 30 basis points below initial price talk.\nThe 2% coupon ranks as the lowest among office REITs for seven-year paper and ties as the second lowest overall face rate of any duration among office REITs. Our credit spreads compare favorably to peers who are rated one notch higher by the rating agencies. Clearly, fixed income investors appreciate the durability of our cash flow, the high quality credit of our tenants and their in-office work requirements. Also of note, since September of 2020, we have issued $1.4 billion of senior notes with an average term of over eight years, and use the proceeds to retire debt carrying an average term of 1.8 years.\nLastly, incorporating the items addressed earlier, we are increasing our full year guidance from a previously elevated range of $2.24 to $2.28 to a new range of $2.26 to $2.28. At the midpoint, our updated guidance range implies 7.1% growth over 2020 results and is $0.08 higher than the midpoint of our original guidance. It is important to note that placing several development projects into service earlier than originally planned, drove nearly $0.02 of this year's outperformance, and pulling that NOI forward into 2021 tempers 2022 growth by approximately 1%.\nWith that, I'll hand the call back to Steve."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Thank you. I'll close the call with a recap of our key message points. Our company's investment strategy is supported by the defense economy, which is funded by the United States defense budget and aligned with priority national security needs of the United States. The US defense budget has been well funded since fiscal year 2016 and has bipartisan support for continued growth to address the increasingly risky global threat environment.\nOur portfolio office usage levels remains very high as high security defense work cannot be performed from remote locations. Our defense tenants are not experiencing diminished office usage, significant contractions or seeking short-term lease extensions. Rather, they continue to require densely configured office space to accommodate mission growth.\nAnd as our results continued evidence, they are making long-term commitments to our Defense/IT locations. The likes of our development, vacancy and renewal leases remain at or above pre-pandemic levels, demonstrating our tenants' commitment to working in their offices for the long term, and their confidence in the outlook for the defense industry. Our company has exceeded its business plan throughout the pandemic era.\nAnd this year, we're experiencing further strengthening of business fundamentals and achievement suggesting continued strength and performance in coming years. Clearly, our strategy of investing in a priority defense, mission locations and creating value through new low-risk development at these locations is very different from other office companies and continues to deliver high-quality FFO per share and cash flow growth regardless of the broader economic trends.\nOperator, with that, please open up the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, Mr. Budorick. [Operator Instructions] First question comes from the line of Manny Korchman from Citi. Your line is now open."
+    },
+    {
+      "speaker": "Manny Korchman",
+      "speech": "Okay. Good afternoon, guys. Maybe just a question for either Todd or Anthony. But you've got a pretty good leasing backlog that's built up. How should we think about that translating into an increase in physical occupancy just from a timing perspective?"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "In terms of occupancy, it's probably -- based on the leasing that we've done this quarter, it's a second to third quarter occupancy for next year. Typically, it's a five- to six-month period from execution to occupancy."
+    },
+    {
+      "speaker": "Manny Korchman",
+      "speech": "Does that hold for the NBP lease as well, Anthony?"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "It does."
+    },
+    {
+      "speaker": "Manny Korchman",
+      "speech": "Okay. And then just looking at the leasing stats, concessions continue to be pretty high, especially in the new leases. Is there any relief coming there? Is there anything specific that went into that, that drove those numbers as high as they were?"
+    },
+    {
+      "speaker": "Todd Hartman",
+      "speech": "Well, our new leasing for the quarter, we had one lease that was an outlier on the high side due to the fact that it was shell space. It was a 68,000 square foot lease. And so the TI on that deal was a little higher than the rest. Overall, if that deal was removed, our quarterly number was $6.71, which tracks very nicely with our five-year average for the quarter."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Yes. Manny, to be clear, that's a US government lease at 310 NBP. And although it's a five-year lease term, that tenant will occupy that building for an extremely long period of time."
+    },
+    {
+      "speaker": "Manny Korchman",
+      "speech": "Thanks everyone."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Craig Mailman from KeyBanc Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Hello, Craig."
+    },
+    {
+      "speaker": "Stephanie M. Krewson-Kelly",
+      "speech": "Craig?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Craig, your line is open."
+    },
+    {
+      "speaker": "Stephanie M. Krewson-Kelly",
+      "speech": "-- cell off, sir. He might have calling out of a cell. Can you go on to the next question, please?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, yes. Your next question comes from the line of Jamie Feldman from Bank of America. Your line is now open."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Thanks and good morning. Maybe just to start, can you talk about some of the Baltimore expirations and where you stand on backfilling those, the tenant interest?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, there's two large events. Transamerica vacates January 1, and we have marketing activity. Todd, do you want to talk about your volume?"
+    },
+    {
+      "speaker": "Todd Hartman",
+      "speech": "Yes. We have about 100,000 square feet of prospects that we're working with currently for the 140,000 square feet that we expect to get back, as Steve said, January 1. And progress is slow but methodical on those as well, and we're very encouraged by the response once the space was put on the market. It is the top of the building. It's a unique space in Downtown Baltimore.\nAnd I think the current level of interest indicates overall interest in that space. As far as the other large renewal, CareFirst, over at 1501 Clinton. We continue to progress on the renewal, and expect that to happen very soon."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Okay. Great. Thank you. And then I guess just DC-6, I know you're -- it sounds like it's certainly not on your end. As you guys look ahead to next year, do you think you'll still do the same thing, just kind of keep it in or assume late in the year for guidance? What's the realistic expectation to set here about when that could actually get done?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, I think our words said, we're no longer in the business of projecting the finishing date. There's absolutely no reason why it can't get done quicker over the next quarter. It's just been amazingly frustrating, the change in personnel and the lack of progress. It's interesting to note, we have a relationship on the renewal side.\nWe also have regular activity on the operating side. Our activity from the operating side makes it crystal clear, they're going to stay in the building. I don't know why it's not a higher priority for them, but we continue to await their more affirmative schedule from them."
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "With respect to guidance for next year when we come out with that, we will be clear about what we've assumed in the low and the high end of our range and there at the midpoint with respect to 2022 so that we can report off of that once the transaction is completed."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Okay. Thank you. And then just thinking about data centers in general, I mean, do you think you could ramp up development here more? And if you look at the land bank, I think you've got room for maybe, what, three or four more on your current land? How should we be thinking about that as an avenue of growth?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, we have over a million square feet of capacity on the land we have. And I think you'll see some substantial leasing on that land next year."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "And that's based on discussions today?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Okay. And then on the development pipeline, can you talk about the College Park development, just how you're making progress there? Thank you. I knew you only have a couple of projects that are around 50% leased at this point. I'm just curious how that one is trending."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "We have two tenants that are negotiating to close out that building, and frankly, might require additional space in the future which could trigger the next building. One of those may get signed by the end of the year. The other one is a government-funded cyber program. And because of the funding process, it may not get done by the end of the year, but we stopped marketing in that space to anybody else."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Do you see expanding a lot more in that submarket? Or this will be one or two buildings and that's it?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, we have significant capacity beyond what we're doing. I would expect one building in the next couple of years, and then we'll see what happens. We built the demand. So as demand rises, we have additional capacity to deliver."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Okay. But you're comfortable sitting on that land longer term?"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "The land really has no cost to us because it's part of the joint venture with the University of Maryland. So when the land gets contributed into each of the individual building developments, that land value becomes part of their equity balance. So there's really no cost to the company of carrying that land."
+    },
+    {
+      "speaker": "Jamie Feldman",
+      "speech": "Got it. Okay. Thank you."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Steve Sakwa from Evercore ISI. Your line is now open."
+    },
+    {
+      "speaker": "Steve Sakwa",
+      "speech": "Thanks. Good afternoon. First, I was just wondering if you could provide a little bit more of a breakdown on the 1.5 million square foot development pipeline. How does that break out between sort of office and data centers? And then maybe within the office component, if there's any flavor for just where -- is that in Huntsville? Is that up in NBP, other parts of the portfolio?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Sure. It's about -- because we've just signed a bunch of Defense/IT leases. It's currently about 60% data center shell, 40% Defense/IT. And that 40% is broken between NBP and Redstone Gateway."
+    },
+    {
+      "speaker": "Steve Sakwa",
+      "speech": "Okay. And I guess when you look at your kind of occupied and lease percentages, most of your submarkets are kind of mid -- low to mid-90s. The only real two standouts are what you label as Howard County and kind of Northern Virginia. And I'm just wondering if you could sort of talk about -- you talked about good vacancy leasing, but I'm just wondering if you or Todd could speak to what you're seeing in those two markets, which are certainly the laggards within the portfolio."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, I'll jump on Virginia, even Howard County. We do have one asset with about 90,000 square feet of vacancy in Northern Virginia and Merrifield. And velocity in that submarket is fairly slow. We are -- and we've signed one lease this quarter, and we have some opportunity in the front, but that's a market-driven velocity challenge. Columbia Gateway is pretty exciting, and I'll let Todd talk about it."
+    },
+    {
+      "speaker": "Todd Hartman",
+      "speech": "Yes. I would -- our activity in Columbia Gateway is very strong as it is generally in the Baltimore, Fort Meade Corridor. Recent activity in the market, several large transactions have occurred, and the activity ratio for the Columbia Gateway area is about 125% of the available space. So I would anticipate our Howard County numbers to increase very soon."
+    },
+    {
+      "speaker": "Steve Sakwa",
+      "speech": "Great, thanks. That's it for me."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Blaine Heck from Wells Fargo. Your line is open."
+    },
+    {
+      "speaker": "Blaine Heck",
+      "speech": "Thanks. Good afternoon. Todd, I think you mentioned in your prepared remarks that Redstone would be 2.2 million square feet by the time everything under construction is completed. Can you talk about how much additional capacity to build you have left there after those projects are done, and whether there is any need or ability to acquire more land to build there?"
+    },
+    {
+      "speaker": "Todd Hartman",
+      "speech": "Yes. We have about 2.3 million square feet of additional capacity after these are completed. And we have the ability to expand down there and currently are considering our options. But right now, we're about halfway done with the available capacity."
+    },
+    {
+      "speaker": "Blaine Heck",
+      "speech": "Great. That's helpful. And then Anthony, your updated guidance calls for 50 bps to 100 bps of same-store NOI this year. And year-to-date, you're sitting at roughly 1.5%, implying a dip in the fourth quarter. Can you just talk us through the drivers there? I'm assuming the Redstone move out might have something to do with that.\nBut anything else we should be thinking about there? And then I know you guys aren't giving guidance for '22, but is there any color you can give on what the lever result in the fourth quarter means for same-store going forward? And any levers you might be able to pull or have in place to increase that in the future?"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "Well, that -- the fourth quarter is going to be less than -- pull down the year-to-date results because of the two things. One is the timing of the R&M projects that we talked about, that was one tenth of the current quarter's outperformance that will be executed in the fourth quarter.\nAnd there are some impact from some incremental net operating expenses in the fourth quarter compared to the fourth quarter of last year because of the increase in attendance at some of our regional office properties. So those are really the two drivers of the performance for the fourth quarter.\nI think with respect to next year, I think we're -- I think we will continue to -- we'll put out information when we're ready to. I think there's sort of anomalies like these in quarter-by-quarter that -- positive and negative that we'll talk about if we need to. But nothing right now for next year that would lead us to believe that we would be outside of what we historically talked about what our internal growth would be."
+    },
+    {
+      "speaker": "Blaine Heck",
+      "speech": "All right. Fair enough. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Thomas Catherwood from BTIG. Your line is now open."
+    },
+    {
+      "speaker": "Thomas Catherwood",
+      "speech": "Thanks so much. And good afternoon, everyone. Steve, in the past, you've mentioned that kind of office requirements and layouts have not materially shifted for your new developments? But what are you seeing in terms of specialized building features in these new projects, either things like SCIF rooms, force protection or physical setbacks. Are tenants' needs changing on that front? And do you find kind of additional development spend going to those specialized features?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, with regard to development spend, we negotiated a market TI allowance. We meet the market. And how the tenant uses it, it's kind of up to them. With regard to -- but we don't fully fund the SCIF area, I guess, is my point. The demand for SCIF is extremely high right now. There's a pent-up set of contractors seeking SCIF in and around the NBP that can't be fulfilled with existing inventory. So we expect it will drive continued demand in the future.\nWith regard to the way space is being used in new development, I can tell you the recently executed two building build-to-suit is very interesting because as part of the development costs, we're going to have to actually go to partial structured parking to accommodate the density that Northrop Grumman is going to put in those buildings.\nAnd the delivery of space is somewhat slower than we could have normally done because of the extreme technology they're adding to the buildings, including SCIF and other high-computing kind of environments in that space. So I think I addressed your questions, or something I missed?"
+    },
+    {
+      "speaker": "Thomas Catherwood",
+      "speech": "No. That was perfect, Steve. And kind of along those same lines then, and you may not have a sense of this, but any idea then how much more tenants are putting into their space on average over and above those TIs you're allocating, maybe for these new projects?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "So this is a guess and no more than a guess, but my guess is almost 50% of the TI we give them on average."
+    },
+    {
+      "speaker": "Thomas Catherwood",
+      "speech": "Appreciate that. And then one more for me, specifically looking at your land bank. It looks like this quarter -- there's a delta of about 24 acres in NBP between prior quarter and this quarter, but you didn't start anything this quarter in that area. Are you accounting for the land differently there? Or did you sell something off? What was driving that roll down in land?"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "You get a cookie for that one, Tom. That is just an adjustment for the assumed density on the -- one of the parcels as we look at, laying that parcel out for the different kinds of uses that we believe tenants are going to need in NBP sale."
+    },
+    {
+      "speaker": "Thomas Catherwood",
+      "speech": "Got it. So future requirement adjustment is what that was."
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "Yes. It's really about how the space will get used. It wasn't about putting anything into service or out of -- or using any land for any development. It was about how the team is looking at how that space is going to be laid out and used in the future."
+    },
+    {
+      "speaker": "Thomas Catherwood",
+      "speech": "Got it. Makes so much sense. Thanks everyone."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Dave Rodgers from Baird. Your line is now open."
+    },
+    {
+      "speaker": "Dave Rodgers",
+      "speech": "Good afternoon. Steve, wanted to ask about the long lease durations on some of the developments that you had announced, I think, during the quarter and subsequent to that, kind of like 13 to 16 years. Can you talk about kind of how the development returns came out on those longer-duration leases? And do the tenants have out or termination options? That's a pretty long lease, it seems like from what we're used to seeing."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "No. They don't have outs. And development returns -- our threshold return and Defense/IT assets is an 8% cash yield. They've all been in that neighborhood, and some slightly better."
+    },
+    {
+      "speaker": "Dave Rodgers",
+      "speech": "And so these aren't necessarily tied to a specific contract, and so the capital that you answered in the last question is likely the reason they would want to kind of lock in for that long. Is that the right way to think about it?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "That's correct. And remember, a bunch of the leases that we've done in Redstone are new headquarters' locations and so they're investing in those assets heavily because that's where they're going to set up their business operation in service to the Redstone arsenal in the future."
+    },
+    {
+      "speaker": "Dave Rodgers",
+      "speech": "Got you. That's helpful. Anthony, maybe update us on the disposition plan? You mentioned, I think, in your comments for fourth quarter, and continued dispositions as you think about amount, timing for the quarter. And then maybe looking into next year, any thoughts about that?"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "So for the fourth quarter, we have two data center shells that we're focusing on that would raise about little over $70 million worth of equity capital using our 90-10 structure that we've done in the past.\nAnd as we look into next year, as we've sort of been consistently saying, if our stock price is at a point where we believe we're getting fair value and we can issue equity at fair value, our first choice would always be to issue under the ATM to match fund the development investment that we're making.\nTo the extent that, that isn't an option after the transaction we're contemplating for the fourth quarter, we would still have over $700 million worth of gross value of data center shells that we could -- that are either operating or currently under development that we could tap into to fund the equity requirements for continuing to invest in the development pipeline."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "--"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "Million, excuse me. Okay. $700 million."
+    },
+    {
+      "speaker": "Dave Rodgers",
+      "speech": "Great. Thanks for the answer. I appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Rich Anderson from SMBC. Your line is now open."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Thanks. Good afternoon, everyone. So I have a theory that your occupancy is sort of capped at 93%. And this is -- the reason why I say that is if you have, call it, two million square feet a year expiring and your retention is 75%, well, then 25% is about 500,000 square feet of new vacancy coming at you. And if you're doing about that much vacancy leasing in any given year, it's kind of a treadmill. Is that a reasonable way of looking at the future for the company?"
+    },
+    {
+      "speaker": "Todd Hartman",
+      "speech": "I think with respect to the operating portfolio, it may be the one thing that may impact -- that will impact that in the future is how well leased to the development pipeline is going to be adding to the overall portfolio as those projects are placed into service, right?\nSo right now, we've got almost two million square feet that are under development, that's roughly 10% of the existing portfolio. They're 94% leased today. We expect by the time they're fully placed into service, they'll be 100% leased. So we think on the margin, continued low risk, highly leased development will help drive that off of that number that you're referring to."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Okay. Good enough. What is the difference in the retention rate of regional office versus your core Defense/IT business?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "We'll make sure it's not going to look very good because we're going to get back 150,000 square feet from Transamerica. Typically..."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "More than a typical run rate, I guess?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Historically, it's been pretty consistent, but it's going to look pretty ugly next year."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Yes. Okay. Last question, DC-6, sorry. This is obviously an area of frustration building every day perhaps. But is this a tenant that you would hesitate to do business with in the future? I mean what -- is the relationship still OK? Or I'm just wondering how you feel about them as a potential business partner in the future?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Our relationship is great, and we work with them. And like I said, in multiple levels, operating leasing. It's a tenant -- every data center owner would love to have, and we're grateful to have them. Just this renewal has been a little bit frustrating. There's been a lot of change in personnel in fits and starts. We'll get through it, but it's a great tenant. We're thrilled to have them in our building."
+    },
+    {
+      "speaker": "Rich Anderson",
+      "speech": "Okay. That's all I have. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Rob Simone from Hedgeye Risk Management."
+    },
+    {
+      "speaker": "Rob Simone",
+      "speech": "Hey, guys. How is it going? Thanks for taking the question."
+    },
+    {
+      "speaker": "Todd Hartman",
+      "speech": "Hey, Anthony."
+    },
+    {
+      "speaker": "Rob Simone",
+      "speech": "Super high-level question, more of like a long-term strategic question for OFC. So I guess one of the things that -- it came up on this call, right, like the thought of tapping or the strategy and tapping the ATM to match fund development.\nBut I guess, is there a case, like a long-term case to be made that with the nature of your tenants and longer-term leases that there's a case to be made to maybe potentially like consider taking your leverage up a turn or so or whatever that number is, and effectively terming out some longer-dated debt, pulling that capital forward to fund that development as opposed to -- I mean I know you -- the reason why I say that is because obviously, like the portfolio is a lot cleaner than it was four or five years ago.\nSo theoretically, at least, you have like these long-term contracts plus a better tenant mix to be able to support that. So I don't know. I just wanted to gauge your thoughts around that? And then I have one quick follow-up question related to it."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, reasonable people could make that argument. Certainly, the performance, the credit quality we have, you could argue for higher debt. But we have run the company in a highly risk-averse manner. We prefer having less debt than higher debt. Over time, we hope to develop our way to a lower debt-to-EBITDA number. And we continue to create meaningful shareholder value at the debt level we're at, and we're comfortable."
+    },
+    {
+      "speaker": "Rob Simone",
+      "speech": "Sure. Okay. Makes sense. And specifically related to that, so you guys have the -- I think it's a $300 million term loan coming due late next year. What's the plan for that? Is that like an unsecured bond refinance? Or what you guys are going to do with that?"
+    },
+    {
+      "speaker": "Anthony Mifsud",
+      "speech": "I think we have a few options. We could go back to the public unsecured market to refinance that. The bank term loan market is sort of wide open again. So we believe we have the opportunity to just refinance that with our bank group. That particular loan is fully funded by -- we have a bank group of 12.\nThat loan is actually funded by the six folks within the -- six banks within the bank group that are sort of not the lower-tier banks. And so we have clearly capacity to take out that term loan with our bank group or to even increase it if we wanted to. And we think the market is there to do that."
+    },
+    {
+      "speaker": "Rob Simone",
+      "speech": "Got it. Well, thanks -- I appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your next question comes from the line of Manny Korchman from Citi. Your line is now open."
+    },
+    {
+      "speaker": "Manny Korchman",
+      "speech": "Steve, I wanted to follow up on the last answer that you gave me to my last question. You said that TIs were high because of the leasing at NBP. Was that the 310 Sentinel lease? Because I thought that was in October, not in the 3Q numbers? Or are the 3Q numbers inclusive of those?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "No. It's in the 3Q numbers, Manny. We just announced that with the earnings call. It wasn't quite significant enough to put out individually. So that number is in there. It's a $60 TI on a five-year deal, which drives up your cost per year of committed term. But if you know our business well, that tenant will be in that building for more than 20 years."
+    },
+    {
+      "speaker": "Manny Korchman",
+      "speech": "Thanks for the questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Chris Lucas from Capital One Securities. Your line is now open."
+    },
+    {
+      "speaker": "Chris Lucas",
+      "speech": "Hi, good afternoon, everybody. Steve, just a couple of follow-ups. Just on the -- and again, I hate to bring it up, but on the renewal at DC-6, what is the term for that? Just trying to understand sort of how long you've been dealing with it versus what the actual duration here is on that deal."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "That's a very good question. We've been negotiating for two years, and it's a three-year term."
+    },
+    {
+      "speaker": "Chris Lucas",
+      "speech": "Okay. And then just going back to the commercial vacancy issues. What level of interest is there in terms of space available? Are you seeing space interest across the board for all the spaces or some spaces has more promising competitive nature to it? I'm just trying to understand sort of what the perspective is there, recognizing the other portion of the business is pretty well buttoned up."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Are you talking about the regional office?"
+    },
+    {
+      "speaker": "Chris Lucas",
+      "speech": "Yes, I am."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Yes. So our largest concentration of vacancy being Downtown Baltimore. And it's the kind of demand you would expect, financial services, law, business services and high-quality tenants seeking a premier building with great views. Did I get to the question or..."
+    },
+    {
+      "speaker": "Chris Lucas",
+      "speech": "Yes. I mean I guess -- well, sort of, but then let me just go back to the Merrifield office building you mentioned in the prior question. That space was vacated by a defense contractor. Is that defense contractor space? Or is that general space?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "It was defense contractor space. It was given back because of an M&A event, a big chunk of it and another chunk with some contraction. The contracting tenant recently expanded again. But that space, that building fits needs of defense contractors that need access to, basically to Pentagon. It's connected by a metro rail. It makes it very convenient to the Pentagon."
+    },
+    {
+      "speaker": "Chris Lucas",
+      "speech": "Okay. Great. Thank you. That's all I have."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Your last question comes from the line of Bill Crow from Raymond James. Your line is now open."
+    },
+    {
+      "speaker": "Bill Crow",
+      "speech": "Hey, guys. Good morning. Thanks for taking the questions. I've got three, but hopefully, they're very quick. How much new supply not being driven by OFC is under construction in your market -- your submarkets?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Well, very little. Really none. At the NBP, there is another development that's active, marketing against us within a service radius. In Alabama, there's certainly other development that's occurred in the city, but it's really servicing inbound corporate relocation activity, a lot of it, industrial manufacturing, there are businesses relocating to Alabama.\nThere's no development that we're competing with that's active on the Defense/IT side. And there's not that much development in Northern Virginia. The market conditions across NoVa, you've got 18% to 20% vacancy in most submarkets except where we're located in the Route 28 corridor which is one of the -- South, which is one of the strongest markets in NoVa."
+    },
+    {
+      "speaker": "Bill Crow",
+      "speech": "Yes. That's kind of what I figured. So that kind of leads me to the second question, which is the tenant retention, you've got 20% to 25% expiring defense and IT leases that don't get renewed. So is it M&A? Is it program funding? What is the primary reason that they aren't sticking around?"
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "So there's always kind of a seesaw that happens with contract awards and recompetes. And it's fairly routine. We're going to live through one in Redstone right now, where Boeing lost a major component of a contract and they're going to give us back some space. And another defense contractor won it, and we've leased them the space to take its place. So there's some turn like that.\nAnd then I would say, over the long term, fully a third over the last four or five years has been M&A-driven where there's consolidation in the industry. We typically keep the SCIF and the mission space and the square space comes back and that just creates some turnover."
+    },
+    {
+      "speaker": "Bill Crow",
+      "speech": "All right. And then I figured I'll end with the DC-6 question, which is simply what's going on with market rents there? They had been going down, have rent stabilized or stay more..."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "They've definitely stabilized. The compression that occurred in 2019, and '20 was really developer driven. There's so much spec development in data centers that they're bidding down the power rate. I would characterize that as stabilized now, there's a huge amount of demand or inventory that got absorbed in those years. So price is really our discussion on the renewal. We've been settled on that for quite some time."
+    },
+    {
+      "speaker": "Bill Crow",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Good."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. There are no further questions at this time. I will now turn the conference back to Mr. Budorick for closing remarks."
+    },
+    {
+      "speaker": "Stephen E. Budorick",
+      "speech": "Thank you all for joining our call today. We're in our offices, so please coordinate any follow-up questions through Stephanie. And thank you for attending."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 50 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Stephanie M. Krewson-Kelly--Vice President of Investor Relations",
+    "Stephen E. Budorick--President & Chief Executive Officer",
+    "Todd Hartman--Executive Vice President and Chief Operating Officer",
+    "Anthony Mifsud--Executive Vice President and Chief Financial Officer",
+    "Manny Korchman--Citi -- Analyst",
+    "Jamie Feldman--Bank of America -- Analyst",
+    "Steve Sakwa--Evercore ISI -- Analyst",
+    "Blaine Heck--Wells Fargo -- Analyst",
+    "Thomas Catherwood--BTIG -- Analyst",
+    "Dave Rodgers--Baird -- Analyst",
+    "Rich Anderson--SMBC -- Analyst",
+    "Rob Simone--Hedgeye Risk Management -- Analyst",
+    "Chris Lucas--Capital One Securities -- Analyst",
+    "Bill Crow--Raymond James -- Analyst"
+  ]
+}

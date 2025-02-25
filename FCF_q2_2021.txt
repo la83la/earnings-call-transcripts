@@ -1,0 +1,398 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and thank you for standing by. Welcome to the First Commonwealth Financial Corporation's Second Quarter 2021 Earnings Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions] I would now like to hand the conference over to your speaker today, Ryan Thomas, Vice President of Finance and Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Ryan M. Thomas",
+      "speech": "Thank you, Pasha, and good afternoon, everyone. Thank you for joining us today to discuss First Commonwealth Financial Corporation's second quarter financial results. Participating on today's call will be Mike Price, President and CEO; and Jim Reske, Chief Financial Officer; and Jane Grebenc, our Bank President and Chief Revenue Officer. As a reminder, a copy of today's earnings release can be accessed by logging on to fcbanking.com and selecting the Investor Relations link at the top of the page. We have also included a slide presentation on our Investor Relations website with supplemental financial information that will be referenced during today's call.\nBefore we begin, I need to caution listeners that this call will contain forward-looking statements. Please refer to our forward-looking statements disclaimer on Page two of the slide presentation for a description of risks and uncertainties that could cause the actual results to differ materially from those reflected in the forward-looking statements. Today's call will also include non-GAAP financial measures. Non-GAAP financial measures should be viewed in addition to and not as an alternative for our reported results prepared in accordance with GAAP. A reconciliation of these measures can be found in the appendix of today's slide presentation.\nWith that, I will turn the call over to Mike."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Thanks, Ryan, and welcome, everyone. Net income in the second quarter of $29.6 million produced core earnings per share of $0.31, a core pre-tax pre-provision ROA of 1.82% and a core efficiency ratio of 53.1%. Importantly, pre-tax pre-provision net revenue of $42.9 million was slightly ahead of the consensus estimate, reflecting good underlying second quarter momentum in our key businesses. Lending rebounded in the second quarter, increasing year-to-date loan growth to 5.3% annualized rate, and that excludes PPP loans. The loan growth was broad-based and although indirect lending and corporate banking led the way, mortgage, branch-based consumer lending and small business all contributed meaningfully. Our corporate bank had several big wins and is seeing deepening pipelines. Bucking national trends, our branch team has originated $209 million in home equity loans year-to-date, which represents a 12% increase year-over-year.\nGeographically, Ohio continues to lead the way with the majority of our loan growth, although PA production remains strong. Our regional business model and a focus on execution have been key elements in driving balance sheet and fee income growth. We have also lifted out some talented lenders from large competitors over the last past year. Consumer and small business household growth helped fuel noninterest income, which remained strong at $26.1 million, even as mortgage gain on sale income tapered. Card-related interchange income at $7.4 million was a quarterly company record by a wide margin. At $2.7 million, trust revenue was a quarterly record as well.\nOur SBA business contributed $1.6 million to gain on sale income and SBA pipelines have never been stronger. This is four quarters in a row of strong contribution by the SBA business. Importantly, in this discussion around growth, business conditions in the second quarter in our markets recovered faster than we anticipated, and our business customers are generally positive about the outlook ahead. Expenses remain well controlled, and the core efficiency ratio was an impressive 53.21%.\nOver the last six years, First Commonwealth's revenue base has broadened considerably with significant investment in new commercial lending teams, a de novo mortgage business, indirect lending, SBA lending, credit card and new digital platforms to include online loan and deposit account opening. We have expanded -- also expanded our footprint through five strategic M&A opportunities. Even as we've made these significant investments and transformed our company, at the forefront of our planning is adhering to the core principle of maintaining positive operating leverage. Turning to NIM. Jim will provide important detail in a few minutes. But at a very high level, I believe our NIM is benefiting from our long-term approach to building a diversified loan portfolio that is balanced between commercial and consumer loans.\nAt a time when banks are struggling to deploy excess cash, our consumer loan growth has been strong all year, and our commercial loan growth picked up steam as the second quarter progressed. We like the contribution margin a new consumer loan brings versus having money parked at the Federal Reserve or in investment security. And we also have the potential of cross-selling a new consumer customer as an added bonus. We're also enthused about the lift-out of an equipment finance team from a larger institution that we recently announced as well as the momentum in our SBA business. Both of these businesses are scalable and will enable our margin to expand by generating high -- higher-yielding assets. Importantly, we're very pleased with the adoption of our new digital platform.\nThe second quarter, our active mobile users increased an annualized 22%. Additionally, we continue to bring new capability forward, and we'll be introducing a new mobile mortgage platform in August where our customers can easily apply for and track their mortgage status from anywhere at any time. Lastly, regarding credit, we feel our asset quality is solid and coupled with improving economic conditions, we expect credit to be a tailwind in the back half of the year.\nAnd now I'll turn it over to Jim Reske, our CFO."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Thanks, Mike. As Mike already mentioned, we were pleased with our financial performance this quarter, especially with regard to loan growth, fee income and expense control. Hopefully, I can provide you with a little more detail on our NIM, asset quality, fee income and expenses. Our net interest margin for the second quarter was 3.17%, down from 3.40% last quarter. Loan yields fell by 11 basis points, but we were able to offset most of that by reducing the cost of interest-bearing liabilities by seven basis points. But to understand our NIM, you have to look at the effects of PPP and changes in our asset mix, especially cash. For example, we began the quarter with $479 million in PPP loans. By June 30, that figure had shrunk to $292 million.\nSimilarly, excess cash dropped from $414 million to $189 million over the period. These changes don't come through if you only look at our published average balances, which barely moved. Essentially, what happened is this. We started the quarter with a lot of excess cash because of government stimulus programs that took place in the first quarter. In addition, PPP loans were forgiven over the course of the quarter, generating even more cash. We invested some of that excess cash into securities early in the quarter and into strong loan growth toward the end of the quarter. To be more precise, PPP and excess cash had two distinct effects on the margin. First, the first quarter NIM had the benefit -- excuse me, the first quarter NIM had the benefit of $7.9 million of PPP income, while second quarter PPP income was only $5.5 million.\nSecond, we put excess cash to work by purchasing approximately $300 million of securities in the second quarter. That's better than leaving it sit in cash. Those investments will generate about $3.9 million of net interest income annually or about $0.03 per share, but they still yield us than what we were earning on the PPP loans, and it's still a layer of thin margin assets on top of the balance sheet that drags down the NIM. Because of the noise from PPP and excess cash, we have been publishing a core NIM that adjusts for both of those things. Our previous guidance was for our core NIM to fall between 3.20% and 3.30%, and our core NIM for the second quarter came in at 3.20%, which was within that range, albeit at the bottom of that range. The reason for that is simple math. The more excess cash we invest in securities, the less cash there is to adjust for in the core calculation.\nThe good news here is that our loan growth in the second quarter was very strong, especially toward the end of the quarter. That should help the margin going forward. We expect to maintain that trajectory for the remainder of the year, which would replace PPP runoff and further soak up excess cash to the benefit of the margin. As a result, we are reiterating our core NIM guidance of 3.25% plus or minus five basis points. Let me switch gears now to asset quality and offer a couple of thoughts that may be helpful to you. First, we realized that deferrals were the number one topic a year ago, but our deferrals have all but disappeared from a peak of over $1 billion during the pandemic to $138 million last quarter to only $59.5 million this quarter or just 88 basis points of total loans. Second, nonperforming loans are just 0.82% of total loans ex PPP, and the reserve coverage of nonperforming loans is 182.9%. These are levels that we believe compare very favorably to peers.\nThird, we just completed our regular semiannual loan review process in which we review every commercial credit in excess of $350,000. This involved a review of about 1,000 relationships totaling $2.4 billion out of a $3.9 billion commercial loan portfolio. At the conclusion of that exercise, there were 0 downgrades to special mention or substandard in the portfolio. The thoroughness of that exercise gives us confidence as we took noted declines in both special mention and classified loans this quarter. Classified loans, for example, dropped from $72.3 million to $56.3 million, a level very close to the pre-pandemic level of $52.5 million at the end of 2019.\nFourth, delinquencies, which are sometimes seen as an early warning sign of trouble ahead, not only went down from last quarter, but they are at an all-time low for our bank at just 11 basis points of total loans ex PPP. Fifth and finally, our reserves remain at 1.50% of total loans ex PPP protecting our capital and our earnings stream going forward. As for fee income, even with mortgage income slowing down a bit in the second half, we anticipate being able to sustain the pace of $26 million to $27 million per quarter in noninterest income for the remainder of 2021 due to favorable trends we are seeing in SBA, swap and trust income.\nTurning to expenses. NIE came in at $51.5 million in the second quarter, down slightly from $51.9 million last quarter. Our previous NIE guidance was $52 million to $53 million per quarter, so we've been comfortably below that. We do, however, expect some expense associated with returning to a more normal work and travel environment, elevated hospitalization expense that we have been seeing, new hires in revenue-producing and credit positions and the new recently announced equipment finance effort, bringing our NIE guidance to $53 million to $54 million per quarter for the remainder of the year. Finally, we repurchased 72,724 shares in the second quarter at an average price of $13.95.\nAnd with that, we'll take any questions you may have."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Thanks, Jim. Questions, operator?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And your first question is from the line of Michael Perito with KBW."
+    },
+    {
+      "speaker": "Michael Perito",
+      "speech": "Hey, good afternoon, guys."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Good afternoon."
+    },
+    {
+      "speaker": "Michael Perito",
+      "speech": "I had a couple of questions. Obviously, it was good to see some of the revenue momentum come through in the quarter, and I was wondering more specifically on the loan growth side. I know you guys provided some updated broader commentary for the back half of the year. But do you think the mix will shift more dramatically toward commercial? Or do you think that the consumer portfolios could be the larger driver of the growth for the near future here until kind of line utilization recovers to a more normalized rate?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "We like the pipelines we're seeing -- this is Mike, in the corporate bank, and we think growth there could continue and pick up perhaps a little bit. On the retail side, we've just -- there, it's mostly execution, and our branch-based team has really moved the needle this year in growing the business as well as in our indirect business has really expanded into new markets, primarily Ohio, and penetrated those markets well. I think it'll probably be pretty equally yoked maybe with a little tilt toward retail. That's speculation, but it's good to have a lot of oars in the water to generate growth, and that's what we had this past quarter."
+    },
+    {
+      "speaker": "Michael Perito",
+      "speech": "And on that point, with the equipment finance platform, I know you guys have provided some general thoughts around like where -- what direction it could head. And -- but I was curious if you could give more of a better sense for us around timing in terms of how long the ramp-up process for that type of platform can take? I mean -- for example, like are there any non-competes or anything of that sort, like hiring a traditional commercial lender that we should be mindful of? Or is it pretty much you guys can start originating these loans immediately after bringing them on board?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Yes. There's no non-competes. This was a lift-out. We didn't purchase an equipment finance or leasing business. We really expect that in the second half or toward the end of next year, we'll be breakeven in that business, and then the following two years could be very accretive for us to our profitability.\nI'm not -- we're not ready to give you a number. We obviously have internal forecasts. We'll see how the build-out proceeds with a very competent professional who's led the same team for the last 17 or 18 years. But we're not doing this to make $3 million to $5 million. We're doing it to make a lot more money than that.\nSo we're pretty enthused about that business, and it has our full attention. In fact, it's probably near the top of our list in terms of businesses that can really continue to transform our company. And we have had some success, as you know, with mortgage, reinvigorated indirect, SBA and really doing de novo-type things and introducing them to our business. So we're excited about it."
+    },
+    {
+      "speaker": "Michael Perito",
+      "speech": "Great. And then just last question for me, and then I'll let someone else jump in. Just on the -- Mike, I was wondering if you could just give us any updates on kind of the capital and deployment front and maybe more specifically just on the M&A environment? It's been a pretty active quarter. It seems like there's pretty good deal flow. Just curious how the pipeline looks and if there's attractive opportunities out there potentially for you guys to explore?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "There could be. The price is important. Jim likes to remind me, and I know all of you that -- we've looked at now 50 things to do five. So we're pretty picky, and we want to make sure that it's financially sound, and it's also very strategic, and makes us a better company. And it's also strategic or accretive not just to our earnings per share but the profitability of the bank, overall profitability.\nBut there is increased activity and there's opportunities in front of us. But we've looked at a lot of things over the years. Hopefully, that's helpful. We're excited about M&A, I think, and perhaps the opportunity to do deals, but they need to be right."
+    },
+    {
+      "speaker": "Michael Perito",
+      "speech": "Yes. And can you just -- sorry, just remind us kind of what your target box kind of looks like on the M&A front from size and geography standpoint?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Jim?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes, sure. So we think about it, I guess, first geographically, we want things that are in a contiguous footprint, the drivable kind of footprint so that we look at overlap deals that are within our geographies. And we've had great success with these markets extension deals into newer metro areas, but we look at all those types of deals.\nIn terms of size, the old rule of thumb is always 20% to 30% of your asset size was the right fit. If it gets to be much larger than that, it's an MOE, which has -- which we would consider, but that has its own integration challenges. Much smaller than that, it's not accretive enough.\nI think as a company, what we've done and what we've shown is that we're willing to look at some of those smaller deals if they move the needle appreciably for us. If they have the right kind of business mix, if they have good talent, if they get us into the right kind of geography, we would look at those smaller deals. And we often have those conversations so we're happy to do that.\nI guess, in general comment on M&A, we believe we have a really bright future and a lot to offer. So we believe we can fold in other companies and make them a part of the success story very effectively."
+    },
+    {
+      "speaker": "Michael Perito",
+      "speech": "Great. Thank you, guys, for taking my questions. I appreciate it."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Steve Moss with B. Riley Securities."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Good afternoon. Maybe just starting with the loan pipeline. And I hear you, Mike, in terms of just the things -- the deepening pipeline. Kind of curious as to what you're hearing -- seeing for pricing and competition and just kind of maybe translating some of that into loan growth here?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Just a little different. The assumption is there is an RFP on every deal, and sometimes there is, and you have to compete. A lot of times in lending, particularly in the smaller and the midsized, it's just a matter of execution and being in front of your customer or in front of a prospect. So I would say, on the small business side, we have nice SBA pipelines. Our corporate bank has really helped there. And it's just the way a credit enhancement can get a deal done. We're seeing a good pipeline in our SBA lending, in our commercial real estate, and in our C&I, again, deepening pipelines, I would say that -- and you have to compete on price. You really don't want to compete on credit quality. If anything, probably at the onset, we had tightened some guidelines, quite frankly. And so we don't want to compromise there.\nAnd then we really have a regional business model where we empower regional presidents to go out. We have P&Ls and regional metrics on their markets, and they go out and compete. And we make calls with them, and it's a lot of fun. I don't know that I have a lot to add other than we are -- we feel like we have good momentum. And in our commercial bank and in our retail bank, we're taking a lot of calls, and the HELOC business is very good right now."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Okay. That's helpful. And then in terms of just where -- where were new origination yields for the quarter? I apologize if I missed that."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Jim, why don't you have the..."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes. Yes. The -- it depends on the asset category. Some of the consumer categories were in the high 2s, like indirect auto. Mortgages were in the low 3s. The commercial categories are generally in the low to mid-3s for new origination yields."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Okay. That's helpful."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Does that help?"
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Yes, that does. Thanks a lot, Jim. And then maybe just on the provision here and just kind of how to think about trends going forward. Just kind of curious, I know you guys indicated in the release that that growth drove the provisions this quarter. But just kind of curious as to how to think -- how you guys are thinking about the reserve ratio as we go through -- go forward the next six months and so forth?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Well, we believe that with our credit quality and what we've seen in the migration in key categories, like classified and criticized, which has been good the last quarter, the pressure will be off a bit there. And that notwithstanding migration, which we're seeing migration go the other way in a positive way, I think that there'll be less pressure certainly.\nAnd you want to cover charge-offs, and this quarter, the charge-offs were $3.9 million. That was mostly one credit. Otherwise, we would have a very low charge-off quarter, but it's really in line with our expectations in the past four or five quarters. And so you want to cover charge-offs and we're probably -- we feel we're a little bit at the higher range of the loan loss reserve to total loans, and we have good coverage. So that would really point to less pressure and maybe a credit being a tailwind in the second half of the year."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Okay. And I mean, are there some -- maybe some overlay still just that you guys are keeping that you want to wait for things to get a little bit better for that reserve ratio maybe to get back toward that day one reserve?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "I'm really sorry, Steve. I'm having a tough time hearing you."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "Sorry. Maybe just like how -- in terms of just the reserve ratio, just kind of like where do you think it could maybe bottom out? I mean, I realize you guys didn't adopt CECL until later. So just kind of trying to think about how to get toward a lower ratio longer term."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "I think it will naturally attrite as with our peers, I suspect. And asset mix is a little different. And Jim, I don't know if you want to add anything?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes. Look, I think Mike covered the basic dynamics of provision expense quarter-to-quarter, which oddly enough just hasn't changed. Even with CECL, you're covering your charge-offs and you're covering the loan book. You're providing for future loan growth. We're really pleased that our reserve coverage ratio has held up this high. And I think what we're experiencing, I think, is what a lot of banks would like is that we're growing into that kind of reserve coverage ratio.\nSo as opposed to the whipsaw of building up a big reserve under CECL, then releasing it, then having to build it again, what every bank would like is the ability to grow into that ratio. We don't have a target. I know you mentioned the day one, but we don't have a target to get back to day one and release the reserves to drive it down to that.\nWe have an obligation. What we want to make sure is that we have adequate reserves based on what we see in the portfolio and based on our economic forecasts and all the rest. If it plays out like I just said and the loan growth continues the way it's going, and the economy keeps improving, we probably will get back down to those ratios. But hopefully, that will take place over time and not some big massive release that puts you just at risk of having to provide for that again. Hopefully, that's a little bit of very helpful commentary for you."
+    },
+    {
+      "speaker": "Steve Moss",
+      "speech": "That's all helpful. I appreciate it. Thanks very much."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Thanks, Steve."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Russell Gunther with D.A. Davidson."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Hey, good afternoon, guys."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Good afternoon."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "I wanted to follow back to the discussion around the equipment finance lift-out and maybe just the volume and rate impact. So on the volume side, you guys have been targeting a mid-single-digit rate, successfully executing there. As this matures, is this a business line that you see as accretive to that growth rate or more of a mix shift and recommitting to a mid-single-digit growth? And then on the rate side, does this represent upside going forward to a 3.20%, 3.30% near-term core NIM guide?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Yes. I think yes and yes. We do see it as accretive to our net interest margin, and we do see it as an opportunity to boost growth. And the guidance we've given is mid-single digits. And notwithstanding the pandemic, we really felt we would be at the high end of the range. And we feel that this could provide another boost, and really complement a very capable commercial banking franchise."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Yes. Got it. Okay. And then in terms of the expense guide change, how much of that increase on a quarterly basis is driven by the equipment finance team? You mentioned a few other drivers, but the bulk of it?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes. Well, the equipment financing is just starting. So the early days of the equipment finance in our projections would be $1 million to $1.5 million a quarter. Probably by the time it's all steady down, when it's really humming, expense will be about $2 million a quarter, but that will more than pay for itself once it passes the breakeven point. It will very much pay for itself and then some past that point. So it's not -- we just -- they just came on board. We're really happy to have them.\nWe're building up systems, and we're building up the internal control environment, all the things we have to do, a lot like what we do with mortgage. We do expect to book some assets by the end of this year. That's why we're being a little conservative on the breakeven point being toward the end of next year, but we want to get some earning assets on the books as soon as we can to kind of help that effort pay for itself."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "All right, Jim. Thank you. And then, Mike, I understand you guys don't want to put too fine a point on it right now, but you mentioned not doing it to make $3 million to $5 million. I mean that sounds like a net income type of number, which is about $0.05 on the high side. Is that the way to think about it? Or how should we stay tuned for earnings accretion?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "I think a multiple of that."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes. Yes, absolutely. We'll give you plenty of guidance as we go on. We'll have multiple quarters and quarterly calls before we get to that point. So we'll refine that guidance as we go. But yes, ultimately, eventually past that, it should be more accretive than that. If you look at this a little bit like the mortgage business, where ultimately, three, four, five -- maybe four or five years down the road, it gets to be 10% to 15% of your balance sheet and is really filling off some really healthy income."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Yes. Makes sense. I appreciate it, guys. And then just last one on the expense side of things. You had a lot of success with the initiatives that you put in place, getting those cost saves out. I mean have you given any thought into the back half of this year? Or as you're thinking about budgeting for 2022, revisiting branch rationalization or any other potential expense initiatives?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Not right now, it's pretty fluid. We look at it, as you know, Russell, quarter to quarter, and we're now into the planning season for 2022. And it's a key principle, and we've been able to maintain positive operating leverage despite a slew of investment since I cited earlier, and each of those discretely was akin to the equipment finance business. We're spending $3 million to $5-plus million to really build out platforms, and we figured a way to cover for them. And that's what we have to do.\nAnd we also have to continue to make investments in digital. And we have another product I mentioned earlier, the blend mortgage solution, which will be terrific. And we're still bullish on that business. We just have great producers. It's good for the brand. We get new households, we cross-sell them. So even though mortgage is tapering, it's an important part of our company now."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Yes, understood. Like in the positive operating leverage, it's great to see it from the prepared remarks. And in the release, it sounds a good commitment to do that amid discontinued franchise investment. So is that the message to take away going forward?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "It is, it is. And I know if we have safety in a given quarter, you're going to remind us of that, and we'll try not to."
+    },
+    {
+      "speaker": "Russell Gunther",
+      "speech": "Fair enough. Okay, guys. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And your next question is from the line of Steven Duong from RBC Capital Markets."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Hey, good afternoon, guys."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Good afternoon, Steve."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Jim, it looks like the liquidity has slowed a little bit on your period-end balance sheet. Is it fair that when we look at the average deposit balance next quarter, that it could be perhaps flat to down and your cash and securities could perhaps be soaked up a little bit with the loan growth?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes. I missed a little bit of what you said, Steve, but if I get the gist of it, you're asking about trends in deposits and securities. Is that right?"
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Yes, between -- because obviously, this quarter, average deposits jumped up. Liquidity jumped up. But then I noticed your period-end balance sheet, it looks like that has kind of been played out. And maybe heading into the third quarter, the liquidity that we've been seeing has kind of leveled off."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes. I think that's right. I'm glad you picked up on that because it was a bit of an odd quarter to decipher from the numbers you mentioned and what you're looking at. The period-end figures barely moved, but the averages were up. And really, that's because of this big influx right toward the end of the first quarter with the last federal stimulus program.\nBut I would say overall, yes, we do think the deposit balance will probably level off. One of the big questions is whether the -- all the PPP loans that converted to cash that are in customer accounts and the stimulus dollars, whether there'll be a rush of spending to withdraw some of that money. But basically, what we plan on and what we expect is that deposit base to be relatively stable from here.\nWe also expect the securities portfolio to be relatively stable for the rest of the year. We don't expect to take a lot of that extra cash and deposit and securities. We'll probably repurchase securities to replace runoff. Of course, we've been out of the market of securities for the last couple of weeks. When we purchase opportunities for plain vanilla mortgage-backed securities, we're at 1% even. Very unappealing. It's come up a bit since then. So it's a little bit better. But we try to stay out of the market when it gets to be that weak.\nBut overall, we're much more excited about the loan growth prospects as a way to soak up the excess cash and the excess deposits. That's the way we see the second half playing out."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Got it. And I guess with all this liquidity, I guess the one that you could do is just buy more of your stock back. Is that -- are you kind of open -- more open to that if you still have this liquidity?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "We are. The stock repurchase has really never really been driven by liquidity. It's more driven by our -- it is a liquidity question. We don't really think of it that way. We think of it more of a capital planning exercise. And so we have been taking a fairly non-aggressive approach this year, fairly slow approach, as we get -- as we just retain more earnings. And through the second half and capital levels build, it really becomes more of a capital management tool to get to deploy the excess capital. And so we could pick up the pace a little bit in the second half. But right now, the plan is to kind of maintain the slow and steady pace we've been doing so far."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Understood. And then just on your PPP balances right now, I guess it's kind of hard to tell, but do you think you'll have the majority of those balances be forgiven in the third quarter or the fourth quarter?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "We do. We think that ultimately about 90% of the totals will be gone by the end of the year. That will leave the remaining PPP balances somewhere between $100 million and $150 million by the end of the year. There was this pause in the forgiveness programs driven by the way the SBA was forgiving PPP loans in the second quarter. That was part of what -- of a slowdown in forgiveness rates in the second quarter, but it really picked up again toward the end of the quarter.\nAnd so most of the round one now has -- most of it has already been forgiven, and we expect that the round two will follow the same kind of pattern. And most of it will be forgiven by the end of the year."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay. Thanks for that. And then just on the loan growth in the quarter, I guess, resi and auto were pretty strong. How are you guys feeling about those two segments for the second half of the year? And then also your C&I ex PPP, that kind of looks like that's bottomed out as well. Are you seeing that kind of starting to turn as well?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Yes. I'll -- it is. It was -- some of the loss there was in this -- that is turning. The commercial real estate was a little ahead of it. Commercial solutions, which is just the smaller portion of C&I, we're already seeing a little -- some nice little growth there. So that is beginning to turn.\nAnd then I think the first question was just about the indirect business and our expansion into Ohio has really driven that. The team has done a nice job of getting in front of dealers. And we're also getting floor plans from that and other commercial business from that as well. And we really are having a good credit experience. And we have had -- Steve, I would just remind you, through the Great Recession, our indirect business performed very well. We've scaled it a bit, but our credit underwriting is pretty discerning. And if anything, at the onset of the pandemic, we've tightened our standards a bit there. So we feel good about these portfolios and how they endure."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "If I could just add to that, Steve, if you don't mind. One thing that gives us confidence about the C&I growth toward the second half is the growth that you don't see in the published financials, the growth in commitments. We had really strong growth in commitments in the second quarter and what that turn into is a decline in the utilization rate. And so even though the total C&I loan balance is only -- that didn't go up that much, the growth in commitments in the quarter was $124 million. So we see that really paving way and again, it gives us confidence that it's just a timing issue. As that gets drawn down in the second half, we're going to experience that loan growth in C&I."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Yes. Yes. That's good to hear. And I guess maybe just back on the auto, it's been pretty strong. I thought it would kind of leveled off a little bit, but it's still pretty strong. There's no issues with the -- I don't know, the chip shortage or anything like that? Are you still kind of bullish on it?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Yes, we are. It's a lot of the really adept dealers are just finding a way to do some just in time, and it's surprising how resilient they've been. Some of the old school dealers, it's been a little harder on them. And I think it will sound a little obscure, but I think the Manheim used car index back in the middle of June, I think we've peaked at prices and we're starting to come off of those a little bit. So that probably portends well for the business and steadier volumes. So I don't know. It's been more uninterrupted than we thought it would be despite the inventory shortages."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Yes, we are. It's a lot of the really adept dealers are just finding a way to do some just in time, and it's surprising how resilient they've been. Some of the old school dealers, it's been a little harder on them. And I think it will sound a little obscure, but I think the Manheim used car index back in the middle of June, I think we've peaked at prices and we're starting to come off of those a little bit. So that probably portends well for the business and steadier volumes. So I don't know. It's been more uninterrupted than we thought it would be despite the inventory shortages."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "I think it will be very profitable. And I think it will -- we can grow it -- I think we can have a substantial meaningful business for our company."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "I'll just echo one thing. I mentioned before about its place in our company because I think that gets to your question of being a part of the overall pie chart of the business, and it's slice, being a 10% to 15% pie chart in terms of balances. But it's a more profitable business than a lot of other businesses we do. So it will be nicely accretive to margin. The yields are higher. It will -- it's an efficient business that will help the efficiency ratio. We are excited about that business as it grows."
+    },
+    {
+      "speaker": "Steven Duong",
+      "speech": "Okay. That's it for me. Thank you."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our final question is from the line of Matthew Breese with Stephens Inc."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "Hey, good afternoon."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Good afternoon."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "Just a few for me. First, what types of equipment are going to be underwritten by the new team? Is this large ticket, small ticket, yellow metal? What is it?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "It's small ticket, initially."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "Okay. Could you be any more specific there? Is it small ticket like office equipment or something else? And what are the kinds of typical loan terms that you might get on it?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Yes. These will be through vendor programs, and this will include everything from small ticket leasing -- or I mean, it could be landscaping, it could be office. It could be really tools and manufacturing forklifts. Surprisingly, we go to some of our middle market clients and invariably, we might have $5 million or $10 million that they will have between small equipment that runs the plant, another $0.5 million in leases. It will be for some programs like that as well."
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "I'm sorry, just to clarify. It's not primarily office, I think, you are alluding to that. It's, as Mike mentioned, transportation equipment, manufacturing equipment, those, but it's not primarily office equipment."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "Okay. I was just providing an example. Thank you for clarifying. And then what are the typical kind of spreads in terms on this?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "The yields are in the 4.5% to 5.5% range pretty consistently. And that's pretty consistent through economic cycles. So it's a -- that's why we're fairly confident that it will be NIM accretive because the yields are very attractive."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "And do you have an idea of historical loss content from the producers?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "Yes. If you give us a few minutes, it's fairly -- it's reasonable. It's probably a little higher than our loss now. Let me just get that for you."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "Sure. I'll ask my follow-up question. How much of the balance sheet at this point is floating rate and without floors? Just want to get a sense for, if and when we do see a Fed hike, how quickly we might see some of your loan yields respond?"
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Our loans, we have about 50% that reprice, and about 50% are fixed, and that's by design. We've been higher on the fixed, and then we've just -- it's like a 50-50."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "Okay. And then my last one is, if I strip away PPP this quarter, core NII was up sequentially. It feels like we've inflected kind of the bottom was last quarter. As I think about the outlook, right, good loan growth, it feels like the core NIM can expand, could you provide any color on core NII and kind of the outlook there? Maybe provide some guardrails as to how we should be thinking about it over the next six to 12 months?"
+    },
+    {
+      "speaker": "Jim Reske",
+      "speech": "I think -- well, first of all, by the way, I got your answer on the charge-offs. The normalized charge-off in this business is about 55 to 75 basis points. So that's going to be probably higher than our indirect auto business, but the yield is more than make up for that. And it's a great question, thanks. We'll get more clarifying color as we go along.\nThe spread income, I think, will kind of -- it's a little bit -- just to continue the story we were just telling, we see that as a big story of stability and maybe some growth potential because of the changes in the asset mix. Just to get better earning assets on the balance sheet. We'll try to give some clarity as to stripping out PPP and how that affects that because we still have a lot of PPP fee amortization to recognize. We'll recognize some -- a lot of that in the second half.\nBut the core, like he was talking about, the core NII without PPP seems to be a story of stability with some growth potential in the second half. Some of that story will depend on the rate environment. Obviously, we're all watching the 10-year headline treasury rate at 1.25%. For us -- I know you weren't asking this question directly, but it's implied in your question. For us, we have very little as a company tied to the 10-year rate. For example, if you look at the middle part of the curve, the two- and three-year part of the curve, which isn't getting as much attention. But that's actually higher than it was at March 31. And our -- that indirect auto production is all tied to that part of the curve.\nSo there's some of that very much -- obviously, the rate environment plays a part in our expectations toward NII trend, which was the core of your question. But it's not as penalizing to us as you might think just looking at the headline 10-year number."
+    },
+    {
+      "speaker": "Matthew Breese",
+      "speech": "Okay. I appreciate that. Thanks for all the color."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time, there are no further questions. I would like to turn the call over for any closing remarks."
+    },
+    {
+      "speaker": "Mike Price",
+      "speech": "Thank you, operator. As always, we appreciate your interest in our company, and we look forward to being with a number of you over the course of the next three to six months. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 46 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ryan M. Thomas--Vice President / Finance and Investor Relations",
+    "Mike Price--Chief Executive Officer",
+    "Jim Reske--Executive Vice President/Chief Financial Officer",
+    "Michael Perito--KBW -- Analyst",
+    "Steve Moss--B. Riley Securities -- Analyst",
+    "Russell Gunther--D.A. Davidson -- Analyst",
+    "Steven Duong--RBC Capital Markets -- Analyst",
+    "Matthew Breese--Stephens Inc -- Analyst"
+  ]
+}

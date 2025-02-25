@@ -1,0 +1,341 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and thank you for standing by. Welcome to Evercore's Second Quarter 2021 Financial Results Conference Call. [Operator Instructions]. I would now like to turn the conference call over to your host, Evercore's Head of Investor Relations, Hallie Miller. Please go ahead."
+    },
+    {
+      "speaker": "Hallie Elsner Miller",
+      "speech": "Thank you, Mary. Good morning, and thank you for joining us today for Evercore's Second Quarter 2021 Financial Results Conference Call. I'm Hallie Miller, Evercore's Head of Investor Relations. Joining me on the call today are John Weinberg and Ralph Schlosstein, our Co-Chairman and Co-CEOs; and Bob Walsh, our CFO. Celeste Mellet, who joined Evercore earlier this month and will be taking over as CFO on September 1, is also with us this morning. After our prepared remarks, we will open up the call for questions. Earlier today, we issued a press release announcing Evercore's second quarter 2021 financial results. Our discussion of our results today is complementary to the press release, which is available on our website at evercore.com.\nThis conference call is being webcast live in the For Investors section of our website and an archive of it will be available for 30 days, beginning approximately one hour after the conclusion of this call. During the course of this conference call, we may make a number of forward-looking statements. Any forward-looking statements that we make are subject to various risks and uncertainties, and there are important factors that could cause actual outcomes to differ materially from those indicated in these statements. These factors include, but are not limited to, those discussed in Evercore's filings with the SEC, including our annual report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K.\nI want to remind you that the company assumes no duty to update any forward-looking statements. In our presentation today, unless otherwise indicated, we will be discussing adjusted financial measures, which are non-GAAP measures that we believe are meaningful when evaluating the company's performance. For detailed disclosures on these measures and the GAAP reconciliations, you should refer to the financial data contained within our press release, which is posted on our website. We continue to believe that it is important to evaluate Evercore's performance on an annual basis. As we have noted previously, our results for any particular quarter are influenced by the timing of transaction closings. I'll now turn the call over to Ralph."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Thank you very much, Hallie, and good morning to everyone. We began our last earnings call commenting on what a difference a year had made. And as we sit here today, not only are things dramatically different from a year ago, but things are also somewhat better than even three months ago. Over the past three months, we have witnessed a material improvement in the global economy, in global markets and in Evercore's business. The rollout of COVID-19 vaccines accelerated in the U.S. and in many countries around the world during the quarter, and we experienced a decline in new daily cases in areas where vaccination rates are high.\nWe are grateful for the progress being made against the pandemic, but we also are cognizant that there are many around the world who have not been as fortunate to date and are in earlier stages of overcoming this pandemic. And while we are encouraged by the progress being made overall, we continue to monitor the new COVID variants, the ongoing vaccine rollout in the U.S. and other parts of the world and the data on infection rates, which unfortunately seem to be rising right now, particularly in areas with lower vaccination rates. We have delivered strongly for our clients over the past 17 months advising them on their most important strategic, financial and capital requirements during one of the most uncertain and volatile periods of our lifetimes.\nAnd we produced extraordinary financial results for our shareholders. And while we achieved a lot while operating as a predominantly remote firm, we are genuinely energized by the reopening of our offices that began toward the end of the second quarter. Many of us are using the summer months to come into the office, so I am pleased to be here at our headquarters with my colleagues in person on this call this morning. We remain firmly committed to our culture of in-office collaboration, apprenticeship and mentorship, and we look forward to bringing our teams back to the office over the next several weeks and months. That said, we have learned a lot about operating flexibly over the past 17 months, and we are committed to integrating more flexible work arrangements into the way we work going forward.\nAs the macroeconomic environment continued to strengthen throughout the quarter, our business did as well. Our results, which represent the best first half in our history, reflect the breadth and diversity of our capabilities, our team's relentless client focus and the continued favorable environment for M&A and capital raising. And while we continue to believe that we are in the early stages of the next M&A up-cycle, we are mindful that the resurgence of the virus in certain geographies, the outlook for inflation in interest rates and potential regulatory scrutiny and tax changes could affect the trajectory and the length of that up-cycle even though there is absolutely no evidence of that today. High levels of announced M&A transaction volume continued during the quarter.\nThe total dollar volume of announced M&A increased 17% sequentially as the number of transactions increased 7% and the average deal size increased 10%. In fact, the second quarter represents the fourth straight quarter to surpass up $1 trillion in announced M&A activity and the first time ever the trailing 12 months activity exceeded $5 trillion. And large transactions are making a significant comeback compared to this time last year. This continued high level of activity led to record second quarter revenues and is adding yet again to our already strong backlogs. All of our capital advisory businesses, public and private debt and equity, continue to be meaningful contributors to our firmwide results. While the hot market for equity issuance cooled a bit during the quarter, it still remains well above historical averages.\nThe investments that we have made in our ECM capabilities and our enhanced sector coverage enable us to participate in a wide array of assignments across many sectors and to take an increasingly large role in these assignments. In the private capital advisory businesses, momentum in capital raising for financial sponsors continued and secondary market activity remained high, particularly activity related to single asset and multi-asset continuation funds. Traditional restructuring opportunities have been more limited, given the strength of the economic recovery, the strong availability of credit and the positive environment for M&A and capital raising. But our team is adapting to meet client needs, working with financial sponsors and creditors on liability management and debt advisory assignments, though admittedly not as busy as they were in July of last year.\nOur equities business, Evercore ISI, continues to produce and deliver high-quality research and service to our clients, and we continue to make investments in our platform. The team delivered a solid quarter, in line with its historical 3-year quarterly average, as the impact of lower volatility and trading was partially offset by investments we have made to support our clients more broadly, particularly in converts and agency options. And solid performance continues to drive assets under management growth in our Wealth Management business. We continue to add talent in all parts of the firm, providing the fuel for future growth. And John will talk more about this in his remarks.\nAnd we welcomed Celeste Mellet to Evercore earlier this month, who is transitioning this summer to become our next CFO, succeeding Bob Walsh, who has been here for the last 14 years. We look forward to working with Celeste as she helps to drive the next stage of our firm's growth. Let me now turn to our financial results. We achieved record second quarter and first half adjusted net revenues, adjusted operating income, adjusted operating margin, adjusted net income, adjusted earnings per share, driven by continued revenue growth and strong operating leverage. Second quarter adjusted net revenues of $691.2 million grew 34% year-over-year. Year-to-date, adjusted net revenues of $1.36 billion increased 43% compared to the prior year period. Second quarter advisory fees of $561.4 million grew 67% year-over-year.\nYear-to-date advisory fees of $1.07 billion increased 54% versus the prior year period and represent the first time that we have exceeded $1 billion in advisory revenues for the first half of the year. Our trailing 12-month advisory fees exceeded $2 billion for the first time in our history. Based on current consensus estimates and actual results, we expect to maintain our number 4 ranking in advisory fees among all publicly traded investment banking firms for the last 12 months and to grow our market share relative to these firms. In the first half of the year, we also continued to narrow the gap between Evercore and the number 3 ranked firm in terms of trailing 12 months advisory fees. Our efforts to solidify further our position as the leading independent investment bank and to compete with firms larger than us have been recognized by clients and by industry observers as we were recently selected by Euromoney to be North America's best bank for advisory in 2021, and that was among all firms, not just among the independent firms.\nSecond quarter underwriting fees of $48 million declined 49% year-over-year, but excluding two sizable fees during the second quarter of 2020, one from PNC BlackRock and one from Danaher, underwriting fees were essentially flat year-over-year. Year-to-date, underwriting fees of $127.3 million increased 11% versus the prior year period, even including the PNC BlackRock and Danaher fees. While there was a slowdown in equity issuance during the quarter, largely driven by fewer SPAC IPOs, demand for capital raising continues to be strong more broadly. The breadth of our capabilities and enhanced sector coverage have enabled us to work on diverse assignments for clients, and our second quarter underwriting revenues include engagements from seven different sectors.\nSecond quarter commissions and related revenue of $50.7 million declined 7% year-over-year as both volumes and volatility were lower relative to the elevated levels in the second quarter of 2020. Year-to-date commissions and related revenues of $104.3 million declined 5% versus the prior year period. Year-to-date revenues are 6% higher than the first half average of the prior three years, which includes the extreme volatility during the first half of last year. Second quarter asset management and administration fees of $19 million increased 25% year-over-year as quarter end AUM were $11.1 billion, an increase of 23% year-over-year, principally related to positive investment performance and market appreciation.\nYear-to-date asset management and administration fees of $36.8 million increased 21% versus the prior year period. Turning to expenses. Our adjusted compensation ratio for the second quarter and year-to-date is 59%. This reflects our current best judgment on compensation for the year, recognizing both the factors that may affect revenues in the second half of the year and the current pressures on market compensation for our industry. As always, we will reassess our compensation ratio at the end of the third quarter and again at year-end and make adjustments then, if appropriate. Second quarter noncompensation costs of $73.1 million declined 5% year-over-year. Our noncompensation ratio for the second quarter is 10.6%.\nYear-to-date noncompensation costs of $145.8 million declined 9% versus the prior year period, and Bob will comment more on noncomp expenses in his remarks. Second quarter adjusted operating income and adjusted net income of $210 million and $154 million increased 105% and 115%, respectively. Year-to-date adjusted operating income and adjusted net income of $412 million and $316.5 million increased 122% and 144%, respectively. We delivered a second quarter operating margin of 30.4% and second quarter adjusted EPS of $3.17, an increase of 107% year-over-year. Year-to-date adjusted margin is 30.3% and adjusted EPS of $6.47 increased 136% versus the prior year. Finally, we continue to execute our capital return strategy, and we resumed our historical policy of returning cash not needed for investment in our business to our shareholders through share repurchases and, of course, dividends.\nWe returned $221 million to shareholders during the quarter through dividends and the repurchase of 1.4 million shares. Year-to-date, we returned nearly $500 million through dividends and the repurchase of 3.3 million shares, a record level of capital return for our shareholders. We achieved our commitment to offset the dilution associated with our annual bonus RSU grants through share repurchases in the first quarter. So these additional repurchase in the second quarter represent discretionary buyback activity that shrinks the shareholder base. Our dividend -- our Board declared a dividend of $0.68. Let me now turn the call over to John to discuss some of our business highlights from the second quarter and the first half and to provide an update on our 2021 priorities."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "Thank you, Ralph. Our second quarter and first half results reflect the breadth and diversity of our capabilities supported by a positive macroeconomic environment for strategic merger activity, capital raising and investing. Both strategics and financial sponsors have been driven to transact as they are focused on growth opportunities, technological disruption and the role of ESG. And with the key ingredients for M&A strengthening, the volume number and size of announced transactions increased during the quarter. In this robust environment, our teams have been busy working on a variety of assignments globally for our clients. We sustained our number 1 league table ranking in dollar volume of announced M&A transactions in the U.S. among independent firms for the 12-month period ending June 30. Our high level of activity is translating to our financial results.\nWe achieved a third straight quarter of advisory revenues greater than $500 million. And as Ralph mentioned, we surpassed $1 billion in the first half advisory revenues for the first time with strong contribution across capabilities globally, including M&A, capital advisory and strategic defense and shareholder advisory. We have prominent roles on some of the biggest announcements of the year, including serving as the lead advisor to Grab on its $40 billion SPAC merger, the largest SPAC merger in history and serving as the sole advisor to Nuance on its pending $19.7 billion sale to Microsoft. And we worked on a greater number of assignments and grew our average fee size in the first half compared to the first half of last year. Our industry-leading strategic defense and shareholder advisory team continues to be extremely busy and is currently advising companies representing $1.5 trillion in market value in activist defense.\nThis is an important capability for us because many of our defense clients subsequently turned to us for advice on strategic matters. Our underwriting business had a solid quarter, and activity and backlogs in this business continue to be strong. We participated in a number of significant transactions across a variety of sectors during the second quarter, including 31 transactions that raised nearly $10 billion in total proceeds across seven sectors. And of the ECM transactions that we participated in during the quarter, 60% were as an active bookrunner, including in consumer lead left bookrunner on Post Holdings SPAC; in biopharma active bookrunner on Centessa Pharmaceuticals IPO; and in e-commerce active bookrunner on 1stDibs IPO. And we participated in our first direct listing for ZipRecruiter as their financial advisor.\nAs we mentioned last quarter, our investments in our ECM platform have earned us a place in the top 20 for underwriting revenue as estimated by Dealogic for the 12-month period ending June 30 for deals listed on the U.S. exchanges, excluding bought deals. We are focused on strategically gaining share and working our way toward the top 10, which is currently comprised of banks that use their balance sheets to win underwriting business. Given our strategic approach to SPAC underwriting, we believe we can consistently gain share without the volatility that others, who work highly dependent on SPACs, may experience. Activity in our private capital advisory groups, our secondaries advisory business and our primary fundraising business continued to be very strong.\nOur success in this area is driven by our strong client relationships and our outstanding track record. We continue to invest in this business and recently welcomed several new members to the team. In restructuring, many companies and sectors continue to take advantage of the strong economic recovery and access to capital to restructure out of court. Our team continues to work through previous engagements and is focused on liability management assignments and partnering with our debt advisory team for private financing activity. We continue to believe that there could be a longer tail to the restructuring cycle as certain sectors and companies take longer to recover. In equities, while volumes and volatility moderated from their pandemic highs across the street, we remain engaged with our clients and focused on producing and delivering high-quality research and service for them.\nOur corporate access team was especially busy in the quarter and ran three flagship conferences, including our inaugural TMT Conference, our 13th annual macro investment conference and our 2nd Annual Consumer & Retail Summit, each with hundreds of institutional investors participating. We also arranged highly topical full-day thematic events that were well attended by clients. Our newer capabilities, including options and convertibles, continued to perform well during the quarter as well. Finally, assets under management and our Wealth Management business finished the quarter at $11.1 billion as long-term performance remains solid and net new business continued to be positive. We also made several hires for this team, including a National Director of Wealth Planning and a Director of Trust Services.\nLet me now turn to discuss some of our priorities going forward, including our initiatives focused on long-term growth. We continue to believe that there is substantial opportunity to grow our investment banking business through a combination of maintaining our high current levels of activity, the continued seasoning of ramping SMDs as they work toward full productivity and broadening our footprint and our client coverage through strategic hiring. The breadth and diversity of our platform positions us well to participate meaningfully in the current M&A and capital raising environment. We also have more than 30 SMDs on our platform that have either joined or been promoted within the last three years that represent additional opportunities for growth as they continue to ramp to our high levels of productivity.\nAnd we continue to focus on expanding our capabilities, enhancing our sector and geographic coverage and improving our coverage of the most significant client groups. The expansion of our underwriting capabilities has driven significant revenue growth, and there continues to be meaningful growth opportunities, as I mentioned just a few minutes ago. On the advisory side, we believe that there is significant opportunity to expand our coverage model so that we can continue to grow both revenues and our share of fees. Our efforts to fill in the white space are focused on effectively covering large multinational firms and financial sponsors and enhancing our sector and geographic coverage, including the four techs, biotech, fintech, greentech and TMT, pharma and consumer and U.K. and Europe.\nAs we move into the second half of the year, we remain focused on adding talented individuals to our firm as we seek continued growth. We're actively recruiting highly talented individuals to our team, and we continue to have many conversations with senior level candidates in the capabilities, sectors and geographies that can contribute to our growth objectives. Competition for the caliber of talent we are recruiting is always high, and our dialogues with senior level recruits continue to be elevated. Historically, we've added four to eight advisory SMDs per annum, and we continue to believe that we will be at or near the high end of that range and perhaps above it. In addition to the two senior advisory directors who joined us earlier this year, we have three committed advisory senior managing directors who will join us over the next several months, strengthening our coverage of the healthcare, fintech and our coverage of financial sponsors.\nIn addition to hiring at the most senior levels, we are building out our teams at all levels to meet the demands of the industry and the elevated pace of activity. And we -- as we add to our teams, we are also focused on returning to our offices globally with the health and safety of our employee as our top priority, and we developed plans to meet that need. We have seen a steady increase of in-person attendance over the summer months, and we look forward to up to a more full return in September. We also continue to make meaningful progress on our ESG initiatives and diversity, equity and inclusion. In May, we published our inaugural Sustainability Report and launched our dedicated DE&I web page. And just last week, we held two day of understanding events associated with our commitment as signatories of the CEO action pledge. We look forward to continuing to have candid dialogue around DE&I and inspiring change across our firm globally.\nLastly, we remain committed to operating our firm with financial discipline and delivering strong returns to our shareholders, returning excess cash not needed for investments in our business or to fund prior deferred compensation arrangements to our shareholders through dividends, share repurchases, while maintaining a strong and liquid balance sheet. Before I turn the call over to Bob, I want to thank all of our teams for their hard work and perseverance, not just during the past quarter, but over the last 16 months that have been uniquely challenging for each of and every one of us. We very much look forward to bringing our teams back together in person so that we can continue to build and strengthen the culture that has been the foundation of our success. Now let me turn the call over to Bob for some additional financial commentary."
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "Thank you, John. As always, let's begin with our GAAP results. For the second quarter of 2021, net revenues, net income and earnings per share on a GAAP basis were $688 million, $140 million and $3.21, respectively. Year-to-date, net revenues, net income and earnings per share on a GAAP basis were $1.35 billion, $285 million and $6.46, respectively. During the quarter, G5 Holdings, our former affiliate in Brazil, repaid their outstanding note to us for approximately USD12 million, enabling us to financially exit our relationship there. The settlement resulted in a gain of $4.4 million, which we have excluded from our second quarter 2021 adjusted net revenues.\nOur GAAP tax rate for the second quarter was 22.1% compared to 24.5% in the prior year period. Year-to-date, our GAAP tax rate is 19.2% compared to 25% in the prior year period. On a GAAP basis, the share count was $43.7 million (sic) [43.7 million] for the quarter and $44.1 million (sic) [44.1 million] for the first half. Our share count for adjusted earnings per share was 48.5 million for the quarter and 49 million for the first half. Focusing on noncompensation costs. We continued to generate significant operating leverage in part due to lower noncompensation expense. Firmwide noncompensation costs per employee were approximately $39,000 for the second quarter, down 8% on a year-over-year basis. This level of noncompensation costs per employee contrasts to our 3-year quarterly average measured from 2017 to 2019 of approximately $47,000 per employee. Not surprisingly, the decrease in costs per employee versus last year primarily reflects lower travel expense.\nAs we look ahead, we expect expenses on a per head basis to begin to increase as we continue to evolve toward more normal operations, including returning to our offices, traveling to engage an in-person dialogue and meetings with our clients and recruiting and onboarding senior talent, which we expect in the second half of the year. We do expect, however, some cost efficiency as we move forward as we utilize the technologies that enabled us to work so effectively over the past 16 months. Looking at our balance sheet. As of June 30, we held $1.5 billion in cash and cash equivalents and investment securities, up from the prior quarter as our balance sheet grows throughout the year, as we accrue for compensation obligations that will be paid in the first quarter of next year.\nAs we have said before, we hold cash and investment securities to fund our obligations and commitments. Cash and investment securities at the end of the quarter support the minimum level of capital required to operate our businesses, including regulatory capital requirements, accrued comp that is both on the balance sheet and committed but not yet expensed and, of course, earnings that were earned in the second quarter that have not yet been returned to shareholders. Finally, in closing for me and before we turn to questions, as Ralph noted and most of you know, this is my final earnings call with Evercore.\nThe past 14 years as the CFO of Evercore have been an exciting and challenging journey. I'd like to thank the analysts and investors who are on the call and all of those that proceed you for your engagement and lively discussion over the years. There have been several lively ones. We have built a strong team over the years, a team that makes these calls easy for John, Ralph and me and a team that I have been privileged to work with and to lead. Our leadership, as are our analysts and investors, remain in very capable hands. With that, operator, can we open the line for questions?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question is from the line of Devin Ryan with JMP Securities."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Great. Thanks. Good morning Ralph, Bob. First off, I just want to say, Bob, it's been an absolute pleasure. Best wishes and just want to let you know you're one of the best. So best wishes in the future here. Maybe just to start for everyone, as you think about the addressable market overall, Evercore hasn't been historically thought of as a middle market-focused firm, though clearly, Evercore is active in the middle markets. And so I'm just curious, as you expand your sponsor connectivity and think about white space, how much more is there to do in the middle markets? And how much more of an opportunity maybe is that relative to what you guys have been doing there?"
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "A lot is the answer."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "Yes. I think that we -- the middle market is a huge market, as you know. And we believe that there is a great deal of room for us to continue to focus, both in terms of covering emerging middle market companies that are growing and in important spaces that we cover as well as talking to sponsors who have portfolio companies in the middle market and to buy and sell for them. And so as we look at that opportunity, we think it is almost limitless. And the only thing limiting us is the bandwidth of our talented bankers who are all, at this point, quite busy. But we think there's a lot of open ground for us and a lot of white space to cover there."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Yes. Devin, the vast majority of M&A transactions are $1 billion and below, and we're no different from any other firm in that regard. Historically, our median transaction size has been in the $600 million to $700 million. I don't know what it's been in the last 12 months. But I'm virtually certain it's in that ZIP Code. And so we've been very active there. But as you point out, it's a vast market. And so there's certainly lots of opportunity there for us to grow."
+    },
+    {
+      "speaker": "Devin Ryan",
+      "speech": "Okay. Great. Thank you. Just a follow-up here on some of the commentary on recruiting and competition and compensation. I appreciate that you're having an active recruiting year, and so it sounds like there's still quite a bit of momentum in conversations. But just curious whether, I guess, the competition and maybe increased compensation that you're seeing in the market, is that just kind of where we are in the cycle? We've seen this before? Or is there anything more structural that you think maybe pushing that higher and so, therefore, some of this may stick more than historically it does when you get into a hot market and then things cool off and then you see a reversion there? I'm just curious how you guys are thinking about seeing in the market right now."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "I think it's cyclical, but sort of cyclical, a little bit enhanced by what's happened in the last 18 months. So if you think about the last 18 months, COVID hit. Everybody went from focusing on completing their backlog to helping clients with liquidity, raising capital and focused on their own liquidity. And so my guess would be certainly true here at Evercore, if you look at the amount of lateral hiring that was done in the first nine months of 2020 and probably all of 2020 in firms generally, it was below what it had been in probably many prior years.\nSo you have this phenomenon where the -- there was relatively low incremental hiring in most of 2020, and then the market came roaring back. So that's the enhancement. And I think we're working through that. The level of activity is very high. Everybody is short staffed. Every firm that's doing well is extremely short staffed. And so that creates, I think, a little bit more comp pressure than you might have in a normal up-cycle."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "I completely agree with that. And I also think that the fact that there are so many deals out there and so much activity that has built and is building right now just puts tremendous pressure. And all of the firms, including us, are looking at our people and, number one, defending the high-quality people we have. But on the other hand, we are looking out and seeing if there are some special people on the market. In terms of the comp expense, it's -- I think it's going to be like it's been in the past, which is we're going to have a very strong period where the activity is very high. And then there will become a period where activity level gets lower and we cycle down. And when you cycle down, what happens is earnings get compromised at some of the firms and then the firms need to actually find some margin in their comp cycle with -- and that's how it cycles back down. And I don't think that this is going to be totally a secular change. I think it will continue to be sensitive to the merger cycle."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "But Devin, we see absolutely no evidence of cycling down at this point."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line of Jeff Harte with Piper Sandler."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Good morning guys. Congrats on yet another strong quarter. You talked about absolutely no evidence of things cycling down and strong backlogs. Admittedly backlogs are limited, but how does the backlog look sequentially versus last quarter after a quarter where a lot of stuff closed? Is it kind of still moving in the right direction or treading water?"
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "It continues to be strong. And we -- the activity level is, as it has been, very robust. We think that it's -- there's no reason to believe that things are going to weaken at all. We just feel like the backlogs are continuing to be at a very strong and robust level."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Okay. And as we think about productivity, I mean, we're kind of used to focusing our revenues per SMD. But if the kind of support structure grows, how much more important does revenue for employee become, market that would make less important revenue per SMD as kind of the franchise expands and you kind of build out some of the subsectors?"
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "Jeff, we watch both carefully. As you point out, in dialogue with investors, revenue per SMD tends to get more attention. But sort of linking back to your comment on comp, revenue per employee is equally as important. It is reflective of the product that statistic is reflective of the productivity that were seeing for SMDs."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Okay. Bob, I know you're going to miss me asking this every quarter, but were there any revenue pull forwards from 3Q into 2Q?"
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "Yes. Did you want to know the number?"
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "I would please."
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "You wanted the number too, Jeff, $56 million."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Okay. And finally, just a cleanup for me. I missed the stated noncomp per employee. Can you either repeat that or maybe give us the employee number?"
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "So the employee number is a little dirty, meaning always at the end of the second quarter, it's 1,900. But at the end of the second quarter, you have sort of analysts cycling out, analysts cycling in, etc. So at 1,900, that's the number, Jeff, but it's -- honestly don't think of that step-up of 100 as a run rate or a trend. For the quarter, noncomp per employee was $39,000."
+    },
+    {
+      "speaker": "Jeff Harte",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line of Jim Mitchell with Seaport Research."
+    },
+    {
+      "speaker": "Jim Mitchell",
+      "speech": "Good morning. Maybe, Ralph, you noted at the beginning of your comments that you feel like we're in the early stages of the next M&A cycle, but at the same time we've had three quarters in a row of record levels. It's a little unusual for a cycle to start off so strong. So how do we think about that start to a cycle? How do you feel confident about the growth continuing? And I guess where do you see that growth coming from current levels?"
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Well, I think there are two things you have to focus on when you're looking at the prospects for Evercore's growth. One is, which was the focus of your question, which is the aggregate level of activity. It's high. No question about it. And if you look back historically, M&A is a cyclical business. It tends to be characterized by 5- to 8-year up-cycles and 2- to 3-year down-cycles. In those 5- to 8-year up-cycles, it's not an absolute straight line. Things bounce up and down, but they are generally strong or strengthening M&A activity. M&A activity is clearly strong right now.\nA couple -- two or three quarters ago, I commented that the down-cycle that we had may have been just six months -- six to nine months because of the unprecedented amount of monetary and fiscal stimulus. So we're clearly in a period of strong activity and recovery. And as John commented in his answer to one of the questions, at some point, we know that period of strong activity and growth in the market will abet. But as I commented, you can come up with lots of things that could cause that to happen, but there's absolutely no evidence of that today.\nAnd as a result, I also said that this high level of activity is adding yet again to our already strong backlogs. The second thing, though, that affects Evercore's growth rate is our market share. And the entire period from 2009 to 2021, on a trailing 12-month basis, almost every quarter, Evercore has gained market share in terms of advisory revenues. And quite honestly, we don't see that abetting regardless of what happens to the overall level of activity. Harder to gain market share with the size that we are now, but we still continue to do that."
+    },
+    {
+      "speaker": "Jim Mitchell",
+      "speech": "No, that's all fair. And so I mean I agree, M&A tends to build throughout the cycle, not peak at the beginning. So it's why it's so unusual. But maybe just last for me on non-U.S. seems to have lagged. Non-U.S. activity, whether it's Europe or the rest of the world, is that a source of sort of catch up over the next one year or two in your view?"
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Well, we don't know. I mean if you go back 10, 15 years ago, North America was a smaller proportion of global M&A activity than it has been for the last few years. If that keeps happening, maybe there is a fundamental difference in the level of activity in North America versus the rest of the world compared to history. It certainly -- if you look at the last few years, it would certainly suggest that."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "The only thing I would add is that clearly, the U.S. market and maybe to an extent, China, have led the way in terms of economic recovery. U.S. obviously has had a robust recovery and continuing. And clearly, the European markets have been slower because COVID has held on longer there, even though COVID is reemerging everywhere at this point. But we fully expect that there will be recovery in Europe as those economies begin to get going again, and we fully expect that they will. And so we think that there will be a strengthening over in Europe. And I think that the U.S. will continue as long as the economy does not dissipate and that there continues to be strength. So it's -- in many respects, it's that the market -- it's the pace of market recovery market-by-market."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Okay great. Thanks, for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line of Richard Ramsden with Goldman Sachs."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Good morning guys. So I had a couple of questions. The first is on the financial sponsor side. I think activity is up something like 25% quarter-on-quarter, and it does seem to be outpacing the increase in strategic M&A pretty significantly. Can you talk a little bit about the dialogue with financial sponsors and specifically talk about the pipeline for your financial sponsor business heading into the second half and whether or not you think this type of activity can be sustained?"
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "Sure. Thanks, Richard. Our competitive -- our sponsor business is quite robust right now. We are participating both on the buy side and the sell side and have been very, very involved with some of the strategic portfolio management of sponsors. We are seeing that activity growing dramatically. And frankly, one of the things that we are focused on, I think you heard in our discussion on recruiting, is to add capability and people into our coverage of sponsors, and that continues to grow. As you know, we have a very robust and broad sponsor coverage business. We get involved both on the limited partner basis in terms of thinking about how to help sell and do their interest and also -- we also get involved in thinking through for GPs things like how to drive continuity funds and also how to help them to think about if they ever sell a partial interest.\nSo we have a very, very broad coverage of sponsors. On the pure banking side, our activity level with sponsors just continues to grow. Therein lies why we're adding some people because we really need to continue to be able to service those big sponsors as well as middle market sponsors and the activity levels. Our industry groups continue to cover the sectors extremely well. And therefore, our ability to get business from those sponsors in the places where they have portfolio companies or an interest to acquire those companies has been quite successful. So I think, in general, we're sharing in that the increase in the activity levels of sponsors, and we plan to continue to be able to service that very, very important sector."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Okay. That's helpful. And then secondly, on the strategic M&A side, President Biden recently signed an executive order where I think he referenced this excessive market concentration in some industries, and he talks about promoting more competition. I know it's very early, but can you talk a little bit about the impact you think this could have, especially on larger U.S. transactions and if you think this elevates the risk of deals not closing? Thanks a lot."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Yes. I would say that we clearly, in the Biden administration, have an administration that has verbally and, I would say, through its appointments, expressed a greater scrutiny of transactions than has occurred in the past, on the one hand. On the other hand, the number of transactions that will be affected by that, and I go back to the comment we made earlier that our median transaction is clearly sub-$1 billion. I haven't gone back and we haven't gone back and analyzed over the last five years, if you wanted to take a stronger magnifying glass to transactions that have been consummated from an antitrust perspective, what proportion of those would have been affected.\nBut my guess is you could count that on one or two fingers in terms of percentage-wise of all transactions and quite possibly less than that. And obviously, there will be some large transactions. There was one this week, the Aon-Willis transaction. And if a large transaction is contested or -- by the government, the participants have two options. They can abandon the transaction, as did happen in the case of Aon-Willis or they can go to court, as happened in the case of AT&T Time Warner. And so the law is what ultimately governs whether that antitrust enforcement increase can actually have an effect on the markets. So because of the law and the court system, I suspect that the Biden administration will use that -- their powers judiciously because no one likes to lose in court. And at the same time, they clearly will be more -- there will be more scrutiny than there would have been in previous administrations. So it's a cirrus cloud, not a thunder cloud."
+    },
+    {
+      "speaker": "Richard Ramsden",
+      "speech": "Okay good. Thats very helpful. Thanks a lot."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line of Brennan Hawken with UBS."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Hi, Good morning. Thanks for taking my questions. There were a couple of comments around the competitive market for talent. Clearly, it's more expensive to recruit. You're running -- you're going to be running above your typical four to eight SMD adds. So is this all a way to signal that we should be rethinking the comp ratio this year? And based on -- I understood it's the middle of the year. You don't have visibility into the comp pool in the middle of the year. But based on what we're seeing right now, it sounds like there's more likely to be some upward pressure there than not. Is that fair and what comments can you add at this point?"
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "I think we -- and Bob should answer this. But every quarter, what we put in as our comp ratio is our best judgment of where we think we'll wind up for the full year. So it never has a particular bias upward or downward. And obviously, the things that affect the full year comp ratio are full year revenues, full year -- the level of compensation for each person and the number -- the amount of new hiring that we do. I think we don't have -- we have no information on what full year compensation will be from a competitive point of view. We have half of the information as to what full year revenues will be and some visibility to the rest of the year. And we have not full visibility on the number of hires or the seniority of those hires. So -- but I would not, in any way, presume that there is a more -- a greater risk of upward bias in the comp ratio. Bob, do you want to add anything?"
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "Nothing more from me."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Okay. And then, Bob, you made reference to the non-comp number and the -- I wasn't sure what the dirty comment around the employees exactly means, but..."
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "It will be lower at the end of the third quarter, Brennan. Sorry, I wasn't clear."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "All good. So is the primary factor of the noncomp upward bias and noncomp increasing T&E? As that starts to normalize, do you have any visibility into what kind of quantum return to normal T&E we should be counting on? And/or are there other factors that might be leading into the noncomp upward pressure?"
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "I think there's -- look, I think looking at the second half of the year on noncomps, travel and the costs associated with adding talent are the big drivers of a different result in the first half of the year. Net-net, both of those are high-quality reasons to increase cost. What the quantum will be in the second half will be very much COVID dependent. How active are our clients going to want to be in in-person meetings? I'm not smart enough to guess how that will play out in the second half of the year.\nWe wanted to highlight an average to get a better sense of normal cost per employee. The idea that we would slingshot back to 2019 levels seemed to be overshooting what that number should look like. So the average -- I wouldn't -- we don't give guidance. I wouldn't try to say what it will be in the second half of the year, Brennan, but that's the direction we would expect it to move toward."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Yes. Okay. That's fair. And I guess the sort of little last, just a follow-up, actually. Ralph, you were talking about the median transactions being $1 billion. I know there's a bunch of different ways to run the numbers, but did you by chance take a look at what the median transaction would be like if you revenue weighted it and what that would be? I would suspect it'd be higher, but would it be materially or is it in the same ballpark?"
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Bob, I don't know the answer for that."
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "Well, Brennan, there's a number that we always produce, which is the number of fees of $1 million or greater and sort of looking at how that performs over time. And the important statistic is how many transactions are there. So it's in the earnings release for the first half of the year. There were 218 fees of $1 million or greater. That compares with 150 for the first half of last year. Roger reminded me once that, yes, it is that simple. Serve more clients to -- and earn meaningful fees."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Yes. And there is a -- there is some correlation, but it's a pretty loose one between the size of the transaction and the size of the fee. And what you would tend to see is that the largest fees are very often earned on transactions that are sell sides that aren't the largest transactions but have achieved an unexpectedly high outcome. And clients pay for that."
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "And the good news is that we are now large enough that, in fact, averaging makes these numbers a little less volatile and a little more relevant."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "And I would say that one thing that is happening with us is we do have an increased focus on larger companies and larger transactions, and that will impact our results over time."
+    },
+    {
+      "speaker": "Brennan Hawken",
+      "speech": "Awesome. Thats all very very interesting. And of course, Bob, congratulations on your retirement. And Celeste, congratulations on joining. Looking forward to working with you again."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line of Manan Gosalia with Morgan Stanley."
+    },
+    {
+      "speaker": "Manan Gosalia",
+      "speech": "Hi, Good morning. Maybe just a follow-up to the last question. When I look at the fee rate over the last few quarters, whether it's revenues per deal or even as a percentage of volume, it does look like that's up nicely for a few quarters. How much of that do you think is from the environment and the fact that we have more large deals now or maybe some of that is from actions that you're actively taking? So I was wondering if you can comment on that. Basically, I'm just wondering how sustainable you think that is over time."
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "Look, I think, Manan, on any given quarter, any given short period of time, a very large transaction recognized in that quarter can push that average around. So as always is the case with us, looking at trends over a long period of time is more meaningful. It has gone up. It -- there are so many factors that drive that. John's focus on -- really focusing on big, important relationships and sustainable relationships with clients is key.\nOn the other hand, the work we did at the end of 2019, sort of, exiting markets where productivity simply could not meet our objectives and really being focused on the kind of business we're doing or not doing is equally important. So it is going up over time. It is something that if we are performing effectively, focusing on the right opportunities and equally not focusing on sort of unproductive markets, we should be able to drive that result over time. I'd just encourage you to be more focused on longer measures trailing 12 months than any given quarter."
+    },
+    {
+      "speaker": "Manan Gosalia",
+      "speech": "Great. That's helpful. And then maybe if I can just pivot over to your capital return. You've done about $400 million or so in buybacks over the last two quarters, and that's certainly higher than what we've seen from you in the past. Can you just run through how you're thinking about buybacks? Are you looking to continue to return capital through buybacks at a steady pace as the earnings come through? Or would you look to keep a little bit of cash and liquidity in your back pocket and maybe be a little bit more opportunistic if the market turns?"
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "Well, I'm thrilled to have someone suggest that we could hold even a little more cash, but I don't get many fans of that. Look, it -- we're back to a place that we had been and that we're very comfortable with, which is will -- the Board will look at our dividend annually. And that will be in the first quarter of the year. The rest of free cash earnings will be returned through buybacks, which you've seen in the first half of the year, has been strong.\nThat's quite simply a function of two things. One, in 2020, as we discussed, we really took the opportunity to strengthen the balance sheet. I'm loathe to use the word fortress. Maybe it's a little tiny outlying fortress somewhere, but it's a pretty strong balance sheet, and it's a very strong balance sheet for us. So we don't need to tie the way even more liquidity. We're in a position to return it to investors as we have done. So when we have strong earnings, you can anticipate dividends and buybacks."
+    },
+    {
+      "speaker": "Manan Gosalia",
+      "speech": "Okay. Great. And then I just want to add to the chorus. Bob, thank you for everything, and good luck with retirement. And Celeste, welcome, and we look forward to an active dialogue."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question is from the line of Michael Brown with KBW."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "Great. Thank you for taking my question. Just on restructuring, I think in your prepared remarks, you just briefly touched on it. And clearly, the signings are down on a year-over-year basis. I guess I was just curious how that activity has trended since last quarter. Is it relatively kind of in line with expectations or are you kind of seeing opportunities for maybe a bit of a pickup in mandates here? Thank you."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "I think more just kind of steady state bumping along. It's awful hard for mandates to pick up when you have extraordinarily low interest rates, unlimited liquidity and very receptive equity markets, so that if companies can't borrow money, they can reequitize themselves. So the restructuring environment -- it's certainly not dormant, but there's some carryover activity from last year and there is a reasonably meaningful amount of activity and sort of liability management, debt recapitalization, taking advantage of the very liquid markets today. So they're busy, but they're certainly not as busy as they were thankfully last July, August, September."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "One of the important things that are -- a good restructuring business does and we think we have a really excellent restructuring business is they build relationships so that when the market gets busy with respect to restructuring expertise that we have access, both in terms of portfolio companies and sponsors as well as other more leveraged organizations. And that's one of the most important things that we're doing right now, which is continuing to build relationships and access to those important accounts.\nClearly, because our group is known to be financial experts, there is a lot of dialogue going on in terms of getting advice on certain aspects of liability and capital structures. And we think that, that will all, over time, play out in terms of more business for the restructuring business going forward. Right now, there isn't any sector that is really in trouble. Even the energy sector, which has been a big sector for us, has been strengthening as prices for oil and energy have stabilized and started to go up. So right now, some of the big things that would be driving the business aren't there, but we still have a high activity level. It's just very different."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "I would add just one other thing, and that is there are two reasons that we don't provide a huge amount of granular detail on our advisory base. One is that they're not easily characterized. So when you talk about restructuring, it's not like there's a bucket of advisory revenues that fall clearly in the restructuring area and a bucket that fall clearly in other areas. So the characterization is not easy. It's kind of a black to gray to white and where do you put the gray is not easy. The second thing is -- and we talked about this a fair amount last year when M&A was basically on hold.\nWe have a broader array of ways to help clients or a broader array of advisory capabilities in this firm than any other firm has. And in our previous calls, we've gone down the list of them. And what that allows us to do is to advise clients on a broader array of things. And as a consequence, we're more of an all-weather firm than I think our investors and perhaps even our analysts appreciate. So focusing on one place or another, in our view, tends to be a little less relevant."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "Yes. That's all great points. And then just on hiring. Last quarter, you guys were confident in the ability to hire four to eight SMDs, confident that you'll be able to come in, in that range. This quarter, you reiterated that, and it sounds like you actually could see it come in a little bit better. So you sounded maybe even a little more confident. If I dive into that a little bit, is it just that you just have a couple of hires in the bag now so you can feel a little bit more confident? Is that where that comes from? Or have you actually seen like a pickup in interest or conversations kind of accelerating at maybe a pace that you weren't seeing last quarter? Just trying to understand the nuance between this quarter and last quarter."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "I think what we said was that we could very well be within four to 8, although we could be above it. There is clearly a focus from our side as we always have to be looking at the market and seeing whether there is A+ talent out there that would be able to fit into what we're trying to accomplish. And I think right now, we see some interesting opportunities, and we're in dialogue with those opportunities, those people. And really, it's as simple as that. I think we're not going to overstretch.\nWe're not going to basically hire where we don't think we have the A+ talent. In many respects, our recruiting is all about making sure that we keep the quality levels of the organization up, respect our model, so that we bring in people who can actually address the places that we think are interesting opportunities and to stay disciplined on that. And I think that really is what we're trying to do in this environment. And I think that we'll see, but we do have some very strong people who have agreed to come. And we think that we are in several dialogues, and we'll see where those play out."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "And we said in the press release, and John repeated in his remarks, that we have two people who are already -- two SMDs in advisory who have already joined. We have three who have resigned from their current firms and have committed to come here but are on garden leave. And our suspicion is that when we sit here three months from now that will be -- that, that list of five who have joined or committed will be at or above the upper end of the range."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "And just to be clear. We're always looking for A+ talent. And so when it's available, we will be looking to bring those people in, provided they address places that we think are interesting markets and sectors."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "And I guess just one quick clarification. Did you provide the current SMD headcount?"
+    },
+    {
+      "speaker": "Robert Walsh",
+      "speech": "109. The advisory SMDs is 109."
+    },
+    {
+      "speaker": "Michael Brown",
+      "speech": "Great. Thank you Bob, congrats and best of luck in retirement."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "There appears to be no further questions at this time. I would now like to turn the floor to Ralph Schlosstein and John Weinberg for any closing comments."
+    },
+    {
+      "speaker": "Ralph Schlosstein",
+      "speech": "Okay. Let me just make a couple of conclusionary remarks and also point out that when you said there were no more questions, Bob raised his hand in victory. This is actually the 49th quarterly earnings call that Bob and I have done together, which must be some kind of record. And the 19th that John, Bob and I have done together. Over that 12-year period of time, our revenues have grown almost 15-fold and our earnings even more than that. We've grown together as the firm has grown, and Bob has been a stunningly effective and professional partner in all that has been accomplished here at Evercore over his 14 years here.\nThroughout that entire period, he's been the consummate professional, operated with the highest integrity and developed and mentored a finance technology facilities and Investor Relations team that has facilitated all of that growth without exposing the firm to operating risk. I couldn't imagine having a better partner during those 12 years, and I want everyone on this call to know that he'll be missed as a partner and a trusted friend. So we'll miss you.\nAll right. And thanks, everyone, for joining us. Thanks to our team, who've done a brilliant job serving our clients, and we look forward to being with you in October."
+    },
+    {
+      "speaker": "Hallie Elsner Miller",
+      "speech": "If you have any questions throughout the day, feel free to reach out to Investor Relations. We'll be here. Thank you."
+    },
+    {
+      "speaker": "John S. Weinberg",
+      "speech": "Thank you. Great."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 75 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Hallie Elsner Miller--Head of Investor Relation",
+    "Ralph Schlosstein--Co-Chairman of the Board of Directors and Co-Chief Executive Officer",
+    "John S. Weinberg--Co-Chairman of the Board of Directors and Co-Chief Executive Officer",
+    "Robert Walsh--Senior Managing Director and Chief Financial Officer",
+    "Devin Ryan--JMP Securities -- Analyst",
+    "Jeff Harte--Piper Sandler -- Analyst",
+    "Jim Mitchell--Seaport Research -- Analyst",
+    "Richard Ramsden--Goldman Sachs -- Analyst",
+    "Brennan Hawken--UBS -- Analyst",
+    "Manan Gosalia--Morgan Stanley -- Analyst",
+    "Michael Brown--KBW -- Analyst"
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "[Technical Issues] Certain statements in today's call will constitute forward-looking statements, which are subject to risks, uncertainties and contingencies. HEICO's actual results may differ materially from those expressed in or implied by those forward-looking statements as a result of factors, including, the severity, magnitude and duration of the COVID-19 pandemic; HEICO's liquidity and amount of timing of cash generation; lower commercial air travel caused by the COVID-19 pandemic and its aftermath; airline fleet changes or airline purchasing decisions, which could cause lower demand for our goods and services; product specification costs and requirements, which could cause an increase to our costs to complete contracts, governmental and regulatory demands; export policies and restrictions; reductions in defense, space or homeland security spending by US and/or foreign customers or competition from existing and new competitors, which could reduce our sales; our ability to introduce new products and services at profitable pricing levels, which could reduce our sales or sales growth; product development or manufacturing difficulties, which could increase our product development and manufacturing costs and delay sales; our ability to make acquisitions and achieve operating synergies from acquired businesses; customer credit risk, interest, foreign currency exchange and income tax rates; economic conditions within and outside of the aviation, defense, space, medical, telecommunications and electronics industries, which could negatively impact our costs and revenues; and defense spending or budget cuts, which could reduce our defense-related revenue.\nParties listening to this call are encouraged to review all of HEICO's filings with the Securities and Exchange Commission, including, but not limited to filings on Form 10-K, Form 10-Q and Form 8-K. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except to the extent required by applicable law."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Okay. Well, thank you, and good morning to everyone on the call. We thank you for joining us. We welcome you to the HEICO second quarter fiscal '21 earnings announcement teleconference. I'm Larry Mendelson, Chairman and CEO of HEICO Corporation. And I'm joined here this morning by Eric Mendelson, HEICO's Co-President and President of HEICO's Flight Support Group; Victor Mendelson, HEICO's Co-President and President of HEICO's Electronic Technologies Group; and Carlos Macau, our Executive Vice President and CFO.\nBefore beginning my review of the operating results, I would like to take a moment and thank all of HEICO's talented team members for their loyalty and high performance during the continuing challenges brought on by COVID-19. The dedication to HEICO's customers and to the safety of their fellow team members has been commendable. And I want to thank every member of HEICO's worldwide team to be proud of what we've accomplished during these unusual circumstances, and to recognize that our future is very bright and we will exit this COVID-19 period a stronger and more competitive company.\nI'd now like to take a few moments to address the impact of COVID-19 on HEICO's recent operating results. Results of operations in the first six months and the second quarter of fiscal '21 continue to reflect the adverse impact from COVID-19. Most notably, demand for our commercial aviation products and services continues to be moderated by the ongoing depressed commercial aerospace market which, we know, is beginning to rebound and return to normal. Looking ahead to the remainder of fiscal '21, we are cautiously optimistic that the ongoing worldwide rollout of COVID-19 vaccines will have and, in fact, is having a positive influence on commercial air travel and will generate more favorable economic environments in the markets that we serve.\nSummarizing the highlights of the first six months and second quarter of fiscal '21, we are pleased to report record quarterly net sales within the ETG Group, and our third consecutive sequential increase in quarterly net sales and operating income of the Flight Support Group. The ETG Group set a quarterly net sales and operating income record in the second quarter of fiscal '21, improving 11% and 9%, respectively. These increases, principally reflect the impact from our profitable fiscal '20 and '21 acquisitions, as well as very strong organic growth of 19% for our other electronic products. The Flight Support Group reported sequential growth in operating income and net sales in the second quarter of fiscal '21, and they improved 37% and 16% respectively, as compared to the first for fiscal '21.\nOur total debt to shareholders' equity reduced and improved to 27.1% as of April 30, '21 and that compared to 36.8% as of October 31, '20. Our net debt, which is total debt less cash and cash equivalents, of $199 million as of April 30, '21 compared to shareholders' equity ratio improved to 9.2% as of April 30, '21 and that was down from 16.6% as of October 31, '20. And this provides HEICO with substantial acquisition capital in the balance of our $1.5 billion unsecured revolving credit facility as well as other available capital. We are not a capital constrained company. Our net debt to EBITDA ratio improved to 0.47 times as of April 30, '21, down from 0.71 times as of October 31, '20.\nDuring fiscal '21, we successfully completed one acquisition, and we completed -- we have completed five acquisitions over the past year. We have no significant debt maturities until fiscal '24, and we plan to utilize our financial strength and flexibility to aggressively pursue high-quality acquisitions of various sizes, which will accelerate growth and maximize shareholder returns.\nCash flow provided by operating activities remained strong, increasing 2% to $210.1 million in the first six months of fiscal '21 and that was up from $205.9 million in the first six months of fiscal '20.\nIn March '21, we acquired all of the business assets and certain liabilities of Pyramid Semiconductor. Pyramid is a specialty semiconductor designer and manufacturer, which offers a well-developed line of processors, static random-access memory, electronically erasable programmable read-only memory and logic products on a diverse array of military, space and medical platforms. We do expect this acquisition to be accretive to earnings within the first 12 months following the closing.\nAt this time, I'd like to introduce Eric Mendelson, Co-President of HEICO and President of HEICO's Flight Support Group, and he will discuss the results of the Flight Support Group."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Thank you. The Flight Support Group's net sales were $429.6 million in the first six months of fiscal '21, as compared to $553 million in the first six months of fiscal '20. The Flight Support Group's net sales were $230.3 million in the second quarter of fiscal '21, as compared to $252 million in the second quarter of fiscal '20. The net sales decrease in the first six months and second quarter of fiscal '21 is principally organic, and reflects lower demand for the majority of our commercial aerospace products and services resulting from the significant decline in global commercial air travel attributable to the pandemic.\nThe Flight Support Group's operating income was $61.3 million in the first six months of fiscal '21, as compared to $109.6 million in the first six months of fiscal '20. The operating income decrease in the first six months of fiscal '21 principally reflects the previously mentioned lower net sales, as well as a lower gross profit margin, higher performance-based compensation expense and the impact from lost fixed cost efficiencies stemming from the pandemic. The Flight Support Group's operating income was $35.5 million in the second quarter of fiscal '21, as compared to $47.5 million in the second quarter of fiscal '20. The operating income decrease in the second quarter of fiscal '21 principally reflects higher performance-based compensation expense, directly resulting from the strong improvement in operations during the past three consecutive quarters.\nThe Flight Support Group's operating margin was 14.3% in the first six months of fiscal '21, as compared to 19.8% in the first six months of fiscal '20. The operating margin decrease in the first six months of fiscal '21 principally reflects an increase in SG&A expenses as a percentage of net sales, mainly from the previously mentioned higher performance-based compensation expense and lost fixed cost efficiencies, and the lower gross profit margin. The Flight Support Group's operating margin was 15.4% in the second quarter of fiscal '21, as compared to 18.9% in the second quarter of fiscal '20. The operating margin decrease in the second quarter of fiscal '21 principally reflects the previously mentioned higher performance-based compensation expense.\nNow I would like to introduce Victor Mendelson, Co-President of HEICO and President of HEICO's Electronic Technologies Group to discuss the results of the Electronic Technologies Group."
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "Thank you, Eric. The Electronic Technologies Group's net sales increased 9% to a record $466.6 million in the first six months of fiscal '21, up from $427.4 million in the first six months of fiscal '20. The net sales increase in the first six months of fiscal '21 principally reflects our fiscal '20 and '21 acquisitions as well as organic growth of 1%. The organic growth principally reflects increased demand for other electronic and space products, partially offset by demand for commercial aerospace products. The Electronic Technologies Group's net sales increased 11% to a record $243.1 million in the fiscal second quarter of '21, up from $219 million in the second quarter of fiscal '20. The net sales increase in the second quarter of fiscal '21 principally resulted from our fiscal '20 and '21 acquisitions, as well as organic growth of 3%. The organic growth principally reflects increased demand for our other electronic and defense products, partially offset by decreased demand for commercial aerospace products.\nThe Electronic Technologies Group's operating income increased 7% to a record $131.4 million in the first six months of fiscal '21, up from $123 million in the first six months of fiscal '20. The operating income increase in the first six months of fiscal '21 principally reflects the previously mentioned net sales growth, partially offset by a lower gross profit margin mainly from lower net sales of defense and commercial aerospace products that were partially offset by an increase in net sales of certain other electronic products. The Electronic Technologies Group's operating income increased 9% to $71.3 million in the second quarter of fiscal '21, as compared to $65.5 million in the second quarter of fiscal 2020. The operating income increase in the second quarter of fiscal '21 principally reflects the previously mentioned net sales growth, partially offset by a lower gross profit margin mainly from a less favorable product mix for our defense products, as well as a decrease in net sales of commercial aerospace products that were partially offset by a net increase in sales of certain other electronic products.\nThe Electronic Technologies Group's operating margin was 28.2% in the first six months of fiscal '21, as compared to 28.8% in the first six months of fiscal '20. The Electronic Technologies Group's operating margin was 29.3% in the second quarter of fiscal '21, as compared to 29.9% in the second quarter of fiscal '20. The operating margin decrease in the first six months and second quarter of fiscal '21 principally reflects the previously mentioned gross profit margin, partially offset by a decrease in SG&A expenses as a percentage of net sales mainly from efficiencies gained from the previously mentioned net sales growth.\nI'll turn the call back over to Larry Mendelson."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Thank you, Victor and, Eric. Moving on to details, the diluted earnings per share, consolidated net income per diluted share was a $1.03 in the first six months of fiscal '21, and that compared to $1.44 in the first six months of fiscal '20. The decrease in the first six months of fiscal '21 principally reflects the previously mentioned lower operating income of Flight Support and higher income tax expense, and that was partially offset by the previously mentioned higher operating income of the ETG Group and lower interest expense. Consolidated net income per diluted share was $0.51 in the second quarter of fiscal '21, as compared to $0.55 in the second quarter of fiscal '20. The decrease in second quarter fiscal '21 principally reflects the previously mentioned lower operating income of Flight Support, partially offset by lower income tax expense as well as higher operating income of the ETG Group and lower interest expense.\nDepreciation and amortization expense totaled $22.9 million in the second quarter of fiscal '21, that was up from $21.7 million in the second quarter of fiscal '20, and totaled $45.9 million in the first six months of fiscal '21, up from $43.3 million in the first six months of fiscal '20. The decrease in the second quarter and first six months of fiscal '21 principally reflects incremental impact from the fiscal '20 and '21 acquisitions.\nR&D expense increased to $34.2 million or 3.9% of net sales in the first six months of fiscal '21, and that was up from $33.1 million [Phonetic] or 3.5% of net sales for the first six months of fiscal '20. R&D expense increased to $18 million or 3.9% of net sales in the second quarter of fiscal '21, and that was up from $16.8 million or 3.6% of net sales, second quarter fiscal '20. We note that significant ongoing new product development efforts are continuing at both ETG and Flight Support.\nOur consolidated SG&A expense were $161.2 million in the first six months of fiscal '21, as compared to $157.8 million in the first six months of fiscal '20. Consolidated SG&A expenses were $83 million in the second quarter of fiscal '21, and that compared to $70.7 million in the second quarter of fiscal '20. The increase in consolidated SG&A expense in the first six months and second quarter of fiscal '21 principally reflects higher performance-based compensation expense and the impact from our fiscal '20 and '21 acquisitions, partially offset by reductions in other G&A expenses and selling expenses.\nConsolidated SG&A expenses as a percentage of net sales increased to 18.2% in the first six months of '21, up from 16.2% in the first six months of fiscal '20. Consolidated SG&A expense as a percentage of net sales increased to $17.8 million [Phonetic] in the second quarter of fiscal '21, and that was up from 15.1% in the second quarter of '20. The increase in consolidated SG&A expense as a percentage of net sales in the first six months and the second quarter of fiscal '21 principally reflects higher performance-based compensation expense.\nInterest expense decreased to $4.5 million in the first six months of fiscal '21, down from $8 million in the first six months of fiscal '20. Interest expense decreased to $2.1 million in the second quarter of fiscal '21, and that was down from $3.8 million in the second quarter of fiscal '20. The decrease in the first six months and second quarter of fiscal '21 was principally due to a lower weighted average interest rate on borrowings outstanding under our revolving credit facility. Other income in the first six months and second quarter was not significant.\nTalking about income taxes. Our effective rate in the first six months of fiscal '21 was 12%, as compared to 0.3% in the first six months of fiscal '20. As previously mentioned, HEICO recognized a discrete tax benefit from stock option exercises in both the first quarter of fiscal '21 and '20, and that accounted for the majority of the decrease in the year-to-date effective tax rate. The tax benefit from stock option exercises in both periods was the result of strong appreciation in HEICO's stock price during the optionees' holding period, and the larger benefit recognized in the first quarter of fiscal '20 was the result of more stock options exercised in that period.\nOur effective tax rate decreased to 19.5% in the second quarter of '21 -- fiscal '21, and that was down from 22.6% in the second quarter of fiscal '20. The decrease principally reflects the favorable impact of higher tax exempt unrealized gains in the cash surrender values of life insurance policies related to the HEICO Leadership Compensation Plan.\nNet income attributable to non-controlling interest was $11.5 million in the first six months of fiscal '21, and that compared to $13.4 million in the first six months of fiscal '20. The decrease in net income attributable to non-controlling interest in the first six months of fiscal '21 principally reflects a decrease in the operating results of certain subsidiaries of the Flight Support Group, in which non-controlling interest are held, and that was partially offset by higher allocations of net income to non-controlling interest as a result of certain fiscal '20 acquisitions, as well as an increase in the operating results of certain subsidiaries of the ETG Group in which non-controlling interest are held.\nNet income to non-controlling interest was $5.8 million in the second quarter of fiscal '21, as compared to $5.5 million in the second quarter of fiscal '20. For the full fiscal '21 year, we continue to estimate a combined effective tax rate and non-controlling interest rate of between 24% and 26% of pre-tax income.\nNow let's talk about the balance sheet and cash flow. One thing I want to mention that in the second quarter of fiscal '21, cash flow from operations was a 146% of reported net income. So the net income was $70.7 million and the cash flow was almost $103 million. Our financial position and forecasted cash flow remain very strong. As we discussed earlier, cash flow provided by operating activities increased 2% to $210.1 million in the first six months of fiscal '21, and that was up slightly from $205.9 million in the first six months of fiscal '20. Our working capital ratio was 4.5 times, '21 as of April 30, compared to 4.8 times as of October 31, '21 [Phonetic]. Our days sales outstanding of receivables improved to 41 days as of April 30, '21, that was down slightly from 44 days as of April 30, '20. We continue to closely monitor receivable collection in order to limit our credit exposure.\nNo one customer accounted for more than 10% of net sales. Our five -- top five customers represented approximately 23% and 24% of consolidated net sales in the second quarter of fiscal '21 and '20, respectively. Inventory turnover rate was 153 days for the period ending April 30, '21 compared to 139 days for the period ended April 30, '20. The increased turnover rate principally reflects lower sales volume from the pandemic's impact on demand for certain of our commercial aerospace products and services. Despite the increased turnover rate, our subsidiaries has done an excellent job controlling inventory levels in the first six months of fiscal '21, and we believe that's appropriate to support expected future net sales as well as our increased backlog as of April 30, '21, which increased by $51 million to $895 million.\nLooking ahead, as we look ahead to the remainder of fiscal '21, we are cautiously optimistic that the ongoing worldwide rollout of COVID-19 vaccines will have a positive influence and, in fact, is having a positive influence on commercial air travel, and it will generate favorable economic environments in the markets that we serve. The pace of recovery in the global travel remains difficult to predict, and can be negatively influenced by new COVID variance and varying vaccine adoption rates. Given those uncertainties, we cannot provide fiscal '21 net sales and earnings guidance at this time. We continue to estimate capital expenditures of approximately $40 million for fiscal '21.\nWe believe that our ongoing fiscal conservative policies, strong balance sheet, high degree of liquidity, low debt enables us -- and degree of liquidity enables us to invest in new R&D development, enables us to execute on our successful acquisition program and positions HEICO for market share gains as the industry recovers.\nAgain, in closing, I would like to again thank our incredible team members for their continued support and commitment to HEICO during these professionally and personally challenging times. That strength will manifest from the culture of ownership, mutual respect for each other and the unwavering pursuit of exceeding our customers' expectations. We thank you all for everything you do to make HEICO an exceptional company. I want to remind the listeners that a very high percentage of HEICO members are HEICO shareowners through their 401(k) plans. We have many millionaires, multi-millionaires and wealthy team members who all support the operation of HEICO.\nThat's the extent of my planned remarks, and I would like to open the floor for any questions. Thank you. Operator?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question from the line of Robert Spingarn from Credit Suisse. Your line is open."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Hi. Good morning, everybody."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Good morning, Robert."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "I have a few different questions really across for all of you, but I'm going to start with, Victor. On the organic growth in the quarter, I'm wondering if you could talk a little bit about the markets where you did see positive growth, and if you could size for us, or quantify perhaps the negative growth in commercial?"
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "Yeah. Rob, thank you. These are good questions. On -- in the quarter, our strongest growth came out of our, what I would call, other electronic markets. And I think, we saw a strong rebound there, certainly, year-over-year and continuing sequentially there. And that's in line with what we expected and that was number one for us, followed by medical was our second strongest and probably for obvious reasons, right. A year ago, things were shutting down really in both of those markets going the wrong way. Then third strongest was defense for us in terms of growth. And then in space, commercial space, we gave up a little bit of ground, but that's really a result of two things. One, I think tough comps, but also we had some things shifting out of -- more of the latter shifting out of the quarter into later part of the year, and just delivery schedules that we're expecting in the later part of the year. So, I would say space -- for us commercial space should be decent overall in the year. And then commercial aviation was really the weakest for us, and that's down in the neighborhood of kind of what you would expect the kind of comparable to what we're seeing in Flight Support Group. And so -- and no surprise for us there."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. And then just on your margins, you mentioned earlier there is a little bit of gross margin pressure. I assume that's the volume shortfalls in the end markets you just cited. But at the same time, you're not far off your high margins, you're in the low -- in that 31% neighborhood. How might we think about margins once volumes recover in commercial, or is it spread some across the other business lines, it doesn't really -- it doesn't necessarily matter how much commercial comes back?"
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "Well, commercial is important to us, and that's a good margin business for us. So I think that will help us, but it is broadly spread across. And as you've heard me say before, it is also mix sensitive. And so where some of our higher-margin defense products wind up selling will influence that in the future. So I -- my guess is, as I've said before, it's very difficult for me to get too worked up on our guys on the margins if they are in, what I call, very high territory. And so if it's -- if there 50 basis points or 100 basis points, even a couple of hundred basis points frankly within what we have experienced historically within that range, then I'm generally pretty happy. And so -- but I think commercial aviation will be a benefit to us. And the question is, what gets offset in higher margin defense."
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "One thing to keep in mind, Rob, is that -- for what it's worth, the way I think about ETG margins is on normal years not focusing on quarters, we should run anywhere from 28% to 30% on GAAP margin. That is what I would expect as a business. To Victor's point, it's going to flux up, down all over the place on a quarterly basis, but it's a healthy segment, good mix of companies, and when commercial comes back, we're going to fall on that sweet spot relatively consistently."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Okay. All right. Thanks for that, Carlos. Eric, just switching over to FSG, question that we all ask, I think, each quarter is how the quarter trended month by month? How things are shaping up in May? And then if you could speak to your expectations around how airlines and customers will behave ahead of a strong summer -- at least domestic summer travel season? Will they want the parts beforehand or they will they want the parts after? How do we think about that?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Good morning, Rob. They're really good questions. As you can imagine, the quarter trended up as we went along in the quarter. And with the US carriers adding back capacity, we would anticipate that it will continue to trend up. Of course, Europe is very slow. Asia is a little bit mixed right now. But we'd anticipate as the airlines start operating more aircraft, they're going to need more parts. So I would say that's sort of what's expected right now. Of course, in the new build area, our specialty products area that is still -- that hasn't seen as much of a recovery. It is recovering, but of course, the new build is definitely more challenged and will take a little bit longer to respond than the aftermarket did."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. And then just a final question. Larry, for you, you talked about M&A earlier and the transactions that you've done. How do things look today in the pipeline? And to what extent does the potential capital gains tax increase influencing sellers?"
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "I mean, I thought there would be a bigger impact. I don't -- we don't really see that. I think the number of opportunities is kind of normal. The ability to do the due diligence is getting a little bit better because we're able to access these places. But I would say, things look about normal. I don't see any people running out. I think from what people tell me, a lot of people are discounting the 40% Biden threat for capital gain and they're talking more about 25% or 28%. And at those rates this doesn't seem to be a panic at this point. I think with the -- with Congress pretty close that Biden might -- my personal opinion is that I don't think he is going to get 40%, and I'm not even sure if he is going to get 25% or 28%, he might, but there'll be a lot of push back. So at this point, I would say, Rob, it's pretty normal."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. Thank you, everyone."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Thanks, Rob."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question is from the line of Peter Arment from Baird. Please go ahead."
+    },
+    {
+      "speaker": "Eric Ruden",
+      "speech": "Hi, good morning. You actually have Eric Ruden on the line for Peter today. Maybe if I could just following up on the order environment of FSG, Eric and in terms of airline inventory levels, last quarter we were talking about inventory stock -- destocking having ended and you guys were pretty vocal in predicting that. And you mentioned scheduled expand, you expect more parts with that. Maybe if you could just comment, is that in terms of -- in terms of thinking about restocking, are you seeing any of that yet, or is it still kind of just-in-time type order activity?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Hi, Eric. Good morning, and thanks for your question. Yes, I think we called that correctly, and we were the first ones to call the end of the destocking when we did in December, and then of course, in our last quarterly call in February. Right now, what we see is obviously accelerated sales. I mean you can see the 16% increase Q1 to Q2, consecutive increase. So obviously the airlines are buying more, and our sense is that most of that is being used. Yes, some is -- some inevitably will end up on the shelf, but we haven't seen what I would call the serious restocking yet. My guess is that they've got to get all the aircraft back into service, and then maybe the restocking starts at that point once the aircraft -- the more intense restocking would start once the more -- once a greater percentage of the fleet gets -- put into service. Also, if you look at the European numbers, the airlines are really suffering over there. And the -- obviously, I don't think that they are restocking at this point, and that will come later in the cycle. So my guess is, we start to see some restocking more in HEICO's fiscal 2022 area. Maybe there is a little bit of it in our fourth quarter, but it's hard to say at the moment. But we did correctly predict the end of the destocking, and I think that due to our relationships with our customers, we're going to be right there and understand when the airlines start to restock. I mean I have had conversations with airline executives, and I can tell you that they're very much focused, the airline -- and I'm talking executives of major airlines. They are very much focused on making sure that they can complete the flights that they've got planned, and this is definitely a topic for the operations people in all the airlines. They are very much looking at this to make sure they've got the parts on the shelf."
+    },
+    {
+      "speaker": "Eric Ruden",
+      "speech": "Okay, thank you. And maybe that's a good segue into my next question. I'm just trying to frame up kind of how you guys are seeing market share gains at FSG. If I look at FSG and kind of just the revenue share of total flight activity coming out of previous downturns, HEICO has been able to increase that metric pretty significantly after the '02 and '08 recessions. And if I look through COVID so far, there has been a pretty dramatic increase already, which appears to be a bit ahead of schedule versus previous downturns we would expect to see that as we get into the actual recovery, which still obviously has a long way to go so far. So, I guess, my question would be, are you seeing increased content with your customers already given that the inventory destock has ended, and are now placing orders? And maybe just provide general update on the conversations, I know, you have with your sales team?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Yeah, I'd be happy to. The answer is, yes. I think that HEICO is picking up market share. We see it as we look into the -- we've got very good visibility into the various products on which we are -- which we supply parts for. And we would anticipate that that will continue to pick up. The -- when you look at the different areas of our business, whether it's parts or repair or distribution, I think we've got very good content in those areas, and we will continue to go ahead and pick up there. With regard to how this time is different from the other time, this time was so precipitous that we would anticipate that they would bounce back quicker because they just -- as we said on the December call, they just couldn't continue to operate at the levels at which they were operating in the December area. I do think that the market share gain is going to be more pronounced for HEICO as compared to other suppliers because of the value that we generate. We were very good to our customers through this whole pandemic. We were very good to our team members. I think we're in a unique position to be able to respond and to take market share, and I think you're going to continue to see a market share shift frankly specifically toward HEICO as compared to other suppliers in the industry."
+    },
+    {
+      "speaker": "Eric Ruden",
+      "speech": "Okay. Thanks. I appreciate the comments. I'll leave it there."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next question is from Larry Solow from CJS Securities. Please go ahead."
+    },
+    {
+      "speaker": "Larry Solow",
+      "speech": "Great. Thanks. Good morning, guys."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Good morning, Larry."
+    },
+    {
+      "speaker": "Larry Solow",
+      "speech": "Perhaps just a couple of follow-ups on FSG, Eric. So you gave us some good color there, some good qualitative color. And certainly you guys are continuing to rebound, and I think down about 25% now if you look relative to pre-pandemic in fiscal '19. Do you still think that you can get back without giving specifics, but get back to fiscal '19 level sometime in fiscal '22, and perhaps even before the market or passenger demand fully recovers? And then, I guess, part two of that question is sort of the magnitude of the cadence of that recovery, because it looks like this quarter was a pretty good sequential improvement. Do you expect that to continue as we look out the next few quarters, or may be slow down a little bit?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Yeah, I think, those are good questions, Larry. Of course, I don't have a crystal ball and I don't know what the next number of quarters are going to be like. I mean, with the 16% growth that we saw in the second quarter, my sense is that that -- quarter-over-quarter, that's a pretty hard number to beat."
+    },
+    {
+      "speaker": "Larry Solow",
+      "speech": "Absolutely."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "So, I would -- I'm very -- HEICO were -- we're very cautious and we want to make sure that we've got the parts on the shelf. We're not over-levered. We want to make sure that we've got the parts on the shelf, so we can meet our customer demand. However, we want to be careful about getting over our skis. So, I think, 16% quarter-on-quarter improvement is very high. Who knows what it will be in the third quarter and in the fourth quarter, I would be surprised to see that kind of improvement. I think our 16% number has surprised, and frankly, it surprised us. I think, it's probably surprising most people on the call today. And I do think part of that is a market share shift. And HEICO winning in the marketplace because of how we behaved during the pandemic. If you look at what IATA came out with this morning, they are predicting global passenger numbers will recover to 52% of pre-COVID levels in 2021 and rising to 88% in 2022 and 105% in 2023. So, my guess is that it's going to be until 2023 in order to meet the 2019 numbers. Remember HEICO's year-end is in October. So, therefore, for us, the report 2022 equaling 2019 is much harder than for most people -- for others who would have two better months if you will in there. So, I think, it's really more of a 2023 story, but I mean this is something that we're watching very, very carefully.\nIf you look, it's really leisure travel that is saving the industry right now, and business travel is in the tank at a fraction of where it used to be. And international travel is in the tank also. And the airlines really have a skeleton network up to be able to support the international destinations. So, I know the Biden administration is looking at changing rules in getting rid of 212(f) and setting up these corridors between the United States and other countries. And I think this is going to be very important for the United States to lead, because the United States has always done very well with the aerospace and defense industry and exports, and we really got to get out there and lead. They've got to get these travel corridors opened, so the airlines can start doing well on the longer haul, as well as on the business travel. So I think those are the two things that I would really watch out for. Yes, Europe will be back this summer. It's starting to come back. But again, that's on a leisure level. That's not on business and it's not on long-haul. So we really need the governments around the world to address this, and we certainly advocate for a safe flier policy whereby we have to show a -- either a positive -- either a vaccination or negative COVID test, one or the other. But the US has really got to get out front in this and lead the world."
+    },
+    {
+      "speaker": "Larry Solow",
+      "speech": "All right. Okay. Great. I appreciate. That was really good color. And then just second question perhaps you or maybe perhaps Carlos can chime in too. Just on the -- you guys mentioned several times in the increase in incentive comp. Is this -- clearly it seems like it's a signal that, I guess, you expect business to at least continue to improve. But at the level of incentive comp, was there some catch-up in there, I guess, both at the FSG level and at the corporate level in this quarter relative to last few quarters? And maybe we will trend back more to a normalized level as we look out?"
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "Well, I think -- Larry, this is Carlos. Relative to 2020, we didn't have a good [Phonetic] -- in the second quarter last year, we actually had reversals of Q1 bonus, right, so we sort of didn't have a good comp to '20 to go against. If your -- it sounds like your question is, are they more normalized, or we're getting to some more normal, I would say that we're still below '19 levels on performance-based comp stuff, and I would expect that to be the case throughout '21. We're not going to get up to those levels of volume that we had in '19, I don't think this fiscal year, right. So we're not out of line, we're just in a situation. It's very unique this quarter, whereby we had in '20 some reversals which amplify, if you would, the impact of the performance-based comp. But your thesis or your commentary about expecting the rest of the year to play out very nicely, yes, we expect that and that is why we do have performance-based comp in the numbers this year."
+    },
+    {
+      "speaker": "Larry Solow",
+      "speech": "Fair enough. I appreciate that. Thanks, Carlos."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next one is from Josh Sullivan from The Benchmark Company. Please go ahead."
+    },
+    {
+      "speaker": "Josh Sullivan",
+      "speech": "Hey, good morning."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Good morning, Josh."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Good morning, Josh."
+    },
+    {
+      "speaker": "Josh Sullivan",
+      "speech": "Just curious on the overall trends of PMA adoption and interest. Are you seeing more demand out of the existing traditional PMA customers when you talk about market share gains? Or is COVID inducted kind of any new or previously, maybe underrepresented categories of customers for PMA parts?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "I would say, it comes -- Josh, this is Eric. Yeah, I would say, it comes from both the bigger area, since we were already pretty much working with everybody. I think it would be more of increased penetration to everybody else, but there are other underrepresented. I think that's a good term you're using to describe the opportunity, and we are seeing progress there as well."
+    },
+    {
+      "speaker": "Josh Sullivan",
+      "speech": "And I guess what I'm trying to get at just as maybe as we see maybe more leasing ownership of the global fleet, has their acceptance increased, or just what is the viewpoint of the leasing customer base at this point?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "I think we're making progress in that area. There are number of lessors who do use our parts, and I think that the tide is rising for us there. I mean, this is not going to be an immediate switch. There are commercial reasons why some folks want to stay with OEM parts. But it is a substantial penalty to their customers. So we are making good progress in the area, and I think a lot more upside exists for us and that's why I'm optimistic on it."
+    },
+    {
+      "speaker": "Josh Sullivan",
+      "speech": "Got it. Got it. Then maybe just one last one, just switching gears, what is your overall exposure to semiconductor, semi-cap market at this point, with Apex and Pyramid? Just curious how you guys see yourself fitting into the overall just conversation around global semiconductor supply chains?"
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "Josh, this is Victor. Generally, we are keeping our participation in semiconductor market for the most part in the high rail areas, defense and so on. Again, consistent with our view -- HEICO's view of being in niches, in low production run markets, kind of the higher value-added as opposed to mass markets, and we have an appetite to grow in those. There are lengthening supply chains in those markets. And I think we should grow in those. We are adding both in market penetration we believe, as well as new product development, we're trying to expand there, and look for more acquisitions.\nI don't see us being a participant, for example, in automotive. I don't think that's likely, although I wouldn't rule it out if there were some very unique high-end applications. I see us participating in places like defense, like aviation, high-end, the clean energy, power -- wind power generation, things like that, which we've done at Connect Tech, for example, and are doing at Connect Tech. Electrification and rail and things of that nature would also be markets that we'd continue to serve."
+    },
+    {
+      "speaker": "Josh Sullivan",
+      "speech": "Thank you. Appreciate the time."
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next one is from Robert Stallard from Vertical Research. Your line is open."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Thanks so much. Good morning."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Good Morning, Rob."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "I've just got a couple for you. First of all, there has been some talk that Rolls-Royce might be close to a deal with IATA on sourcing out its MRO chain engine. The family could be a bit monopolistic at the moment. Does this present an opportunity for you to gain share on the Rolls-Royce fleet or is this not really aligned with what you're focused on?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Hi, Rob. It's Eric. I'd be happy to take that question. We've read the same in the trade press about Rolls-Royce and IATA being close to a deal. As you know, Rolls-Royce had a fairly closed in smaller network than the other manufacturers. So it was never a focus for HEICO. So I don't think that this is something that's a major opportunity for us. But if the customer wants us to go in that area, we'd be happy to talk to them. But I think Rolls due to the quantities of engines, the fact that they are wide-body engines, and that in order to have them serviced, they would go into these various JV shops. I wouldn't see this as an area of focus for us."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Yeah. And then secondly, a lot of talk around obviously about inflation. I was wondering if you'd seen any signs of input cost pressure over the last quarter? And what's your ability to pass on any inflated cost up the line?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Yeah, I think with regard to -- certainly with regard to our aftermarket business, I think we've got the opportunity to pass along the cost increases. If you look at the fact that we offer great value to our customers, I think that if our input costs went up that we would have the ability to do that, I would fully anticipate the OEM list prices will reflect this latest inflation pressure, and we're going to work very closely with our customers to explain if we've got a push along some cost increases, why we have to do that. We're all very familiar with the labor challenges in the United States these days, and even to get standard materials, it's challenging on the consumer side.\nAs far as on the manufacturing side, I think outside of things that are directly consumer-facing, there has been less of that, but it is something that we're keeping a very, very close eye on to make sure that we were able to adjust our prices. We feel very confident. I can tell you that as individual shareholders in HEICO, in the event there is greater inflation as a shareholder of HEICO, I feel very confident that HEICO will be able to make up any potential valuation problems as a result of inflation. We're going to be able to increase our prices and eliminate that risk in my opinion as a shareholder."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Yeah. That makes sense. Thank you very much."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Next is Ken Herbert from Canaccord."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Yes. Hi. Good morning, everybody."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Hey, Ken."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Good morning, Ken."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Hey, Eric. I just wanted to ask one final question on FSG, if I could. For your up 16% sequentially, can you break that down at all or provide any color on how the respective businesses, repair, distribution and replacement parts fit into that in terms of where you saw maybe more growth versus less growth?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Yeah, Ken, I would be happy to do that. We saw -- as you would anticipate the area that we were, of course, down the most as compared to last year would have been the commercial aerospace because -- commercial aviation, because of the pandemic. And if you look at defense, that wasn't down to the extent that the commercial was. When you dig a little bit deeper, specialty products, which is the OEM supply, which is more predominantly OEM supply, that was down in the largest area with the parts and distribution and in the component repair, not down nearly as much as the specialty products. But we do anticipate that with Airbus and Boeing increasing their build rates that specialty products will be coming behind -- coming from behind very shortly here."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay. So it's fair to say then that your pure aerospace aftermarket businesses, distribution, repair and the replacement parts within FSG were up greater than the 16% sequentially you saw for the segment in the quarter?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "I would think so. I don't have the numbers here in front of me to validate that, but I believe that would be the case here. Carlos can..."
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "That's correct, Ken. If you look at those three lines of business that Eric just laid out, the organic shrink, if you would, was in in the mid-single digits on parts and repair and component repair. They're coming back. To Eric's point, specialty products was not as robust and was a bigger drag on the segment. So I think with that information, you should build it back into the numbers you're looking for."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Perfect. Thanks, Carlos. And if I could, maybe Victor or Larry, a number of your recent acquisitions have of course been on the defense side. Can you just comment on what you're seeing now moving forward in terms of multiples? And are you maybe being a little bit more patient on the defense market because you think multiples could get a little bit more attractive as we move further into this budget cycle?"
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "It's -- so this is Victor. We've been very careful really all along on the multiples that we would pay on defense. Thinking -- and you've heard us say this that the defense budgets don't grow to the sky, and that though it's an excellent place to live and that there is a strong need in defense, and we could do very well in defense that we needed to be careful for just that reason. So we've been cautious. I can tell you that we've turned away a lot of potential acquisitions, particularly over the last year or nine months when there were no commercial aviation deals of course, and all the A&D, right, aerospace and defense was going to D, right, the defense, because all -- there was a feeding frenzy. If you wanted to participate in this sector, there is only one place you could buy, so all the money was funneled into that. And we set out a lot of potential acquisitions.\nSo I would think things will stabilize in some of the opportunities we decided that we would pass on or the kinds of opportunities we passed on over valuation might become opportunities again, not the very same companies, but the types of companies, and we're extremely selective. I think there are great companies and great opportunities, but as always, we have to be careful. And for whatever it's worth, we look at probably somewhere in the neighborhood of 100 acquisitions for everyone that we made -- probably north of that now, and that's always probably going to be the case. Selectivity is really key. We don't want to just rush out and buy anything."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Great. Thanks for the detail, Victor."
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next one is from Noah Poponak from Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Hey, good morning, everybody."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Good morning, Noah."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Hey, just trying to pull apart the FSG margins. The sequential incremental is about 30%. The decremental if I look at a two-year change, so going back to 2Q '19, is about 30%. I think the business has something in the 30% on the incremental, decremental pretty consistently. But the year-over-year is much higher. It's a 55% decremental. And then also, I think if I strip out the abnormal expenses you had in the back half of last year, you were maybe already near the 15-ish percent that you had in the quarter. So is all of that explained by the incentive comp that you've discussed here not taking place last year and now that's coming back? Or is there some other way to square the circle on those changes in the FSG margin?"
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "Noah, this is Carlos. It is completely explained by the performance-based comp."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Okay. Got it. That makes sense. And then, Eric, within the FSG revenue change, you've mentioned share gain a few times here, and you spoke to being positively surprised by the rate of sequential increase and attributing that to share gain. Could you maybe give us some specific examples of where you are already picking up share here in the early parts of recovery just so we can better understand that?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "I would say, in particular, it would be over in the PMA area. And as I talk with our sales folks and customers and understand what they want us to focus on, it's in basically what we've always called the adjacent white spaces, as we broadened our product line, picking up products which customers hadn't typically worked with us on in the past and that's really the area where I would say I'm most optimistic on that front."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Can you tell us what some of those are?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "I would rather not because we don't -- we try not to speak about particular customers or product types due to competitive reasons. We do have a number of our competitors on the call this morning and I welcome them, but I'd rather not give them a roadmap on where we're going."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Yeah, fair enough. Okay and then just last one quickly, Carlos, just on the free cash, your -- in most normal years, your free cash is stronger in the back half than the first half. And even last year with a pandemic, it was about even. And this year, you're recovering through the year. So should we expect your free cash flow to be higher in the second half than the first half of your fiscal '21?"
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "I expect that, however we have to be careful that as volumes increase, we're going to have some build in working capital that we're going to have to replenish. Things like receivables and inventories will grow up a little bit, but I do expect we'll have stronger free cash flow at the latter half of '21."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Okay. Thanks very much."
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. The next one would be from Sheila from Jefferies. Your lines are open."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Thank you. Good morning, guys. Thanks for the time. Eric, I want to talk more about share gains, if that's OK. Maybe can you tell us on share gains where are you gaining share from? Is it other PMA manufacturers? Is it versus USM? Is it the OEM? And then what makes an airline choose used serviceable part versus a PMA, and does it differ with lessors or just airlines as operators?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "So, good morning, Sheila. With regard to the share gains, I think it's against other PMA companies as well as other OEMs. So it's both. With regard to USM, less than 10% of our sales are parts in excess of $5,000 over on the PMA side, so we don't believe that we are exposed to the USM market. So, therefore, it's not a major item for us. If there is used serviceable out there, I think it -- and it makes financial sense, it ultimately will get sold and will get used, but it's not really a big area of focus for us. We do have a subsidiary that does very well in the USM market, Prime Air, and provides us a glimpse into what's going on in that space. So we're very knowledgeable about it, but -- and for those reasons, we don't believe that there is much of an impact on our other businesses."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Okay. No, that's helpful color. And then maybe can you talk about -- you gave color on the commercial aero business declining, more at specialty we expected to pick up as production rates change. But can you talk a little bit about what you're seeing within the commercial aero market and how do you expect that to recover, whether it's engine parts -- I know engine is much less of a focus than it was a decade ago, airframe, interiors, wherever you guys play in terms of how you expect that sort of recovery to pick up?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "So, the engine market has been more delayed than the non-engine market. I would say that it fell more precipitously, and it's also coming back a little slower as airlines focus on preserving cash, but that will go ahead and come back. A majority of our PMA business is in the non-engine market. We still do have engine parts exposure, and it's still an important part of the business for us. But as we've said, historically, most of our business is in the non-engine side."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Okay. And then last one for either you or Victor or Carlos too. Following up on Bob's question, we've been getting this a lot as, obviously, inflation is apparent. What do you -- maybe what's -- can you define your split of labor versus commodities within your COGS and how do we think about one or two of your major commodity costs?"
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "So, hey, Sheila, this is Carlos. The products that HEICO make, a lot of the input cost, frankly, is IP. So a lot of engineering, a lot of R&D. The actual material cost -- and this is pretty consistent within both segments. The actual material cost is lower. So, I'm less concerned about inflation on raw materials. And to Eric's point earlier in the conversation, I do believe that the OEMs who we use, as you know, the pricing umbrella to set our pricing, they will capture that and we'll follow on up [Phonetic] if there is something to be gained there.\nI think on the labor side, that's where we could feel it a little bit more. And as we grow and as we expand and hire more skilled labor and things like that, I do think that that could have a little bit of an impact. But I don't think we're going to be impacted any more adversely than any other corporation out there. I think that the type of workers who we're hiring and the types of labor inflation seen across the country and even really globally, there is nothing unique about HEICO that would cause us to be different than other folks."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Sure. Thank you guys very much for the responses."
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Next we have Louis Raffetto from UBS. Please go ahead."
+    },
+    {
+      "speaker": "Louis Raffetto",
+      "speech": "Thank you. Good morning. Actually just a follow-up on that. So, Eric, I think you guys cut like 25% of your headcount last year in FSG. Are you hiring them back now as these volumes return? Or do you see yourself being, I guess, leaner going forward?"
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "Yeah, I'm not sure, I don't think we cut 25% of the headcount. What we did was we had limited layoffs, and we also had furloughs, some of which were voluntary, and then for those who remained on the aftermarket space, we all took voluntary pay cuts. But HEICO retained a much larger percentage of our workforce than our peers in the commercial aviation space. So we are in a very good position right now where we're able to generate our new product development. I mean, there were a lot of other companies that guarded their new product development effort. HEICO did not do that. We've retained our skills. So I think that we're in a very good and unique position to be able to gain market share and satisfy our customers going forward."
+    },
+    {
+      "speaker": "Louis Raffetto",
+      "speech": "Okay. I'll circle up with Carlos on the numbers from the 10-Ks, I guess. So, I guess, Victor for you, I think the budget comes out later this week. Any specific areas that you're looking at in that or that we should be thinking about it? I know you mentioned earlier about some of the higher-margin defense things. I know [Indecipherable], particularly big for the ACT acquisition, so just trying to get a sense as to what you're looking in that?"
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "I think, at this point, Louis, we ought to wait and see. It's Friday when they're going to put the budget out, and we'll see exactly what it looks like. I mean, it's a rule of thumb. As you know, we've tried to bias the business very heavily toward intelligence, surveillance, reconnaissance, standoff warfare, the higher technology segments of the defense budget and we tried to live less in the operations tempo, although we're not entirely outside of that.\nAnd generally speaking, we believe that's where the expenditures over time would be more heavily weighted. And so that should benefit us relative to others. But I think we have to wait and just see where it comes out. And of course, Friday will be the first shot and then there will be the negotiations and I'll go through the committees, and so on, and it will take some time to shake out from there. But we'll at least have a sense of priorities. And of course, things like missile defense remain important and that's a good part of what we do, both in ETG and the Flight Support Group within HEICO. So I think we'll continue to do that."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "By the way, Louis, this is Eric. In looking at some of our numbers, the larger layoffs did occur in our specialty products area, which are non-aftermarket facing businesses. So -- and predominantly, most of the reduction was done in a particular facility in Asia due to just the lack of work. So we feel very confident that we're going to be able to spool up. That -- those processes -- those businesses have very well-defined processes and labor content manufacturing processes. So we feel that we're going to be in a very good position to be able to spool up. In the aftermarket space, our layoffs weren't anywhere near the number that you said. I think you may be referring to other companies that were in the aftermarket, who cut their employment to those levels, but HEICO never did. And the Asia reduction actually some of that was government-mandated because there was ordered shut downs..."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Exactly."
+    },
+    {
+      "speaker": "Eric A. Mendelson",
+      "speech": "At some of those facilities."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "And that's another good point, Louis."
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "I mean, one thing, Louis, you maybe remember, we did take a 20% pay cut. The executives did [Speech Overlap] since last year. Maybe that's what you're remembering when you're thinking about those layoff numbers that you quoted earlier."
+    },
+    {
+      "speaker": "Louis Raffetto",
+      "speech": "Yeah, I'm just looking at the reported headcounts from the 10 case. So, I mean, just employee -- the employee numbers basically from 10-K to 10-K. But, yeah, we can follow-up offline to over again [Phonetic] and maybe it's furloughs or something like that is kind of reported in employee head count numbers.\nSo I guess just one more, the final up here. I guess, guidance, still no guidance. I get it for FSG, but I'm not sure I get for ETG. Do you guys just not want to give sort of piecemeal guidance or you just don't give anything or is there something else within ETG that you don't feel like you have really good visibility on?"
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "Well, in ETG for example, commercial aerospace can make up anywhere from 10% to 15% of that segment's run rate. And so there is -- it isn't as clear as we'd like it to be right now. And the truth of the matter is, I would rather not give piecemeal guidance. We're typically only giving guidance on an annual basis. And I don't want to -- I don't want to get into a game where we're giving segment guidance for one and not for the other. I just don't think that's helpful. It may cause confusion. So we'd rather ride this out, and hopefully, the Company will continue to outperform folks' expectations, but nonetheless, the visibility right now for guidance is -- such that I wanted to give at this time."
+    },
+    {
+      "speaker": "Eric Ruden",
+      "speech": "And frankly, Louis, this is Eric, our 16% increase in Flight Support was so far beyond what we or anybody else thought was possible or doable. And I really give tremendous credit to our team members for accomplishing that. Had we given guidance three months ago, we would have missed it, and everybody would have said that we sandbagged it when in fact things just got much better, and much quicker. So I just don't think we're in a position right now to give guidance. It wouldn't be the responsible thing to do."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Louis, this is Larry. I want to add my two cents to Eric and Carlos. I completely agree with that policy. Remember please that HEICO is one company. It's not two companies. It's not an ETG company and a Flight Support company. And when we talk about the results of HEICO, it's a combined operation. So to give guidance in one division and not the other would be, in my opinion, totally improper, and it's not something that we're going to do."
+    },
+    {
+      "speaker": "Louis Raffetto",
+      "speech": "Fair enough. Thank you."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our next question is from the line if Gautam Khanna from Cowen. Please go ahead."
+    },
+    {
+      "speaker": "Scott",
+      "speech": "Good morning. This is Scott on for Gautam."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Scott",
+      "speech": "Just one for me, just given your comments on the active defense and then market last year, are you seeing any difference in any market this year for M&A and are you seeing more opportunities in commercial versus defense? Or is that still pretty limited?"
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "I think that -- this is Victor. I think we're still seeing much heavier bias on defense. We are seeing some commercial start to awaken, which is really consistent with what we expected. I think people are feeling a little more comfortable about making some projections about where they might be in asking for pricing based upon a reasonable recovery in -- at least privately. But for the most part, it remains heavily weighted toward defense or defense and space and other markets."
+    },
+    {
+      "speaker": "Scott",
+      "speech": "Okay, great. Thank you."
+    },
+    {
+      "speaker": "Victor H. Mendelson",
+      "speech": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We have our next question from Colin Ducharme from Sterling Capital. Please go ahead."
+    },
+    {
+      "speaker": "Colin Ducharme",
+      "speech": "Hi. Good morning, guys. Thanks for squeezing me in here. Just -- maybe just two quick ones for -- aimed best at Carlos here. The revolver pace opportunistically expanded that couple of quarters ago. If -- anything to read there, any significance if you could just help characterize that for us. And then, perhaps, I don't know if it's got a connected frame to just kind of the M&A pipe, Larry characterized that as somewhat normal. But anything you can give us top of funnel there perhaps LOIs signed in terms of trends? Just interested there.\nAnd then finally on incremental kind of free cash flow margins going forward, Carlos, if you could just talk about the facility footprint, perhaps. I know you had talked about some required capex to upgrade some equipment in prior quarters. Where does that stand? As we continue to recover here, do you anticipate anything out of the ordinary from a capex standpoint, just kind of characterizing where your footprint kind of stands today? Thank you."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "This is Larry. Let me handle the M&A question. We never speculate on LOIs or anything like that, because even if we were to sign an LOI, it would be slightly misleading because there's a lot of due diligence that goes into it, and we sign confidentiality agreements all the time. We do due diligence and we discovered that it's not for us. So I would never want to mislead the public and make them think, oh, we have this thing. But I think I'll comment that the pipeline is what we would call normal. We are looking at a number of transactions. And we can never predict which ones are really going to close. I mean, we have some, to be honest with you right now that look very good at the beginning, and as we get into them, they look a little dirty. So those may -- if I had this conversation with you two months ago, I would say, all this looks very good, we think we're going to close very soon, and that would have been misleading. So it's still may close, it may not, but I don't want to lead anybody in the wrong direction. Carlos?"
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "Yeah. Colin, I would just say that as we grow, our appetite for acquisitions continues to expand, and that's really why we expanded the credit agreement last year to make sure that we have plenty of dry powder available to accommodate the growth expectations that we have as a management team. The pay-down on the credit facility, we generated a ton of cash last quarter, and besides banking, some of the balance sheet -- we paid down the debt. We're not borrowing at a very high rate. I think my average rate is around 1.2% on our debt. So it's a very low carry. And so we'll keep paying it down, but it's a very efficient source of capital for us and very flexible.\nThe question you had about the capex, we continue to expect around $40 million worth of capex this year. The first half of '21, we did have a fair amount of expansion capital. We spent about $22 million through the first six months of this year, and a good chunk of that was expansion capital to grow our footprint, if you would, in some of our key businesses. So that's all good thing. That's growth capital, right. And then the rest is maintenance, maybe 60%-40% split or something like that on the spend. And I would expect, as I mentioned earlier in the call, I do think that our free cash flow generation in the second half of our fiscal year tends to be -- it's historically been a little stronger, I would expect that pattern to continue absent any other resurgence or logistic issues associated with getting out of this pandemic. That answer your question, Colin?"
+    },
+    {
+      "speaker": "Colin Ducharme",
+      "speech": "Yeah, that's great. That's helpful color. I appreciate it."
+    },
+    {
+      "speaker": "Carlos L. Macau",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We don't have any further questions at this time. Presenters, please continue."
+    },
+    {
+      "speaker": "Laurans A. Mendelson",
+      "speech": "This is Larry Mendelson. I want to thank everybody on the call for your interest and your input. We look forward to improving conditions. We believe there will be improving conditions in the second half of our fiscal year and running into '22 barring any resumption of COVID issues or other kinds of problems. But we look forward to speaking to you at the third quarter call, which should be sometime toward the middle -- end of August. And in the meantime, if anybody has any question or comments, please call us. We are all available, Eric, Victor, Carlos, myself, and we'll be happy to speak with you and try to respond to your questions.\nSo, again, thank you all very much, and this is the end of our Q2 conference call."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 85 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Laurans A. Mendelson--Chairman & Chief Executive Officer",
+    "Eric A. Mendelson--Co-President of HEICO and President of HEICO's Flight Support Group",
+    "Victor H. Mendelson--Co-President of HEICO and President of HEICO's Electronic Technologies Group",
+    "Carlos L. Macau--Executive Vice President and Chief Financial Officer",
+    "Robert Spingarn--Credit Suisse -- Analyst",
+    "Robert Stallard--Vertical Research -- Analyst",
+    "Eric Ruden--Baird -- Analyst",
+    "Larry Solow--CJS Securities -- Analyst",
+    "Josh Sullivan--The Benchmark Company -- Analyst",
+    "Ken Herbert--Canaccord -- Analyst",
+    "Noah Poponak--Goldman Sachs -- Analyst",
+    "Sheila Kahyaoglu--Jefferies -- Analyst",
+    "Louis Raffetto--UBS -- Analyst",
+    "Scott--Cowen -- Analyst",
+    "Colin Ducharme--Sterling Capital -- Analyst"
+  ]
+}

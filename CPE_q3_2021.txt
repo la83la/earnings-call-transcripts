@@ -1,0 +1,173 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to the Callon Petroleum Company's third quarter 2021 earnings and operating results conference call. [Operator instructions] As a reminder, this call is being webcast. And a replay of the call will be archived on the company's website for approximately one year. I would now like to turn the call over to Mark Brewer, director of investor relations, for opening remarks.\nPlease go ahead, sir."
+    },
+    {
+      "speaker": "Mark Brewer",
+      "speech": "Thank you, Debbie. Good morning, and thank you all for taking the time to join our conference call today. With me this morning are Joe Gatto, president and chief executive officer; Dr. Jeff Balmer, senior vice president and chief operating officer; and Kevin Haggard, senior vice president and chief financial officer.\nDuring our prepared remarks, we may reference the earnings results presentation and third quarter earnings press release, both of which are available on our website, so I encourage everyone to download both documents if you haven't already. You can find the slides on our events and presentations page and the press release under the news heading, both of which are located within the investors section of our website at www.callon.com. Before we begin, I would like to remind everyone to review our cautionary statements, disclaimers and important disclosures included on Slide 2 of the presentation. We will make some forward-looking statements during today's call that refer to estimates and plans.\nActual results could differ materially due to the factors noted on these slides and in our periodic SEC filings. We'll also refer to some non-GAAP financial measures today, which we believe help to facilitate comparisons across periods and with our peers. For any non-GAAP measures we reference, we provide a reconciliation to the nearest corresponding GAAP measure. You can find these reconciliations in the appendix to the earnings presentation slides and in our earnings press release, both of which are available on our website.\nFollowing our prepared remarks, we will open the call for Q&A related to both quarterly results and forward-looking performance. And with that, I would like to turn the call over to Joe Gatto."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thanks, Mark. I encourage everyone to take a look at the earnings presentation on our website as background for our introductory remarks. Let me start out by saying that the third quarter was a clear demonstration of us walking the talk. Top-line production exceeded recently increased guidance with productivity gains from both new and existing wells in the Permian Basin.\nThis outperformance dropped directly to strong bottom-line free cash flow as operating expenses and capital continue to benefit from our focus on best practices and realized efficiencies. Capital spending for the quarter came in at $115 million, below the bottom end of guidance, which was also lowered with the recent guidance update. Operational expenses remained in check and contributed to the strongest operating margins we have seen in some time at more than $45 per barrel of oil equivalent, a 20% increase from the previous quarter and at the leading edge of third quarter earnings releases. Our operations team made strides on numerous project fronts, lowering our overall LOE run rate while also reducing our environmental footprint.\nOur near-term focus is simple: employ a scaled co-development model across a diversified portfolio of core investment opportunities to drive rapid deleveraging from leading cash margins. This focus is best exemplified by an expected reduction in our net debt-to-EBITDA to under two and a half times by year-end. This progress reflects a leverage improvement of two turns since the first quarter, which is among the best rates of change in the industry. Importantly, through thoughtful co-development of our resource base, we maintain a life-of-field development view that preserves longer-term inventory quality and depth, supporting capital efficiency and free cash flow sustainability over time.\nWe recently completed a strategic consolidation transaction in the Delaware Basin, increasing our footprint to 110,000 net acres in the basin. The acquisition of the Primexx assets, which we announced along with our second quarter earnings, closed at the beginning of October, and we are well on our way with the integration process. We have been very pleased with recent results from the properties as activity resumed at the beginning of the year, targeting two primary zones with new generation completion designs and refined landing zones. Early time productivity has been evident with average peak oil rates of over 1,200 barrels of oil per day across 19 wells in the Wolfcamp A and B, and longer-term performance has also been attractive with 180-day average cumulative oil production of approximately 120,000 barrels of oil, which represents over 72% of the hydrocarbon mix on a two-stream basis.\nWhile we won't have the chance to incorporate Callon's completion designs into new wells until later this year, we've been able to use our more conservative flowback strategy on a recent three-well project in the area. The combined well package is responding favorably to the modification with all three wells performing ahead of the project type curve through the first 20 days online. In addition, we are currently transitioning development on the acquired assets to the Callon philosophy of scaled co-development. This transition is currently focused on building an inventory of drilled wells to support larger average project sizes with our initial three projects in 2022 slated to average six wells a piece.\nAs we look a little deeper into 2022, the large majority of our development program will focus on both the Delaware and Midland Basins, with the Eagle Ford returning to more of a supporting role. We've talked at length about the optionality that our diversified portfolio offers in terms of cash conversion cycles and returns on capital. But we were unable to fully optimize investment in the Delaware Basin over the last two years as we focused on shorter cash conversion cycle projects. The scale and scope of our Permian position and associated core inventory of over 1,100 locations in the Delaware alone enable us to establish a durable program that builds on substantial project-level returns on capital to support a robust free cash flow profile through mid-cycle commodity pricing.\nDespite the significant uplift we have seen in the forward curve for oil, we intend to maintain our capital reinvestment framework based on more conservative planning prices that reflect a longer-term outlook and focus on continued simplification of the capital structure and deleveraging on both the net debt-to-EBITDA and absolute-debt basis. Since the second quarter of 2020, we have laid out plans and consistently executed on strategic financial initiatives that have dramatically changed our outlook and allowed us to get back on our front foot. As part of that execution, multiple noncore monetizations have produced cash proceeds of roughly $210 million in 2021. We expect that these last few transactions announced since early October, including a smaller monetization of select water disposal assets, to close by year-end, which will put us near the top end of our guidance range of $125 million to $225 million of proceeds for the year.\nThese proceeds, combined with our 2021 free cash flow generation expectations have established a tangible path to bring leverage under two times by mid-2022 and subsequently drive to our next round of targets of debt-to-EBITDA below one and a half times and absolute leverage of under $2 billion. Given this trajectory, in addition to our focus on sustainability and the importance of controlling critical operations in our core areas, we believe that retaining our larger portfolio of water gathering, recycling and disposal assets provides the greatest value proposition for our shareholders. As such, we are not pursuing additional monetizations related to water assets at this time. Building upon that theme, advancing environmental sustainability has become a critical piece of the conversation --"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Excuse me. At this time, bear with us for a moment while we fix audio. Thank you. Excuse me this moment are reconnecting the audio, and we'll be right back with you.[Technical difficulty]\nWe are now rejoining the conference."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thank you, Debbie. I apologize for technical difficulties. But hopefully, everyone can hear us OK right now. I'm going to finish off my section here quick and the potential of overlapping, but just to make sure we try to be seamless.\nObviously, we'll make sure that the full transcript is posted in its entirety. But I think, I left off just talking about environmental sustainability and how that's been a critical piece of the conversation, both internally and externally. Earlier this year, we laid out specific near-term goals and shared our plans for how we are addressing environmental, social and governance-related topics. After issuing our 2020 sustainability report in July, we've seen our performance scores rise across multiple independent ratings platforms, reflecting the market's recognition of the progress we have made.\nSpecifically, we've affected meaningful change in our emissions, safety and governance practices. With a greater portion of executive compensation directly tied to achieving our sustainability goals, we're advancing interest not only shareholders but all stakeholders. With that, I'm going to turn things over to Jeff to discuss operations."
+    },
+    {
+      "speaker": "Jeff Balmer",
+      "speech": "Great. Thank you very much, and good morning. I would like to start by recognizing our operations team and really Callon as a whole. Not only do they knock it out of the park across the board, but they did this while working to integrate the Primexx assets and simultaneously move forward on our 2022 planning process.\nSo hats off to all of you. You put Callon in a great position. As Joe mentioned, our performance during the third quarter was very positive with, well performance above expectations, capital costs better than expected and our lifting costs improving slightly on a unit basis. And I think, this bodes well for what we should be able to accomplish as we finish integrating the recently acquired Southern Delaware assets.\nOur electrification program, which started in the Permian, has been a real success story in the Eagle Ford. We recently wrapped up work there, removing another 25 generators from service. And this not only helps our carbon footprint, but with the changes we've made year to date actually equates to nearly $1.5 million in annualized savings. Across the Delaware, we've been converting old gas lift systems to ESPs, or electric submersible pumps, and with newer wells moving directly to ESP after natural flow begins to drop off.\nAcross the board, this has been extremely beneficial and is helping to improve overall well performance and reduce the upfront cost of artificial lift. Our ESP management program has resulted in an 80% improvement in run time since 2018, saving us valuable workover dollars. Additionally, we've seen some of these recent conversions to ESPs such as our Limber Pines project in the Delaware gain upwards of 1,900 barrels of oil per day in initial uplift. This equates to more than 250 barrels of oil per day per well.\nIt also carries forward and uplifted production curve for multiple months thereafter. We're already identifying opportunities and beginning to implement our Callon best practices across the acquired acreage, which were fantastic to start with. As we've discussed previously, our in-house technical expertise in chemicals management allowed for significant operating cost reductions and improved well performance for our previous asset additions. And also, continued application of our peer-leading ESP management practices should provide another avenue for synergy realization.\nAs we begin modifying the current program in place on the acquired assets, we would expect to defer initial artificial lift installations by optimizing early time performance from our moderated flowback strategy. And the early flowback performance of this new NMITS three-well pad supports this concept and should be a good example of what's to come. Our continued field efficiency has been an important factor in beating expectations. Our year-to-date drilling and completion costs have remained generally flat with 2020, and this is primarily due to solid performance by our team in realizing cost savings through operational efficiencies.\nAs we continue the budgeting process for 2022, we'll build in a reasonable estimate for potential inflation, likely something in the high single to low double-digit range for capital development activity. But of course, our team will be working hard to deliver efficiencies that allow us to keep that cost pressure at bay, as well as anyone in the business. We continue to see development activity shift away from one- and two-well pads and move to much larger projects that provide better opportunities to retain that much-needed peak capital efficiencies. These larger projects ensure that we are developing the resource in place appropriately to optimize recoveries by eliminating future child wells and developing that inventory prior to the effects of depletion affecting the future locations.\nOur combined oil well footprint of approximately 110,000 net acres has become the cornerstone of our development program. As Joe mentioned, we expect capital to flow to both the Delaware and Midland Basins, more probably with the Eagle Ford playing more of a supporting role going forward. And make no mistake, it's a great asset with fantastic cash flow, but our growth focus will be on the Permian and the tremendous resource we've assembled. We're off to a very good start in the fourth quarter with six rigs currently in the field drilling across all the asset areas and helping to replace some of the DUC backlog that we drew down through the middle of the year in 2021.\nAs we rebuild this inventory as an operational buffer into account for timing issues related to our larger-scale development, we'll have a very balanced opportunity set to draw upon as we schedule completion activity for the first half of the year. At this time, I'm going to turn it over to Kevin to handle the financials."
+    },
+    {
+      "speaker": "Kevin Haggard",
+      "speech": "Thanks, Jeff. The second quarter was a record one in many ways for us. I want to quickly mention some of the more impressive elements of our execution this quarter. We set new quarterly performance records for Callon.\nWe had our highest-ever quarterly revenues with more than $500 million of revenue and had record cash flow from operations of $295 million in the quarter. Our adjusted EBITDA for the quarter was $292 million, an almost 50% increase from the second quarter of this year. Helping us in this improvement was our peer-leading operating margin. This margin increased 15% from our Q2 performance as we reached approximately $45 per BOE.\nIn addition, LOE was $4.66 per BOE in the quarter. But more impressive, total LOE was down over 8% from the second quarter despite placing the combined 70 gross wells on production during the second and third quarter. Let's talk about what impact these strong margins have had on our balance sheet. With almost $120 million of adjusted free cash flow in the quarter, which went directly to paying down debt, we were able to achieve a 5% reduction in our total debt in a single quarter.\nI want to thank our very active business development team who managed a significant amount of activity this year and helped us deliver at the high end of our 2021 targets for cash from asset sales and dispositions, which were also applied to debt reduction. Also, we are pleased to announce today that the equitization of nearly $200 million of second lien notes from Kimmeridge helps delever the balance sheet and, equally as important, eliminates almost $20 million of future interest payments. And we are starting to accelerate the pace at which we can pay down this debt. Since Q2 2020 and through the end of Q3, we have generated cumulative adjusted free cash flow of nearly $275 million, have been able to reduce debt by almost $700 million during that period, inclusive of the Kimmeridge second lien equitization.\nStreet estimates for Bloomberg show expectations for another $120 million of free cash flow in the fourth quarter, helping us achieve our leverage targets for 2021. And with estimates calling for nearly $650 million in 2022, we will be well on our way to achieving our stated target of less than two times net debt-to-EBITDA. I want to make a couple of final points on the balance sheet. Even though we drew on our credit facility to fund the cash portion of the Primexx purchase price, you will see a total debt picture at year-end that should look equal to or better than Q2 and an RBL that gets close to 50% utilization.\nJust as a reminder, the RBL draw off the majority of asset sale settlements, and robust cash flow all happened intra-quarter in Q4. On the hedging side, we were proactive in adding incremental hedges prior to the announcement of the Primexx transaction. And as a result, we find ourselves well-positioned for 2022 at this point with price levels and percentages hedged we are comfortable with. I know there have been questions out there about our time line to pay cash taxes given the higher commodity prices and whether this means models need to be adjusted.\nWe look at this on a regular basis with our tax team as part of the work we do in scenario planning. To give you some guideposts and realizing there are a lot of inputs to this planning that can move around, at current strip prices, we would expect to pay minimal cash taxes over the next several years and not be a significant payer until four to five years from now. If we had $85 flat oil for the next several years, that would certainly accelerate our cash tax payments to around the 2024 time horizon. What does all this solid financial performance get us? We believe, as we continue to execute against these near-term deleveraging targets, we are quickly moving into a range more representative of companies with a solid B to B-plus rating, which we hope to see the agencies recognize formally.\nThis should result in a lower cost of capital and will help us as we think about proactively addressing upcoming bond maturities. And with that, I'm going to turn things back over to Joe before we move to Q&A."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thanks, Kevin. So over the past year, Callon has experienced an extraordinary turnaround from where we stood in the fall of 2020. We were adamant that the quality of our assets, the talent of our staff and the determination of the team as a whole leads back to the position we're in today. We now look firmly forward.\nYou can see our financial goals, not only within reach but much closer than most thought possible in such a short time. With every dollar of debt that we continue to retire, we are paying back our shareholders for their faith in our ability to do so. Operator, you may now open the lines for Q&A."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our first question comes from Derrick Whitfield with Stifel. Please go ahead."
+    },
+    {
+      "speaker": "Derrick Whitfield",
+      "speech": "Thanks, and good morning, all. And congrats on your quarter and progress in general."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thanks, Derrick."
+    },
+    {
+      "speaker": "Kevin Haggard",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Derrick Whitfield",
+      "speech": "Perhaps for Joe or Kevin, your leverage stats have dramatically improved to date as a result of asset sales, the Kimmeridge equitization, the Primexx transaction and commodity strength in general. With the potential to achieve a sub-two times net debt-to-EBITDA leverage in 2022, how should we think about your longer-term preference for capital allocation of the free cash flow once you achieve a sub-one time -- sub-one and a half times net debt-to-EBITDA?"
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Sure, Derrick. Thanks for the question. And it's good to be here thinking about these types of questions. In the near term, it's pretty simple.\nWe laid out, we're going to give equityholders value through debt repayment. So that's pretty clear for the coming quarters. But with the pace of deleveraging, as you mentioned, at least the credit metrics will improve dramatically. I guess, the other part of the equation there is absolute debt as well.\nSo there's probably two targets that we need to be thinking about as we start progressing toward returns of capital. But we've made some longer-term goals around leverage metrics of one and a half times and below two times absolute debt reduction. So those are firm, and we got to make sure we don't lose sight of that. But we think that over time, we can look at returns of capital to shareholders and complement that continued debt reduction to those long-term goals."
+    },
+    {
+      "speaker": "Derrick Whitfield",
+      "speech": "That makes sense. And as my follow-up, regarding the potential divestiture of infrastructure assets that you noted in your prepared remarks, could you speak to potential valuation parameters and operating cost impacts as material?"
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Yeah, valuation parameters, I think we put out some -- at least with the assets within the Midland, some headline production numbers. So whether you can do that on a headline flowing barrel equivalents or attribute some value to PDP and look at the acreage value. I think, they're both very compelling. In terms of LOE impact, I guess, probably related to the water, the small water transaction.\nThe LOE impact there is roughly about $4 million per annum."
+    },
+    {
+      "speaker": "Derrick Whitfield",
+      "speech": "That's great. And Joe, just to clarify, for the infrastructure assets that you noted that you would potentially put on the market, that's what I was really referring to. And maybe I misheard you in your prepared remarks."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Oh, so, yeah, maybe some of the technical difficulties. But yes, at this time, Derrick, we're very pleased with the outcome with a smaller monetization of the water package. But water assets are very critical to our operations. We've been very clear about that over time and maintaining control.\nAnd we've been working on JV types of structures to allow us to maintain operational control and then get some economic benefits, whether it be upfront cash proceeds or monetizing some latent capacity in the system. I think, the short answer as we sit here today is we don't see that value proposition being compelling to offset the operational mandates that we have. So at this time, we are not actively pursuing broader monetizations of the water asset. Especially given the profile we have with free cash flow outlook, we feel comfortable that's going to get us where we need to be on the deleveraging side.\nSo hopefully, that answers your question in terms of where we go next. But you are right to point out, I mean, there is a substantial value proposition there. We just think it's best for us to retain that for shareholders."
+    },
+    {
+      "speaker": "Derrick Whitfield",
+      "speech": "That makes complete sense. Great update, and thanks for your time."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question is from Bertrand Donnes with Truist. Please go ahead."
+    },
+    {
+      "speaker": "Bertrand Donnes",
+      "speech": "Hey, good morning, guys. I just wanted to ask on the activity levels on the Primexx acreage. Where are you going to focus after the first-half '22 wells? I see on that map, you kind of have that cluster spaced out. But I wasn't sure if after that, you were planning on going back South near some of those first-half '21 wells or if it was -- you kind of want to look at the results from the wells and then decide afterwards."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "It's actually a little bit of both. So the subsurface analysis that's been done over the last 30 days has really confirmed what an outstanding asset the Primexx position encompass. Taking a look at some of the opportunities we have for the robust top to bottom development opportunities is really the next stage in the back half of 2022. We have a few obligations, very manageable obligations that we're focused on in the front half.\nSo you'll see opportunities where we have a larger stack potentially kind of in the North, Northeast in the Wolfcamp A that will get some attention, as well as some opportunities down South in all likelihood. But obviously, just as you had mentioned, we'll learn a little bit as we go along and then adjust as needed."
+    },
+    {
+      "speaker": "Bertrand Donnes",
+      "speech": "Yeah, that makes perfect sense. And then, really, just my follow-up is the rates that you announced from the Primexx, the wells that came on, is there -- are they doing something differently than you would? Or is it -- it looks like it's exceeding the type curves that you were looking for. So is there something you think you would keep applying to improve it further? Or is it maybe something that they did that you can bring in-house on your other properties?"
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Yup. And again, you nailed some very complementary things relative to the assets. Any time that you get an opportunity to combine the assets, it's also the best practices from both quads. Those rates are both related to physically how the wells are being handled at the surface, as well as outstanding geology.\nAnd so, generally speaking, what we've tried to apply is a little bit of a managed flowback from the perspective of not ripping the wells wide open and having them drawing a bunch of sand into the wells and potentially have very steep declines, if not immediate workover candidates. And so, I think, what we've seen with the Primexx assets is that while potentially a little bit more aggressive, we'll also hung in there are fantastic. And so, we'll take a very thoughtful approach to what those wells do in Year 1 -- back end of Year 1 and 2 and really apply the combined best practices of both companies to see what fits this particular well set the best. So I would anticipate a little bit of a hybrid between what Callon has done historically and what Primexx has already done."
+    },
+    {
+      "speaker": "Bertrand Donnes",
+      "speech": "That's perfect. Thanks, guys."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Gabe Daoud with Cowen. Please go ahead."
+    },
+    {
+      "speaker": "Gabe Daoud",
+      "speech": "Hey, good morning, guys. Just curious, Joe, I think in the press release, you've mentioned capital moving forward likely be predominantly focused on the Permian and within that, the Delaware. So just curious if you could give us some updated thoughts on the Eagle Ford and how that maybe fits into the portfolio longer term."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Sure. Yeah, the Eagle Ford is certainly a big part of what we do in our broader portfolio and offering, that diversification, not only in location but around cash conversion cycles. The last couple of years, it's been really important and has really proved to be a critical asset in generating free cash flow. As we move forward, as we look at longer-term sustainability of free cash flow, we have an enormous machine in the Delaware with very high-impact wells that we can get into large-scale developments, realize those efficiencies.\nWe see that as being the backbone of our -- not only our leverage reduction, but potential backbone for returns of capital down the road and really using that as a foundation. So the Eagle Ford, similar to -- after the Carrizo transaction, we talked about the free cash flow machine that it was, that that will certainly be the case going forward. We still have a good inventory there. We have a very efficient team in operations that will continue to bear fruit.\nWe'll also look at ways to expand our inventory in that part of the world, whether it be some smaller bolt-ons around our area or some exploration. We haven't, obviously, said a lot of details around '22 yet that will be coming, but we always put a few exploration or delineation wells into the mix. And the Austin Chalk is gonna be one that is in the mix. Once we finalized the plans, we can talk a little bit about that more.\nBut again, this is -- while we're emphasizing the Delaware and broader Permian from a capital standpoint, Eagle Ford is still a very important part of our machine."
+    },
+    {
+      "speaker": "Gabe Daoud",
+      "speech": "That's helpful. And then, my follow-up was gonna be around 2022 and anything you could say, but I guess, just kind of stay tuned for the 4Q update?"
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Well said. Yes."
+    },
+    {
+      "speaker": "Gabe Daoud",
+      "speech": "OK, got it. Thanks, Joe. Good quarter."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thanks, Gabe."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] At this time, we are -- there are no further questions. This concludes our question-and-answer session. I would like to turn the conference back over to Joe Gatto for any closing remarks."
+    },
+    {
+      "speaker": "Joe Gatto",
+      "speech": "Thanks, Debbie. Thanks, everyone, for joining today.And before we sign off, I actually have one more special thank you for our director of IR, Mark Brewer. Mark is gonna be leaving us at the end of the year after leading the charge with investors and research analysts since 2017. I know most of you have spent a lot of quality time with Mark over the years, and I've no doubt you've enjoyed working with him as much as we all have here at Callon.\nSo Mark, wish you all the best. And for everyone on the phone, we look forward to a strong finish to the year, and look forward to our next call in early 2022. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 38 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Mark Brewer--Director of Investor Relations",
+    "Joe Gatto--President and Chief Executive Officer",
+    "Jeff Balmer--Senior Vice President and Chief Operating Officer",
+    "Kevin Haggard--Senior Vice President and Chief Financial Officer",
+    "Derrick Whitfield--Stifel Financial Corp. -- Analyst",
+    "Bertrand Donnes--Truist Securities -- Analyst",
+    "Gabe Daoud--Cowen and Company -- Analyst"
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by. Welcome to the MFA Financial, Inc. First Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session. [Operator Instructions] As a reminder, this conference is being recorded. I'd now like to turn the conference over to Harold Schwartz. Please go ahead."
+    },
+    {
+      "speaker": "Harold E. Schwartz",
+      "speech": "Thank you, operator and good morning, everyone and thank you for your patience, while we resolve and technological issues on our end. The information discussed on this conference call today may contain or refer to forward-looking statements regarding MFA Financial, Inc., which reflect management's beliefs, expectations and assumptions as to MFA's future performance and operations. When used statements that are not historical in nature, including those containing words such as will, believe, expect, anticipate, estimate, should, could, would or similar expressions are intended to identify forward-looking statements. All forward-looking statements speak only as of the date on which they are made. These types of statements are subject to various known and unknown risks, uncertainties, assumptions and other factors, including those described in MFA's annual report on Form 10-K for the year ended December 31, 2019 and other reports that it may file from time to time with the Securities and Exchange Commission.\nThese risks, uncertainties and other factors could cause MFA's actual results to differ materially from those projected, expressed or implied in any forward-looking statements it makes. For additional information regarding MFA's use of forward-looking statements, please see the relevant disclosure in the press release announcing MFA's first quarter 2020 financial results.\nThank you for your time. I would now like to turn the call over to MFA's CEO and President, Craig Knutson."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Thank you, Hal. Good morning, everyone. Little did I know that I would have to compete for airtime with Chairman Powell who is testifying in the Senate at 10:00 AM. I apologize for those of you who drew the short straw and get stuck on our call. I'd like to thank you for your interest in and welcome you to MFA Financial's first quarter 2020 financial results webcast. Also dialed in with me today are Steve Yarad, our CFO; Gudmundur Kristjansson and Bryan Wulfsohn, our Co-Chief Investment Officers and other members of senior management.\nOur format this morning will be slightly different from our customary earnings call. We have an earnings presentation on our website and filed as part of an 8-K filing this morning. But unlike our usual earnings calls, this deck will not scroll on the webcast and we will not follow the earnings deck page by page as we typically do. I encourage you to open the presentation because I will refer at times to various pages in the deck as I deliver prepared remarks before opening up the call to questions.\nBefore we begin, I want to give a shout out to our entire MFA team. The last three months have obviously been extremely challenging and made exponentially more so by the fact that all of our efforts have been remote. The Company fully implemented our business continuity plan during the third week of March and successfully completely transitioned to our remote work environment to address the operating risks associated with the global COVID-19 pandemic. The effort and commitment displayed by our entire team over the last three months has been extraordinary and I've been humbled by their dedication.\nBefore we discuss the first quarter of 2020 financial results, which frankly at this point seems like ancient history, I'd like to spend some time discussing what other important work streams have been taking place at MFA since March 23 and I think it will be obvious why we've been silent on so many of these activities. These critical efforts have been comprised primarily of three things. One, forbearance; two, balance sheet and liquidity management; and three, sourcing third-party capital. We have issued several press releases chronicling forbearance agreements with various of our lending counterparties and we are presently in the third forbearance plan, which extends to June 26. As arduous that these forbearance agreements have been to negotiate and operate through, they have provided us with the time to manage our balance sheet and liquidity while also working to source third-party capital and we are grateful to our lending counterparties that stuck with us through three versions of forbearance plans.\nDuring April and May, we significantly reduced our balance sheet in an effort to raise liquidity and delever. Importantly, because we entered into these forbearance plans, we were able to manage our balance sheet in a more judicious fashion, given the time allowed through forbearance. Many of our asset sales, particularly on mortgage-backed securities, were at prices significantly higher than the price levels that existed in late-March. Our sales during the month of April alone of legacy non-agencies, CRTs, and MSR-related assets generated over $150 million of realized gains versus March 31 marks. Now, while still down significantly from values at the end of February, the patience permitted through forbearance enabled us to work hard to lessen book value erosion.\nWe were also able to manage the sale of a large non-QM whole loan portfolio that traded in late-April and closed in mid-May. While we realized a significant loss on the sale, we are confident that we achieved a much better execution by controlling and managing the trade than we would have realized had the lender just liquidated the pool. In the end, all of our lenders will have been fully repaid with no deficiencies, which is another of the design goals of the forbearance plan.\nIt was clear to us in late March that our situation was not due to bad assets, but the fragile funding and the path forward would require more durable forms of financing. We also recognize that term financing, margin holiday and/or non-mark-to-market financing would necessarily require higher haircuts and therefore more capital. Our method for seeking third-party capital began somewhat passively during the last week of March with fielding incoming indications of interest. As this process intensified with more and more parties together with negotiating NDAs and then responding to voluminous data requests, all the while with our hair on fire negotiating a forbearance agreement while managing our balance sheet and liquidity and we engaged Houlihan Lokey at the end of March to manage this process for us.\nInitial indications of interest from a number of capital providers came back in mid-April, but as we continue to delever and raise liquidity, it became evident that our third-party capital needs have already changed. We extended our initial forbearance agreement at the end of April to June 1 and as we entered May, we began to obtain better price discovery, particularly on our loan portfolio, which gave us more clarity as to our path forward. We started a second round of proposals from third-party capital providers in mid-May. And as we held due diligence and informational calls with many of these institutions, we found that there was a competitive dynamic at work and a keen interest in pursuing a transaction with MFA.\nWe signed a term sheet over Memorial Day weekend and have been working since to negotiate and document this agreement. For obvious reasons, we could not communicate publicly about these activities and it was frustrating not to be able to provide the public disclosure and transparency on which we pride ourselves. We signed these agreements last night and we're happy to announce today that we have entered into an agreement with Apollo and Athene, an insurance company affiliate of Apollo, to raise $500 million in the form of a senior secured note. But this $500 million note is only part of a holistic solution for MFA and a very strategic partnership with Apollo and Athene. Apollo and Athene together have arranged a committed term borrowing facility with Barclays of approximately $1.65 billion that includes over $500 million for participation from Athene. This term non-mark-to-market facility will provide us with durable financing for a large portion of our loan portfolio. In addition, Athene has committed to purchase, subject to certain pricing conditions, a portion of our first securitization of non-QM loans.\nAnd finally, Apollo and Athene are engaged with another of our lenders to structure an additional similar lending facility for our fix and flip portfolio in which Athene also intends to participate. Pro forma for these facilities, approximately 60% of the Company's financing will be in the form of non-mark-to-market funding, providing shareholders with significant downside protection in the event of future market volatility. We expect that upon closing and funding of these transactions, we'll be able to satisfy remaining margin calls, which were only $32 million as of June 12 and exit from the current forbearance agreement on or before June 26. We also anticipate using some of the proceeds to pay accumulated unpaid dividends on our Series B and C preferred stock issues.\nAnd finally, we expect that this transaction will provide us with substantial capital to once again begin to pursue attractive investment opportunities. As part of this transaction, Apollo and Athene will receive warrants to purchase MFA common stock at varying prices over a five-year period and will appoint a non-voting observer to our Board of Directors. Apollo and Athene have also committed to purchase the lesser of 4.9% or $50 million of MFA stock in the open market over the next 12 months. We are extremely excited about this transaction, which we consider to be much more than a capital raise and very much a strategic alliance. Details of the specific terms of the credit agreement are provided in an 8-K that we filed this morning.\nMoving on to the financial results for the first quarter of 2020. As others have described before us, the first quarter of 2020 was literally a tale of two distinct and utterly different periods in time. January, February and the first two weeks of March were very normal and a good start to the new year. And in only a few days, the financial markets and the mortgage market in particular completely collapsed. With the onset of the COVID-19 pandemic, pricing dislocations for markets and residential mortgage assets was so extreme that liquidity evaporated. Prices of legacy non-agencies, which had not changed by more than 3 points in the last two to three years, were suddenly lower by 20 points. CRT securities dropped as much as 20 points to 50 points and MSR-related asset prices were lower by 20 points to 30 points, all in a few days. MFA received almost $800 million in margin calls during the weeks of March 16 and March 23 and over $600 million of these were on mortgage-backed securities. In contrast, we received $7 million of margin calls on these portfolios during the entire week of March 2 and $37 million during the week of March 9. And during the months of December, January, and February, we received a total of six margin calls, all related to factor changes with a total aggregate amount of $4 million. During those same three months, we initiated 10 reverse margin calls totaling $14 million, meaning we received net $10 million more from our lenders due to price increases.\nWhile we began selling assets during the week of March 16, the dearth of liquidity made this difficult. We announced on March 24 that we had not met margin calls on March 23 and that we had initiated forbearance discussions with our financing counterparties. As we began these negotiations, we continued to sell assets to raise liquidity and reduce leverage. Our first quarter financial results were profoundly affected by realized losses, impairment losses, unrealized losses on loans accounted for at fair value, provisions for credit losses under the new CECL standard and valuation adjustments on assets designated and held-for-sale and resulted in a loss of $914 million or $2.02 per share. Book value decreased to $4.34 per share at March 31 and economic book value decreased to $4.09 per share.\nPage 9 of the earnings presentation provides detail of some of these items together with the additional information section of the presentation beginning on Page 13. Steve Yarad will be available to discuss the financial results from the first quarter during the question-and-answer session.\nI would now like to spend some time discussing balance sheet changes since March 31 and provide some perspective on what we envision after funding of the Apollo and Athene transaction and exit from forbearance. Page 7 of the earnings deck shows portfolio activity from December 31 to March 31 and then again from March 31 to May 31. As you can see from the pie charts, we have sold substantially all of our mortgage-backed securities and our $6.6 billion portfolio is approximately 94% whole loans. This should not be a surprise as almost all of our portfolio growth and new acquisitions over the last two to three years has been in whole loans. Mortgage-backed securities are admittedly more liquid and were therefore easier to sell, but we saw improvement in securities pricing through April and May whereas loan pricing changes were less defined and slower to occur, both on the way down and on the way back up.\nMore importantly, it is more difficult to get non-market -- non-mark-to-market financing on mortgage-backed securities than it is on loans due to certain regulatory issues. So, the decision was relatively easy. We view loans as generally more attractive assets and -- than securities and loans are more conducive to more durable financing arrangements. In rough numbers, our whole loan portfolio today is comprised of non-QM loans, $2.4 billion, loans at fair value, $1.2 billion, fix and flip loans, $850 million, purchase credit impaired or reperforming loans, $660 million, single family rental, $500 million, season performing loans, $150 million, and REO or real estate owned of $375 million.\nLooking forward, we will finance a significant portion of this portfolio through term non-mark-to-market financing, including securitization. With the committed $1.65 billion in our existing securitizations of approximately $500 million, we will have over $2 billion of such financing. And as mentioned previously, we are working on a similar committed line with Athene and another dealer for our fix and flip portfolio. We will continue to pursue securitization, particularly for non-QM loans. Spreads for AAA securities widened out from the 100 area, that's 100 over swaps in early March to as wide as plus 400 at the depth of the crisis, but they've been slowly grinding tighter and are now back to mid-100 levels. We expect that following the closing and funding of these transactions, we will be able to declare and pay the accumulated dividends on our Series B and Series C preferred stock issues.\nAs we have disclosed previously, the terms of the forbearance agreement prohibited payments of dividends on any equity interests, including preferred stock. Once the preferred stock dividends are current, we will no longer be prohibited from paying a common dividend. As far as the dividend on MFA's common stock, the Board of Directors will determine our dividend policy going forward. While we do not provide guidance as to expected future dividends, I will share several pertinent facts that will clearly be given consideration in framing dividend discussions with the Board.\nOne, at present we have undistributed REIT taxable income from 2019 of $0.05 per share. In order to avoid paying corporate income tax, we are required to declare a dividend for this income prior to filing of our 2019 REIT tax return, which we do in October of this year and pay such dividend before the end of the year. Two, estimated REIT taxable income or ordinary income for the first quarter of 2020, is approximately $0.10 per share. In order to avoid paying a 4% excise tax on this amount, we are required to declare dividends in 2020 for at least 85% of our estimated 2020 REIT taxable income. And three, capital losses, again for tax purposes, generated from sales of residential mortgage assets to date in 2020 are carried forward and offset future capital gains. However, these capital losses do not offset ordinary REIT taxable income. While we cannot forecast ordinary REIT taxable income for the balance of 2020, any such income generated will be added to the $0.10 in the first quarter in determining the threshold necessary to avoid the 4% excise tax.\nOur other brief update. At June 12, our unrestricted cash was $242 million. Book value as of May 31 -- GAAP book value is estimated to have increased by approximately 2% to 3% versus March 31. Economic book value is estimated to be flat versus March 31. This is primarily because carrying value loan marks were lower in April than in March and while we have seen some appreciation from April to May, the May loan marks for carrying value loans, which is what determines economic book value for the difference between GAAP and economic book value, those marks are still below the March marks.\nThis concludes my prepared remarks. Stacy, would you please open up the lines for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you, ladies and gentlemen. [Operator Instructions] And our first question will go to Doug Harter with Credit Suisse. Please go ahead."
+    },
+    {
+      "speaker": "Doug Harter",
+      "speech": "Thanks. Can you just talk about the non-mark-to-market facility? I guess how should we think about the incremental cost to have that added protection of non-mark-to-market?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure. Doug, thanks for the question. So without -- yes, it is slightly more expensive, although it's not really that much more expensive. The bigger difference is the advance rate as you can imagine are lower and so hence the reason for more capital and overall -- less leverage overall. But without -- and then we're still in the process of negotiating a fix and flip line. So, it's a little bit too early to give you exact spread levels. We will definitely do that on the second quarter earnings call. But like I say, they're not that much more expensive than what we used to pay."
+    },
+    {
+      "speaker": "Doug Harter",
+      "speech": "All right, thanks. And you mentioned in your prepared remarks that with the new capital you might be able to take advantage of investment opportunities. Is there any way you could size how much kind of available liquidity you think you would have to invest following kind of all the actions you've taken?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure. Again, it's a little preliminary because there is a -- this probably, this -- we'll likely fund at the end of -- toward the end of June when we get to the end of the forbearance period and some of that will be used to pay down some of the existing repo lines, but suffice to say, it will be hundreds of millions of dollars. So, it will be substantial dry powder to look for new opportunities."
+    },
+    {
+      "speaker": "Doug Harter",
+      "speech": "All right. Thank you, Craig."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll go to Stephen Laws with Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Stephen Laws",
+      "speech": "Hi, good morning."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Good morning, Stephen."
+    },
+    {
+      "speaker": "Stephen Laws",
+      "speech": "I guess -- good morning, to follow-up on Doug's question. I think you commented during the prepared remarks, 60% of the financing once you pro forma for the new non-mark-to-market facility will be non-mark-to-market, leverage was 1.9. Is that about where you want to be? Do you see the leverage going down from here? Does it go up from here given the shift in the risk around the financing? Kind of how do you view this optimal portfolio size here for the near-term either bigger, smaller, staying the same?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "I don't -- I certainly don't think it needs to be any smaller than it is today. I think there is room to increase it somewhat. I think the leverage number could increase somewhat for several reasons. We still have -- and will have a number of unencumbered assets, which we could add leverage to and example of those would be the REO portfolio, which right now we're essentially 100% unencumbered. The other is through securitization. Effectively we get higher levels of leverage through securitization and because it's termed out and it's non-mark-to-market, it's a different type of leverage. So, I think it could take hard. Do I see it going back up to just three times where it was before, where we used to say that we were the lowest levered mortgage REIT in the space? Probably not, but certainly within the -- in the twos is conceivable."
+    },
+    {
+      "speaker": "Stephen Laws",
+      "speech": "Great. Thanks for that color. And a couple of things around the Apollo announcement. Saw the filing and I assumed -- again a follow-up to Doug, the financing facility will get more clarity on pricing there on the new non-mark-to-market. I think it's expected to close January -- 10 days from now. So, is that when we'll see pricing or what will it be after that?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "I think what we probably do is endeavored to provide more clarity on our liability cost structure on the earnings call for the second quarter. We'll have the -- we'll have the Apollo, Athene numbers obviously at the end of June, but some of the other financing may not completely be in place yet. So, we're moving as fast as we can to solidify that. We need to renegotiate MRAs with our existing lenders for the post-forbearance lending environment. And so, all that will come into place, but at a minimum, we'll provide much more robust disclosure on that cost structure on the second quarter earnings call. And again, keep in mind that none of those numbers will be reflected in the second quarter. So they won't even begin to be reflected in financial results until the third quarter."
+    },
+    {
+      "speaker": "Stephen Laws",
+      "speech": "Okay, that's helpful to think about that from timing. On the Athene commitment to buying bonds for next securitization, can you give us any color on where the bonds are in the stack that they are committed to look at and when that securitization may come? I mean, how should we think about the benefits to MFA from that commitment?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "So, I think the benefits are pretty substantial. They would typically be on the bonds below AAAs. And as far as timing on that securitization, it's hard to say. We were literally one or two days in March from pricing a securitization on non-QM loans. So, suffice to say, the pools and the loans have teed up to securitize. So, we're going to move ahead with that as quickly as we can."
+    },
+    {
+      "speaker": "Stephen Laws",
+      "speech": "Great. And last question I think for me. I really appreciate the color around REIT taxable income and carry spillover from last year in distribution dates. I guess, the way I understand it is that while the losses on security sales can offset REIT ordinary income, the losses on the hedges and swaps can since that's considered part of financing and can offset ordinary income. So, I guess first, am I correct with that statement? And if so, can you quantify? I believe I wrote it down or tried to what the losses were on line to the swaps, I think it was $170 million, maybe that will be amortized in interest expense over 20 months, I believe. Is that all going to be able to offset ordinary income this year or does it carry over next year as well?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "So it's a good question and unfortunately I don't have Terry Myers on this call. Steve, I'm not sure if you know the answer to that or maybe, we can get back offline there."
+    },
+    {
+      "speaker": "Stephen D. Yarad",
+      "speech": "Craig, Steve's question is a good one. And I think we disclosed in the press release that as a result of the unwind of the $4.1 billion of swaps, we have roughly, I think $71 million of losses that are currently trapped in OCI."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "That's right."
+    },
+    {
+      "speaker": "Stephen D. Yarad",
+      "speech": "And so the -- right now if those the liabilities that were hedging for accounting purposes, the swaps have a 20-month sort of average life. So, all things staying as they are right now, those losses will be recognized for accounting purposes over that period of time. It's going to depend on assessment of whether those hedged items will -- the probability of those hedge items recurring in the future and that will ultimately determine the timing of when those losses are recognized for GAAP accounting purposes and also ultimately for tax. So, based on how that assessment plays out, as we renegotiate the financing, it could impact the timing of that. So that will remain to be seen as to exactly when that -- those losses are recognized in GAAP income and taxable income. But right now, it's -- based on the assessment that we've done, it would be recognized over about a 20-month period."
+    },
+    {
+      "speaker": "Stephen Laws",
+      "speech": "Correct. Thanks for the color on that. Appreciate you taking my questions this morning."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Thanks, Stephen."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll go to Rick Shane with JP Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Rick Shane",
+      "speech": "Hey guys, thanks for taking my questions and thank you for all of the disclosure in the timeline. It's very helpful. I just want to understand the Apollo warrant position a little bit better. Typically, we talk about warrants in terms of coverage. What is the coverage in the context of the $500 million facility?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "So, it's disclosed in the 8-K. It's basically two warrant packages, a total of 7.5% and the pricing was struck when the term sheet was signed, although coincidentally, I think the blended exercised price of the warrants is approximately equal to the 60 days VWAP of the stock."
+    },
+    {
+      "speaker": "Rick Shane",
+      "speech": "Got it. Okay, that's helpful, and I did not see that in the 8-K. There is a ton of material this morning. So, I apologize for missing out but that's helpful."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "No worries."
+    },
+    {
+      "speaker": "Rick Shane",
+      "speech": "And then, look, you guys talk about the, excuse me, the strategic nature of the partnership. Obviously, Apollo from a funding and financing perspective, is a global leader. They also frankly have some history in this space strategically. I'm curious if you see it really as more of a funding relationship or ultimately more of a partnership in terms of asset gathering as well?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "I mean, frankly I think it's probably both. I think you've already seen with Athene that Athene has leaned in to lend us money and to lend us attractive term non-mark-to-market money. They're doing the same thing with another dealer on our fix and flip portfolio. They're purchasing subordinate bonds and securitizations that we do. I think Athene is obviously a buyer of mortgage assets. So, I think we view it very much as a partnership. Within the Apollo complex, there is also an originator, AmeriHome. So, I think it remains to be seen where all the possible synergies are, but we think it's very much a strategic relationship and it's certainly more than just funding."
+    },
+    {
+      "speaker": "Rick Shane",
+      "speech": "Got it. Very helpful. Hey, guys, thank you very much."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Thanks, Rick."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll go to Kenneth Lee with RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Kenneth Lee",
+      "speech": "Hi, thanks for taking my question. You mentioned that over time you're expecting to finance more the residential whole loans through securitizations. Wondering if you could just give us some color on the current environment that you're seeing in terms of securitizations. Thanks."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure. Bryan, you want to talk about that?"
+    },
+    {
+      "speaker": "Bryan Wulfsohn",
+      "speech": "Yeah, sure. Actually, recent times there has been a fair amount of demand for the senior part of the stack. As Craig was mentioning in his prepared remarks, we saw spreads really wide and out going into March and April, but for May and then [Phonetic] you've really seen sort of the return of securitization and now you're seeing sort of spreads on the AAAs anywhere between $125 million and $150 million at the moment. So, there seems to be a lot of pent-up demand from the lack of issuance over that two months period and so there's a lot of demand for the security. So, we're -- the outlook on that and at least in the immediate near term is pretty positive."
+    },
+    {
+      "speaker": "Kenneth Lee",
+      "speech": "Great, thanks. And just one follow-up if I may. And it sounds like we would see interim financing facility as well as the capital raise. The liquidity position and the general resiliency of the Company has been improved significantly, but wondering with 60% of the EBIT portfolio as you mentioned now being financed through a non-mark-to-market, is there any way you could just sort of give us a sense or better yet frame how strong this liquidity position is in terms of being able to withstand any kind of potential market volatility going forward? Thanks."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure. Well, we think it's a substantially more bulletproof financing structure. Given additional liquidity and given the non-mark-to-market nature, we think it is very durable. To your point about the securitizations, I think as some of these securitizations occur, those are loans that will go off those lines because they will be part of the securitization and even at current levels, which are 25 basis points or maybe 30 basis points wider than where they were in early March, they're still very attractive levels, given how low swap rates are. So, I think -- and obviously the securitization is completely non-recourse non-mark-to-market. So, I think we're in a substantially better situation. Also, keep in mind that as I said, there were $800 million of margin calls over a two-week period and $600 million of that was mortgage-backed securities and our mortgage-backed securities portfolio at this point is very small. So, it really was the securities portfolio ironically, because so much of the pain rather than the loans, and yes, the loans did decline in value, but the loan value decline happened over a much longer period of time and it was nowhere near deep as the securities value declines."
+    },
+    {
+      "speaker": "Kenneth Lee",
+      "speech": "Great. That's very helpful. Appreciate it and thank you very much."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "You bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And we'll go to Eric Hagen with KBW. Please go ahead."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Hey, thanks, good morning guys and hope you're -- hope you all are doing well."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Good morning, Eric."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Good morning. What's -- can you just tell us the amount of unrealized loss that's remaining in the portfolio now? And how much of that, I guess, do you think can be recovered? I mean, how much of those marks on the loan side are due to things like liquidity that aren't necessarily credit-related or explicitly credit-related and could be recovered?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure. Good questions. Steve, you want to tackle that?"
+    },
+    {
+      "speaker": "Stephen D. Yarad",
+      "speech": "Sure, Craig. So, on the carrying value loans, which impacts our economic book value, the losses on those at the current position into May, they're in an unrealized loss position of roughly $160 million and to the extent that prices continue to recover, it's hard to say how much they could recover due to liquidity or whatnot. But this as an example, if there was a 1 point increase in pricing across that portfolio that would reduce those losses by roughly $50 million, and similarly on the security side, because of the way we did the accounting on the CRT securities and the MSR notes, we were selling those securities and we impaired those securities and adjusted the amortized cost at the end of March. If there's increases in those prices, again, hard to suggest how much that might be, but as -- this is an example, if they were to avert the par over time, there would be a fairly substantial impact on our book value as much as $70 million, if they were to revert to par. So, that would have an increase -- a significant increase impact as well. So, hard to say exactly how much recovery could occur, but it could certainly based on uplift in the book value as a result of continued recovery in those prices."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "And Steve, what about loan loss reserves?"
+    },
+    {
+      "speaker": "Stephen D. Yarad",
+      "speech": "Yeah, that's the other thing. I mean, obviously we applied CECL in the first quarter for the first time, probably the worst possible timing to apply the accounting standard that was really based on projection of future losses. So, we obviously took some significant reserves on our carrying value portfolios and we used, I think, prudently conservative assumptions. The CECL reserve is sort of heavily dependent on macroeconomic factors like unemployment and HPA. And we have roughly $140 million of -- $140 million to $150 million of CECL reserves. So, it's our assumptions are a little too conservative perhaps. I don't know if they will be [Indecipherable] over time how things progress. But that's another area where there could be some potential uplift in GAAP book value moving forward."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Got it. That's helpful detail. I'm wondering how you guys are thinking about the shape of the capital structure here. I think the intention when you guys raised the preferred in February was to retire the baby bond and maybe some of the crafts or maybe have that backwards. But I mean, what's the plan here? Is there still some capacity to be able to do that or just your overall thoughts on, I guess, the shape of the capital structure?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "So, I think we're pretty happy with the shape of the capital structure. I think the timing of that Series C was such that the world changed very quickly in the course of a few days. And so we did not end up calling the baby bond. So, I think we'll look at that over time. But like I say, we're not unhappy with our capital structure at this point. I don't think it's overly heavily weighted toward preferred certainly. So, we'll just sort of take it quarter-by-quarter and see."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Okay. And I know that there is a lot of, I guess, feels like there is moving pieces with the various facilities and what you guys are on the brink of it sounds like obtaining and I know that 40% of the funding book will be repo. But can you give us detail on what assets that repo will be funding and what's the terms? I mean, is there any risk that doesn't roll and are they all still daily mark-to-market on that remainder -- that remaining repo?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "So, there's always danger that repo won't roll, although we have -- we're down to six counterparties in the current forbearance plan and suffice to say, we're very familiar with all six of them and have had many discussions with them about this. I think -- to give you an example, I think some of the -- and some of the way that we create a little bit more durable financing on let's say loans for instance is even if it is a daily mark-to-market, if the permitted advance rate is, let's say, 70%, which is probably lower than it used to be, but let's say the permitted advance rate is 70%, if we instead of borrowing 70%, if we borrow 65% or even 60%, it creates a little bit of a margin holiday in that the price of the loans could decline, but it wouldn't generate a margin call until you actually made up the difference between the actual borrowing rate and the advance rate. So, that's one way to create slightly more durable financing out of daily mark-to-market financing."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Right. Can I press you for where that repo is going to be sitting and what it's going to be funding? I mean, it sounds like maybe the non-QM has committed funding at this point. But where -- I guess what I'm asking is, where are you still trying to tie up some potential term funding and what are you not able to get term funding on potentially?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "I mean, we can get term funding, it's just the question of, we have more loans than we have term funding. So, we just have to figure out how to allocate. So, I think a substantial portion of non-QM will be termed out non-mark-to-market, but a substantial portion will be more traditional as well. I think as I mentioned, the goal is to put this facility in place for fix and flip, which will be term non-mark-to-market and that would be for that whole portfolio. The rest of the loan portfolio is spread around. I think more of the non-performing loans are better suited to the -- the existing facility with Barclays and Athene, but as far as reperforming and season performing, they're all somewhat fungible."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Okay. And there is flexibility for what you guys can pledge on the line with Apollo and Athene and Barclays, or is it [Speech Overlap]?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Yeah, because -- no, it doesn't mean that we could pledge everything, but there is a fair amount of flexibility."
+    },
+    {
+      "speaker": "Eric Hagen",
+      "speech": "Got it. Hey, thanks for the comments. I appreciate it."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll go to Steve Delaney with JMP Securities. Please go ahead."
+    },
+    {
+      "speaker": "Steve Delaney",
+      "speech": "Thanks. Hey, good morning everyone and sorry to be late getting in the queue. I had the code wrong. So first, just congratulations on the refi package. Two points there, strong strategic partners and by [Indecipherable], it looks like the dilution from the warrants was far less than we'd seen in some other financing, so great job on that. Craig, can you, I guess, eventually will see this, but just quickly trying to run through the 8-K, I didn't see a reference to the rate index or what you'd be paying on these two facilities, the $500 million senior secured and the borrowing facility. Could you let us know what the payment terms are on those facilities?"
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Sure, Steve. Thanks for the question and good to finally talk to you again."
+    },
+    {
+      "speaker": "Steve Delaney",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "So, we talked about this earlier in the call. We will report more robustly on the cost structure of our liabilities structure when we report our second quarter earnings. It's not in the 8-K, so don't kill yourself looking for it."
+    },
+    {
+      "speaker": "Steve Delaney",
+      "speech": "Okay. I stopped after 50 minutes."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "But as I said to another question earlier on the call, it is somewhat more expensive than what we used to pay for financing, but it's not..."
+    },
+    {
+      "speaker": "Steve Delaney",
+      "speech": "Understood."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "It's not more expensive. It's the advance rates on more durable financing are obviously lower. And so, the implications are that, that overall leverage numbers, even though we thought our leverage was pretty low before, we'll probably be somewhat lower. So, I guided to the somewhere in the twos earlier, sort of target future leverage."
+    },
+    {
+      "speaker": "Steve Delaney",
+      "speech": "All right, that's helpful and we'll keep an eye out for that, we can certainly plug something in the model update for now. And I listened closely to your comments about the tax situation and the dividends and just given where you are with trying to clean up the forbearance and catch up on the press, it struck me that the message you were sending is that the Board certainly intends to reestablish a common dividend, in fact you likely will be required to, but my read on it is and what I think I'm going to advise clients that ask is, look forward maybe to 3Q and the second half of the year as far as the reestablishment and let the -- for a common payout and let the Company completely clean up their repositioning. And that's -- I'm just -- and that's the way I think I heard your comments, and you didn't say that specifically that there would be no 2Q common, but it seems more likely to me that it makes more sense in the third quarter."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Again, you're right. I didn't say that specifically, but I think your comment is probably well founded."
+    },
+    {
+      "speaker": "Steve Delaney",
+      "speech": "Okay, great. Well, listen, congrats. I know it's been a brutal three months, but congratulations on getting through it and we'll all live to fight another day."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "Thanks a lot, Steve. Good to talk to you."
+    },
+    {
+      "speaker": "Steve Delaney",
+      "speech": "Take care, guys. All right. Bye-bye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And at this time, there are no questions in queue."
+    },
+    {
+      "speaker": "Craig L. Knutson",
+      "speech": "All right, thanks, Stacy. So, thanks everyone for joining us. We look forward to speaking with you again fairly soon in early August to talk about the second quarter. Thanks, again."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 46 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Harold E. Schwartz--Senior Vice President, General Counsel and Secretary",
+    "Craig L. Knutson--Chief Executive Officer and President",
+    "Stephen D. Yarad--Chief Financial Officer",
+    "Bryan Wulfsohn--Co-Chief Investment Officer",
+    "Doug Harter--Credit Suisse -- Analyst",
+    "Stephen Laws--Raymond James -- Analyst",
+    "Rick Shane--JPMorgan -- Analyst",
+    "Kenneth Lee--RBC Capital Markets -- Analyst",
+    "Eric Hagen--KBW -- Analyst",
+    "Steve Delaney--JMP Securities -- Analyst"
+  ]
+}

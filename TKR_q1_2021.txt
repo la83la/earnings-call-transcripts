@@ -1,0 +1,410 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. My name is Anna, and I will be your conference operator today. [Operator Instructions]\nAt this time, I would like to welcome everyone to Timken's First Quarter Earnings Release Conference Call. [Operator Instructions] Mr. Frohnapple, you may begin your conference."
+    },
+    {
+      "speaker": "Neil Frohnapple",
+      "speech": "Thanks, Anna, and welcome, everyone, to our First Quarter 2021 Earnings Conference Call. This is Neil Frohnapple, Director of Investor Relations for The Timken Company. We appreciate you joining us today. Before we begin our remarks this morning, I want to point out that we have posted presentation materials on the company's website that we will reference as part of today's review of the quarterly results. You can also access this material through the download feature on the earnings call webcast link. With me today are The Timken Company's President and CEO, Rich Kyle; and Phil Fracassa, our Chief Financial Officer.\nWe will have opening comments this morning from both Rich and Phil, before we open up the call for your questions. [Operator Instructions] During today's call, you may hear forward-looking statements related to our future financial results, plans and business operations. Our actual results may differ materially from those projected or implied, due to a variety of factors which we describe in greater detail in today's press release and in our reports filed with the SEC, which are available on the timken.com website. We have included reconciliations between non-GAAP financial information and its GAAP equivalent in the press release and presentation materials. Today's call is copyrighted by The Timken Company. And without express written consent, we prohibit any use, recording or transmission of any portion of the call. With that, I would like to thank you for your interest in The Timken Company.\nAnd I will now turn the call over to Rich."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Thanks, Neil. Good morning, everyone, and thank you for joining us for our first quarter earnings call. I'm very pleased to report that we delivered both record revenue and earnings in the first quarter. The revenue results reflect broad strengthening across most of our end markets, excellent execution by Timken in managing our supply chains and our operations, the diversity and strength of our portfolio, and our outgrowth initiatives. Revenue of $1.025 billion was up 11% from last year. The strengthening in our markets that began mid last year accelerated in the quarter, and despite a wide variety of supply chain challenges, we responded to the increase and delivered revenue that was up 15% from the fourth quarter.\nThe sequential strengthening from Q4 was broad, as most of our end markets were up double digits sequentially. The year-on-year growth was again led by renewable energy, as Timken continues to increase penetration in global wind and solar markets. Off-highway, heavy truck, automotive and general industrial markets were also up double digits year-on-year. Geographically Asia, at plus 30%, drove much of the year-on-year growth. But more importantly, we are now seeing sequential growth across all major geographies. The sharp increase in demand, combined with the lingering impacts from the pandemic, stressed many of our supply chains and operations. We experienced labor challenges, freight delays, supplier delays and unanticipated changes in customer demand.\nWe were impacted negatively by both the Suez Canal as well as chip shortages in the quarter. And while these two issues grabbed a lot of the headlines, they were just two of the many issues across our global supply network that we successfully managed our way through. We continue to experience some inflationary pressures, primarily in freight and raw material, but they continue to be very manageable. Pricing was slightly positive in the quarter as material surcharges kicked in. Despite the inefficiencies and cost pressures, we were able to ramp up to meet the increased demand, and in the process of doing so, deliver record earnings per share of $1.38 and EBITDA margins just shy of 20%. Cash flow was seasonally low and impacted by the significant increase in accounts receivable from the sequential sales growth.\nCash flow the remainder of the year is expected to be strong. We continue to advance our strategic initiatives in the quarter. We delivered strong year-on-year growth in renewable energy of over 30%, while continuing to advance our announced $75 million investment plan. Many of our smaller outgrowth initiatives across multiple end markets also contributed to the record Q1 revenue results. Aurora Bearing had an excellent first full quarter as part of Timken, and we are rapidly moving to integrate the business. Our Groeneveld BEKA transformation into an integrated and globally leading automatic lubrication systems business is also on track and is already accretive to company margins.\nWe continue to advance our footprint.\nOur New Mexico plant is in production and will be ramping up through the course of the year, and we are completing several footprint consolidation initiatives, including the relocation of our Diamond Chain plant and the expansion and modernization of our solar operations in China. We also plan to convert two more operations to our primary ERP and digital platforms in the second half of the year, which will facilitate both revenue and cost synergies. Overall, an excellent quarter from Timken and delivering results in a dynamic environment while advancing the company for long-term success. And while the pandemic has improved in many parts of the world, it has hit new peaks in others, and I want to reinforce that we continue to place employee safety at the forefront of all of our operating decisions.\nAs we look forward to the rest of 2021, market demand remains very strong, and Timken remains in an excellent position to capitalize on the markets. We are now estimating full year revenue to be up 18% over last year, to a record $4.1 billion. We're planning for normal seasonality with a slightly weaker second half than first half. On the bottom line, we are guiding to a record $5.30 of earnings per share at the midpoint, which would be almost 30% higher than last year and 15% higher than 2019's record of $4.60. In support of our top line and bottom line estimates, orders and customer demand are very strong. Customer sentiment on the second half of 2021 and into 2022 is bullish.\nWe continue to win in the marketplace with our outgrowth initiatives, and we are focused on creating shareholder value and driving future growth through capital allocation. I would like to caution that there is more uncertainty than normal in our estimates. We are currently facing daily supply chain and cost challenges, which continue to elevate the level of uncertainty in our business. In both the revenue and earnings estimates, we have assumed continued supply challenges at our customers, our operations and our suppliers' operations. We expect the issues to continue at roughly the first quarter pace through the second quarter, and then to improve through the second half.\nBut these issues have not been predictable, and the range of possibilities remains wider than normal. Over the last several years, including in this first quarter, we have consistently and reliably demonstrated the ability to successfully navigate highly dynamic markets and macroeconomic forces, and we're confident in our ability to continue to do so in today's environment. We delivered strong EBITDA margins in the first quarter, which we expect to translate to solid margins for the full year. And we remain committed to our long-term target of 20%. The price/cost situation remains a modest headwind but a manageable one, and it is being more than offset by volume and other cost improvements.\nWe expect a good year for cash flow and expect to continue to generate value through capital allocation with a bias to M&A. The impact of all three of our strategic pillars, of outgrowth, operational excellence and capital allocation are evident in our first quarter results as well as our outlook for the year, and we will continue to build our pipeline and advance our initiatives. While short-term there remains a high level of anxiety around the pandemic and the associated supply chain challenges, customers and global capital equipment markets are very optimistic about the future. We are well positioned to continue to grow in renewables, but the Timken story is bigger and broader than just renewables.\nAcross our markets, there is an enormous amount of new equipment design work taking place at our customers, with a particular emphasis on improving sustainability. And Timken's value proposition in contributing to the efficiency of future generation equipment designs is a core strength and competitive differentiator for the company. The renewed interest in increased infrastructure spending will also favorably ripple through many of our markets in the coming years. Timken is well positioned to continue to grow and win in the marketplace. In summary, we achieved outstanding results in the quarter and are on track to deliver a record year.\nAnd with that, I will turn it over to Phil."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Okay. Thanks, Rich, and good morning, everyone. For the financial review, I'm going to start on slide 10 of the presentation materials. Timken delivered strong performance across the board in the first quarter, and you can see a summary of our results on this slide. Revenue for the first quarter was a record $1.03 billion, up 11% from last year and up 15% sequentially from the fourth quarter. We delivered an adjusted EBITDA margin of 19.9%, up 70 basis points from last year's strong first quarter. We also delivered record adjusted earnings per share of $1.38, up 24% from last year. Turning to slide 11, let's take a closer look at our first quarter sales performance. Organically, sales were up 7.5%. Both of our segments saw higher sales volumes versus the year-ago period, and pricing was slightly positive as well.\nCurrency added 2.7% to the top line in the quarter, while the Aurora Bearing acquisition contributed just under 1%. On the right-hand side of the slide, we show year-on-year organic growth by region, so excluding both currency and acquisitions. Let me comment briefly on each region. In Asia, we delivered strong growth again in the quarter, up 30%. Our sales were up broadly across most sectors in the region, with renewable energy, distribution, off-highway and heavy truck posting the strongest gain. In Latin America, we were up 25%, led by higher revenue in distribution in the on-highway auto and truck sectors.\nIn Europe, we were up 6% as growth returned in several sectors, led by off-highway and distribution. And finally, in North America, our largest region, we were down slightly versus last year, driven mainly by lower aerospace, rail and marine revenue, which more than offset growth in other sectors like off-highway. However, we were up double digits from the fourth quarter, and we were up year-on-year in March. We expect North America to be up for the full year. Turning to slide 12. Adjusted EBITDA was $204 million or 19.9% of sales in the first quarter, compared to $177 million or 19.2% of sales last year. This represents an incremental margin of roughly 26% all in, or 33% on an organic basis.\nThe increase in adjusted EBITDA reflects the impact of higher volume, favorable manufacturing performance and lower SG&A expenses, which more than offset higher material and logistics costs and unfavorable mix. The unfavorable mix was driven by the relatively higher OEM revenue growth in the quarter as compared to distribution. Currency had a slight positive impact on EBITDA in the quarter, and Aurora Bearing contributed about $1 million, with margins running ahead of our expectations. Let me comment a little further on our manufacturing and operating expense performance. On the manufacturing line, our team responded well during the quarter to the significant step-up in customer demand.\nWe benefited from higher production volume versus last year, which enabled us to more than offset some cost headwinds related to ramping up production. We also continued to benefit from ongoing cost reduction actions and other productivity initiatives across our footprint. And as expected, we did experience higher material and logistics costs versus last year, some of which was driven by the higher volumes. As Rich mentioned, we're in a challenging and volatile supply chain environment right now. And while our team is managing through it very well, we expect these conditions to persist through at least the second quarter. And finally, on the SG&A line, we saw a reduction in expense versus last year as we continued to benefit from cost reduction initiatives and lower discretionary spending, which more than offset the impact of higher incentive compensation expense.\nSo overall, we delivered solid adjusted EBITDA margin expansion in the first quarter, driven by solid execution on higher volumes and despite supply chain and other challenges. On slide 13, you'll see that we posted net income of $113 million, or $1.47 per diluted share for the quarter on a GAAP basis. This includes $0.09 of net income from special items, driven by discrete tax benefits in the period. On an adjusted basis, we earned $1.38 per share, up 24% from last year and a new quarterly record for the company. Our first quarter adjusted tax rate was 25.5%, in line with our expectations and slightly lower than last year. The current period rate reflects our geographic mix of earnings and other structural benefits.\nNext, let's take a look at our business segment results, starting with Process Industries on slide 14. For the first quarter, Process Industries sales were $521 million, up 14% from last year. Organically, sales were up nearly 10%, driven by strong growth in renewable energy, distribution and general industrial sectors, offset partially by lower marine revenue. The favorable impact of currency translation added roughly 3.5% to the top line in the quarter, while the impact of the Aurora Bearing acquisition added nearly 1%. Process Industries' adjusted EBITDA in the first quarter was $136 million or 26% of sales, compared to $112 million or 24.4% of sales last year, with margins up 160 basis points.\nThe increase in adjusted EBITDA reflects the impact of higher volume, favorable manufacturing performance, lower SG&A expenses and the benefit of currency, offset partially by unfavorable mix and higher material and logistics costs. Now let's turn to Mobile Industries on slide 15. In the first quarter, Mobile Industries sales were $505 million, up about 8% from last year. Organically, sales increased 5.2%, reflecting higher revenue in the off-highway, heavy-truck and automotive sectors, offset partially by lower shipments in rail and aerospace. Currency translation added 2% to the top line in the quarter, while Aurora Bearing contributed nearly 1%. Mobile Industries' adjusted EBITDA for the first quarter was $80 million or 15.9% of sales compared to $76 million or 16.3% of sales last year.\nThe increase in adjusted EBITDA versus last year reflects the impact of higher volume and lower SG&A expenses, offset partially by unfavorable mix and higher material and logistics costs. Turning to slide 16. You'll see we generated operating cash flow of $32 million in the first quarter. After capex spending of $29 million, free cash flow was $2 million in the period, which was in line with our expectations. The drop from last year reflects the impact of higher working capital to support our sales growth, which more than offset the impact of higher earnings in the period. In particular, we saw a large increase in accounts receivable during the quarter, driven mainly by March sales being significantly higher than December.\nNote that the first quarter is normally the lowest quarter for free cash flow generation. Given seasonal working capital needs and our annual incentive compensation payouts that occur in March, we expect a significant step-up in free cash flow over the remainder of the year, but it will be more back-half loaded. From a capital allocation standpoint, in the first quarter, we returned $50 million to shareholders, with the payment of our 395th consecutive quarterly dividend and the repurchase of 350,000 shares of company stock. Taking a closer look at our capital structure, we ended the quarter with a strong balance sheet and strong liquidity. Our leverage, as measured by net debt to adjusted EBITDA, was 1.9 times at March 31, unchanged from the end of 2020. This puts us in a great position to continue to drive our growth and capital allocation strategy. Now let's turn to the outlook on slide 17.\nWe now expect sales to be up around 18% in total at the midpoint of our guidance versus 2020, which is up from our prior outlook of 12% growth. Organically, we're now planning for sales to be up around 15% at the midpoint, up from the previous outlook of 9% growth. The higher outlook reflects our strong first quarter performance and improving market conditions. We expect both segments to be up double digits organically, but with higher growth in Mobile Industries than Process Industries. Our assumptions for currency and acquisitions are unchanged from our prior outlook. Currency is still expected to contribute about 2% to the top line, while Aurora Bearing is expected to contribute close to 1%.\nOn the bottom line, we now expect adjusted earnings per share in the range of $5.15 to $5.45 per share, which is also up from our prior outlook. At the midpoint, our current outlook represents nearly 30% earnings growth versus last year. The midpoint of our earnings outlook implies that consolidated adjusted EBITDA margins will be up slightly from 2020, despite unfavorable mix and the nonrecurrence of the significant temporary cost actions we took last year in response to the pandemic. For 2021, we now estimate that we'll generate free cash flow in the range of $325 million to $350 million, which represents just over 80% conversion on adjusted net income at the midpoint.\nThis assumes capex spending at around $150 million, or just over 3.5% of sales, which includes ongoing growth investments in areas like renewable energy. For the full year, we anticipate net interest expense of around $60 million, and estimate that our adjusted tax rate will be about 25.5%, consistent with the first quarter, and both of which are unchanged from our prior outlook. So to summarize, we delivered record first quarter performance and are raising the outlook for the rest of the year. The global Timken team is executing well in this environment, and we're confident in our ability to deliver record performance in 2021 and beyond.\nThis concludes our formal remarks, and we'll now open the line for questions. Operator?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Yes. Thank you. [Operator Instructions] And we will take our first question from Stephen Volkmann with Jefferies."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Hi. Good morning, guys."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Good morning, Stephen."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "I wanted to ask a little bit about your distributor network. I think, Rich, you might have said that it was not as robust as the OEM channel this quarter. And so I guess I'm a little surprised by that. You would think that would come back fairly quickly. So what do you think is happening there with distribution? And where do you think they are with kind of the restock that might have to happen at some point? And I'll leave it there. Thanks."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "So yes, I would say it's a relative situation. It was -- industrial distribution was up double digits sequentially in the first quarter from the fourth quarter, but not up as much as mobile OEMs and OEMs in general. And then I would also say, to your point on inventory, inventory, while the revenue was up double-digit sequentially, where we have visibility of inventory the inventory was flat to down a little bit. So I think there's a whole phenomenon there yet of inventory restocking to take place. And I think that's upside for us as the cycle moves forward on from a mix perspective. Because very much the rebound since the pandemic lows, it has been an OEM and primarily a mobile OEM-led rebound, but we are beginning to see other parts of that kick in. And obviously, the mobile OEM piece is unfavorable mix for us, and I think that will improve as time goes on. And I believe their optimism within that channel has improved significantly month-to-month at the start of the year."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Is there any distributor restock in your guidance?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Yes, I would say there would definitely be some in there. I think there's possibly some upside with that, though."
+    },
+    {
+      "speaker": "Stephen Volkmann",
+      "speech": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Rob Wertheimer with Melius Research."
+    },
+    {
+      "speaker": "Rob Wertheimer",
+      "speech": "Hi. I just wanted to see if I could ask two questions on growth, if I may. Just on renewables, are you able to outgrow the strong rebound you're seeing in the rest of the business this year? And I'm just curious how far your pipeline can see in that business with some of those larger projects? And second, Rich, if you'd just be willing -- I think I understand what you're talking about with the new opportunities in energy efficiency and your customers are all innovating and so forth. Just wonder if you could flesh that out a little bit, whether it's a share gain situation? Or any more color you want to give? Thank you."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Yes. On renewables, so probably for the year now in the guidance, the renewables forecast has stayed roughly where it was to start the year, up in the mid-teens. And the other parts of the business have come up. So I would say it is growing in line with the company average this year, as opposed to leading it. It was still leading it in the first quarter, but we do expect the growth in renewables this year to be a little front-end weighted. In terms of the visibility, very good visibility, certainly to the current quarter, and expect a very strong second quarter in the space.\nAnd we have some pretty good visibility into the start of the third quarter, so generally out three to four months. We do expect some seasonality, usually the fourth quarter. Even last year, which was a very good year, the fourth quarter was a little softer. So we expect some of that phenomenon to continue. And then, obviously, the comps as we move through the year, get significantly more challenging. So we do expect the growth rate to moderate in the second half off what we delivered in the first quarter and expect to deliver in the second quarter. Still very bullish on the market long term. And then the other part of the visibility is these are long design cycles. We have a very active pipeline with turbine OEMs, with drive OEMs, and feel very good about winning our share of business over the next several years, but a lot of this design work won't go into production until '22, '23.\nBut the pipeline is very strong. On the other piece, I'd say it's just the Timken business model of bearings, belts, couplings, etc., differentiating at the OEM with our technical capabilities of helping them design better equipment and more efficient equipment, lighter equipment, whatever the need is. And I just really wanted to reinforce on the call that we think our engineering pipeline there -- well, we know our engineering pipeline there is as active as it's ever been. And some of those things are kicking in this year, some will kick in next year, some will kick in beyond 2022.\nBut there's a lot of design activity happening from agriculture to construction equipment. Obviously automotive, electric vehicles get a lot of the media attention, but a lot of that is happening across most of the markets we participate in. And we think it's certainly always been a big differentiator for us from the smaller competitors and emerging competitors, but also a differentiator for us -- for our major competitors. And we like where we sit looking forward."
+    },
+    {
+      "speaker": "Rob Wertheimer",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Thanks, Rob."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Ross Gilardi with Bank of America."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "Hey, Rich, I'm going to piggyback off of that one a little bit. So just on EVs, I think the common perception is that bearing intensity goes down, not up. So can you elaborate on that? And is -- can you be any more specific on what kind of design changes are leading -- are they leading to greater bearing intensity in general? Or is it just an opportunity for you to be in front of your customers and sell other services and that type of thing?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Well, I think your point on EV is correct. I think in the -- on-highway vehicle electrification generally reduces total bearing and really mechanical power transmission content in the vehicle in total, although it also is a new design cycle. And as we look at that, again, we've -- it's not affecting where we participate as much as it is the industry in total, but where it is affecting where we participate, we see us being a marginal net winner in there. But as you certainly know, Ross, that also is not where we're targeting to be the growth engine.\nWhen you move into more industrial equipment, you're into more hybrid design solutions. In some cases, you're increasing the way -- drilling out full electrification, sometimes around emissions. And there, I think, our content is holding or growing. And then our ability, to Rob's question, really to win more as the design and mix up as we do that, is really where we're focused, and I think are really well positioned right now."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "Okay. Thanks. That's helpful. And then I just wanted to talk to you a little bit about your raw material costs and steel and just how your procurement process really works. I mean, I remember back in the day, when you had the steel business, you used to always talk about how you'd enter in the negotiations for most of your SBQ needs in the fourth quarter of the prior year. Is that still the case? And what percentage of your steel buy is still procured in that manner? And again, I guess what I'm getting at, if that's the case, are all the spot movements that we're seeing in commodity grades of steel really more of a 2020 issue at this point, when we're thinking about price cost dynamics for this year?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Well, I would say the prices generally have moved globally for the last several years, and we generally plan on them moving globally. So globally, steel prices increased significantly in the fourth quarter. And we got pinched by that a little bit in the fourth quarter. They moved up a little bit more in the first quarter and pinched a little bit, but less, because with the quarter lag, our pricing and some of our surcharge mechanisms kicked in. So to your question about where -- and that's really -- the part of that that's moving is, to your point, we generally negotiate base prices for the steel and then have a surcharge mechanism that the steel passes through.\nThe surcharge mechanism is typically 20%, 30% of the total steel cost. So even when you talk about a 50% increase or a 30% increase on that smaller element, it's not on the entire unit. So in the U.S., we typically have base prices fixed per year. And that would be the bulk of the U.S. spend, and then the surcharge mechanism would move through the year. So we generally know what our base prices are. The surcharge was in at a pretty high level in the first quarter. We did fine with it. We know where it's going to be in the second quarter. We feel good about it. And obviously, if it moves significantly up or down, it could be a little bit of a small good guy or bad guy for us in the quarter.\nBut really, when you look at a full year, there have -- since we divested the steel business, there has -- spun off the steel business, there has not been a year where we've really talked about steel being a material impact on our margins for the year. And I think we're still in a pretty good position to do that. When we get to rest of world, we buy generally in shorter terms, usually more like six months. So again, as we sit here today, we have a pretty good feel for our pricing for the next several months. And again, feel we have that baked into our guidance and feel pretty good that we're in a good position to cover steel cost going forward."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "That's helpful, Richard. Could you just repeat -- you threw some numbers out there, but you broke up a little bit when you were going over them, about 20% of something, it was toward the beginning of your answer. Can you just repeat that?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Well, yes. Typically, we have a base steel price. And then we pay a surcharge based on an index. And usually, the surcharge is less than -- one-forth to one-third of the total price that we're paying for the steel. So when that -- if that index part moves by a significant percentage, it's moving up by a significant percentage on, again, maybe one-forth of the steel. So it takes a big move on that for our steel prices to go up 10%."
+    },
+    {
+      "speaker": "Ross Gilardi",
+      "speech": "Okay. Got you. I'll follow up with these questions later. Thank you."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Thank, Ross."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Thank you, Ross."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll now take the question from Joe Ritchie with Goldman Sachs."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "Thanks. Good morning, everybody."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Good morning, Joe."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "Rich, that was good color on just the inflation and how it impacts your business. I guess just a follow-on question to that, or maybe two follow-on questions to that is first, is there a portion of your customer contracts that are kind of locked in for this year that ultimately are going to be tougher to maybe get some pricing on until next year? And then secondly, in your slide, slide 12, when you lay out the price/mix issue and the materials logistics issue in the first quarter or the headwind. How does that look like for the rest of the year?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "So I'll take that in a couple of different chunks. The -- certainly, we have a significant amount of our business that is on annual contracts that we would have locked in. And most of those annual contracts are calendar, not all of them. And again, we -- had we been in the environment we're in today in October, November of last year, we might have been a little bit more aggressive on the price side. But as we sit here today, we do have a fair amount of that locked in. Pricing did go up in the first quarter. Much of that, again, a reflection of steel surcharges. So in the majority of those contracts, whether they're annual or multi years, we have some mechanism to pass through some part of that steel inflation.\nAnd some of that started to happen in the beginning of the year. But we are, we certainly, as -- in this environment, as contracts open, we would expect to begin to move pricing up, and we'd see doing that over the next 12 to 18 months, but we're not counting a lot on price this quarter or the next quarter. So that will be happening over a period of time. I think as you look at price/cost, price/material cost in total and on that chart, obviously, it's a significant number. But again, it typically is a hedge with volume and our material -- it's normal for our material costs to go up as our volume goes up. We fight that, we resist that and negotiate against that. But also, there's a natural hedge with volume going up with it, and then we pass it through with time.\nSo I mean, I think with the exception of the speed at which it went up in the fourth quarter, there's really nothing abnormal about what we're dealing with in steel today versus '17 and '18 or '12 and '11, except maybe the spike that happened again in the fourth quarter. So I think the -- we feel good about the margins, and think the combination of it all is, the implied guidance would be around 19% EBITDA margins for the full year, and feel good about that. In a rising cost environment."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Yes. The only thing I would maybe add, Joe, and obviously, it kind of goes without saying, but I mean, obviously, with the complexity of our business with customer contracts, supplier contracts, I think we've shown over the years that we can get pricing to more than offset the impact of material costs, quite frankly. But it's not going to -- it just doesn't match up perfectly quarter-to-quarter. And I think we're in a -- not an unusual environment. Obviously, the material moving up as it has was quite rapid. But I mean the situation of being at a point where material is moving, price is going to follow. And I think as Rich said, price will follow. And as contracts renew, we will get price. And then obviously, when we put pricing through next year, I think you'll see next year be a year where we will make up for a lot of it and be in a situation where '22 will be a year where we would generate -- we'd expect to generate positive price/cost."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "That's super helpful. Thank you for that. Maybe my one quick follow-up. Just in thinking about the growth environment, clearly very encouraging what you guys are seeing across your business. I'm just curious, Rich, as you're thinking through this footprint consolidation and volume and flexing, how are you managing to make sure there are no kind of hiccups along the way as you're consolidating your footprint?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Well, yes, it's a good question. And I would say we had a fair amount of hiccups in the first quarter. I don't think they were associated with our consolidation activities. But those add a layer of complexity, certainly, to it. So I think we're managing that very conservatively, and we're very focused on having fewer hiccups this week than we had last week, and continuing to drive that down. But it is an environment where the first quarter was not as efficient as what we would certainly have liked it to have been within our plants.\nAnd from raw material and parts arriving late, to higher absenteeism in our operations, our supplier operations, and then customer changes, it was certainly not as efficient. And again, part of that would be normal in an upturn for us, and then part of it is compounded by the pandemic. But we think we will definitely get better as the year progresses. And certainly there'd be upside if we can get better sooner, because we didn't really factor any improvement for the second quarter."
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "speech": "[Indecipherable]. Thank you."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Thanks, Joe."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll now take a question from David Raso with Evercore."
+    },
+    {
+      "speaker": "David Raso",
+      "speech": "Hi. Thank you for the time. We used to speak to the second quarter margins being above 1Q, but not quite what 2Q a year ago was. I was just curious, with the strong first quarter margin, can you reset that for us? I'm just trying to think of the implied second half if you're looking at full year EBITDA margins in '19?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Yes. Well, I think certainly looking at -- the last year's comps started getting a little abnormal even in the first quarter because, as you'll recall, by March of last year we were having a pretty significant impact in Italy and other parts of Europe and had already gone through it in Asia. So we had already begun to do some things with temporary costs. And then the second quarter comps are also -- are going to be really abnormal. So I think definitely the better way to look at 2021 is the margins. And obviously we're pleased with the 19.9%. Normal seasonality would be a little lower in the second half than the first half.\nSo I mean we're basically projecting flattish margins from Q1 to Q2, and then a little bit of decline from the first half to the second half. The other thing I would say on the margins, there's -- the mix, as I talked about earlier, is quite unfavorable for us and has been for the last couple of quarters in regards to a mobile- and OEM-led demand. And most of our revenue increase was Mobile versus Process. I think there are certainly some upside if that mix would improve as the year progresses. And then I think the other upside for our margins, I've already mentioned, is more operational efficiency sooner than what we have in this guidance."
+    },
+    {
+      "speaker": "David Raso",
+      "speech": "And that was sort of related to my follow-up about mix. I know it's many months away. But when you think of what customers are describing their needs beyond this year, be it your assumed inventory levels in the channel by the end of the year, or just your views on the markets or any longer-term maybe projects you have. When we think of the mix for '22, it's just base case right now, should we think of Process growing as fast or faster than Mobile? Or is the mobile market still giving you some long lead time, be it aerospace, be it CAD on mining, whatever it may be, that we shouldn't necessarily assume yet Process outgrows Mobile in '22?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Yes. I'm probably not ready to call that. But I'd just go back to my earlier comment that industrial distribution was up nicely sequentially. But half what -- off-highway was up sequentially. And as you look -- the input we're generally getting today from mobile OEM customers is pretty bullish on '22. Automotive, heavy truck, all the segments of off-highway, ag, construction, mining and power sports, which is relatively small for us, but extremely bullish on that. So I think both, but I think naturally, to your point, it would normalize. And the MRO market will follow this and inventory restocking to some degree will follow it as well. So predicting when that happens and to what mix -- I don't think we're ready to do yet."
+    },
+    {
+      "speaker": "David Raso",
+      "speech": "Okay. Thank you for the prospective."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Thanks, David."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Thanks, David."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll move to our next question from Chris Dankert with Longbow Research."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Hey. Good morning, guys. Thanks for taking the question."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Good morning, Chris."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "I guess to kind of open the lens a bit, look internationally, I guess, good to see EMEA returning to growth. Just any comments on kind of the key drivers there? What's leading, what's lagging? And then maybe if we could just get a quick comment on Timken India as well, given the current situation, that would be great."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Yes. Let me take Timken India, and then I'll let Phil answer the first one. So I think as an example, for the first quarter, we started the year pretty good in Europe. And then Europe actually deteriorated for us. We had a lot of plant challenges with staffing and the MAT improved really kind of toward the end of the quarter. And now India has started to surface as more of a problem. I would tell you, as we sit here today, our India business, both locally is doing quite well, as well as the plants where we export into other parts of the world are fine.\nThat being said, we have seen an uptick in -- a small uptick in absenteeism, it hasn't hit the levels that we saw in Europe in the first quarter yet. But we do have some anticipation that, that situation is going to deteriorate further in the quarter, and we will have some impact on our production levels out of India. And obviously, again, it could be better, could be worse. And it's one of those unpredictable items that I mentioned. But I would also say, again, we've been dealing with those for now five, six quarters in a row. And again, to scale India as a market, it's single-digit percentage of the company. So it's -- and it's not in a situation where it's going like it did last year, from 100 down to zero for a couple of months. I think it could go from 100 to 95 or 90, but that's more of what we're looking at versus the cliff that we went down last year. Phil?"
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Yes, and then on Europe, Chris, I mean, obviously, it was great to see Europe get back to growth in the quarter. And it was really several sectors. As I said, all fine when distribution led the way, but I think the way to think about it, we were up 6% in Europe. It was more Mobile than Process. So on the Mobile side, off-highway was positive, We were up a little bit. Heavy truck and a little bit in rail as well. Most of the rail headwinds were in North America and other parts of the world. And on the Process side, as I said, distribution was positive, which was nice to see, and we also saw some strengthening in the general industrial sectors as well. So nice to see the region back to growth, obviously, still some challenges there with the pandemic, but good momentum building there, like in North America and rest of the world, and we have a real positive outlook for Europe for the rest of the year."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. Thanks so much for the context there,guys. I guess just a quick follow-up. At a high level, can you give us kind of a where we are in the -- you highlighted a lot of digital upgrades at the Analyst Day in the past. Just kind of where are we innings-wise in terms of the upgrade on the shop floor automation, the ERP and CRM upgrades? Just any kind of quick hitters there would be great."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Well, I think on the -- what we call our primary digital platform, which is -- the core of it's ERP, but then we have CRM off of it. We have engineering systems off of it, etc. That we feel is a best-in-class solution and is in 70-ish percent of our revenue streams. And we have a small part of the business that, really our services part and some other element, that we don't really look to bring into that. And really, most of what we're doing is bringing on acquisitions into that digital platform. Which, again, we think one brings us cost synergies, in the information technology stream alone brings us cost synergies, and brings us the ability to integrate things better, and then it also brings us sales synergies.\nSo that was what I was referring to in the comment. We are -- two of the acquisitions that we did a few years ago, we are bringing into that digital platform. And then we do have other initiatives where we're looking to extend it. So last year, we extended it further into our supply base and more digital connectivity with our suppliers. We've got a leading platform already on the distributor side, but always looking to augment that and improve it. And then there are places where we take it down to the factory floor automation. There are other places where we keep it separate. But we feel it's already a, I'll say competitive advantage as well as a cost advantage for us, that we run such a significant part of the company already on it and the more -- and it is something that we really look at from an acquisition standpoint, that we know we bring value to these smaller businesses that don't have the ability to have a system with this level of capability and connectivity to customers and suppliers."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. That's very helpful color. Thanks so much for the time, guys. [Indecipherable]"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll now take our next question from Brett Linzey with Vertical Research Partners."
+    },
+    {
+      "speaker": "Brett Linzey",
+      "speech": "Hi. Good morning, all."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Brett Linzey",
+      "speech": "I appreciate the detail. I wanted to come back to Asia Pac. I imagine you're going to begin to see a moderation in the rate of growth. But just in terms of the underlying level of demand in the order tempo there, any signs the pent-up demand post-COVID in that region is beginning to level off? Or would you characterize activity as still pretty active?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "I would say it's still very active. The India situation, we already touched on. It's a little tenuous at the moment. I think I would have two months ago said that the customers there were very optimistic about the year and next year. That's gotten a little more touch and go here today. But again, I think hopefully the pandemic transpires there like it has in other places, and peaks quickly and starts to pull back. China, I would say, has done very well. Certainly, the year-on-year number was helped a little bit by last year's -- the impact of China and -- of the pandemic last year. Still looking for really good year-on-year comps in the second quarter, and then they will moderate a little bit in the second half. But again, markets look pretty solid over there and optimism is high. And again, sequentially, with the -- again, with probably the exception of India's -- what's happened with India just in the last few weeks sequentially, geographically, all major geographies are sequentially improving."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Yes. And maybe, Brett, I would just add, what's interesting about Asia is last year, it was very much a renewable story, and it was really late in the year we started to see a lot of the other markets improve. But first quarter of this year was much broader. So it wasn't just -- obviously, renewables is still a big contributor, but we saw good growth in distribution, significant growth in off-highway, heavy trucks. So I do think, we certainly believe it can run longer because it really does feel like it can continue for some time."
+    },
+    {
+      "speaker": "Brett Linzey",
+      "speech": "Got it. Great. And then just shifting back to the guide, you did point to out growth as being a factor of the increase in the sales outlook. Are you able to parse out or quantify what's market versus outgrowth initiatives, things you've been working on, individual idiosyncratic wins for the company?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Well, we target the 100 to 200 basis points a year. And it's hard to really come back and hold yourself accountable to that until you can look back in the rearview mirror and do a lot of analysis of what competitors report, etc. So certainly on the first quarter, I -- it would be hard to pinpoint that. Certainly, we know we're winning in renewable energy, both wind and solar. We know we've won our share of platforms in the off-highway market, etc. So we feel good over the time frame that we're on track for that 100-plus basis points. But in any given quarter, hard to pinpoint, and a lot of what matters in the quarter is, are you in the right markets with the right customers? And certainly I think our mix is showing that, that was the case this quarter and this year as well."
+    },
+    {
+      "speaker": "Brett Linzey",
+      "speech": "Okay. Great. I'll leave it here. Thanks."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Thanks, Brett."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll now take a question from Steve Barger with KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Good morning, guys."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Morning."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Hey, Steve."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Rich, you said this has been an OEM-led recovery. And I know this example may be more industry-specific, but a railcar OEM recently said that higher steel prices could cause some delays in ordering. Now railcars are obviously all steel, but do you have concerns that dynamic could bleed over into other types of capital equipment? Or is the message from customers just all about availability?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "I would say we are not seeing those concerns at all today, and the discussions are about short-term availability and longer-term availability is into 2022. Rail is a market for us that was still down pretty significantly year-on-year, and -- but similar to my other comments, was up sequentially, from the fourth quarter to the first quarter, double digits. So again, we see the strengthening in the market, but the depth of where it went last year, we have not clawed back to positive there yet for a quarter. So that one is a bit of an exception for us within Mobile. That and Aero would be the two pieces of global that are improving sequentially, but are still not back to prior year and prior peak numbers."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Got it. Thanks. And Phil, spot freight rates are up a lot. And I think contract pricing is renewing at high single or low double-digit step-ups. Do you have arrangements where freight is a pass-through? Or how much of your volume is contract versus spot?"
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Well, I would say most of it would be contract, but we are subject to pass-throughs relative to fuel and other input costs. So I think we do a little bit like material where we are subjected to movements in fuel costs. And for us, a lot of the freight we've seen -- we saw in the first quarter was just premium freight or air freighting as we were trying to keep up with demand. But I would say, at the core, think of it as similar base price contract with adjustments from time to time for fuel cost."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "I think your comment, Steve, is appropriate for how we're experiencing inflation in a lot of cases. A spot buy of freight, a spot buy of anything, including a bearing right now, is going to be pretty expensive. But our suppliers are not running in raising prices right and left. And so it's -- if you're looking for something new, looking for something abnormal, the inflationary pressures are there. But I think our suppliers and Timken are playing it through -- playing it for the long term, and will look to -- they're certainly going to look to get some price over time. But we're not seeing mass inflow of inflationary pressures."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yes. Understood. It's just -- I guess, the question is how long can these spot increases persist before that starts to flow through in a more meaningful way to just general operations, right?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Well, and I think it will. And I think certainly if the markets stay as robust as we think they can for '22, it will. But Timken will have more pricing by then as well."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Right, thanks."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Thanks, Steve."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question will come from Justin Bergner with G. Research."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Good morning, Rich. Good morning, Phil."
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "Hey, Justin."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "So first off, congratulations on a great start to the year and outlook going forward. My question relates to the increase in guidance. So you increased EPS guidance at the midpoint by $0.40 or 8% on 6% fast organic sales growth. So I mean, normally, the organic sales growth would lever up more in terms of the increase to your EPS guide. So I assume that increased price/cost headwinds and some of these supply chain issues are the negative factors holding back what could have even been a larger EPS guide increase. Are those sort of the right factors and sort of which of those would be larger from sort of an incremental headwind point of view, versus what you anticipated a quarter ago?"
+    },
+    {
+      "speaker": "Philip D. Fracassa",
+      "speech": "I'd probably start with mix. Again, the raise was Mobile and OEM revenue dominated. So I think that inherently comes in at a little lower. And then after that, yes, I would go to the ramp costs and the inefficiencies that we experienced in the first quarter and are planning for similar levels in the second quarter and then starting to abate. And I think it is a -- it is a volume-driven EPS increase, versus past years were probably some more price than things. But in this case, it is primarily a volume situation and it is partially being mitigated by the inefficiencies. But we feel very good that those inefficiencies, they will smooth out over time. It's a matter of when, not if. And again, we'll move pricing up over time. And again, that will be more a case of when, not if."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Okay. So it seems like there's not much more incremental price/cost headwind in the guide than what was envisioned a quarter ago. Is that sort of fair?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Yes, I would -- yes, I think so. I think we largely took it up in line with where the incrementals were. So I don't think the incrementals changed much, and it was largely a volume raise."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Okay. And then just to sort of finish that chain of questions. I mean, if I look at 2022, it seems that with better mix and sort of price/cost maybe shifting from a negative to breakeven or slight positive. Even if there was no sales growth -- I'm not suggesting there will be no sales growth in '22 -- you'd be poised to expand EBITDA and EPS just because some of these margin headwinds will dissipate in 2022. Is that sort of a fair way to look at things? And then any sort of further sales growth and volume growth will be incremental on top of what should be margin expansion, even in a flat sales environment, looking out?"
+    },
+    {
+      "speaker": "Richard G. Kyle",
+      "speech": "Yes. I certainly wouldn't want to call it a flat sales environment, but I think your thesis there is accurate, and we believe we'd have a lot of -- both cost improvement heading into next year as well as some price improvement."
+    },
+    {
+      "speaker": "Justin Bergner",
+      "speech": "Okay, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And as it appears there are no further telephone questions, I'd like to turn the conference back over to our presenters for any additional or closing remarks."
+    },
+    {
+      "speaker": "Neil Frohnapple",
+      "speech": "Okay. Thanks, Anna, and thank you, everyone, for joining us today. If you have any further questions after today's call, please feel free to contact me. Again, this is Neil Frohnapple. Thank you, and this concludes our call."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 60 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Neil Frohnapple--Director of Investor Relations",
+    "Richard G. Kyle--President and Chief Executive Officer",
+    "Philip D. Fracassa--Executive Vice President and Chief Financial Officer",
+    "Stephen Volkmann--Jefferies. -- Analyst",
+    "Rob Wertheimer--Melius Research -- Analyst",
+    "Ross Gilardi--Bank of America -- Analyst",
+    "Joe Ritchie--Goldman Sachs -- Analyst",
+    "David Raso--Evercore -- Analyst",
+    "Chris Dankert--Longbow Research -- Analyst",
+    "Brett Linzey--Vertical Research Partners -- Analyst",
+    "Steve Barger--KeyBanc Capital Markets -- Analyst",
+    "Justin Bergner--G. Research -- Analyst"
+  ]
+}

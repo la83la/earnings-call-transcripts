@@ -1,0 +1,302 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by and welcome to be Q4 2019 Teradata Earnings Conference Call.\n[Operator Instructions]\nI would now like to hand the conference over to your speaker today, Nabil Elsheshai. Thank you. Please go ahead, sir."
+    },
+    {
+      "speaker": "Nabil Elsheshai",
+      "speech": "[Technical Issues] Teradata's Interim President and Chief Executive Officer will lead our call today, followed by Scott Brown, Teradata's Chief Revenue Officer and then Mark Culhane, Teradata's CFO [Technical Issues] webcast and other information that are considered forward-looking statements. While these statements reflect our current outlook, they are subject to a number of risks and uncertainties that could cause actual results to differ materially. These risk factors are discussed in Teradata's 10-K, 10-Q and other filings with the SEC.\nOn today's call, we will be discussing certain non-GAAP financial information, which exclude items such as stock-based compensation expense and other items described in our earnings release including acquisition, reorganization related costs, asset impairments and capitalized software development costs. We will also discuss other non-GAAP items such as free cash flow and constant currency revenue comparisons. A reconciliation of our GAAP results to our non-GAAP results and other information concerning these measures is included in our earnings release, which is accessible at investor.teradata.com.\nA replay of this conference call will be available later today on our website. Teradata assumes no obligation to update or revise the information provided during this conference call whether as a result of new information or future results.\nAnd now I will turn the call over to Vic."
+    },
+    {
+      "speaker": "Victor Lund",
+      "speech": "Good afternoon, everyone.\nSince our last call, we have spent a significant amount of time reviewing our operations. Our efforts have confirmed that while we were making progress in several areas, our execution was not up to an acceptable standard. We have taken decisive actions to not only implement focused operational practices, but also to ensure our entire organization knows what our priorities are and where they fit in. The other key takeaway from our efforts is that our strategy remains solid. We need to adjust our efforts to make sure we are focused on the most important things first and that they are properly staffed and funded. Our main area of focus will be accelerating the improvements in our cloud offering. This will ensure that Teradata continues to be a leader in the rapidly growing demand around solving the analytic solutions required by our customers.\nWe are confident that our efforts position us for a solid 2020 and believe that we will also accelerate our growth and support our path to higher to profitability.\nWhile 2019 was not the year, we had hoped for, we did have some key wins. The adoption of our cloud offerings resulted in outstanding growth for that portion of our business. You will hear more about this from Mark. We strengthened our flagship Vantage platform, maturing its capabilities both in the cloud and on-premise to address our customers' needs for a highly performance and massively scalable hybrid analytic offering. We saw solid adoption Vantage as customers continue to rely on Teradata to help them get the answers from all their data regardless of where they are on their cloud journey. Also we largely completed, our business model transition to subscription. Now nearly 90% of our bookings are recurring and I am proud of how quickly we have moved to this model.\nFinally, we brought in some exceptional leaders throughout our product and go to market organizations. As important as it was to advance our hybrid cloud technology, it was equally important to strengthen our executive ranks to purposely lead the organization forward. We are blending with new talent with the folks that built Teradata and the result is an extremely strong team. So with 2019 behind us, we firmly believe we made the right calls at the right time to address our challenges and execution. And now all of our focus and efforts are on delivering a solid 2020.\nIn 2020, we will be reverted on three key areas. First, accelerating our transition to the cloud. We know our customers among the world's largest, will remain in hybrid analytic environments for the foreseeable future. Something Teradata is uniquely suited to address. As they move into more cloud deployments, we will be right there with them. Second, driving consumption of Vantage. And third, expanding our market opportunities. And of course we will continue to drive operational excellence, improving efficiencies throughout the organization.\nScott and Mark will cover these focus areas in more detail, but I want to be clear that we have taken a thorough assessment on where we are, addressed needed adjustments, and are focused on a stronger future. Teradata has been and remains unique in our ability to help the world's leading enterprises harness the ever-growing volume of data and get the answers they need at the scale and speed they require. We do that better than any other company on the planet, and we intend to maintain that position while delivering for our customers, the tools they need, and our shareholders, the returns they deserve.\nAs I hand the call off to Scott to address some of the key actions we are taking, I would like to provide a quick update on our CEO search. The Board's independent search committee is taking a thorough and expeditious approach, working with the executive search firm to vet and review candidates. The process is well under way and we feel good about our ability to find an outstanding permanent CEO for Teradata. Also in preparation of the on-boarding of a new CEO, the Board determined to adopt the corporate governance practice of separating the CEO and Chairman's role by naming an Independent Director, Mike Gianoni, as Chairman of the Board. Mike has served as Lead Independent Director as well as heading the CEO Search Committee. I will remain as Interim CEO until the new CEO is selected, at which time I will continue to serve the company in my position as a member of the Board of Directors.\nNow, let's hear from Scott."
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Thank you, Vic.\nI'm pleased to join everyone on today's call. As many of you know, I have two quarters into Teradata leading our global go-to-market organization. And I want to add my confidence in the entire Teradata team to deliver outstanding business results for our customers and value for our shareholders. Today, I will address what we are doing to expand our market opportunities, how we are strengthening the bond we have with our customers, and helping to drive greater consumption of our Vantage software. Then, I'll provide some examples of where we are winning in the market.\nWhen I joined Teradata last summer, I was immediately impressed with the caliber of customers we serve, the top names in some of the largest industries globally running mission critical and complex workloads on Teradata Vantage. And as I traveled the globe and met with our customers, I've heard from them about the game-changing results they achieved using our solutions. These type of results our customers see gives me great confidence in our ability to expand our reach and are taking actions to bring the power of Teradata to help more organizations get the answers they need and bring meaningful value to their company.\nToday, I will cover three ways we are expanding our market reach. First, you will see us strengthen our partner ecosystem. We know that companies of the size and scope of our customers have complex analytic environments and they work with various advisors on optimizing their infrastructure. And we know that by going together with other trusted advisors, we can go further. And we are stepping up our commitment to partnering with leading SIs and ISVs, and are adding regional partnership teams and engaging in joint-account planning, showing the partners how Teradata can enable their breakthrough initiatives. Concurrently, we are building better information sharing, training and knowledge exchange practices for our partners.\nThe second action we are taking is to expand our market reach by applying incremental focus in select verticals. Teradata has held and continues to hold strong presence in large verticals. And we are taking the IT we have developed from working with the world's leading organizations, packaging and offering it to more companies. This is much like we did in the past when we were building our deep presence in financial services, retail and telcos. We have proven analytic solutions for healthcare, oil and gas, and government agencies dealing with compliance and regulatory oversight. And we are going to ensure that we offer Teradata Vantage to more organization in these verticals.\nIn addition to the work we are doing to expand our market presence, the third area where we are taking action is another one I'm personally passionate about. We are deepening our focus on customer success, a function that becomes even more important in the subscription business model. Nurturing long-standing and mutually beneficial customer relationships is the very bedrock of Teradata, in lockstep with our commitment to best in class data and analytics technology. To strengthen our purpose and this arena, we have added teams dedicated to helping our customers realize increasing value from their investment in Teradata. This in turn naturally drives greater consumption of our Vantage software.\nSpeaking of Vantage, our market-leading hybrid cloud platform continues to mature, and we are driving investments in the numerous areas where we are differentiated. Extending from Teradata's heritage, consistent technology innovation remains at the forefront of our efforts. Vantage remains the best at integrating and connecting data at scale. Combined with unmatched workload management and near real-time analytics, our competitive Vantage remains second to none. We won't stop driving innovation to be unbeatable in our target markets.\nI'd like to provide just a couple of examples of emerging growth opportunities. As 5G begins to roll out in the telco industry, it brings with it enormous increases in data volumes and the need for speed. Telcos need an analytics infrastructure that can both handle this massive and low latency data and allows them to apply advanced analytics and AI on that data in order to create new business opportunities for their customers, as well as new consumer experiences. Teradata Vantage provides telcos with the analytics infrastructure that allows them to leverage and monetize their investments in 5G networks. In addition, we are seeing emerging IoT opportunities in other industries including oil and gas, manufacturing, insurance and more, where these connected devices will improve efficiency and drive new growth avenues in situations that require high availability, high reliability and very low latency. Enterprises leveraging Teradata Vantage will have the speed and scale needed to offer a seamless personalized and immersive experiences and dramatically improved service. The possibilities are endless and exciting. These new use cases will drive data and new types of analytics, and they require the integration, workload management and scale where Vantage excels. Just great opportunity for us.\nThe bottom line is that we are seeing good customer adoption of Vantage both on premise and in the cloud, across all three of our regions. I'd like to walk through a few examples. A leading global lifestyle, sports and fashion manufacturer is modernizing its enterprise data warehouse and moving to the cloud on consumption-based pricing model. Teradata won over several cloud-only technologies. based on our ability to meet mission critical, reliability and security requirements, while also delivering an overall lower TCO.\nA global oil and gas operator headquartered in Europe has chosen Vantage on Microsoft Azure to support IoT-based analytics involving sensor data and real-time asset performance. The firm will also strengthen cross-domain integration with an end-to-end business view. A major retailer in the US and long-standing Teradata customer, has invested in data recovery as a service running in a hybrid environment including Teradata on-premise and Microsoft Azure to ensure business continuity for its customers and meet their risk and compliance needs. A leading commercial bank in Asia that is also a long-standing to customer, has invested in Teradata Vantage to further improve its customer experience and drive their digitization efforts forward.\nA Fortune 500 insurance company is moving to the cloud with Teradata on AWS on a full consumption-based model. The customer groups environment to enable several dozen applications across into marketing, pricing, product, agency and digital teams. It also has our new graph and machine learning capabilities as well. Here again, Teradata beat cloud-only providers based on our ability to provide a seamless path to the cloud. We partnered with a leading ISV and a major financial institution, and it extended its investment in Teradata and is building a new cloud-based marketing analytics platform with Vantage to improve its customer experience, driving real-time decisions based on recent activity and deepening its customer relationships across multiple brands and channels.\nThese are just a handful of the success the team achieved as we rounded out 2019. And they attest to the strength of Vantage in deliveries answers to customers' toughest business questions, whether on-premise, in the cloud or a hybrid environment. As I turn the call to Mark, I want to reemphasize that our go-to-market organization is laser-focused on executing and delivering an exceptional experience for our customers, driving growth for Teradata, and value for shareholders.\nLet me hand it over to Mark."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Thank you, Scott, and good afternoon everyone.\nToday, I will talk about our progress in the cloud, operational improvements made in 2019, and conclude with our financial results, including our 2020 outlook. Starting with the cloud, as Vic mentioned, our public cloud customers more than doubled in 2019 and we nearly doubled our cloud ARR. We saw increasing momentum as the year went along, including several big competitive wins in Q4, a few of which Scott just highlighted. Cloud is a huge opportunity for Teradata, as we are the only option at scale for a true hybrid and multi-cloud environment. Given our growing momentum, we are investing heavily in this area, while driving improved efficiency in other areas of R&D. To help customers experience the power of Teradata Vantage in the cloud, we recently launched new capabilities that will make it significantly easier to demonstrate what is possible with Vantage and further strengthen our competitive position.\nThis new trial environment will be a great enabler in driving the expanded go-to-market focus that Scott spoke about and over time should help support new logo growth at Teradata. While 2019 didn't turn out as well as we would have liked, as we exited the year, we made significant progress in addressing operational issues and we had several successes that set us up in a much stronger position entering 2020.\nFirst, as Vic mentioned, we largely completed, our business model transition and we are expecting little to no perpetual revenue in 2020. In addition, we realigned our go-to-market organization around enterprise and commercial markets, driving significant cost savings and a much more effective model to serve our key market segments. Some of those savings will be used to reinvest in the organizational infrastructure that Scott discussed previously. Finally, in 2019, we refocused our consulting organization on Vantage-oriented offerings and we dramatically reduced our footprint in non-core consulting engagements. By the end of 2020, we should be through this part of the consulting transformation. While this reduction didn't result in the margin improvements we expected in 2019, we are better positioned for profitable consulting growth longer term.\nThis dynamic should improve meaningfully in 2020, allowing our reported margins to improve significantly. Longer term, we continue to expect a deepening partner ecosystem and product simplification to allow us to focus Teradata's consulting organization on more strategic engagements, while creating greater total value for our customers.\nNow turning to the financials. As a reminder, we have placed an earnings discussion document on the IR website that walks through the dynamics in various segments of our financial statements. I will discuss some of the key dynamics driving our growth in margins, including an update on our consulting transformation, and then discuss our outlook for 2020. Our Q4 results were largely in line to slightly better than our expectations. For 2019, total ARR growth ended at 9% year-over-year. Our ARR is composed of three main categories, subscription and cloud-related ARR, ARR related to our legacy perpetual maintenance and software upgrade rights, and ARR related to subscription-based managed services.\nAt the end of 2019, our ARR makeup consisted of $700 million of subscription and cloud related IRR, up 42%, $615 million of perpetual license maintenance and software upgrade rights related ARR, down 14%, and managed services related ARR of $112 million, which grew 13%. Importantly, subscription and cloud related ARR now comprise 49% or nearly half of our total ARR, which is nearing an important inflection point in our transformation. The slower rate of decline in our maintenance and software upgrade related ARR compared to 2018, is by design. And results from changes in compensation that removed incentives to merely convert existing perpetual licenses to subscription without also growing subscription licenses. Over time, we continue to expect our subscription business to continue to show healthy growth while maintenance and software upgrade rights related ARR is likely to decline low double digits.\nFor Q4, 89% of our bookings were subscription-based. For the full year, subscription bookings were 88% of the total, well ahead of our initial expectations of 70% or more. The rate of our transition to a recurring revenue model has been significantly faster than expected and it is reflective of the value our customers see in our subscription model and cloud offerings. As we mentioned last quarter, we will no longer be providing the bookings mix as a key metric because we expect little to no perpetual revenue in 2020. While we have a long tail of customers currently on maintenance converting to subscription-based deals over time, their dramatic declines in perpetual revenue and the resulting headwinds it creates for total revenue, peaked in 2019 and will largely be behind us after 2020.\nDeferred revenue came in at $533 million, which was down 10% year-over-year. However, there are couple of key dynamics to be aware of in our deferred revenue when comparing year-over-year. Our long-term deferred revenue came down as expected as we amortize to revenue a few large multi-year prepaid deals from 2017 and 2018, which we have discussed on prior earnings calls, and we didn't have any similar multi-year prepaid deals in 2019. We expect this trend to continue as those deals were outliers, and we expect nearly all are billing terms to be annual or less going forward. And the decline in short-term deferred was driven by the planned reduction in consulting revenues, consistent with moving our focus away from non-core consulting engagements. We will not be providing this deferred breakdown going forward, but we understand many investors look at deferred and billings growth in analyzing subscription companies, and wanted to make sure investors understand the key dynamic to driving near-term headwinds to our total deferred balance.\nTotal backlog grew 7% year-over-year, despite significantly shorter overall contract durations compared to 2018. We believe this shows the strength and commitment of our customer relationships, and continued adoption of our core product platform. As a reminder, in 2019, we changed our compensation structure to only compensate on deals up to three years, versus five years in 2018. This drove a meaningful reduction in our contract durations from well over four years in 2018 to closer to three years in 2019. We expect deal durations to remain stable in 2020.\nBefore I continue, I want to make it clear that unless stated otherwise, my comments today reflect Teradata's results on a non-GAAP basis, which excludes items such as stock-based compensation expense and other special items identified in our earnings release. For the year, non-GAAP gross margins expanded 270 basis points, just below our target range of margin expansion. Revenue mix shift from lower-margin consulting and perpetual revenue to higher-margin recurring revenue drove this margin expansion, and we expect this dynamic to continue in 2020. In 2020, recurring gross margins will roughly be in line with 2019 as our cloud recurring revenue currently have lower gross margins than overall recurring revenue gross margin. We believe most of our cloud business is incremental and we are more than happy to see a short-term margin headwind since we believe this will drive significant incremental value to Teradata and our customers over time.\nConsidering these overall business dynamics, we expect total gross margins will expand another 200 to 300 basis points in 2020. Total operating expenses declined 6% in 2019, as we worked hard to drive operational efficiency across all functions in the organization. Despite this decline, total operating margins were largely flat year-over-year, as total revenue declines driven by our model transition to subscription and the right-sizing of the consulting organization offset the efficiency gains. This more streamlined footprint will allow us to invest aggressively in cloud and expand the go-to-market areas in 2020 and still deliver operating margin improvement moving forward. As a result, we expect operating margins to expand roughly 100 basis points in 2020.\nNow turning to the rest of our outlook. We are confident in our long-term growth prospects going forward and we'll make the key investment in cloud, Vantage and expanding go to market to take advantage of our opportunities. We believe we are entering thousand 2020 in a much stronger operational and product position than in 2019 with stronger leadership, a stable sales organization and maturing Vantage and cloud offerings.\nFor 2020, we expect ARR growth of our at least 8% and recurring revenue to grow at least 8% as well. Taking into consideration, the growth in recurring revenue, reduced perpetual revenue given we expect little to no perpetual revenue in 2020, and reduced consulting revenues of mid-single digits, we believe total revenues will be essentially flat to down slightly for the full year. We expect non-GAAP EPS in the range of $1.18 to $1.22 based on an assumption of 112.2 million weighted average shares outstanding. We also expect free cash flow of at least $150 million in 2020. While the magnitude of our restructuring charges will be significantly lower in 2020 versus 2019, we still expect roughly $20 million in restructuring, which is baked into our free cash flow guide.\nFor Q1, we expect recurring revenue of $353 million to $355 million, and non-GAAP EPS of $0.22 to $0.24, with 112 million weighted average shares outstanding.\nAnd with that operator, we would like to take questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nAnd your first question comes from Wamsi Mohan with Bank of America."
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "speech": "Yes, thank you. I have a quick clarification. First, do you have any embedded FX assumptions in the guidance for the quarter or the guide, and -- or is this all at constant currency? And I have a follow-up."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yeah, we don't have -- this is not embedded into the guide."
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "speech": "Okay. Thank you, Mark. And then can you just talk about cash flow expectations in 2020? I know you just gave a number. Can you give us like water bridges are? You said lower restructuring. What are the other drivers that you see in bridging that 2019 to 2020 cash flows? And also on the growth rate in recurring revenues, there is a slight bit of deceleration in that. So what is baked in your guidance there? What are you interpreting? What's actually driving that deceleration into 2020? I think the expectation a few quarters ago was to be able to drive double digits in 2020. So just curious what the changes are."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Sure. So let's start with the first part of your question on free cash flow. So two things. Obviously, lower net restructuring payments than what we experienced across '19 versus what we experience across '20. And then clearly, growth in our ARR balance, etc., and that cash that will start to come through from a cash collections perspective. It's what's driving that forward in a meaningful way.\nAs it relates to the recurring revenue guide, etc., we're focusing on delivering on what we say. Right. So there is clearly that. Clearly, we've had some of the uncertainty created by not having a CEO that impacted some sales cycles as we expected, which was why we guided Q4 where we're at and we're -- also that's reflected in where we see 2020 at the moment. But again, it's all about delivering on what we say we're going to do."
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "speech": "Okay. Thanks, Mark."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Katy Huberty with Morgan Stanley."
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "Thank you. Good afternoon. I'm trying to work through the margin dynamics in 2020. If I remove perpetual from the business in 2019, that's about 150 basis points of gross margin. If you double consulting margins this year, that's about 150 basis points to total margin. And then just the mix shift to subscription should add another 100 or 150 basis points. So you kind of get 400 to 450 basis points of gross margin expansion from those factors. What am I missing in terms of offsets that land you at the 200 to 300 basis point expansion? Then I have a follow-up."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yeah, great question, Katy. The recurring revenue margin, as I said, are going to be relatively consistent with where they were in 2019. And that's a combination of our momentum in the cloud, which carries lower gross margins, which put some near-term margin there, which kind of keeps that flat. And then, yes, we do expect our consulting margins to improve meaningfully, etc. And then, yes, little to no perpetual revenue means we don't -- we don't have that sort of margin impact going, but I think it's really in your recurring revenue margin assumption of that being up 100-plus basis points."
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "But even with with recurring flat, you have increased mix of subscription that has a higher than corporate average. So there is some benefit from subscription, even if the actual gross margin is flat in that segment, but we can talk about it more offline."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "The follow-up is about the cloud business. It's clearly more of a focus across the team on driving cloud adoption. Can you give any metrics around the percentage of ARR today that's a cloud, just what the penetration looks like? And then when you have a cloud deal, it sounds like margins are lower. I would be curious why that is. And then what are the deal sizes in a cloud transaction versus an on-prem transaction? Just so that we can understand what the dynamics might be in the business as you move in that direction. Thanks."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "So yeah, I'll address the first part of the question in terms of cloud. We don't break out how much ARR is cloud versus the rest of the subscription. But -- the vast majority of our $700 million of subscription ARR is tied to our on-premises business today versus cloud, although the growth rate of what's going on in the cloud is impacting -- is growing nicely. As it relates to the second part of your question, in terms of -- part of it is scale in terms of margins in the cloud, deal sizes -- either not the size of the transactions we have on-premises. And I'll have Scott give his color on this phenomenon as well, because our on-premises big customers are running enterprise class workloads in a major way, which is very different than what you would see run in a cloud environment. And clearly running things at scale in the cloud is more expensive than running it on-premises. Scott, I don't know if you want to add something to that."
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Yeah. The cloud revenues that we're seeing are -- first of all, they're growing at a rapid pace, which is great. The other thing is, they're mostly incremental for us. So the core of our customer base certainly is in on-prem environment and the on-prem environment is highly optimized. The resources that the customer has at their disposal, CPU, IO, spinning discs, memory are 100% utilized, and obviously that's a very different architectural model than the cloud. And in the cloud, you have an over-subscription model and it's not really purpose-built for our kind of data analytics and our kind of workloads. So it tends to be a little bit less efficient, it's often more expensive for the customer. But the edge workloads, those that aren't as complex, smaller amounts of data, and people want to do them opportunistically, spin them up, do analysis, spin them down, we are seeing a lot of activity there. And a lot of customers are beginning to -- on a consumption basis, by cloud and we see a lot of incremental business coming there.\nSo we expect in the year ahead, that to continue on a very rapid growth trajectory for us. And they're very different types of use cases for our customers."
+    },
+    {
+      "speaker": "Katy Huberty",
+      "speech": "Thank you for the color."
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Thanks for the question."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Raimo Lenschow with Barclays."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "speech": "Hey, thanks for taking my question. Two quick ones. One just mechanical one. Just if I don't sell perpetual and then I'm pushing those guys into like a recurring, in theory that should help me on my ARR growth rate and the recurrent growth rate. So I'm just kind of thinking is there some missing pieces that I'm missing there. Just to kind of going back to your earlier comment. And then I have one follow-up."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yeah. So clearly the impacts of conversion here in 2020 versus the prior year is much, much less. So the growth is coming dramatically from more consumption, which is growing and less is coming from conversion. So that's really the phenomenon there. And again, we're focused, we said at least 8% and we're focused on delivering it."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "speech": "Okay, perfect. Okay. I get that message. Okay, thank you. And then one quick one for Scott. If I look at your cloud business, how do I have to think about a typical customer? Is that how they're doing like data marts kind of with separate data sets? Or are these kind of overflows to on-premise data warehouses? What's the nature of what's going on in the cloud for you?"
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Yeah, that's a good question, Raimo. When we look at it today, those edge workloads you're absolutely right, are more of a data market type of application where folks are doing independent analysis. It tends to be smaller data sets, less complex analytics, and it tends to be departmentally focused in often with the business users. So in the future, we expect to see more large workloads beginning to move to the cloud. But today, the cloud versus on-prem on expense standpoint secondly architecturally can support the kind of workloads that we support on-prem. So clearly today, absolutely. It's a data mart. In the future, we expect that to scale up."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "speech": "Okay, perfect. Thank you. And thanks for the extra information."
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Tyler Radke with Citi."
+    },
+    {
+      "speaker": "Tyler Radke",
+      "speech": "Great, thank you very much. Vic, you mentioned that you spend some time reviewing actions and kind of trying to adjust efforts to improve execution. Maybe just you could go into more detail on some of the adjustments that you took. Was there adjustments needed in terms of rightsizing the sales force? Just kind of walk us through, specifically what the adjustment for and what gives you confidence that that can drive an acceleration in growth?"
+    },
+    {
+      "speaker": "Victor Lund",
+      "speech": "Well, so I said at the last time that we had been focused on execution. All right. And so, when I got in, I found exactly what I expected. We've had a lack of focus and we had some cultural issues around how we were dealing with folks. Right. And it was exactly what I expected. So we've gotten and got more focused. So what does focus mean [Indecipherable]? First thing is you got to have everybody in the organization knowing what your priorities are, where they fit in and how they can drive up. And we are in the middle of that right now. So that's coming along well. And then creating a culture of belief in your people and that they can do what they think they can do, things rise and that the organization moves as one. And I know that sounds a bit like fairyland, but it has made a huge difference in our organization for them to rise up.\nSo we are focused on having people be a part of the organization, understanding where'd they go, and when we've got to go. We are doing more in fewer areas to make sure that we can complete those and drive product to the trucks so our people can sell them. And I guess the final thing that I think is really important here is we are rationalizing our spend in the way that we make sure that we are putting our dollars behind the things that matter most to us. We're not looking at cutting people or anything like that. We are just looking at making our people effective for delivering solutions that our customers are ready to use today."
+    },
+    {
+      "speaker": "Tyler Radke",
+      "speech": "Great. And maybe a question for Mark. Obviously, you've had some targets out there for 2021 for some time, but just be curious if you could comment on those targets. And if we're just thinking about kind of the trajectory of ARR, obviously you've seen a subscription transition happen faster than you'd expected, but maybe just help us bridge the gap. Why we haven't seen that ARR growth continue to accelerate kind of relative to, when you last gave us the targets? Thank you."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yeah. So a couple of things. Obviously, we're focused on delivering across 2020, that's where our focus is. We said at least 8% plus. We're still got a little bit of uncertainty that impacted sales cycles and so forth. So that's built into where we're initially guiding at this stage. We still believe in the long-term model that we're clearly a bit behind schedule and we'll update you guys when we get a CEO in here, so we can hold an Analyst Day and so forth and give you our thoughts on the longer term."
+    },
+    {
+      "speaker": "Tyler Radke",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Zane Chrane with Bernstein Research."
+    },
+    {
+      "speaker": "Zane Chrane",
+      "speech": "Hi, thanks for taking my question. So you've talked about consumption increasing and that is great in terms of usage, but it's not really a meaningful metric in terms of assessing the revenue potential. So I'm wondering if you could give us a sense of either what retention rates on a dollar basis are, or customer expansion, or the commonly used SaaS and subscription metric, net dollar subscription rate? Could you definitively say that the net dollar subscription rate for your existing customer base is over 100%?"
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yes, it is. Yes, because the retention rates are very similar over the last couple of years, at least since I've been here. So that's true."
+    },
+    {
+      "speaker": "Zane Chrane",
+      "speech": "And that's on a dollar basis, not just customers?"
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yeah, the dollar basis. Not customer count basis."
+    },
+    {
+      "speaker": "Zane Chrane",
+      "speech": "Okay, great. Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nYour next question comes from Derrick Wood with Cowen."
+    },
+    {
+      "speaker": "Nick Altmann",
+      "speech": "Hey guys, this is Nick Altmann on for Derrick. Thanks for taking our questions. Just roughly into -- roughly a year into some of the sales force comp changes, incentivizing short duration deals and comping reps on ARR, can you kind of give us a better sense of how productive that's been and what's the general takeaway now that you're a year into that? And then just looking into 2020, are there any significant tweaks you need to make there?"
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Yeah. Nick, I'll take this. What I would say is, 2019 was the first year where we made a move to an ARR-based compensation strategy from a TCV-based compensation strategy. And the first year of making that kind of move is always going to be a challenging one because you're trying to make sure your ARR baselines are good and that you make sure that you pay your people well. And I think we've done a excellent job of getting our ARR baselines all the way down to the customer and site level, really shook out, so that the field teams know exactly what baseline we're working against, and that we're growing against that.\nWe put about 70% of the average sales reps compensation into ARR growth and about 30% went into a TCV bucket last year. This year we've actually pivoted that based on some learnings. So it's still 70% ARR, but the 30% is now made up of non-recurring products and services. And the reason for that was, we found that we didn't have enough focus in our compensation plan on consulting. And consulting is a very important part of delivering our solution to our customers, and we needed to make sure that our sales organization has sufficient reason to go out there from a commission standpoint and drive consulting, which is about 85% of that variable, 30% of their pay.\nSo really the second year here is, the compensation strategy is working. It's definitely driving the right behaviors in terms of subscription and ARR growth. We think the tweak that we've made in that 30% variable to be principally driven by consulting will help us on the performance of our consulting business. And overall, I would say, given we got a good year behind us of learnings, that I think 2020 will be a change in evolution, but a good one that's incremental to help us drive ultimately success for our customer."
+    },
+    {
+      "speaker": "Nick Altmann",
+      "speech": "Got it. No, that's helpful. And last quarter, you guys took a little bit more of a conservative approach to guidance. And you guys noted that was largely due to perhaps some more uncertainty around the IT spending environment. So can you just give us an update there? And then when you look at your 2020 guidance, does it kind of imply the same level of conservatism as you've gotten to 4Q?"
+    },
+    {
+      "speaker": "Victor Lund",
+      "speech": "Yeah, I think in terms of the Q4, it wasn't macro related. It was really more of the uncertainty on the leadership change that drove that, and that's what we see coming into Q1."
+    },
+    {
+      "speaker": "Nick Altmann",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]\nYour next question comes from Pat Walravens with JMP Securities."
+    },
+    {
+      "speaker": "Joey",
+      "speech": "Hi, this is Joey [Phonetic] on for Pat. Thank you for taking our questions. Can you just give us an update on the competitive landscape? Thank you."
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Yeah. I'll take that question. So, competitive landscape, I would say is, we're seeing a lot less Hadoop. The Hadoop tent is basically folding and our customers are coming to us looking for options. They have tremendous amount of data, just petabytes and petabytes of data in the average customer that they're trying to figure out what the long-term strategy is. Because Hadoop for them has been unfortunately a failure, and we're seeing a lot less competition there. Our traditional competitors, it's about the same. I would say, it's been very similar to what we've seen in previous quarters. We're definitely seeing more activity among the cloud vendors. That's really at the edge. As I mentioned before, in those core workloads that we do at our high complexity, high amounts of data, those generally are sitting on-prem and we're having a lot of success there.\nWe're seeing more activity at the edge. And we need to obviously continue to grow our cloud offerings and capabilities there to be competitive. And I think we're seeing really good success there. So less Hadoop, pretty much the same in our traditional competitors, and then more competition happening from a pure cloud play. And from our standpoint, being a hybrid offer for our customer, what we can offer them on-prem, hybrid and cloud, is very appealing for the largest customers because many of them have extreme workloads, whether they're doing millions and millions of queries a day. And the economics of going to cloud with those types of workloads is just not there. It would be incredibly expensive for them.\nSo they appreciate the fact that we in the marketplace actually are able to deliver on-prem, hybrid and cloud, which is very different than those cloud competitors. So that's what we're seeing. I wouldn't consider it to be any big shift from what we've seen traditionally in the marketplace, but hopefully that gives you the perspective you were looking for."
+    },
+    {
+      "speaker": "Joey",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "You bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from the line of Zane Chrane with Bernstein Research."
+    },
+    {
+      "speaker": "Zane Chrane",
+      "speech": "Hi, thanks for getting me in again. I want to go back -- back to follow up to Raimo's question on the ARR. It looks like sequentially from Q3 to Q4, you added $38 million in net new ARR and that's down about 44% from the $68 million you added in Q4 last year. I was surprised that was such a big decline in net new ARRs given the simultaneous -- almost 70% decline in perpetual and hardware. With any -- when I'm looking at this, with any type of reasonable conversion factor between ARR and perpetual, it looks like the new business being booked is still down about 50% give or take year-over-year as far as what was booked in Q4. Can you help me reconcile what's going on there? Or why that's --."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yeah. Zane, I think you got to do a couple of things here. First, you got to look across the second half, because our Q3 was significantly larger this year versus last year. So, some of it's timing and then the impacts to Q4 were largely driven by the uncertainty that created and hit some of our sales cycles, which is why we guided where we did, because we felt that potentially customers might try to use that to our advantage and they tried and we said no. So that's really the phenomenon here. And so I sort of look at across the back half -- versus the back half a year ago."
+    },
+    {
+      "speaker": "Zane Chrane",
+      "speech": "Right. But even on a full-year basis, net new ARR was down about 4%. And I get there were some FX fluctuation in there, but I'm surprised that net new ARR for the full year was down, when you had such a dramatic decline in perpetual."
+    },
+    {
+      "speaker": "Mark Culhane",
+      "speech": "Yeah. So we've said we didn't have as good a year as we anticipated. And the uncertainty experienced across Q4 impacted that and some of the execution as well that we've been talking about. So yes, we were surprised it was down year-over-year as well."
+    },
+    {
+      "speaker": "Zane Chrane",
+      "speech": "Okay. And is as far as Vantage moving the needle and helping to maybe reaccelerate ARR, or how much new business you're booking, is that something you're seeing as a big driver at this point, or is there some point in the future where you would expect that to become a big enough portion of the business to move the needle?"
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Yeah, I'll take that one. So we actually are seeing really strong progress with our customer base on the evolution to Vantage. In fact, we are now -- over 40% of our customer base is now on Vantage and that's just up dramatically during the year. So the comments in the customers are they're seeing a lot of new use cases as a result of the functionality that we brought out with Vantage, a lot of new capabilities that they're beginning to exercise or actually we believe going to drive new workloads in the future, and new consumption. We've had very good feedback from them on the things that we've been able to do to help them drive business results. The kind of business cases that they measure in are tens of millions, hundreds of millions to billions in savings or efficiencies.\nSo the good news is we launched this journey for Vantage. We didn't know how quickly it would go. It's gone quicker than we expected, given over 40% of our base is now on Vantage and that continues to grow. And the new use cases that they're getting and the new workloads that we're beginning to generate as a result of that additional functionality and capability is very encouraging. So we certainly have plenty more work to do to get the rest of the base to Vantage, but good progress I would say in 2019, which should help us in 2020."
+    },
+    {
+      "speaker": "Victor Lund",
+      "speech": "And the only thing I would probably add, Zane, to that is, we only sell Vantage today. So it's a question of moving the existing installed base to the Vantage platform. But anybody buying anything additional from us, the only thing we sell is Vantage."
+    },
+    {
+      "speaker": "Zane Chrane",
+      "speech": "That's incredibly helpful. Thank you very much and best wishes for 2020."
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Thank you. Appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your last question comes from the line of Phil Winslow with Wells Fargo."
+    },
+    {
+      "speaker": "Phil Winslow",
+      "speech": "Great, thanks, guys, for taking my question. Just a question on pricing. Obviously, you talked about some of the unit growth in terms of capacity, your shipments -- or just that you saw this year. Wonder if you could just talk about just the pricing environment and everything? But sort of the unit economics, were those sort of to your expectations that it was just sort of a capacity shortfall for the year? Or was there anything different on the pricing side?"
+    },
+    {
+      "speaker": "Scott Brown",
+      "speech": "Yeah, I'll take that one, Phil. But I would say is, the pricing has been very stable. What we've seen in the marketplace, whether it's in cloud, consumption, on-prem and all the different form factors, our pricing has been very stable in the marketplace. As Mark mentioned, we did have some customer situations with the uncertainty as a result of not having a CEO in place, where folks expected that we would make some price concessions, but we did not. We believe in the value that we deliver to our customers and we expect that revenue to come over time. So from our standpoint, no big changes in terms of the pricing dynamic in the market. No big changes in what we've seen in our competitors. It's been a pretty stable market and our pricing has been stable as a result."
+    },
+    {
+      "speaker": "Phil Winslow",
+      "speech": "Got it. All right, thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And there are no further questions. I would like to turn the call back to Vic Lund for final comments."
+    },
+    {
+      "speaker": "Victor Lund",
+      "speech": "Thank you everyone for joining our call. Thank you for the good questions. As we close the call today, I want you to know that Teradata team is working together and we are really focused on driving a solid year. We've taken great actions to improve our execution across the business and we are entering 2020 with a more stable go-to-market team and growing product momentum. We are accelerating transition to the cloud, driving forward with increased consumption of Vantage and expanding our market opportunities. And further, we are committed to delivering to you true and honest expectations that we have and you can expect for us in this year to deliver what we say we'll deliver. We're looking forward to updating you next quarter with another performance that will be in line with what we've told you we're going to do. So thank you again very much for joining us today."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 59 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Nabil Elsheshai--Investor Relations",
+    "Victor Lund--Executive Chairman, Interim President and Chief Executive Officer",
+    "Scott Brown--Chief Revenue Officer",
+    "Mark Culhane--Chief Financial Officer",
+    "Wamsi Mohan--Bank of America -- Analyst",
+    "Katy Huberty--Morgan Stanley -- Analyst",
+    "Raimo Lenschow--Barclays -- Analyst",
+    "Tyler Radke--Citi -- Analyst",
+    "Zane Chrane--Bernstein Research -- Analyst",
+    "Nick Altmann--Cowen -- Analyst",
+    "Joey--JMP Securities -- Analyst",
+    "Phil Winslow--Wells Fargo -- Analyst"
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and welcome to Dana Incorporated's Second Quarter Financial Webcast and Conference Call. My name is Regina, and I will be your conference facilitator. Please be advised that our meeting today, both the speakers' remarks and Q&A session, [Operator Instructions]\nAt this time, I would like to begin the presentation by turning the call over to Dana's Senior Director of Investor Relations and Strategic Planning, Craig Barber. Please go ahead, Mr. Barber."
+    },
+    {
+      "speaker": "Craig Barber",
+      "speech": "Thanks, Regina, and good morning, everyone. Thank you for joining us today for our second quarter 2021 earnings call. You'll find this morning's press release and presentation are posted on our investor website. Today's call is being recorded and supporting materials of the property of Dana Incorporated. They may not be recorded, copied or rebroadcast without our written consent. Also allow me to remind you that our today's presentation includes forward-looking statements about our expectations for Dana's future performance. Actual results could differ from those suggested by our comments today. Additional information about the factors that could affect future results are summarized in our safe harbor statement found in our public filings, including our reports with the SEC. On the call this morning as usual are Jim Kamsickas, Chairman and Chief Executive Officer; and Jonathan Collins, Executive Vice President and Chief Financial Officer. Jim, will you start us off this morning?"
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Good morning, and thank you for joining us today. A quick review of our financial results for the quarter highlights significant improvements over last year's pandemic-impacted second quarter. In reverse of last year, when we were discussing shutdowns and lower sales, this year's second quarter, we delivered a strong $2.2 billion in sales representing a $1.1 billion improvement as our customers continue to see strong market demand and in many cases, outpaced production as supply chain challenges continue to hamper their operations. Our adjusted EBITDA for the second quarter was $233 million, a $238 million improvement over last year. Net profit margin was again tempered by high raw material costs and supply chain challenges. Adjusted free cash flow was of slight use on the quarter, but was an improvement of $120 million over last year, driven by higher earnings. Diluted adjusted earnings per share was $0.59 for the second quarter of 2021, an improvement of $1.28 per share compared to 2020. Moving to the key highlights on the upper right-hand side of the page, we'll provide you an update today on how we're managing through the key challenges facing the mobility industry. Additionally, we're excited to talk about a few new business wins, including electrification programs. Lastly, I'll highlight our recent announcement to further accelerate our commitment to reduce greenhouse gas emissions and our adoption of science based targets. Please turn to page five, and we'll begin our discussion with the ongoing supply chain challenges and how it's impacting the current cycle. We continue to actively manage through the challenging commodity and supply chain environment as we face four key issues: higher raw material costs; semiconductor shortages impacting the production schedules of our customers; logistics constraints and higher transportation cost; and, of course, labor shortages related to COVID restrictions.\nThese challenges are not specific to our company but are impacting the entire mobility industry, which is seeing high demand, but production is being constrained, resulting in finished vehicle inventories for our OEM customers. First, high input costs for commodities such as steel driven by high demand and limited supply are inflating prices across all of our end markets. We're working to offset and recover these higher costs through our established mechanisms, but the inherent lag in those recoveries is creating a substantial margin headwind until the input costs stabilize and turn the other way. Jonathan will highlight the financial impacts in just a moment. Second is the semiconductor shortage that is leading to lower production volume at our OEM customers or reducing model availability, particularly in the light vehicle segment, but more recently in commercial vehicles as well. However, end customer demand remains strong, leading directly to finished vehicle inventory imbalance. Shipping delays and higher logistics costs continue to impact the industry and are driving higher input cost. We're seeing this around the world to varying degrees. Lastly, all three of the end markets are being affected by labor shortages, leading to production inefficiencies, plant downtime and higher labor cost. We're taking the necessary actions to capitalize on this unique market dynamic of low inventory and high demand as a future opportunity for a stronger and longer duration recovery, as the input challenges subside. Moving to slide six. I'd like to talk to you about how we continue to successfully launch our new business backlog programs despite the challenges facing our industry. In North America, we're excited to be supplying our Spicer SmartConnect all-wheel-drive system to a new compact pick-up truck, slated to go on sale next year.\nVehicles with our disconnecting all-wheel drive systems are designed to transition to all-wheel drive automatically and seamlessly when the vehicle system predicts slipping. It not only enables impressive gains in performance and safety, but is also more fuel-efficient and perfect for the growing market for small pickup trucks. Turning to slide seven. I want to talk about new partnership for us in the electric commercial vehicles. Dana announced the signing of a strategic agreement with Switch Mobility, which is an Ashok Leyland subsidiary focused on manufacturing electrified commercial vehicles. The agreement positions us as their primary supplier of electric drivetrain systems, including e-axles, gearboxes, motors, inverters, software and controls for light commercial vehicles and buses in India and Europe. Light commercial vehicles continue to present significant opportunities that lead the commercial vehicle segment shift to fully electrified platforms. We are very excited about the partnership and will enable us to have direct positive impact on the delivery of sustainable urban e-mobility. Please turn to page eight. Continuing on the transition to electrified vehicles, slide eight highlights an exciting collaboration with Pierce Manufacturing and Oshkosh airport products on their new revolutionary Volterra platform of electric vehicles.\nWhen the first vehicle rolled off the assembly line, they will feature an electric drivetrain with two Dana TM4 motors, coupled with a Dana-manufactured electromechanical, infinitely variable transmission pictured here in exploded view. The Volterra platform of electric vehicles is engineered to channel mechanical power and battery power to maximize driving and pumping performance while helping reduce fuel consumption. Depending on the usage and mission profile, the fuel savings could be significant. The Volterra platform of electric vehicles not only reduces emissions in EV mode, but more importantly, are designed to help save lives. Every second matters when responding to an airport emergency and the newly Striker Volterra. ARFF is capable of achieving 28% improved acceleration when fully loaded with the new EV technology. As an added benefit, the Striker Volterra vehicle results in 0 emissions driving during entry and exit of the fire station ion EV mode, so that there's no longer a need for expensive ventilation systems, within the station. During the next several months, despite the Striker Volterra performance hybrid will be showcased at airports across the United States allowing firefighters to experience the firsthand, the revolutionary Volterra technology. At Pierce Manufacturing, the first Pierce Volterra zero emissions pumper was placed in service in June of 2021 with the city of Madison, Wisconsin Fire Department, making it the first electric fire truck in service in North America.\nThe Volterra pumper is serving frontline duty at Station 8, the city of Madison's busiest fire station. To date, the city of Madison has responded to over 500 active emergency calls with this new electric pumper. This collaboration with Pierce Manufacturing and Oshkosh Airport Products enables Dana to expand our presence in the specialty vocational vehicle market while also opening doors to leverage these capabilities across other markets as well. Let's turn to slide nine, where I will share details on another new EV business win for us. This success is in our Power Technologies Group. Several electrified lifestyle and sport trucks have recently been announced. Earlier this year, we highlighted our battery cooling technology with a global light vehicle OEM and mentioned that there would be more announcements coming. To that, we're pleased to be showcasing our capabilities by supplying our advanced battery cooling technology. Unfortunately, we can't yet mention the name of the OEM. Our extensive range of long ThermaTEK battery cooling product sets the industry standard for innovation. The award-winning customer design, cooling -- custom design cooling solutions feature lightweight aluminum construction, resulting in ultra clean products that stabilize the battery temperature and enable faster charging. Turning to my final slide. At Dana, we believe that leading the way in sustainability directly aligns with our leadership and vehicle electrification and is critical to supporting our customers as they work to achieve their sustainability goals. That passion is reflected in our desire to advance our emissions reduction targets by developing new zero-emission technologies, delivering innovative products and driving operational efficiencies around the globe. That is why earlier this month, we announced plans to reduce our annual Scope one and two greenhouse gas emissions by at least 50% by the year 2030, which is a five year pull ahead of our original target of 2035 that was announced last fall. To help accomplish this aggressive goal, we signed a commitment letter with the Science Based Target Initiative, or SBTi, which aligns resources and incorporates best practices to accelerate emissions reductions.\nThis partnership between the Carbon Disclosure Project, United Nations Global Compact, the World Resource Institute and the Worldwide Fund for Nature, focuses on partnering with companies to guide emissions reductions initiatives using the science-based targets. As we continue our sustainability journey, collaborating with organizations like SBTi will support us as we establish ambitious targets and identify key areas where we can further drive sustainability across our operations and our products that enable zero-emissions mobility. Thank you for your time today.\nNow I'd like to hand it over to Jonathan to walk you through our financials."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Thank you, Jim. Please join me on slide 12 for an overview of our second quarter results compared to the same period last year. In the second quarter of this year, sales topped $2.2 billion, delivering growth of over $1.1 billion compared to the prior year. The doubling of sales is entirely attributed to the recovery experience across all of our segments from the height of pandemic-related shutdowns last summer, despite continuing to fuel the aftershocks in our supply chain today. Adjusted EBITDA was $233 million for a profit margin of 10.6%, which represents a dramatic improvement over last year's nearly breakeven results, even as this performance is hampered by dramatic material cost inflation and continued supply chain challenges. Adjusted net income in the second quarter of this year was $86 million, $185 million higher than the same period of 2020. The diluted adjusted EPS was $0.59, $1.28 improvement from the prior year. And finally, adjusted free cash flow this quarter was a use of $13 million, an improvement of $120 million over the second quarter of last year as higher profit more than funded increases in working capital and capital expenditures to support the growth. Please turn with me now to slide 13 for a closer look at the drivers of the sales and profit growth for the second quarter. The change in second quarter sales and adjusted EBITDA compared to the same period last year is driven by the key factors shown here. First, overwhelmingly, the increase is attributed to the organic growth of nearly $1 billion, as our business laps the trough in sales caused by the onset of pandemic-containment measures last spring and summer. The incremental conversion of 26% exceeds the decremental conversion from the same period in the prior year by about 200 basis points. Second, foreign currency translation increased sales by nearly $90 million as the dollar weakened against a basket of foreign currencies, principally the euro.\nAs is typical, this has no impact on our profit margin. Finally, steel prices have continued to rise at a rate much higher than anticipated. Gross commodity cost increased by $70 million, and we recovered $45 million of this in the form of higher selling prices to our customers for a recovery ratio of about 65%. This remains lower than our normal steady state recovery ratio due to the timing lag caused by the rapid spike in commodity prices. These increases compressed our profit margin by approximately 180 basis points and represented the primary impediment to achieving 12% margins in the quarter. Please turn with me to slide 14 for a closer look at how adjusted EBITDA converted to cash flow. Free cash flow was a slight use in the quarter at $13 million. This was a substantial improvement of $120 million compared to the same period last year and was entirely attributed to higher profit, which more than funded the higher capital requirements to support the increased volumes. Please turn me now to slide 15 for a closer look at our revised full year guidance for 2021. Given strong market demand in the second quarter despite the impact of the chip shortage, we now anticipate full year top line results toward the high end of our guidance range. This represents a $250 million improvement from the previously indicated midpoint of the range and is driven by higher commodity recoveries, stronger foreign currency exchange and higher demand across all three of our end markets. However, we still expect profit near the midpoint of our range, implying a margin of between 10.5% and 11% as the additional contribution margin from the higher demand is offsetting the higher commodity cost net of recoveries.\nThis also implies an adjusted free cash flow margin of approximately 3% of sales. Diluted adjusted EPS is expected to move toward the higher end of our range at $2.45 per share due to lower interest and income tax expenses. Please turn with me now to slide 16, where I will highlight the drivers of our expected sales and profit changes for the full year. This chart highlights the key factors driving the change in expected sales and profit for 2021 compared to last year. First, organic growth is now expected to add nearly $1.6 billion in sales, including our new business backlog of $500 million and the slightly higher end market volume increase mentioned on the previous slide. Incremental margins are expected to remain strong in the mid-20s, providing about 350 basis points of margin expansion. Next, we anticipate the impact of foreign currency translation to now be a benefit of approximately $150 million to sales and about $15 million to profit, with no impact to margin. Finally, we now expect gross commodity cost increases approaching $250 million as steel prices have continued to rise. We anticipate recovering about $180 million or 70% of the increase from our customers in the form of higher selling prices, leaving a net profit impact of $70 million, which will compress margins by more than 100 basis points. Please turn with me to slide 17 for more detail on how we expect this year's adjusted EBITDA will convert to cash flow. We expect full year adjusted free cash flow of about $275 million, representing an improvement of more than $200 million compared to last year.\nThe growth is entirely driven by the profit I just outlined on the prior page and is partially offset by the higher capital requirements to fuel the sales growth. Please turn with me now to page 18 for an overview of the debt refinancing we completed in the second quarter. In April, we were the first major mobility supplier to launch a green bond here in the U.S. The proceeds were allocated to finance green projects, driving our stated sustainability and social responsibility initiatives including; reducing greenhouse gas emissions; expanding the use of energy-efficient production processes; and designing, engineering and manufacturing products that enable the electrification of the world's mobility fleet. Then in May, we launched our debut bond issuance to the European debt capital markets with a EUR325 million placement to refinance our 2026 dollar notes that had been swapped to euros. Both of these actions lowered our borrowing costs, extended our maturities and will serve as more permanent components of our debt stack as we deleverage in the coming years. And finally, on page 19, I'm extremely excited to announce this morning that we will be hosting an Electric Vehicle Technology Day for capital markets participants on Tuesday, September 28. This hands-on interactive technology experience will be held at our world headquarters in Maumee, Ohio, and broadcast virtually.\nThe event will feature our industry-leading EV products as well as a selection of electrified vehicles and equipment powered by these systems. Our goal for the event is to provide further insight into how we see the transition to electrified mobility unfolding in the coming years and how Dana's leadership in this evolution will drive outsized growth and financial returns for our shareholders.\nI'd like to thank all of you for listening in this morning, and I'll now turn the call back over to Regina to take your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our first question comes from the line of Brian Johnson with Barclays."
+    },
+    {
+      "speaker": "Brian Johnson",
+      "speech": "Yes good morning I've got two questions. First, financial and then second, kind of competitive. On the financial side, just looking at the incremental margins, was struck by very high incrementals in Power Tech and mid-teens in CVD. Can you perhaps elaborate a bit, Jonathan?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Sure. From a Power Technologies perspective, most of the economic impact that we're seeing is on steel, so that's largely being impacted in our three driveline businesses, less of an impact in that segment. So it's not been as big of a headwind. We continue to see pretty decent volumes in that segment across the various end markets and continued improvements in the operational performance that really shown through because they weren't overshadowed by the material economics as much as the other businesses. As far as the commercial vehicle business that you mentioned, the real driver of margin there is pretty continued strong volumes. So we expected the heavy vehicle markets and the medium-duty markets to do reasonably well. The aftermarkets continued to perform reasonably well. So those are principally the drivers of helping to deliver a reasonably solid performance across those segments."
+    },
+    {
+      "speaker": "Brian Johnson",
+      "speech": "And second on the strategic, while we're on Power Tech, the battery cooling win, I just want to get a sense of as much you can give us on a few issues. One, how should we be thinking about the CVD versus the typical Power Tech product? And then two, what was really unique about your solution? Because the picture looks like a piece of metal, it's obviously much more complex. So that, and then as you kind of went through the RP process? What did the customer feedback to you as some of the key differentiators around new products?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Sure. Maybe I'll touch on the content piece, and then I suspect Jim will want to highlight some of the technology that's embedded in the system. So first, from a content perspective, you remember, within our thermal management system of Power Technologies today, we principally cool engine oil and transmission fluid. So that ability to dissipate heat in that system is the core competence, and we've been able to leverage that into cooling batteries in the form of the battery cold plate win, that we announced, which is very similar to the one that we announced with GM earlier this year on their Ultium platform. So as it relates to the content, that's something, Brian, that we plan on giving a bit more color on here in a couple of months. But I'll indicate that battery cold plates, given the size of the batteries in the system, have a dramatically higher content per vehicle than the engine and oil transmission coolers that we produce today."
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "I don't have a lot to add to that, Ryan. Thanks for the question. This is Jim. Of course, the -- what I would say is one thing that can't be lost in the mobility industry is the importance of the long-standing relationships, customer confidence, trust, global footprint. None of those touched on the technology side, but that's a pretty critical ingredient. So with the customer we're referring to today, I don't know how long we've been doing business with them, but for decades, let's keep it at that level. And what's the -- I would almost call it the special sauce of Dana is the fact that battery cooling can very much be correlated to our PT business on both sides, both thermal technology as well as sealing. It takes both to be able to do the battery cooling the way we're doing it, so it certainly differentiates us from the competition. And our customers see that besides the fact that they have the confidence in us to go deliver, launch products to appropriately create value for them."
+    },
+    {
+      "speaker": "Brian Johnson",
+      "speech": "Ok thanks --"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Thanks brian."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]Your next question comes from the line of Colin Langan with Wells Fargo."
+    },
+    {
+      "speaker": "Colin Langan",
+      "speech": "Great thanks to take my question Just on the off-highway business, the quarter-over-quarter incremental margins seemed quite high, pretty dramatic improvement in margin. Anything unique driving that? Is the margin level here sustainable? Any color there?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yeah, Colin, just a couple of things. From an off-highway perspective, we highlighted earlier in the year that ag had been really strong, and that was driving a lot of the growth. We're starting to see a better recovery across our other segments in off-highway, which include construction, material handling and mining. We've always indicated that those segments deliver a bit better margin profile. So that ends up being one of the drivers that's helping to overshadow the impact of some of the premium costs as well as the commodities that we're seeing in that business."
+    },
+    {
+      "speaker": "Colin Langan",
+      "speech": "Okay. And then just strategically, there's a lot of talk, particularly on the light vehicle side about in-sourcing parts of the drivetrain on some of these EV trucks, light trucks that are coming out. Any color on sort of how you see the in-sourcing risk for things like the drivetrain and axle? And just remind us of, on the light vehicle side, what the offsets would be?"
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Thanks for the question, Colin. This is Jim. A couple of things on this, just not so much for you, but for the broader audience. Just as a reminder, a majority of the elastic axles are in-sourced today out in the world. I mean, it's just a reality to it, but that doesn't mean that there's not a huge addressable market and a good business for, in Dana's case, for over 117 years. So that's a starting point to it. As it relates to the balance of your light vehicle question, in totality, as we've always said, for our pull-through electrification and light vehicles started more in the passenger car, smaller SUV, etc, we're always going to be where we're supposed to be. And we don't try to be everything to everybody. We're in the full frame truck business, and we expect certainly that the pull-through will come as those markets continue to evolve. We'll talk more about this in September 28, for sure. But I will, rest assured, when I say this, value creation that we're providing across all the markets that we're providing electrification full systems, if that's the commercial vehicle markets, the off-highway market and light vehicle, for that matter. Our light vehicle customers still see the same value proposition that comes from Dana, that it's a full stop supplier. Meaning they get the whole thing, they get the full mechanical, full electric, full software, full controls, full cyber, full everything. So there's value creation there on both sides, and we fully expect to be a big participant like we have for the last 100 years."
+    },
+    {
+      "speaker": "Colin Langan",
+      "speech": "Ok thanks for taking my question."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Thanks langan"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]Your next question will come from the line of Aileen Smith with Bank of America."
+    },
+    {
+      "speaker": "Aileen Smith",
+      "speech": "Good morning everyone First question related to the semiconductor shortage. As you look at your different business segments, is there anything in the underlying market dynamics of commercial vehicle and off-highway businesses that would structurally lend itself to automakers or suppliers being better able to evade pressures from the semiconductor shortage, particularly versus the light vehicle and Power Technologies businesses? Meaning perhaps those vehicles and machines are less complex or require less semis or alternatively, those businesses rely less on production schedules and more on take rates, so you can avoid intermittent downtime that's been plaguing the light vehicle business."
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Yeah. I mean, it's the right question. It's a good question, but I would have to answer it like this. Maybe other suppliers would want to get beyond their skis and answer that question for the OEMs. But I don't pretend to be a vehicle manufacturer. I pretend to be a supplier, hopefully more than pretend. So I can't really speak for it in any granular detail. But I can say that, as you know, from the various companies you cover, etc, that there's going to be an impact on all of them. It's just a different degrees and how they get through it, will be -- they'll have their own solutions to that. So I'm sorry, I can't give you a direct answer to your direct question, but that's just not where I feel it's appropriate to participate."
+    },
+    {
+      "speaker": "Aileen Smith",
+      "speech": "Okay. And then focusing a little bit on the electrification portfolio and the battery cooling win for the North American pick-up truck. Historically for the light vehicle market, your core competency has been on the body and frame truck market. And clearly, you have compelling product on the EV side to continue winning business. In that segment, whether ICE or EV. But as you think about technologies like cooling plates, these can be applicable for body on frame vehicles, as well as unibody architectures. So when you think about the discussions you're having with your customers for planned new EV products, would you still characterize the truck segment as the key market where you're really winning and have the right to play? Or are you also seeing significant progress and wins across other segments?"
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Good question. There's two -- kind of two answers I would provide you on that one. If you go back to -- and you'll remember this very well, you're very good and on top of your job, but sure. As you remember, the optimum presentation for GM, the Ultium platform that we announced earlier this year, you could define that in probably outside of the full frame type of area. And so that's -- I think it's a representative example of how you're right. We have participated in the power technology side of the business, not just in the full frame truck, but across the light vehicle spectrum of vehicles. Further your -- the second part of your question is the same capabilities, competencies, capacity, etc, do they present the same opportunities across the other end markets, like commercial vehicle and off-highway, the answer is absolutely, yes."
+    },
+    {
+      "speaker": "Aileen Smith",
+      "speech": "Ok great thats hopeful thanks for taking question."
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Thanks aileen"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]Your next question comes from the line of Joseph Spak with RBC Capital."
+    },
+    {
+      "speaker": "Joseph Spak",
+      "speech": "Thanks so much First question, just going back to actually Brian's question on commercial vehicle. Like this business used to do sort of 9%, 10% margin. It seems like we're trending, still well below that. And I know you mentioned stuff like steel headwinds, but actually looks like this is a segment that's a little bit less impacted by steel because of some of the recoveries there. So can you just talk about the trajectory of margins there and what's going to get them back to those prior levels?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Sure. Thanks for the question, Joe. It's Jonathan. In the commercial vehicle space, the biggest constraint to margins is the outsized investment in electrification. So much of the activity is very much concentrated in this segment and a lot of the investments that we're making are to deliver products for these this year and many coming in the next year. So I would say if we think about the overall investment that we highlighted earlier in the year and the step-up that we've made in the last couple of years, it's disproportionately in the commercial vehicle business. So that's a place where we see -- that's going to continue for a while. So even as volumes increase and the traditional business kind of gravitates back more toward that higher single digits approaching 10%, the investment that we make in electrification is going to pull that back. We do believe within a couple of years, and we're going to get into a bit more of this detail here on -- in September at the Investor Day, but we do see the opportunity for that segment to start to see margin expansion, as we're delivering these systems, which are smart systems and are software-controlled and it will come at a more attractive margin profile than the historical business. But we're at that point right now where we're heavily in the investment phase and the contribution margin is still relatively small on those products. But as the volumes ramp up, we see that being the catalyst to this business, having a more attractive long-term margin profile."
+    },
+    {
+      "speaker": "Joseph Spak",
+      "speech": "Thanks maybe just to quickly follow up on that. So if we look back at prior years where maybe these commercial vehicle end markets were similar levels of demand. Is the delta between the margin in those years and now sort of the level of investment? Is that like a good proxy? Or which would suggest a couple of hundred basis points or?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yap. Yeah, I think that's fair. It's also important to remember. You did highlight, we have some of our better recovery in our heavy vehicle business on commodities. But even as we recover higher portions, it still does constrain margins when our top line goes up and the bottom line goes down a little bit. But yes, I think the EV investment is the most meaningful component."
+    },
+    {
+      "speaker": "Joseph Spak",
+      "speech": "Okay. And then maybe a good segue into the second question, just if you could talk a little bit more about the investment in Switch, maybe how much that investment was? When is -- when should we expect some of that product to start hitting the market? And maybe we'll hear more about this at the Electrification Day, but what does this do to sort of your EV backlog?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yeah. In terms of the investment, more color to come on that, but it's something that's going to be consistent in quantum compared to a couple of the other ones that we've done in the space. So it's meaningful but relatively modest. As it relates to the technology, as Jim mentioned, we're pretty excited. It's a very broad range of technology that we'll be partnering with them on. We featured some of the products on the right-hand side of the page. They're going to leverage our electrified axle within a portion of that fleet. In other areas, they're going to use drive technology that utilizes our electrodynamic components, the motors and the inverters. We're really excited about what we can bring them from an electronics and software control perspective with the capabilities we acquired in Pi Innovo's acquisition. So you are right, we're going to get into a bit more detail on this in September, but we're, needless to say, we're very excited about taking this very long-term partnership with Ashok Leyland and moving that into the future of mobility in their Switch business."
+    },
+    {
+      "speaker": "Joseph Spak",
+      "speech": "And just any comment on when that -- when revenues can start from that?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yes. A bit more to come on that when we're together next. We're going to lay out with a greater specificity when the volumes for a lot of these key wins are going to start to come in."
+    },
+    {
+      "speaker": "Joseph Spak",
+      "speech": "Thanks appreciated."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Sure no problem thanks Jon."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]Your next question comes from the line of Noah Kaye with Oppenheimer."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Hi good morning thanks for taking my question. I kind of understand that commercial vehicle OEMs have been waiting to open their 2020 order books. And I think that's partly so they could just calibrate the magnitude and the duration of some of these inflationary pressures in thinking about their 2022 pricing. So, just in your customer conversations, with that segment, how are the conversations around pricing and your ability to pass on not only the higher metals commodities cost but other supply chain costs over a longer period of time? Are those conversations productive? Do you -- what I'm basically getting at here is, is there a setup for just improved recovery of all of these costs as we get into next year?"
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Good question. Obviously, the commodity piece of it relative to materials is pretty, I won't say rigid, but pretty clear on both sides no matter what end market we're participating in and how we get through that. For the rest of the related costs. I would tell you, it's all on a case-by-case basis, communication with all customers about different things. As I've said many times on earnings calls, is one thing that our customers have learned over the course of the year, now tell me this is, look, we all lived through in 2008, 2009. A healthy supply base is pretty critical for the success of the overall mobility industry. So I think we'll continue to have the partnerships we've had. Industry has evolved over the last couple of decades. So that's the best way I can answer the question right now."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. Appreciate that. And then can you talk a little bit about signs of life and construction? We've obviously started to see some favorable momentum indicators in buildings around Dodge and ABI and some of the other forward indicators. Just to what extent do you think that can drive continued sequential improvement in off-highway? And then if I could ask you, it's obviously a moving piece of legislation, but just your thoughts on the compromise infrastructure bill as a potential driver?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yeah you know. Noah, this is Jonathan. And I think you certainly touched on some of the key leading indicators of continued demand in this category. I think one of the interesting observations about our customers, not only in the construction segment but across all end markets, is their desire to build more vehicles than they can right now. So we continue to see a situation where demand is outpacing the capability of the supply chain to keep up. So we're in a position where we're -- we think that's going to continue across all of our end markets, and we're just hopeful that we continue to see improvement in the health of the overall global supply chain so we can start to meet that demand. But I think you touched on some great points that are good indicators that this is likely to be a longer extended cycle across many of our end markets."
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "And I would just add to your second part of the question is that certainly, the infrastructure build is only positive for us. And it's not -- I know we're talking about the United States with that specific question, but I'll just say that it's quite rampant around the world in terms of infrastructure activity. So I'll leave it at there."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "All right appreciate the call and thank you."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Thanks kaye."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]Your next question comes from the line of Rod Lache with Wolfe Research."
+    },
+    {
+      "speaker": "Rod Lache",
+      "speech": "Hi everybody I was also going to ask you about the electrification investment in commercial vehicles. Can you maybe provide some -- just some indication of the magnitude of the impact in that business. And it makes sense that the initial phases of contribution are going to be relatively small, do you think we should be anticipating that, that phenomenon would also occur as electrification starts to become more meaningful in light vehicle? Or are you more able to just transfer the technology over from CV to LV, given the segments that you're focusing on?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yeah. It's an excellent point, Rod. This is Jonathan. Thanks for the question. So just a couple of things. I think when you think about the margin pressure that we see in the CV space, we've got good demand, but we have record high material cost. We obviously still have challenges and disruptions in the supply chain, commercial vehicle happens to be one of our businesses with the effectively the longest supply chain. So those things are pressures. But the EV investment is substantial. We're going to give a bit more color on that at the Technology Experience Day here in a couple of months. But we did indicate earlier in the year when we were trying to give an example of how we thought 2021 would turn out compared to 2019, that we're talking about tens of millions of dollars of incremental investment, meaningful impact on our margin profile. But I think you highlight a very interesting point because a lot of the early technology developments are being applied to commercial vehicle, I think the impact to them will be disproportionate compared to the off-highway and the light vehicle segment. So certainly, as we really ramp up application engineering investments, there will be some impact in those segments. But a lot of the product engineering to get the core technology ready is happening in the market that's moving first and fastest for Dana, which happens to be commercial vehicle and medium-duty and now moving into heavy-duty. So yes, I do expect the other businesses to have to make investments as the volumes really start to pick up. But I think the point about it being more concentrated in CV because it's moving first is a really fair one."
+    },
+    {
+      "speaker": "Rod Lache",
+      "speech": "Thank you. And on the point of -- everyone is facing logistics and various supply chain challenges, and it's understandable that there's a lag in the raw material recovery mechanism. Are you guys feeling like or signaling that we should be expecting maybe better incrementals than you would ordinarily see next year as some of those mechanisms start to either get implemented or some of these things presumably by then start to abate?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yeah. I think that's a very fair point. I mean, we see the environment we're in as being pretty unique. The prices are just so high on so many measures that we would anticipate at some point that they're going to abate. As they do, you're right, that's really going to help push the incrementals of the business. And we think at a more reasonable commodity level, even higher than it may have been in the past, but not quite at the levels we are today. We still have strong conviction that the margin potential of the business is going to exceed 12%. Cash flows are going to continue to grow. So a lot of confidence that in the longer run, all these demand indications that we're getting are just a very strong encouragement that the cycle is going to move in the right direction and should stay there for a while, which is really going to help the overall margin and cash flow profile of the business."
+    },
+    {
+      "speaker": "Rod Lache",
+      "speech": "Okay. And just to clarify, like in the longer run, you anticipate recovering 100%? Or is that something negotiated? And just lastly, can you just give us maybe just a magnitude of bidding opportunities? What are you seeing in the light vehicle side on EV at this point?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yeah. I mean, your question on commodity recovery, I think the way to think of it is that during the period of a program, average program life, we would say, is probably in the four to five year range. You're going to get those incremental recoveries that are going to be less than 100%. But at some point, as programs will fold over and you move to the new program, there's ability to build in the reality of where commodity prices are. So in the longer run, yes, I think we have the ability to effectively recover that. And I think that's an important piece. And I'm sorry, Rod, that second piece was?"
+    },
+    {
+      "speaker": "Rod Lache",
+      "speech": "Just the magnitude of bidding opportunities or -- yes. What -- how should -- can you just give us some scale of what youre looking at this point on the EV side?"
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yes. I mean, I think I would say that we continued to see a record pace in the second quarter. So we thought activity levels were incredibly high in Q1, which they were. But the pace of responses and the activity of quoting increased in Q2. So it's the highest it's ever been. And interestingly, we're seeing it across all of our end markets. So we're really encouraged by that sign, and we'll continue to focus on getting the highest win rate we can and more to come on that when we get together in September."
+    },
+    {
+      "speaker": "Rod Lache",
+      "speech": "Great looking forward."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]Your final question will come from the line of Dan Levy with Credit Suisse."
+    },
+    {
+      "speaker": "Dan Levy",
+      "speech": "Hi good morning thank you. First, just wanted to ask on the light vehicle industry dynamics. I think we all know there's some very large inventory rebuild ahead, especially in North America. So as that inventory rebuild starts to play out, I think somewhat related to Rod's question, a slightly different approach. What type of incremental margins should we expect on the light vehicle side as we're getting that inventory rebuild? And I think -- I know there's a bunch of moving pieces in there."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Yeah. I think, Dan, on a year-over-year basis, they're going to be pretty consistent with what we've seen in the past. Sequentially, they may be a bit higher than that. One of the things that we're challenged with in the near-term is we're probably flexing more closer to a direct variable profit than a contribution margin because of the labor shortage situation. We're holding on to people as much as we possibly can. But I think generally speaking, aside from commodities, we would expect a pretty normal contribution for light re vehicle, which is kind of in that 20% range."
+    },
+    {
+      "speaker": "Dan Levy",
+      "speech": "Great thank you and then just a follow-up on EV. And I'm sure you'll give more at your EV day in a couple of months. But you've obviously done a number of acquisitions to boost your capabilities in engineering and software. So I just want to understand, are these capabilities specific to EV efforts in certain end markets? Or can maybe apply it across your end market exposure? And specifically to light vehicle?"
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "It's a great question. Thanks. This is Jim. They absolutely are interchangeable with all those markets. At the end of the day, as I often say, I don't sell parts for living, I sell capacity for a living. I sell human capacity. I sell equipment capacity, I sell that type of thing. Because if you come back to that, our -- let's take a more recent use, the organic piece of it, but we've done plenty of it, but you will use inorganic, but we've been putting organic as well. Take the Pi Innova acquisition, vehicle control units, etc, etc. The same vehicle control unit software capabilities, product development, etc, etc. We'll go across commercial vehicle, off-highway markets, light vehicle, all dependent on where our customers think we could help create value for them. So yes, I mean that the PCB Board doesn't see a difference between a commercial vehicle and an off-highway vehicle or whatever the case. So and the same goes for motors, inverters, software, complete vehicle integration and all the other things we do. And of course, the obvious is on the power tech, the battery cooling and electronics cooling. They're all interchangeable. So thanks for the question."
+    },
+    {
+      "speaker": "Dan Levy",
+      "speech": "And on the light vehicle side, is that capability, giving you an entry point on discussions that maybe didn't exist in the past?"
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Well, for sure. However, I'd say our first entry point is that we've been partnered with our customers for 100 years. That gets you to the table to start with. And there's a very significant value that in today's world can kind of get lost in this long world called electrification, which is you still need to understand your end market pull-through, your customer sentiment, your customer needs, etc, etc. So take us as it relates to full frame truck, what is a super duty truck consumer need? Or what does it work men need? Or what does somebody need in the commercial vehicle, say, that gets you a seat at the table in the first place because you need to understand the voice of the customer, certainly, the OEM voice of the customer. But really, if you're worth your salt, you better know what the ultimate consumer needs as well. So that's the number one thing. But the fact that -- OK, now you're at the table, if you're trying to fake it, that you know you can talk software controls or whatever it might be, they're going to figure it out really, really quick. So that was really our strategy, of doing it both organically and inorganically. Which is there's -- we have the full capability across the Dana engineering community and others is completely up the curve now in electrification because we started at four to five years ago. And that gets you at the seat at the table to have the right discussion. So maybe it's a little bit of long-winded answer. But we certainly are always in discussion with our customers because I think they see us as, I know they see us, as somebody that can create value for them to sell vehicles."
+    },
+    {
+      "speaker": "Dan Levy",
+      "speech": "Great thank you."
+    },
+    {
+      "speaker": "Jonathan Collins",
+      "speech": "Thanks dan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions]I'll now turn the conference back over to management for any concluding remarks."
+    },
+    {
+      "speaker": "James Kamsickas",
+      "speech": "Well, as always, thank you very much for your attendance today. Interesting times out there. I know your other calls that you're on and so forth. I'm never personally, in my 15-year career as a CEO, have seen the dynamics that we're dealing with right now. But I can -- we'll take this opportunity to thank our customers for going through it with us. Together, I think we're doing a spectacular job and thanking all of the Dana associates around the world for their incredible dedication and commitment to overcoming the challenges of which we're all dealing with. We look forward to be in communication with you in September. A few with the picture worth a thousand words to think about Dana. As you remember, it's not in front of you right now, but the picture of all of the end market vehicles in which we participate in electrification, we're going to try and provide some incremental color as to you can see the synergies that go across and how we're participating in each one of those. I think there's two or three of you out there that asked a similar question relative to are there synergies? Are there as there a bridge between one to another, and there absolutely is, and it didn't happen by accident. Though that's been our strategic vision, at least since I've been around. So we're just continuing to execute that, and we appreciate all your interest and support over the last years. Thank you very much. Have a great day. Have a great weekend."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 48 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Craig Barber--Senior Director of Investor Relations and Strategic Planning",
+    "James Kamsickas--Chairman and Chief Executive Officer",
+    "Jonathan Collins--Executive Vice President and Chief Financial Officer",
+    "Brian Johnson--Barclays -- Analyst",
+    "Colin Langan--Wells Fargo -- Analyst",
+    "Aileen Smith--Bank of America -- Analyst",
+    "Joseph Spak--RBC Capital -- Analyst",
+    "Noah Kaye--Oppenheimer -- Analyst",
+    "Rod Lache--Wolfe Research -- Analyst",
+    "Dan Levy--Credit Suisse -- Analyst"
+  ]
+}

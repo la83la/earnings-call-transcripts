@@ -1,0 +1,384 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, ladies and gentlemen, and welcome to the Q2 2021 Armstrong World Industries, Inc. Earnings Conference Call. [Operator Instructions] I would now like to turn the conference over to your host, Ms. Theresa Womble, Director of Investor Relations."
+    },
+    {
+      "speaker": "Theresa Womble",
+      "speech": "Thank you, Ashley, and welcome everyone. On today's call, Vic Grizzle our CEO, and Brian MacNeal our CFO will discuss Armstrong World Industries' second quarter 2021 results, rest of year outlook and strategic progress. Our discussion of operating and financial performance will include non-GAAP financial measures within the meaning of SEC Regulation G. A reconciliation of these measures with the most directly comparable GAAP measure is included in the earnings press release and in the appendix of the presentation we issued this morning. Both are available on our Investor Relations website.\nDuring this call we will be making forward-looking statements that represent the view we have of our financial and operational performance as of today's date, July 27, 2021. The statements involve risks and uncertainties that may differ materially from those expected or implied. We provide a detail discussion of these risks and uncertainties in our SEC filings, including the 10-Q, which was filed earlier this morning. We undertake no obligation to update any forward-looking statements beyond what is required by applicable securities law.\nNow, I'll ask the operator to turn to slide 7 of our presentation, as I turn the call over to Vic."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Thanks, Theresa. You all recognized a new voice on the phone this morning, that is Theresa Womble. It's really great to have her. She is backfilling Tom Waters, who retired last quarter. So welcome Theresa, and thank you all for joining our call today. It's good to be with you to review our second quarter results. It's been a challenging 16 months since the onset of the pandemic. And I want to begin by thanking the 2,800 employees at AWI for their dedication, agility and excellent execution during these trying times. It's because of their excellent work that AWI is so well positioned to capture the current market recovery.\nThe results we posted this morning mark our strong recovery from last year's second quarter when the pandemic was accelerating, and many markets were effectively shutdown by government mandates. On a year-over-year basis, second quarter consolidated net sales grew 38% driven by a 32% increase in Mineral Fiber sales and a 59% increase in Architectural Specialty sales. We generated $100 million of adjusted EBITDA, which was a 44% increase from prior year results and our adjusted EBITDA margin expanded a 160 basis points.\nNow, this is a particularly impressive margin performance given persistent inflationary pressures and the investments we're making in people, innovation and technology in support of our strategic priorities and to serve the growth we see ahead for the rest of 2021 and beyond.\nOn the strength of these results and the expected continuation of the market recovery in the back half of the year, we have updated and increased our 2021 guidance. Before Brian gets into the financial details, I'll provide some insights into market developments this quarter, and the drivers behind the strong momentum we have heading into the back half of the year.\nAcross both Mineral Fiber and Architectural Specialties segments, we are experiencing a solid rebound in renovation activity. As expected and consistent with historical norms coming out of recessionary conditions this activity is broad based across the majority of our verticals and is providing the expected offset to the continued softness in new construction projects starts from 2020.\nOverall non-residential construction indicators continue to improve, and many of the delayed projects from 2020 have resumed. Of the various sector drivers we monitor, over half have continued to strengthen since April. Additionally, bidding activity in the quarter improved from first quarter levels, again with improvement in all verticals. Within those verticals, retail and office activity posted the strongest sequential improvements. All of these are positive indicators that the recovery is strengthening and are providing greater clarity to our outlook for the second half of 2021 and more confidence that we can enter 2022 at a sales run rate at or above 2019 levels. As a result, we have increased our full-year sales, adjusted EBITDA and adjusted EPS outlook.\nTurning to the specifics in the segments, and looking first at the Mineral Fiber segment, our sales per shipping day rate continue to recover and show sequential improvement for the fourth consecutive quarter. July's rates at this point are continuing the upward trend and are in line with what we would normally expect from a seasonality perspective. As with most companies we have been working hard to manage the impact of inflation, and our sales teams continue to do an outstanding job of ensuring that our announced price actions are realized in the marketplace to offset persistent inflationary pressure. And consistent with our history, our teams delivered like-for-like pricing ahead of inflation, again this quarter. As we expect inflation to persist, we have announced our third price increase this year effective mid-August.\nAUV in total was an outstanding highlight in the quarter with significant mix improvements to go along with the strong like-for-like price realization. AUV improved 10% in the quarter aided by a strong rebound in territory mix, as we posted sequential and year-over-year improvements in each of our top seven territories. Operationally, our Mineral Fiber plants ran well and operating leverage improved. The operational excellence of our manufacturing teams has been a bright spot throughout the pandemic and has never been more critical than now given the broader material shortages in the construction industry.\nThis is becoming a real competitive advantage for Armstrong. Even in these most challenging times for supply chains, we have maintained our best-in-class service levels. As a result we hear from our customers that our ability to be a consistent and reliable supplier distinguishes Armstrong, not only in the ceiling space, but in the broader commercial construction market as well. I am extremely proud of the work our operations teams are doing.\nOur WAVE joint venture also had an excellent quarter. Again, managing to price ahead of significant steel inflation and delivered solid earnings growth. The team at WAVE has done an excellent job managing through extraordinary pressures on both steel pricing and availability. With their great work in this first half they are well positioned to maintain service levels and stay ahead of inflation in the second half of the year, and our Architectural Specialties segment, our strong top-line growth was driven by both our 2020 acquisitions and a nice bounce back in our organic business due to recovering demand for major renovation work as more people return to commercial buildings.\nEBITDA margin in this business improved sequentially, but remain below prior year levels, primarily due to our investments in commercial and production capabilities to meet the robust outlook we have for the remainder of 2021 and growing into 2022. We are pleased with the progress thus far of integrating the 2020 acquisitions, and as sales accelerate through the back half of the year, we expect our margins to continue to improve.\nThe backlog in Architectural Specialties continues to build on the record levels we referenced in our first quarter call. This is particularly encouraging and demonstrates continued penetration into this Fragmented Specialties segment. Now, while this bodes well for future sales, we do expect to experience some short-term project delays similar to what we also see with new construction and major renovation Mineral Fiber projects due to material labor shortages impacting upstream building activity. So despite a strong backlog, we could experience some choppiness here in the short term.\nInflationary pressures are also impacting the Architectural Specialties segment, and similarly to our Mineral Fiber segment activity we are on our third price increase to offset raw material inflation. All in all, this was a strong quarter for the company and with the momentum we see in our key markets, we expect to deliver additional growth in the second half of the year. With that, I'll turn the call over to Brian, to discuss more of the financial details. Brian?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Thanks, Vic. Good morning to everyone on the call, and welcome Theresa. Today, I'll be reviewing our second quarter 2021 results and our updated guidance for the full year. But before I begin, as a friendly reminder, I'll be referring to the slides available on our website and slide 3 details our basis of presentation. On Slide 5, we begin with our consolidated second quarter 2021 results adjusted sales of $280 million were up 38% versus prior year adjusted EBITDA grew 44% and EBITDA margins expanded a 160 basis points. Adjusted diluted earnings per share of $1.16 was 61% above prior year results. This result excludes $7 million or $0.10 on an adjusted EPS basis of acquisition-related amortization. This is an adjustment we are introducing this quarter because we believe it provides a more meaningful comparison of operating performance between periods. This adjustment has been made retrospectively and prospectively in the reconciliation tables included in our earnings material.\nOur balance sheet remained strong, in a strong position, as we ended the quarter with $419 million of available liquidity including a cash balance of $119 million and $300 million of availability on a revolving credit facility. Net debt at the end of the quarter was $559 million and our net debt to EBITDA ratio of 1.6 times, as calculated under the terms of our credit agreement remains well below our covenant threshold of 3.75 times. We have considerable headroom here and feel comfortable in our current positioning.\nIn the quarter, we repurchased 194,000 shares for $20 million or an average price of $102.85 per share. This marks a clear step up from our Q1 purchases of $10 million. We currently have $564 million remaining under our repurchase program, which expires in December 2023. On this slide, you'll also see our consolidated second quarter EBITDA bridge from the prior year results. The $31 million EBITDA gain was primarily driven by increased volume, as well as favorable AUV and increased WAVE equity earnings.\nAs Vic mentioned, the positive AUV was driven by both like-for-like pricing actions and improved territory mix, as we saw a resurgence in our key seven markets. This was partially offset by higher SG&A cost, driven by continued growth investments in our healthy spaces and digitalization efforts. Normalization of spending following last year's temporary cost-outs and our 2020 acquisitions.\nWe discuss our Mineral Fiber segment results on Slide 6, in the quarter, sales increased 32%, mostly due to an expected increase in sales volume from last year's trough in Q2, as the economy was shut down. While this rebound was anticipated we're happy to see both volume and AUV coming ahead of our expectations. We continue to closely monitor our daily ship rate compared to both 2020 and 2019, and we are happy with where we're trending in the couple of weeks in the beginning of the third quarter.\nAs a reminder, we expect a typical seasonality of our sales to return to something closer to normal this year with our strongest months appearing in the summer, both comparisons remain unusual due to an atypical 2020. Mineral Fiber segment adjusted EBITDA increased 44% driven by the volume in AUV gains, which were partially offset by higher SG&A spending to support our growth investments and the reinstitution of certain costs that were temporarily reduced during 2020.\nInput cost was a headwind this quarter, which impacts across our supply chain. This is part of the reason we've added a price increase in May, and have also announced an August price increase. We expect inflation to stabilize, but remain elevated over the back half of the year. It was a very strong quarter for our WAVE joint venture, as they are doing an excellent job of pricing ahead of inflation and managing steel supply chain issues. Moving to Architectural Specialties or AS segment on slide 7, we reported second-quarter sales growth of 59% or $27 million with the 2020 acquisitions of Turf, Moz and Arktura contributing $17 million, and our organic sales increasing $9 million or 20%.\nAS segment EBITDA increased $3 million, as improved sales from the 2020 acquisitions and the organic business more than offset increased manufacturing costs and SG&A spend. It's important to note that the planned spending increases in manufacturing and SG&A support our growth strategy for this segment and will help ensure that we maintain strong service levels for our customers as order intake levels remain at historic highs. The EBITDA margin for the segment improved sequentially by 255 basis points from the first quarter, and sales ramp up further through the year, we expect EBITDA margins to improve in line with that growth.\nSlide 8, shows the drivers of our consolidated results for the 6-month period including a breakout of the impact from our 2020 acquisitions. Sales for the first 6 months of the year were up 18% and adjusted EBITDA increased 12%. The year-to-date results share a similar story as the quarter higher volumes, favorable AUV and increased WAVE equity earnings, which were partially offset by higher SG&A spend.\nAdjusted diluted earnings per share increased 13% to $2.11 and again this now excludes acquisition-related amortization in both the base and current period. Slide 9, shows our year-to-date adjusted free cash flow performance versus prior year. The decline of $13 million was driven by an increase in capital expenditures, as we get back to our normal capex spending levels following lower spending in 2020, as we manage for cash and liquidity.\nOur cash generation through the first 6 months was above our expectation, and is the basis for increasing adjusted free cash flow guidance for the full year, as you'll see on the next slide. Slide 10, summarizes our updated guidance for 2021.\nPlease note this guidance update assumes no significant pandemic-related shutdowns or job delays due to supply chain issues, we are closely monitoring variants of COVID-19 and their impact on our business. We are increasing our guidance ranges for all of our key metrics, and now expect year-over-year revenue growth of 16% to 18% adjusted EBITDA growth of 12% to 15%, adjusted EPS growth of 12% to 18%. We are also lifting the bands of our free cash flow generation to $195 million to $210 million.\nThe adjusted EPS figures for both 2020 and 2021 reflect our decision to exclude acquisition-related amortization in the calculation. On the right side of the page you'll see highlighted changes in the key drivers of our guidance revision. The two largest changes you'll notice are the increase in Mineral Fiber AUV to 6% to 9% and increasing of our Mineral Fiber volume to 2% to 4%. I will get to those in a second, but first, I'll touch on the others. We are dropping the ranges of our 2020 acquisition benefit to the AS segment by 5% to reflect actual performance to-date and expectations for the second half of the year.\nYou'll see an increased depreciation and amortization being driven by the finalization of the purchase accounting for our December acquisition of Arktura. As previously noted, we are excluding the acquisition-related intangible amortization from adjusted EPS, but wanted to provide an update for those that use amortization in their modeling. The increase in capex is in support of our capital allocation priorities with the number one priority being reinvesting to drive growth in our business.\nAnd now, onto Mineral Fiber AUV and volume. Earlier, Vic mentioned three pricing actions we've taken in Mineral Fiber this year, which were in February, May and August and have been 7%, 10% and 11% respectively. While we do not fully realize these announced price increases the increased pace in rate of these increases are a large part of the reason we're elevating the AUV range to 6% to 9% for the full year. We never take our ability to get price for granted, and we realize it's vital to our success.\nWe also expect mix to lift AUV, as we continue our legacy of product innovation, return to historical levels of AUV fall through and now have put the unusual channel and territory headwinds of 2020 behind us. Mineral Fiber volume growth has always been a priority for us. With our performance through the first half of the year, the favorable macroeconomic trends and with the traction we're seeing in healthy spaces and our digital initiatives we anticipate Mineral Fiber volume growth of 2% to 4% for the full year.\nIn conclusion, our performance in Q2 was a key input to our increased confidence in raising our full-year 2021 guidance. We're delighted with the work our teams have done and the results that we've achieved, and I'm excited and optimistic about the months and years to come for Armstrong, and I know our teams feel the same way. And with that lets advance to slide 11, and I'll turn it back to Vic."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Thanks, Brian. As Brian was alluding to how we're very pleased with how our business has performed so far in 2021 and with the continued recovery of the broader market we have reason to be more optimistic and positive about the outlook for the rest of the year. Before we get into our Q&A session. I'd like to share some thoughts on the progress we've made on the key pillars of our strategy. The work we've been able to accomplish despite the challenges of the pandemic has put us in a strong position to capture the opportunities emerging as the economy recovers. The cornerstone of our strategy has been revitalizing the demand for Mineral Fiber products while improving the AUV generated by these products. To this end, we are certainly glad to see people starting to return to offices, schools and restaurants. Although we continue to monitor the evolving dynamics of this pandemic, the Kastle Back to Work index at the end of the second quarter hit its highest mark since March of last year when the pandemic really took hold in the U.S.\nWe're seeing employers, owners, architects and designers and occupants rethinking and redesigning their spaces to meet new emerging demands for what now defines a healthy and safe place. The trends of densification are reversing and the focus on air quality has been redefined and changed forever. These new forces on interior spaces are creating additional renovation and new construction opportunities for Armstrong because ceilings play a critical role in achieving this newly defined level for healthy spaces, and our innovative healthy spaces products are gaining traction.\nWe just recently received the largest order yet for our 24/7 defend family of products from a large schools district in Florida. The VidaShield products ordered are specifically designed to support improved indoor air quality with technology that's endorsed by the CDC to remove airborne pathogens in a format integrated directly into the ceiling tile. Our Living Lab, which we recently opened at our headquarter campus showcases partnerships and is a vehicle to drive new innovation for healthy spaces.\nThis lab allows for design and product experimentation, as well as the collection of important data to demonstrate the benefits of various designs, products and solutions for total indoor environmental quality. The lab demonstrates how to bring a holistic approach to indoor environmental quality by focusing on optimal lighting, thermal and acoustical conditions, as well as air quality. Ceilings is what brings these together, and is the hallmark of how healthy spaces are defined. A building that supports the physical, psychological and social health and well-being of people.\nWe also continue to make progress with our digital efforts with another quarter of sequential growth from the canopy and project works platforms. The speed and cost advantages these digital platforms offer customers are not only industry-leading, but they represent a step change in design outcomes for both architects and contractors. The progress we've made with these digital platforms is important to support our long-term growth in Mineral Fiber.\nGrowing through Architectural Specialties and creating more scale in that business is also a key strategic priority for us. We have made solid progress in integrating our 2020 acquisitions while organically we continue to increase our level of penetration. Through a broader array of specialty products and capabilities we are extending our reach into more spaces in commercial buildings. And even with the recent delays in major new construction projects we continue to expect double-digit top line growth and margin expansion in this business. And finally, maintaining a disciplined approach to capital allocation rounds out our priorities.\nWhile we acted prudently at the start of the pandemic to preserve cash, we maintained our number one priority of investing back into our business when strategically important innovation and acquisition opportunities emerged, and we have made these investments while still providing direct returns to shareholders through our dividend and share buyback programs.\nWith confidence in our strong cash flow going forward, we have both the capability and the intent to maintain a balance of all of these capital allocation priorities. Our team is focused and committed to these strategic priorities and to the overall purpose of the company, making a positive difference in the spaces where we live, work, learn, heal and play. The dedication of our employees, coupled with our best-in-class distribution network and our partner relationships remain a unique form of competitive advantage helping us deliver the best products for our customers and strong returns for our shareholders.\nWhile we continue to monitor evolving pandemic conditions, Armstrong is well-positioned for a strong future ahead. And with that, we'll be happy to take your questions now."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] And your first question comes from Kathryn Thompson with Thompson Research"
+    },
+    {
+      "speaker": "Kathryn Thompson",
+      "speech": "Hi, thank you for taking my questions today. Inflation has been the topic of the year, and appreciate the color on the pricing actions you have so far. But thinking about the really realizing the full effect of these. Are this -- is this realistically to start hitting late in '21 and more into '22? And then also along with that line with the price increases, given you're starting to see more renovation, which is generally a higher price point, are you seeing changes in mix and also the price increases from a mix standpoint? Thank you."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Hi Kathryn. Thank you for the question. Yeah, I think pricing has been something in our Mineral Fiber business, and particularly in our grid business through WAVE. We have a track record of staying ahead of that being able to anticipate and then stay ahead of that, and I think our first-half performance on our price initiatives and the realization of those initiatives have demonstrated we continue to stay ahead of the inflation.\nOur price increase in August, I think should -- I think reassure everyone that we'll stay ahead of the inflation that's anticipated to continue into the second half of the year. And when we talk about these price increases, and again, based on history the price increases are across the entire product portfolio. So at the low end, at the mid and then for the high-end of the product portfolio we get similar price realization.\nSo no matter what the mix of products happens to be in a more renovation rich environment, which we're entering now that we should have similar price realization expectations in all of those environments because we get it across the entire portfolio. So that's something we're counting on, and I don't expect any price mix impacts from our price realization efforts that way. I will mention that, on the overall mix, last year we talked about mix being product mix being a good guy, but it was overshadowed by the territory mix, and what we saw in the second quarter and we expect to continue to see in the second half is the territory mix, which was the bad actor in the overshadow last year from these the unnatural dynamics of shutting down these key markets those continue to heal, and we've got a nice benefit from that in the second quarter, and I think those going to continue to heal by the activity we see in the second half."
+    },
+    {
+      "speaker": "Kathryn Thompson",
+      "speech": "Okay, that's helpful. Then there is a wide variety of different bottlenecks and the value chain, but also shortages of certain supplies and materials including aluminum and others. Are there any type of raw material shortages that you're seeing and are having to bark around?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Across our business, we haven't seen or felt that impact. We're monitoring the steel for our grid business very closely, and we're managing that very well. So we don't believe that's a risk into the business, but we're watching it very carefully. Again, across our business we have not seen supply chain issues impact on service levels. Again, very proud of the fact that we're able to maintain our lead times and deliver on time, and not be part of the issue that I think a lot of our customers are experiencing at the moment."
+    },
+    {
+      "speaker": "Kathryn Thompson",
+      "speech": "Okay. And then final question. What is the biggest difference sequentially when you think about how you've been managing the business? And taking a step back, what is that give you confidence looking forward at the next 12 to 18 months? Thank you."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, thanks, Kathryn. Again, I think we expected renovation activity to bounce back this year. We had been talking about when new construction activity historically goes down into negative territory, renovation activity picks up and moves into positive territory. That's been true and 8 of the last 9 recessions. And again, you have to go back decades to get to 9 last recessions. And so that has been historically the norm, and we expected that to happen again this year, and that's exactly what we're experiencing.\nSo when I look at the renovation activity coming back in 2021 number one, as expected but when I see the strength of it in the bidding activity, which I'm watching very closely as a leading indicator to future demand the bidding activity in the second quarter was a step change from what was seen in the first quarter number one. But also when I go back and look at Q2 of '20. And I look at how much the bidding activity fell off and compare it to how much it picked up in the second quarter, again it was a step change different to not only rebound from where it was, but to -- it's even stronger than what it was, negative, if that makes sense here.\nSo, and again, that was across the spectrum of types of construction, but in particular in the renovation part of the market it was demonstrably better. So that's leading, I think that's a leading indicator for us for confidence into the second half and certainly into 2022, and then I'll point to one other thing. Our backlog in the Architectural Specialty business which Kathryn, well, we have our best visibility there in terms of projects and our backlog in our Architectural Specialty business has built on the record level we had in the first quarter. So sitting here for the second half, we have the most backlog in position than we've ever had for our second quarter expect -- our second half expectations. Again that's providing some additional, I think optimism for the recovery is well underway."
+    },
+    {
+      "speaker": "Kathryn Thompson",
+      "speech": "Okay, great. Thanks."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Susan Maklari with Goldman Sachs."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Thank you. Good morning, everyone."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Hi, Susan."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "My first question is thinking about the mix across the different verticals. I know that you talked about the sequential increase that you've seen in office and retail in the second quarter. But when we think about the comps in there, and all the moving parts that have kind of come together over the last year. Can you talk about which verticals are you seeing the most growth? Which ones you still have some more incremental room to improve over time? And just kind of where things are falling? And your expectations for that, as we go through the second half and then into '22?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah. So the -- across all the verticals. I think, let me just step back, the reference you made to retail and office within the bidding activity, and it really was a standout improvement in bidding activity in those two areas. So, and of course that's a leading indicator. That's not necessarily what we saw in the second quarter. So that being said referencing your point, what we saw in the second quarter was actually a bounce back across all the verticals still kind of feel uniformly.\nAnd I reported on this in the first quarter too that we -- which makes sense when you think about everything was uniformly shutdown last year, it wasn't necessarily a segment-by-segment shutdown, it was across the entire industry. And so I think naturally, we're seeing some uniformity and the bounce back, as projects that were delayed have resumed, and we're starting to see those in the pipeline. And I'll go back to something we watch very closely last year was the project delays and we were watching for cancellations, and we reported on this. We saw very few cancellations of projects last year. So it stands to reason that those projects that didn't get canceled should be resumed and then that's really what we're experiencing on a uniform basis in the first half of this year, I would say.\nBut going forward, I think it's interesting, it's nice to see office kind of outperforming, if you will, in the bid activity along with retail."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Okay, alright. That's very helpful color. And then I guess just as a follow-up to that. I know you made some comments around some of the new product introductions. Healthy spaces those kinds of things that you put out there, and it sounds like they are getting some momentum. But can you just talk to how those are contributing to some of this volume growth that you're seeing coming through? Any kind of indicators in terms of either actual orders or the bidding activity that's coming in? And how we should be thinking about their contribution to the business going forward?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, it's on the fringes, really. It's marginal contribution relative to the overall size of the business. I'm very pleased with the month-to-month growth that we're seeing month-over-month growth that we're seeing there. So they are not meaningful contributors in the first half of this year. And I would expect for '21, it's probably not a meaningful level. The big driver here is the uptick in renovation activity. And that is the single biggest driver and will be for the rest of the year."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Okay, alright. That makes sense. Can I just squeeze in one last one, which is that, this quarter you've not mentioned anything on channel mix, which in the past has been a pressure in the business. Does that, is it fair to say that, that's really kind of alleviated itself and things have really started to normalize from a channel perspective in the second quarter?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "I think that's right. That's the right conclusion. It was really not a meaningful contribution plus or minus."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Yeah. Okay, alright. Thank you, guys. Good luck."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Phil Ng with Jefferies."
+    },
+    {
+      "speaker": "Phil Ng",
+      "speech": "Hey guys, your volume guidance for a Mineral Fiber seems pretty conservative given the momentum you're seeing in the business well into July, you got some easy comp. So what's driving your expectations for essentially flattish volumes in the back half, if we look at the midpoint of your guidance? Are there any things that we need to be mindful of? The uptick you're seeing are being offset by new construction? Any color will be helpful, Vic."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Okay. Yeah, Phil. I think there is still some chop that we're seeing we had talked about. In April, we had levels above 2019 levels and then."
+    },
+    {
+      "speaker": "Phil Ng",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "May and June kind of normalized, and so July is at or above 2019 levels. And -- but, so we're seeing a little bit of unevenness across the market, and I think we're factoring some of that chop into our outlook for the second half. Although, I mean, I wouldn't undervalue the acceleration we are putting in for the second half of the year. We do expect some acceleration in Mineral Fiber in the second half, but we do have some expectation for some early chop I think until we get to the later parts of the end of the year as we. And again, as I stated in my remarks, we expect to be at 2019 or above exiting the year."
+    },
+    {
+      "speaker": "Phil Ng",
+      "speech": "Okay. Is the choppiness more on the new construction business, which has a lag factor from last year. So it sounds like R&R has been pretty solid?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "It's really across geographies, frankly, as well as it is across the construction types. So I wouldn't just put it in the bucket of new. Obviously due to the headwind we didn't have to starts last year to be selling into this year, but the renovation activity is more than offsetting that as we outlooked."
+    },
+    {
+      "speaker": "Phil Ng",
+      "speech": "Okay. And then thinking out to 2022, Vic, you mentioned a step change in bidding activity in 2Q. Is that more on the Mineral Fiber side of things? And then when we think about that kind of coming to fruition on your volumes? When should we kind of expect that flowing through?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Well, we look at the bidding activity across the construction types. We look at it on a value basis, as well as the number of basis, so it's really for the entire business. It's not just Mineral Fiber. But certainly, pertains to Mineral Fiber as well. So again, the lag on these starts ranges from 6 months to 24 months depending on the size of the projects. So within that 18-month is a pretty good average. And, yeah, bidding activity could have some impact on the second half, but certainly in 2022."
+    },
+    {
+      "speaker": "Phil Ng",
+      "speech": "Okay, super helpful. And just one quick one. AUV accelerated pretty nicely in the quarter and you're implying a nice pickup in the back half. Any color in terms of how to break up mix, as a good guy versus absolute pricing? And does your guidance factor in what you guys have out there for the August price increase? It's pretty impressive pricing power we're seeing right now."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, we're running around that historical split of 50-50. In inflationary times, we tend to get a little bit more price than mix. We might end up a little bit more than 50-50 toward the end of the year with our August price increase, but yeah we're running pretty close year-to-date here at a 50-50 mark. So that's not a bad proxy to continue to use."
+    },
+    {
+      "speaker": "Phil Ng",
+      "speech": "Okay. And your guidance includes the August increase or could that be a narrow way upside?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, no, we factor that into our guidance. So it's considered in there. Yes."
+    },
+    {
+      "speaker": "Phil Ng",
+      "speech": "Yes. Okay, super helpful guys."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "You bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Adam Baumgarten with Zelman."
+    },
+    {
+      "speaker": "Adam Baumgarten",
+      "speech": "Hey, good morning everyone, thanks for taking my questions. Just on AUV. Kind of, if I look at the mid point of guidance for the year it actually would imply a very modest but a slight deceleration on a year-over-year basis, despite easier comps in AUV and some of those price increases you mentioned starting to flow through. So is that maybe offset by some kind of mix, as mix did start to normalize a bit in the back half of next year. Just curious why it wouldn't kind of accelerate further given all the initiatives and price increases out there?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah. We had our probably our best mix contribution in second quarter with the territories correcting themselves, and we didn't have the channel mix headwinds. So I think that's a good way to think about it is, mix is going to normalize a bit in the back half as we had some improvement in those seven key territories that were, well that was the overhang on-mix in the second half of last year. I think that's the right way to think about it, as we expect to get more price realization in the back half to offset inflation stay ahead of inflation, frankly."
+    },
+    {
+      "speaker": "Adam Baumgarten",
+      "speech": "Got it, thanks. And then just a bit curious if you could give us some more color on some of the acquisitions and the performance being below your expectations. Is that end market related, are there supply constraints? Just some more color around kind of the slightly worse than you anticipated performance there."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, let me just start with saying that we're very pleased with the performance of those acquisitions. They're growing double-digits in the face of the pandemic. They had a very strong year last year, and they're growing double digits on top of that this year.\nSo I want to say that because contextually that's how we think about these acquisitions, and how they're performing. Remember the earn-out structure that we put in place was for some stretch numbers that had risk to them, given the pandemic and the recovery rate and pace of the recovery nobody could guess that. So we put an earn-out structure, which really push the risk toward the sellers of the company. And as Brian can comment on the accounting we had to account for that and they're not reaching those levels -- those stretch levels, but they're performing very well. And again, a double-digit levels in the face of this pandemic."
+    },
+    {
+      "speaker": "Adam Baumgarten",
+      "speech": "Got it. And then just lastly, just curious what you're seeing in education and government markets. We're kind of hearing that things are picking up, given some of the surpluses that state and local governments have I would assume, and some of that's going toward schools. Just I'm not sure if you called that out yet on the call, but just what you're seeing in education and maybe some of the government verticals?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah. Again, the activity is there, the bidding activity is there. I would say, we've not seen an abnormal contribution from education or institutional spending or in institutional segments so far. I think that's still coming. I think they're still working through what they're going to -- changes they are going to make what design modifications they're going to make in the schools and so forth. We're seeing good activity there, but I wouldn't say we've seen kind of a step-up in activity, they're based on government stimulus that's going their way."
+    },
+    {
+      "speaker": "Adam Baumgarten",
+      "speech": "Got it. Thanks a lot. Good luck."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Stephen Kim with Evercore ISI"
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Yeah, thanks very much guys. I appreciate all the color. Vic, I had a general question about what do you think the potential impact of the Delta variant or some other variant that we may see here over the next 6 months or a year might be like. In general I would think that there could be some obvious negatives in the form of maybe some potential additional delays or something in project work, but on the other hand I could also see some positives.\nAnd so as you sort of reflect back on how the initial wave of COVID sort of has ultimately kind of played out now that the dust is settling on that, I'm curious what you think your exposure from a variant coming into the picture would be? Whether it would be net positive or net negative?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, Stephen, it's an interesting question. Because if you go back and you're referencing, what happened last year, remember what happened last year, the markets were shutdown basically, construction sites were shutdown, and activity literally came to a halt. That's not a scenario that we would be planning for or expecting to happen from the variant that. I don't sense any appetite out there to go that far.\nNow with that said, we're watching it very closely because depending on certain local regulations that could go in place we could see that impact rate and pace of job sites being completed or resumed, so we're keeping a close eye on that. The positive side of this, which you said it just keeps in front of everybody that we have to continue to work to make these spaces healthy enough so that we can exist and we can function and go on about our economic lives with the variant and other variants that may come down the pipe.\nSo in a way, it reinforces the need for healthy spaces and how we have to think about these spaces to be able to get people back into them, but also keep them in the event, there is not only this variant but there is newer variant. So, we're balanced about it, but we're watching it very closely in terms of its impact on the rate and pace of of construction activity in the back half of the year."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Yeah, fair point. I wanted to ask about some of the investments. That run -- kind of run through in the walk on the SG&A side, on the SG&A line. Was curious if you could give us some general sense of what the split was between just temporary cost reversals and the actual investments? And then secondarily, are you seeing the improvement that you talked about geographically across your business? Was that inclusive of New York City, specifically?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yes, let me take the second part of question, and I'll let Brian answer the SG&A split. Yeah. And also of the territories all seven of them improved including New York City. In fact, New York and California both improved nicely in the quarter. So those are two very big markets for us, so it is good to see. Brian, you want to handle the SG&A question?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yes, Stephen, good question. As you look at Page 5, our EBITDA bridge we've got $18 million higher SG&A $5 million of that's coming from the 2020 acquisitions, $6 million from those temporary cuts we did last year in 2020 coming back in and you and others may recall we said it's about $5 million a quarter, so they rounded to $6 million in this quarter and then another $7 million at the total company level investments around the growth digital and healthy spaces."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Okay. And is that level of investments roughly $7 million. Is that a number that we can kind of be thinking about for the next couple of quarters?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yeah, it will stay no higher than that $7 million, but around that number."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Okay. Great, thank you so much, guys."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Right. Thanks, Stephen."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Ken Zener with KeyBanc."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Good morning, everybody."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Hey, Ken"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Hey, Ken."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "So, Brian, you talked about normal seasonality I think in your prepared remarks. Normal seasonality implies a little up 3Q from 2Q, is that which is your overall guidance would imply 4Q rolling off at the normal level? Is that within the range of what you were trying to communicate, just so I'm clear?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yeah, Ken, bet on. Q3, typically is our strongest quarter, and we would expect to see that pick up some and Q4 be proportionately lower back to its normal percentage of the year."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Okay. Vic, I think you made comments around exiting FY '21 above FY '19. Could you be specific? Yeah, it can be sales, it could be AUV, it could be margin. Could you just kind of talk to what you're referring to there please?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah. Sure, Ken. That's a daily shipping sales rate. And"
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "So, we're tracking that to as a proxy, so when does the market get back to full recovery and we're back to building on that platform for future growth. That's kind of the proxy, we've been looking. And that's really a Mineral Fiber because that represents probably the broader part of the market versus the overall. I mean our overall sales per shipping day rate is already above 2019 because of the growth in AS and because of the acquisitions, but we're really trying to use is a proxy to the overall health and condition of the broader market."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Okay, got it. And then with 4Q seasonality. Okay, that makes sense. You talked about backlog. Obviously, with these -- are these the price increases since you looked at the 10-K is back too?, it sounds like you're early '60s until recession stuff. Are these prices actually exceeding what you saw in the '70s by chance?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Prices of our products or project? I'm sorry."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Yeah. Just the see sequential price increases that you could get up high. I mean, it's three big increases here. So is this nearly, I haven't gone through all the 10 gains, but it certainly seems like might be a record actual price increase for you guys in Mineral Fiber? Is that accurate?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, it's pretty close. I mean we had a cumulative similar number maybe not as high in 2018. When we had again some rapid inflation based on the steel tariffs and being particular."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Right."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "So, it's up there. Ken, to your point. But again, particularly the inflation is same."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Yeah, no, I get it. But I ask, I wonder backlog, demand AWI versus others. Are you seeing share shifts at all. I know it's not something you want to be specific around so I'm sensitive to that, however, I'm just wondering how that fits in given the capacity constraints in the industry. I'm just trying to understand if you're seeing demand or if you're seeing share shifts or something to that effect. Thank you very much."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah. Ken, I think this is really renovation activity driving what we're seeing right now versus significant moves in share gain. We're doing a really good job at servicing our customers, holding onto specifications and winning new specification. And that always helps with your pricing and your margins because you don't have inefficiencies in your plants and your supply chain. So we're doing well. We're well-positioned. I would say this is really a reflection of our innovation and some tailwind from the market recovery."
+    },
+    {
+      "speaker": "Kenneth Zener",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah. Thanks, Ken."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question comes from Garik Shmois with Loop Capital."
+    },
+    {
+      "speaker": "Garik Shmois",
+      "speech": "Great, thank you. Just wondering if you could provide a little bit more color just on the increase in bidding that you're seeing in retail and office that you cited a couple of times on the call. I mean, this is mostly on the renovation side. And just any more color on what's driving that? Is it kind of a function of people kind of returning back to work? Office space, retail space. Just getting used in different ways than it was pre-pandemic or is it maybe more of just kind of return of normal activity that one would have expected if we didn't have COVID?"
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, it's pretty broad-based. All the verticals were positive. So that was encouraging to see. I think, again, it's not too surprising because everything was kind of shutdown and delayed from last year. So there is some catch-up in there I would imagine from what didn't happen in 2020, and then retail and office was stronger than the others.\nBut again I think what I split it by new construction activity, and the bidding there versus the bidding in alterations and renovation it was meaningfully higher on the alteration renovation activity. Again, which reflects what we would expect to see when new construction is down you would have higher rates of growth in alterations in renovation.\nSo again, I think there's a combination of a little bit of pent-up demand from stuff that didn't get done last year plus the recovery, and people returning back to the office, kids back in the classroom. And again, generally, people have to do something to get their spaces ready. No matter if you're again, a restaurant owner, a gymnasium owner a dentist office, people are doing things to create a more healthier environment for people to come back and feel good about being in those spaces.\nSo again, I think all of this is kind of contributing to across the board, across the verticals, really across all of the construction types higher activity. Again, with the higher activity being on operations and renovations, which is what you would expect in this environment."
+    },
+    {
+      "speaker": "Garik Shmois",
+      "speech": "Okay. And just as a follow-up to that. You referenced the strong alteration renovation bidding. Just given a context of inflation at some point and given the price increases that you're pushing and the inflation across other building product categories at some point you get worried that the start bidding environment could be hindered by the inflationary experiences that we're seeing right now."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah. Watching for that. I have not seen that or hence of that. I think this is really much more supply chain and product availability driving the rate and pace versus the cost or the inflation. So we should continue to watch for that, but I really don't get a sense that, that's going to be the driver. I think supply and availability is going to be the driver on the rate and pace."
+    },
+    {
+      "speaker": "Garik Shmois",
+      "speech": "Great. Thank you very much."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, you bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time there are no further questions. I will now hand the call back to Vic Grizzle CEO for closing remarks."
+    },
+    {
+      "speaker": "Victor D. Grizzle",
+      "speech": "Yeah, I just want to thank everybody again for joining our call today. Again, we're pleased with where we are at the halfway mark here of the year, and really a transition year out of a pandemic. And as the market opens back up with a little bit of unease unevenness and some chop, as we talked about on the call, but I love where we're positioned. We're investing into a bit of a tailwind here for market recovery, and we're excited about getting this market fully opened and taking advantage of our strong position coming out the pandemic. So again, thank you all for your attendance today and your interest. And we look forward to talking to you next quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 56 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Theresa Womble--Director of Investor Relations",
+    "Victor D. Grizzle--Chief Executive Officer",
+    "Brian MacNeal--Chief Financial Officer",
+    "Kathryn Thompson--Thompson Research -- Analyst",
+    "Susan Maklari--Goldman Sachs -- Analyst",
+    "Phil Ng--Jefferies -- Analyst",
+    "Adam Baumgarten--Zelman & Associates -- Analyst",
+    "Stephen Kim--Evercore ISI -- Analyst",
+    "Kenneth Zener--KeyBanc Capital Markets -- Analyst",
+    "Garik Shmois--Loop Capital -- Analyst"
+  ]
+}

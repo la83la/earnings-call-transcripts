@@ -1,0 +1,256 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good afternoon, ladies and gentlemen, and welcome to AAR's Fiscal 2021 Second Quarter Earnings Call. We are joined today by John Holmes, President and Chief Executive Officer; and Sean Gillen, Chief Financial Officer.\nBefore we begin, I would like to remind you that comments made during the call may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995 as noted in the Company's news release and the Risk Factors section of the Company's Form 10-K for the fiscal year ended May 31, 2020, and Form 10-Q for the fiscal quarter ended August 31, 2020. In providing the forward-looking statements, the Company assumes no obligation to provide updates to reflect future circumstances or anticipated or unanticipated events.\nAt this time, I would like to turn the call over to AAR's President and CEO, John Holmes."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Great. Thank you very much, and good afternoon, everyone. I appreciate you all joining us today to discuss our second quarter fiscal 2021 results.\nBefore we discuss the results themselves, I would like to thank all of our employees for the continued resiliency and courage they have shown over the last three quarters as we have navigated this pandemic. In particular, more than two-thirds of our people are essential workers, and they have continued to come to work every day, enabling us to continue to deliver for our customers. I'm very proud of our entire team. I also want to thank Congress once again for its work on the CARES Act, which has allowed companies like ours to preserve their skilled workforce.\nRegarding the business, as we indicated last quarter, overall, we have seen our commercial volumes stabilize and continued strong performance out of our government business. While we remain in a difficult and uncertain environment, we are encouraged by the stabilization, as well as the positive developments regarding the vaccines, which not only will protect our people, but should also ultimately lead to more travel and a recovery in our commercial markets.\nWith that, turning to the quarter, our sales decreased 28% year-over-year from $561 million to $404 million, and our adjusted diluted earnings per share from continuing operations decreased 52% from $0.64 per share to $0.31 per share. Our sales to commercial customers decreased 48%, and our sales to government and defense customers increased 13%. For the quarter, sales to government and defense customers were 52% of our total sales.\nOur Aviation Services segment grew 6% sequentially from our first quarter. This was a result of increased volume in our MRO business, which is seasonally higher in Q1 over -- Q2 over Q1, as well as the continued strength of our government business. Our commercial parts volumes overall were relatively stable throughout the quarter and remained above the lows we saw in April and May.\nThat said, I am particularly encouraged by our margin improvement progress. Over the last several quarters, we have reduced our footprint across the enterprise, decreased our indirect and overhead spending, exited or restructured several underperforming contracts and divested a loss-making non-core business. You are now starting to see the results of these actions in our adjusted operating margins, which improved meaningfully from 2.5% to 4% sequentially on stable revenue.\nWith respect to cash, we generated $28 million from operating activities from continuing operations and also reduced our accounts receivable financing program by nearly $7 million, further improving our already strong balance sheet position and putting our net leverage below 1 times EBITDA.\nWe also continue to add significant new business that positions us for growth going forward. Our CFM56 partnership with Fortress solidifies a source of supply to meet growing demand for used serviceable material on the -5B and the -7B engine variants. We expect demand for USM to increase across the board as we emerge from the pandemic and to be particularly strong for these engine platforms. Also, our follow-on contract from the Navy to support the C-40 aircraft recognizes our performance over the last five years and provides for an expanded statement of work over the next five years. It's worth noting that this was the first time that this contract was awarded to an incumbent, which speaks to the high-quality of our service.\nAdditionally, our 10-year agreement with Honeywell to be its sole authorized service center for 737 MAX Electronic Bleed Air System components positions us to support MAX operators worldwide when that aircraft to return to service. These new contracts, along with others we have announced over the last several months, such as the Unison expansion and extension, represent nearly $1.7 billion in total contract value captured so far this fiscal year. This demonstrates the unique value of our Aviation Services offerings, and these business wins will help accelerate our recovery coming out of the downturn.\nWith that, I'll turn it over to our CFO, Sean Gillen, to review the quarter's results in more detail."
+    },
+    {
+      "speaker": "Sean Gillen",
+      "speech": "Thanks, John. Our sales in the quarter of $403.6 million were down 28% or $157.3 million year-over-year, driven by the impacts of the pandemic on commercial passenger flying activity. Sequentially, Aviation Services sales were up 5.9% or $21.4 million, while sales in Expeditionary Services were down 50% or $18.6 million. The sequential decline in Expeditionary Services was driven by two factors. First, the exit of the composites business was completed at the end of Q1, and this business generated $7 million of revenue in Q1 and zero in the current quarter. Second, as previously discussed, mobility had a particularly strong Q1 due to elevated shipments of pallets.\nWithin Aviation Services, our government and defense business was up 19% or $30 million year-over-year, reflecting strong performance on existing contracts. In the quarter, as well as in Q1, our program to deliver two C-40 aircraft to the U.S. Marine Corps generated strong revenue due to elevated activity on the program.\nGross profit margin in the quarter increased to 17.2% from 15.3% in the prior year quarter, driven by the CARES Act payroll support. On a sequential basis, gross profit margin was up 12 -- was up from 12.1% in our first quarter, reflecting the actions we have taken to reduce our indirect costs and to exit underperforming contracts and product lines.\nSG&A expenses were $43.4 million for the quarter. On an adjusted basis, SG&A was $38 million or 9.4% of sales, down $13 million from the prior year quarter, reflecting the reduction of our overhead cost structure. Of this improvement, approximately $3.2 million was the result of temporary reductions in compensation and benefits, which we restored beginning on December 1.\nAs an update on our previous disclosure, we have been in settlement discussions with the Department of Justice regarding an investigation of airlift under the False Claims Act. During the quarter, we recorded $6 million of additional accrual and discontinued operation, which brings our total reserve for this matter to $8 million based on our latest settlement offer.\nWe generated $27.6 million of cash in our operating activities from continuing operations for the quarter. This is net of a use of cash of $6.8 million as we continue to reduce the size of our accounts receivable financing program. Excluding the accounts receivable financing program, cash flow provided by operating activities from continuing operations was $34.4 million. Inventory decreased $12.7 million during the quarter.\nOur net debt at quarter end was $112.1 million, down $37 million from $149.3 million at the end of Q1. Our balance sheet and liquidity remain strong with net leverage of 0.95 times adjusted EBITDA, unrestricted cash of $110 million and unused capacity under our revolver of approximately $390 million. As such, we're well positioned to fund what we expect to be unique opportunities to grow our business over the coming quarters.\nThank you for your attention, and I'll now turn the call back over to John."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Great. Thank you, Sean. Overall, we are pleased with our results given the current environment and also pleased with the progress we have made in improving our operating efficiency. As I mentioned, for many reasons, we are encouraged by the multiple vaccines coming to market and the plans for distribution. As the vaccines are distributed and case numbers decline, we expect travel restrictions to be lifted and people to start flying again. Until then, we expect to be in a relatively stable revenue environment, and we will continue to focus on driving cash flow, as well as continued margin improvement. We will also remain focused on capturing new business, I am confident that our strong balance sheet, combined with the airlines' increasing desire for our lower-cost value-added services, will lead to even more growth opportunities.\nWith that, I'll turn it over to the operator for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] And our first question comes from Robert Spingarn from Credit Suisse. Your line is now open."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Hey. Good afternoon."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Hey, Rob, how are you?"
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Good. Thanks. And nice margin improvement there. John, I want to talk about just -- well, I've got a couple of things I want to go over. But how did the quarter look month by month? It looks like you've already seen trough, at least by a little bit here. This was a little bit up from last quarter. So I assume we're done with that, and we're heading north on the revenues. But how did that look quarter-to-quarter -- month-to-month?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Yeah. It was actually -- it was fairly stable throughout the quarter. I would agree that we've seen the trough. The parts volumes, the MRO volumes had all come up from what we saw in the April and May time frame. But heading into the June, July period, the volumes that we saw across the business were relatively stable in the months following."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. And then to what extent can we glean anything from whatever conversations you're having with customers as they think about the return of MAX to service, the maybe modest increase in production rate of the MAX? Airbus has talked about perhaps lifting the production rate on the A320. As -- and obviously, traffic we all think is going to come back here. Have they talked to you a little bit about how they expect the fleet to move in response to all of that? And how, if at all, does that affect your MRO schedule and your anticipation more USM becoming available if new lift starts to replace old lift?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Yeah. And really -- it depends on the customers. Certainly, you've seen some of the larger carriers that have MAXs on order, they've gone ahead and started taking delivery of those MAXs. Customers that have MAX already in their fleet, they've begun operating those. So those customers appear to be committed to that path. Broader though, as you know, you've seen -- you have seen a number of cancellations of the MAX. And the corresponding theme is that, we have seen customers, at the same time, they're going to introduce new aircraft. They've also indicated to us that they do expect to hold on to some older aircraft longer than they would have anticipated over -- throughout COVID. All of them, though, I should say, have expressed -- and again, this is customers that are current USM customers, as well as customers in regions like China that are not USM customers, we have seen an interest across the board in USM material.\nAnd during the quarter, we did start to see more aircraft become available for acquisition and ultimately for teardown. So, that chain of events where you see an aircraft put on the ground, then ultimately retired, then ultimately sold potentially to someone like us who might tear it down, you've seen a bit more of that come into the market. And therefore, we expect the supply to start increasing."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Now, are those aircraft that you're starting to see, are those ceos and NGs? Or are we talking about older airplanes that really overhauling those wouldn't make any sense, the models that are going really out to pasture?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Yeah. No, we've -- and I don't want to get too much into detail for competitive reasons, but we've seen a pretty wide range of opportunities, I would say."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. And then just quickly a couple of other things. Just if we end up a couple of years down the road with a simplified fleet of, let's call it, A320ceos and neos, 220s, 350s; and then on the Boeing side, MAX and NG, 777, 787 and everything else is gone, is that better for third-party maintenance or worse?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "I think overall, it's -- I mean, I would view it as a positive. I mean, we -- companies like ours exist to provide a necessary service. I mean, that maintenance capability has largely been outsourced by most of the carriers. Unless you see a compelling event for them to start in-sourcing that activity, we believe that the volume of work will continue to exist for third-party maintenance providers and us, in particular."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. And then just last one on margins. You mentioned that you see continued margin improvement. I think if we go back to your prior -- your previous higher margins, you were doing that in a period of time you had higher SG&A, and you also had some contract labor, which we assume is more expensive. So if we look forward, and you don't have those two things, how we think about what margins can do? Is there an incremental margin that you or Sean suggest we be using as we look at revenues rise here?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "We would expect that we will come out of this crisis at higher operating margins than we were pre-COVID."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "And -- yeah. And that's due to a number of factors, largely to the actions that we've taken. But your point on contract labor is right on. We've done a number of things to reset activities inside of our hangars, and we do not expect to be as reliant on contract labor going forward as we had been in the past. That's certainly a contributor. We have a number of other efficiency initiatives under -- that we're in the process of implementing inside the hangars so that we'll be a lot more efficient as that volume of work comes back. But then additionally, there were a number of less profitable activities or unprofitable activities that existed at the Company pre-COVID. And over the last three quarters, we've done a lot of work to eliminate that drag from our earnings. And as we recover the stronger performance out of our parts businesses, for example, as well as increased efficiency in the hangar, you'll start to see that come through in better margins."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. Excellent. Thank you."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Thanks, Rob."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And thank you. And our next question comes from Joseph DeNardi from Stifel. Your line is now open."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "Hey. Thanks. Good afternoon. John, can you just talk a little bit about maybe the conversations that you've been having with some of your airline customers in terms of how they're thinking about capacity recovery and specifically, how those conversations may have changed in the last few weeks after the vaccine news and kind of how they're thinking about summer of '21 schedules and capacity?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Sure. Again, you're in a situation where the conversation varies by customer. But the general themes are there is a focus on summer 2021 readiness. And what was different about the quarter we went through versus our first quarter, during the summer, if you recall, we went through another surge, not nearly as significant as the surge we're in now, but there was another surge. And at that point, we did see quite a bit of movement in the maintenance schedule in parts volume behavior out of the customer base. We did not see and have not seen that same movement in behavior as we've gone through this most recent surge. As the customers appear to be focused, OK, we're going to have some ups and downs over the next few months. But at the end of the day, the vaccine will get distributed. There's pent-up demand for leisure travel, and we want to be ready for that in summer '21.\nSo while the, I would say, the level of expectation over -- of increase in summer '21 travel over summer 2020 varies by customer, overall, the customers expect to have a better summer in '21 than they did in '20, and they want to be ready for it."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "Okay. And then, can you just walk us through maybe the three legs of your commercial business? So where each one is kind of on the road to recovery? And then, structurally, what's changed about each of the three in terms of kind of how big they can be on the other side of this and whether they're going to be structurally smaller for a period of time, if that makes sense?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Sure. I mean, in terms of overall size, I would go back to what we mentioned earlier. We expect to be in a relatively stable revenue environment until you see a meaningful increase in flying activities. But at the same time, we remain very focused on continuing to improve our margins in that stable environment. If I take the three areas of the commercial business, in the parts business, both new and used parts, as we mentioned earlier, we've seen relatively stable activity. We have had, what I would call, kind of higher highs, if you will, during the last few weeks, which is encouraging. But still, overall, we would expect stable activity in the commercial parts business.\nComing out of the crisis, as we've talked about, we definitely expect increased demand for the USM business. We're really excited about our partnership with Fortress. That's one of many initiatives we have going on right now on the USM side. But I would expect that business to potentially be structurally larger than it was pre-COVID depending on how demand shakes out.\nSimilarly, on the new parts distribution business, we continue to add new distributorship. There are a number of opportunities out there that we are evaluating for new parts distributorships with different OEMs. Much like the airlines, the OEMs have -- they're taking a look at their approach to the aftermarket. And similarly, as they think about their cost structures, we are seeing some interest from OEMs that previously might not have considered a distribution partner, now they are looking at a distribution partner. And so, we're evaluating that -- those opportunities. And we think that, that business could also emerge larger, thanks to new business wins, as well as same-store sales, if you will, increase on the agreements that we had prior to COVID.\nIn the MRO business, I would say that, we feel very good about the footprints that we have. We took out capacity, which was a very difficult decision, but we took out capacity by closing our Duluth facility, as well as rationalize our footprint inside of other facilities that are still in the network. And we believe that ultimately we'll get a better yield out of that footprint than we did pre-COVID because of some of the changes that we've made.\nAnd finally, on the commercial programs business, that's a business where we've made a lot of changes over the last several quarters as we talked about, we've exited or restructured underperforming contracts. The majority of that work is now behind us. We feel good about the remaining contract portfolio. And I believe we talked about this last quarter, but that market had seen a lot of pricing pressure pre-COVID. And you've seen a number of the participants in that market make move either to exit the market entirely or also like us, exit underperforming contracts. And we believe that you could see pricing in that market reset post-COVID. And to the extent that it does, and we believe that we can earn a return, we'll be a participant in that market."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "That's great. So John, it's fair to say that kind of the highest margin leg for you all will be bigger and that the two lower margin legs will probably be smaller for a period?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "Okay. And then just two quick follow-ups on MRO. Have you seen any indications from airlines that they may be able to outsource more than they were able to pre-COVID in terms of the concessions that they've been able to get? And then, in terms of what you've done to rationalize capacity, is that enough to fix the margin challenge that you all had at MRO pre-COVID? Or do you still face some of the challenges that you had, I guess, pre-COVID once we're through this? Thank you."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Sure. In terms of work, I mean, all of our customers are reevaluating their operating models. I mean, you have to, going through a shock like we've been through. So, we're having a variety of conversations, both with existing customers, and as you point out, with customers that may not have pursued an outsourced model to the extent that they may consider now. So, there's a lot of moving parts there.\nAnd then as it relates to the operating efficiency inside of the hangars, yeah, we feel very good about the changes that we have made. We believe the footprints that we have is the right footprint to take the work that we expect to get over the next few quarters, as well as the increased volumes as the overall market recovers. And we do expect much greater yield out of the labor hours that we produce based on the efficiency that we've built in. Again, there's a lot of moving pieces there, and we're extremely grateful for the support of our customers through this, and we're very excited to continue to provide the maintenance services to them as they recover."
+    },
+    {
+      "speaker": "Joseph DeNardi",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And our next question comes from Ken Herbert from Canaccord. Your line is now open."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Hey. Good afternoon, John and Sean."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Hey."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Hey, John, I just wanted to first see if you can provide or what other details you can provide on the agreement with Fortress for the CFM, the 5 and the 7B engines? And, I guess, specifically, timing you expect to start to see some of the engines come through, assuming we start to see some demand at some point for the material? And how we should think about the ramp of this agreement as it relates into your broader sort of USM opportunity?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Sure. Thanks for asking about that. We're very excited about the partnership with Fortress. We've worked with Fortress for many years and have a great respect for what the team over there is doing in the industry. And this agreement really plays to both of our strengths. They've got a very large and growing engine lease pool, and we are the number one participant in the USM space. So, the agreement basically calls for us to manage engines through a teardown process out of their engine pool, and we have complete control over that management. Some of the material will be sold back to Fortress for use in their own engine build, and the rest of the material will be sold by us into the aftermarket. And there are volume commitments between us and Fortress, and those volume commitments will be a meaningful increase through our aftermarket parts activity. And these are core engine platforms as you know. So, we're excited to be a participant -- an even bigger participant in that market.\nAs it relates to timing, we would expect volume -- to see volume later this fiscal year, and then it would grow throughout our FY'22."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay. And as I think about, is this a -- would you consider this sort of an asset-light agreement? Or are you actually going to be committing working capital to maybe buy some of the engines and materials ahead of time?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "It's an asset-light agreement. We'll be investing in repairs, but not the assets themselves."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay. Great. And as I think about, if we sort of walk back from a -- hopefully, a summer or mid-'21 recovery in traffic, and you think about airlines' behaviors, is it fair to say that you would see this first in your MRO schedules and then maybe second in the surplus material and then your distribution business might be the last to see the uptick as airlines actually start to buy material again? Or is there a better way to think about the cadence of the impact on your business ahead of what should be an improvement?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Historically, what I -- historically, what you just said, I would agree with that. Coming out of this downturn, just because it's been so broad and extended and because of the significant deferred maintenance, particularly on engines that has built up over the last several months, it's possible that we could see concurrent recovery between the parts business, as well as the heavy maintenance business or the parts business could lead the recovery. Right now, the loading that we have in the hangars is relatively consistent over the next couple of quarters. But as the -- as our customers have better visibility into their demand going into summer '21, you could see that change as well."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay. So it sounds like -- based on that comment, I don't want to put words in your mouth, but it sounds like you don't view green time on engines, in particular, as sort of a major overhang to the pace of the recovery."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "I think we're burning green time now. And so -- yeah. And so, we're looking at, ultimately, as that green times comes down, the deferred balances growing, if you will, and that would require more parts sooner."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay. But, I guess, the question is that, deferred doesn't sort of spill into -- they're not able to defer theoretically for much of '21 if you see a recovery at some point earlier in '21. It sounds like that green time and that deferred opportunity will largely have run its course theoretically if we do get a recovery in mid-'21."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Yeah. I mean, you got a lot of moving parts there, but that could be true."
+    },
+    {
+      "speaker": "Ken Herbert",
+      "speech": "Okay. Perfect. All right. Well, thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And our next question comes from Michael Ciarmoli from Truist. Your line is now open."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Hey. Good evening, guys. Thanks for taking the questions here and good margin performance. John, I guess, just to maybe stay on kind of Ken's line of questioning and that recovery. I know you said the revenues likely stay stable until we see a pickup in travel utilization, most likely take off and landings. And you just kind of said that loading looks consistent. But if these airlines and your customers are going to be ready for, let's knock on wood, a normalized '21 summer, shouldn't we see a pretty big uptick in activity ahead of that? I mean, as you guys look at it, do you think like the May quarter ahead of that busy flying season, you start to see that revenue inflection before we see the uptick in kind of all that pent-up demand and traffic uptick?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "You very well could. Our stable outlook right now reflects what the commitments are that we have. To the extent that the customers see increased booking and they see that demand increase, then you're absolutely right, there could be more demand. I don't know that any of our customers right now are expecting a return to normal levels of flying in summer '21. I think that they're expecting certainly an increase in '21 over '20, but I think many of them are still -- have modest expectations. Having said that, though, I mean, the situation continues to evolve very quickly. I know our customers, they -- bookings and cancellations are happening in real-time for them. And so, they don't have a lot of visibility in the demand. So, I think as soon as they have a clearer picture of summer '21, they absolutely could be calling for more maintenance and more parts."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it. Yeah. And then by no means did I suggest that a normal '21, but just maybe improved. But, I guess, what -- the customer conversations, I mean, things are -- with this surge, I mean, things are going to be bad here in December, might get worse in January, February. I mean, how are these conversations? Can you give us any insight into how things are evolving? I mean, are there more areas of risk that you see? I mean, you talked about the loading. But, I mean, are there pressure points at some of your customers? Or are they all pretty much planning for, OK, capacity demand is going to be weaker for the next couple of months, but we're thinking beyond this short-term impact. So, are they thinking more along the lines of, hey, our plans are pretty stable and firm regardless of what happens, or is it just still totally fluid out there?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "I think that -- I think what you just said -- the next to last thing that you said is, OK, it's going to be a bit of an up and down patch here for the next few months, but we need to look past that and be ready for summer '21. And I believe that, at least the commitments that they have made to us, that they are based on, what I'll call, kind of a conservative case of what they expect summer '21 flying to be. In other words, they're committing to us because they know that, for example, the maintenance business, we need to have solid lines of maintenance to keep the team together and keep them working. And so, right now, they've committed to a level of loading that they know they can hit. To the extent that they end up with a better summer, they may require more maintenance. We just haven't seen that order book form up yet."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it. And then just back to the MRO, you talked about the footprint, the efficiencies there, better yields. Is there also -- I mean, at one point, labor was extremely tight. Are you getting more experienced mechanics in there? Is there any benefit you're seeing from just hourly wages you're having to pay? Or is it just strictly tied to those footprint reductions that's helping your yield there?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Yeah. Good question. So far, wages have remained relatively stable. We have, I think, done a really nice job of retaining and recruiting a much more experienced workforce. And that experienced workforce is delivering great results for our customers in terms of quality and turnaround time performance. And so, as I mentioned earlier, our reliance on contract labor is much reduced from where it was pre-COVID, and that is a ratio that we are really focused on preserving. And that's one of the reasons during this time -- that's the main reason we took CARES Act funding. It's -- we've done everything we can, whether we're furloughing people or in the worst case, we've had to let people go, thinking maybe one day, we'd need them back. We've done everything that we can to treat our people the best as we can throughout this period.\nWhat Sean mentioned, one of the decisions that we made a few weeks ago was to restore salaries and benefits for our workforce so that it all levels in the Company, whether you're in an office or in a hangar, you've -- your pay has been restored, and we can keep the team together. So, we're doing everything we can to treat our people well, and I think that's going to serve us well in the marketplace as we go out and continue to build the workforce, and we'll be able to get the best talent available."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Got it. That's helpful. And then just the last one, just back to that Fortress agreement. I think you talked about investing in repairs. You're also selling parts. Any color on the margin profile? I mean, I would think, obviously, the parts sales would be much higher margin. How should we think about the repair component there? Is it more higher margin than your typical MRO, given it might be, obviously, engine accessory-type repairs? Or it sounds like it's going to be a margin-accretive opportunity, but any more color you can share there?"
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Yeah. I would just say that we don't want to get into the margins, the particular details around that specific agreement. But I would say, again, that we're excited about it, and it will be -- it will, over time, become a meaningful part of our USM business."
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "speech": "Okay. Got it. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And I am showing no further questions. I would now like to turn the call back over to management for further remarks."
+    },
+    {
+      "speaker": "John M. Holmes",
+      "speech": "Okay. Well, thank you very much. We really appreciate everyone's time and interest. And stay safe and want to wish everybody a happy holiday."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 35 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "John M. Holmes--President and Chief Executive Officer",
+    "Sean Gillen--Vice President and Chief Financial Officer",
+    "Robert Spingarn--Credit Suisse -- Analyst",
+    "Joseph DeNardi--Stifel Financial Corp. -- Analyst",
+    "Ken Herbert--Canaccord Genuity -- Analyst",
+    "Michael Ciarmoli--Truist Securities -- Analyst"
+  ]
+}

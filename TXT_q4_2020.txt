@@ -1,0 +1,477 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you standing by and welcome to the Textron Earnings Call. At this time, all participants are in a listen-only mode. [Operator Instructions].As a reminder, today's call is being recorded.\nI will now turn the call over to your host, Vice President, Investor Relations, Eric Salander. Please go ahead, sir."
+    },
+    {
+      "speaker": "Eric Salander",
+      "speech": "Thanks Kevin and good morning everyone. Before we begin, I'd like to mention, we will be discussing future estimates and expectations during our call today. These forward-looking statements are subject to various risk factors, which are detailed in our SEC filings and also in today's press release. On the call today we have Scott Donnelly, Textron's Chairman and CEO; and Frank Connor, our Chief Financial Officer.Our earnings call presentation can be found in the Investor Relations section of our website.\nTextron's revenues in the quarter were $4 billion, up $285 million from last year. During this year's fourth quarter, we recorded $72 million in pre-tax special charges, largely related to Industrial and Textron Aviation or $0.24 per share after tax. Excluding these special charges, adjusted net income was $1.11 per share compared to $1.15 in last year's fourth quarter. Manufacturing cash flow before pension contributions was $650 million, up $366 million from last year's fourth quarter. For the full year, revenues were $13.6 billion, down 2% from a year ago. Adjusted net income was $3.74 per share compared to $3.34 last year. Manufacturing cash flow before pension contributions, was $642 million, down from $784 million last year.\nWith that, I will turn the call over to Scott."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Thanks Eric and good morning everybody. Revenues were higher in the fourth quarter, primarily driven by double digit growth at Textron Aviation, Bell and Textron Systems. The Bell revenues were up, largely due to higher commercial deliveries of our 407, 429 and 505 models.\nWe delivered 76 commercial helicopters, up from 46 in last year's fourth quarter. On the military side, the V-22 tiltrotor recently surpassed the milestone of 500,000 flight hours. With more than 375 V-22 aircraft in operation across the U.S. Marine Corps, Air Force, and Navy as well as internationally with Japan, this increasingly large installed base continues to drive significant aftermarket opportunities, to support this highly utilized fleet.\nIn the fourth quarter, the Bell Boeing program office was awarded contracts totaling over $800 million across multiple support activities, including $375 million to provide maintenance, repair and consumable material support to the U.S. Navy, Air Force and Marine Corp operations; $218 million for logistics and engineering support for aircraft across U.S. military fleet. $146 million, as part of the Marine Corps CCRAM modernization program, and $68 million for logistics and engineering support to Japan.Bell also received an $815 million five year performance based logistics contract for the U.S. Navy for upgrades to their H1 Yankee and Zulu aircraft.\nOn the new product front, Bell marked their second anniversary of V-280's first flight in December. In two years of highly successful flight demonstrations, the aircraft has flown, more than 160 hours to collect data and informed requirements for the U.S. Army's future long-range assault aircraft program In December, the V-280 autonomously for the first time, meaning all of Bell's demonstration flight goals, including automated take off and landing, conversion to cruise mode and precision navigation.\nAt Systems, revenues were up on higher volume, largely within our unmanned systems product line. In the quarter, Textron Marine & Land Systems announced that its Ship-to-Shore Connector craft 100, successfully completed acceptance trials with the U.S. Navy. Also in the quarter, Textron Systems ATAC was selected as an authorized provider of contracted air adversary services for the U.S. Air Force, Combat Air Force's Contracted Air Support program. ATAC has also started flying its Mirage F1 fighters, in support of their current U.S. Navy contract.Early in January, the U.S. Army announced its intention to award Textron Systems a contract for four Repsol M5 vehicles, as part of its robotic combat vehicle medium program.Moving to Industrial, we recently completed our previously announced review of strategic alternatives for our Kautex business unit. The review considered a range of options for the business and after careful consideration, we determined that the interest of our shareholders are best served with Kautex remaining as part of Textron.\nAt Textron Specialized Vehicles, we added additional independent dealers to our new TRACKER distribution channel and saw continued retail volume growth in the quarter.\nMoving to Textron Aviation in the quarter, revenues were $1.7 billion, up 11%. We delivered 71 jets, up from 63 last year and 59 commercial turboprops, down from 67 in last year's fourth quarter. We also initiated deliveries of the new Citation Longitude with 13 aircraft in the quarter, including the first aircraft delivered to NetJets.\nI would now like to update you on the December 27 accident at our Wichita plant 3 facility. First and foremost, our number one priority is the health and safety of our employees, and we're fortunate that all 12 injured employees have been released from the hospital and are recovering. From an operational standpoint, Cessna SkyCourier located also in plant 3 has been unaffected by the accident, and that program is continuing on schedule. Just last month, we accomplished a successful wing mate of the SkyCourier, a key milestone in the development of this new twin utility turboprop. The plant did incur significant damage, affecting our composite manufacturing operations, and we are working to recover the entire facility. We do expect some disruptions to our production, that will impact our ability to complete and deliver aircraft in the first half of 2020. But we fully expect to recover by year-end, with no impact to our annual plan.\nIn December, we announced a restructuring plan to reduce costs and improve overall operating efficiencies, through headcount reductions and other actions. At Aviation, these actions largely included headcount reductions, reflecting the completion of a long period of new product development, resulting in the entering of service of the Citation Latitude, and most recently the Citation Longitude. These actions were necessary to align our cost structure within the current operating environment, as we ramp up production of Longitude, anticipate lower legacy aircraft demand and reduced requirements for ongoing development programs.\nWe also acquired Premier Aviation with its three locations in Australia, which has expanded our reach of aftermarket services in the Asia-Pacific region, reflecting our continued investment to support our customers internationally. Then in the Aviation aftermarket, increased volumes drove higher aftermarket revenues, which were up over 13% from the prior year.\nIn summary, we had many items to highlight in 2019 across our segments. At Bell, we continue the successful flight testing of V-280 Valor, achieving a cruise speed of over 300 knots, improve the aircraft maneuverability and [Indecipherable] to the Army's high standards for aircraft agility. We also unveiled the Bell 360 Invictus, our offering for the U.S. Army's Future Attack Reconnaissance Aircraft competition.\nOn Bell's commercial business, we saw higher deliveries from increased order demand we've seen over the last year and half. At Textron Systems, we had wins on several key development programs, including the Repsol M5 selected for the Army's robotic Combat Vehicle program, Aerosonde HQ, selected for phase one of the Army's Future Tactical UAS program. ATAC selected to participate in the Air Force CAF-CAS program, and we were down-selected to continue in the Army's next generation squad weapons program.\nWithin TSV, we launched a new distribution channel, through our partnership with Bass Pro Shops and Cabela's, and independent TRACKER Marine dealers. We also implemented a new business model to better align production with demand in our stow business and we expect both actions to drive both growth and improved performance in the outdoor power sports business.\nAt Textron Aviation, we certified and began deliveries of our newest Citation, Longitude, and advanced development of two new turboprop programs, the Cessna SkyCourier and Denali. With this backdrop, we're projecting revenues of about $14 billion for Textron's 2020 financial guidance. At Bell, we're expecting continued strong execution in 2020. The lower military production, offset by higher military aftermarket and higher commercial volumes.\nAt Systems, we are expecting modest revenue growth, partially driven by the 2019 new program wins highlighted earlier. At Industrial, we will maintain our focus on our vehicle business in 2020, as we continue to improve execution and drive improved profitability.\nAt Aviation, we are projecting growth from increased deliveries of our new Citation Longitude aircraft, partially offset by lower legacy demand. We are projecting EPS in the range of $3.50 to $3.70 per share. Manufacturing cash flow before pension contributions is expected to be in the range of $700 million to $800 million.\nWith that, I will turn the call over to Frank."
+    },
+    {
+      "speaker": "Frank T. Connor",
+      "speech": "Thank you, Scott, and good morning everyone. Segment profit in the quarter was $340 million, down $57 million from the fourth quarter of 2018 on a $285 million increase in revenues.\nLet's review how each of the segments contributed, starting with Textron Aviation. Revenues at Textron Aviation of $1.7 billion were up 11%, primarily due to higher volume and mix, largely reflecting the Longitude's entry into service. Segment profit was $134 million in the fourth quarter, down from $170 million a year ago, primarily due to the mix of products sold and an unfavorable impact from inflation net of pricing. The resulting margin dilution in the quarter from the mix of aircrafts sold, was largely due to the initial Longitude deliveries, and the associated higher cost basis, that included rework for modifications required by the final Type Certification and lower legacy deliveries. Backlog in this segment ended the quarter at $1.7 billion.\nMoving to Bell, revenues were $961 million, up 16% from $827 million last year, primarily on higher commercial volume. Segment profit of $118 million was up $10 million, largely on the higher commercial volume. Backlog in this segment ended the quarter at $6.9 billion. At Textron Systems, revenues were $399 million, up 16% from $345 million a year ago, primarily due to higher volume. Segment profit of $33 million was down $4 million, primarily due to unfavorable performance, partially offset by the higher volume and mix. Backlog in this segment ended the quarter at $1.2 billion.\nIndustrial revenues of $927 million decreased $81 million, largely related to lower volume and mix at Textron Specialized Vehicles, principally due to the shift in the timing of snow sales to the third quarter of 2019, reflecting the new business model that was implemented earlier this year. Segment profit was $44 million, compared to $73 million a year ago, largely due to volume at Kautex -- lower volume at Kautex, and the shift in volume at TSV, partially offset by favorable performance in price at TSV.Finance segment revenues increased $1 million and profit increased $2 million.\nMoving below segment profit, corporate expenses were $22 million and interest expense was $36 million. With respect to our restructuring plan, we recorded pre-tax special charges of $72 million in the quarter. We ended the year with manufacturing debt of $3.1 billion. For the full year, we repurchased approximately 10 million shares at an overall cost of $503 million.\nTurning now to our out 2020 outlook, I'll begin with our segments on slide 9 of the earnings call presentation. At Textron Aviation, we're expecting higher revenues of about $5.4 billion, reflecting higher Longitude deliveries, partially offset by lower legacy deliveries. Segment margin is expected to be approximately 8%, reflecting the dilution related to higher inventory costs and learning curve associated with the increased Longitude deliveries, and lower legacy volume.\nLooking to Bell, we expect overall revenues of about $3.3 billion. We're forecasting a margin of about 12.5%, largely reflecting a change in mix of military volume. At Systems, we are estimating higher 2020 revenues of about $1.5 billion, segment margin is expected to be about 10.5%. At Industrial, we're expecting segment revenues of about $3.8 billion and a margin of about 6.5%. At Finance, we are forecasting segment profit of about $20 million.\nTurning to slide 10, we're estimating 2020 pension costs to be about $33 million versus pension income of $11 million last year. Turning to slide 11, R&D is expected to be about $550 million, down from $647 million in 2019. We're estimating capex will be about $360 million, up from $339 million last year.\nMoving below the segment line and looking at slide 12; we're projecting about $135 million of corporate expense, $135 million of interest expense and a full year effective tax rate of approximately 18.5%. Our outlook assumes an average share count of about 227 million shares, as we continue to deploy the majority of our free cash flow toward share repurchases in 2020.\nThat concludes our prepared remarks. So Kevin, we can open the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions]. First question in queue is from the line of Peter Arment of Baird. Please go ahead. Mr. Arment, your line is open now."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "Yes, good morning, Scott, Frank."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "Scott, I guess I'd just start high level I guess on Aviation. Just talking about the outlook, it feels like you know with Longitude ramping and finally getting across the goal line, that's a big step forward. But just kind of I see the legacy rates coming down. What's kind of -- is there an expectation on kind of unit volume you expect for 2020?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "I think overall, unit volume will be fairly flat, Peter. So it's from -- on a unit number, we'll have clearly more a lot more Longitude. So the revenue guide is obviously up. But as I said, the unit volumes would be kind of flattish, although those [Phonetic] have higher unit revenues driven by the fact, that we will have a significant mix of Longitudes."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "Okay. And then just on the Longitude itself, there was expectation that this was going to help a lot on the factory absorption side. Is there just a point in time or an inflection, where we get through kind of the learning curves, what's your expectations around that?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Yeah, clearly what we have. The first quarter -- first in the -- really most of the first half, we will be selling all the aircraft that we were fabricating late last year. Obviously, a number of those have a lot of the rework that was basically inventoried and we'll deliver here, particularly in the first quarter. The learning curve is going well, but for sure, we will expect to see a more normalized margin rate on Longitude, as you get into the back half of the year. So that's the challenge in terms of the mix, sizes [Phonetic] are going through sort of moving the aircraft that has incurred a fair bit of rework, so say, the certification process and then getting the learning curve under our belt, which we feel good about, in terms of the early fabs in all the feeder lines that are coming into final. But we'll really start to see those aircraft that we are going to deliver in the second half of the year, hitting the final assembly line here, as we get into the first half."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "And just lastly on just overall demand in biz jets, just what's your current take and we've been -- obviously you've been, had some fits and starts with the trade and kind of the stresses last year. Can you maybe give us your overall environment?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Yeah, I think it's pretty consistent with what we talked about going into the third quarter. The Longitude obviously being a brand new product and very well received in the market, we feel good about how that's going and clearly a new product like that will drive some demand activity, which is great.\nOn the legacy side, things continue to be sort of flattish to down, and as we've talked about in the third quarter, our approach here is that we would lower our volumes, bring back some of our production capacity and make sure that we don't have to get to a situation where we've got a bunch of excess aircraft and start to drive pricing activity.So I think we're -- we made those adjustments going into the fourth quarter and I think we'll hold those for our perspective -- at this point, we'll hold that through 2020. If something starts to change or we see things strengthen, there's certainly a lot of conversation, Peter, it's not like the market's not out there, but getting people to commit has been a little bit softer and we saw that through the whole back half of of 2019. So I think the market has been pretty stable here for the last three, six months."
+    },
+    {
+      "speaker": "Peter Arment",
+      "speech": "Appreciate all the color. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question is from the line of Sheila Kay of Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Hey, good morning guys. I am dropping my last name."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "I see that."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "I just wanted to follow up quickly on Peter's question. You had 7.8% margins in the fourth quarter, 13 Longitudes out the door. So when we think about the quarterly Aviation margin cadence, does it dip below that in the first half and also putting the incident in plant 3 into the picture too. So is this the kind of -- do we expect a steeper drop in the first half?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Yeah. So look, I mean we don't normally go into quarterly kind of progression, but considering, particularly with the impact of plant 3, I think that we will probably be somewhere in the 10 to 15 aircraft in Q1 and Q2. We are still in the process of finalizing and understanding all the tooling, which everything appears to be repairable. But it will take some time to get the composite operation back up and running.\nSo given that and the progression we just talked about, with Peter on the margin, kind of going from tougher marginal Longitudes and becoming more normalized, as we get, sort of exiting 2020, I think the progression at Aviation is going to start the year, sort of low single digit in Q1. It's going to move to a mid-single digit in Q2, and then high single digit Q3 and double digit Q4. Again, that's really -- normally we don't kind of go in that level of detail, but I think we have to make sure people understand that we are going to have lighter deliveries in Q1 and Q2, driven by the composite factory issue, and that compounded with the change of margin rate of Longitudes through the course of the year, will give us that sort of progression.\nSo its again a full year sort of intact, and I think consistent with the guide that we have given you, but we clearly expect that Q3, Q4 are going to be at the more normalized margin rates that we expect out of this business. But it will be light in Q1, Q2, given the Longitude mix and the late deliveries frankly, of a lot of the legacy aircraft impacted by the plant 3 situation."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Okay, thanks. That's pretty clear. And sorry for all that detail on the quarter. But bigger picture question, you decided to keep Kautex, I guess, what was the rationale behind deciding to keep it, and you have also announced them restructuring for two years in a row now. Where is that business today, and what brings the profitability levels back up to that 6.5% range that you are guiding to?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well look, Kautex, as we have always talked about, is a good business, it has been a good cash generator for us, it generates like very good ROIC, solid returns. And we were asked and sort of heard from a lot of investors, that maybe this is something that within the portfolio, holds back our PE and our ability to generate a better stock price. So we said like, we are going to go look at this. We went into the process, knowing that considering the profitability of that business, and for where things were in the automotive sector, that we would probably see some dilution. But some dilution, versus a potential rerate on the multiple, could result in something good for our shareholders. As we went through the process, the reality was that what was -- the pricing in terms of what anyone would be willing to pay for that business right now, would have created a level of dilution. There is no way in our view, would have created enough of a rerate on the multiple, that would be good for our shareholders.\nSo we, we went through the process, it was very rigorous we've looked at a lot of different alternatives and options and in the end, there was no way for us to get our head around this being, something that would be accretive for our shareholders. And again, it's a good business, it generates good cash, it generates good earnings, but we're also sitting at kind of a low part of an automotive cycle, but that team has done a really nice job of managing through that, and it has [Indecipherable] business. Obviously, we did some restructuring, because we think that there is -- you're probably toward the bottom of the auto cycle, but it's not going to come snapping back. So we wanted to make sure that we made sure we adjusted the right cost, so that as we go through a period of relatively speaking, lower volumes, we maintain good margins on the business, and I think we'll do that."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "speech": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line of Carter Copeland from Melius Research. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "Eric Salander",
+      "speech": "Carter, are you there?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Okay, Mr. Copeland, your line is open."
+    },
+    {
+      "speaker": "Eric Salander",
+      "speech": "Why don't we go to the next one, Kevin?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "One moment please. Next question is from the line of Pete Skibitski. Please go ahead, sir."
+    },
+    {
+      "speaker": "Pete Skibitski",
+      "speech": "Thanks. Scott, sorry to beat on this, but, so the plant 3 issue, that's more of a revenue issue in the first half than a margin issue. Am I understanding that right? So the margin pressure in 2020 is almost wholly due to the Longitude, is that accurate?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well, no Pete, I think that the lower volume obviously, in Q1 and Q2, considering that we period expense all of our R&D and our SG&A, I mean, our costs are going to be more evenly spread over the course of the year. So when you pull 10 or 15 aircraft out, that's a big chunk of revenue, and particularly, it's a lot of our legacy good margin business. So I think that it's a combination of both, the progression of Longitude profitability through the course of the year. But the Q1, Q2 impact of missing that revenue is not trivial. And that's why I thought I would help to try to guide what we expect that margin rate to look like, through the course of the year."
+    },
+    {
+      "speaker": "Pete Skibitski",
+      "speech": "Yeah -- no, that's helpful. Thank you. And so if things stay on track, I know you said in the past, you want this business to be a double digit business, is there any reason to think that can't be true in 2021, assuming these problems? Obviously, you're going up the learning curve on Longitude, but assuming plant 3 doesn't happen again?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Yeah, look, we are going to be careful Pete. We're not quite ready to guide 2021 just yet. But yeah, look, as you get into the third and fourth quarter, I would expect to see margin rates in Aviation that are indicative of how that business should perform in a normal place. And as I said, that should be in that high single-digit to low double-digit range."
+    },
+    {
+      "speaker": "Pete Skibitski",
+      "speech": "Okay. Thanks guys."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from the line -- one moment please. And its David Strauss of Barclays. Please go ahead."
+    },
+    {
+      "speaker": "David Strauss",
+      "speech": "Thanks. Good morning. You noted in in Q4 at Aviation, inflation net of pricing was a headwind. Could you maybe break the pieces out there, inflation versus pricing? And then also, how you're thinking or what you've got baked in for inflation versus pricing in the 2020 guide for Aviation?"
+    },
+    {
+      "speaker": "Frank T. Connor",
+      "speech": "So, I mean the dynamic in Q4 was -- price was pretty flattish, and so that's why we have a negative, because clearly, there was some inflation in Q4, and we didn't have price to offset that. So it was fairly flat. Again part of our dynamic and rationale for pulling back on the volume, particularly on those legacy aircraft, is to make sure that we can maintain the price levels that we have in the industry. So I don't think we'll probably get into breaking out sort of the components of the guide around the price inflation number. But clearly, we would like to drive to get that back in balance."
+    },
+    {
+      "speaker": "David Strauss",
+      "speech": "Okay. And following up on a question on a couple of quarters -- a couple of quarters ago I asked was on the potential upside from MAX simulators. Obviously now it looks like, there is going to be mandatory simulator training. Could you just talk about what you've seen maybe in terms of order interest there and potential upside from this?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well, we have -- certainly continue to see order interest. I think particularly now with what you've seen out there publicly around the need for MAX sim training and some capacity associated with the return to service. That's picking up. So we've largely been following the lead of Boeing, who is our biggest customer in this space, and we are going to increase the number of MAX simulators that we have in production. So I think that's good. But you know, for our total company, it's not going to be a material impact, but it is -- we will certainly see a little bit of an upside on the number of MAX sims."
+    },
+    {
+      "speaker": "David Strauss",
+      "speech": "Okay. Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question is from the line -- one moment please, Jon Raviv of Citi. Please go ahead."
+    },
+    {
+      "speaker": "Jon Raviv",
+      "speech": "Thank you. Good morning."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Jon Raviv",
+      "speech": "Hey just apologies here, jumping back the Aviation margin, I mean I appreciate that high single-digit, low double-digit in second half is normative. But really just still thinking about the overall underlying earnings power of this business. I mean at some point, we were always thinking that this could be a pretty strong incremental margin business, clearly with rates down with each of that this year, but as you kind of reemerge out of what could be a tough year this year, given some of the dynamics, is it still fair to think about, this is a double-digit type business going forward, given some of the changes you've made?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Absolutely, that's our expectation and I think that, where we've -- we obviously had a fair bit of dilution here in Q4, and expect that in the first half of next year. I mean, if you set the plant 3 thing aside, which is an unusual circumstance obviously. Longitude, we fully expect to be a strong margin product. It's an outstanding product. We've got a bunch of them in the field now. It's been well received by customers. It's flying beautifully. Feedback on those who have taken delivery. Several customers who are flying this thing hard, is outstanding. So I think this thing is going to be a great part of the business. But clearly, there was a lot more costs in 2019 and getting through the certification process and all that was entailed there, and we still have costs as we go into 2020 in pursuit of certifications around the world, and the entry into service, there is always some costs associated with these things, as you roll them out into the marketplace. But this thing is going to be an outstanding product. It's going to be a product that has the kind of margin rates that we expect across our jet line, and this is a transient problem. I think we end up in a very good place, and we have every expectation for this business to be a double-digit margin business."
+    },
+    {
+      "speaker": "Jon Raviv",
+      "speech": "Thanks. And then, you talked about how some of the restructuring is based on lower development plans going forward. Something I think has helped you guys recently, is investing in new products and the ability to drive some growth in what could be a flattish market. How do you think about that going forward? I mean, there are still parts of your portfolio, some would suggest could use some upgrades here and there. So how are you thinking about the Skylane, beyond SkyCourier and Denali?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Okay. I think if you look at the product portfolio right now in Aviation, obviously the last five years of driving Latitude and Longitude have completely transformed our jet product line, and positions in a very good place, when you think about the SkyCourier, which is this fabulous product and a new market -- segment for us really, is going to be a great growth driver. We've not been in the high performance single, that's our rationale for Denali. Its a great market, which I think will get very good [Indecipherable].\nBeyond that, we obviously always have some things that we're looking at, I think there is clearly opportunities to do some upgrades and refreshes across some of the core of the rest of our product line, in both the jet and the turboprop side of things. And so we will pursue those. They just won't be of the magnitude of a clean sheet, brand new airplane like a Latitude or Longitude. So when we talk about pulling back on some of the R&D, I think that's just reflecting that you don't have two major Part 25 aircraft that are in process. So I think we'll continue to have a robust product line, up both in the SkyCourier, Denali and other upgrades. So I'm not at all concerned that we're going to underwhelm the R&D side, we know you have to do and refresh products to continue to drive growth here.\nThe same is true across the rest of our portfolio. I mean we obviously made massive investments in things like the V-280 program, the 525 program, put a lot of money into the [Indecipherable] program. You will actually see some R&D come down in that business, as we go into next year, but that's really driven, because you have things like FLRAA and FARA that have been virtually all funded under IR&D, will now start to move into a larger cost share on a couple of government programs, and clearly 525 is winding down in terms of the level of R&D to support its certification.\nSo those two businesses drive the bulk of R&D. Obviously Systems is a smaller number, but still, if you look at things that are the new programs that are are happening and starting to drive growth, which we're seeing in 2020, its as a result of the investments that we've been making in some of those product lines around everything from the next generation of unmanned air vehicles like FTUAS. I mean obviously Ship-to-Shore was a huge investment, as that turns production, that's going to help to drive some growth and much improved profitability. The M5, this RCV is -- again this is a lot of R&D that we've been putting into these businesses and in some cases, small acquisitions over the last few years, that are starting to turnaround and drive growth in those businesses."
+    },
+    {
+      "speaker": "Jon Raviv",
+      "speech": "I appreciate all that color, Scott. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line -- one moment please, of Seth Seifman of JP Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Seth Seifman",
+      "speech": "Thanks very much and good morning. Scott, when you talked about the outlook being for flattish overall delivery volumes with Longitude adding and the legacy portfolio coming down. I mean, there is generally not a ton of visibility -- is that expected decline in the legacy portfolio kind of a view of what you're seeing in the spot market? Or is it -- the majority of Latitude delivery has got one customer, and that customer is changing its mix of deliveries from Cessna?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "I'm not sure I understand entirely Seth, I mean..."
+    },
+    {
+      "speaker": "Seth Seifman",
+      "speech": "Basically, if legacy deliveries are coming down, a lot of the legacy deliveries are Latitudes to NetJets. Is NetJets coming down significantly and making a transformation from Latitude to Longitude? And that's why legacy deliveries are down, or is it your sense of the spot market being weaker, and that's why legacy deliveries are down?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well, I think in general, as we talked about in Q3, we expect legacy deliveries just to be down, given the outlook of the overall market. You're right, when you look at Latitude, yeah we do expect lower levels of deliveries to NetJet on latitudes next year versus this year. And you're right, I'm not -- I think don't it's necessarily a trade, just where the market is right now, with Longitude coming as a brand new product, you'll see a lot more deliveries to NetJet of the Longitude class aircraft in 2020. So yes, I mean you're right, there are certainly -- we certainly expect to deliver fewer latitudes next year, two NetJets than we had previously, but the dynamic of the legacy is, is it just a somewhat softer market, not inconsistent with how we saw it back in Q3."
+    },
+    {
+      "speaker": "Seth Seifman",
+      "speech": "Yeah, understood. Understood. And then on Bell, you've kind of traditionally talked about Bell as a 10% to 12% margin business, starting the guide this year at 12.5%. I mean, the business has executed very well for probably like five years or so now. Is the baseline margin for Bell kind of maybe higher than you thought?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Look, I would still say we're in that 10% to 12% range. So I think at 12.5%, obviously it's a very strong performance for that business. We feel very good about it. Particularly -- we still have a very high level of R&D. Again, we will benefit a little bit from having higher levels of cost share, as we move some of the military programs into -- initiate real military acquisition programs, as opposed to straight IRAD funded. But yeah, look, I think the position that Bell is in right now, is quite strong. If you had a large EMV program, which tends to be the lower margin, that's going to mix it down a little bit. But I think you're going to stay in that 10% to 12% margin rate even in that circumstance, which obviously would be a terrific new story, right, that you're driving a -- what will be a very large EMV program with a lot of future growth in the production phase."
+    },
+    {
+      "speaker": "Seth Seifman",
+      "speech": "Great."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "I would kind of leave that 10% to 12% out there."
+    },
+    {
+      "speaker": "Seth Seifman",
+      "speech": "Thanks very much, Scott."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And next question is from the line of Robert Spingarn of Credit Suisse. Please go ahead."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Hi, good morning. I wanted to -- Scott, to go to -- back to the higher level view here, and you touched on valuation and your desire to improve it, when you were answering Sheila's question on Kautex and disposition, and I wanted to go to the valuation, think about cash flows. You've got sales growth in 2020, but we've gone through a period here, let's say from '18 to '20, where earnings and cash flows have been somewhat flattish, and that's the case in the forecast to -- and you've talked about a number of the reasons. What needs to happen to get the cash flow return on sales above this kind of 5% level? Other than learning curve on Longitude and some of the other puts and takes you've talked about, what is the potential for this business? And then separately for Frank, just regarding the extra week, I guess, in the fourth quarter and the year, how does that play out in 2020? Are we back to where we were?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well now let me take it from a high level, OK. We've had Bell that has gone over the last few years from a $4.5 billion business in the peak of the V-22 world, down to $3.2 billion, $3.3 billion business. At the same time that it has been investing heavily in things like 525 and things like V-280 and obviously V-22 has done a significant ramp down from the 48-year to 20-year low double-digit year.\nSo I think our focus in that business has been, making sure that we're investing for the future, while still maintaining strong execution and strong margin rates. And I think we've been able to do that, and I certainly think we're at a point here, as we go forward into 2020, there is some really important milestones around where the acquisition process goes on things like the V-280 program finally going through and completing search on 525. So things that have been -- costs with no revenue or margin over the last few years, so there have certainly been pressure points, right. So the margin has stayed good, but the absolute number has certainly come down, owing to the reduced revenue. But I think we're in a really really good place to see that turn here, as we go through the next few years.\nSystems is a smaller --"
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "To get the revenue turn a little bit here, you've got decent revenue growth in 2020, are you saying you catch up on the other end, 2021, 2022?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Absolutely. Look, I think as we said, part of what we see here in the interim on Bell is this transition from unit deliveries to a very large and growing installed base, which starts to drive more aftermarket, and that's what we're seeing. What's driving the growth in in 2020, is that you're starting to see the significant growth in the aftermarket side of the business, largely military, but also some on the commercial side, owing to the fact that we have a very large installed base now out there on the V-22 in the H1 programs. What really then will drive that next tranche of growth is driven around some of these new platforms, in which we've been investing, like the V-280s and the 525s.\nSo that is the dynamic in Bell systems. There is a similar story, right, we had some great platforms. The platforms that -- are sort of on the downside of their program of record, as they phased out, but you start to see the new program wins. Again, the investments that we've been making that are now positioned and are awarding and winning some of these contracts, that will get that thing back to where we see revenue growth in the business.\nLook, I think systems this year delivering 10% plus margins, forecasting 10% plus margins. That's a good business. The issue for us has been to get the overall business to start to drive positive revenue, and we're going to see that in 2020, as we've guided and talked about. So I think that one's already making that turn.\nAviation, again we are going through a very heavy period of investment that has resulted in the Latitudes, the Longitudes. It has been frustrating to see that sort of -- in many cases, just sort of replace legacy platforms, but without having that portfolio with a Latitude and Longitude, you'd be in a really tough spot. So I feel great about where that business is positioned. The team has historically executed very well, as we have just -- with drone production. Obviously, we have a challenge around Longitude and just getting those margins where they need to be. But we clearly have a line of sight to get there, as we work our way through 2020. Obviously, that business is much more dependent on what does the end market do beyond 2020, into 2021 and we have no idea how to make that call yet. But I think we have a really good product line and a couple of other things in the pipeline, obviously that will help that.\nSo our earnings have been growing, but we've had too much pressure on not enough revenue growth, and I think we're seeing where the opportunities are here in 2020, as we saw at the end of 2019, that we can get the topline to start growing."
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "speech": "Okay. Thank you for all that color."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Next question is from the line of Noah Poponak, Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Hey, good morning everyone."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Good morning, Noah."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Scott, any new revelations into why the business jet market deteriorated over the last three to six months? And specifically, why used inventory keeps going back up every month. You just typically don't see this in the middle of an economic cycle? Is it just PMIs have been weak and global growth just hasn't broken out, and it's as simple as that? Or anything new you've learned there?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Yeah. Look, I don't think we've seen as much growth over the last six months. I think there has certainly been plenty of reasons for small and mid-sized business guys, which is the bulk of our customer base in the jet market, to have some pause -- and look, you've seen this in capex spending, right, they've been holding back a little bit. So I think as some of the trade -- things are starting to get a little bit -- that noise is sort of settling down, the Brexit noise, which again I don't -- shouldn't have a huge direct impact on us, but it does create uncertainty in the in the market. That seems like it's on a path to at least becoming resolved in certain, and look, we're in the middle of a very political cycle right now. So I think as we work our way through the year and politics and where things are going to land, become more clearer, then it would be optimistic that businesses would get back to a more aggressive move, in terms of willingness to spend capex and invest in their businesses, not just an aircraft, but in general, which is certainly what drove a lot of the growth.\nIf you went back into the the late '17 early, early part of '18. So we're hopeful that that happens, but we need to see that happen."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Do your customers specify to you that an election is particularly concerning to them, and kind of puts them on pause, or not necessarily?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "I'd rather not get into the politics of it, Noah, but I mean certainly, there is different views about what the business climate looks like, depending on the outcome of the election. So it's kind of natural that there'd be some reflection on that, with people that are businesspeople."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "And then Frank, on the cash flow outlook for 2020, can you help us out with the net Longitude related working capital assumption you're making in there? Because I think you had a decent amount to unwind, but you're also still ramping the production rate. So I would just like to understand that piece, and then therefore the underlying total company piece outside of that?"
+    },
+    {
+      "speaker": "Frank T. Connor",
+      "speech": "Yeah, I think kind of overall, the guide, at least at the upper end, reflects one-to-one cash conversion on net income. So we're generally expecting good working capital performance. There isn't anything extraordinary in there kind of relative to Longitude. There kind of continue to expect maybe some ramp in the Longitude. But there is nothing significant from a working capital standpoint, kind of embedded in that guide. I did say that, kind of certainly '19, we did work our way through all the headwind associated with multiyear 2, transitioning to multiyear 3. So as it relates to 2019 cash performance, we absorbed hundreds of millions of dollars of that reversal in 2019, that did kind of reflect on that '19 performance, and kind of we put that behind us, as we move into '20. So we're expecting that we'll see good cash flow performance in '20."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "I thought you had been saying '19 was pretty substantially impacted by Longitude build up and that that would release beyond '19?"
+    },
+    {
+      "speaker": "Frank T. Connor",
+      "speech": "Well there is some of that, but kind of there is -- you can see some inventory build, if there is kind of payables from an overall working capital standpoint that -- part also go to offset some of that build. The biggest drag on '19 was this -- at Bell with the kind of government payments timing, where we were kind of ahead on multiyear 2, and then we -- multiyear 3 structure has us kind of incurring costs, before we receive cash. And so that was a big reversal that impacted '19, that we will not see in '20."
+    },
+    {
+      "speaker": "Noah Poponak",
+      "speech": "Okay, thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from the line of Robert Stallard of Vertical Research. Please go ahead."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Thanks so much. Good morning."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Good morning, Robert."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Scott, first of all on the business jet pricing environment, I was wondering if you're seeing any of your competitors acting in an even more irrational manner, in response to the demand environment, or perhaps you're seeing any change in response to the Longitude and its entry into service?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well in general, I guess, I don't know that we've seen a huge change, Robert. This is -- again, I think we probably all want to be cautious about making sure that we are not running production greater than demand, right. That always will create some bad behavior in the market. Of course, it's always the other guy, right, so that's -- we just want to make sure we're not participating in that process. And look, I think we have fought to get pricing back to a reasonable level, that represents the value of the product and I think we got that back over that '17, '18 timeframe. So we just want to make sure that we hold pricing and get the increases that are reflective of inflation going on, right. It is a perfectly reasonable business position to take that thing. So, I think in general, that's the overall dynamic, is the way we see it and how we think we should -- how we think we should behave.\nOn Longitude pricing, I'd say we're -- I think we're pleased with that. We are getting the value that we expect to get from an aircraft that's performing very well. The customers love the cabin, the range, the speed and the price levels in there are appropriate and we're continuing to make sure that we're getting the right value of aircraft."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Okay. And then as a follow-up, and a different matter actually, on Kautex and the decision there to not sell the business. If the automotive environment were to improve, multiples were to move higher, would you reconsider this sale in the future?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "I don't think we will make -- we don't make any comments about M&A. We went out and we had to do this in a public way, which was very difficult as you can imagine on our team, to go to go through that. But I mean our general view is, we don't really want to forecast or comment one way or the other on M&A and I think given where we are in that process, we will go back to that practice. So its a good business, does really well for us and we're going to focus on running it."
+    },
+    {
+      "speaker": "Robert Stallard",
+      "speech": "Thanks Scott."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And next, we have the George Shapiro of Shapiro Research. Please go ahead."
+    },
+    {
+      "speaker": "George Shapiro",
+      "speech": "Yes, good morning."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Good morning George."
+    },
+    {
+      "speaker": "George Shapiro",
+      "speech": "Yeah, I was just wondering, you know, we had talked about, if the economic environment got more stable toward the end of the year, that you would see some improvement in the business. It sounds like from your comments that you haven't and I was just wondering why you might think that is? I mean we still have a pretty good environment, economic and stock market wise?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "George, I don't know, I mean I can't -- I'm not, I'm not trying to be an economic forecaster, but I think there's still a fair bit of uncertainty and a lot of it at this point is -- I think the trade things seem like they're quieting down, but there is still enormous amount of political uncertainty that is in front of us every day. So I think in large part, people want to see how all this plays out. It makes a big difference, when you think about tax policies and things of that nature. So I think that -- look the market hasn't stopped. There is still a fair bit of activity going on. There's lots of conversations going on. But it's -- I think that, it still does -- that uncertainty does create some friction to people going ahead and doing a deal. And that's why -- again, that's why we pull back a little bit on production and where our position is that customers are going to make their decision, we are not going to use price to go accelerate decisions, if they don't want to make that decision yet."
+    },
+    {
+      "speaker": "George Shapiro",
+      "speech": "And have you seen any tougher competition from Bombardier, given the state that they are in? And would you ever have an interest in their aviation part of the business?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well like I said, I don't think we've seen any dramatic change in the dynamic and -- look, lots of deals are competitive deals and price activity and whatnot, is -- seems like it's been fairly stable. So I don't see a big change in that. And look, with respect to the M&A side, again, we see the articles and hear all the noise, that we would not comment on any M&A activity."
+    },
+    {
+      "speaker": "George Shapiro",
+      "speech": "Okay. And Frank, one for you. The inventories were up like $250 million for the year. I mean, so what is still in inventory that effectively wasn't delivered in the fourth quarter?"
+    },
+    {
+      "speaker": "Frank T. Connor",
+      "speech": "That's across the entirety of the corporation, George. But again that's -- we are ramping Longitude, and so there is additional inventory at Aviation that reflects that ramp."
+    },
+    {
+      "speaker": "George Shapiro",
+      "speech": "Yeah, I was just wondering, because the cash flow turned out a little bit weaker than you were expecting, and so I thought maybe there is something else going on there."
+    },
+    {
+      "speaker": "Frank T. Connor",
+      "speech": "No. Cash flow is right in the middle of our guide and kind of again, as I said before, the cash was impacted, certainly for the year by a significant headwind at Bell, associated with the military programs."
+    },
+    {
+      "speaker": "George Shapiro",
+      "speech": "And then I guess one last one, the profit mix at Industrial between Special and Kautex, you've alluded to in the release, that it was primarily special vehicles. If Kautex wasn't down much, it would imply that special vehicles didn't earn much in the quarter. I mean, is that a correct assumption? And if so, if you can expand on why?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "George, we don't -- generally we don't get into the margin mix in the segment. I think the commentary was that, as it relates to vehicles, we certainly had a lower volume year-over-year, and as Frank said, a big part of that was snow because we delivered snow product largely in Q3 versus Q4 a year ago and we should be delivering it in Q3. So it's a good thing that we did it in Q3 versus Q4. So the overall volume was lower, which certainly has an impact on margin. But we're not going to break out any more detail on the margin split between the different sub-segments."
+    },
+    {
+      "speaker": "George Shapiro",
+      "speech": "Okay. Thanks very much."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question is from the line of Cai von Rumohr, Cowen & Company. Please go ahead."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "So Scott, maybe update us the upcoming down select for FARA and FLRAA, and if you win one or both of them, what's the -- because you know, essentially a win is just take it to the next level of competition. What's the chance that you will be spending some of your own money and -- I know the dollars that they have for you are not huge. But you'll be spending some of your own money and therefore, that would be an earnings drag, because you want to win, what's really a very sizable potential?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "So our guide incorporates that, Cai. So we have been spending our IRAD money with really no match on FARA and little match over the years on FLRAA. There certainly has been some government money on the V-280 program. But again, largely that's been funded through our IRAD numbers. So what we have in our plans, as you look at 2020, the amount of R&D actually increases in Bell. But you have a much higher level of participation of government co-funding, than we had just under straight IRAD funding.\nSo it takes us something like a FARA. And with FARA, I think they will down select to the two companies to go through the fly off. We expect that to be in the February to March timeframe, is what they're saying. What we love our offering, we've talked a lot about thinking that it's -- this is a fabulous performance. It clearly meets their requirements. We think it's taking great new technology that we matured on 525. The Army -- remember running the program, is they provide a few very high level critical requirements, but they're not prescriptive in terms of how you accomplish that. So the down select process from five to two will happen, again probably in that February-March timeframe. If it does happen, we will have a lot more R&D effort in the business, but it will actually be less R&D, in terms of IRAD than we spent in previous periods; because again, you do have a very large portion of government cost share, where we had none before on that program. So it's relatively neutral to the overall plan. Even though it's a lot more R&D because of the dynamic of the cost share.\nThe FLRAA program; again, you're right, this is -- the anticipation is that sometime probably in the March timeframe, what they're saying is they would award two contracts in all likelihood, they don't -- so it has to be two, but sort of expectation I suppose it's two. With V-280, we obviously have the expectation that we would be one of those. That's not a huge program, because it really is going through and sort of crossing T's and dotting I's and working on risk reduction toward the ultimate EMD or OTA decision, which is probably still in late 2021, is what they're saying. So that's not a big mover for us one way or the other in the year. But the FARA program is. But again it's not a headwind because you're -- even though you have a much higher level of of R&D on that program, it does have a large cost share."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "Terrific. Great answer. And then second one, the Corona virus clearly becoming a bigger issue. Have you done any preliminary thinking in terms of what this might mean, i.e. taking a look at 2003 and the SARS virus, and was this a benefit the biz jets, because people didn't want to travel on public air transport or were not allowed to. Was this a negative? What does it do for Bell? What are your thoughts?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well Cai, it's a good question. Look, I'm not going back to 2003 to try to do that. So I don't know that I -- I certainly don't know the answer to that question. I mean in terms of the direct impact of the company, obviously we do business in China, largely in the automotive side. So of course automotive, volumes have already been down pretty dramatically in the last couple of years. So whether it has a further impact on that or not is hard to tell and I think like everyone, we've got to watch and wait and see what happens here after we get through the Chinese New Year and does this thing get contained, start to settle down or does it become a bigger problem. So at this point, I think we're more or less in a watch and wait."
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And our final question on today's conference is from the line of Carter Copeland of Melius Research. Please go ahead."
+    },
+    {
+      "speaker": "Carter Copeland",
+      "speech": "All right. Good morning, gentlemen. I have figured out how to use the mute button. So for anybody who has been on A&D call for years, this isn't my first screw up. So thanks for having me back. Scott, if I -- I wondered if you could give us some color on the Board decision around the changes to the incentive compensation plan, the addition of TSR to that, and just what that -- what we should take from that, in terms of -- what you see is the relative risks and opportunities for the corporation?"
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Well look, Carter, I mean the genesis of that thing is that for many-many years, this company has been on a long-term plan that kind of rolled through three years. Okay. So it was a three year plan that had TSR as kind of a wrapper, if you will, around that three year performance. So TSR was absolutely a factor. But the goals and objectives were set annually, and that really stems back to just enormous volatility around business jets and can you really put together a three year plan, that has any credibility to it. So the new plan, obviously still has TSR. It has a direct factor, as opposed to a wrap around. So it remains a very important part of our performance objectives, and ultimately our compensation. But we are trying to put together something that could do a three year forecasted plan, rather than the series of one-year plans to build that three year plan. So -- and we tried to do longer term metrics like things around ROICs and long-term cash and just -- we just have to adapt and considers a lot of unknown around -- one of the fact -- that one of our business, business. The biggest business is, is a biz jet business, where it's just hard to predict what that end market looks like over a period of three years. So I think we've come up with a set of metrics that can accommodate some of that volatility, and have a more conforming, if you will, three year plan, of which TSR still remains an important metric."
+    },
+    {
+      "speaker": "Carter Copeland",
+      "speech": "Great. Thanks Scott."
+    },
+    {
+      "speaker": "Scott C. Donnelly",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Eric Salander",
+      "speech": "Thank you, Kevin. And thank you all. With that, we can end the call."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]."
+    },
+    {
+      "speaker": "Duration: 60 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Eric Salander--Vice President of Investor Relations",
+    "Scott C. Donnelly--Chairman, President and Chief Executive Officer",
+    "Frank T. Connor--Executive Vice President and Chief Financial Officer",
+    "Peter Arment--Robert W. Baird -- Analyst",
+    "Sheila Kahyaoglu--Jefferies -- Analyst",
+    "Pete Skibitski--Alembic -- Analyst",
+    "David Strauss--Barclays -- Analyst",
+    "Jon Raviv--Citigroup -- Analyst",
+    "Seth Seifman--JP Morgan -- Analyst",
+    "Robert Spingarn--Credit Suisse -- Analyst",
+    "Noah Poponak--Goldman Sachs -- Analyst",
+    "Robert Stallard--Vertical Research -- Analyst",
+    "George Shapiro--Shapiro Research -- Analyst",
+    "Cai von Rumohr--Cowen & Company -- Analyst",
+    "Carter Copeland--Melius Research -- Analyst"
+  ]
+}

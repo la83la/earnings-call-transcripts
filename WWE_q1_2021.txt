@@ -1,0 +1,328 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Hello, and welcome to the webcast entitled WWE First Quarter Earnings. [Operator Instructions] We have just a few announcements before we begin. First, please use the question mark icon in the upper right hand corner of your web console for technical assistance. The option to enlarge slides is located to the right on your slides with the four arrows pointing in different directions. [Operator Instructions]\nI will now turn the call over to Michael Weitz, SVP, Financial Planning and Investor Relations. Please go ahead, Michael."
+    },
+    {
+      "speaker": "Michael Weitz",
+      "speech": "Thank you, Lauren and good afternoon, everyone. Welcome to WWE's first quarter 2021 earnings conference call. Leading today's discussion are Vince McMahon, WWE's Chairman and CEO; Nick Khan, WWE's President and Chief Revenue Officer; Stephanie McMahon, WWE's Chief Brand Officer; and Kristina Salen, WWE's Chief Financial Officer. Their remarks will be followed by a Q&A session. We issued our first quarter earnings release this afternoon and have posted the release, our earnings presentation, and other supporting materials on our website.\nToday's discussion will include forward-looking statements. These statements reflect our current views, are based on various assumptions and are subject to risks and uncertainties disclosed in our SEC filings. Actual results may differ materially and undue reliance should not be placed on them. Additionally, the matters we will be discussing today may include non-GAAP financial measures. Reconciliation of non-GAAP to GAAP information is set forth in our earnings release and presentation, which are available on our website. You should note that all comparisons are versus the year-ago quarter, unless otherwise described. Finally, as a reminder, today's conference call is being recorded and the replay will be available on our website later this evening.\nAt this time, it's my privilege to turn the call over to Vince."
+    },
+    {
+      "speaker": "Vincent K. McMahon",
+      "speech": "Thanks. Thanks for joining us, everybody. Like every other form of entertainment, we're sports. We're coming out of COVID. At first, we were in survival mode, but we found a way. Once we felt secure, we then saw this as an opportunity too. We think the way we do business and open what, I call, a WWE treasure chest, the only way to do that the best management team in WWE history. We have that team, a team that's innovative, drives revenue and as we organize our company in a far more efficient way to take advantage of new revenue streams, new online platforms, new consumer products, new content creation and new opportunities to expand our media rights portfolio on a global basis, I'm always excited about our business. I don't think I've ever been as excited as I am now."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Thank you, Vince. This is Nick Khan. First of all, thank you, everyone, so much for calling in. It's going to be nice to speak with all of you again. Since our last earnings call, there have been significant developments in the media industry. We'd like to discuss them and how the economics of these deals signal to us, a marketplace that continues to put premium on live content. Additionally, we'd like to outline a number of new revenue streams we've identified in the recent corner -- quarter, excuse me. I will end by providing an update on our expanding original programing slate, as well as giving you an update on our return to live events and touring.\nRecent developments in media have been highlighted by the completion of new content distribution deals. First, as we discussed last earnings call, Amazon grabbed the Thursday Night NFL package. So we have no inside knowledge of this, we wouldn't be shocked if Amazon was negotiating now, as we speak, to get that package on its air exclusively early. In terms of leads, both the NFL and NHL realized substantial increases in the rights fees for their license programs, demonstrating the continuing value of live content. The NFL saw a media rights increase of 79% even as linear ratings went down a little bit in recent season.\nThe NHL has already doubled its media rights AAV, having sold just over half of its package. In the case of the NHL, linear ratings are down about 25%. In this context, the NHL received tremendous credit for already doubling its AAV from $200 million to $400 million, with another package still available for sale in the marketplace. Our bet is that part of the package goes to a new suitor. These deals are indicative of where the media rights marketplace is and where it continues to head.\nOne of the big takeaways to us, if you look at these packages, is that the overwhelming majority of the media networks are paying to license both the linear rights as well as streaming rights. The days of splitting those rights appear to be over for the moment. Look at the NFL, which often sets the standard in media rights negotiations. Each media partner outside of Amazon paid a multiple of what they were previously paying for the rights to show the games on linear or digital or both.\nIt's clear to us that these companies view live rights as meaningful subscription and retention programing for their OTT services. We are confident that our robust marketplace with interested buyers across broadcast cable and OTT positions our rights portfolio for long-term growth. We had an early case study in WWE delivering audiences for our partners' streaming services a little over two weeks ago, when our premiere event, WrestleMania, was distributed for the first time exclusively on Peacock in the United States. We were thrilled with the result and our partners at Peacock were even happier. Stephanie will provide a more thorough update on these achievements from WrestleMania momentarily, but we couldn't be more pleased with the first event.\nThe promotion from our partners at Fox and NBCU leading into it and the number of conversations we have engaged in subsequent for the Peacock partnership announcement. And coming off of the subscriber and viewership success of WrestleMania that was delivered to Peacock, we're excited about possibly replicating the licensing of WWE's network to potential streaming partners in key international territories. It's a story we're sharing with the international community as we introduced WWE Network to potential partners across the globe.\nIf you look at the success that we're having with our Tencent deal in China, we've seen a 30 times increase in views across all platforms in China, since striking this deal, with 30% of that coming from the viewership on Tencent. We look at the success we continue to have in India and the United Kingdom, we're excited to replicate that and to grow it further. Of course, content rights are not our only revenue focus, we're always looking at new streams of revenue.\nOn April 10, our first day of WrestleMania, we dropped our first NFT, featuring iconic moments from the Undertaker's legendary WWE career. Many of these sold out in seconds. We were thrilled with our first foray into this space. Considering our vast library of wholly owned intellectual property, look for more NFTs from us in the near future. In this quarter, we also made a key deal in the gambling space. Stephanie is going to provide background on that deal later as well.\nAs we continue to expand WWE's brand beyond the ring, we remain focused on developing the slate of original programing from our WWE Studio. We've sold a multi-episode animated series to Crunchyroll, which, as all of you know, is now owned by Sony, Young rock, which we've talked about previously, chronicles the real life journey of Dwayne Johnson from childhood to WWE legend and beyond. They debuted on NBC and it's doing significant business on NBC and with rears on USA and Peacock.\nAnd last Sunday, the Stone Cold Steve Austin documentary was the highest-rated biography in 16 years on A&E. Our other show on A&E that night, WWE's Most Wanted Treasures retained 79% of that lead end audience. There are seven more biographies featuring our superstars each Sunday for the next seven weeks. Again, all of these projects from sitcoms to unscripted to documentary to animate are produced or co-produced by us via our Studio. Last, as I mentioned earlier, stay tuned for our announcement showcasing our full-time return to live event touring.\nTo provide further perspective on our progress, allow me to turn this call over to my colleague, Stephanie McMahon."
+    },
+    {
+      "speaker": "Stephanie McMahon",
+      "speech": "Thank you, Nick. This year's WrestleMania was historic for many reasons, attracting more than 50,000 fans, representing full capacity for the two-night event. I would be remiss if I didn't mention how amazing it felt to have the opportunity to stand on the stage, look out at the faces in the audience and hear their cheers.\nFrom the superstars next to me to the people in the crowd to even maybe my father Vince McMahon, there wasn't a dry eye as we all celebrated something much bigger than ourselves, the power of the lion. Last year's WrestleMania with no fans at our performance centers went back to Raymond James Stadium with a full circle moment, providing a sense of hope for the future and where our signature then, now, forever became then, now, forever together.\nIt is because of this powerful fan base, what we call the WWE Universe that we were able to achieve record-breaking performances across all of our platforms, including reaching new audiences through our domestic streaming partner, NBCU's Peacock. And a world went 52 days, we successfully launched our partnership with Peacock with cross-functional task forces responsible for assimilating meta data, transporting and formatting our most viewed content and creating marketing direct to consumer campaigns and one of the most comprehensive publicity plans we have ever had for WrestleMania.\nOne executive at Peacock described our process as a best-in-class example for how partnerships should work. The results with the most viewed live events in Peacock's young history. The launch was supported by two integrated media campaigns executed across the Comcast, NBCU, Peacock and WWE portfolio.\nWrestleMania media coverage increased 25% with over 500 individual new stories, representing 1.2 billion media impressions. Creatively, everything kicked off the Friday before with the WrestleMania addition of SmackDown on FOX, where Jey Uso won the esteemed Andre the Giant Battle Royal. Sasha Banks and Bianca Belair became the first African-American female superstars to main event WrestleMania. Pop star, Bebe Rexha, saying the national anthem and hip-hop star, Wale, rapped Big E down to the ring.\nGrammy award winning artist Bad Bunny and YouTube influencer Logan Paul found themselves getting in on the action inside the ring. Bad Bunny's performance received praise from ESPN, counting it as one of, if not, the most impressive showings by a celebrity in the ring. And apparently, a lot of people enjoyed seeing YouTube influencer Logan Paul gets stunned as he trended number two on Twitter and generated nearly 100 million impressions on social media alone.\nWWE also secured a record 14 new and returning blue chip partners for WrestleMania, including Snickers as the presenting partner for the sixth consecutive year and presenting partner of the main event. Papa John's Cricket Wireless, P&G's Old Spice, Credit One Bank and DraftKings. DraftKings is now an official gaming partner of WWE, focusing on their signature free-to-play pools, which included placing some fun bets on main event matches in both nights of WrestleMania.\nVideo views during WrestleMania week across digital and social platforms, including YouTube, Facebook and Instagram, hit 1.1 billion and 32 million hours of content were consumed, representing a 14% and 9% increase, respectively. WWE related content saw 115 million engagements and WrestleMania was also the world's most social program, both nights of the weekend, delivering 71 Twitter trends.\nAs Nick mentioned, for the first time, we launched a series of NFTs, featuring the Undertaker at record-breaking WrestleMania weekend e-commerce sales and record merchandise per capita sales in stadiums. We also held more than 10 community activations throughout the week, including collaborating with the Mayor's Office to customize our vaccination messaging for the local market, recognizing local community champions, teaming with FOX Sports to donate equipment to Special Olympics, Florida, and working with various organizations, including Feeding Tampa Bay to combat food and nutrition and security.\nOn USA Network, the following Night Raw delivered its best performance in the 18 to 49 demo in over a year and NXT's debut on its New Night on Tuesday was up 29% in the 18 to 49 demo year-over-year. As we move toward our next streaming special, WrestleMania Backlash on Sunday, May 16, we are excited to build on our recent success, grow our audience through Peacock's enhanced reach, align with Iconic franchises, such as the Olympics and the Super Bowl and continue to leverage Peacock sales and promotional teams.\nAdditionally, key brand metrics in the first quarter are as follows. TV viewership continued to remain stable, maintaining a trend that began when we transitioned out of the performance center and invested in WWE ThunderDome at the end of August. From that time to the end of this quarter, Raw ratings have held steady and SmackDown ratings increased 9%.\nNotably, all Raw appearances featuring Bad Bunny showed an increase of 31% in the Hispanic persons 18 to 34 demo. And Bad Bunny's total social impressions during the time of his story lines equaled nearly 700 million. Digital consumption increased 7% to 367 million hours. WWE's flagship YouTube channel crossed 75 million subscribers and is now the fourth most viewed YouTube channel in the world.\nWWE sales and sponsorship revenue increased 19%, excluding the loss of a large scale international event. As I mentioned on our last call, brands are looking for unique ways to reach their consumers. WWE is perfectly positioned to do just that with the ability to create customized content experiences and utilize WWE superstars that resonate with target audiences.\nFor example, the creation of our digital content series, Grit & Glory, for GM's Chevy Silverado brand and the creation of a new superstar, the Night Panther and a first-ever campaign integration across multiple platforms to market the new scent from Old Spice. In our view, WWE is well positioned to continue to elevate our brand, grow our business and engage new and existing consumers across all media platforms.\nAnd now, I'll turn the call over to our CFO, Kristina Salen."
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "Thank you, Stephanie, and hello to WWE shareholders. As Vince, Nick and Stephanie highlighted, transitioning WWE Network to Peacock, while launching WrestleMania with a live audience of 50,000 fans in attendance is a major accomplishment. I would add by the flexibility, speed and sheer brute force of will demonstrated by the WWE team, the innovative and entrepreneurial spirit on display was as strong as I've seen in my 25-plus years prior in the tech industry.\nToday, I'll discuss WWE's financial performance, which underscores that spirit. As a reminder, all comparisons are versus the year ago quarter, unless I say otherwise. In the first quarter, WWE continued to manage a challenging environment. Total WWE revenue was $263.5 million, a decline of 9% due to the cancellation of live events, including a large scale international event and the associated loss of merchandise sales, all due to COVID-19. Despite this decline, adjusted OIBDA grew 9% to $83.9 million, reflecting the upfront recognition related to WWE's licensing agreement and the decline in operating expenses that resulted from the absence of live events.\nTo review the first quarter performance in more detail, let's turn to Slide 3 of the presentation, which shows revenue, operating income and adjusted OIBDA contribution by segment. Looking at the WWE media segment, adjusted OIBDA was $107 million, growing 4% as increased revenue and profit from WWE's licensing agreement with Peacock, as well as increased revenue from the escalation of domestic core content rights fees more than offset the absence of a large scale international event.\nDuring the quarter, we continue to produce Raw and SmackDown in our state-of-the-art environment, WWE ThunderDome, at Tropicana Field in St. Petersburg, Florida. Our operating results continue to be impacted by the year-over-year increase in production costs associated with bringing nearly 1,000 live virtual fans into our show, surrounded by pyrotechnics, laser displays and drone cameras, we did achieve some efficiency quarter-over-quarter.\nWith the April transition of WWE ThunderDome to Yuengling Center in Tampa Bay, we expect this investment will continue through at least the second quarter as it elevates the level of excitement and brings our fans back into the show. Despite a challenging environment, WWE continues to produce a significant amount of content, nearly 650 hours in the quarter across television streaming and social platforms. And as Nick described, we continue to develop our slate of original programing from our WWE Studios.\nNow let's turn to WWE's live event business on Slide 5 of the presentation. Live events adjusted OIBDA was a loss of $4.3 million due to a 97% decline in live event revenue. These declines were due to the loss of ticket revenue, resulting from the cancellation of events. As we've said, we are delighted to have entertained ticketed fans and an audience of over 50,000 at WrestleMania a few weeks ago. We look forward to the highly anticipated return of regular ticketed events. However, predicting the pace of that return is challenging and as of this moment, we do not anticipate staging such events until at least the second half of 2021.\nLooking at WWE's consumer products segment on Slide 6 of the presentation, adjusted OIBDA was $6.7 million, growing 76% primarily due to higher royalties and profit from the sale of license video games, including strong sales for our mobile game portfolio. WWE also continues to introduce new products, leveraging a superstar talent brand and strong distribution partners. As examples of WWE's continuing commitment to product innovation, WWE released three new championship title belts and a suite of branded products to commemorate Stone Cold Steve Austin's 25 years at WWE. Also in the quarter, WWE continue to be the number one action figure sold at Walmart, where it continues to deliver exclusive products.\nNow let's turn to WWE's overall cash generation as shown on Slide 7 of the presentation. In the first quarter, WWE generated approximately $54 million in free cash flow, which was down slightly. Improved operating performance and lower capital expenditures were offset by the timing of collections associated with network revenue. Notably, during the first quarter, we returned approximately $84 million of capital to shareholders, including $75 million in share repurchases and $9 million in dividends paid.\nTo date, more than $158 million of stock has been repurchased, representing approximately 32% of the authorization under our $500 million repurchase program. As of March 31, 2021, WWE held approximately $461 million in cash and short-term investments, which reflected the repayment of the remaining $100 million borrowed under WWE's revolving credit facility. Accordingly, WWE estimates debt capacity under the revolving line of credit of $200 million.\nAnd finally, a word on WWE's business outlook. Last quarter, WWE issued guidance for 2021 adjusted OIBDA of $270 million to $305 million. This range of guidance reflects estimated revenue growth, driven by the impact of the Peacock transaction, the gradual ramp up of ticketed live events and large scale international events and the escalation of core content rights fees, offset by increased personnel and television production expenses. The company is not changing full-year guidance at this time. The guidance range is subject to risk over the remainder of the year, particularly related to the impact of ongoing COVID-19 restrictions on the company's ability to stage live events, including large scale international events.\nTurning to WWE's capital expenditures, as we mentioned last quarter, we anticipate increased spending on the company's new headquarters, as we restart this project in the second half of 2021. For 2021, we've estimated total capital expenditures of $65 million to $85 million to begin construction, as well as to enhance WWE's technology infrastructure. We're in the process of reevaluating the headquarter project and will provide further guidance on future capital expenditures when that work is completed.\nFor the second quarter of 2021, we estimate adjusted OIBDA will decline as incremental profits from Peacock and the escalation of content rights fees are more than offset by increased production, personnel and other operating costs. As a reminder, the year-over-year rise in television production costs reflects the impact of our investment in WWE ThunderDome relative to the lower cost of producing content from our training facility, as we did exclusively in the second quarter of last year.\nAs the timing and rate of returning ticketed audiences to WWE's live events remain subject to uncertainties, we are not reinstating more specific quarterly guidance at this time. In the first quarter, WWE generated solid financial results as we executed on key strategic objectives. As Vince, Nick and Stephanie mentioned, we believe we can continue to innovate, enhancing our fan engagement, driving the value of our content and developing new products and markets, as well as cultivating new partnerships. We look forward to sharing our progress on these initiatives with you all.\nThat concludes our remarks, and I will turn it now back to Michael."
+    },
+    {
+      "speaker": "Michael Weitz",
+      "speech": "Thank you, Kristina. Lauren, please open the lines for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] Our first question comes from Curry Baker with Guggenheim Securities."
+    },
+    {
+      "speaker": "Curry Baker",
+      "speech": "Hey, good afternoon, everyone. Thanks for the questions. My first one is on the sponsorship front for Nick. I think sponsorship scenario where WWE's historically under monetized relative to other live sports. First, can you maybe talk about the inventory that's tied into the Peacock deal on the sponsorship side and the strategic upside you see partnering with NBCU's team there? And then secondly, more of a higher level look at sponsorship. Can you maybe size the opportunity you see over the next couple of years and take us through your strategy to more fully monetize that inventory?"
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Curry, absolutely, thanks for the question. I'm going to tag in Stephanie to help answer that question, and I'll supplement it if anything needs to be supplemented, if that's OK by you."
+    },
+    {
+      "speaker": "Stephanie McMahon",
+      "speech": "Great. So Curry, thank you for the question. We absolutely see that the same thing that you see and there is tremendous potential and upside in terms of sponsorship, particularly as it relates to mirroring what has been so successful with the sports leagues, added on to our ability to create this custom content, all of our superstars who are influencers in and of themselves and the fact that WWE owns all of our intellectual property. So there is an ease of engaging and doing business with us that doesn't exist in other leagues or entertainment media."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "The second part of that, Curry, this is Nick, as it relates to the relationship with Peacock, we're going to be selling it with them. So we're getting all of those ducks in a row, obviously, launching the product on Peacock was the priority. Now that both sides are happy with that launch, the focus is on further monetizing it, so we're deep in those conversations now."
+    },
+    {
+      "speaker": "Curry Baker",
+      "speech": "Okay. Thanks. That's helpful. And then maybe just one final one on the ratings front, shifting focus a little bit. There's obviously pressure on the linear ratings for both Raw and SmackDown. Can you maybe talk to us about the lift you expect in the back half as you return to a more normal product with fans? We obviously saw a bit of a lift when you move to the ThunderDome format last year. Is there any way to think about that? And then I guess secondarily, is there anything you guys are doing new on the story line front or from a talent perspective that you also think might reenergize the fan base and television ratings as we move through the rest of the year? Thanks."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "We have a four question limit per person. Let us report Curry, I'm teasing you. Couple of things. How we looked at ratings is how we think all the buyers look at ratings. It's the culmination of everything, linear, digital, streaming numbers, etc. Our numbers are robust, it's no different than when we referenced the NHL and NFL earlier or on the last call, that we all had together, there is a challenge in linear content for everybody. Eyeballs are going away from it. Think about how you watch your own content yourself, how often are you watching on your phone? How often are you watching it on some sort of Apple TV-like device? Its easy.\nSo we are there, when we launched the WWE Network in 2014, candidly, we saw that, when we did the Peacock deal a few months ago or finalized that, we saw it then as well. As it relates to live events, that always matters to us. The fans are our fourth wall, if you will. We know immediately from them what's working and what's not working. The ThunderDome was a phenomenal creation by the creative team here, but to get live fans back and to get our performers in front of them, we yearn for that as much as our performers do, and we think it's going to have a direct impact on all parts of our business in an overwhelmingly positive way."
+    },
+    {
+      "speaker": "Curry Baker",
+      "speech": "Okay. Thanks for the question."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Thank you for the 14 questions. Appreciate it."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Brandon Ross with LightShed Partners."
+    },
+    {
+      "speaker": "Brandon Ross",
+      "speech": "I think I need to amp up the number of questions I was going to ask to compete with Curry, So let's say, first I wanted to get more color on the traction on Peacock, which from the sounds of it appears to be expanding your reach. I think you said record viewership of WrestleMania, any way you can size that for us compared to last year on the network?"
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Absolutely. Brandon, we know you always come in with 20 to 30 questions, so we're going to fine, we love it, and we thank you for that. So a couple of things. Our partners at Peacock have asked us not to do that. What we can tell you is that as you guys know in the content business, when you wake up on Monday morning after the two nights, as we did to phone calls and emails from Peacock and NBCUniversal.\nIt usually means they're thrilled. When you don't hear from them is when there is a problem. So fortunately, for us, a great number of us here heard from them Sunday night, Monday morning, how thrilled they were with the content and how the content delivered for them. So we're excited about everything that can happen, and yes, expanding the fan base was one of the key reasons why we did that deal."
+    },
+    {
+      "speaker": "Brandon Ross",
+      "speech": "Awesome. And on NXT, just wanted to ask about the move of nights strategically, how did you weigh the pluses and minuses of that move? I guess, it appears that AEW is reaching record viewership probably because of the move was that in the consideration set. Do you think about them, do you care?"
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Honestly, everything is competition for everything. The movies are competition, people sitting and deciding just the textile night is our competition. All we're focused on is attracting eyeballs to our content. So part of the reason for the move to choose the night, the last time we were all here, we were specifically asked about well, what about the NHL and the impact of Wednesdays would be NHL on your content NXT on Wednesday nights in particular.\nIt's our belief that NBC and the NHL are not going to continue to be in business together, that was our belief months ago. So that had absolutely nothing to do with our decision-making process. If you look at the efficiencies of Sunday night pay-per-views, Monday Night Raw and Tuesday night NXT, it made sense for us for myriad reasons to do consecutive nights obviously Sunday night is a 15 to 20 time premium event -- excuse me, premium event type of thing, but those efficiencies to us is what really drove it. We're pleased with the increase in NXT ratings and not focused on any one other than ourselves."
+    },
+    {
+      "speaker": "Brandon Ross",
+      "speech": "Great. And then I guess you gave a little bit of your opinion on where the NHL rights might wind up, talk to about Amazon getting Thursday night earlier. Can you just broadly give us some color on what you're seeing out there in terms of other suitors in the digital universe beside Amazon's appetite for sports content? Are there a bunch of players? Is there a real interest outside of Amazon?"
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "We think Apple TV is readying for something. They've come close on a number of live events. They haven't decided to go all-in yet. So we're looking for them to see what their moves are going to be. It's not just the digital companies and I know your company yesterday, there was an article about a conference you guys were at, where you said hey -- not you specifically, but one of your partners, hey, look at these big tech companies coming in. Those are the behemoths, we agree with you, to Disney's credit to Comcast's credit for the credit of others, they saw it, maybe a moment in time late, but they saw it. So we think they are going to be significant competitors for different premium content rights for everybody. And what we know is live matters and that's what we do."
+    },
+    {
+      "speaker": "Brandon Ross",
+      "speech": "Great. Thank you so much."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Laura Martin with Needham & Company."
+    },
+    {
+      "speaker": "Laura Martin",
+      "speech": "Can you guys hear me OK?"
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Laura Martin",
+      "speech": "Okay. Great. So maybe sticking to that one and building on that, maybe I have this wrong, but my understanding of the way your rights are currently structured is you can't actually sell anything to anybody, including Apple or Amazon for three or four years. Do I have that wrong? Is there something you guys could actually monetize over the next three-year investor trendline?"
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "There is so much, and we appreciate you asking the question. Number one, it's part of the reason why our focus is so international based right now. In terms of the existing content in the United States, yes, that is licensed through October of 2025 on Raw and SmackDown. In terms of new content, that is not. In terms of licensing that existing content and the WWE Network internationally, that is what we are deeply involved in right now. So a lot of upside in that, obviously, it's a good time in our opinion, to be a seller of these rights, and we think the proof will be in the pudding on that in the not too distant future."
+    },
+    {
+      "speaker": "Laura Martin",
+      "speech": "Okay. Very helpful. Thank you. And then Kristina, maybe one for you. You're showing on Slide 2 maybe that EBITDA grew about 9%, but it was like because we didn't have the Saudi events and we estimate, you show the wide revenue there. We estimate it's got like 50% to 60% margins. Really is the underlying operating power of these assets closer to 23% growth, which manage your operating income because we add back another $12 million for the lost Saudi event which shouldn't really be, what I would call, a detrimentally operating cash flow power of these assets, is that fair?"
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "I think what's really understand in terms of what's driving our adjusted OIBDA growth of 9% is to understand the accounting recognition for the delivery of both content in subscribers in our Peacock deal. That's very high incremental margin revenue. And as we discussed before, that was one time in the quarter. The live event worsened as we discussed, was down -- revenue was down 97%, and we booked an adjusted OIBDA loss of $4.3 million, so it's not just the loss of a large international event, but it's the absence of all live events in the quarter that was a downdraft on adjusted OIBDA."
+    },
+    {
+      "speaker": "Laura Martin",
+      "speech": "Perfect. That's super helpful. Thank you, Kristina."
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "You're welcome, Laura."
+    },
+    {
+      "speaker": "Laura Martin",
+      "speech": "That's it. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Eric Katz with Wolfe Research."
+    },
+    {
+      "speaker": "Eric Katz",
+      "speech": "Hey, good afternoon, everyone. Thank you. I actually like to piggyback a little bit of Laura's question, maybe focusing more on expenses in the media segment. I heard some of your comments around the moving pieces for opex. I was hoping you can maybe unpack that a bit more for Q1 and into Q2 because media costs were down about $15 million year-over-year.\nAnd I guess, it's tough to reconcile the loss of the international event. I think Peacock, I think you had furloughed workers back and you're investing in ThunderDome. So I understand you're not quantifying, but is there anything you could maybe share qualitatively to think through the margins or flow through, because I think the expectation is that on this be the full year guide maybe should have gone up?"
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "Thanks, Eric. Yes, absolutely, I'll walk you through that. Again, to understand, I'll take the last question first. Why didn't we raise our guidance? It's really because any -- the quarter performance was driven by the accounting for the Peacock transaction, the one-time accounting for the delivery of subscribers and delivery of content. Indeed, there was very little licensing fee revenue related to Peacock in the quarter because we delivered all of these assets on marketing fees.\nSo the licensing fee revenue in the quarter was really represented the last two weeks or so of March. When we move into the second quarter, we'll see the first full quarter of Peacock licensing fee revenue, and we won't see the one-time valuation of our subscription -- and of our subscribers and content delivery. So that's the Peacock portion of network and media.\nTo understand the opex, you're absolutely right. What we've highlighted in our guidance is that increases in TV production and personnel are an important thing to consider when forecasting 2021 adjusted OIBDA. Now year-over-year, in the first quarter, production expenses as we discussed TV production on a per episode basis, we discussed last quarter, were up considerably 30% year-over-year.\nWhat we're really excited about in the second quarter is while they're up -- sorry, in the first quarter, while they're up year-over-year, quarter-over-quarter we were able to obtain certain efficiencies really around our virtual fan technology, but also generally around operating expenses and that's just a testament to us constantly learning, constantly innovating. And as we move into the second quarter of this year, we think, again, quarter-over-quarter, per episode TV production costs will be down versus first quarter.\nAnd this is a big but, Eric, when you think of the second quarter of 2021 versus second quarter of 2020, remember for the entirety of last year in the second quarter, we were in our training facility. And the per episode costs of our training facility and remember that was the high of COVID, the per episode costs in our training facility were remarkably lower than even steady state pre-COVID levels. So really second quarter is our toughest comparison from a TV production expense perspective.\nDoes that help you draw the story throughout these two quarters, Eric?"
+    },
+    {
+      "speaker": "Eric Katz",
+      "speech": "Yes, it definitely helps. Okay. And maybe just a follow-up on the touring plans. I guess one thing we're trying to think through is, as you guys begin to tour, I guess, maybe in the second half, hopefully in the second half, would you continue to hold a residency, while you sort of phase in touring? Is it sort of going right into a 100%, I guess, maybe the decision-making process on once you actually start touring is it full bore or a phase in?"
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "We haven't yet decided what our trendlines will be for the summer, but we are very hopeful that we return to touring in the second half of this year and our hope is that we go to full touring, not that we retain kind of semi-permanent residency in one location and go half out, so to speak. Our guidance, just that you know, Eric, assumes that we go full touring in the second half of this year, which is what we disclosed when we talked about our guidance back in February. So going to half semi-permanent residency and half touring wouldn't be the most ideal situation from a financial perspective, but also really just from a fan engagement perspective, we're really looking forward to getting out on the road again."
+    },
+    {
+      "speaker": "Eric Katz",
+      "speech": "Okay. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Next question comes from David Karnovsky with JP Morgan."
+    },
+    {
+      "speaker": "David Karnovsky",
+      "speech": "Thank you. Nick, I just wanted to follow up on your commentary to one of Brandon's questions. With the increased demand coming from streaming for live content, do you see this as sort of a rising tide lifts all boats situation or will some sports like the NFL or even yourself with Peacock disproportionately benefit from this dynamic? And if that is the case, what factors do you think determine success or not here?"
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Thanks, David. I think there's a couple of things. The newer content, I don't want to say the lower-tiered content, the newer content that's not as known as we believe our content to be or certainly the NFL's to be. There's only so much money to go around. So somebody is going to be left holding the bag. So if you look at college football for example, the SEC is in great shape. The Big Ten is the next big rights package up. There's going to be some challenges there even though it's a major conference because they didn't perform for part of the season, that always makes it tricky.\nIf you look at all the conferences outside of that, I'd look for some sort of consolidation school wise or conference wise to happen, and you look at the other folks out there, some businesses are unfortunately going to go away. So the folks who have delivered eyeballs in the past are going to benefit from it. The folks who are trying to prove that they can deliver eyeballs, it's going to be challenging."
+    },
+    {
+      "speaker": "David Karnovsky",
+      "speech": "Great. That was really helpful color. And then maybe just separate topic, e-commerce has had four really strong quarters since the pandemic started. Just wondering how much you attribute that to a mix shift in venue merchandise and zero versus kind of actions you've taken drive higher online sales? Just want to get a sense for how sustainable for the next strengthen WWE shoppers?"
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "Thanks, Dave. I'll take that question. I think that we've made a lot of effort to really take advantage of the trends and bring customers to WWE Shop permanently. The first thing that comes to mind is title belts and the number of -- we launched three new title belts just in this quarter, a similar number last quarter. What also comes to mind is the launch of Legends and creating products and merchandise for our fans who are so enthusiastic about historical WWE Superstars. So we haven't just been sitting on our heels and letting this wave come to us. We've been doing a lot to get folks to come and stay."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "I think I could add to that, if that's OK, David. The brick-and-mortar business, as we all know, has probably changed forever or at least for the foreseeable future. The e-commerce business is going to continue to grow. One part of the brick-and-mortar business, that we are bullish about, is the live event business, where we do sell a lot of our merchandise, which we have not had in over a year. So if you look at e-commerce, if that stays robust, we believe that it will and the return to live events, where people can buy our products, we are quite bullish on it."
+    },
+    {
+      "speaker": "David Karnovsky",
+      "speech": "Great. Thank you, Nick."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Ben Swinburne with Morgan Stanley."
+    },
+    {
+      "speaker": "Ben Swinburne",
+      "speech": "Thanks, and congratulations on WrestleMania and executing on that. I'm sure that was a tremendous experience to be at, so congrats."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Ben Swinburne",
+      "speech": "I wanted to ask -- I promise I'll limit myself to two questions. I just wanted to ask Kristina on Peacock, if at this point or in the first quarter, did we see all the revenue recognition associated with the delivery of I guess what we call one-time assets? Is that done or is there more in Q2? And then I think it was Nick who mentioned NFTs it in the prepared remarks, I know this is very early days, but could you just talk about what you think the opportunity is there? How meaningful that might be? And what you guys are doing to try to maximize that right now? I know it's early."
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "The short answer to your first question, Ben, is that, yes, it's largely done. We'll recognize some one-time content around the delivery of marquee-free premiere shows like for example WrestleMania in the second quarter or SummerSlam in the third quarter, but those won't let be anything like the size of what we recognized in the first quarter."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "And Ben, I can jump in on the second part of that first to your precursor statement on WrestleMania, we remain undefeated against the weather for our outdoor stadiums minus a 10-minute delay on night one Saturday this year, but we are happy to do the event in Tampa and to deliver for our partners down there. In terms of the NFTs, look, if you look at what Vince set up with WWE years ago, to own all of the intellectual property, to own the overwhelming majority of the character rights, that business is going to be something that we are in long term.\nSo we're excited to get our first one up for WrestleMania. I think our Silver tier there were 100 limited Undertaker cards, those 100 cards that we sold out in 35 seconds. So we want to make sure that we're there for our fans as these are the baseball cards of the digital world as you know. So we're there, we're going to continue to be there, and we have a plan in place that we're really excited about."
+    },
+    {
+      "speaker": "Ben Swinburne",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from Vasily Karasyov with Cannonball Research."
+    },
+    {
+      "speaker": "Vasily Karasyov",
+      "speech": "Thank you. Good afternoon. Before the pandemic, you talked about your plans to invest overseas into local content production, training centers, developing local talent, etc. So can I ask you to talk about whether your plans changed, given the terms on which you renewed the international rights contracts, the impact of COVID and what's going on with it? How your strategy is developing domestically in terms of licensing versus WWE Network? And then if you could talk a little bit about how we will see that flowing through the P&L, your international strategy? Thank you."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "Sure. So the first part of that, Vasily, no, our plans have not changed, they've simply been delayed by COVID. So even during COVID, what we did with our partners, and we discussed this the last earnings call. We did a show for our partners, Sony in India, featuring up and coming Indian talent against some of our current Superstars. That product, which we call Superstar Spectacle delivered a 5 times rating compared to our normal high ratings in India.\nAgain, based on talent that candidly, we don't believe the Indian fans have heard of and that the American fans have not heard of yet. So we were thrilled to be able to pull that off. We did that one in Florida, as you know very, very difficult with international travel right now, very difficult to go to international booms right now in terms of performance centers, it's also part of the plan. But like many things just paused by COVID and hopefully roll out a bit soon, certainly seems like it's heading that way."
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "And to answer the modeling question, I think we're really fortunate in that we're international without even trying. I mean that sarcastically, there's so much effort going around, but it doesn't require a significant amount of capex or opex to take advantage of the global reach of WWE brands. And indeed, the demand for our global brand like WWE is so strong that we launched the partners and Nick referenced our partner in India, we have partnership in the UK. And so we look around the world for those partners to help us deepen our relationship in specific regions and countries and also help us co-invest smartly in local content, local talent and local opportunities."
+    },
+    {
+      "speaker": "Vasily Karasyov",
+      "speech": "Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Our next question comes from David Beckel with Berenberg Capital Markets."
+    },
+    {
+      "speaker": "David Beckel",
+      "speech": "Hey, thanks so much for the question. Just wanted to touch back on Peacock and the sponsorship arrangement, acknowledging there is probably some parts of the deal you can't really talk too much about. But I'm curious if you can just fill us in on some of the broad strokes. Does the partnership, does that pertain mostly to new deals that have not yet been struck? And to what extent across your properties would the partnership apply? And then I have a follow-up."
+    },
+    {
+      "speaker": "Stephanie McMahon",
+      "speech": "Certainly. I'll take that, David. This is Stephanie. So in terms of sponsorship working with Peacock, basically anything that you'll see that will air on Peacock in terms of sponsorship, we are working with them. There is a lot of white space, if you will, as was recognized I think in the first question around WrestleMania, around all of our major properties and when you're dealing with teams who have regularly sold the likes of the Olympics and the Super Bowl, you're working with really top notch team, who will provide us opportunities that we have not had in the past."
+    },
+    {
+      "speaker": "David Beckel",
+      "speech": "Great. Thanks for that color. I appreciate it. And just more of a high level one, and actually sort of piggybacking on the last question. A question we get from investors a lot is sort of longer-term thinking, how you approach the investment process, obviously, there are lots of areas you can invest in, and you also have a great degree of certainty on the top line, two-thirds or more of your revenue sort of contracting going forward. So I'm just curious how you're thinking about the level of investment. Do you think about it as a percentage of revenue, incremental revenue over the coming years or is it less structured than that?"
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "So I think what you can appreciate about our business model, David, is in a normal environment, we are a high incremental margin business, which throws off nice cash flow. And as we've discussed, all of these wonderful innovation just in the quarter, whether it was NFTs, it's the deal with DraftKings, the Peacock integration, none of it required any significant amount of opex or capex on our part. So we're very -- when we think about new opportunities, it's not about us having to go out and steal this, so it can happen. It's about us going out and harvesting what's there or optimizing what's already there.\nIt's not to say that there aren't opportunities to invest. We've highlighted, for example, that this coming year in 2021, we'll spend about somewhere between $60 million to $85 million in capex largely on our new HQ, which we've delayed now more than a year, it'll be two years delayed by the time we move in and ongoing technology infrastructure improvements that you'd expect every couple of years at any innovative company. So we're really fortunate in our business model, which enables us to maximize the opportunity for the awesome WWE Universe."
+    },
+    {
+      "speaker": "Michael Weitz",
+      "speech": "Thanks, Kristina. For our analysts on the line for warning our operator, we're at the limit of this meeting, we have time for one more question. If we missed anybody, we're happy to follow up with you offline."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We'll take our next question from Steven Cahall with Wells Fargo."
+    },
+    {
+      "speaker": "Steven Cahall",
+      "speech": "Thank you. Just a couple of maybe. First, Kristina, on the guidance, just wondering, did the Peacock delivery you had in the first quarter outperform your full year expectations for Peacock OIBDA por was this just the timing of how it fell in sort of March versus April? And sort of the same question on NXT, you've historically commented about a lot of AAVs of these long-term big rights deals in the US. So just curious how the AAV of NXT performed or was contracted based on what you sort of baked into the year for guidance?\nAnd then second question, just you made a comment about non-fungible tokens. Any idea how much exploration you've done into this? It's certainly a unique asset as you say for a public media company as WWE and any stock with crypto get the heck of a valuation these days? Thanks."
+    },
+    {
+      "speaker": "Kristina Salen",
+      "speech": "Thanks, Steve. I'll take the first part, and I'll let Nick take the second part. And hopefully, you won't say Bitcoin and Bitcoin bingo. What I would say is, thank you so much for the question about timing, and I'll just underscore, you're absolutely right. There is no change with regard to the impact of Peacock in our guidance on a full year basis. We're really pulling forward a little bit of what we thought would hit in second quarter is hitting in first quarter. And that is exactly why we're not increasing guidance overall for the year. So thank you for that question.\nWith regard to NXT, yes, NXT was expected obviously because the contract was up and it is within our guidance range that we provided. So there is no -- we're really pleased with that result, but there is nothing to update with regard to guidance on that front."
+    },
+    {
+      "speaker": "Nick Khan",
+      "speech": "And Steven, on the NFT part of that, I feel like at the start of the pandemic, we were at newer heights, like I think most others were. And now I would put our level of knowledge as high as I would hope our knowledge of the media space is proceeding. We know it and it doesn't mean there's not a lot of room to continue to learn, just like with everything else that we do. But we're confident from where we sit on what we can deliver and what our audience is looking for."
+    },
+    {
+      "speaker": "Steven Cahall",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Michael Weitz",
+      "speech": "Thank you, everyone, for participating in the call today. We appreciate you listening. If you have any questions, please don't hesitate to contact me, Michael Weitz, or Michael Guido. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 60 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Michael Weitz--Senior Vice President, Financial Planning and Investor Relations",
+    "Vincent K. McMahon--Chairman of the Board and Chief Executive Officer",
+    "Nick Khan--President and Chief Revenue Officer",
+    "Stephanie McMahon--Chief Brand Officer",
+    "Kristina Salen--Chief Financial Officer",
+    "Curry Baker--Guggenheim Securities -- Analyst",
+    "Brandon Ross--LightShed Partners -- Analyst",
+    "Laura Martin--Needham & Company -- Analyst",
+    "Eric Katz--Wolfe Research -- Analyst",
+    "David Karnovsky--JP Morgan -- Analyst",
+    "Ben Swinburne--Morgan Stanley -- Analyst",
+    "Vasily Karasyov--Cannonball Research -- Analyst",
+    "David Beckel--Berenberg Capital Markets -- Analyst",
+    "Steven Cahall--Wells Fargo -- Analyst"
+  ]
+}

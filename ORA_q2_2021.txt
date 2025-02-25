@@ -1,0 +1,362 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning. And welcome to the Ormat Technologies Second Quarter 2021 Earnings Conference Call. [Operator Instructions] Please not, this even is being recorded.\nI would now like to turn the conference over to Rob Fink of FNK IR. Please, go ahead."
+    },
+    {
+      "speaker": "Rob Fink",
+      "speech": "Thank you, operator. Hosting the call, today are Doron Blachar, our Chief Executive Officer; Assi Ginzburg, Chief Financial Officer; Smadar Lavi, Vice President of Corporate Finance and Investor Relations.\nBefore we beginning, we would like to remind you that the information provided during this call may contain forward-looking statements relating to current expectations, estimates, forecasts, and projections about future events that are forward-looking as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally relate to the company's plans, objectives, and expectations for future operations and are based on management's current estimates and projections, future results or trends. Actual future results may differ materially from those projected as a result of certain risks and uncertainties. For a discussion of such risks and uncertainties, please see Risk Factors section as described in Ormat Technologies annual report on Form 10-K and quarterly reports on Form 10-Q that are filed with the SEC.\nIn addition, during the call, the company will present non-GAAP financial measures, such as adjusted EBITDA. Reconciliations to the most directly comparable GAAP measures and management's reasons for presenting such information is set forth in the press release that was issued last night as well as in the slides posted on the company's website. Because these measures are not calculated in accordance with GAAP, they should not be considered in isolation from the financial statements prepared in accordance with GAAP.\nBefore I turn the call over to management, I would like to remind everyone that a slide presentation accompanying this call may be accessed on the company's website at ormat.com under the presentation link that is found on the Investor Relations tab.\nWith all that said, I'd now like to turn the call over to Doron Blachar. Doron, the call is yours. Doron?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you, Rob, and good morning, everyone. Thank you for joining us today. This was a productive quarter for Ormat.\nAs we are progressing with our plans to grow our Electricity and Energy Storage segment, the quarter was highlighted by execution of our organic and M&A growth strategies. We completed the expansion of the McGinness Complex in Nevada with higher generating capacity than originally planned, and made significant progress ramping up generation of the Puna plant in Hawaii. Simultaneously, we closed a significant acquisition of two operating power plants and two other assets, which should contribute to our future growth.\nIn the Energy Storage segment, we continue with our BD efforts to secure new interconnection in land position to support our pipeline and we recently released two storage asset for construction. The progress in our growth reinforces our belief that we can achieve our stated goals of increasing Ormat's combined geothermal energy storage and solar generating portfolio to more than 1.5-gigawatt by 2023. While we continue to view 2021 is a buildup year in which we lay additional groundwork to accelerate our growth. The increased backlog and sales pipeline, along with the -- I guess the only tailwinds and significant portfolio growth coming from our Electricity and Energy Storage segment support our target of an annual run rate of more than $500 million in adjusted EBITDA toward the end of 2022.\nI will turn the call over to Assi to review the financial results, before I provide further update on our operations and future plans.\nAssi?"
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "Thank you, Doron. Let me start my review of the financial results on Slide 5.\nTotal revenue for the second quarter were $146.4 million, down 16% from the prior year. The driver for the decrease were the product segment, which was impacted by low product backlog. Second quarter 2021 consolidated gross profit was $52 million, resulting in a gross margin of 35.4%, 200 basis point lower than in the second quarter of 2020, mainly driven by the reduction in the Electricity segment. This quarter, we experienced mostly temporary issues related to the Olkaria, Steamboat and Brawley complexes. These issues reduced our Electricity gross profit by approximately $8 million.\nFor the six months, gross margin was 40.1%, similar to the same period last year. We delivered net income attributed to the company stockholders of $13 million or $0.23 in the quarter compared to $23 million or $0.45 per share for the same quarter last year. Our effective tax rate for the second quarter of 2021 was 22.6%, which is lower than the 33% effective tax rate from the second quarter of 2020, mainly due to the movement in the valuation allowances for each quarter. We now expect the annual effective tax rate to stand by approximately 33% for the full-year 2021, assuming no material one-time impacts. Adjusted EBITDA decreased 13.6% to $84.5 million in the second quarter, impacted mainly by gross profit reduction and higher G&A expenses, driven by increased legal costs.\nMoving to Slide 6; breaking the revenue down, Electricity segment revenues increased 4% to $134 million, supported by contribution from new added capacity at our Steamboat and McGinness Hill complexes, as well as Puna resumed operation. As Doron mentioned in the opening remarks, these two energy generation was offset by lower generation in Olkaria due to a combination of lower resource performance that caused the capacity reduction and continued curtailment by our local customer KPLC. In addition, our Steamboat Complex had a mechanical issue, it was resolved few days later. And in Brawley, we experienced a surface leak in one of the injection wells, which reduced generation.\nIn the Product segment, revenue declined 83% to $7.4 million, representing 5% of total revenue in the second quarter. The decline year-over-year is expected to continue throughout '21, due to the lower backlog and the beginning -- from the beginning of the year. Energy storage segment revenues increased nearly 124% year-over-year to $5.6 million in the second quarter, representing 4% of our total revenue for the quarter. The growth was mainly driven by revenues from the acquired Pomona energy storage asset and the contribution of our Vallecito facility in California, which started commercial operation in April of 2021.\nLet's move to Slide 7. Gross margin for the Electricity segment for the quarter decreased year-over-year to 37.4%. This was the result of a higher cost related to the repair of the recovery of the Olkaria, Steamboat, and Brawley complexes. In addition, in the second quarter last year, we did record a business interruption insurance recovery of $2.7 million related to Puna complex compared to zero this year. In the Product segment, gross margin was 20.1% in the second quarter compared to 20.6% in the same time last year. The Energy Storage segment reported again a positive gross margin compared to a negative gross margin in the second quarter last year. The improvement was primarily driven by the acquisition of the Pomona Energy Storage assets.\nTurning to Slide 8. Adjusted EBITDA decreased 40% to $84.5 million in the second quarter, impacted mainly by gross profit reduction and higher G&A expenses, driven by increased legal costs. The Electricity segment generated 94% of the total Adjusted EBITDA in the second quarter and the Product segment generated 4%. The Storage segment reported adjusted EBITDA of $2 million, which represent 2% of the total adjusted EBITDA. Reconciliation of EBITDA and adjusted EBITDA are provided in the appendix slide.\nOn Slide 9; our net debt as of June 30, 2021, was $1.40 billion. Cash and cash equivalent and restricted cash and cash equivalent as of June 30 was approximately $330 million compared to $537 million as of year-end. In addition, we had $46 million of marketable securities. Slide 9 breaks down the use of case for the six months and illustrates our ability to reinvest in the business, service debt, and return capital to our shareholders in form of cash dividends. All from cash generated by operation and our strong liquidity position. Our long-term debt as of June 30, 2021, was $1.4 billion, net of deferred financing costs and its payment schedule is presented on Slide 30, in the appendix. The average cost of debt was 4.9%.\nDuring July, we closed two new corporate loan raising approximately $175 million out of which $50 million are green bonds provided HSBC bank. Funds were used to finance the Terra-Gen acquisition. On August 4, 2021, the company Board of Directors declared approved and authorized payment of quarterly dividend of $0.12 per share pursuant to the company's dividend policy. The dividend will be paid on September 1, 2021, to shareholders of record as of the close of business day on August 18, 2021. In addition, we expect to pay dividend of $0.12 per share in the next quarter.\nThat concludes my financial overview. I would like to turn the call over to Doron to discuss some of the recent developments and our growth plan for the next three years.\nDoron?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you, Assi. Turning to Slide 12, for a look at our operating portfolio.\nPower generation in our power plants increased by approximately 2.4% compared to last year. In the second quarter, we see the continued contribution of Steamboat related started operation in mid-2020. The incremental contribution of McGinness Hill for approximately one month and the generation from Puna that is operating still in passive capacity. These were partially offset by continued curtailment in low performance of the field in Olkaria power plant and other operational issues in the US that I will elaborate shortly. We recently completed the expansion of our McGinness Hill facility and are now providing electricity for approximately 6,000 homes, while offsetting approximately 63,000 tons of CO2 emissions, delivering the highest level of efficiency and safety in the geothermal industry. With the addition of the acquired operating assets, we are running one-gigawatt electricity portfolio, an increase of 83-megawatt in the second quarter.\nAs noted on Slide 13, Puna resumed operation in November 2020. We have ramped Puna generation to approximately 28-megawatts, following the repair of a turbine, up from 20-megawatts in our last quarterly report. We expect to reach 30-megawatts by year-end. We have continued discussions with HELCO and the PUC about our new PPA and continue selling electricity under our existing PPA, which is in effect until the end of 2027.\nTurning to Slide 14. Let me discuss some of the challenges we experienced this quarter in a few of our operating assets. And I would start with the known one in Kenya. Our revenue in Olkaria complex was down year-over-year, as a result of continued curtailment and a reduction in the performance of the resource. The combination of which has resulted in approximately a reduction of generating capacity of 25-megawatts. This reduction in capacity reduced our quarterly gross margin by approximately $2.7 million. We are operating to restore the complex generating capacity through our continuous drilling campaign in Kenya, and are optimistic we will see an increase in production through and by the end of the year. We expect a similar quarter reduction in revenue until capacity is fully restored. We also experienced a mechanical failure at our Steamboat Complex, resulting in revenue loss and interest expenses that reduced gross margin by approximately $2 million. The Steamboat complex is now back to full operation.\nIn the Brawley Complex, we had a leak in one of the injections well and a pump failure in one of the production well which caused the reduction of the generating capacity to three-megawatt. We are working to restore full production in Brawley. The second half of 2021 will be impacted by the low performance of the Olkaria and Brawley power plant. And we have updated our annual guidance accordingly.\nTurning to Slide 15. In July, we closed the acquisition Terra-Gen asset. This acquisition added a total net generating capacity of approximately 67.5-megawatts to our portfolio. In addition, we bought the greenfield development asset adjacent to Dixie Valley with high resource potential. And an underutilized transmission line capable of handling between 300-megawatts to 400-megawatts on 230-kilowatt electricity, connecting Dixie Valley to California. With this acquisition, we now own 10 operating plants in Nevada, generating a total of 443-megawatt. The proximity of this plant to population centers in both Nevada and California is important. California remains at the forefront of driving the adoption of renewable energy with supportive mandates and requirements already in place and more being considered. Utility companies in California are increasingly looking for affordable and reliable renewable energy. This dynamic made the acquired transmission lines increasingly important.\nTurning to Slide 16 for an update on our backlog. While the results of our product segment continue to be impacted by the lower backlog at the beginning of the year, we are starting to see encouraging signs of recovery. We have seen clear signs of improvement in this business, including an expansion of our backlog, reinforcing our confidence that this is a short-term phenomenon. As of August 4, 2021, our product segment backlog increased 59% by $22 million to reach $59 million compared to $37 million in early May this year. We signed a few contracts during the quarter, including a new contract with Star Energy Geothermal to supply products to a new 14- megawatt Salak geothermal power plant in Indonesia and then other contract to supply equipment to the project in Japan. Despite the recent improvements in this segment, we anticipate continued weakness in our product revenue during 2021 and have adjusted our annual guidance accordingly.\nPartially offsetting the weakness of the product segment, there has been a consistent improvement in our Energy Storage segment. As I mentioned earlier and as discussed in Slide 17, this business continues to become a more important part of our consolidated results. This quarter our projects in both the East Coast and Texas enjoyed higher revenues due to higher market prices. The Storage Segment again generated positive EBITDA and we released two new project for construction in Ohio and California.\nMoving to Slide 18. As previously mentioned, the supported mandates being implemented in California and the increasing demand for affordable and reliable renewable energy in this state. One example is the recent ruling by CTC [Phonetic] require electrical load service entities LLCs to procure 11.5-gigawatt of new clean electricity by 2026. One gigawatt of this procurement must deliver thermal power with an 80% capacity factor produce zero onsite emission and be weather- independent. No form of renewable energy generation is more poised to fill this slate than geothermal, with a 95% capacity factor and thermal flexible generation. Geothermal energy is not only an excellent complement to intermittent resources, but the natural replacement for baseload fossil fuels and nuclear generation.\nCalifornia efforts to achieve its goal of 100% carbon free electricity by 2045, through massive deployment of renewable energy and energy storage resources enable us to sign new contracts for geothermal and we did this quarter with CPA for 14-megawatt Heber South geothermal power plant in the Imperial Valley, California. We also issued our first ever request for the -- for the 26-megawatt Heber 2 and actively look for opportunities for our storage platform.\nMoving to Slide 20 and 21. As we have communicated, 2021 will be a significant buildup year, comprised mainly of geothermal project. This build up support of robust growth plans, which is expected to increase our total portfolio by almost 50% by the end of 2023. Our medium-term goal in the electricity segment is to add an additional 240-megawatts to 250-megawatts by year-end 2023, above the 80-megawatts added since the beginning of 2021. And in our rapidly growing energy storage portfolio, we plan to enhance our growth and to increase our portfolio by 200-megawatts to 300-megawatts by year-end 2022. Achieving this growth target is expected to help us reach an annual run rate of more than $500 million in adjusted EBITDA toward the end of 2022 that we expect to continue to grow as we move forward with our plans in 2023 and onwards.\nSlide 22 displays 13 projects underway that comprise the majority of our 2023 growth goals. While we are experiencing some delays in the permitting process, we are still on track to meet our growth target for the end of 2023. Moving to Slide 23 and 24, the second layer of our growth has come from the energy storage segment. Slide 23 demonstrates the energy storage facilities, we have announced or started construction. We released two new projects for construction Boeing grant and Pomona [Phonetic]. The other projects included our growth plan are in different stages of development and their release will require site control and execution of an interconnection agreement, all obviously subject to economic justification.\nAs you can see on Slide 24, our energy storage pipeline extends two-gigawatt and plus [Phonetic] include 36 name, potential projects, mainly in Texas, New Jersey, and California.\nMoving to Slide 25, the significant growth in both our electricity and storage segment will require robust capital investment over the next couple of year. To fund this growth, we have over $750 million of cash and available lines of credit. Our total expected capital spend for the remainder of 2021 includes approximately $280 million for capital expenditures as detailed on Slide 31 in the appendix. Overall, Ormat is well positioned with excellent liquidity and ample access to additional capital to fund future initiative.\nPlease turn to Slide 26 for a discussion of our 2021 guidance, which has been revised to account for our recent acquisition in other development previously discussed. We expect total revenues between $650 million and $685 million with Electricity segment's revenues between %585 million and $595 million. We expect Product segment revenues between $400 million and $60 million. Guidance for Energy storage revenue are expected to be between $25 million to $30 million. We expect adjusted EBITDA to be between $400 million and $410 million. We expect annual adjusted EBITDA attributable to minority interest to be approximately $31 million.\nAs noted in previous quarter, adjusted EBITDA guidance for 2021 includes insurance proceeds of approximately $10 million. This concludes our prepared remarks.\nNow, I'd like to open the call for questions. Operator, if you please?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] And our first question will come from Noah Kaye of Oppenheimer. Please, go ahead."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Good morning. Thanks for taking the questions. I guess to start., it looks like you raised your 2023 geothermal portfolio target size for the Terra-Gen acquisitions you just completed and please correct me if I'm wrong, so your organic growth targets then remain the same there. Should we think about that roughly 250-megawatts of further additions as just being an organic target? In other words, is M&A in any part of that or would further M&A be upside?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Hi, Noah. Thanks for the question. The growth targets are organic. So, Terra-Gen was on top of that. And similarly, if we have additional acquisitions, they will be on top of that."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. Can you talk a little bit about plans for using that underutilized transmission line? What in the initial planning stages seems most likely a geothermal expansion and a new solar facility? What would make the most sense? And when might that transpire?"
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "Good morning, Noah. This is Assi. So, basically, we have two options. The first option is to continue and develop more assets in Nevada, like we are planning to and to add them to -- and move more electricity to California with this line. Although as we mentioned during our calls before there is a bottleneck in control in California that will need to be -- we have to take into consideration. The second option is to allow third-parties to use this line, while keeping our capacity to ourselves, and it's something we are also looking into, either doing it by offering capacity to others or by joint venturing the access to third-party. And I will say this is a very good assets, especially knowing the fact that the PUC now is requiring the utilities in California to increase the amount of renewable and baseload renewable in California. And that's why we think there will be a lot of demand over time. All of it of course, is subject to permit and the ability to either increase the capacity. the bottleneck in the control area or to bypass it by using third-party lines."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. Thanks, Assi. That's helpful. The next question is really around operational focus,. I think what we're trying to understand is, are there any common threads to some of the issues that you called out here, you know, the Brawley [Phonetic], the transformer issue at Steamboat, you talked with us before about Olkaria, you mentioned permitting delays for some of the new project that looks like the timing has been pushed out a little bit for a couple of those? Is there any kind of common thread, because certainly we've seen a lot of company struggle with everything from labor availability to logistics issues? I just want to understand, if there is a common thread for you right now. And what's your pain points are? And how you're working to overcome those?"
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "No. The simple answer is no. We don't see any similar trend between the -- all of these. And you -- if you look about different, states different countries, different technologies and somewhat. So I think each one has its own unique situation geothermal asset is an asset that we've been operating for many years and needs to be maintained and operated. This quarter, some of the items happened together. But usually they don't happen in one, but there is no common thread to all of them. These are different items in different locations. And the only one that maybe does have some -- related is the, the last one on the permitting that you said is causing delays in projects and that's related to COVID. The fact that the BLM and the other regulator not all of them are working from the office or not working too much. So, that's the only I think common denominator across project is the permitting issue."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Okay. Thanks. And I think last quarter you touched briefly on the independent Board Committee review. And some of the dialog you're having with some of the regulators. Can you just give us an update there?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "The only thing you know, I can update and I think that's quite common is that we continue to cooperate with the regulator. We don't have any timeframe for this investigation, as is customary, and we can't elaborate on it until they finish what they're doing."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "I mean, what they -- the committee or what the regulators are doing, outside?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Both of them. The one other thing I would say is that, as you probably know Noah, this is quite common. The fact that you cannot comment until they finished, but you should not infer anything from this anyway. Okay."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "speech": "Yes. Okay. Thank you very much. Appreciate it."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question will come from Julien Dumoulin Smith with Bank of America Securities. Please, go ahead."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Hey, good morning, team or good afternoon as maybe. Thank you for the opportunity. I wanted to start first off on California here and just talk about one the repricing opportunity, admittedly some of your peers have pointed to some of the sharpest revisions upwards in pricing in your geographies and frankly a couple of decades. So, I'm curious, perhaps not necessarily where the status of those negotiations are, to the extent to which that you have some repricing opportunities, but maybe speak to some of the near-dated contract expirations and or any ability to blend and extend if you will, to pre-emptively address these contract expirations in the future. As well as, if you don't mind, some of the opportunities derived out of the latest transmission line acquisition in Nevada and associated geothermal expansion opportunities there?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Okay. Thank you. Well, I can -- definitely confirming what you said, we see an uplift in pricing. We see a much greater demand for renewable energy in California and obviously that leads to other states surrounding California. And this is something that happened over the last few weeks actually and got much more intense with the CPUC decision and the requirements of that I mentioned before. We are in various discussions on various PPAs. And we actually feel much, much stronger today in the discussion. I also mentioned if you -- in the call, the fact that we should a request for bid, basically we are offering our Heber 2 complex to utilities and CCA to bid for it. So, the market is definitely after quite a long time changing to our benefit. And regarding the transmission line, I think Assi mentioned, it's a unique asset connecting Nevada to California. The current situation is that we do get to the control substation which is [indecipherable]. And we are discussing and we've been approached by various transmission companies to see how we can combine forces in order to utilize this line and transfer electricity from Nevada to wherever is required."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Got it. And maybe on balance, if you look at the pricing across your portfolio, whether the Heber Complex or Steamboat or Brawley, I mean, do you see a net increase in pricing here based on where the current mark-to-market over time? I know that this may be somewhat transient and obviously, you can see it until the contract signed, but just understanding on the repricing as you think about overtime here and obviously it's not tomorrow. But, and any comments Doron?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Look it's very hard because it's site-specific I would say, some sites might enjoy a higher pricing, others lower you know. Prices are still not as high as there were in 2010, and 2021, as we know, we signed [indecipherable] for $99; and that pressure is not coming back I think, looked very, very much site specific. And also it depends on the time that when it started negotiation and agreed on the terms of the PPA as well."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Got it. Excellent. And if I can pivot back to the focus of broadened Kenya, and some of their cost cutting efforts here. Can you comment on the status of that? And to what extent and if you are engaged in conversations directly with them around curtailment relief and or any other potential lease? In perhaps to any, shall we say, any other updates on these [Phonetic] more broadly, but I suppose specifically here on the Kenyan side or just their cost cutting efforts?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "We can start with the basic. The basic that we have a signed contract with the Kenyan KPLC which is the government on utility company. The project is financed by the DFC previously, OPIC US government bank, and that's the basis. We have seen in the press and in other places discussion both ranked reduce prices. There has been committee set in Kenya to look at this. And I think as you mentioned you know, Ormat is very well looking for always to win-win situation with its customers. We're in Kenya for the long term, we've been operating in Kenya for more than 20 years and we expect to operate a longer and we have been discussing with some of these committees that were set. And whatever we will find, it will be a win-win situation for Ormat and for Kenya because we do see us as a long-term player there, supporting the renewable energy, and geothermal energy in Kenya, and there is always room to make agreement for both parties. Although at this stage, some discussions over there, but it's very, very early discussions."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Great. Do you mind clarifying that on timeline? I know that -- the Kenyan because there I suppose it was -- supposed to be something of a six-month process, but as you say, it's early still, and it's been ongoing for a bit. Any broad sense of timeline? Is it this year kind of resolution you think?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "No. We don't have any sense of any timeline from them. Obviously, we are in no rush. So, there is no, any sense of timeline. As I said, we are at a very, very early general discussion that they started with us, as well as with other IPPs and not targeted at Ormat, but general discussion the last month."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Got it. And sorry, just the last one here. I apologize. With respect to your storage efforts here, there's has been availability questions, as people have been scaling their efforts, pricing impacts, et cetera. Any comments there on your specific efforts underway in terms of just being able to execute on time and on budget? Any material..."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "No. Our plans that are on the -- presentation are on time. We have all require there -- or expect to able to acquire batteries. We have a long-term agreement with battery suppliers with commitments on delivery and pricing. So, as long as they stand with the contract, we should be on time, with all the project as we announced them."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Excellent. All right. Well, I will leave it there. Thank you all for your patience today."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Our next question comes from Jeff Osborne with Cowen and Company. Please, go ahead"
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "Yeah. Good afternoon. Just a couple on my end. I was wondering if you could give us a walk on the old guidance to the new guidance and some of the moving parts. So, you've obviously have the acquisition and then you have the underperformance of the three sites. I was wondering if you could sort of bridge the gap of what the acquisition is adding relative to the deficiencies of the three locations?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Okay. Look, so, basically, there is two items that they worked through the guidance, on one hand addition of Tetra-Gen. In the announcement of the Tetra-Gen closing, we said that in 2022, we expect $35 million of EBITDA. Obviously, we don't have the full six months and we need to upgrade to beat the system, so that's the positive. On the negative side, we have the issue that I mentioned in Kenya, mainly in Brawley. And also, the gen [Phonetic], legal expenses that we had significantly higher this quarter."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "So, is the safe assumption, without the acquisition, but with the legal expenses in the Raleigh and Olkaria facility guidance would have been down or no?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "If you don't take into consideration the changes in the Brawley, Olkaria and Steamboat the projection would not just come down, besides the fact that we lowered by $10 million the guidance of the product segment. But on the Electricity segment all of the, I will say, what was offsetting Terra-Gen is the issues that we had. And now as we said on the script, Steamboat already back to full capacity and we do expect by the end of the year Olkaria to go back to normal."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "Got it. And just a couple of follow-ups on Julien's question. So, on Kenya, can you touch on the payment capability or the terms? Are they becoming current on their past due payments?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "As I said in the last few quarters, the KPLC has been very good making ongoing payments. They are actually making all the ongoing payments, but they are not making a lot of progress in paying the due payments as of the end of the year. But I will say in general, since July of 2020, they've been making all the payment."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "That's good to hear. And then can you touch on what the M&A pipeline looks like? Do you anticipate any other sizable acquisition similar to Terra-Gen? in the coming quarter two or no?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Honestly, you cannot comment on any specific M&A. I can say that we are looking at various M&A opportunities, mainly in the energy storage like Pomona [Phonetic] acquisition and that I think the most we can say at this time."
+    },
+    {
+      "speaker": "Jeff Osborne",
+      "speech": "Got it. And last question is, just following up again on Julien's question on pricing. Is there any contracts that are up for renewal in 2022 of existing facilities other than the Heber 2 RFP that you have outstanding for the September response?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "I think the first one is in '23, not in '22. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question comes from David Lewis with Atlas. Please, go ahead."
+    },
+    {
+      "speaker": "Ella Fried",
+      "speech": "Hi, David here from Atlas Impact Partners. Just a quick question if I may just on Hawaii and your comment about the new PPA being suspended. Can you sort of talk me through what does that mean in terms of specific financial implications for you now and in 2022?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "The new PPA, that the QC has suspended included refurbishment of the existing facility that would have taken us about two years and following that we would have had an increase of the PPA and the generation two [Phonetic] about 46-megawatts. We have a PPA today for 38-megawatts and till the end of '27. So, specifically for 2022 and 2023 this doesn't have an impact. The suspension of the PPA might have a delay of yield something and once it is approved, but again the real impact is about eight-megawatts of additional PPA."
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "If I may add Doron, on side David, the COVID crisis in the Puna actually higher than the new PPA. You know, oil prices are somewhere between $68 to $70 bucks right now. And therefore what we actually getting is the revenue is more than what we would have made otherwise in 2021 and 2022. So, at this point, it has a positive impact on us, and that's why we think that there is a very good reason for our customer over there to try and push this decision because it will lower the average price of the PPA. And what we will get it return is more capacity on one hand and many, many more years of extension of the PPA."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "I'm sorry, could you just clarify again. Why was the -- what is the problem that the PUC has without PPA?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "The PUC doesn't have a problem with the PPA. They've actually reached out to the DLNR [Phonetic] and the local county and asking them or acquire them to see if we need to do an environmental impact study or not. So, the power plant is operating for many years, that the PUC raised the question. We have been discussing with the in the DLNR in the county. And we do not think there is a need for such study. But we also don't think this study will change the decision of the PUC. Because there is a part of geothermal power plant operating over there. And the new power plant will be a newer power plant, a smaller site facility, less emission and more efficient. So, actually, from the environment perspective, it's a positive, but still PUC suspended it, and asked whether or not we need to do an environmental impact study."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Okay. Got you. And can I just-can't get as clear. Can I just come back to the, I guess the sort of the technical issues at Steamboat, Brawley, and would you characterize these as sort of like you are to some extent just unlucky that either both happen at the same time? Or is this something that will you think is sort of, we should think about sort of recurring on a regular basis? How should we sort of think about this as investors? Because it's M&A is, $8 million effectively means that you haven't -- you're offsetting that with an acquisition, but it is a bit of a hit. I'm just trying to understand how do you sort of think about what's happened? And how should we sort of think about the potential frequency of that?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "No, this is the fact that they were combined in one quarter is unlucky. I can tell you the time here for eight years. And I think we had only one quarter in which year, in '17 or something that we had similar item between the fuel mechanical issues, but this is a very unlucky that third in the same quarter and that is all because we do try to maintain the power plants to avoid any issues like that, it might happen, but having both of them in the same quarter. Unlucky."
+    },
+    {
+      "speaker": "Unidentified Participant",
+      "speech": "Yeah. Okay. Thank you."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you, David."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question comes from Ella Fried with Bank Leumi. Please, go ahead."
+    },
+    {
+      "speaker": "Ella Fried",
+      "speech": "Hello, and good afternoon. Well, I have a couple of questions left. The first one is a broader question or request to discuss if you could, the more broader look at the geothermal energy and the commercial aspect of the product segment. As the return on assets in a more mainstream in sectors like wind and solar has decreased in many countries, do you see the return of the product sector to the pre-corona levels. Like a few years ago or you think it will be a very slow increase if to the levels that are closer to the current levels or you see the demand coming actually for the energy in general and for your product sector and specifically."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you, Ella. So we see move to more renewable, everywhere we see a move to more geothermal everywhere and over the last few months we've seen actually a recovery on the product segment, on more projects being tendered and more developers globally trying to develop and use geothermal power plants. Our backlog went up this last quarter, but also this quarter and we hope that this trend will continue and we look at the pipeline that we have and the contracts that we are tendering and negotiating today. And on the geothermal. In general, I think we see this is an outcome of the basic demand for geothermal. Any country outside of the US that has geothermal potential wants to develop geothermal. This is the only base load and renewable energy. And in the US we see increased demand with the CPUC requirements of 11.5 gigawatt of renewable energy and out of that one gigawatt of 80% availability, which basically is geothermal."
+    },
+    {
+      "speaker": "Ella Fried",
+      "speech": "Only."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "So we see this demand increasing. We have been approached following. I think they after this CPUC ruling. We've been approached by some of the CPA's looking to sign PPAs. So we see a greater demand for geothermal. We don't see a change in the returns globally or in the US in geothermal and we are actually looking for the new Biden Administration Act that will continue to support the renewable energy, including geothermal and energy storage market."
+    },
+    {
+      "speaker": "Ella Fried",
+      "speech": "So if we look at the levels of over $100 million and $120 million dollars a year. Is it feasibly possible in the next, let's say, two, three years or you think it will be slower demand?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Look, I think you need to follow the backlog, as an the backlog grow, I would expect the revenue of the product segment to grow in. I don't know to say now that it will reach 200 or anything like that. We give guidance one year ahead, but the backlog increase i think is a good sign that the will support revenue as we go into future years.."
+    },
+    {
+      "speaker": "Ella Fried",
+      "speech": "Okay, thank you. And the next question is regarding Japan, if I'm not mistaken, that's the first time actually you mentioned in Japan and I remember that you had historical agreement with ORIX about. I don't know if it's still existent, about having -- their priority actually in the Japanese territory. So if you could say few words about the Japanese project that you mentioned?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "The project in Japan is not connected to ORIX, it's a different company. It's not a large project, Japan most of the project in Japan that we see are smaller ones. We've done a few in the past. The agreement with ORIX is still in effect. So we do have priority. But at this stage, we don't have any soon to go project. If they will have a project, so we will have priority, but hopefully we'll be able to do it."
+    },
+    {
+      "speaker": "Ella Fried",
+      "speech": "So it's a quite kind of stand-alone at this point. Okay and financial question, also quite general, but if you could relate about the development of net debt during -- you spoke about the resources that the company has. But the net debt, can we assume that there will be an increase of, let's say 15% in the next two years or kind of in this area, because when I just put the numbers together, I expect, when I'm modeling the numbers together there seems to be an increase of about, at least $200, if I'm not mistaken?"
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "So, Ella. This is Assi. I will answer, as of the end of the quarter, it was roughly $1 billion. We do expect we close the transaction in July of the Terra-Gen that's for a total of $380 million. So that will immediately increase our net debt, roughly $1.4 billion. And then if you look from now until the end of the year, we did give guidance of roughly $275 million of capex. Net of our free cash flow, this should result in additional increase in net debt of roughly $7200 million. When you take it all to consideration, our net debt toward the end of the year will be closer to $1.5 billion. I will say though, at that point we already invested the majority amounts to -- If you look at the page of the asset that we are building, most of them will start during 2022, but the majority of the amounts [indecipherable] North Valley was already invested and that's why when you look at the net to debt, our EBITDA at that point be closer to the $500 million and that will put us back to roughly three times net debt to EBITDA."
+    },
+    {
+      "speaker": "Ella Fried",
+      "speech": "Okay. Assi and thank you very much for the clear answer. And thank you for taking my questions."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And our next question is a follow-up from Julien Dumoulin Smith of Bank of America Securities. Please go ahead."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Sorry, guys. I've some today. But I just want to go back, at the top of the call perhaps, you all talked about your organic targets here, the year-end '21 run rate and you talked about Terra-Gen being incremental to that target. I just want to make sure we're crystal clear about that, right. If you had a number of puts and pulls, whether it is Hawaii PPA the Product segment, et- cetera. I just want to be very clear that despite the use of your balance sheet that Terra-Gen transaction is indeed incremental to that, year-end target you all approved, that run rate target you all put out there recently?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Look, the numbers that we said last quarter was a little bit approximately $500 million, today, we believe, will be more than $500 million. We're seeing more than $500 million, including Terra-Gen, some of the delays in the permitting have impacted 2022 and potentially EBITDA, planned EBITDA.. So we do expect to be above 500, but at this time, we cannot say that the full impact of Terra-Gen will be on top of the 500."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Okay, all right, excellent. Yes, I just wanted to make sure I heard you right there. And then, certainly clarify this, this transmission investment, you talked about earlier, is that -- you all have the transmission Interconnect all ready, right, you talked about higher interconnect cost, but you all already on this transmission line as part of the transaction, that's valuable piece here, right, I just want to clarify this, in terms of putting that to work in timeline here?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Yes, that's correct. We own the transmission line or to say that this is an underutilized asset because of the control substation and today, the only generation this can be will over the transmission line is the Dixie out of the 60 megawatt PPA. And we are working with other transmission companies that have approached us to see how we can fully utilize this line and either upgrading the control substation or bypassing in other substations and connecting Nevada to California, with an additional line in additional capacity. So this is an additional assets that is not utilized and in the next few years will be utilized."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Got it. Just to clarify that. Is the transmission interconnect into [indecipherable] the incremental cost because you already have the transmission line itself?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "The added capacity above the 60 mega that we already connected to Kaizen [Phonetic]."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Julian. Hello?"
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Can you hear now?"
+    },
+    {
+      "speaker": "Assaf Ginzburg",
+      "speech": "We didn't hear you Julien."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "I apologize. Yes, it was just with respect to -- once you resolve the transmission interconnect upgrade costs in the California, not the fact that you own a transmission line, then that will unlock your ability to scale up that the capacity on-site. And I suppose, just to summarize that the expectation that you will be participating in this upcoming California space?"
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "I wouldn't say that there is also a way buy best control to utilizing third party fee lines and that's why I will not say that for sure we will grow and try and increase the capacity of control system. So, I think this is to be to be discussed in future calls."
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "speech": "Excellent. Okay. Well, best of luck. Thank you again for all the time."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to Doron Blachar for any closing remarks."
+    },
+    {
+      "speaker": "Doron Blachar",
+      "speech": "Thank you. So, thank you, everyone. This was as you've seen a very productive quarter. We are continually focusing on increasing and investing in our portfolio in the geothermal and the energy storage in order to grow the business and to meet the enhanced demand that we see today in California and outside of the US. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 59 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Rob Fink--Investor Relations",
+    "Doron Blachar--Chief Executive Officer",
+    "Assaf Ginzburg--Chief Financial Officer",
+    "Noah Kaye--Oppenheimer -- Analyst",
+    "Julien Dumoulin Smith--Bank of America Securities -- Analyst",
+    "Jeff Osborne--Cowen & Company -- Analyst",
+    "Ella Fried--Bank Leumi -- Analyst",
+    "Unidentified Participant"
+  ]
+}

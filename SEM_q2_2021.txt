@@ -1,0 +1,268 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, and thank you for joining us today for Select Medical Holdings Corporation's earnings conference call to discuss the second-quarter 2021 results and the company's business outlook. Speaking today are the company's executive chairman and co-founder, Robert Ortenzio; and the company's executive vice president and chief financial officer, Martin Jackson. Management will give you an overview of the quarter and then, open the call for questions. Before we get started, we would like to remind you that this conference call may contain forward-looking statements regarding future events or the future financial performance of the company, including, without limitation, statements regarding operating results, growth opportunities and other statements that refer to Select Medical's plans, expectations, strategies, intentions and beliefs.\nThese forward-looking statements are based on the information available to management of Select Medical today, and the company assumed no obligation to update these statements as circumstances change. At this time, I will turn the conference over to Mr. Robert Ortenzio."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Thank you, operator. Good morning, everyone. Thanks for joining us for Select Medical's second-quarter earnings conference call for 2021. We are very pleased with the financial results of the quarter, as well as a number of other business goals that we accomplished during the quarter.\nWe experienced top-line growth in all four of our business segments compared to both the same quarter last year and pre-pandemic same quarter in 2019. The volumes in our inpatient/outpatient business segments are trending very nicely and are well above pre-pandemic volume numbers. In addition to the volume growth, the inpatient and outpatient rehabilitation hospitals and clinics posted their highest quarters for adjusted EBITDA in the history of the company. Concentra has made nice strides with volume improvement as more industries such as airlines, hospitality, municipalities and schools reopen.\nOn the development front, on May 1, Scripps Healthcare entered into our existing joint venture partnership with UC San Diego Health on our 110-bed critical illness recovery hospital in San Diego, California. In June, we closed on a new outpatient joint venture with Mon Health in West Virginia, which marked our entry into the state for outpatient rehab. On July 1, we entered into a new long-term acute care hospital joint venture with Ascension Saint Thomas in Nashville, contributing our 70-bed Nashville hospital to the joint venture and moving forward with plans to add a 30-bed satellite hospital within a hospital at their Saint Thomas West Campus later this year. Also on July 1, we entered into a new joint venture with CHS Northwest Healthcare in Tucson, Arizona, and acquired a 47-bed long-term acute care hospital, here at Tucson, which we plan to relocate to Northwest Medical Center later this year.\nAnd earlier the -- earlier this week, we entered into a new outpatient rehab joint ventures with Cedars-Sinai in Los Angeles, California, contributing our 26 outpatient clinics in that market to the joint venture. We continue to work on finalizing the acquisition of Acuity Healthcare, which operates five long-term acute care hospitals through joint venture partnerships in New Jersey and West Virginia. We expect the deal to close sometime late Q3 or early Q4. Our development pipeline remain strong as we continue to look for opportunities to expand our footprint and partner with leading healthcare institutions throughout the country.\nIn addition, last week, U.S. News & World Report released our annual rankings of top rehabilitation hospitals in the country. Our Kessler Institute of Rehabilitation in New Jersey was ranked No. 4 in the country, it's 29th consecutive year of being named among the nation's best.\nIn addition, this year, for the first time, we have three of our joint venture partner hospitals making the list. They are Baylor Scott & White Institute for Rehabilitation in Dallas at No. 13, Emory Rehabilitation Hospital in Atlanta at No. 26 and OhioHealth Rehabilitation Hospital in Columbus, Ohio at No.\n34. I couldn't be more proud of our clinician, clinical and operational teams at these hospitals and throughout the rest of our portfolio of hospitals for their hard work, expertise and dedication to the care and treatment of our patients. Two other items I wanted to note are the Centers for Disease and Control the CDC and Select Medical collaborated on a clinical study regarding long-term impact of COVID-19, which was recently published in the morbidity and mortality weekly report. Finally, as noted in our earnings press release yesterday, our board has declared a $0.125 per share dividend that will be payable August 30 to shareholders of record on August 18.\nAs we've done over the past year, we have outlined our business segment monthly revenue, volume and occupancy statistics in our earnings press release and public filings. This quarter, we also included monthly results from 2019 to provide a data point, where each of our business segments were prior to the pandemic compared to where they are currently. We will continue to include this information as long as it provides meaningful insight to the impact of COVID-19 on the company's financial performance. Overall, for the second -- revenue for the second quarter increased 26.9% to $1.56 billion and for year to date has increased 17.5% to $3.11 billion.\nRevenue in our critical illness recovery hospital segment in the second quarter increased 4.7% to $544 million, compared to $520 million in the same quarter last year. Patient days were down 1.4%, compared to the same quarter last year with 273,000 patient days in the quarter. Occupancy in our critical illness recovery hospital segment was 69% in the second quarter, compared to 72% in the same quarter last year and 69% in the second quarter of 2019. Revenue per patient day increased 6.4% to $1,986 per patient day in the second quarter.\nCase mix index in our critical illness recovery hospitals was 1.33 in the second quarter, compared to 1.32 in the same quarter last year. As we had mentioned in our most recent earnings call, staffing remains an issue in the critical illness recovery hospitals and it did have an impact on the number of patients we were able to admit for the quarter. We had a number of our hospitals that were unable to accept patients due to lack of clinician availability. This cap in census represents a reduction of occupancy of approximately 1.5%.\nI would like to point out that these staffing challenges have been isolated to our critical illness recovery hospitals, and we have not experienced this issue in any of our other business segments. Revenue in our rehabilitation hospital segment in the second quarter increased 26.1% to $213 million, compared to $169 million in the same quarter last year. Patient days increased 24.8%, compared to the same quarter last year, with almost 105,000 patient days. Occupancy in our rehab hospitals was 85% in the second quarter, compared to 71% in the same quarter last year and 75% in the second quarter of 2019.\nRevenue per patient day increased $0.01 to $1,840 per day in the second quarter. Revenue in our outpatient rehab segment in the second quarter increased 67.8% to $280 million, compared to $167 million in the same quarter last year. Patient visits were up 79.2% with 2.4 million visits in the quarter, compared to 1.3 million visits in the same quarter last year and 2.2 million visits in the second quarter of 2019. Our revenue per visit was $102 in the second quarter, compared to $106 per visit in the same quarter last year.\nThis reduction in rate is due to a change in our payer mix caused by the pandemic and related lockdowns. Revenue in our Concentra segment in the second quarter increased 46.1% to $456 million, compared to $312 million in the same quarter last year. For the centers, patient visits were up 40.9% to 3 million visits, compared to 2.15 million visits in the same quarter last year and 3.1 million visits in the second quarter of 2019. Revenue per visit in the centers increased to $125 in the second quarter, compared to $124 in the same quarter last year.\nI also want to recognize $98 million in other operating income in the second quarter related to the fund we received under the CARES Act Provider Relief for incremental costs and lost revenues incurred as a result of the COVID pandemic. Last year, we recognized $55 million in other operating income related to these funds. The adjusted EBITDA result for our critical illness recovery hospital, rehabilitation hospital and outpatient rehab segments do not include any recognition of this income. We record other operating income related to those segments under our other activities.\nAdjusted EBITDA results for our Concentra segment included recognition of this income, including $32.3 million in the second quarter of this year and $800,000 in the same quarter last year. Total company adjusted EBITDA for the second quarter increased 91.3% to $342 million, compared to $178.8 million in the same quarter last year. Our consolidated adjusted EBITDA margin was 21.9% for the second quarter, compared to 14.5% for the same quarter last year. Our critical illness recovery hospital segment adjusted EBITDA was $72.9 million in the second quarter, compared to $89.7 million in the same quarter last year.\nAdjusted EBITDA margin for the segment was 13.4% in the second quarter, compared to 17.3% in the same quarter last year. We experienced a deterioration of EBITDA margin in the quarter due to significantly higher nursing cost, which was driven by both an increase of both hours and rates of agency staffing. Our rehabilitation hospital segment adjusted EBITDA increased 83.9% to $50.8 million in the second quarter, compared to $27.6 million in the same quarter last year. Adjusted EBITDA margin for the rehab hospital segment was 23.9% in the second quarter, compared to 16.4% in the same quarter last year.\nOur outpatient rehab adjusted EBITDA was $45.6 million in the second quarter, compared to adjusted EBITDA loss of $6.3 million in the same quarter last year. Adjusted EBITDA margin for the outpatient segment was 16.3% in the second quarter. Our Concentra adjusted EBITDA increased 230.3% to $137.1 million in the second quarter, including the $32 million in CARES Act payments recognized in the quarter. This compares to $41 million in the same quarter last year, which included $800,000 in CARES' payment recognition.\nAdjusted EBITDA margin was 30% in the second quarter, compared to 13.3% in the same quarter last year. Excluding the $32.3 million of CARES Act payments, the adjusted EBITDA margin would have been 23% for the quarter. Earnings per common share increased 213% to $1.22 for the second quarter, compared to $0.39 for the same quarter last year. In both periods, our earnings per common share was positively affected by the CARES Act Provider Relief Funds recognized in the respective quarters.\nExcluding the CARES Act income, earnings per share would have been $0.72 in the second quarter this year and $0.09 per share in the same quarter last year. On the regulatory front, last week, CMS issued the final inpatient rehab rules for fiscal 2022, effective October 1 of this year. The final rule includes a 2.3% increase in the standard payment amount, which is slightly less than the 2.5 % included in the proposed rule. In addition, the high-cost outlier threshold increased by 20%, which was slightly worse than what was in the proposed rule.\nThe CMG relative weight and average length of stay values were also updated in the final rule. Finally, this week, CMS also issued the final LTAC rules for fiscal '22. The final rule included a 2.2% increase in the federal base rate, again, slightly less than the 2.5% increase outlined in the proposed rule. The high-cost outlier threshold was increased 21% and the MS-LTC-DRG relative weights and expected length of stays were also updated in the final rule.\nThat concludes my remarks, and I'll turn it over to Marty Jackson for some additional financial details before we open the call for questions."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Thanks, Bob. Good morning, everyone. For the second quarter, our operating expenses, which include our cost of services and general administrative expense were $1.33 billion or 84.9% of revenue. For the same quarter last year, operating expenses were $1.12 billion and 90.5% of revenues.\nCost of services were $1.29 billion for the second quarter. This compares to $1.08 billion in the same quarter last year. As a percent of revenue, cost of services were 82.6% in the second quarter. This compares to 87.8% in the same quarter last year.\nG&A expense was $35.7 million in the second quarter. This compares to $33.5 million in the same quarter last year. G&A as a percent of revenue was 2.3% in the second quarter, compared to 2.7% of revenue for the same quarter last year. As Bob mentioned, total adjusted EBITDA was $342 million, and adjusted EBITDA margin was $21.9 million for the second quarter.\nThis compares to total adjusted EBITDA of $178.8 million and an adjusted EBITDA margin of 14.5% in the same quarter last year. Excluding the CARES Act income recognized in the quarter, adjusted EBITDA margins would have been 15.6% in the second quarter this year and 10% in the same quarter last year. Depreciation and amortization was $51 million in the second quarter. This compares to $52.3 million in the same quarter last year.\nWe generated $11.8 million in equity and earnings of unconsolidated subsidiaries during the second quarter. This compares to $8.3 million in the same quarter last year. Interest expense was $33.9 million in the second quarter. This compares to $37.4 million in the same quarter last year.\nWe recorded income tax expense of $65.7 million in the second quarter this year, which represents an effective tax rate of 25.1%. This compares to the tax expense of $23.3 million and an effective rate of 25.7% in the same quarter last year. Net income attributable to noncontrolling interest were $31.3 million in the second quarter. This compares to $15.8 million in the same quarter last year.\nNet income attributable to Select Medical Holdings was $164.9 million in the second quarter and earnings per common share were $1.22. At the end of the second quarter, we had $3.4 billion of debt outstanding and over $800 million of cash on the balance sheet. Our debt balance at the end of the quarter included $2.1 billion in term loans, $1.2 billion in 6.25% senior notes and $70 million of other miscellaneous debt. Net leverage based on the credit agreement EBITDA dropped to 2.51 times at the end of the second quarter.\nThis is down from 3.02 times at the end of the first quarter and 3.48 times at the end of the year. On June 2, we completed an amendment to Select and Concentra revolving loans. We increased the availability on Select's revolving loan from $450 million to $650 million and simultaneously canceled the $100 million Concentra revolving loan, which was set to mature in March of next year. Neither revolving loans had any borrowings outstanding.\nOperating activities provided $123.1 million of cash flow in the second quarter. Our days sales outstanding, or DSO, was 54 days at June 30, 2021. This compared to 56 days at both March 31, 2021 and December 31, 2020. During the second quarter, we repaid $73 million of Medicare advances.\nAnd as of June 30, 2021, we have $251 million remaining on the balance sheet. We expect similar quarterly recruitments until the advancements are fully repaid. Investment activities used $35.7 million of cash in the second quarter. The use of cash included $36.7 million in the purchase of property and equipment and $8.4 million acquisition and investment activity in the quarter.\nWe also generated $9.4 million in proceeds from the sale of assets in the quarter. Financing activities used $34.3 million of cash in the second quarter. This included $16.9 million in dividend payments, $9.8 million in net payments and distributions to noncontrolling interest, and $6 million in repayments of other debt in the quarter. Our total available liquidity at the end of the second quarter was almost $1.4 billion, which includes the $800 million of cash, and close to $595 million in revolver availability under the Select credit agreement.\nAdditionally, in our earnings press release, we provided an updated business outlook for calendar-year 2021. For the full year of 2021, we now expect revenue in the range of $5.85 billion to $6.05 billion. Expected adjusted EBITDA to be in the range of $970 million to $1 billion and expected earnings per common share to be in the range of $2.91 to $3.08. This concludes our prepared remarks.\nAnd at this time, we would like to turn it back over to the operator to open up the call for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Our first question comes from Frank Morgan of RBC Capital Markets. Please proceed."
+    },
+    {
+      "speaker": "Frank Morgan",
+      "speech": "Good, good morning, and good, good results. First question on labor, certainly a common theme this quarter across earnings calls. I'm just curious, when you identified this issue to be specific to your critical care units. Just curious is why do you think it's more prevalent in that particular area versus other settings? And then, maybe talk about the contract labor usage.\nYou said it was continued during the quarter to be higher, but maybe any more recent trends since the end of the quarter related to either usage or rate?"
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Thanks, Frank, it's Bob. Yeah, it is curious. I think, a lot of people assume that in a specialty hospital environment, whether it's rehab or LTAC, you would experience the same nurse or same staffing challenges is really not the case. In the critical illness recovery hospitals, we really compete with the general acute care hospitals, and we have a -- typically a higher threshold for nurses, oftentimes their critical care nurses, and they're being recruited heavily by the acute care hospital industry, and there's just a difficult environment and many nurses are leaving that environment.\nI think, that's probably consistent with what you've heard from kind of other providers. So that's really the reason why this clinical shortage, primarily nursing is -- has been isolated to our critical illness recovery hospitals and not the rehab hospitals or our outpatient or the Concentra segment. As to the agency use, I'll let Marty make a few comments on that."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Yeah, Frank, what we had seen is in the first quarter of '21, we had really peaked with regards to the increase in the nursing rates. There was a significant increase from Q3 of '20 to Q4 of '20, and then Q1, we really saw the increase. We saw that drop this quarter. Now having said that, I would anticipate that we would see it either be flat or start to increase a little bit.\nWe are starting to see significant referrals that our operators are telling us are related to the Delta variant, which just means we are going to need more nurses. So I would expect that to continue probably at least through the next quarter."
+    },
+    {
+      "speaker": "Frank Morgan",
+      "speech": "Gotcha. And then, on the rate side for the contract labor, I'm guessing that's probably still elevated."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Yes, it is."
+    },
+    {
+      "speaker": "Frank Morgan",
+      "speech": "Gotcha. And then, any change in the -- I think you called out some admission holds, maybe no specific numbers, but just generally speaking, has that gotten any better or is it about the same?"
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "We think it's gotten better. What we've done is we've increased the rates that we'll pay for agency nurses. So we have started to see that flow."
+    },
+    {
+      "speaker": "Frank Morgan",
+      "speech": "Gotcha. And then, maybe switching over, I guess, staying on labor, you did have a competitor who specifically called out labor shortages issues in the outpatient setting, but just wanted to maybe get a reiteration on that side, specifically in the outpatient clinic or the Concentra business, no PT staffing issues."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Well, there are shortages, but I think our team has handled it quite well, and it has not resulted in us not being able to see patients. And I think, that you can tie that just to overall employment difficulty attracting people in the general employment market."
+    },
+    {
+      "speaker": "Frank Morgan",
+      "speech": "Gotcha. Maybe just last one on the guidance, and I'll hop back in the queue. When you think about the second half of the year, I'm assuming that you're looking for a more normal seasonal pattern in the second half of the year and maybe just when you think about between third and fourth quarters, could you maybe give us some relative weighting between those two when you think about where you're guiding to? Thanks."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Yeah, Frank, what we have done in our expectations for Q3 and Q4 should really be based on what we've seen historically. If you go back and you take a look at through 2019, typically first and second quarters were higher than the third and the fourth quarter. So what we basically forecasted is that third and fourth quarter is going to go back more toward 2019 as opposed to 2020."
+    },
+    {
+      "speaker": "Frank Morgan",
+      "speech": "OK, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Justin Bowers of Deutsche Bank. Please proceed."
+    },
+    {
+      "speaker": "Justin Bowers",
+      "speech": "Hey, good morning, everyone. So just sticking with the guide there. Is there other, I understand there's -- you're looking for a normal return of seasonality, but are there any other kind of notable items to call out either in 3Q or 4Q? And then, the follow-up to that would be, are you -- is there any relief funds assumed in the back half of this year as well? I know that there's still some on the balance sheet."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Yeah, Justin, there are no additional CARES dollars that are included in Q3 and Q4. Most of those have been -- as a matter of fact, almost all of those have been taken in the second quarter. With regards to pointing out the third and the fourth quarter, all of the businesses are doing very well from a volume perspective. We're very pleased with what we see on inpatient rehab, on outpatient rehab.\nConcentra has done a great job. And we're starting to see some traction on the critical illness recovery hospitals, as I just mentioned. So no, we feel pretty confident with what is out there as far as the guidance is concerned for the full year."
+    },
+    {
+      "speaker": "Justin Bowers",
+      "speech": "Got it. And then, yeah, there is definitely impressive performance on the outpatient side and both on PT and in Concentra. As we think about those businesses kind of like 2022, 2023, what's -- where do you think normalized margins can settle and kind of either segment? And then, Concentra, there's just a lot of moving parts with that right now and you have kind of potential opportunities from a return to work and return to school. So just can you help us think about kind of how you see that business in the back half of the year as well?"
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "I'll let Marty comment on margins. I will say, and it's a good call out to Concentra that they have just done a remarkable job. This is a business that historically has been very sensitive to employment and you saw them be able to be pretty nimble during COVID when visits were down dramatically and still post some pretty impressive numbers through testing and vaccination and working with employers, even when employment when people were not back to work. At this point, they are really enjoying the benefits of the really strong employment environment.\nSo a lot of our employer clients are hiring and there's back to work, and you see visits starting to pop back up. So we expect Concentra just to continue to capitalize on the market share and relationships that they built through COVID. So I'm very optimistic about that business. Now it will continue to be seasonal as it always has been, but that business is as strong as it has ever been.\nAnd also on the outpatient rehab side of the business, which was the segment that was the most significantly affected, as you can see from a quarter a year ago, and you've seen visits come back very strong there. And from what we're seeing and assuming that we don't have further shutdowns, and you're looking at surgeries, orthopedic, electives coming back to the acute care hospital. That's good for our outpatient rehab segment. And we feel very good about where they are as well.\nMarty, do you want to make any comments on margins for that business, want to go forward?"
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Sure. Justin, on the Concentra side, our thoughts are on a longer-term basis, you're going to have very high-teens margins in that business segment. As Bob had mentioned, the operators have done just a terrific job and we expect that to continue. On the outpatient side, we think margins in that 15% to 17% are achievable.\nYou're seeing on the inpatient rehab side, we would expect to see those margins continue north of 20%. And then, on the critical illness recovery hospitals, it's really a function of what's going on with the labor markets. And we think it would certainly will remain in the teens. And if the -- if we see an alleviation of the shortages on the clinical side, that can be in the higher teens."
+    },
+    {
+      "speaker": "Justin Bowers",
+      "speech": "Understood. And then, just one more quick one. In terms of the guidance -- actually, I'll hop back in queue. Thank you.\nThank you."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "OK, thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Kevin Fischbeck of Bank of America. Please proceed."
+    },
+    {
+      "speaker": "Courtney Fondufe",
+      "speech": "Hey, guys, this is Courtney on for Kevin today. Thanks for taking my question. I guess, just to continue some of the conversation on the guidance. I wanted to clarify what assumptions you guys are baking in in terms of how COVID is going to pan out in the back half of the year? I'm just wondering, are you seeing any markets with more COVID or Delta variant impact than others in Q3 to date?"
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "The only thing we've heard from our operators is on the critical illness recovery hospital side and that is they're seeing some impact from that, which would -- which would mean increased census for us. We've seen referrals from the short-term acute care hospitals really start to climb."
+    },
+    {
+      "speaker": "Courtney Fondufe",
+      "speech": "OK, yeah, that's helpful. And then, just to clarify, I guess, one thing on the labor comments you gave, I guess, the prepared remarks, you guys gave were very helpful, but I'm curious to know if you're seeing issues more so on the actual sourcing front for labor or on the retention front?"
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "It's a very good question, Courtney. It's really both. I mean, what's interesting is when you take a look at retention, our people have done a very, very good job retaining nurses. But when you start to see nurses have the ability to make double their income if they go to agency, there is some clinicians that are jumping for that.\nAnd we've seen that third, fourth quarter of '20 and then certainly the first and second quarter of '21."
+    },
+    {
+      "speaker": "Courtney Fondufe",
+      "speech": "OK, yeah, that's really helpful. And then, I guess, one last question I would squeeze in. You guys, obviously, announced a whole bunch of JV partnerships and then, the Acuity Healthcare acquisition a little over a month ago. So just any update on how the JV and deal pipeline are looking today?"
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Well, I think, it's very strong. And as you know, we don't announce any of our joint ventures until they're signed. And so I mentioned a number of them today in the prepared remarks. But I would say that the pipeline is very good.\nAnd one of the things, if you go back a year or so ago, mostly all of the joint ventures that were announced were rehabilitation only and typically rehab hospitals and then sometimes outpatient. And now what we are seeing is we've become, I think, a provider of choice to partner in all of our segments. We see more joint ventures in the critical illness recovery hospitals, which you really didn't see a year or two ago and announcing more outpatient joint ventures. I think, our outpatient joint venture with Cedars in Los Angeles is a particular note.\nAnd so that's really our opportunity for growth, and it is filling the pipeline more because there's joint ventures across all of our business segments."
+    },
+    {
+      "speaker": "Courtney Fondufe",
+      "speech": "OK, thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from Bill Sutherland of The Benchmark Company. Please proceed."
+    },
+    {
+      "speaker": "Bill Sutherland",
+      "speech": "Good morning. Hope everyone's doing well. I was curious on the -- on all the activity, Bob, that you guys are doing now with various JV developments. Is there a way for us to get a just a very general sense of the implications for growth as you look into next year.\nTo what degree does this add a few points to your total growth outlook?"
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Yeah, we do. I think, it would be difficult for you to do that. The nature of our partnerships because of the profile of the systems that you see, it's really hard for us to predict when they come in. I mean, so I can report to you that we have a robust pipeline but it's difficult to project when they will actually be signed and then put into play.\nSo even for example, our joint venture that we did with Rush in Chicago, which is very large and very important to us, it does also have CON in the state, which the time line is somewhat uncertain, then we have construction. And so it is more difficult for us to give any kind of a guidance on that. We do think about our pipeline and what we have in our guidance. So as you note, when Marty gives guidance, we don't exclude acquisitions or development or include them.\nBut the guidance does take into account our sense, and I think it would be difficult to guide more than that."
+    },
+    {
+      "speaker": "Bill Sutherland",
+      "speech": "OK, that makes sense. On the occupancy issue in critical illness, do you -- have you all kind of made a decision to just go with pay the agency rates so that you can fully staff and -- or how do you make that decision on the trade-off in terms of the EBITDA impact?"
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Yeah, Bill, we have made a decision that we're going to bring in all of the patients that we can and we're going to staff even if it means that the labor rates are higher. So we have made that decision."
+    },
+    {
+      "speaker": "Bill Sutherland",
+      "speech": "OK. And by the way, on the labor front, across either of the businesses -- business lines, have you seen any regional disparities that were notable?"
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Absolutely. I mean, we've seen significant disparities to the tune of -- if you take a look at clinical costs on the agency side. I mean, we've seen rates that are in the $76 an hour range all the way up to $166. So yes, significant variation."
+    },
+    {
+      "speaker": "Bill Sutherland",
+      "speech": "As far as being able to actually find people just supply issue regionally."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "It is. It's the typical supply and demand."
+    },
+    {
+      "speaker": "Bill Sutherland",
+      "speech": "OK, makes sense. And then, last, I thought I would zoom out for a second, and you decided to address the home hospice segment through a JV, and I wanted to see if there's any -- anything to update there? And also, are you finding that your proportion particularly an outpatient rehab, the proportion of visits that are virtual, is that remaining a little more meaningful? Or is it kind of -- have you kind of gone back to pre-Covid kind of mix? Thank you."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Yeah, Bill, with regards to telemedicine, telerehab that's actually pretty much going back to pre-pandemic volumes. And you had mentioned something about home health. I'm not sure if you could be more specific there."
+    },
+    {
+      "speaker": "Bill Sutherland",
+      "speech": "Yeah, you guys announced, and this is a couple of years ago now with Alternate -- Alternate Solutions Health Network and you've called a selected home because it's just a collaboration you set up."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Yeah, it's very small and kind of not material. We've really brought that on so that we have an option for our joint venture partners if they needed it. So it still exists, but not material to our results."
+    },
+    {
+      "speaker": "Bill Sutherland",
+      "speech": "I figured as much since I haven't heard about it, too. Thanks, guys. Great quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We have a follow-up question from Justin Bowers of Deutsche Bank. Please proceed."
+    },
+    {
+      "speaker": "Justin Bowers",
+      "speech": "Hey, thanks, for letting me hop back on. So just a couple of quick ones. With the JVs and the LTAC deal that you announced earlier this year, is that in the guide right now? And then, kind of a follow-up to that would be the pipeline, how would you characterize the pipeline? Is it more heavily LTAC and health-related? Or what's kind of the mix there? And then, I have one more follow-up after that."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "I would say the -- I'll comment on the pipe. The pipeline, I think, is across the board. There's many deals in the pipeline, some of which will get to the finish line and some won't. So it's difficult to say whether it's more heavily weighted to critical illness rehab, outpatient.\nI think, it's fair to say that there are projects in the pipeline in each of those areas. And the second question, Marty, will you --"
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Yeah, the second question was the joint ventures that we've announced are those numbers in the back end of the year. They are, Justin, but I think it's important to note that for the most part, those are negative numbers. We're moving hospitals around. And at the end of the day, we are -- we also have to -- on the larger one Acuity we're gonna be installing systems, we're gonna be doing a whole bunch of different things there.\nSo you can assume that those are gonna be losses for the back end of the year. For the most part, what you'll see is the benefit in '22."
+    },
+    {
+      "speaker": "Justin Bowers",
+      "speech": "Yeah, and that helps explain the back-half guide a little bit. And then, just a quick follow-up. I know that -- so last year, you guys divested the CBOCs and that's been about a $20-plus million quarterly drag in 1Q and 2Q. I was just curious about what the timing of that was.\nI remember the announcement in the fall, but I wasn't sure when that actually closed. So I'm just trying to figure out when we lap that."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Yeah, I think, it was the first or the second quarter of '20. I think, it was the first quarter of '20 when it was --"
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Third quarter."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "And the $20 million a quarter you're talking about is really on the top-line basis."
+    },
+    {
+      "speaker": "Justin Bowers",
+      "speech": "Yeah."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "Yeah, OK, but you're right, you're right, on a year-over-year basis, that is -- that was a headwind."
+    },
+    {
+      "speaker": "Justin Bowers",
+      "speech": "Right. Yes, I mean, it was a couple of points each quarter, like this year. All right. Appreciate the follow-ups."
+    },
+    {
+      "speaker": "Marty Jackson",
+      "speech": "Justin, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "I would now like to turn the conference back to management for closing remarks."
+    },
+    {
+      "speaker": "Bob Ortenzio",
+      "speech": "No closing remarks. Thanks, everybody, for joining us for the report on the quarter. Look forward to updating the next quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 45 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Bob Ortenzio--Executive Chairman of the Board and Co-Founder",
+    "Marty Jackson--Chief Financial Officer and Executive Vice President",
+    "Frank Morgan--RBC Capital Markets -- Analyst",
+    "Justin Bowers--Deutsche Bank -- Analyst",
+    "Courtney Fondufe--Bank of America Merrill Lynch -- Analyst",
+    "Bill Sutherland--The Benchmark Company -- Analyst"
+  ]
+}

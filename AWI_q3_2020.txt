@@ -1,0 +1,576 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Ladies and gentlemen, thank you for standing by and welcome to the Armstrong World Industries Inc. Third Quarter 2020 Earnings Conference Call. [Operator Instructions] As a reminder, today's program may be recorded. And now I'd like to introduce your host for today's program, Tom Waters, Vice President of Corporate Finance. Please, go ahead, sir."
+    },
+    {
+      "speaker": "Thomas Waters",
+      "speech": "Thank you. Good morning and welcome everyone. Please note that members of the media have been invited to listen to this call and the call is being broadcast live on our website at armstrongceilings.com. With me on the call today are Vic Grizzle our CEO; and Brian MacNeal, our CFO. Hopefully, you have seen our press release this morning and both the release and the presentation Brian will reference during this call are posted on our website in the Investor Relations section. I advise you that during this call, we will be making forward-looking statements that involve risks and uncertainties. Actual outcomes may differ materially from those expected or implied.\nFor a more detailed discussion of the risks and uncertainties that may affect Armstrong World Industries, please review our SEC filings, including the 10-Q filed earlier this morning. Forward-looking statements speak only as of the date they are made. We undertake no obligation to update any forward-looking statement beyond what is required by applicable securities law. In addition, our discussion of operating performance will include non-GAAP financial measures within the meaning of SEC Regulation G. A reconciliation of these measures with the most directly comparable GAAP measures is included in the press release and in the appendix of the presentation. Both are available on our website.\nWith that, I'll turn the call over to Vic."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Thanks, Tom, and good morning, everyone, and thanks again for joining us today. I'm pleased to be with you today from our corporate campus in Lancaster, Pennsylvania. Armstrong, like many companies, is adapting to a new normal of hybrid work activity. Here at Armstrong, safety protocols are in place and our physical spaces have undergone a first phase of modifications to allow our organization to return to the office safely. We're actively working on more permanent changes to our facilities, including the use of new ceiling and grid solutions to create healthier spaces for our staff and visitors. Our manufacturing and distribution facilities continue to operate well and safely. Quality and service levels are high and our connectivity to customers, enabled by our digital tools, remains excellent.\nOverall, demand in the quarter improved sequentially much as we had expected. On a seasonally adjusted basis, Q3 was 14% better than Q2, down 11% versus 25%. In addition, we saw sequential improvement within the quarter, as daily Mineral Fiber sales improved from down 15% in July to down 11% in September. And October has continued this trend and is progressing better than September. Our top seven territories, which had lagged significantly in the second quarter, returned to the overall national average during the quarter. But the New York Metro area, our highest AUV territory, continues to lag. Overall, sales of $247 million were down 11% a quarter versus prior year. Volume was down 10% and Mineral Fiber AUV was slightly negative.\nPositive like-for-like pricing improvement and favorable product mix were offset by negative channel mix and negative territory mix, primarily driven by the lag in New York metro area. In addition, sales to big box customers were up in the quarter versus 2019, which is good from a volume perspective, but given the lower sales price in this channel, it was also a headwind to mix. While the overall demand trends in the quarter progressed largely as expected, there were some developments that we observed that I want to share with you to provide context on the market conditions. As expected, construction activity picked up in the territories most impacted by COVID-related restrictions in the second quarter, namely the seven largest territories we referenced on our last call.\nThe easing of state and local regulations on job sites and the increasing ability of contractors to work with the newly imposed restrictions both helped this situation. However, as the quarter progressed we saw delays emerge in previously less impacted territories, namely the South and the Midwest following the migration of the virus. This shift in regional activity reflects the impact of increasing COVID cases on construction activity and the overall uneven nature of the market reopening. New construction activity has fared pretty well overall, as existing projects continue toward completion, while smaller and midsized renovation projects experienced greater headwinds. In our conversations with our customers, it is clear that there remains a lot of near-term uncertainty as building owners work to determine the best path forward to adapt their facilities to enable the safe return of occupants.\nThis is also true with schools, with some remodel activity remaining on hold, as many students learn from home. Also in the quarter we continued to experience softness in our low visibility flow business. These are the small discretionary repair/remodel type projects that flow through our distribution partners and often without a specification. In addition to the uneven opening of the markets, we also experienced minor business interruptions in the quarter due to protest activity in certain cities and Hurricane Sally which closed our Pensacola, Florida plant for a few days. Thankfully our team at the plant is safe and we're back up and running. The Armstrong team and our partners continue to earn my admiration as they overcome obstacles and continue to deliver for our customers.\nAdjusted EBITDA in the quarter of $92 million was down 19% from 2019. The pandemic-driven volume decline is really the entire story as the business continues to operate well and as expected otherwise. Brian will provide more details on our financial results in a moment. But it has been an impressive performance by our operations team in an extraordinary environment. I could not be more proud of the work that they have done thus far. Despite the challenges in the market, our strong cash flow performance continues, and we remain on track to deliver over $200 million in adjusted free cash flow. Based on this continued strong cash flow generation and our confidence to continue to do so, our Board has approved a 5% increase in our regular quarterly dividend to $0.21 per share and we are restarting our share repurchase program.\nThe third quarter was also notable, in that we completed two M&A transactions. The previously discussed, acquisition of Chicago-based Turf Design, the leading provider of custom felt-based ceilings and walls and then on August 24, we acquired Moz Designs. Moz is a Northern California-based designer and fabricator of custom architectural metal ceilings, walls, dividers and column covers. Moz brings unique capabilities that can be utilized to improve the product offerings of our three existing metal ceiling facilities, and further strengthens our already leading position in the growing category of metal ceilings and walls. As cleanable surfaces and partition solutions are now more important than ever, I'm delighted to welcome the Moz team to the Armstrong family. This transaction marks our seventh acquisition since 2017. We are truly building an unmatched platform of specialty ceilings and walls and we are not done. Our M&A pipeline continues to grow as we see more and more opportunities to build out the most unique set of capabilities in the industry, and our financial strength allows us to do so.\nNow with that, I'll pause and turn the call over to Brian to review our financial results, and then I'll be back to talk about the creation of healthy spaces that is dominating the conversation in these times. Brian?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Thanks, Vic. Good morning to everyone on the call. Today, I'll be reviewing our third quarter results. But before I begin, as a friendly reminder, I'll be referring to the slides available on our website, and slide three details our basis of presentation. Beginning on slide 4, for our overall third quarter results, sales of $246 million were down 11% versus prior year, a significant sequential improvement from the second quarter when year-over-year sales were down 25%. Adjusted EBITDA fell 19% and margins contracted 370 basis points, again a substantial sequential improvement from the second quarter when year-over-year EBITDA was down 36% and margins contracted 590 basis points.\nAdjusted diluted earnings per share of $1.07, fell 22% and adjusted free cash flow declined by $53 million versus the prior year. I'll address the reasons for this decline in a moment. Our cash balance at quarter-end was $139 million, and coupled with $315 million of availability on our revolver, positions us with $454 million of available liquidity, down $33 million from last quarter as we completed the Turf and Moz acquisitions during this past quarter, and down $24 million from the third quarter of 2019. Net debt of $542 million is $4 million higher than last year as a result of our acquisitions, partially offset by cash earnings and the receipt of $19 million from the sale of our Qingpu plant in China, which was idled. As of the quarter-end, our net debt to EBITDA ratio was 1.5 times versus 1.6 times last year as calculated under the terms of our credit agreement.\nOur covenant threshold is 3.75 times, so we have considerable headroom in this measure. Our balance sheet is in solid shape. In the quarter, we did not repurchase any shares as our repurchase program remains suspended to preserve liquidity in light of the COVID-19 impact on the market. Last week, our Board of Directors approved the restart of the program. Going forward, we will look to return to our customary approach of repurchasing shares subject to our normal processing protocols. Since the inception of the repurchase program, we've bought back 9.6 million shares at a cost of $596 million for an average price of $62.13. We currently have $604 million remaining under our share repurchase program, which now expires in December of 2023.\nSlide 5, illustrates our Mineral Fiber segment results. In the quarter, sales were down 14% versus prior year, but sequentially improved from the prior quarter when year-over-year sales declined 26%. COVID-19 driven volume declines were the key driver. AUV was a headwind, as positive like-for-like pricing and favorable product mix, were offset by the channel and geographic mix issues that Vic mentioned. While sales in our key seven territories improved sequentially and converged with the performance in other territories, performance within these key seven territories was inconsistent and was a headwind to overall price and mix for the Mineral Fiber segment. AUV in the remaining territories was positive.\nAdjusted EBITDA was down $20 million or 21% as the volume decline fell through to the bottom line and AUV was a drag. Continued manufacturing productivity and cost reduction initiatives, lower raw material and energy costs, and SG&A cost management were all positive in the quarter. WAVE equity earnings were down due to lower sales and also as a result of a year-to-date true-up of allocated costs from Armstrong and Worthington. Moving to Architectural Specialties segment on slide 6, sales were up 1% as the acquisitions of Turf and Moz contributed almost $8 million in the quarter and offset COVID-driven organic sales decline of 12% which were sequentially better than the 22% decline we experienced in the second quarter. While current period sales activity was challenged given state and local restrictions, we continue to have exciting wins and have been awarded the Kansas City International Airport and the Princeton University Residential College projects.\nThese jobs will ship in 2021 and 2022 and demonstrate our continued ability to win complex and iconic projects. Despite flat sales direct margins expanded significantly driven by the higher margins of the Turf and Moz acquisitions relative to our base business and ongoing productivity in the network particularly at acquired facilities. Fixed manufacturing costs and SG&A were up driven by the costs of Turf and Moz. Slide seven shows our consolidated results for the quarter and clearly illustrate the impact of COVID-related volume declines. Slide eight shows adjusted free cash flow performance in the quarter versus the third quarter of 2019. Cash flow from operations was down $48 million, largely driven by volume due to COVID-19. Also in the quarter despite lower income in Q3 2020, we actually paid $14 million more in cash taxes than in the third quarter of 2019.\nThis is largely driven by timing in certain discrete items in the base period. Not included in this cash flow bridge are two significantly positive non-recurring cash items. In the quarter, we applied a $27 million tax refund related to the sale of our international operations. And we received $19 million from the sale of our closed Qingpu facility in China. We have received an additional $2 million from the sale in October and this transaction is now complete. Slide nine shows our year-to-date results. As you can see sales were down 12%, adjusted EBITDA is down 18%, and adjusted free cash flow is down 16%. Slide 10 is our year-to-date bridge. Again, COVID-related volume declines are the main driver followed by the geographic and customer AUV issues we've called out.\nFor the year product mix and like-for-like pricing are both positive contributors to sales, but mix is a headwind to EBITDA due to geographic and channel mix. Input costs, deflation and the savings we are driving in manufacturing and SG&A despite our acquisitions helped mitigate the sales fall through the EBITDA. Slide 11 reflects our year-to-date free cash flow. As with the quarter, operating cash flow was impacted by volume declines due to COVID-19, the tax refund in Qingpu sales proceeds mentioned earlier are excluded. Capital expenditures reflects the delaying actions we are taking to finalize or to prioritize cash in the near-term. Interest expense is lower as a result of our refinancing in September of 2019. WAVE earnings were impacted by volume declines.\nSlide 12 is our guidance for the year. We now anticipate full year revenues in the range of $920 million to $935 million or down 10% to 11%. Overall the decline will be entirely volume as we anticipate AUV to be essentially flat for the full year. EBITDA will be in the range of $320 million to $330 million as the sales decline drops down and is partially offset by productivity and the impact of our cost containment actions. Actions are in place to drive $40 million to $45 million of savings in manufacturing and SG&A down slightly by $5 million from our previous outlook as we invest for future growth.\nOur cash flow guidance is adjusted from our prior outlook as we have taken capital expenditures up, acquired the working capital of Turf and Moz and adjusted the seasonal trajectory of our fourth quarter to account for continued sequential improvement. These are challenging times but Armstrong is laser-focused on controlling what we can control investing to drive growth and building on an already best-in-class platform. Our ability to execute two meaningful acquisitions during a global pandemic is testament to our focus and confidence. I have no doubt that we will emerge on the other side of this crisis in an even stronger position to grow and create value.\nWith that I'll turn it back to Vic."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Thanks Brian. Healthy spaces is the dominant topic in commercial construction conversations today. 92% of architects and designers surveyed said they are having conversations with their clients on how to make their spaces healthier and safer. And it's a universally known fact that we spend 90% of our lives indoors. And even though healthy spaces have always been important this pandemic has made it an even greater priority, possibly the highest priority and the standards for which health and safe are measured are being raised to a whole new level. At Armstrong, we have been the leading supplier of ceilings and spaces where healthy has mattered the most in operating rooms, in ICU wards and other isolation room applications.\nNow, we are bringing that experience to today's conversation about creating healthy spaces and how to create one. We believe a healthy space and safe space is a space that protects us and fosters a feeling of well-being and comfort that allows people to be at their best. So where do ceilings come in? You're already familiar with how ceilings play a role in acoustics and aesthetics and in making the most of natural and supplemental light in interior environments, all of which are part of the healthy spaces equation. As the structural capstone of any space, the right ceiling system can make a meaningful difference by bringing the additional elements of healthy spaces together. Our ceiling grid and partition solutions contribute to maximizing ventilation and minimizing the transmission of harmful pathogens.\nIn most buildings, the ceiling system is part of the supply and return air ducting. We're already very in tuned with that with our current solutions for healthcare spaces. We are now adapting this technology to be more affordable and effective in the office, the classroom and other settings to meet the new definition and the new standards for a healthy space. I'm very pleased to introduce a new family of products called 24/7 Defend. These products represent innovative new solutions against harmful pathogens and other particles in indoor environments. Our 24/7 Defend product family already includes infusion partitions and CleanAssure disinfectable products, which are proven cleanable products. What's new is the AirAssure family of gasketed ceiling tile products that self-seal to the grid system and a new integrated VidaShield ultraviolet air purification and ceiling tile system.\nWhen placed in our standard grid system, AirAssure gasketed ceiling panels form a tight seal and reduce air flow leakage into the plenum by 300% over standard ceiling panels. Reducing air leaks significantly increases the effectiveness of air ventilation and filtration systems allowing more air to flow through the return air vents where it can be filtered and purified and ensuring greater air quality. In addition to allowing more filtering and cleaning of air vent spaces, AirAssure can also reduce the risk of pathogens traveling between spaces in a building, further protecting a greater number of people. In addition to offices and healthcare facilities, this is vital for schools and senior living facilities as they are being asked to create more isolation rooms to prevent the spread of infections.\nReducing air leakage with AirAssure is an easy way to retrofit existing rooms and is available with our popular Sustain and Total Acoustics solutions. Now in a complementary way, the new patented scientifically proven VidaShield system pairs an active ultraviolet air purification system with Armstrong ceiling panels to provide cleaner, safer air in any commercial space. An unobtrusive drop in ceiling system that draws air into a chamber above the ceiling exposes the air to UV light, neutralizing harmful pathogens and then returning clean air to the room. VidaShield can be used as a stand-alone solution or for even better results it can be integrated with AirAssure panels. Together these two new solutions reduce the risk of indoor air transmission of harmful pathogens. This pandemic is serving as a catalyst to renovating commercial spaces to create healthy and safer spaces unlike anything we've seen before.\nAnd we believe it will continue to evolve for many years to come because healthy spaces are now essential. These new products are just the beginning of 24/7 Defend family as we have solutions in our innovation pipeline that we will add to this family in the coming quarters. Armstrong is a clear leader in the commercial construction market and we have been for many, many years. As the need for healthier buildings evolves, we will be at the forefront driving positive change in our industry. We believe these changes in the short and long-term will allow market leader like Armstrong to further grow our business and bolster our competitive advantage.\nTogether with our industry-leading position, our digitalization investments and now with our expanding health spaces platform Armstrong is well positioned for profitable top line growth. With appending renovation renaissance in the medium-term and a whole new way of thinking about commercial interior spaces longer-term, we are both ready for and excited about the possibilities ahead. And this is all aligned with our commitment to continue to deliver strong returns for our shareholders and to making a positive difference by creating healthier spaces where people live, work, learn, heal and play.\nAnd with that we'll be happy to take your questions at this time."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Certainly. [Operator Instructions] Our first question comes from the line of John Lovallo from Bank of America. Your question, please. John Lovallo, your line is open."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "I don't hear anything from John. So let me go to the next question. We will circle back to John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Certainly. [Operator Instructions]"
+    },
+    {
+      "speaker": "Thomas Waters",
+      "speech": "Can we go to the next participant in the queue please?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "I appear to be having a technical issue at the moment. Just one moment please. John Lovallo, your line is open."
+    },
+    {
+      "speaker": "John Lovallo",
+      "speech": "Can you guys hear me?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Great. Yes, we can hear you now John."
+    },
+    {
+      "speaker": "John Lovallo",
+      "speech": "Okay, great. Sorry about that. That was on my end. I apologize. So your outlook for flat AUV in 2020, it seems to imply something like 2.5% positive in the fourth quarter. I mean is this how you guys are thinking about it or am I reading this incorrectly?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Hey, Brian, do you want to take that?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yeah, sure. John, on the sales side, yes for sure. And we've used the word relatively flat, so plus or minus 1% let's say in that range. But we continue to see that geographic territory channel mix as a headwind for the fall-through to EBITDA."
+    },
+    {
+      "speaker": "John Lovallo",
+      "speech": "Okay. Okay. That's helpful. And then maybe just on D&A. The D&A outlook of $70 million for 2020 within the EBITDA guide you gave that seems to imply only about $7 million of D&A in the fourth quarter, which would be a pretty big sequential step down. Is that correct or -- and if it is what's driving that?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Do you want me to take that Vic?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah, please."
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yeah. So John yes, that is correct. And it's just the timing of assets moving off the depreciation schedule."
+    },
+    {
+      "speaker": "John Lovallo",
+      "speech": "Okay, all right. Thank you guys."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. Thanks, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Kathryn Thompson from Thompson Research Group. Your question, please."
+    },
+    {
+      "speaker": "Brian Biros",
+      "speech": "Hey, good morning. This is actually Brian Biros on for Kathryn. Thank you for taking my questions. I wanted to ask about the Architectural Specialty segment. I think last quarter kind of expected the segment to outperform, the Mineral Fiber segment based on I think the pipeline and the visibility that you guys had. Organic was down 12% in Q3 versus Mineral Fiber was down 14%, so a little bit of outperformance there. I guess was that in line with your expectations or are there maybe a few delays that dragged that down a little bit?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Brian, this is Vic. Yeah, I think that was aligned with our expectations. Again quarter-to-quarter because of the project nature of that business you can see some different comparisons. On the year, I still expect Architectural Specialties as we did in the third quarter, but I expect that in total for 2020 to outperform the overall market. We had a terrific quarter in terms of order intake in the Architectural Specialty, although a lot of that is for '21 and '22. But still there's a lot of activity out there and that team is doing a terrific job and winning projects."
+    },
+    {
+      "speaker": "Brian Biros",
+      "speech": "Got it. And then trying to understand I guess the regionality. I think you mentioned some of the slower ones that were there in Q2 and Q3 are now back to the national average, excluding the New York City Metro. Are those expected to kind of remain at that national average into Q4 and early 2021 or is there some amount of pent-up demand from being behind earlier that could maybe swing them to be above the average going forward in the near-term?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. I wouldn't put a lot of tailwind to them in terms of pent-up demand. I think a lot of this is just really depending on how these key metropolitan areas are opening up and experiencing the virus. We did see sequential improvement in those key seven territories we highlighted in the second quarter, which was a significant drag for us. And as those territories opened back up and got back up to a run rate that was consistent with the rest of the markets that's what we expected to see and that's what we saw except for the New York Metro area, which continues to lag. But within the non-key seven territories so the rest of the territories we were seeing sequential improvement there as well.\nBut as the COVID cases caught up to some of those lesser impact territories like the Midwest or South as we were highlighting we start to see activity slow in terms of the sequential improvement in those areas, which makes sense, right? The number of COVID cases is impacting the relative construction activity in those markets. So I think this all gets back to normal as we get on the other side of these cities and these territories opening back up and responding to normal market demand conditions. So I think that's going to continue to be the uncertainty here as the rate and pace at which a lot of these territories experienced the virus and then come out of their experience with the virus."
+    },
+    {
+      "speaker": "Brian Biros",
+      "speech": "Got it. And maybe just quickly following up on the New York City Metro specifically, I understand that's still lagging. Is there a magnitude you can put on that or maybe is it lagging but getting better or is it lagging and staying down?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "No getting better, but still lagging the other territories. But yeah, we definitely saw sequential improvement as you would expect, but still lagging. And we're not going to break out each of the territories. I think that's -- we'll hang onto that."
+    },
+    {
+      "speaker": "Brian Biros",
+      "speech": "Got it. Thank you."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Alright Brian. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Susan Maklari from Goldman Sachs. Your question, please."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Thank you, good morning everyone."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Good morning. Hi Susan."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "My first question is around trying to think about the pipeline of projects that you have as you head into '21. I know that you mentioned that there's clearly been some delays and some stops in stores just across the entire country. Can you give us some sense maybe of what that backlog is looking like for you as we think just not even for the fourth quarter but kind of looking a bit further out there? And then I guess within that too can you give us a bit of color as you look at the current bidding activity? Are there any real shifts in terms of maybe average project size or things of that nature that could perhaps kind of shape or influence how we think about future volumes versus AUVs?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. Susan let me -- I think they're connected very much, right? The backlog and then what we see in terms of bidding activity. So first of all, on the backlog the best visibility we have in our backlog is in our Architectural Specialty business. And the activity there and the win rate there continues to be very impressive. In fact in the third quarter we had our best order intake quarter in that segment. So there's plenty of jobs out there. There's plenty of business out there in terms of the Specialty business and we're closing it.\nAnd of course a lot of those are in '21 and '22, majority of that. When that business closes projects they're a little further out because of the design component. So record levels of order intake for '21 and '22 in the Architectural Specialty business. That's really supported by an improvement in the bidding activity. And we talked about the bidding activity being down 21% in the second quarter across all the verticals. In the third quarter that improved sequentially to be down only 10%. And that's the number of projects.\nAnd this is really to the second part of that question. The dollar amount of projects was down 10% in the second quarter and down 5% in the third quarter. So the number of projects in the third quarter were tracking -- were down 10%, but the value of the projects was down only 5%. And what that says then is the size of projects these larger projects -- medium to larger sized projects are continuing and what is being held back or delayed more are these smaller, what I call more discretionary type projects where people are still in a wait-and-see mode of whether they want to do those modifications and where they want to do those modifications.\nAnd so that's very logical to me. It makes sense that some of the smaller more discretionary projects are what's being held up and delayed versus the larger projects. So it's a good question. I think we're seeing the sequential improvement not only in the activity -- bidding activity, but also in our order rates and therefore the visibility into next year is improving. So hopefully that answers your question. That was a good question."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Yeah. No, that color is very helpful. Thank you. And I guess my follow-up question is you mentioned in your commentary that you've gotten the authorization to resume buybacks. Can you give us any color on your appetite for buybacks especially given the current valuation? How you're thinking about capital allocation between buybacks versus maybe M&A or some of the other opportunities that you have?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Well, no change in our capital allocation priorities. And I think that's really mirrored of what we've been doing so far this year which is investing back in our business to grow. And with our recent announcement -- actually last night of our new innovation around healthy spaces, it's part of where we've been investing back in our business around this need for healthy spaces and innovating into that. Our digitalization tools for example are another good area where we're investing back in our business. So that remains our first priority. Also in the third quarter we closed two acquisitions so we're open for business. And as our second priority for the use of cash, we're going to continue to bolt-on unique capabilities to the Armstrong platform.\nAnd those two acquisitions are off to a terrific start by the way just -- we couldn't be happier with those two acquisitions. And the fact that we could get them done in this environment was an impressive effort by our team. But the third priority is around this return to shareholders, and I think with a little bit more clarity about the depth of the recession and the impact on the markets, and therefore our cash position, I think we're more confident to get back into that third bucket. And we do have the cash to allocate to that third bucket after we do the first two, which you saw in the increase of our dividend in the quarter, and also again, back into the market for share repurchases. I can tell you we're going to maintain a prudent posture just given the uncertainty around the rest of the year's activities. So, although we're restarting it, you'll see us maintain a prudent posture at least through the end of the year in terms of our share repurchases."
+    },
+    {
+      "speaker": "Susan Maklari",
+      "speech": "Got you. Okay. Thank you very much for that color. It's helpful. Good luck."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "You bet. You bet. Thank you, Susan."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Phil Ng from Jefferies. Your question, please."
+    },
+    {
+      "speaker": "Philip Ng",
+      "speech": "Hey, good morning everyone. I guess on the mix side of things encouraging to see at least some signs of maybe improvement in the fourth quarter, because you're expecting AUV to be positive. But when we think about 2021, there's different elements on the mix side? Is that going to be a big drag again? And do you have enough on the like-for-like pricing where you think AUV is going to return back to like low to mid single-digit longer-term target when we think about next year?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah, Phil, there's no change here, I think, relative to the dynamics that drive mix-up in this industry. So we've got a very unique set of market dynamics that's driving this uneven territory behavior and even within the territory some very uneven projects and project types that's driving a lot of this mix. I think as we get into '21 and we get back to some normalcy in terms of the dynamics in the marketplace, the same drivers of mix are there -- are still there and we're going to continue to see a positive mix in this industry and in this business.\nI will highlight again, this is territory and kind of regional mix, but the product mix remains positive for our business, meaning that customers are buying more and more of our higher value, higher performing products than they are of the other products as they upgrade. And then naturally that dynamic drives the mix-up, and we're innovating into that. And I will say with the -- excuse me, the products that we announced last night, which are going to be at a 30% to 50% premium on the products that we sell today that is going to continue to drive a higher and richer mix as the appetite for healthier spaces continues to grow into '20 and '21."
+    },
+    {
+      "speaker": "Philip Ng",
+      "speech": "That's great color. Actually that was my next question Vic. So thanks for teeing that off. I mean, it seems like a very exciting product. How quickly would you be able to ramp it up and see contribution to your bottom line? Is this going to be a big needle mover next year? And I definitely see the value proposition. But is this a more cost-effective solution for your customers?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "This was going to be very cost effective. And I think this was going to be more than cost-effective in terms of the non-discretionary nature to gain confidence for occupants to come back into these spaces. This was going to be a very easy retrofittable solution without tearing down the grid or driving major renovation. You can swap out ceiling tiles and drive an improvement in the air quality. And that's really what we're after here is some easily retrofittable type products to help people make these changes quickly and get their people back into the spaces. So I think this is going to be the start. And I believe that we'll get some good traction on this in 2021. We're in the process of ramping these products now as we speak."
+    },
+    {
+      "speaker": "Philip Ng",
+      "speech": "Okay. Just last -- one last one for me Vic."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Sure."
+    },
+    {
+      "speaker": "Philip Ng",
+      "speech": "Do you see any impact in your business on the plus or negative side with a potential Blue sweep scenario with a Biden Presidency and the Democrats controlling the Congress?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "No, I don't think we see -- I mean, we'll have to wait and see what happens in the first quarter after inauguration. But I think the dynamics of this business work well on both sides of the aisle frankly or whoever is in the White House."
+    },
+    {
+      "speaker": "Philip Ng",
+      "speech": "Okay. Thanks a lot, Vic. Really appreciate it guys."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "You bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Yves Bromehead from Exane. Your question, please."
+    },
+    {
+      "speaker": "Yves Bromehead",
+      "speech": "Good morning gentlemen. And thank you for taking my questions. Just two on my side. The first one, I just wanted to know if you could comment maybe on the lower demand that you've seen year-to-date in 2020. How much of these projects are just delayed, let's say, and you would expect to see those restarting in Q4 or even in 2021? Did you have like a proportion of the probability that you're seeing in your businesses? And I know it's still very early days, but what would be the base case scenario for 2021? Should we expect to recover most of those lost volumes of 2020 into next year?\nAnd my second question is actually just on what has been just asked around the Biden and kind of Blue Wave. Coming from a European background where the renovation wave is starting to hit Europe, there's clearly a dynamic where there's a multiplier effect on the energy saving renovation. So I wanted to know if you have any sense of what is the current energy saving renovation today in the U.S.? And where that needs to get to reach de-carbonization let's say by 2050 if Biden does go through? Thank you so much."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Sure. First of all, your first question around delays -- really delayed versus cancellations. And we continue to track the proportion of each of these, and we're not seeing cancellations much like we saw in the second quarter. We're not seeing a lot of cancellations. In fact, it's predominantly delays that we're seeing. And the delays at this point are now into 2021. And we're seeing very little delayed activity beyond that. So you have to assume that, if these projects are realized, they'll be realized next year versus canceled altogether.\nSo I think that's something we've been paying very close attention to. Now, whether they're actually materialized in 2021, I think the market dynamics and the overall economy will drive those decisions later. But at this point, they're not canceled, they're primarily delayed. As it relates to energy, I mean, ceilings drive on energy savings and control the amount of air that you have to treat for the environment for occupants. So, we've always been part of an energy saving conversation. With one of our new acquisitions we also have ceilings that naturally control the environment through heating and cooling within the ceiling system itself.\nSo we have lots of solutions around driving energy savings. And we believe this next phase as we create healthier spaces to control the air and the flow of air throughout the building, we're going to be adding to that energy savings by making the HVAC systems more efficient through the use of our AirAssure ceiling panels. So I think we have a lot to offer. No matter, who's in the White house and which policies are being driven, I think we have a lot to offer in that energy savings conversation."
+    },
+    {
+      "speaker": "Yves Bromehead",
+      "speech": "Okay. Thank you so much."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Adam Baumgarten from Credit Suisse. Your question, please."
+    },
+    {
+      "speaker": "Adam Baumgarten",
+      "speech": "Hey, guys. Thanks for taking my question. Just starting on -- given that understandably the new construction side is still kind of hanging in just as projects get completed but given the kind of weak starts data we've seen over the last few months when would you expect the recent weakness to start to show up in your results next year?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. I think for what we see in new construction, and it's a very interesting dynamic when you look at the new construction which gets a lot of the headlines, the new construction impact on 2020 business has actually been fairly light. It's been more of the discretionary R&R projects, which you could hold back. And again, when you think about it that way it makes sense that some of these shorter cycle type projects would be held back first. But when you know a ceiling system is 18 months out from a new construction start there's a pretty good lag there for things that are not done this year that will start to show up in the second half of next year and into '22 on a lag basis. So we continue to expect new construction activity overall to be paused or a headwind to overall demand.\nI'll remind you though it's 30% of our business. The other 70% is driven by R&R activity. And that's the headwind we really see and feel this year. But I went back and looked at 2008 and 2009 and '10 what happened during that time frame, when new construction goes negative, R&R activity picks up. And although in 2009, we had really a deep drawdown in R&R activity as you would expect, but the following year it bounced back to positive territory. Now whether that happens next year, I think there's some dynamics, the pandemic, the vaccine, there's a lot of things that have to play out. But that's a data point for I think everybody to go back and to look at and that's how we think about it. New construction again is going to be, I think a headwind for at least a year or so as it lags into the system. R&R is really the driver of the business. And we have some real opportunities there that we're excited about."
+    },
+    {
+      "speaker": "Adam Baumgarten",
+      "speech": "Got it, thanks. And then just switching over to the AirAssure and you mentioned some of the HVAC savings and given the 30% to 50% premium, can you quantify, why it's worth maybe putting that in outside of the safety benefits obviously, but just from a cost perspective what kind of HVAC savings a building could experience, if they put this product in?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah, it's going to be very specific to which HVAC system is in place right now, but we know it's a meaningful savings for the HVAC. We're working with HVAC suppliers today in the development of this. We know a lot of buildings are maxed out in terms of their HVAC capacity. So in a way this adds more capacity for them by making it more efficient to collect the air. And therefore, they can introduce even fresher air or more fresh air to drive the air quality higher. So we think that, there's going to be meaningful savings here, but also additional capabilities that, they may not be able to get to without upsizing their HVAC system. So again, it's going to be -- the amount of savings will be dependent on the size of the building and the amount of savings will be based on the level of capacity utilized in the current situation with the HVAC system."
+    },
+    {
+      "speaker": "Adam Baumgarten",
+      "speech": "Got it. Thanks. That was helpful."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Okay. Good. Thanks, Adam"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Keith Hughes from Truist. Your question, please."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Thank you. A question on the cost savings program. It looks like I see about $9 million of manufacturing and SG&A on slide 5 in the Mineral Fiber segment. Is that what was realized in the quarter or are there some other numbers hidden in Architectural Specialties or other parts of the income statement?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Brian, you want to take that?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yes, sure. Keith thanks for the question. Yeah, that five you're seeing in the quarter on Mineral Fiber is a net number. So there's some additional savings there that are being offset by some of the investments we're making there to bring some of this innovation to market. And the other part of it is down in that SG&A line. And then to your third point really some of it also shows up in AS. So we're on track."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "What's the total number in the quarter I guess is the question?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yeah, the total is $12 million."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "$12 million. Okay. And I know you lowered it $40 million to $45 million with some of the investments that you were talking about. It still leaves a pretty healthy amount for the fourth quarter, which I'm having a hard time reconciling with the guide, where the margins are pretty weak compared to the fourth. Can you kind of explain what's going on in there?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Vic, do you want me to go at it?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Go ahead, Brian. Yeah."
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Keith it's some of the investments we're talking about with the launch of the new products, the healthy spaces and some of the digital efforts we're implementing to drive that growth."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Okay. Let me ask a question on a different topic for Vic primarily. You gave us a really good number on the order rates being down 5% in dollars in the quarter which is a pretty big improvement."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "That was a bid activity."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Are you starting to see any sort of indication of more bigger renovation activity from businesses going back to their offices and having to socially distance employees or for example use your new products to create maybe a healthier space? Is there any indication of that or is that something we -- to come at some point?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. So let me correct it. The numbers you cited were not order rates but there was a bid activity. So just to be clear, the minus 5% on value is bid activity that we track across all verticals. There's a lot of activity, Keith, in terms of the renovation required to get the folks back in the spaces. And it's really across all the verticals, as we talk to the architectural design community. There's no big wave that I would point to that's saying it started and it's going to happen in the fourth quarter. That's not what we're seeing. I think this is actually going to be something we're going to see feathered in over the coming quarters as there's different rate and pace of back-to-the-office, back-to-school in various parts of the country. So I really don't anticipate it happening all at once or in a big way. I really see this as a continuation and feathering in of new renovation activity as the market comes all the way back. I think it's a net positive. Clearly when the market gets back, this increased level of renovation will be additive to an overall stable market condition."
+    },
+    {
+      "speaker": "Keith Hughes",
+      "speech": "Okay, great. Thank you very much."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Okay, Keith. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of David MacGregor from Longbow Research. Your question, please."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Yeah, good morning."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Good morning, David."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "A few questions for me. First of all, it was interesting that the -- in Mineral Fiber the AUV on a like-for-like basis was positive. And I just wanted to sort of get you to talk about that with regard to the weakness in the New York market and some of the other major markets, metropolitan markets you're seeing where I presume pricing is maybe a little more competitive as people are bidding for volume. Can you just talk about what you're seeing competitively in the market right now across these two sort of categories of markets?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. Like-for-like pricing as you noted was positive as -- we implemented a February price increase and we've executed on that. We've carried that through and that's generated some nice like-for-like pricing. Our teams did a nice job holding on to that in a deflationary period of time. And that's really across the territories. I wouldn't pin that on New York being more competitive -- in fact, I wouldn't put that on New York being more competitive. The markets remain competitive. They've always been competitive.\nAnd I wouldn't point to these markets as being any more competitive than they were six months ago or a year ago. I think these markets continue to be competitive. What we're doing is we're continuing to innovate on the service side with our digital tools and with our product innovation. So we're winning specifications and pulling those specifications through distribution. We continue to do that really well in this environment. So I expect that we'll continue to drive positive like-for-like pricing in the fourth quarter on into next year. This is really -- this AUV is really a mixed phenomenon as I talked about earlier between channel mix and territory mix."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Great. Right. Thanks for that. The key seven markets that you identified last quarter and you discussed briefly this quarter, their recovery contributed how much to the growth this quarter?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "We didn't call that out specifically, David but it sequentially improved back to its proportion of the overall sales pie if you will, which is something that was lagging in the second quarter. So we're glad to see it sequentially improve back to that level in aggregate. Again, as I highlighted, New York Metro, a high AUV territory for us continues to lag of those seven and putting additional pressure on our mix and our AUV overall."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Right. The $40 million to $45 million in cost containment, what's the carryover benefit to 2021 of getting a full year of that next year?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Brian, I'll let you take that."
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yes. David, we've been pretty consistent that we're going to put those back in. So they're temporary cuts. They're not permitted structural cuts. And so, I expect those to come back into next year."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Back in. Okay. And lastly, just, I realized it's still early, but as you look forward to 2021, how do you think about raw materials and sort of inflation within that part of the P&L?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "It's really hard to call. We're really not out looking some of those dynamics just yet. So it's really hard to say, David, at this point."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Is there any way you could say what you're seeing in the market right now, in terms of conditions and maybe allow us to extrapolate off that?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Well, in our current situation, we're in a deflationary -- net deflationary situation right now."
+    },
+    {
+      "speaker": "David MacGregor",
+      "speech": "Okay. Okay, great. Thanks very much."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Okay. You bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Stephen Kim from Evercore ISI. Your question, please."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Hi. Thanks a lot guys. I have a question regarding the AUV. I know you indicated that it could be up 1% or down 1%, basically flattish for the year. I was curious, what the potential is for that actually to be positive in 4Q? And what the drivers to an eventual return to positive AUV contributing to EBITDA will be like? So not necessarily locking you down to a timeframe specifically, but what would be the things that would be driving the AUV drop down to be positive to EBITDA?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah, Brian, you want to take that first part of that?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Sure. So, Stephen, we're seeing -- it's all about these key seven territories and some of the channel mix headwinds that we called out in the quarter. As we see those all progressively get better and we called out the New York Metro, still somewhat lagging out of those key seven, given the high AUVs in those markets, as they start to pick up that will help the fall-through rate and drive positive AUV in Q4, at least from the sales level."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Okay. What about the EBITDA?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "I'm sorry, Stephen, go ahead and follow-up. I was going to add a little color to that. Go ahead."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "I was just going to say that, how about take? Do you think that could be a positive to EBITDA? And if not in 4Q, like, what would be the dynamics that would drive that return to positive EBITDA contribution from AUV?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Yes. So I would -- do you want me to take it Vic or you?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Go ahead, Brian. Sorry, go ahead."
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "No, I would expect it still to be somewhat of a headwind in Q4. As we -- and again, we're not providing '21 guidance yet, but I would expect to see that sequential improvement start to get better from the drop-down standpoint."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. Stephen, I was just going to add. I think some of the unusual market dynamics driving some of these channel mix and territory mix issues work their way out next year as we get back to some normalcy in terms of the market dynamics. And then, the industry dynamics take over, which is every renovation is a mix-up opportunity. And every specification is a mix-up opportunity, as we drive more specs around Total Acoustics Sustain and now assure -- AirAssure products. So, I think, the mix continues to be positive going forward."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Got it. And then how about on the capacity side? I think last quarter you had indicated that you had the potential maybe to make reduction shifts or things like that. But I think that at that point you didn't really feel like that was something you wanted to do or it was necessary. Do you still feel like that is something that you don't need to do or is that something that you are beginning to implement in your plan?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Well, we did that. Let me be clear. We did reduce our shifts and we right-sized our manufacturing activity to match the demand environment that we're in. And to make sure that we had a healthy inventory level to plan for any potential disruptions. So, no, we did that and we continue to operate very lean and efficiently."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Okay. That's great. Yes, sorry for that, that was a misunderstanding. And then lastly for me is these new products, really interesting. I'm particularly intrigued by this gasketing, which just seems like an incredibly good idea. A couple of questions related to that. One is; is this something that had been tried before? Just curious as to why this doesn't seem to be sort of industry standard already? Are there sort of technical issues related to it or if you could just help us understand that a little bit? And then also is there anything that is available out in the marketplace in terms of an installation method, which achieves that kind of efficiency -- airflow efficiency, without changing the ceiling tiles? Is that something that's already done already? Those are the two questions I have there."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. In some of the healthcare facilities and the data centers, we have used a gasketed grid system to get the same field ceiling tile in the installation. This is the first gasketed ceiling tile in the market, however, which allows for people to not have to change their grid system and for you to be able to retrofit existing ceiling tiles with a gasket of ceiling tiles and get the same sealed system very quickly and affordably. That's -- I think that's the special innovation here for a very large installed base that needs to be retrofitted. So we've had a lot of experience in sealing off ceilings for those unique healthcare situations that I mentioned and data centers and we're just reversing and solving the problem differently with the first ever gasketed ceiling tile. Very exciting. I think this is going to make it a very affordable retrofittable renovation for schools, offices to make and we're excited about it."
+    },
+    {
+      "speaker": "Stephen Kim",
+      "speech": "Sounds like a great idea. Thanks guys."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. Our next question comes from the line of Justin Speer from Zelman & Associates. Your question please."
+    },
+    {
+      "speaker": "Justin Speer",
+      "speech": "Thanks guys. Just breaking down the vertical trend, I know we all, I think have a pretty good idea of some of the relativeness of some of the verticals. But throughout the quarter, particularly for that tenant improvement piece of the business that's so important. Maybe walk through how things trended across office, education, healthcare? And then as you are interacting with distribution contacts what the project funnel looks like in these verticals as you look ahead?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. When you look at across all the verticals, we saw sequential improvement across all the verticals. And then when you look at the bidding activity, we started to see a little bit of separation in the bidding activity across the verticals, where education was stronger going into the summer months this year. I think a lot of people got an early start on renovation activity in schools as kids were out of school. And then it weakened sooner in the summer months because of some of that pull forward activity. So I think that was one of the separations that we noticed across the verticals. Again, we had a pretty good season in education frankly given the backdrop, but the timing of it was a little bit different. So we saw that show up in the bidding activity as more weak across the various verticals. But in each of the verticals, we saw a continuation of sequential improvement. As you might expect when you go from minus 21% in terms of projects down to minus 10% only that's a pretty big improvement."
+    },
+    {
+      "speaker": "Justin Speer",
+      "speech": "So if for whatever reason, because things out of your control, the pandemic worsens or maybe the macro deteriorates further and perhaps we see an air pocket emerge inactivity because the pipeline for whatever reason dwindles. That SG&A comment you made about some of those costs rolling back, would you potentially suspend that if you were to see things deteriorate on the top line?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yes. If we have say more government-mandated shutdowns or more imposed restrictions that greatly reduced the volume back to kind of where we are today for example yes, I think we would be definitely looking at those costs -- that cost structure again and looking at what we want to feather back in. So again, we run this business to rightsize it relative to the conditions that we're in. And right now we're making investments back in our business to support the growth and the digitalization initiatives that we got going. So I expect those to continue."
+    },
+    {
+      "speaker": "Justin Speer",
+      "speech": "That makes sense. And I don't know how much visibility you have in terms of channel inventories. How do those look? Any insights that you have there in your conversations with distributors?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Well, what I can comment on that is our distribution partners have done a terrific job in servicing our customers in a very kind of erratic demand environment and I believe they've rightsized their inventories to the current demand environment. So as we go forward and we see an improving demand environment their inventory positions are moving accordingly. So I think that's -- we should expect that to continue into the fourth quarter and into next year."
+    },
+    {
+      "speaker": "Justin Speer",
+      "speech": "Excellent. Excellent. And then lastly for me just on the project wins that you mentioned in Architectural Specialties. Are those needle movers when juxtaposed against maybe the projects rolling out of backlog? Are they more than offsetting that or how should we think about I guess the broader picture with respect to these project wins that you articulated?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah. It's a good question. I think that they're definitely needle movers. These are large projects. The Kansas City Airport is a very large project. It's not only Architectural Specialties, but there's Mineral Fiber on that job as well. The projects that we have won and taking orders for this year is equivalent to the same time last year. In the face of a pandemic and as bad as the economy has been, that business has taken in the same amount of orders as it did last year at the same time. So that gives you a flavor of how successful that business is doing against a pretty tough backdrop. And so they're definitely needle movers in terms of the impact that they're going to make on the backlog going into next year."
+    },
+    {
+      "speaker": "Justin Speer",
+      "speech": "Excellent. And then the recent acquisitions that you made. You've had a good track record of at least out of the gate revenue synergies as you harvest I guess or as you push those through your funnel and through your network. How should we think about revenue synergy potential for these acquisitions going forward?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Well, I think the historical track record is pretty good. I think we're going to have a nice contribution to both of those businesses being bolted on to a large platform like Armstrong in our go-to-market, our distribution channel. No, I think there's going to be some terrific revenue synergies in both of those businesses as they get integrated into the Armstrong go-to-market platform."
+    },
+    {
+      "speaker": "Justin Speer",
+      "speech": "Thanks very much guys. Appreciate it."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Okay, you bet."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. And our final question for today comes from the line of Garik Shmois from Loop Capital. Your question please."
+    },
+    {
+      "speaker": "Jeffrey Stevenson",
+      "speech": "Hi, this is Jeff Stevenson on for Garik. Thanks for taking my questions. My first one is just I wondered if you could talk about the December grid price increase and the motivations the industry had to move ahead with an increase before year-end?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yeah, it's really driven by a tightening raw material and an increasing raw material in steel. And so that's the driver behind the price increase. As you know we normally go up in somewhere around February time frame but based on what we're seeing in terms of pressure on steel prices we're going out earlier."
+    },
+    {
+      "speaker": "Jeffrey Stevenson",
+      "speech": "Okay, that's helpful. And with steel going up, how should we think about decremental margins into the fourth quarter as some of these raw material costs are starting to creep higher?"
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Yes, Brian, do you want to take that?"
+    },
+    {
+      "speaker": "Brian MacNeal",
+      "speech": "Sure. Jeff so just to clarify on our steel's input cost affects our WAVE joint venture. And so it doesn't fall -- flow through into our cost of goods sold. It shows up in that WAVE equity earnings line right? But -- so from a decremental standpoint for the total business, we're still in that 50% to 60% range because that takes into account that flow-through of steel into that WAVE equity earnings."
+    },
+    {
+      "speaker": "Jeffrey Stevenson",
+      "speech": "Got it. I appreciate it and best of luck."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you and this does conclude the question-and-answer session of today's program. I'd like to hand the program back to Vic Grizzle for any further remarks."
+    },
+    {
+      "speaker": "Vic Grizzle",
+      "speech": "I just want to thank everybody for joining us today. Again third quarter against a very strange and challenging backdrop; I'm very proud of what our team has done in terms of two acquisitions in the quarter. We had record quarter order intake in our Architectural Specialty business and we launched a whole new family of healthy spaces solutions that are we're really excited about to help building owners and occupants get back to life and get back to work. So, we're excited about all of these things. And again thank you for joining our call today. We look forward to talking to you next quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 70 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Thomas Waters--Investor Relations",
+    "Vic Grizzle--Chief Executive Officer",
+    "Brian MacNeal--Chief Financial Officer",
+    "John Lovallo--Bank of America Merrill Lynch -- Analyst",
+    "Brian Biros--Thompson Research Group -- Analyst",
+    "Susan Maklari--Goldman Sachs -- Analyst",
+    "Philip Ng--Jefferies -- Analyst",
+    "Yves Bromehead--Exane BNP Paribas -- Analyst",
+    "Adam Baumgarten--Credit Suisse -- Analyst",
+    "Keith Hughes--Truist Securities -- Analyst",
+    "David MacGregor--Longbow Research -- Analyst",
+    "Stephen Kim--Evercore ISI -- Analyst",
+    "Justin Speer--Zelman & Associates -- Analyst",
+    "Jeffrey Stevenson--Loop Capital Markets -- Analyst"
+  ]
+}

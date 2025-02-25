@@ -1,0 +1,284 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, ladies and gentlemen, and welcome to the Peabody Q3 2021 Earnings call. [Operator Instructions] As a reminder, this conference is being recorded today, October 28, 2021.\nI would now like to turn the conference over to Alice Tharenos, President of Investor Relations and Communications. Please go ahead."
+    },
+    {
+      "speaker": "Alice Tharenos",
+      "speech": "Good morning, and thanks for joining Peabody's Earnings call for the third quarter of 2021. With me today are President and CEO, Jim Grech and CFO, Mark Spurbeck. Within the release, you'll find our statement on forward-looking information as well as a reconciliation of non-GAAP financial measures. We encourage you to consider the risk factors referenced there, along with our public filings with the SEC.\nI'll now turn the call over to Jim."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Thanks, Alice, and good morning, everyone. Peabody had a very good third quarter with our results benefiting from current robust global coal market dynamics. Strong operational performance, coupled with increased seaborne pricing and global demand yielded quarterly results we have not seen since 2018. We continue to advance actions to position the company to be resilient in all market cycles by expanding our margins, reducing our debt levels and removing obstacles to increase production. I would like to start by thanking our global workforce for their continued focus on working safely and efficiently. We are excelling not only because of strong coal markets, but also due to the dedication and efforts of our talented workforce.\nAcross the globe, we are seeing record coal index prices in each market segment and demand returning to near pre-pandemic levels. The near-term market outlook for all our operating segments is favorable, with strong market indicators and increased global demand, providing a compelling story for coal and Peabody. The seaborne thermal and metallurgical coal markets are expected to remain tight in the near to medium-term as supplier response to elevated demand remains muted. Heavy rains in Indonesia, rail issues in Russia, production issues in Colombia and hampered domestic supply in China. Additionally, gas supply constraints and low wind generation in Europe have all combined to exert positive pressure on the global thermal market, while the seaborne met market is being bolstered by robust steel production and decade-high steel margins and tight coal availability.\nFor 2022, with two million tons of incremental production expected at our met coal mines and thermal export production in line with 2021, we are well positioned and are looking forward to taking advantage of this demand and the margins that we anticipate will come with it. In the U.S., thermal coal market indicators are also favorable with increased electricity demand and high natural gas prices leading to gas to coal switching and robust growth in coal generation as compared to prior year. Overall, electricity demand increased 3% over last year, with coal's share of electricity generation increasing to approximately 23% for the first nine months of 2021. As a result of increased demand and supply response, coal inventories have fallen by approximately 54 million tons year-to-date; the lowest level since 1997\nNatural gas prices hit high levels this quarter that we have not seen since 2014, driving up coal generation demand. During the first nine months, utility consumption of PRB coal rose approximately 30% compared to prior year. High supply and demand balances are leading to high forward prices for natural gas. Those forward prices and strong coal export demand are supporting expectations of continued elevated coal prices in the near term. At Peabody?s PRB operations, we increased volumes and are trending toward the high end of our guidance range for 2021 and anticipate some incremental volumes next year. We currently have some uncommitted tons for 2022. However, given current demand exceeds supply, we are only selling those uncommitted tons under multiyear contracts. At our other U.S. thermal operations, we are ramping up volumes next year by approximately two million tons to meet increased customer demand. So we only have a small portion left to be sold for 2022 and for 2023.\nNow turning to the quarter. Our operations were able to deliver projected volumes, offsetting the impacts of labor shortages and higher fuel costs. In addition, we continue to invest in the future with increased equipment refurbishments and mine development. Within our seaborne thermal segment, the Wilpinjong extension and the Wambo Open-Cut JV development projects continue to advance, with over $200 million of capital invested over the past three years. I'm happy to report the box cut development workloads completed at both projects in the third quarter, and we anticipate the Wambo JV to operate at full production run rates in Q4. Our seaborne thermal margins benefited from price increases of 66% in the quarter compared to the prior year, and the segment is on target to deliver higher export volumes in the fourth quarter as compared to prior quarters in 2021.\nOur seaborne met segment continues to deliver on efforts to expand margins through cost and productivity improvement initiatives as well as sales strategies. In the quarter, the CMJV complex and Metropolitan delivered 36% higher volumes at 16% lower cost per ton as compared to the prior year. The CMJV continued to realize productivity improvements at Metropolitan and Metropolitan reached planned longwall production rates. At Metropolitan, we reached a long-term sales agreement that underpins the mine for the next three years with pricing linked to seaborne met coal pricing. And importantly, both Metropolitan and Shoal Creek completed renegotiated labor agreements. The workforce has been back at Shoal Creek since early October, and we expect to restart production later this year. The U.S. thermal mines delivered another solid quarter, generating significant EBITDA.\nAvailability of labor impacted production at several of our U.S. mines this quarter, but we see this improving through programs that we have put in place. And finally, robust U.S. coal market dynamics have allowed us to build a strong book of forward business. The settlement of several long-term sales agreements and improved prices as compared to current levels. Notably, in addition to multiyear PRB contracts, we have reached agreements that will support the continued operation of our Twentymile Mine in Colorado for the next five years and assigned agreements in the Illinois Basin with increased pricing through 2025. Our globally diversified asset base, which makes us distinctly unique from any other U.S. coal company is allowing us to benefit from these market conditions. Our Q3 results were a confirmation of the value we can generate from our asset mix. During the quarter, we also continued to take actions to reduce our debt levels and raise cash to the issuance of common shares.\nTo date this year, we have reduced our debt levels by approximately $250 million. We also took steps to reduce our closed mine and legacy liabilities through the sale of our Millennium and Wilkie Creek closed mines. These actions are part of our commitment to enhance our platform to be resilient in all market cycles. We are also progressing on multiple initiatives that will allow us to expand and improve near-term production. As previously mentioned, Shoal Creek will be back in production later this quarter. And at Metropolitan, the longwall was producing at full run rates, resulting in significant year-over-year increases to our seaborne met export volumes. Moorvale South, which will result in improved quality and extended life at our CMJV is expected to be in production in the first half of 2022.\nAnd in the U.S., we are implementing plans to produce incremental volumes on our minds in the near-term, adding underground production units in the Illinois Basin and expanding development at our Wild Boar complex. In addition, in the PRB, we are refurbishing and relocating equipment to enable increased production. Our long-term strategy remains to reweight investments toward seaborne markets, maximize U.S. thermal asset cash generation and enhanced financial strength through debt reduction.\nI'll now turn things over to Mark to cover the financials."
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Thanks, Jim, and good morning, everyone. Third quarter results demonstrated our ability to capture improved market conditions and generate substantial margins from our diverse asset portfolio. The thermal segment, both U.S. and seaborne, as well as our improving seaborne met segment reported strong results. Third quarter sales were over $900 million; our highest in seven quarters, an increase by more than 30% from the prior year. Reported revenue was $679 million, net of $238 million of unrealized mark-to-market losses. Those losses primarily related to economic coal hedges. At September 30, we had hedges on 2.9 million metric tons, the majority of which were contracted in the first half of 2021 and relate to 2.1 million metric tons of expected production at our Wambo underground mine. These tons are expected to be mined and settled at a rate of 1.4 million tons in 2022 and 0.7 million tons in 2023.\nThe hedge contracts support the profitability of the mine by securing average prices of $84 per metric ton through mid-2023 and are a key ingredient of a strategy to extend the expected life of the mine. The remaining tons relate to brokered coal transactions and other blending and optimization activities, which will settle beginning in the fourth quarter and throughout 2022. Net loss attributable to common shareholders totaled $44 million, including recognition of the $238 million of unrealized mark-to-market losses. We reported adjusted EBITDA of $289 million, more than double the $122 million reported in the second quarter and three times the prior year results of $95 million. Importantly, we took further action to enhance our financial strength, retiring an additional $93 million of senior secured debt in the quarter, resulting in a net gain from early debt extinguishment of $16 million.\nWe also retired an additional $30 million after September 30. That brings debt retired this year to approximately $250 million, more than 16% of debt outstanding at January 1. In the quarter, we raised net cash proceeds of $112 million by issuing nine million shares of common stock under the at-the-market equity program. Subsequent to September 30, we raised an additional $39 million and issued 2.8 million shares. Outstanding shares are now approximately 126 million, and we have about five million shares remaining available under the currently approved ATM program. At September 30, we had $587 million of cash and cash equivalents, net of $240 million of cash margin posted related to the economic coal hedges previously discussed. When these tons are sold, we will realize either the currently higher spot price or cash margin will reverse as prices decline toward the hedged price. Turning now to the segment results.\nThe seaborne thermal segment generated EBITDA of $104 million and benefited from a $23 increase in average realized prices compared to the prior year. Costs per ton were higher than prior year due to lower production at Wilpinjong and the transition to the Wamba joint venture, in addition to unfavorable exchange rates, higher fuel and royalty costs. Wilpinjong shipped 3.5 million tons in the quarter, including 1.6 million export tons at an average cost of $26 per ton. Wilpinjong realized average sales price of $42, resulting in EBITDA margins of approximately 40%. Wilpinjong recorded $56 million of adjusted EBITDA and had $145 million of cash at September 30. The seaborne met segment generated EBITDA of $57 million with an average realized price of $120 per ton and costs of 82, resulting in 32% margins. Third quarter met shipments were approximately 400,000 tons higher than last year due to higher production at Metropolitan and the CMJV.\nTotal costs for the seaborne met segment were lower by more than $15 per ton compared to prior year due to elevated costs at Shoal Creek in 2020, and this despite higher royalties on favorable exchange rates and higher fuel prices in the current quarter. The continued improvement in costs and recent rise in international coal prices demonstrate the value of our seaborne met segment to the company's diversified portfolio of mines. In the U.S., our mines delivered $82 million of EBITDA despite challenges with labor availability and COVID related absenteeism impacting production at several operations. Our PRB mine shipped 22.7 million tons in the quarter at a 15% margin. The other U.S. thermal mines shipped to combined 4.5 million tons and generated 24% EBITDA margins. Both the PRB and other thermal segment costs increased due to higher levels of planned equipment maintenance and higher fuel prices.\nIn the PRB, higher overburden removal and weather events also impacted cost and production for the quarter. Looking ahead through the remainder of the year, we anticipate higher seaborne thermal volumes, including the three million to four million export tons, of which approximately 50% are un-priced. Costs are expected to be lower than the third quarter as the Wambo Open-Cut is at full production and Wilpinjong development is complete. Wilpinjong volumes are expected to be approximately four million tons with two million export tons to finish the year with its strongest quarter. The seaborne met segment is expected to ship one million to 1.5 million tons in the fourth quarter, with 75% of those tons on price. We anticipate production at Shoal Creek to recommence in the second half of the fourth quarter, with ramp-up continuing through the first quarter of next year.\nWe are planning for PRB and other U.S. thermal volumes to be flat with third quarter levels and costs for both segments to be slightly higher in the fourth quarter due to mix. Fourth quarter cash flows are expected to increase substantially over third quarter levels as we continue to see favorable pricing in each of our segments and the cash margin related to coal hedges begin to reverse. Lastly, we will continue to be disciplined, taking advantage of strong markets, controlling costs and further reducing debt.\nI'd now like to turn the call over for questions. Operator?"
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. [Operator Instructions] And we'll go ahead and take our first question from David Gagliano with BMO Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Hi. Excuse me. Thanks for taking my questions. I think maybe I'll just reach out to the 2022 world for a minute. In thermal, you've given us some information, but I was wondering if you could give us more detail on the contracts that are committed in the Powder River Basin and the prices for those -- the average prices, the volumes that's committed and how much -- what's the average price for 2022 in the PRB? First question."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "David, Jim Greg here. And I'd like to take this opportunity since you're asking about 2022 is really just to talk about the whole portfolio addressing the PRB, but also our seaborne. So first off, you asked about prices. And since we're still in negotiations for 2022 in many of our market segments, we aren't going to comment on any specific prices associated with forward sales. We'll do so when we report our Q4 results. But I will, in general, give you some ideas in the directions we're going. So starting with our domestic U.S., you asked about the PRB. We're trending toward the higher end of our forecast for this year, as shown in our earnings release, and we expect that to be the base for our tons for next year with upside for an at 800 BTU area. We're still looking for volumes. We're still working on that upside volumes.\nFor next year, we have limited tons left for sale at that 90 million ton level. And as I said in my remarks, we are pricing -- we are selling them with multiyear deals. Now in regards to pricing for next year for the tons that we do have sold, we are layering -- we have been layering in prices and sales through the whole year. So we're not selling at all at the current price decks that are out there. So that is the case. But again, we do have unsold tons for next year at that 90 million ton level, and we are looking to improve upon those volumes, and we'll be able to comment on that more on the next call. The other U.S. thermal that we have, we are going to take the base that we have from the projections in the earnings release and add about two million more tons of production on that. That coal is already sold, mostly for 2022 and 2023. So in the U.S., again, we have some exposure to the market.\nWe've been layering some of the sales in, and we do have some upside in our other U.S. thermal and working on upside in our PRB tons. On the international, the seaborne gives us significant more market price exposure. Two classifications of coal that we have there, seaborne met and seaborne thermal and the seaborne met, all of our tons are un-priced at the moment. So we are completely open to the market next year in our seaborne met and that's seven -- over seven million tons of coal. On the seaborne thermal, about two-thirds of our tons are un-priced for next year. So are open to the market exposure for pricing next year. David, I think I tried to cover all of the segments there, maybe get all your questions all at once. You have anything else you'd like me to comment on?"
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Yes. Okay. Well, just a quick follow-up. The -- could you -- for the PRB at least tell us, you said shooting for 90 total. Instead of asking about the price directly. Can you tell us how much you have left, specifically to price? And then roughly when timing-wise you layered in the majority of the contracts that are already locked in?"
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "On the layering in of the tons that's been done since, I'll say, midyear till now. And I don't know the breakdown of midyear to later in the year. We've been layering it in since midyear till now. I think probably did a little bit more in the August, September, timeframe, but I don't have that breakdown, David. And as far as what's available to sell at that 90 million ton level, it's less than 10% of the tons that we have available to sell for next year still."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Okay. That's helpful. And then just switching gears real quick. Shoal Creek, can you just talk about the -- a little more detail on the ramp-up, incremental capex, expected cash costs and volumes for full year 2022, please?"
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "So We've signed the contract with the union, and that contract is going to go through the end of 2024, December 31, 2024. So it's a plus three-year contract. The mine has been sitting for over a year. And so the start-up, we're the start-up now. We started with safety training, get calling employees back to work and inspecting the equipment, inspecting the belts and all that work started, and we expect the longwall to start producing some coal sometime here in November. That coal will be used, and we'll get that to the surface and then we'll start commissioning our prep plant because there was extensive work then at the prep plant, which will result in improved yields for us.\nBut to get through all of that, getting it started up, we'll be through the end of this year, and we expect to start hitting our stride toward the end of this year and in the first part of next year on the production levels. As far as capital for next year, it's just going to be normal sustaining capital. And right now, we don't have any information to release on expected tonnages or costs for Shoal Creek for next year."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Okay. That's helpful. And just real quick, I'm assuming that's all going to the export market. And can you remind us the quality of that coal."
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Yes. David, Mark. It is all going to the export market. I would say, given where the markets are today, looking forward to 2022, I'd be thinking that as kind of a high-vol A product for 2022. Historically, We've looked at it as a premium hard coking coal product and probably going out 2023 and beyond, I think of it that way."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Okay, that's helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] We'll go ahead and take our next question from Lucas Pipes with B. Riley Securities. Please go ahead."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Thank you very much and good morning everyone. I have a quick follow-up question there on the domestic contract book. Jim, for 2023, how much of the PRB is open?"
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Lucas, I don't have that number with me. I know We've been selling for 2023 and 2024. When I mentioned multiyear contracts. We're going out 2023, 2024, maybe even a little bit into 2025, but we'll have to follow-up with you on that. I'm not sure of the percentage that we have open."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Got it. But I heard correctly that on other thermal, which I assume would be both Colorado and Midwest, you mostly sold out for 2023?"
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "For 2022 and 2023, even though We've increased production by about two million tons a year in that segment, or we're going to. It's fairly -- it's pretty much sold out for the next two years. Yes."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Got it."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "That would be our Midwest assets and Twentymile."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Got it. Got it. Okay. No, that's helpful. I appreciate that. And then maybe switching over to seaborne thermal. I believe you have about two-thirds open there. And historically, you've sold a lot of tonnage on the Japanese fiscal year. So kind of when would you be selling the remaining two-thirds of that business? I would appreciate your thoughts."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Well, there's some percentage of it that are -- probably two-thirds of that I said was un-priced of that. But some of that is sold, but it's related to index pricing, and then the rest of it is -- comes to market pricing. And as far as the timing of that, we'll lock that in the end of this year and in the first quarter of next year for the unsold amounts."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Got it. Got it. That's really helpful. And then maybe just a last one on the shorter-term outlook. You provided really helpful kind of comments regarding Q4. And obviously, pricing has been terrific in recent months, and I assume much of that would really flow through in full force in Q4. So I wondered, is it possible to provide additional comments around adjusted EBITDA, free cash flow in Q4, you said substantially better, but wondered in these unique times of high prices, if you could maybe help investors."
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Yes. Luca, it's Mark here. I'll try to take a crack at it. I think your question is really looking at fourth quarter, maybe starting with seaborne thermal, we probably have three million to four million tons of export. We have about 1.7 million of those tons priced at an average of $92. The rest will remain floating and open for pricing. From a seaborne met perspective, looking for about 1.3 million tons because we haven't changed our guidance. We have a little over 300,000 tons priced at about 161 and one million tons than un-priced for the remainder of the year. Just for reference, Q3 was 1.5 million tons at $118 million got it."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "The quality of the un-priced -- sorry, yes, between PCI part coking coal. Would you be able to provide some color on that in terms of the quality breakdown of the un-priced met coal?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "No. I don't exactly have that in front of you, Lucas. I think, again, if you think about the one on the seaborne thermal side first, I think that you got to look at two things. One, Wilpinjong is really high ash thermal, and it's sold at a 5% to 20% discount to the API 5. Wambo is truly a benchmark Newcastle product. And majority of the Wambo is unsold."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Got it. Got it. Okay. Well, I appreciate your color comments and best of luck."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "We can go ahead with our next question from Nathan Martin with the Benchmark Capital Company. Please go ahead."
+    },
+    {
+      "speaker": "Nathan Martin",
+      "speech": "Good morning, everybody. And c ongrats on the quarter. So I guess I'll start on the cost side. I think kind of the pricing side has been discussed. So maybe you guys had a pretty material quarter-over-quarter decline in net costs in 3Q. I think you said some of that was really too high Shoal Creek costs a year ago. I guess the question is, is that number kind of repeatable here in the fourth quarter and beyond? Or do you expect Shoal Creek ramp to kind of put some pressure on that number, given the full year guidance of $93 excluded Shoal Creek?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Yes. Nate, definitely saw great cost from the met segment in the third quarter. I think really two reasons for that. First, the ramp-up of Metrop to full production rates at the longwall really quarter-over-quarter, improve that as well as significantly higher production at Moorvale. Moorvale is -- tends to be lumpy. We were certainly on the coal and a higher production drove those costs lower. We haven't changed our overall full year guidance on costs. So it really was as planned and expected, but these costs in the third quarter were particularly low for those two reasons."
+    },
+    {
+      "speaker": "Nathan Martin",
+      "speech": "And Mark, regarding Shoal Creek, I mean do you think that would tend to maybe pressure those costs a little bit in the fourth quarter?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Yes. No question. As we begin to ramp-up at Shoal Creek, there will be some higher costs that will be blended into that met segment. I would expect that to also put pressure on the fourth quarter results."
+    },
+    {
+      "speaker": "Nathan Martin",
+      "speech": "Got it. And then maybe if we just look ahead to 2022, any early thoughts on how costs for the different segments might trend there, especially given some of the inflationary pressures we're seeing in the marketplace?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Yes, two things. One, we're not providing cost guidance for 2022 today. We'll do that on our next call. Certainly, inflationary pressures are being felt across the industry. We look at it on a couple of main factors. Labor is tight as well. Labor is probably 25% of our global costs. We use about 80 million gallons of fuel as well. So some higher fuel costs. And certainly, steel, there's an impact of steel as well from some of the underground mines as well as the components and the equipment. We -- as we're seeing these inflationary costs, it is really a part of the economy that is being felt very broadly. Fortunately, the higher margins that we're expecting to see here is more than offsetting those higher costs."
+    },
+    {
+      "speaker": "Nathan Martin",
+      "speech": "Got it. Makes sense. And then maybe, Mark, could you kind of remind us what percentage maybe of your costs are sales sensitive related for some of the different segments with prices?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Yes. Broad brush stroke, I'd say, from -- on the seaborne side, about 10% of revenues really royalty related and cost production. And then in the PRB with the federal royalties there, we're probably about 25% to 30% on that number."
+    },
+    {
+      "speaker": "Nathan Martin",
+      "speech": "Perfect. Very helpful. And then maybe just finishing with a bigger picture question. Maybe, Jim, can I get your thoughts around some of the headlines we're seeing in China regarding power shortages and maybe more recently, the talk of proposed thermal price caps and maybe how you see that playing out or affecting Peabody?s business in that marketplace?"
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Yes. And Nate, I have a few comments on that. Historically, Peabody has not sold much of our coal in China in 2020, only about 2% of our product went to China. But obviously, what China does with their coal and their policies affects the world markets. And so our view is there's a policy, there's a lot of speculative trading that goes on in the markets. But we always go back to the fundamentals of supply and demand and talk about price caps and so on, but the fundamentals are that demand is strong, and we expect it to stay strong through the winter, at least and into next year.\nAnd the supply is constrained and any quick responses from supply is going to be muted for a number of factors. So if you take the speculative trading out of it that has a lot of fluctuations in the prices and announcements about price caps, we still think the fundamentals are very strong for prices because demand is going to be stronger than supply as We've seen right now, and we expect that to continue through next year."
+    },
+    {
+      "speaker": "Nathan Martin",
+      "speech": "Got it. And I appreciate the time and information, best of luck to you guys in the fourth quarter."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Thank you, Nate."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And we'll go ahead and take our next question again from David Gagliano with BMO Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Hi. Sorry to hop on. Again, I just have a few follow-ups here. I just want to clarify one thing. On the fourth quarter, the export thermal implied volumes that are on price, I think it's 1.3 million to 2.3 million tons. How much did you say was Wambo versus Wilpinjong?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "Yes. We didn't answer. I don't have that number in front of me. Let us get back to you with that, David."
+    },
+    {
+      "speaker": "Alice Tharenos",
+      "speech": "No, I have it. On Wambo, we have 0.3, 300,000 tons, and at Wilpinjong we have 1.2 million tons."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Okay. So right. Okay, that makes more sense. Okay. I thought -- I misunderstood. Okay. And then just on the other thermal business. Visibility is pretty low in some of these regions in the U.S., and some of this could be going into the export market and Twentymile Mine, that kind of thing. I'm just kind of curious, can you give us a little more color on the pricing given that it's sold out for the next couple of years, even at the higher volumes and understanding proprietary issues, maybe just give us like a blended average price or something for the other thermal business and some information, if possible, how much of that other thermal is actually destined potentially for the export market, if any?"
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Okay. So I'll talk about the markets. And Mark, if you want to comment on the pricing after I talk about the markets. First off, our other thermal we have the El Segundo Mine in there. We have in the Twentymile Mine and then our Midwestern Mine. So there's quite a mix of markets and contracts that cover all of that. So again, it's -- David is saying one price index or one thing that you can look at is tough because of the mix that we have in there. There was a small amount of Twentymile that went to export this year, earlier in the year when there was -- when the market was softer here in the U.S., but that was just -- I'll call out a one-off. We don't expect that to continue. So all of that coal that we talk about is going to be domestic for U.S. consumption. We're not really going to be exporting that.\nAnd the forward sales that we have at the mines, again Twentymile, the five-year extension we had is certainly going to take up almost all of the coal of that mine. That's domestic. And then in the Midwestern Mine, We've signed a contract for a large amount of that through 2025. And again, through 2023; it's all sold domestically to utilities in the Midwest. So there'll be no export tons at any of those mines. So again, the pricing, it's a little complex because of the mix of the mines that we have in that category. Again, I'm not sure that there's really a specific indices that we can point you to that says, hey, follow that for the pricing."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Right. Exactly. And that was really the point of the question on my side. Given the broad mix there and things like that, can you just give us -- just tell us the weighted average price that you've locked in with -- because I don't think it would give away any proprietary information within that bucket?"
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "David, as we said, on our next earnings call, we'll give some color on forward pricing and costs and tonnages, we're not giving out any of that information right now because even though things are mostly sold, we still have negotiations ongoing. So until we close those out here, we're not going to comment on the pricing for next year."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Okay. Then just my last question on -- back to Shoal Creek for a minute for 2022. I understand the limitations on cost information at this stage. But obviously, there's quite a bit of capital that went into the mine. I'm assuming quite a bit of capital went in the mine last year or so, a lot of changes. And in terms of the cost structure, can you frame it perhaps within the context of the rest of the seaborne met segment, are costs at Shoal likely to be on average higher, in line or lower than the rest of the seaborne met complex?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "David, it's Mark. A couple of thoughts. One, I mean, Shoal Creek has historically been on the higher end of that cost. So actually to be higher than the other net costs. I mean, when you look at this, I would just -- when you compare it to prior results that we had prior to the temporary shutdown, we'd expect it to be higher temporarily as well. Remember, we're in probably less favorable geology as we ramp this back up where we ended. So yields will be lower. We did invest capital, as you mentioned, in the plant to improve that. But we'll certainly be looking at some higher costs as we start this back up."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Okay. And then just duration of those higher costs, is that through 2022? Or are we just talking about 4Q, 1Q and then fading to kind of a normal number after that?"
+    },
+    {
+      "speaker": "Mark Spurbeck",
+      "speech": "I would say you'd expect it to be higher for 2022, we bring back to more normal run rates after that."
+    },
+    {
+      "speaker": "David Gagliano",
+      "speech": "Okay, thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "All right. We'll go ahead and take our next question again from Lucas Pipes of B. Riley Securities. Please go ahead."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Thank you very much for taking my follow-up Jim and team, I wanted to get your thoughts on the M&A environment out there. Are we more or less likely here to see maybe some consolidation in the space. This has been a really elusive subject over the last few years, would appreciate your thoughts on that."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Yes. Well, it's been elusive. And one of the issues has been the availability of capital to do anything, whether it's capital improvements or M&A. But Lucas, I would just think along with Peabody and other coal companies, I would just think as an industry in general, since everybody's liquidity is better and stock prices are improving versus where it was a year or two ago, all of those things lend -- are tools that could be used to have more M&A than it's been in the past. And my belief is as is many others that consolidation does need to occur in the market.\nSo just -- they're still, even with these strong prices, there's still too many different players out there. The cost structures, the consolidation would do well on the cost side for -- particularly for the U.S. market. So I think consolidation still needs to occur. And again, I'll say the industry in general is a lot healthier to do it with stronger stock prices and more liquidity. But the availability of capital is still a challenge for anybody in the coal segment."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "And when you think about your portfolio, are there areas where you'd say this is maybe less of a strategic priority? And then other areas that is more of a strategic priority. So if you were to share with investors your thoughts as to how the portfolio could be optimized would very much appreciate that."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Well, just a view on strategy for the company. I think the first thing that our company has focused on, and Mark said and I said is, we have to pay down debt. And that's the number one focus that we have is pay down debt. And once we pay down debt and become more resilient for these market cycles, which we think the volatility is going to be more severe and more frequent than We've seen historically because the supply side can't react as quick as it has historically. So I hope, by far and away, our first strategy that I'd like to tell any investor shareholders is pay down debt. And then after that, we would be looking at organic growth off of our own assets. We've talked about that, both in Australia and the U.S. and in the tons that we're looking at for increasing next year, very low-cost tons. It's minimal capital investment. It's using equipment that We've had sitting or refurbishing it and hiring the people to run the equipment.\nSo the next part of that would be the organic growth off of what we have and maybe looking at picking up some reserves selectively to do that. The next part of that, I would say, Lucas, would be growing with our customers. And I put that into a few buckets. One of them is thinking our customers in the industry are seeing the value of having longer term relationships, longer-term contracts because there are fewer players, even though there's more consolidation that needs to occur. And we need to be capitalized, and we need to attract and retain employees at our mines because these longer-term contracts let us do that. But when you start growing with the customers, there are other opportunities out there to look at different ways to do things with power generation with renewables. We have a large surface property holder. So all of those types of things, I would say, are growth for us and growing with our customers. And then fourth on that list, that get down M&A.\nWhat we would look at for M&A we do favor a weighting toward the seaborne markets. We think that's where the growth is and the sustained demand, both on the thermal and met. But in the U.S., we are also dedicated to the U.S. thermal markets, even though it's in secular decline, we still think there are going to be demand for the producers that are left as reliable producers. And so again, in the U.S. markets, we're very comfortable with the assets we have, and I think they're well placed for what we see the future is of the coal needs in the United States."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Very much appreciate that and again. Best of luck."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Lucas Pipes",
+      "speech": "Thank you, Lucas and Jim,"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "And, Jim, it appears there are no further questions at this time."
+    },
+    {
+      "speaker": "Jim Grech",
+      "speech": "Well, thank you all for joining us today. I'd especially like to thank our employees for remaining focused on safety and for continuing to execute on our various productivity and cost improvement initiatives.\nI'd also like to thank our customers, investors, insurance providers and vendors for your continued support. Operator, that concludes our call."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 45 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Alice Tharenos--Investor Relations",
+    "Jim Grech--President and Chief Executive Officer",
+    "Mark Spurbeck--Executive Vice President and Chief Financial Officer",
+    "David Gagliano--BMO Capital Markets -- Analyst",
+    "Lucas Pipes--B. Riley Securities -- Analyst",
+    "Nathan Martin--Benchmark Capital Company -- Analyst"
+  ]
+}

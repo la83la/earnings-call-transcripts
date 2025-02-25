@@ -1,0 +1,289 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good morning, ladies and gentlemen, and welcome to Advanced Drainage Systems Second Quarter Fiscal 2021 Results Conference Call. My name is Laura, and I'm your operator for today's call. [Operator Instructions] I would now like to turn the presentation over to your host for today's call, Mr. Mike Higgins, Vice President of Corporate Strategy and Investor Relations."
+    },
+    {
+      "speaker": "Michael Higgins",
+      "speech": "Good morning, everyone. Thank you for joining us today. With me here, I have Scott Barbour, our President and CEO; and Scott Cottrill, our CFO. I would also like to remind you that we will discuss forward-looking statements. Actual results may differ materially from those forward-looking statements because of various factors, including those discussed in our press release and the risk factors identified in our Form 10-K filed with the SEC. While we may update forward-looking statements in the future, we disclaim any obligation to do so. You should not place undue reliance on these forward-looking statements, all of which speak only as of today. Lastly, the press release we issued earlier this morning is posted on the Investor Relations section of our website. A copy of the release has also been included in an 8-K submitted to the SEC. We will make a replay of this conference call available via webcast on the company website. With all of that said, I'll turn the call over to Scott Barbour."
+    },
+    {
+      "speaker": "D. Scott Barbour",
+      "speech": "Thanks, Mike. Good morning, everyone. Thank you for joining us on today's call. We had a strong second quarter of fiscal 2021, with 10% net sales growth as demand and business activity remains favorable. I want to thank the ADS and Infiltrator employees for their execution and diligence in making that happen. I also appreciate our customers for working with us in new and imaginative ways to serve the construction markets. We generated strong performance in key growth states, including Florida, the Carolinas, Tennessee, Georgia and Utah as well as more broadly across the south and southeast regions of the United States. As a whole, we benefited from our national presence and geographic exposure as well as our increased residential exposure from Infiltrator and to focused homebuilder programs at ADS. Infiltrator once again exceeded revenue expectations with 63% sales growth in the second quarter. Infiltrator continues to see double-digit growth in tanks and leach field products, with particular strength in Florida, the Carolinas, Georgia, Tennessee and Alabama. Recall the Infiltrator results are for two months of the prior year quarter, given the timing of the acquisition, which closed July 31, 2019. In the residential end market, legacy ADS sales increased 15% this quarter. We see favorable dynamics in new construction, repair, remodel and on-site septic. Orders, backlog and sales remained strong through the period, with very limited impact from the slowdown in residential starts earlier this year. As a whole, we are well positioned for growth in the residential market. On the front end of the cycle, the ADS products and go-to-market strategy are positioned for the land development phase, whereas Infiltrator products come in play toward the end of the cycle when construction is nearing completion. Additionally, both Infiltrator and ADS have a repair and remodel component that is strong and growing its home improvement activity and existing home sales continue to rise. About 1/3 of the Infiltrator sales are related to repair and remodel, and at ADS, the repair and remodel exposure is covered through our retail and national accounts.\nThe company's exposure to the residential market has increased to 38% of domestic sales compared to 28% at this time last year. Sales in our nonresidential end market were up modestly, led by strong growth in HP Pipe and Storm Tech retention detaching chambers as we continue to benefit from our exposure to horizontal construction. We are tracking very closely to the segments of the nonresidential market that continue to do well such as data centers and warehouses as well as geographies that are experiencing growth like the southeast and Atlantic Coast. Importantly, we believe ADS is well positioned to continue to grow above market due to our conversion strategy, national coverage and water management solutions package. And given what we see in the market today, we believe the second half of the year will be similar to the market conditions we experienced in the first six months. Agriculture sales were down just slightly this quarter as we called out to a tough comparison period. Still, the agricultural sales team has had a great first half of fiscal 2021, with sales up 14% year-over-year. In addition, the fall selling season is off to a great start as we continue to benefit from the programs we put in place around organizational changes, new product introductions and improving execution in the agriculture market. International sales increased 3%, driven by double-digit growth in our Canadian business. Canada is doing well across both the construction and agriculture end markets. Mexico, on the other hand, is not performing as well and having been more significantly impacted by the COVID-19 pandemic. Overall, strong demand is causing some regional and product level constraints. Lead time and inventory levels are stretched as we get into this part of the season. Based on this strong demand and our desire to more fully capitalize on opportunities in our core markets, we are stepping up our capital investments, which we now expect will total between $80 million and $90 million for this fiscal year. The focus of our investments will be to improve safety, increase capacity for future growth and improve productivity. We will rebuild finished goods inventory in the second half of the year by level loading production at our facilities and our traditionally slow lots, preparing both ADS and Infiltrator for good customer service and normal lead times. This build will depend on our second half demand, ramping up new capital and dealing with the COVID-19-related circumstances like employee retention, absenteeism and local conditions. Frankly, this is consistent with the environment we've been managing since the pandemic hit. We are also making investments in talent, including the recent addition of a senior leader to accelerate new product introductions, marketing and innovation. As highlighted in a press release this morning, we created a new product management and marketing organization to accelerate the development, launch and marketing of new products to meet customer needs. I'm pleased to announce Brian King joined our organization in September to lead this effort as the Executive Vice President of Product Management and Marketing. Brian has 25 years of successful product management experience, and we're excited to have him join our team. Moving to our profitability results. We achieved another quarter of record adjusted EBITDA during the period. Adjusted EBITDA margin increased 820 basis points overall with a 640 basis point increase in the legacy ADS business.\nThis was driven by favorable material costs, leverage from the growth in Pipe and Allied Products, execution of our operational initiatives and contributions from the proactive cost mitigation steps we took earlier this year. Infiltrator also achieved record profitability in the quarter due to strong demand, favorable material costs, contributions from our synergy programs and continued execution of their proven business model. The synergy programs are right on track to achieve the run rate targets we've previously communicated. As we look ahead to the second half of the year, we are optimistic as our order book, project tracking, book-to-bill ratio and backlog all remain positive. We expect the normal seasonal patterns to apply to the second half of our fiscal year as installation activity slows down in geographies with colder temperatures. We also have some profitability headwinds coming up in the third and the fourth quarters, including inflationary costs from materials and labor. We are working to offset these headwinds through pricing actions, operational productivity initiatives and our synergy programs. In summary, we did a very good job executing this quarter. We're focused on safety, managing through the COVID-19 environment, servicing our customers and driving these new levels of profitable performance. Though uncertainty still exists regarding the broader market environment, we are well positioned to capitalize on residential development and horizontal construction while continuing to generate above-market growth through the execution of our material conversion and water management solution strategies. We remain focused on disciplined execution as we look to build off a very strong first half of our fiscal 2021. With that, I'll turn the call over to Scott Cottrill to further discuss our financial results."
+    },
+    {
+      "speaker": "Scott Cottrill",
+      "speech": "Thanks, Scott. On slide six, we present our second quarter fiscal 2021 financial performance. Net sales increased 10%, with 4% growth in our legacy ADS business plus 63% growth in our Infiltrator business. Sales growth in the legacy ADS business was led by a 15% sales growth in the residential market, which remains robust. As Scott discussed, demand in our nonresidential market remains stable, with pockets of strength in horizontal construction, data centers and warehouses. Overall, sales were solid throughout the quarter and this trend has continued through October. Sales grew in Infiltrator across their portfolio, driven especially by strength in their leach field and tank product lines. Infiltrator continued to benefit from the underlying strength in the repair and remodel market as well as growth in single-family housing. This growth was further accelerated by their material conversion strategy. From a profitability standpoint, adjusted EBITDA increased $56 million or 47% compared to the prior year. Adjusted EBITDA for the legacy ADS business increased $33 million or 35%, with strong performance from our sales, operations, procurement and distribution teams. ADS is very well positioned to capitalize on the current stability in our end markets due to our market-leading position, national relationships, breadth of products and services as well as our geographic and end market diversity. These attributes make us the premier partner and leader in the industry and led to the margin expansion and strong financial performance in the quarter. Infiltrator's adjusted EBITDA increased $21 million or 86%, benefiting from strong demand, favorable pricing, lower input costs, productivity improvements as well as our synergy programs. Moving to slide seven. Our free cash flow increased $112 million to $257 million as compared to $135 million in the first half of fiscal 2020. These impressive free cash flow results were driven by the strong sales growth and profitability we achieved in the first half of fiscal 2021 as well as execution on our working capital initiatives. Our working capital decreased to right around 20% of sales, down from 22% at this time last year. Further, our trailing 12-month pro forma leverage ratio is now 1.5 times, slightly below our target range of two to 3 times leverage. We ended the quarter in a very favorable liquidity position as well, with $204 million of cash and $339 million available under our revolving credit facility, bringing our total liquidity to $543 million. The favorable changes we have made to our capital structure have also resulted in no significant debt maturities until 2026. While pleased with our conversion of adjusted EBITDA to free cash flow in the first half of this year, we will need to make strategic investments in working capital and capex during the second half of this year to position us to take full advantage of expected growth as well as to make the necessary investments to support our productivity initiatives at both the legacy ADS and Infiltrator businesses. In addition, we continue to assess bolt-on acquisition opportunities through our disciplined acquisition process. Finally, on slide eight, we introduced our guidance for fiscal 2021. Based on our performance to date, order activity, backlog and current market trends, we currently expect net sales to be in the range of $1,790,000,000 to $1,840,000,000, representing growth of 7% to 10% over last year; adjusted EBITDA to be in the range of $495 million to $515 million, representing growth of 37% to 42% over last year, and we expect to convert our adjusted EBITDA to free cash flow at a rate of around 60% for the full year, driven by our strong results as well as the investments we just discussed.\nWith that, I'll open the call for questions. Operator, please open the line."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] The first question comes from Deane Dray of RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Deane Michael Dray",
+      "speech": "Thank you. Good morning, everyone."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Good morning, Deane."
+    },
+    {
+      "speaker": "David S. Schulz",
+      "speech": "Good morning, Deane. I really like the new segmentation and all these disclosures in the slide deck. I mean, just -- it's very helpful to see the continuity, like on Page 4, where you show legacy WESCO combined with Anixter legacy. So it's a big help to us. And if we start, I think the surprise for me is how much we're seeing share gains in the quarter right out of the blocks. So, you referenced it in the communication and security as well as utility segment. So, if we could just start there and frame for us, how -- any specifics around the share gains, but is it coming in the combined go-to-market? Are there new products? And if we can start there, please."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Yes. Well, thanks for that. Yes. I would say that it's -- we're seeing the results of really two things. And I referred to one -- both of these at the last quarterly call. Remember, we closed on June 22. So we really couldn't get a look at all the details of the portfolio. And so, one major and meaningful positive surprise that we obviously became aware of post-close was the complementary nature of the portfolio team. So, I'll come back to that in a minute. Yes, we thought we competed in the market, and we did, predominantly in utility. But even in utility, these are highly complementary portfolios, when you look at the array of services that each company has. Secondly, it's the cultural match which I find would be also just a major kind of new learning or surprise and just this relentless focus on the customer and delivering value. But to specifically get at your point, I think the team has come together exceptionally well. There's a spring in our step. We're very focused externally on the customer and taking this new broader and stronger portfolio of products and services to market. And we did -- once we stood up the new organization, we've launched a series of cross-sell pilots. And we'll report on these as we move forward. It's always -- it typically proves to be the most elusive synergy to get when companies come together. But, we're really excited and encouraged by the initial results. And so, we launched a series of cross-sell pilots in each of the three businesses. So specifically in EES, we've -- we're taking our lighting capabilities, it's turnkey retrofit renovation and upgrade and applying that -- those capabilities, bringing that to the Anixter's customer base. And we're taking the tremendous depth, breadth and strength that Anixter has on Warrendale cable, which is where their deep roots are and bringing that to the WESCO customer base. And as I mentioned in my prepared remarks, we have the complete electrical package now we can bring to customers. So thrilled about that. In CSS, we're leveraging that global footprint and bringing additional categories to those customers that in terms of AV, in terms of safety. And fundamentally, what we're realizing -- this is even without the new secular trends that have been accelerating due to COVID. 5G, rural broadband build out, data center growth, in-building wireless, we're just seeing really strong growth in the end markets and customer applications. And now, we have the most comprehensive and leading portfolio of products and services to bring to bear on that -- those applications. And finally, for Utility and Broadband, we've got two very strong leading companies coming together. And so I think, in conjunction with our supplier partners, we're able to offer even more value now, even more value. The real key Aha! was the array or a range of services that we have as part of the overall solution offering is broader than we fully appreciate at pre close. So, hopefully that gives you some color, Deane."
+    },
+    {
+      "speaker": "Deane Michael Dray",
+      "speech": "It really does. And, just to clarify on that last point because it was really interesting, you didn't highlight the services that are part of the sales offering in the combined entity. And I know that was important to WESCO before. Do you have a data point on how much services are attached to the revenues? I remember you were saying before, it was like 70% or in that neighborhood before. What does it look like as a combined company?"
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Yes. What I'd like to do, Deane, is not answer that yet because I think as we build out these businesses, we are planning on some additional teach-in at Investor Day in 2021. And, I think the best way to get to that is as opposed to one aggregated number, we'll give you kind of insight business by business and what exactly those services are. And I would say that Anixter also had very similar to WESCO, just a tremendous service value proposition and some specific service offerings that were at the heart of their end-user relationships. So, at that level being to give you some answer to the question, very similar. But I think the entire portfolio is much more expensive as a result of the two coming together, and this will increasingly become one of our key value drivers, I think, going forward."
+    },
+    {
+      "speaker": "Deane Michael Dray",
+      "speech": "Great. And then separate question for Dave. It is an offering we see over 300% free cash flow conversion, especially in a quarter where 100% was considered to be good. Can you take us through the dynamics in that high cash conversion? Are there any one timers? Is there anything tax payment related? So just trying to get a sense of what the run rate should be. Thanks."
+    },
+    {
+      "speaker": "David S. Schulz",
+      "speech": "Yes, Deane. Good morning. Probably the one thing to keep in mind is in our free cash flow statement. We do have accruals in our income statement for the expected interest payments that we'll be making here in the fourth quarter. So that's the one thing to keep in mind is we do have those interest payments that will be coming out. So that's in that other line on the free cash flow statement that's in our press release."
+    },
+    {
+      "speaker": "Deane Michael Dray",
+      "speech": "Terrific. And you have -- you have room to increase the free cash flow target? I know we increased the cost synergy target, but what's your sense on free cash flow target on three years?"
+    },
+    {
+      "speaker": "David S. Schulz",
+      "speech": "Yes. We've already gone out, and we've talked about there being $75 million of net working capital improvement through the integration of the companies. And as I mentioned during our prepared remarks, we are working on upside to that. And that's one of the things that we're most pleased with is as we brought the companies together, there's a -- as John mentioned, a very, very strong cultural alignment when it comes to bringing the company together from a customer perspective, but also how we think about working capital. And we do believe that there is going to be substantial upside across all three elements of our synergies, including net working capital going forward."
+    },
+    {
+      "speaker": "Deane Michael Dray",
+      "speech": "Great.Thank you and congrats to everyone."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Thanks, Deane."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Sam Darkatsh of Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Samuel John Darkatsh",
+      "speech": "Good morning, John. Good morning, Dave. How are you?"
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Good morning, Sam."
+    },
+    {
+      "speaker": "Samuel John Darkatsh",
+      "speech": "I had two observations following the disclosures of your new segment reporting yesterday, if we could score them a little bit. The first one had to do with corporate overhead. Anixter, roughly the same size as WESCO, but had -- and I'm looking specifically in 2019, had nearly twice the overhead why -- and it's kind of a big number, $80 million to $100 million or something higher. Why is that? And, I'm wondering if your overhead synergies should be considerably higher than the $35 million to $40 million that you've highlighted based on just simply rightsizing the overhead between the companies?"
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Well, thank you for that question, Sam. I love your question. Look, two comments. One is, yes, there's opportunity. Two, if you get underneath the covers and look at the composition of that, there were some -- there were some functions that were more centralized, Sam, than distributed into the businesses. So the answer is, you should take both of those into account. There were certain, I'll call it, corporate level or administrative processes that they had centralized and within that corporate cost bucket but your insights are right. We saw that as an opportunity for synergies as we work the financial commitments to the model well in advance of closing and we're beginning to realize those synergies already. I mean, I think we're absolutely thrilled, thrilled is the word with the integration. The progress we've made with the integration teams on synergies, why we've raised the $200 million to $250 million. But, we also took the year one from $68 million to $100 million. So -- and as Dave mentioned, that's in the G&A area as well for our supply chain is where we've got some really strong momentum. With that said, we have increased confidence that we'll be able to deliver upside against these new higher targets. And we are still running to, which I mentioned before, to substantially higher targets internally. So the teams right now, the numerous integration teams that are executing have targets that are well above our new revised external targets."
+    },
+    {
+      "speaker": "Samuel John Darkatsh",
+      "speech": "Second question, the other observation I had. I mean, obviously, John, you've mentioned repeatedly that higher scale means higher margins. And I think that's really intuitive for a distribution business. What else was interesting to me though is Anixter's EES business, clearly subscale versus you folks. It's like half the size. You folks, WESCO. Half the size and yet it consistently had one point or two higher margin than legacy WESCO. Wondering why that is. I'm guessing some of that's wire and cable product mix, but I'm wondering if there's also some branch or labor productivity in there. I'm just curious as to how Anixter could consistently get higher margins with a much smaller business and if there's any either learnings or takeaways as to how to capture that more holistically."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "The way you frame the question, you actually have the answer. So, they're absolutely undisputed leader in wire and cable. If you go back and look at Anixter's deep roots, wire and cable, connectivity solutions. This is pre fiber. Then they pivot in the fiber organically and have built out that business globally organically, and now have the preeminent leadership position in communications and security. But in that category, wire and cable and all what that means, they are the industry leader with scale, size, scope and scale that garners higher margins, and that gives us the complete electrical package. The balance of their electrical business, Sam, is what they've picked up through the HD Supply Power Solutions acquisition. And so, the other categories that I'll call more -- the more complete electrical package, broad-based electrical, with really, for all intents and purposes, kind of relegated to the southeastern portion of the U.S. and that's the legacy HD Supply Power Solutions, broad-based electrical business is the old Hughes Supply, if you go back quite some time ago. They did not have a broader-based electrical capabilities in other geographic regions. So, your insights are right. The way you ask the question is right that it's really wrapped around that category. And the way they actually -- the value-added capability to have around wire, cable, connectivity solutions and the services, it's just that delivers tremendous value to customers, and they're seeing that in the result in margins. So I think on a combined basis -- the real important point is on a combined basis, though, this was probably -- this was not probably. This was competitively the weakest part of WESCO's broad-based electrical offering. We had strength in wire and cable in some local geographies, but we didn't have it, the size, scope or scale across the U.S., across Canada, and we were not able to take it internationally. And that's what Anixter gives us. And so, that really is the leverage point, Sam, for the EES business. I mean, it's something I've always wanted, and now we've got it. On a combined basis, we've got the complete package."
+    },
+    {
+      "speaker": "Samuel John Darkatsh",
+      "speech": "And if I could sneak one more in real quick, Dave, not to forget about you. Can you help us on a pro forma basis in the fourth quarter as to how we should think about incremental, decremental margins?"
+    },
+    {
+      "speaker": "David S. Schulz",
+      "speech": "Yes, Sam, that's something that we're not going to get into too much detail over. I mean, we're not providing any guidance for the fourth quarter. One of the things that I would point you back toward is prior to the acquisition with Anixter, during our first quarter call, we had targeted on a WESCO-only basis that our Q3 -- sorry, Q2 through Q4, decremental margins would be in the range of 10%. And I would just highlight that we indicated back during our Q2 call that we were well within that range. We are within that range again here in the third quarter, but we're not providing any specifics for the fourth quarter. We're really focused on driving value for the shareholder on a combined company basis now."
+    },
+    {
+      "speaker": "Samuel John Darkatsh",
+      "speech": "Very helpful. Terrific quarter, folks."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Thanks, Sam."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from David Manthey of Baird. Please go ahead."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Yes. Thank you. Good morning, everyone."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Good morning, Dave"
+    },
+    {
+      "speaker": "David S. Schulz",
+      "speech": "Good morning, Dave."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "So I'm hoping to understand the key factors behind the very strong gross margin. And if the mid '19s is sustainable from here? Was the majority of the $15 million you achieved in synergies related to supply chain? Is the first question."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "No. The majority of what we're seeing in that $15 million is really related more to the SG&A. Just given some of the changes that we've made to the organization, plus duplicative corporate overhead costs. So, we've not really seen the full benefit of our supply chain initiated actions here in the third quarter."
+    },
+    {
+      "speaker": "David S. Schulz",
+      "speech": "I would say the supply chain benefits, we are in the very early days in terms of realization, Dave. But based on the work we've done, that was a factor that gave us increased confidence on why we raised the $68 million to $100 million and the $200 million to $250 million."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay. Make sense. And just..."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "And back to your gross margin question. So back to the gross margin question. Look, I -- Anixter now -- and going forward with these segments, we're not going to continue to have legacy Anixter-WESCO, but I think it's really important with respect to this point and probably a few other in this call. With respect to margin, this would have been -- this was the eighth consecutive quarter of gross margin expansion for legacy Anixter. And they -- as I alluded to in the last quarterly call -- earnings call, they had -- they put in place a very comprehensive gross margin improvement program three years ago, and we're still seeing the benefit of that. We are taking that enterprisewide and we are in the very early days of that. That has not contributed yet to the parts of legacy WESCO that are now part of EES, CSS and UBS. Legacy WESCO expanded gross margins on a like-for-like basis. And that's the result of a series of hard-working initiatives we had going on last year into the first part of this year. So -- and that -- although that does not have the Anixter program, with how we're going to drive an enterprisewide, influencing or impacting those results yet. So to answer your question, we -- we're going to be very focused on operating profit growth and operating margin expansion, but highly confident that gross margin expansion will be part of that recipe going forward."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay. Thanks, John. Yes, pretty remarkable in this environment to keep that moving higher. Second, construction. I know it's a smaller percentage of your business today, but it's just surprising to me that you're seeing growth when no one else in the world seems to be seeing growth. And, maybe you could just give us some examples, maybe it's mix that's driving that. Could you give us some examples of particular construction verticals you're seeing growth in?"
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Yes. Well, I think that -- first, let me start to go at the aggregate level. The backlog is a record backlog exiting the third quarter, and we came through October, the momentum is improving overall for the business, and our book-to-bill stayed above 1.0 as we exited October and entered November. So -- and when you look at our sequential improvement of Q2 to Q3 that was what was most notable. So, construction was up double digits sequentially, the sales were, in both U.S. and Canada, Q2 to Q3. That's above normal seasonality. That's not typical. Typically, as we move through Q3 -- Q3 is typically a strong quarter like Q2 for the construction season. But typically, we start tailing off as we go in into Q4 and the winter season. We saw pretty good momentum across all our construction branches and focused businesses, Dave. From a product category standpoint, we had growth in distribution equipment, we had growth in wire and cable as I was referencing earlier, the other ancillary electrical, we had growth in motor and controls. We had growth in some nice sequential growth in lighting, some nice sequential growth in solar. So I don't -- I mean, I share a view that at the aggregate level, non-resi construction still is challenged. With that said, it's a very, very, very large market. And some verticals are more challenged than others. Dave spoke to oil and gas and having its very low -- it's low single-digit percent of the combined business now. So I think a big part of this is what I'd like all of you to understand is, we've mix shifted up to higher growth markets. And construction is still an important end market and value chain for us. We have exceptional capabilities, but it's disproportionately a much smaller part of the company. And with that said, when you get underneath construction, it's -- our current momentum vector is encouraging. And so look, all that we can do is focus on what we can control. We haven't seen any meaningful cancellations of projects only -- some projects have slipped out earlier in the year that we mentioned. And -- but net-net, sequential sales growth, backlog holding up nicely, it's a good position to be, particularly given the backdrop of the end markets in the environment."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay. Thanks a lot, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Christopher Glynn of Oppenheimer. Please go ahead."
+    },
+    {
+      "speaker": "Christopher Glynn",
+      "speech": "Yes, thanks. Good morning. Congrats on the fast start, especially the cash statement on getting deleverage under way."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Thanks, Chris."
+    },
+    {
+      "speaker": "Christopher Glynn",
+      "speech": "Had a question on the ranges of investment you're contemplating for the digital B2B value chain initiatives. Is that included in the $140 million cost to execute? And also, how you're thinking about guardrails around complexity, potential disruption of IT transitions?"
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Yes. So, there's a couple of questions in that. As we go back to the integration update page in the deck, which is Page 8, webcast deck that is. We see what we do with cost synergies. And right under that, we've also increased our one-time operating cost. One-time operating costs to deliver the higher synergies. So just I didn't want to call that out on that page. It's an important comment. But let me talk about digital and IT. First, I'll say that -- I know I mentioned this last time. We have a dedicated IT slash digital team both comprised of WESCO and Anixter as part of our integration office as our best minds and talent across both companies. In addition, we have a separate dedicated consulting partner beyond the overall partner, not the overall integration partner we have, who is in place and doing a terrific job, it's a separate world-class consulting firm that's helping specifically on this effort. And I mentioned last time, we're looking at all the current state systems, identifying how to best leverage digital applications and our combined big data to create competitive advantage. We're completing that assessment of systems and digital investments. You'll recall that we had been very clear in our original financial models of that we're going to have about $120 million per year in capital expenditures for the first three years post close. And our -- typically, our base capital is running at a $90 million REID, if you look at the two companies combined. So we laid in an additional $85 million and $90 million of incremental capital on top of the run rate capital. That was in the original financial targets and models that we outlined to you. And now we're taking synergies up and onetime close up just slightly to implement. We -- so that -- I think everything that we expect to do, we think we can fit within our current financial parameters. That's really important to understand. I will tell you, as a kind of initial proof point, we have two very interesting digital use cases under way. I'm not going to describe what they are in this earnings call. This is something we'll want to do as we get into 2021. And with our Investor Day and other investor presentations, begin to much -- develop much better exactly what we're doing vis-a-vis digital. But in both cases, we've got agile development under way. We're standing up these digital use cases in our current environment and leveraging our big data. We have taken Anixter's data and WESCO's data, and we now have combined it, and we're using a version of essentially a data lake to leverage that data to support these two digital use cases. I am thrilled with our initial progress. And I expect that we'll have some interesting results as we move through Q4 and into early Q1. This is rapid, agile development on these two new cases, and I expect to have some really interesting and compelling results coming out of that. So, I probably gave you a bit more than you were asking. I think it's just really important to understand that -- and I'll put this in context. In the near to midterm, this is an integration execution story. Growing above market, leveraging cross-selling opportunities with broader product and services portfolio, expanding margins, reducing cost, delivering those synergies, exceeding the synergy targets, generating exceptional cash flow paying down debts, delever. In the mid to long term, this is a digital transformation story, and we've already begun with the specific initiatives and activities to start standing up these digital use cases. I'm absolutely thrilled that we've got that under way, only a few months post close. So hopefully, that gives you a little insight."
+    },
+    {
+      "speaker": "Christopher Glynn",
+      "speech": "Yes. No, thanks. That's great. I was asking all of that. And a follow-up, as you're driving cost synergies and managing sales synergy strategies, wonder if you've seen any pockets of issues around key retention or work force on we with the integration environment? Or any kind of fallout around those types of issues?"
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "No. We've had no issues. I'm absolutely kind of thrilled with the cultural combination, as I said, and kind of the extra effort being applied to customer focus. We've come together terrifically. So no issues there. I will say that you'll recall in our initial targets that we outlined. We had assumed some revenue dissynergies that was in the basic construct. We have not seen any revenue dissynergies to date. So it's our goal not to have any, but I thought I'd just answer that because I think your question was probably workforce plus also any disruption we're seeing. So far, exceeding expectations in both regards."
+    },
+    {
+      "speaker": "Christopher Glynn",
+      "speech": "Thanks for that, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The next question comes from Chris Dankert of Longbow Research. Please go ahead."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Hi. Good morning, everyone. And again, Congrats on a really great quarter here. Can't help but notice what the increased synergy targets, only $10 million more coming from field operations. Is that more a function of, \"Hey, we just have so much opportunity elsewhere, let's focus on those areas?\" Or are you just being conservative on the field operations saves? Just any commentary on kind of that mix would be great."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Yes, Chris. Good morning. Appreciate the question. One of the things that I'd highlight here, and we've said this earlier in the year as well that as we started to come together, particularly in year one, we anticipated that the majority of the synergies in the first year would be coming from the SG&A and corporate overheads up. And that we would be working on the supply chain and the field operations initiatives as we get more information, more data, and we think about how we transform the company going forward. So we're actively working the synergies in those areas. We have gotten some additional synergies in the supply chain area, just based on what we've been seeing and what we've been able to work against, particularly in the indirect procurement area. But again, most of what we're seeing here in the first year is related more to that G&A in the corporate overhead side."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. Got it. And we touched on it earlier, but I guess, just trying to pull the thread a bit more, on the gross margin improvement front, that cross-pollination of best practices, I guess, if there's a way to kind of size how much of that knowledge has been disseminated? How long it's going to really take to try and get those best practices out into the field? Just any commentary on timetable there would be great."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "So we -- we're in the process of implementing that now in the first part to that effort. It's organic through a couple of quarters. Just a few quarters, still we start seeing results. As I said, on a legacy basis, is their eighth consecutive quarter of gross margin expansion. And look, we all know what the environment has been. I have to -- I'll give credit where credits is due. They are exceptional results given the market environment over the last two years, no doubt about it. That did not drive the improvement in gross margin in legacy WESCO in Q3. I think, again, we're seeing the benefit of some of the actions and initiatives we had going on. So, I would expect that will be a contributor going forward. It could start as early as Q4 incrementally, but clearly, it will be a 2021 driver, no doubt."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. Thanks so much for the color. And John, congrats again."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "The last question today will come from Nigel Coe of Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Cristian Jose Ramos",
+      "speech": "Hi, John. Good morning. This is Cristian Ramos filling in for Nigel. A lot of ground's been covered, but I really wanted to touch on cost synergies here and given your excitement for continued cost synergies. Two more questions. But first, could you maybe size or talk about what the pipeline -- potential pipeline of cost synergies is? I mean, I know you raised it to $50 million total of $200 million, but really interested in hearing what the pipeline sounds like? And then two, I think you've spoken about sales synergies in the realm of 100 basis points. And again, it sounds like you're pretty confident about how you could accelerate that. Can you just also touch on that as well?"
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "So we're not going to size the pipeline because what that question is, is how much -- we -- it's not so much a pipeline. We actually have targets that are substantially higher than that, that have been worked to a great detail in terms of what the potential opportunities are to hit those targets they've been detailed out, they've been scheduled and that's what the teams are executing to internally. And again, yes, we went from $200 million to $250 million. But the targets we had previously set are the same targets that are in place and they're substantially above $250 million. So there -- that's point one. Point two, one of the biggest pleasant surprises, I think -- because we had very high confidence when we deliver the cost. We also had pretty good confidence that we'd get some margin improvement, core margin improvement, again, Anixter, eight quarters in a row now. They had seven in a row. We didn't think that would -- and we actually -- good confidence we'd step up margins on the WESCO side. So, what was the biggest positive surprise is top line. I mean you look at the top line, if you really analyze the top line and what we delivered versus market versus other, I'll call it, \"competitive comparators\". It was really strong top line results, and we've got some initial success stories on the cross selling. So as I said and as Dave said, I'll just put an exclamation point on it. Our top line sales growth synergies, our margin expansion synergies, our cost reduction or cost synergies and our free cash flow, stepped up free cash flow generation, all four buckets very, very high confidence and that confidence increased as we went through the quarter that will over deliver the 3-year targets."
+    },
+    {
+      "speaker": "Cristian Jose Ramos",
+      "speech": "That's very helpful, John. And if I could just follow-up and perhaps ask about the cadence of demand throughout the quarter? Because it sounds like -- or it seems like my math here suggests that back half of September was really strong. And so, any incremental color there you could offer would be really helpful. Thanks."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Yes, we had given a data point, partially through the quarter. I think -- and so we did have a strong close, and that momentum has continued in October, as I've said, Dave, you may have read that. But we are -- we have a positive momentum vector right now, period, in terms of opportunity pipeline, bookings, book-to-bill above one and sales. And Dave?"
+    },
+    {
+      "speaker": "David S. Schulz",
+      "speech": "Right. We also had indicated when we were through the quarter that we had talked about being down year-over-year, about 8%, and we did get the benefit of an extra workday. But as John mentioned, we also finished strong. And I think a lot of that goes back to when we combined with Anixter, both companies have been working on how to grow share? And, we saw that beginning to take place here as we brought the companies together in the third quarter. We had a strong close in September."
+    },
+    {
+      "speaker": "Cristian Jose Ramos",
+      "speech": "Okay, thanks."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "This concludes our question-and-answer session. I would like to turn the conference back over to John Engel for any closing remarks."
+    },
+    {
+      "speaker": "John J. Engel",
+      "speech": "Well, thank you all for your time this morning. Brian and Will are available to take your questions. I know we have a number of follow-up sessions scheduled already, and we look forward to being able to spend some additional time with you at our upcoming investor events that includes the Baird Industrial Conference next week in the Stephens investor conference later this month. Thanks again. In the meantime, please stay safe and healthy. Have a great day."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 40 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Michael Higgins--Investor Relation",
+    "D. Scott Barbour--Director",
+    "Scott Cottrill--Executive Vice President, Chief Financial Officer and Secretary",
+    "John J. Engel--Chairman, President and Chief Executive Officer",
+    "Deane Michael Dray--RBC Capital Markets -- Analyst",
+    "David S. Schulz--WESCO International, -- Executive Vice President Chief Financial Officer",
+    "Samuel John Darkatsh--Raymond James & Associates -- Analyst",
+    "David Manthey--Baird -- Analyst",
+    "Christopher Glynn--Oppenheimer. -- Analyst",
+    "Chris Dankert--Longbow Research -- Analyst",
+    "Cristian Jose Ramos--Wolfe Research -- Analyst"
+  ]
+}

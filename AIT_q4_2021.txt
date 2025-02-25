@@ -1,0 +1,242 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Welcome to the Fiscal 2021 Fourth Quarter Earnings Call for Applied Industrial Technologies. My name is Natalia and I will be your operator for today's call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. [Operator Instructions] Please note that this conference is being recorded.\nI will now turn the call over to Ryan Cieslak, Director of Investor Relations and Treasury. Ryan, you may begin."
+    },
+    {
+      "speaker": "Ryan Cieslak",
+      "speech": "Thanks Natalia and good morning to everyone on the call. This morning, we issued our earnings release and supplemental investor deck detailing our fourth quarter results. Both of these documents are available in the Investor Relations section of applied.com. Before we begin, Just a reminder, we'll discuss our business outlook and make forward-looking statements. All forward-looking statements are based on current expectations subject to certain risks, including the potential impact from the COVID-19 pandemic, as well as trends in sectors and geographies, the success of our business strategy and other risk factors.\nActual results may differ materially from those expressed in the forward-looking statements. The company undertakes no obligation to update publicly or revise any forward-looking statement. In addition, the conference call will use non-GAAP financial measures, which are subject to the qualifications referenced in those documents. Our speakers today include Neil Schrimsher, Applied's President and Chief Executive Officer and Dave Wells, our Chief Financial Officer.\nWith that, I'll turn it over to Neil."
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Thanks, Ryan and good morning, everyone. We appreciate you joining us and hope you're doing well. I'll start today with some perspective on our fourth quarter results, current industry conditions and company-specific opportunities. Dave will follow with more detail on the quarter's performance and our forward outlook including fiscal 2022 guidance. And then I will close with some final thoughts.\nOverall, we ended our fiscal 2021 with strong fourth quarter performance that exceeded our expectations and highlights our favorable competitive position as the industrial recovery and internal initiatives continue to gain traction. Before I get to some specifics, I want to thank our Applied team for their commitment and strong execution throughout fiscal 2021, particularly considering the many challenges we faced as the result of the COVID-19 pandemic. Our associates' teamwork, dedication and invaluable contributions turned these challenges into opportunities. This includes being a critical partner across essential industries and now supporting the growth requirements customers face as we enter what could be a prolonged period of favorable industrial demand.\nCombined with our strong cost discipline and the resilient nature of our model, we persevered and generated record earnings in fiscal 2021, while remaining fully invested in our long-term strategy. In a year, unlike any other, we appalled and often exceeded our commitments to customers, suppliers and all stakeholders. And we now look to build on this momentum going forward. As it relates to the quarter and our views going forward, I want to reemphasize several key points that continue to drive strong performance across our business. First, we are seeing sustained demand recovery. Second, our industry position and strategic initiatives are driving growth opportunities beyond the cycle recovery. Third, we are benefiting from a leaner cost structure and effective channel execution. And our final key point, we enter fiscal 2022 in a strong financial position with ample liquidity.\nIn terms of underlying demand, we saw continued improvement across both our segments as the quarter progressed, driving daily sales above normal seasonal patterns and our expectations. Combined with the lapping of prior year pandemic related weakness, sales increased nearly 20% on an organic basis over prior year levels and we're positive on a two-year stack basis. Trends were stronger in the second half of the quarter versus the first half as break fix and maintenance activity continued to ramp.\nIn addition, we saw the release of larger capital spending during the quarter, including across our Fluid Power and Flow Control segment, where shipments accelerated following strong order activity in recent months with backlog remaining at record levels. This positive sales momentum has continued into early fiscal 2022 with first quarter organic sales through mid August up by a high teens percent over the prior year across both our Service Center segment and Fluid Power and Flow Control segment.\nWhen looking across our customer end markets on a two-year stack basis, the strongest areas include lumber and wood, food and beverage, aggregates, technology, chemicals, transportation, mining and construction. We're also seeing improved order momentum across other heavy industries including machinery, as well as stronger demand within our longer cycle specialty flow control market verticals after lagging some in recent quarters. Importantly, we believe our sales improvement goes beyond the current end market recovery and reflects building momentum across our internal growth initiatives.\nIn our Service Center segment, we are supplementing our technical scale with more robust analytics, digital solutions and customer development initiatives. We're also benefiting from past and ongoing talent development initiatives centered on our best team wins culture while our consistent strategy and local presence is strengthening relationships across our customer and supplier base, as they look to execute their growth initiatives with more capable channel partners. In addition, we're leveraging a growing cross-selling opportunity.\nLegacy embedded service center customers are increasingly recognizing our full capabilities across fluid power, flow control, automation and consumable solutions. We believe this drives greater customer penetration and new business wins as customers adhere to new facility protocols and mitigate supply chain risk. In our Fluid Power and Flow Control segment, we continue to see strong demand tailwinds across the technology sector, including areas tied to 5G infrastructure, cloud computing and semiconductor manufacturing. Our exposure across this area has been supplemented in recent years through the ongoing build out of our automation platform, focused on advanced facility automation through machine vision, robotics, motion, and industrial networking technologies. Related organic sales across this automation offering were up over 30% year-over-year in the fourth quarter with order activity remaining strong in recent months.\nOur growing automation offering also aligns with the related trends and solutions we offer across our legacy operations. This includes areas within fluid power where our capabilities in electronic integration, software coding, pneumatic automation and smart technology applications are driving new growth opportunities as customers increasingly focus on machine technology advancements and data analytics. Combined with an accelerating demand recovery in longer and later cycle markets such as industrial OE, process flow and construction segment sales were up 8% organically on a two-year stack basis during the fourth quarter with positive trends continuing in recent months.\nOverall, the momentum we see building from our industry position and initiatives leaves us optimistic heading into fiscal 2022. We remain cognizant of ongoing supply chain constraints across the industrial sector, which has been widely conveyed throughout the industry in recent months. Lead times remain extended across certain product categories driven by component delays and an increase in fulfillment timing. However, the backdrop does not appear to be getting materially worse and the direct impact to our operations and performance remains relatively modest to date. Our technical scale, local presence and supplier relationships have been and will continue to be a competitive advantage in managing through current supply chain dynamics and driving share gain opportunities as the cycle continues to unfold.\nOur team is also doing a great job of managing broader inflation through price actions, strong channel execution and benefits from productivity gains. Combined with a leaner cost structure, our EBITDA increased over 46% year-over-year in the quarter. SD&A expense as a percent of sales was the lowest in 10 years, and EBITDA margins are at record levels. While we expect ongoing inflationary headwinds going forward, our cost and margin execution provides strong evidence of the company-specific margin expansion opportunity, we continue to see unfolding in coming years.\nLastly, our balance sheet is in a solid position following strong cash generation in fiscal 2021. We ended the year with net leverage of 1.8 times, the lowest in four years, an ample liquidity heading into fiscal 2022. Over the past two years, we deployed nearly $340 million on debt reduction, dividends, share buybacks and acquisitions during an uncertain and challenging operating environment, further highlighting the strength of our team and business model. We also entered fiscal 2022, with an active M&A pipeline across our focused areas of automation, flow control and fluid power that could present additional value creating growth opportunities going forward.\nOverall, I'm encouraged by our ongoing execution and position. These are exciting times at Applied as our differentiated value proposition and growth strategy are engaging our internal team and driving increased recognition across our legacy and emerging industry verticals.\nAt this time, I'll turn the call over to Dave for additional detail on our financial results and outlook."
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "Thanks, Neil. And just another reminder before I begin. Consistent with prior quarters, we have posted a quarterly supplemental investor presentation to our investors site for your additional reference as we discuss our most recent quarter performance and outlook.\nNow, turning to our results for the quarter. Consolidated sales increased 3.6% over the prior year quarter. Acquisitions contributed 2.1 percentage points of growth and foreign currency drove a favorable 1.7% increase. The number of selling days in the quarter were consistent year-over-year. Netting these factors, sales increased 19.8% on an organic basis. While partially benefiting from easier comparisons driven by prior year pandemic related headwinds, we note the two-year stack year-over-year organic change was positive in the quarter.\nIn addition, average daily sales rates increased 6% sequentially on an organic basis in the third quarter, which was approximately 600 basis points above historical third quarter to fourth quarter sequential trends. As it relates to pricing, we estimate the overall contribution of product pricing and year-over-year sales growth, was around 80 to 100 basis points in the quarter.\nLooking at sales performance across our segments, as highlighted on Slide 6 and 7 of the presentation, sales in our service center segment increased 19.8% year-over-year on an organic basis when excluding the impact from foreign currency. The segment's average daily sales rates improved 4% sequentially from the prior quarter, which likewise was above normal seasonal patterns. Underlying demand improvement was broad based during the quarter, though end markets such as lumber and forestry, food and beverage, chemicals, aggregates, pulp and paper, and mining reflected the strongest growth on a two-year stack basis.\nIn addition to the strong sales performance across our U.S. service center operations, we saw favorable growth across our C class consumables and the international operations, which contributed to our top line performance in the quarter. Within our Fluid Power and Flow Control segment, sales increased 26.1% over the prior year quarter with our acquisitions of ACS and Gibson Engineering contributing 6.4 points of growth. On an organic basis segment sales increased 19.7% year-over-year and 8% on a two-year stack basis. Underlying demand across the segment strengthened through the quarter, with segment sales benefiting from ongoing favorable demand within technology end markets, as well as with life sciences and chemical end markets.\nWe are also seeing strong order activity across off-highway mobile and industrial fluid power applications, while process related end markets have picked up following a slower recovery in recent quarters. Lastly, demand across our expanding automation platform continues to show strong organic growth trends. As we have previously indicated, we see sustained favorable growth dynamics across the segment given various secular tailwinds and company-specific opportunities tied to our leading technical industry position.\nMoving to gross margin performance. As highlighted on Page 8 of the deck, gross margin of 29.4% improved 63 basis points year-over-year. During the quarter, we recognized a net LIFO benefit of $3.7 million compared to LIFO expense of $0.8 million in the prior year quarter. The net LIFO benefit relates to year end LIFO adjustments for inventory layer liquidations and had a favorable 52 basis points year-over-year impact on gross margins during the quarter. Excluding the LIFO impact in both periods, gross margins still expanded year-over-year, reflecting strong channel execution and effective management to supplier cost inflation with price cost dynamics neutral during the quarter. Gross margins declined sequentially reflecting some normalization from record third quarter performance, as well as timing of price adjustments.\nTurning to our operating costs. Selling, distribution and administrative expenses increased 13.9% year-over-year compared to adjusted levels in the prior-year period or approximately 9% on an organic constant currency basis. Year-over-year comparisons exclude $1.5 million of non-routine expense recorded in the prior year quarter. SD&A expense was 20.3% of sales during the quarter, down from 22% in the prior year quarter. Strong operating leverage in the quarter reflects the benefits of a leaner cost structure following business rationalization initiatives executed over the past several years.\nIn addition, we continue to realize benefits from our operational excellence initiatives, shared services model and technology investments while bad debt and amortization expense were also lower year-over-year. These dynamics and our culture of cost control and accountability, positive balance, incremental growth related investments, higher incentive expense and the lapping of prior year temporary cost actions. Our strong cost control combined with improving sales and firm gross margins resulted in EBITDA growing approximately 46% year-over-year when excluding non-routine expense in the prior year period or 39% when excluding the impact of LIFO in both periods.\nIn addition, EBITDA margin was 10.6% up 165 basis points over the prior year, which includes a favorable 52 basis point year-over-year impact from LIFO. Combined with the reduced interest expense and a lower effective tax rate, reported earnings per share of $1.51 was up 89% from prior year adjusted EPS of $0.80. Similar to recent quarters, the tax rate during our fourth quarter included discrete benefits related to stock option exercises.\nMoving to our cash flow performance and liquidity. Cash generated from operating activities during the fourth quarter was $38.3 million, while free cash flow totaled $34.6 million. For the full year, we have generated free cash up $226 million, which represented 121% of adjusted net income. We had another strong year of cash generation in fiscal 2021 following our record performance in fiscal 2020. Over the past few years, we have generated over $500 million of free cash flow. While partially reflecting the countercyclical nature of our model, our free cash generation is up over prior peak levels, reflecting our increased scale and enhanced margin profile, as well as ongoing benefits from our working capital initiatives, including cross-functional inventory planning, enhanced collection standard work and leverage of our shared services model, all supported with recent investments in technology.\nGiven the cash performance and confidence in our outlook, we deployed excess cash through share buybacks during the quarter, repurchasing 400,000 shares for approximately $40 million. In addition, we paid down $106 million of debt during fiscal 2021, including $24 million during the fourth quarter. We ended June with approximately $258 million of cash on hand and net leverage at 1.8 times adjusted EBITDA, below the prior level of 2.3 times and the fiscal 21 third quarter level of 1.9 times. Our revolver remains undrawn with approximately $250 million of capacity and an additional $250 million accordion option combined with incremental capacity on our AR securitization facility and uncommitted private shelf facility, our liquidity remained strong.\nTurning now to our outlook. As indicated in today's press release and detailed on Page 10 of our presentation, we are reestablishing our practice of providing formal full year guidance given improving visibility around the impact of the COVID-19 pandemic. For fiscal 2022, we're introducing EPS guidance in the range of $5 to $5.40 per share based on sales growth of 8% to 10%, including a 7% to 9% organic growth assumption, as well as EBITDA margins of 9.7% to 9.9%. Our sales outlook assumes a relatively steady industrial demand environment from current trends.\nOn a segment basis, the sales outlook assumes high single digit organic growth in our Service Center segment and high single to low double-digit organic growth in our Fluid Power and Flow Control segment. In addition, based on quarter-to-date sales trends through mid August, we currently project fiscal first quarter organic sales to grow by a mid-teens percentage over the prior year quarter. From a margin and cost perspective, we assume ongoing inflationary headwinds, including greater LIFO expense in fiscal 2022, as well as normalizing personnel expense, including the impact of our annual merit pay increase effective January 1.\nWe expect higher LIFO expense will result in gross margins declining sequentially in our first fiscal first quarter following the LIFO benefit we recognized during our fourth quarter. Based on these dynamics, as well as the lapping of prior year temporary cost actions and the impact of ongoing internal growth investment, we currently project incremental margins and operating income in the low double-digit range for fiscal 2022. We continue to take a balanced approach to managing our operating cost, while our expense and margin execution in recent quarters, provides strong indication of our potential going forward, including our target of mid-to-high teen incremental margins on average over an up cycle.\nIn addition, while the macro backdrop has improved over the past several quarters, there remains lingering uncertainty related to COVID-19 transmission rates, labor constraints and supply chain headwinds, which could influence the cadence and trajectory of industrial activity as the year progresses. We have attempted to capture these variables within our initial guidance, which we believe is prudent as we continue to recover from an unprecedented downturn.\nLastly from a cash flow perspective, we expect free cash flow to be lower year-over-year in fiscal '22 compared to fiscal 2021 as AR levels continue to cyclically build and we replenish inventory at a greater pace in support of our growth opportunities and the recovery.\nWith that, I will now turn the call back over to Neil for some final comments."
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Thanks, Dave. Over the past several years, we've deployed strategic investments and initiatives that have positioned Applied for stronger growth relative to our legacy trends and improved returns on capital in the coming years. While near term macro trends continue to face a number of variables as we transition away from an unprecedented downturn, I believe we remain early in a potentially prolonged industrial cycle considering the breadth of tailwinds we see developing today. These include emerging capex spending following multiple years of under investment, as well as greater industrial production across North America, as customers reduce reliance on long distance global supply chains.\nIn addition, increasing signs of investment in U.S. infrastructure are promising, which could represent a notable tailwind given our participation in industrial machinery, metals, aggregates, chemicals, mining and construction. We also enter fiscal 2022 with a record backlog and strong order growth across some of our longer cycle businesses, which have expanded in recent years including Fluid Power, Flow Control and now automation that focus on engineered solutions and tied to our customers core growth initiatives and capital investments.\nWhile supply chain tightness across the industry is partially influencing backlog right now, we see ongoing demand creation as Applied's technical position is called upon to address customers' greater operational and supply chain requirements. This includes improving demand across our higher margin specialty flow control operations, which should benefit further into fiscal 2022 from pent-up maintenance and service activity, as well as a greater focus on higher environmental and safety standards. We're also expanding our flow control focus across attractive industry verticals such as life sciences and hygienics.\nFurther, we'll continue to expand into new and emerging areas of growth across the industrial supply chain. Of note, following the initial investment and build out of our next generation automation offering, we are now a leading distributor and solutions provider across several product focus areas including advanced machine vision, as well as collaborative and mobile robotic technologies. We're also investing in digital capabilities that complement our local presence and continue to evaluate and develop new commercial solutions that fully leverage our technical capabilities and application expertise as legacy Industrial Infrastructure converges with new emerging technologies.\nLastly, our cross-selling initiative is gaining momentum, with related business wins increasing and broader teams engaged. Considering our embedded customer base across our core service center network, an addressable market exceeding $70 billion and growing, we believe this initiative represents a significant opportunity that should expand our share across both legacy and emerging market verticals into fiscal 2022 and beyond.\nOverall, these growth initiatives combined with value creating M&A potential, a leaner cost structure, operational excellence initiatives and expansion of our shared services model, provide a strong runway to drive above market growth and EBITDA margin expansion in coming years. In the interim, we're focused on achieving our financial targets of $4.5 billion in sales and 11% EBITDA margins. While the timing of these goals remains dependent on the industrial cycle trajectory, I believe they're within Applied's reach and provide the framework for significant value creation as we execute our strategy going forward. Once again, we thank you for your continued support.\nAnd with that, we'll open up the lines for your questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We will now begin the question-and-answer session. [Operator Instructions] Our first question is from the line of David Manthey with Baird."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Thank you, good morning, everyone."
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "I wanted to discuss the cost components here. I assume that the temporary cost actions you took a year ago have all normalized at this point, but what you're talking about in the guidance is, it's just a negative year-to-year comparison because you took those actions a year ago. Could you remind us or tell us when those temporary cost actions were fully normalized? And will that that negative comp stretch beyond just the first couple of quarters of the next fiscal year?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Yes, David, I would say fully normalized would have been in really the third quarter, our fiscal third quarter timing of that, and so they phased a little bit as we took some steps throughout that period, but I'd say fully in our -- into the third quarter."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay. So, we've got a couple of quarters of negative comps there and then you have the merit pay increases January 1st. Okay, that's helpful. Second, could you remind us your target net debt leverage ratio? And if there's no major deals that are in the pipeline as of today, could we see share repurchase be a bigger component in fiscal '22 and beyond?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "I'd say we continue to believe our target net debt leverage would be 2.5 times given where we are at today. And with the M&A pipeline, we could stay below that for a little bit of the near-term or foreseeable future and then that would open up additional capital allocation opportunities for us."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay. And then last question here. In terms of the organic growth at 7% to 9% for fiscal '22, do you anticipate one segment will outgrow the other or should we -- based on the cards, it looks like we could see relatively uniform growth like we did this quarter. Is that your expectation?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Well, I think a little bit in the assumptions of the service center side, we'd probably be closer to high-single digits and then as we think about Fluid Power and Flow Control high-single digits could reach low double-digit in the guidance."
+    },
+    {
+      "speaker": "David Manthey",
+      "speech": "Okay, thanks very much, Neil."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Chris Dankert with Loop Capital."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Hey, good morning, guys. Thanks for taking my question. Touched on it a bit in the opening remarks, I guess, Fluid Power and Flow Control, are we're seeing a real rebound in kind of that build to spec and OEM longer cycle side of that business yet or it's still very early days in the recovery there?"
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "I think we continue to see improvements across one with the technology solutions that we are offering in that, we alluded to it in the remarks. There is some queuing up some orders, right, people wanting to get in line, looking further ahead with some of the tightness in components or the longer lead times in doing it. But we've seen the order build and productive backlog in prior that's coming through in the sales results. And as we look at backlog today, it stay that -- record levels in that. So, I believe in those mid and longer cycle segments, we are in the early stages of what could be a continuing improved industrial cycle for a good period of time."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Got it. Understood. And then just the next one. I mean, looking at -- you mentioned analytics and some of the technology investments that you're undertaking right now. I guess is that of a meaningful scale that's part of the contribution to why incremental margins are a little bit lower than typical this year, kind of, in addition to those other returning costs? And if you could just, where is the investment going, is it more back end and the sourcing, improving rebates that type of thing or more on customer targeting pricing initiative? Any additional color on those investments would be really helpful."
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "Sure. And I would say, overall, our view is, we'll continue at a, maybe an $18 million to $20 million total capital investment side of that. So, we don't think any of those are outsized, but it's really technology that can help our selling teams with mobility tools that help them drill down into -- in the business. And so, they're not high, high capital investments, but greater point-of-use tools that they can have to go forward. So, we don't feel like there is high capital side of that, but it is really helping us run the business, mind for the opportunities, manage sales funnels and pipelines, and allowing our teams to focus next few -- looking forward and then we continue to have the right back office investments that support shared services, warehouse management systems and those things that where we can have greater productivity in the back of the house and more of our resources spending time, forward facing and productively engaging with customers."
+    },
+    {
+      "speaker": "Chris Dankert",
+      "speech": "Okay, that's great color. Thanks so much guys."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Adam Uhlman with the Cleveland Research."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Hey guys, good morning."
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Good morning."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "I guess maybe to start with some near-term question. I guess. July and August sound to be pretty good on a year-over-year basis. I guess, could you help us understand what into those months, that's August to date have looked like relative to normal seasonality? And trending better than expected or worse than what you would have expected on an organic basis?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Pretty consistent with normal seasonality. We did see a continued ramp as we talked about we went across Q4, where we did talk that seasonality where typically, we would have expect to be flat, our organic sales up 6%. So, still early because we looked through August activity talked about being up mid-teens organically, pretty consistent in terms of the seasonal trends we'd see moving from Q4 to Q1."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Okay, got you. Thanks and then can you go back to the price realization and the product cost discussion a bit more. I guess, I'm surprised that pricing, at least in the first half of the year, would it be more above the 1% which you've been seeing recently. Could you just remind us how product costs work flowing through your P&L and I believe there is a disconnect based on the mix of what you're selling in terms of what share realization is and how should we think about that in the second half of the year as some of these bigger price increases start to come through and maybe lift the sales growth numbers? Any thoughts on that?"
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "I think what you're seeing out in this year, again, the just the relative mix of this business where on average it's less than thirds of our SKUs that do repeat year-over-year. When you think about the the Fluid Power and Flow Control project base where you're selling a solution, you just don't get the big price dynamics. So, while we would -- as you look, it seems to you both cost increases and price increases, you'd be able to enact, you'd see a much larger number. As you think about that relative mix of the business and those repeat SKUs where we use that as the gauge, as we talk about price that does water down the impact of net yields that 80 to 100 basis points of price realization in the most recent quarter."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Okay. Any thoughts about how that -- do we get up to like 2% in the back half then with the relative dilution you're having?"
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "I just don't see it just given that relative mix, we continue to do a very good job of react. We've had the pricing tools in place and the contractual work with our larger customers, but I wouldn't want to venture a guess that it would get to maybe a 2% contribution. Once again, just thinking about that relative mix in the range of demand that we see in the business."
+    },
+    {
+      "speaker": "Adam Uhlman",
+      "speech": "Okay, great, thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] Your next question is from the line of Michael McGinn with Wells Fargo."
+    },
+    {
+      "speaker": "Mike McGinn",
+      "speech": "Thanks. You mentioned the guidance captures the seasonality of your business and you've typically seen front and back-end loaded margin performance. I was wondering if there is a discernible pattern within orders regarding maybe size or scope that give you confidence to fill the middle part of your fiscal year or just any comment in general on the seasonality of your margin, how do you expect that to play out for this year?"
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "In terms of these now, it is certainly as we see price increase coming fast and rapid, you do see some lumpiness, but I don't see that bucking the typical trend significantly when you think about the margin profile and how that plays out seasonality. Some of that is driven by again just the contractual pricing on some of the larger customers and the timing thereof. I think -- the thing we would expect to see as you think about the order book and as Neil indicated and Fluid Power and Flow Control record levels in terms of backlog, which does provide some confidence in terms of scenes and slight outpace the normal topline seasonality as we move through the next couple of quarters."
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "And so, Michael. I'd also say to it, right as we think about that, the range and then the seasonality, really at the low end of the range, we're thinking it follows normal seasonal patterns and at the high end of the range, it's following those normal patterns perhaps with a 100 basis points above that. So, that's how we framed it at this time."
+    },
+    {
+      "speaker": "Mike McGinn",
+      "speech": "Understood. So, moving to M&A. Has there been a tweak to the process regarding screening or sourcing deals that I'll share in a different type of target, maybe in the past, it was more legacy sellers that were coming to market be it natural succession planning? Has that changed at all? And yes, I will just leave it at that."
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "I'd say really, no change. Right. We work, we feel, we know are our priorities. We're executing our strategy. We know those best organizations and companies and really look to have a long-term relationship. We never can perfectly control the timing that fit, when that's going to occur or happen. So, we're staying around our priorities, we talk about them being automation and fluid power and flow control and our service center side of our segment, there could be some geographical round out or build out in certain geographies and that's where we're active with our team in doing it. So, no discernible difference in that approach."
+    },
+    {
+      "speaker": "Mike McGinn",
+      "speech": "Got it. I appreciate the time. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Steve Barger with KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Hey, good morning, guys. Neil, you said you expect maybe somewhat better organic growth on the Fluid Power side. Will that translate to higher incremental margin in that segment as well for the year or where the volume across service center drive more benefit in that segment?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "So as we think about in this segment. Right. We had very good incrementals in the Fluid Power and Flow Control in this one. We'll expect some of that to perhaps moderate back as we come in and some of those costs come back in and we go against where we see some normalization of healthcare and some of those other activities go in, but we're pleased with the performance. We think we have continued run rate to improve that business and have it contribute at good levels. And then, I'm pleased with our Service Center trajectory and performance as well, as they've had improvements and they're doing a very good job of managing and pursuing opportunities with the right focus on the cost to serve and as I think back of actions that have been taken to really just optimize the footprint, optimize the structure, balance resources between forward facing opportunities and leveraging technology for the back office. We feel like they're at a good position. So, combined they can both contribute. We just know in this somewhat transition year and as we go up against some of those temporary costs that are going to be coming back or we have to anniversary against, that's what is going to moderate, but we fully believe over the longer cycle that mid to upper teens incrementals that's our focus."
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "[Speech Overlap] some of that stronger margin performance coming out of the Fluid Power and Flow Control segment with the guidance lines out, is going to offset along with the volume benefit that we're seeing on the Service Center side equation with the assumption of some significant LIFO headwinds given that the material cost increases. So, about 30 basis point adverse impact on the gross margin line that we're assuming in the guidance in terms of LIFO. So, a lot of that's going to offset the LIFO headwinds to provide that neutral gross margin performance year-over-year?"
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Yes, OK. And the reshoring and automation conversation was really strong when the pandemic first hit, doesn't seem to cool off a bit. Now with supply chain and labor front of mind for a lot of companies again, are you sensing a greater sense of urgency from customers to pursue automation, robotics, analytics and just trying to get ahead of supply chain constraints?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "So, I think two things. I think reshoring continues, the look at the challenges that the long distance supply chain can present. And so with increased demands, pressure to reduce lead times to increase flexibility, I think that has many customers and in fact some of our suppliers looking at how they enhance and be more regional in their approach to drive their performance. So, I think that continues and it will not be just around what was pandemic related products that it will include in technology and many of those other categories. And then I think automation continues to play across opportunities and if we look at many of our key industries the penetration rates are kind of in the 30% to 40%. We know that's going to increase and we have greater activity and discussions going on with customers about what areas of their facility, what areas of their plants where they can help themselves with productivity. And those projects are moving forward and so we had strong organic growth in that automation segment in the quarter. We're encouraged about the amount of projects and engagement. And we feel like we are well, well positioned in the industrial MRO and all of those segments. I mean, we are embedded into those facilities from a traditional standpoint in bearings and power transmission and fluid power that's opening up more of those opportunities. So, I think our customers will look for that to help their ongoing performance going forward."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "And as you've pointed out, automation organic sales plus 30% in the four quarter, what do you expect for the year from that category for you and how positive is that from mix?"
+    },
+    {
+      "speaker": "David K. Wells",
+      "speech": "So, we've got it, I'd say it's captured in the total guide. So, I'm not sure -- they likely don't continue at that level. Although in our internal reviews, we'll be talking about that as it goes through. They help from a gross margin side and they're running at really fleet average from a profitability side. But with that, we think we've got the opportunity to continue to improve that and those are some of the efforts and actions that are underway now. So, we're encouraged by the performance in the quarter and the contributions that we can have in '22 and really beyond."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "What are you seeing for lead times for robotic arms or other specialty equipment that you need to be able to sell those value-added services? Are things available to you?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "My short answer is, going to say, yes, they are available. And I really say that across our other product categories as well. There can be components, there can be certain delays, we looked to team with the manufacturers to know those and plan accordingly or look at what alternatives can be. So, to-date the impact across the business has been modest. We think we can operate and keep it that way. And then I think with many of the actions going on with manufacturers and suppliers, I think they're going to improve as we work through our fiscal 2022."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "And last one for me. Can you just expand on the technology end-market market a little bit? It seems like semiconductor manufacturers are going to be regionalizing production. There's going to be 10s of billions of dollars, I guess, coming in terms of capacity build out. How big of an opportunity is that for you?"
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "It's been a very good contributor for us going forward and we will look to fully participate in that and so semiconductor, but really the rest of the technology, we think about the infrastructure and look to build out more of the 5G infrastructure. I think that's got a great driver for us. The amount of cloud and data storage requirements that are going on open up additional solutions and alternatives for us. So, as technology touches so much, we will fully participate I think in our segments today. It is probably above 5% in mix of the business and I think it will continue to grow."
+    },
+    {
+      "speaker": "Steve Barger",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time, I'm showing -- we have no further questions. I will now turn the call over to Mr. Schrimsher for any closing remarks."
+    },
+    {
+      "speaker": "Neil A. Schrimsher",
+      "speech": "Thank you very much. I just want to thank everyone for joining us today and we will look forward to talking with you throughout the quarter. Thanks again."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 50 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Ryan Cieslak--Director of Investor Relations and Treasury",
+    "Neil A. Schrimsher--President and Chief Executive Officer",
+    "David K. Wells--Chief Financial Officer & Treasurer",
+    "David Manthey--Baird -- Analyst",
+    "Chris Dankert--Loop Capital -- Analyst",
+    "Adam Uhlman--Cleveland Research -- Analyst",
+    "Mike McGinn--Wells Fargo Securities, LLC -- Analyst",
+    "Steve Barger--KeyBanc Capital Markets -- Analyst"
+  ]
+}

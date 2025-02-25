@@ -1,0 +1,391 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions & Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day and thank you for standing by. Welcome to the Greif fiscal third-quarter 2021 earnings conference call. At this time, all the participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session.\n[Operator instructions] Please be advised that today's conference is being recorded. [Operator instructions] I would now like to hand the conference over to your speaker today, Matt Eichmann. Please go ahead."
+    },
+    {
+      "speaker": "Matt Eichmann",
+      "speech": "Thanks, Whitney, and good morning, everyone. Welcome to Greif's third-quarter fiscal 2021 earnings conference call. This is Matt Eichmann. I'm joined by Pete Watson, Greif's president and chief executive officer, Larry Hilsheimer, Greif's chief financial officer, and Ole Rosgaard, Greif's chief operating officer.\nWe will take questions at the end of today's call. In accordance with regulation fair disclosure, please ask questions regarding issues you consider important because we're prohibited from discussing material, non-public information with you on an individual basis. Please limit yourself to one question and one follow-up before returning to the queue. Please turn to slide two.\nAs a reminder, during today's call, we will make forward-looking statements involving plans, expectations and beliefs related to future events. Actual results could differ materially from those discussed. Additionally, we'll be referencing certain non-GAAP financial measures, and reconciliations to the most directly comparable GAAP metrics can be found in the appendix of today's presentation. And now, I turn the presentation over to Pete on slide three."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "OK. Thanks, Matt, and good morning, everyone. We appreciate your interest in Greif, and hope that you and your families are staying both safe and healthy during the pandemic. Greif delivered robust third-quarter results.\nWe executed with discipline to deliver record quarterly adjusted EBITDA of $238 million and adjusted class A earnings per share of $1.93, fueled by strong volumes and ongoing strategic pricing actions as we continue to experience strong demand across our global portfolio. Our leverage ratio fell at 2.8 times, and our board approved a $0.02 and a $0.03 increase to our class A and class B quarterly dividend, respectively, payable on October 1. We're also increasing our adjusted earnings per share and adjusted free cash flow guidance, reflecting our strong year-to-date results and positive outlook for the remainder of the fiscal year. Finally, in late June, we announced a planned executive leadership transition that will occur next year.\nUpon my retirement on February 1, 2022, Ole Rosgaard will assume responsibility for Greif's next chief executive officer. Until that time, Ole will serve as chief operating officer and work closely with me and our executive leadership team on his transition. Ole is a servant leader and a proven team builder with demonstrated commitment to customer service excellence and disciplined operational execution. Those attributes, along with his extensive manufacturing and industrial packaging experience, makes him the ideal leader to take Greif forward.\nOle, I'd like to ask you to say a few words."
+    },
+    {
+      "speaker": "Ole Rosgaard",
+      "speech": "Thanks, Pete, and good day, everyone. It's great to be with you. As Pete mentioned, my name is Ole Rosgaard, and I'm excited and humbled to be named as Greif's next CEO. I look forward to joining these calls in the quarters ahead and to working more closely with all of you in the future.\nAs head of global industrial packaging, my focus was on driving and delivering the operating and business results that our customers and shareholders expect. As COO, that focus continues across the wider Greif portfolio. And as Pete said, I'm working closely with the executive leadership team on our fiscal 2022 business plan and will share more about my priorities for the future after I assume my new role. With that, I'll turn the presentation back over to Pete on slide four."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "OK. Thank you, Ole. On slide four, global industrial packaging business delivered outstanding third-quarter results. Our global steel drum volume increased by 8% per day.\nOur global rigid IBCs and large plastic drum volumes both rose by more than 25% per day. We also saw mid-teens improvement in our filling volumes versus the prior-year quarter, with demand accelerating specifically in APAC. Third-quarter average selling prices were up across all key global substrates year over year due to raw material pass-through arrangements and strategic pricing actions. In North America, which features our most diverse product mix, all of our key substrates recorded low teens volume growth or better versus the prior year, thanks to generally improving industrial conditions.\nIn Latin America, steel drum volumes rose by 15% on a per day basis versus the prior year and benefited from improved industrial trends and a strong agricultural and citrus season. In EMEA, third-quarter steel drum and rigid IBC volumes increased by roughly 5% and 28% per day, respectively, with strong improvement across most key end markets. And finally, in APAC, steel drum volumes rose by 7% per day versus the prior year. Demand was solid in China, but a little softer in Southeast Asia due to COVID-19-related lockdowns that we continue to monitor across parts of that region.\nAcross GIP, we see little indication of customers rebuilding inventory. Supply chain conditions remain tight, and our team is managing this challenge very well. While we have not experienced any significant raw material shortage, some of our customers have, which has negatively impacted our demand in certain regions. Labor availability is becoming more challenging, which is not unique to Greif, and has impacted the productivity of some plants in both GIP and paper packaging.\nThese disruptions are not material at enterprise level, but certainly present operational challenges, nonetheless. GIP's key end markets are healthy. We experienced a double-digit performance volume demand year over year for both chemicals, specialty chemicals and lubricants in most parts of our global portfolio. Volume demand for paints and coatings also strengthened, especially in the U.S.\nand EMEA. And volume demand for solid food and paste weakened versus the prior-year quarter, but this was largely a result of pricing and margin decisions on our part that impacted conical demand in Southern Europe. GIP's stronger volumes and higher average selling prices resulted in higher segment sales and gross profit year over year. GIP's third-quarter adjusted EBITDA was a record and rose by roughly $62 million due to higher sales, partially offset by higher SG&A expense, mainly attributed to higher incentive accruals.\nThe business also benefited from a $9 million operating tax recovery in Brazil and an $8 million FX tailwind. Please recall that GIP's Q3 2020 results included an opportunistic sourcing benefit of $5 million that did not recur. Looking ahead, GIP is off to a solid fourth quarter, with August signs comparable to our trend in July. I'd also like to comment that our thoughts and prayers are also with those that were impacted by Hurricane Ida earlier this week.\nWhile the damage from Ida is extensive and dramatic, at this time, what we know, we do not anticipate a material impact to our fiscal '21 fiscal results from the storm. I'd ask you to please turn to slide five. Paper packaging's third-quarter sales rose by roughly $120 million versus the prior year, attributed to stronger volumes and higher selling prices due to increases in published containerboard and boxboard prices. Adjusted EBITDA rose by roughly $18 million versus the prior year due to higher sales, partially offset by higher transportation and raw material headwinds, including a $24 million OCC drag.\nSG&A expenses rose year over year, primarily due to higher incentive accruals. We are actively executing on price increases in response to robust demand and cost inflation. Since early June, we've announced five price increases, including a total of $100 a ton on CRB, $120 a ton in total on URB, and $70 a ton on containerboard. As of August, the published indexes recognized $50 a ton on the CRB increases, $50 a ton on the URB increases, and a $50 and $60 a ton on linerboard and medium, respectively.\nDemand in our converting operations remain very, very strong. Third-quarter volumes in CorrChoice, our corrugated sheet feeder system, were up roughly 27% per day versus the prior year and are anticipated to stay strong through the fiscal fourth quarter. Third-quarter specialty sales, which includes litho-laminate, triple-wall bulk packaging, and coatings, were up more than 38% versus the prior year. Third-quarter tube and core volumes were up nearly 18% per day versus the prior year and accelerated by mid-single-digits versus Q2, thanks to improved demand for textiles and protective packaging and continued strength in the film end-market segment.\nPaper Packaging is off to a solid start in August. Volumes in CorrChoice and our tube and core business are comparable to July's actuals. Similar to my comments about GIP, we do not anticipate damage caused by Hurricane Ida to have a material impact to our paper packaging results in Q4. I'd like to now turn it over to our CFO, Larry Hilsheimer."
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Thank you, Pete. Good morning, everyone. Please turn to slide six to review our quarterly financial performance. Big picture, it was an outstanding quarter.\nThird-quarter net sales, excluding the impact of foreign exchange, rose 34% versus the prior-year quarter due to stronger volumes and higher selling prices and were a record. Adjusted EBITDA rose by $78 million and was also a record. As Pete mentioned, EBITDA results include a $9 million Brazilian tax refund from overpayment of revenue-based taxes to the government that occurred in prior periods and were wrongly levied. That refund reduced SG&A.\nKeep in mind, our adjusted EBITDA result overcame more than $50 million of combined OCC and incentive headwinds versus the prior year, making our performance that much more impressive. Interest expense fell by roughly $6 million versus the prior-year quarter due to lower debt balances, lower interest rates and a lower interest rate tier on our credit facility as a result of our substantial debt repayment. Our third-quarter GAAP and non-GAAP tax rate were both 22% and were flat to prior year. Third-quarter adjusted class A earnings per share more than doubled to $1.93 per share.\nFinally, third-quarter adjusted cash flow fell by roughly $43 million versus the prior year. While profitability improved significantly, working capital was a substantial cash use compared to a source in the prior year due to the run-up in raw material prices and corresponding cost increases. That said, our team is executing with discipline and controlling what it can with superb results as trailing fourth-quarter working capital as a percentage of sales improved by 190 basis points year over year to 10.7%. Please turn to slide seven to review our outlook and key modeling assumptions.\nAs Pete mentioned, we are increasing our adjusted earnings per share and adjusted free cash flow guidance, which reflects our strong year-to-date results and positive trajectory for the remainder of fiscal '21. At the midpoint, we anticipate generating Class A earnings per share of $5.20, which is $0.50 per share more than our guide at Q2. This improvement is largely due to stronger volumes and favorable pricing more than offsetting the additional OCC headwinds we expect to incur for the remainder of fiscal '21. With our anticipated fiscal '21 result, we will more -- have more than doubled earnings per share since 2015 despite COVID-19's negative impact, the closure and/or divestiture of nearly 90 non-core or suboptimal plants and without any share repurchase benefit.\nAlso keep in mind that we currently have 600,000 more shares outstanding now versus the end of 2015. We now anticipate generating between $335 million and $365 million in adjusted free cash flow, with a bias to the upside of that range. At the midpoint, adjusted free cash flow has improved by $45 million relative to our Q2 guide due to improved earnings, slightly lower capital expenditures and cash tax savings, partially offset by higher working capital usage commensurate with our announced price increases to offset cost inflation. Please turn to slide eight.\nTo employ a consistent, three-pronged capital deployment strategy focused on business reinvestment, debt reduction and capital returns. We have executed on an aggressive deleveraging plan and repaid $370 million in total debt since Q3 2020. Our compliance leverage ratio improved by nearly a full turn over that time period, and we now anticipate reaching the high end of our targeted leverage ratio range by the fiscal year-end. Given the dramatic improvement in our leverage profile and confidence in strong future cash generation, the Board approved a 4.5% increase to our quarterly dividend effective this year.\nThis is a first step toward a practice of steadily increasing our dividend as we discussed in prior earnings calls. With that, I'll turn the call back to Pete for his closing comments."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Hey, thanks, Larry. If everyone could please turn to slide nine. I want to personally thank our global Greif team for executing with discipline to deliver an outstanding third quarter as we continue to strive toward our vision of being the best in customer service. Looking ahead, we are well positioned to benefit from ongoing strength and improving trends in our key end markets.\nOur extensive global portfolio, differentiated service capability and sharp focus on operational execution enable us to best serve our customer needs while generating significant shareholder value. Thank you for your interest in Greif. And Whitney, if you could please open the line for questions."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Your first question is from the line of Ghansham Panjabi with Baird."
+    },
+    {
+      "speaker": "Ghansham Panjabi",
+      "speech": "Thank you. Good morning, everybody."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Good morning, Ghansham."
+    },
+    {
+      "speaker": "Ghansham Panjabi",
+      "speech": "And congrats, Pete and Ole, on your new roles. I wish you best in the future. I guess on the industrial packaging side and the operating leverage you delivered, it was quite substantial. Can you give us a bit more insight into whether there was any sort of mix benefit for that segment? I'm just looking at volumes, which basically reversed the decline from 3Q 2020.\nSo I guess I'm trying to understand what drove the extent of the margin expansion even with cost inflation to the extent you experienced."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. So I'll talk a little bit about the volume and a little bit of margin, and Larry can add. But from a volume standpoint, Ghansham, we had some low benchmark comparisons versus the prior year. But all of our end markets were very healthy.\nI think in our opening comments, the only end segment that we had lower volumes was the food -- solid food business. But that's more relative to a decision we made on price and margin in Southern Europe. Our volumes and all our substrates are strong. The end markets are very healthy.\nWe don't see much change in that going forward. And we continue to execute with discipline and some of our self-help initiatives that we've talked about. We're very disciplined in our pricing actions, both on executing on pricing for raw materials to our PAMs. We've done a really good job in that business of getting non-raw material increases.\nI think 55% of our contracts include an opener. The teams have done an exceptional job, and we're executing very well operationally and driving a lot of self-help initiatives through a variety of our actions to drive better margins. So we're really pleased and excited. We think there's good upside going into next year.\nLarry, any other thoughts?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. Ghansham, I'd take it down to three things. One, we have been maniacal on our approach to staying ahead of inflation, and our teams have executed extremely well. The annual openers that we built into the contracts over the last four, five years have really provided a way to offset those other increasing costs.\nThat's No. 1. No. 2 is the execution of the PAMs and making them way more efficient and cutting down the lag period.\nThat has benefited us greatly in a period of highly accelerating raw material costs. And so, we've had some nice tailwinds from that. And third is our focus on really getting rid of underperforming operations. I mentioned previously where we were.\nWell, we're now up to about 89 plants. We've over $500 million of revenue we've walked away from on very low-margin business that was 2% of EBITDA or so. So all of those things combined are what's driven the margin where it is. And we can expect to continue to execute going forward."
+    },
+    {
+      "speaker": "Ghansham Panjabi",
+      "speech": "Got it. And just for my second question, I know it's early, but any reason why we should not use the back half of this year's EPS run rate at a minimum as a baseline for fiscal year '22 EPS, adjusting for any seasonality? I mean, you have a lot of pricing coming through, and volumes seem to be in a good spot. So any reason why that would not be the case?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "No."
+    },
+    {
+      "speaker": "Ghansham Panjabi",
+      "speech": "Very clear. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of George Staphos with Bank of America Securities."
+    },
+    {
+      "speaker": "George Staphos",
+      "speech": "Hi, everyone. Good Morning. Thanks for taking my questions. And congratulations, Ole and Peter, again.\nI guess to start, [Inaudible] so if you can talk about the cost inflation you incurred in the quarter. You mentioned 26 million in terms of OCC, if I heard you correctly. What was the total, including OCC, of variable cost pressure year on year in the fiscal third quarter if I station another input cost? And then -- because you had about $250 million of pricing. And then, how does that -- or what's built into your assumptions for the fiscal fourth quarter, again, on variable cost inflation year on year, including OCC, transport and the like?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah, George. So in the paper business, the inflationary element Q3 over Q3 was about $36 million. $24 million of that was OCC. The other was related to chemicals, adhesives, etc.\nTransport was another $13 million just on higher volumes, and another $21 million when you take into account labor, other temps and additional transport on just core volumes. So substantial in the paper business. I don't have -- let me back up on the GIP piece. We had raw material price increases of around $46 million, currency drag of about $8 million.\nAnd then, we had also manufacturing and transport of another $22 million from higher volumes, inflationary manufacturing and transport of $10 million -- I'm sorry, the $46 million was actually our price increases. I don't have a number on the raw material cost year over year. Do you have that, Pete?"
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "It was 29. 24 for [Inaudible] five for others."
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah, five for other pieces and 36 in total. But our -- just to give you a sense, George, cold-rolled steel is about three times more expensive right now than it was a year ago, and a similar ratio on resin."
+    },
+    {
+      "speaker": "George Staphos",
+      "speech": "So I'm sorry, Larry, I didn't quite get that. You said the 46 million in GIP was actually selling price increases. And I didn't get --"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Right. Pricing -- I was wrong -- in non-raw price increases. I was reading the wrong line."
+    },
+    {
+      "speaker": "George Staphos",
+      "speech": "OK. OK. Sorry. I mean, I guess, what I'm getting at, if I look at your guidance and I take the run rate of pricing that you got into the fiscal fourth quarter -- and I added up -- again, not labor, but all the other variable cost pressures, it seems like your guidance is fairly conservative and is building in room for maybe another $50 million, it seems like, of incremental cost inflation.\nI don't know if you can talk to those specific factors, but any color there would be great. And then, my other question, I'll turn it over. Pete, I heard you comment a little bit about the third quarter -- excuse me, the fiscal fourth quarter. But could you give us a bit more detail in terms of what trends you're seeing volume metrically across the businesses early in fiscal fourth?"
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. So on our -- what we're seeing on volumes in the market in August, which is the first month of our fiscal four, the trends are very similar to what we saw in July. So again, healthy end markets. Our volume trends will continue to be strong.\nYou do have to remember, our fourth quarter last year, our volume started picking up from the COVID drop-off, so the increases will not be as substantial as they were in Q3, but they'll still be pretty strong. And we feel really good about the market and the demand equation for our fourth quarter in both PPS and GIP."
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "And George, I don't have the clear data on the raw material component. We do expect that our margin in our GIP business will be slightly lower in Q4 than it was in Q3 because we don't anticipate steel costs going up as much. And so, we've had a catch -- we'll have a catch-up where pricing indexes did not increase, but we have some higher-cost steel coming into our inventories, but still very healthy margins."
+    },
+    {
+      "speaker": "George Staphos",
+      "speech": "OK. Thank you. I'll turn it over."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Mark Wilde with BMO Capital Markets."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "Thanks. Good morning, guys. Pete, I just want to say kind of congratulations to both you and Mike. I can remember six years ago, the company was in a much tougher situation when you took over.\nAnd it's nice to see you kind of getting ready to go out with such strong performance. Now, my questions are really, if you can help us a little bit more on what is left in terms of pricing. You talked about sort of the board price initiatives you have. But I'm also just curious in terms of kind of the lag roll-through on tubes and cores and corrugated sheets and converted products.\nSo if you can just help us think about that issue."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Well, thanks, Mark. And I appreciate the kind words. And I've got to tell you, we've got a very deep bench here at Greif, and we've got a great talented team. And I have very, very high belief that we're going to have a great future at Greif.\nSo to your question on what's left of the mill increases, as we said, container board is a 60 in medium, 50 in liners. And recognize we'll start getting impact in September with full impact by October. So not a full Q4 impact, but it will be accelerating through the quarter. On URB, we have a $50 a ton increase that has been recognized.\nAnd again, the impact will start in September and be fully realized through October. What's left on URB is we announced $70 on September 13. We fully expect that to be recognized as the backlogs and demand for that product is very, very strong at this point, and don't see any change in the future. On CRB, we announced the $50, and it was recognized in two pieces: one at 30; and one, at 20.\nOur recognition or impact won't be until calendar 2022 due to contracts in that business. We have also announced a $50 a ton increase for August 30 for CRB, and we fully expect that to be recognized as well. Again, business conditions are strong. Our backlogs are long, and we're real bullish on this business right now."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "OK. So Pete, for my second question, I'm just curious about potential investments in the URB business. I mean, you've got one really large competitor there. They picked up a very efficient machine in Wisconsin a few years ago.\nThey're rebuilding their main complex down in the southern U.S. So to remain competitive with them as they improve their asset base, do you need to make incremental investments in your system?"
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. So you make a good point. And our largest competitor has done some investments. And as you know, they have taken a stranded medium machine and converted it to a wider and a very efficient URB machine.\nBut we've got a plan for how we're going to improve our URB system, and it combines both our mill system and our converting capability. We don't see that we're going to have a significant disadvantage in cost in that. I think what's more important is what we do and how we go to market and create a differentiated advantage, high touch from a customer service standpoint, how do we create value for our customers and grow that business through that customer service differentiation. But we are looking at ways to improve the overall cost structure and footprint of that mill system, and we'll have more to come into 2022."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "OK. And if I could slip just one more in. Is it possible to just remind us of sort of the roll-off on the Graphic CRB contract?"
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "It is -- we're not going to go specifically into it, Mark. Only because that's between us and Graphic. But it's rolling out through the three different mills sequentially starting next year into late '24."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "OK. Sounds good. Thanks, Pete."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Adam Josephson with KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Adam Josephson",
+      "speech": "Good morning, Pete and Ole. Congratulations, and all the best of luck to both of you. Larry, one on GIP, just on your fourth-quarter assumption, and then I've a full-year question. So you had the two; the FX benefit, the Brazil benefit.\nThere is seasonality typically in that business in that profitability is normally lower 4Q versus 3Q. You mentioned that the steel price issue. Can you just help me with what your expectations are for the profitability in that business in 4Q? And then I'm going to again ask a full year-related question."
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Adam, I don't have the breakdown of that business for the elements that you just spoke of. So let me just walk through just what we anticipate and what changed in -- from our prior-year guidance. I can talk broadly of the factors that are going to impact GIP, which will have lower profitability in the fourth quarter for some of the reasons you mentioned. But we had previously guided to $4.70 a share.\nWe're now up to a midpoint of $5.20. Just roughly, you've got $0.82 of operational improvement that's related to volume and prices, offset by about $0.42 of OCC. Interest expense is a $0.05 lift. Tax is a $0.01 lift.\nAnd then, we've got other on equity, earnings and stuff that's roughly $0.04 on the midpoint. There's ranges around all of those. But yeah, we won't have any more tax refund from Brazil in this current year and likely not in the future, although there's a slight possibility we may get something further down line. The element of steel cost catch-up, as you're accelerating rapidly, you clearly have some benefit of the inventory that you have already purchased at a lower cost as things accelerate.\nThe curve has started to flatten a bit, although there's been a recent cold-rolled steel cost increase again in the U.S. But the rate of increase has dramatically decreased. And so, you'll have some margin squeeze as that plays through the inventory. We don't anticipate, relative to the given current economic projections by most economists, that there's going to be any kind of dramatic drop in steel cost, which would be the only thing that would really be problematic for us.\nBut we do see a little bit of squeeze in the margin. And then, the seasonality impact that you mentioned clearly plays out in the fourth quarter. So a step down in profitability in the fourth quarter for GIP is a correct assumption on your part."
+    },
+    {
+      "speaker": "Adam Josephson",
+      "speech": "And just two more. So one on the -- so if I look at the full year, Larry, let's say that your EBITDA in that segment ends up being, call it, $450 million. If I look at the previous four years, it was somewhere around $300 million per year. So you'd be going from basically $300 million to $450 million, which is -- so that's a 50% jump.\nCan you help us with, is that the right baseline, in your mind, to go off of for next year? I mean the improvement is truly dramatic and commendable. I'm just trying to understand if you think that is kind of the right baseline. Or are there some perhaps temporary factors such that that is not the right baseline to go off for next year?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "I mean, our team has been doing an outstanding job of improving operational. I do want to -- Matt pointed out, I think I might have said 89 facilities closed. It's actually 79, so I misstated that. But like you said, we've walked away from a lot of unprofitable business.\nWe've replaced virtually all of it with more profitable business by winning through our focus on customer service and improved margin business. So I think the basics of what you say, no, I cannot get into specific numbers, but are accurate. We will, as the steel cost flattens, there will be some margin degradation. But we also have a lot of continuing self-help efforts going on.\nWe have additional capex projects on blow molders and a few other operations that are going to continue to improve. So it's a good baseline to work off of, is the bottom line answer to your question."
+    },
+    {
+      "speaker": "Adam Josephson",
+      "speech": "And just one more, if you don't mind. Can you -- however you want to answer this, in other words, include the price increases you've announced but haven't been recognized or just limit the answer to those that have been recognized. But if you add all of them up, containerboard, URB, CRB, what would the impact be on your revenue in paper packaging next year? And similarly, if you take the assumed 4Q OCC price and you just flatline it through next year, what would be the impact of that be?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah, if we take all that and kind of go with the assumption that Pete and I have of recognition of the last price increases we announced, and you play it through OCC at the current level, it's about $180 million lift on the bottom line."
+    },
+    {
+      "speaker": "Adam Josephson",
+      "speech": "OK. Thank you, Larry."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your next question is from the line of Gabe Hajde with Wells Fargo."
+    },
+    {
+      "speaker": "Gabe Hajde",
+      "speech": "Good morning. Thanks. Pete, pleasure working with you. And Ole, I look forward to working with you going forward."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Thanks, Gabe. Appreciate it."
+    },
+    {
+      "speaker": "Gabe Hajde",
+      "speech": "A lot of questions have been asked, and -- but I want to kind of come back to what Adam was dialing in on. And I think maybe instead of focusing on margins, because raw materials can play a pretty big role in what those numbers shake out to be. Even if I go back to kind of coming out of the global financial crisis, I think the comment is just pretty consistent in that EBITDA, I think, kind of peaked out around $366 million in 2010. And so, taking into account all the business that you've walked away from -- and I'm asking sort of in the context of you guys have given kind of fiscal 2022 financial objectives.\nIs there anything in that business that you can point to or direct us at, whether it's mix of business from a product standpoint or a geographic standpoint, that makes it structurally different than kind of what the business was before. Appreciating, obviously, you told us you walked away from $500 million in revs --"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. I'd make -- Gabe, I'd make some comments of it. Pete, then. So big picture, if you think about it, we've been consistently talking to all of you about the fact that we've been focused on building our business in plastics and IBCs.\nAnd that, it's a pretty big structural change relative to the margin profile, particularly after we walk away from the poor business we had. And the other is a bigger focus on the end markets we serve. So we have shifted away where -- if you went back to that post-financial crisis time that you spoke of, we were way more heavily dependent on the chemical companies than we are today. And so, those are two big structural shifts for us that I would mention.\nPete?"
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. Really, three things; how we've improved the overall structure and how we lead that business. First, it's much more improved price discipline. So we've talked a lot this year about the improvements to our contracts and PAMs and shorter pass-throughs, also about the nonmaterial -- non-raw material price increases.\nBut more importantly, we're much more coordinated in that business with one leader under Ole Rosgaard. We've centralized all pricing desk with really strong analytics. So I think, technically, we're better at what we do. We have better overall view of the markets on a global basis, which most of our customers are global in nature.\nSo I think we're much more consistent over our strategy of value over volume, which goes to Larry's point. We've walked away from a lot of unhealthy business, and we've gone after markets that are growing higher and have opportunities to be more profitable. You can also look at what GIP has done from a customer service initiative. When we started in 2015, they had a 57% CSI score.\nNow, they're above 95%. So our ability to serve our customers across a global portfolio has dramatically improved. As Larry said, our strategic growth initiatives are into the resin-based products, IBCs, IBC reconditioning and plastic drum. If you remember, five years ago, I think our total percentage of products, our revenue in steel was over 60%.\nIt's now at 51%. So that growth is in better profitable business and higher-growth markets that the plastic drums and the IBCs address. And third, we've talked about this, and it's really important. We've had some tremendous self-help initiatives that, as Larry said, we've closed significant shops that were losing money.\nWe're at low EBITDA. We've done rooftop consolidations to reduce our fixed cost structure, and we've done some structural changes to our SG&A cost as part of running this as a global business. So when you look at all that, Ole Rosgaard has done a really tremendous job of changing the trajectory of that business. And we feel really confident that it's sustainable and can grow.\nSo we're real pleased with that business and the potential we have in the future."
+    },
+    {
+      "speaker": "Gabe Hajde",
+      "speech": "Thank you, guys, for that. The other one is on capital allocation. I mean, obviously, you guys kind of bumped the dividend here, and you've talked about that. And you talked about investing in the business on slide eight.\nOne of the things I think you put in prior slide decks is kind of your framework for what you kind of filter and think about inorganic or M&A. Can you remind us a little bit, maybe, Larry, as to how you think about M&A, I guess, from a financial standpoint? And sort of how does that coincide with the way management is incentivized?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. Thanks, Gabe. Look, we will remain committed to spending the capital needed to make sure that we feed the cash machine we have. Meaning we will spend what we should on maintenance capital.\nI think you'll see us doing more and more around automation given the labor components of things. So highest priority is always making sure that we save and grow what we have. And then, we will continue to focus on getting our debt leverage ratio down to where we target. But obviously, we're very close and expect to be there at the end of this fiscal yea now.\nSo we've talked previously about -- we're in the middle of a strategic plan, focusing on wrapping that up by the early part of next year. And then, we'll communicate to all of you about what our go-forward look is relative to M&A and that kind of thing. But we also recognize that we are going to be in a situation of really having a lot of excess capital very shortly. And so, to the extent that we don't meet our criteria, which that same chart that we showed many years ago around the various return criteria that we have, given the risk of a potential investment, we'll continue to apply.\nAnd to the extent that we don't find opportunities that fit our appetite, then we'll be returning even more capital to our shareholders."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Hey, Gabe, this is Pete. I just want to make one comment on that. So I think we've done a phenomenal job of deleveraging the balance sheet. But I just want to make it clear, regardless of what our debt leverage ratio is, we're going to be really disciplined in our process to capital allocation.\nI think that's important. We're going to stay true to our strategy and our priorities. So I feel really good about that process that we put in. And again, we're going to have a very, very disciplined approach for how we allocate capital to create the best value for the shareholders."
+    },
+    {
+      "speaker": "Gabe Hajde",
+      "speech": "Right. I appreciate that, gentlemen. I just -- obviously, there was an initial response to the Caraustar acquisition and questions around timing and such. So just wanted to kind of refresh as to how you guys think about it.\nThank you."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Thanks, Gabe."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator instructions] Your next question is a follow-up from the line of George Staphos."
+    },
+    {
+      "speaker": "George Staphos",
+      "speech": "Hi, everybody. Thanks for taking the follow-on. \u00a0Pete, I was wondering if you could talk of where your volume trends are by end market relative to where they were pre-pandemic. And Larry, if you could, I think you commented a little bit on this on the last call.\n[Inaudible] that there should continue to be growth for Greif in its markets and for the company, looking out to fiscal '22 and fiscal '23. Because a lot of the questions, obviously, from the analysts today, ourselves included is, hey, you've had a great year, but you also have a tough comparison now. So where is the growth going to come from essentially?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. I think I got most of your points, George, but you broke up pretty significantly on the part that you addressed to me, but I'll try. If I don't get it, then maybe come back to you. But I'll let Pete go through your first question first on end markets and then I'll try to tack yours on what are we seeing growth in the future."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. So George, let me comment first on our paper packaging segment. So our business models to serve both integrated and independent plant -- corrugated box plants raw materials. And then, in tube and core, we certainly have a direct model, pretty widely dispersed end market segment.\nSo we -- that model has really accelerated our customer service model in a really tight supply chain environment. So I think it's enhanced our paper packaging value proposition. And with our strategic investments in that business, we've really taken advantage of the e-commerce packaging. So we've grown significantly in that segment compared to where we were two years ago.\nSo I think that's one big trend. And I also think, the pandemic, our tube and core business really damaged some of those markets. And they're coming out of it very well, as you can see by our growth of 18% year over year. And we see really good, strong trajectory of our end markets in our tube and core business in August and going forward.\nSo I think we're really well positioned in the end segments there. I'd like to ask Ole to comment on those end segments' strengths in GIP, if you could, George."
+    },
+    {
+      "speaker": "Ole Rosgaard",
+      "speech": "Thanks, Pete. So we see the end markets that we serve at the moment very strong. And in particular, pulp and specialty chemicals are strong. Lubricants, oils and paints and coatings and adhesives, those end markets are strong, and we expect them to remain strong in the foreseeable future."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. I think one thing, as you look at the trend, George, from a standpoint of disinfectant and cleanliness, which I think is going to be a bigger factor post pandemic. And so, some of those end products and chemicals we produce, that will continue to improve. And again, our greater access to IBCs and IBC reconditioning really positions us well to some of these growing markets."
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "And George, relative to what I -- at least what I think I heard your question of, hey, this is great. We've had a wonderful '21. Makes it for a comparable challenge and how might we be focusing on growth. And a lot of it is going to be sort of, hey, things remain the same.\nWe are going to continue to leverage our focus on customer service. We have, we believe, gained some market share. We recovered the business that we walked away from with more profitable business. And we attribute that to winning customer share because we are a reliable supplier, and we are a value-add supplier.\nAnd our teams have done a great job of building those relationships with the customers in both the GIP and PPS business, and we'll continue to leverage that. Second is, back to the strategy of continuing to extend in the plastics, in the IBCs and in our plastic drum businesses and extending that. And then, third, we'll be looking at over integration in our paper business. And what we continue to do, we've been very pleased with the success of Palmyra even through COVID and coming out.\nThat's been a fantastic operation for us. And then, the last, I'd say, goes back to the process we're working on right now, which is our strategic focus in determining what is our growth plan going forward, which is sort of in the sausage works right now. And again, we'll talk about that next spring."
+    },
+    {
+      "speaker": "George Staphos",
+      "speech": "Thanks, Larry. Can you hear me OK? Or is it still chopping? If it is, I will --"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "It's good now. It's good now, yes."
+    },
+    {
+      "speaker": "George Staphos",
+      "speech": "[Inaudible] I guess the question I had as a follow-on is just on plastics. Do you feel you have sufficient share and penetration, both in IBC and plastic so that you get the [Inaudible] in both plastics and metal. I'm guessing, from your comments, you feel you do, because it seems like it's a focus."
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. I think, George, we have -- and you -- unfortunately, you broke up again. But I think your question was do we feel like we have a market position to begin to leverage that more fully. We've said this often before.\nVirtually, every one of our IBC capex spend has been a situation where we've been approached by customers, who want us to serve them. And we have most -- over 50% of the volume committed before we even do a project. So we're being asked by customers, because of the great service that we're providing them, to get more into the IBC business. As we do more and more, that virtuous cycle and the recycling component really starts to drive the margin improvement.\nAnd we did the Tholu acquisition a couple of years ago. We did the investment in the recycling group here in the United States. We did another small deal in Italy. So we continue to do the execute on that whole recycling component of IBCs and plastics.\nSo I mean we are a significant player in plastic drums already. I mean, in the U.S., we're the largest player. So we have the opportunity to expand our business in EMEA and in Asia. So there's a good growth path in front of us."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "And George, to comment on Larry's reconditioning comment, a big part of our strategy is grow that circular business economy model. And it's very, very important to customers. Not only are we supplying the new IBC, but we have a system in place to collect it and repurpose it, whether it's cleaning and reconditioning it, and sending it back out to customers, or by using it for recycled PCR, that we can go back and increase the amount of resin that's recycled in our products. And it's really important to customers.\nAnd you'll see, going forward, we need to improve and increase our ability to do that. That, in turn, will really enhance our overall position in that market. And we're not -- we're behind some others, but we're making quick movement to catch up. And I think our customers have responded very well based on our growth rates in that business."
+    },
+    {
+      "speaker": "Matt Eichmann",
+      "speech": "We will take the next question. We may have lost George at the line."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "OK. Your next question is a follow-up from Mark Wilde."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "Thanks. I've got three quick follow-ups. First, Larry, can you give us a sense on both GIP and in paper of the year-over-year increase in the incentive accruals in the third quarter?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. The overall incentive increase, corporatewide, Mark, was $27 million, third quarter over third quarter. The breakdown of that ends up being about $6 million in PPS, $8 million in PPS and then the rest on corporate functions and other units."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "OK. All right. Second question, Ole, you've had a change in leadership recently at your primary competitor in GIP. And I just wondered whether you're seeing any changes in behavior there that you'd be comfortable talking about."
+    },
+    {
+      "speaker": "Ole Rosgaard",
+      "speech": "Thanks for the question. We're primarily focused on our own business, on our own customers. And my primary function is to serve our customers the best possible."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "OK. So no change in behavior that you've seen in the market?"
+    },
+    {
+      "speaker": "Ole Rosgaard",
+      "speech": "No."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "OK. All right. Then the last one for Pete and Ole. I'm just curious.\nAny learnings from that sort of early teens experience in M&A that didn't go well as you think about sort of the strategic plan going forward, things that you've learned you don't want to do again?"
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. So back when we got back into an acquisitive mode in 2017 and '18, we did extensive learnings on what went right and what went wrong, both in process, which includes this risk management structure and framework and how we went about doing diligence, evaluating fits to our business and also how we execute and determined the value we can create. So I think we demonstrated that in not only the Caraustar acquisition, but a lot -- some of the other smaller acquisitions we've done. And, so we're really pleased.\nPart of this process we're involved in now has to do with relearning. So let's go back and look at what we did really well in the past few years, and what we need to improve on. So we're always in this mindset of continuous improvement. And again, it's really important that we stay focused on what drives shareholder value and not be excited about growth for growth's sake.\nIt's got to be accretive to our current portfolio and to our -- the value we can deliver. And we're learning and we're improving. And what we want to do is get the reputation that we are great executors in our business operationally and our strategic intent. And I think we're making good progress on it.\nOle, anything you'd like to add to it?"
+    },
+    {
+      "speaker": "Ole Rosgaard",
+      "speech": "No, Pete."
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. I'll just add one thing, Mark. I mean, I'm a big believer in checklists. Maybe it's back from my public accounting experience, but we have created a checklist of all the lessons learned.\nAnd whenever the business units have to present an opportunity to Pete and I, whether it's a capex project or an acquisition opportunity, every one of those items on that list that came out of all those learnings has to be addressed. So we're very formalized about it, structured. And I think it will pay off for us continuously going forward."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. I think, Mark, the other comment, what Ole has demonstrated in the last five years here, these really strong execution, very disciplined approach to business. So I think him going into this role will create really stronger discipline in how we evaluate acquisitions and, more importantly, how we expect them going further. So I feel really good about where we are and what we're going to do going forward, and a very disciplined approach to capital allocation."
+    },
+    {
+      "speaker": "Mark Wilde",
+      "speech": "OK. Thanks, Pete. Good luck in the fourth quarter and as we look into next year."
+    },
+    {
+      "speaker": "Pete Watson",
+      "speech": "Yeah. Thank you, Mark."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Your last question is from the line of Adam Josephson."
+    },
+    {
+      "speaker": "Adam Josephson",
+      "speech": "Thanks a lot, Pete and Larry. Appreciate it. Larry, one on the tax rate. So if you end up at the low end of your range at 20% this year, your tax rate will have gone from 27% last year to 20% this year.\nDo you consider that a sustainable level thereafter? Or is there something unusual this year that you would point us to?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. We had some additional free-up of reserves as some tax exams were completed, but not substantial. I do believe, again, with the caveat of whatever happens in Washington and other government capitals around the world on changing rates. But if rates were to stay stable in the current tax system, then low 20s is very sustainable for us.\nSo obviously, I can't predict -- at least I'm not willing to predict yet what's going to happen in Washington or in other places around the world. But if it were stable, we'd be very confident in staying in that rate."
+    },
+    {
+      "speaker": "Adam Josephson",
+      "speech": "Yeah. No, I appreciate that. And just on your OCC assumption and thought. So you're assuming, I think, a $5 increase sequentially in September, October.\nSome people I've talked to expect a lot more than that in September. Can you just talk about why you appear to be assuming a fairly modest increase sequentially in September, October? And what you think the sustainability of these kind of price levels is? Obviously, we're at the high end of the historical OCC price range. Box demand has been the best it's ever been. So it comes as no surprise, I guess, that OCC is at the high end of its range.\nBut how sustainable do you think these price levels are? And why not expecting more of an increase in September?"
+    },
+    {
+      "speaker": "Larry Hilsheimer",
+      "speech": "Yeah. Obviously, we have a relatively sizable player in the recycled paper business. And so, we go to our team for what they believe is going to happen. Obviously, we're not blind to what comments are being made at conferences and things that are driving some other people's views.\nThat said, we've said we estimate $5 in the average. And as you know, we have a range. So our range contemplates the numbers that have been thrown out there by others. So we're totally comfortable with the guidance we provided if that does happen.\nAs to the sustainability, I think it's going to be very interesting to see how things play out. Because as you mentioned, I mean, production of containerboard and boxes and everything else is at like all-time highs. Well, that means there's a whole lot of supply out there. It's just how are we getting it collected.\nAnd obviously, the supply of OCC is not matching the supply and production of containerboard. And I think everybody would acknowledge it has a bit to do with the change in where stuff is going. Obviously, more is going to e-commerce than historically had happened. And the big driver, we believe, is labor.\nAnd it's as much labor for collection, but also in the merchs. And so, we have active dialogues going on with the large haulers, waste and republican -- regional ones like Rumpke and others, to try to understand what's going on in their business. And what we're hearing is they're all somewhat optimistic that, as some of these unemployment supplements roll-off, that they'll have more success in getting labor back into their operations. If that happens, that should lead to more collection and more supply.\nSo we're, I'll say, hopeful. I wouldn't say optimistic, but hopeful and believe that OCC costs should trend back down over time as the labor component of this gets addressed, either through more employment or through more automation in their operations."
+    },
+    {
+      "speaker": "Adam Josephson",
+      "speech": "Thanks so much, Larry, and best of luck in the quarter."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "At this time, there are no further questions. I will now hand the call back to Matt Eichmann for closing remarks."
+    },
+    {
+      "speaker": "Matt Eichmann",
+      "speech": "All right. Well, thank you very much, Whitney. I'd like to thank everybody for their participation today and their questions. I hope you all have a really nice week ahead.\nTake care then."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator signoff]"
+    },
+    {
+      "speaker": "Duration: 58 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Matt Eichmann--Vice President, Investor Relations and Corporate Communications",
+    "Pete Watson--President and Chief Executive Officer",
+    "Ole Rosgaard--Chief Operating Officer",
+    "Larry Hilsheimer--Chief Financial Officer",
+    "Ghansham Panjabi--Robert W. Baird -- Analyst",
+    "George Staphos--Bank of America Merrill Lynch -- Analyst",
+    "Mark Wilde--BMO Capital Markets -- Analyst",
+    "Adam Josephson--KeyBanc Capital Markets -- Analyst",
+    "Gabe Hajde--Wells Fargo Securities -- Analyst"
+  ]
+}

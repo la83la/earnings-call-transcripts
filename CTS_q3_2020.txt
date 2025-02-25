@@ -1,0 +1,292 @@
+{
+  "header_texts": [
+    "Contents:",
+    "Prepared Remarks:",
+    "Questions and Answers:",
+    "Call participants:"
+  ],
+  "prepared_remarks": [
+    {
+      "speaker": "Operator",
+      "speech": "Good day, and welcome to the CTS Corporation Third Quarter 2020 Earnings Call. [Operator Instructions]\nAt this time, I would like to turn the conference over to Mr. Kieran O'Sullivan. Please go ahead, sir."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thank you, Greg -- thank you, Grace. Good morning, and thank you for joining us today, and welcome to CTS' Third Quarter 2020 Conference Call. I'll begin by sharing a few thoughts on our business performance and our operations. As mentioned on our last earnings call, we expected sales to improve in the third quarter. Sales were $113.8 million in the quarter, down 2% in the third quarter of 2019 and up 35% sequentially. Third quarter gross margin was 32.4% compared to 32% in the same period in 2019, up 40 basis points and up 80 basis points sequentially from the second quarter of this year. Third quarter adjusted earnings per share was $0.34, up 17% from $0.29 in the third quarter of last year and up from $0.18 in the second quarter of 2020. We delivered an EBITDA -- an adjusted EBITDA margin of 19%, up 230 basis points from 16.7% in the second quarter of 2020. New business wins were $127 million in the third quarter, and we added seven new customers. We ended the quarter with $132 million in cash and $106 million in debt. Operationally, all our plants are running. We continue to experience challenges at our Mexico locations. Since last quarter, those facilities have improved from approximately 60% capacity to more in the range of 90%. We are monitoring local changes to COVID-19 restrictions at one of those facilities and at our Ostrava facility in Czech Republic.\nAshish Agrawal is with me for today's call and will take us through the safe harbor statement. Ashish?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "I would like to remind our listeners that this conference call contains forward-looking statements. These statements are subject to several risks and uncertainties that could cause actual results to differ materially from those expressed in the forward-looking statements. Additional information regarding these risks and uncertainties is contained in the press release issued today, and more information can be found in the company's SEC filings. To the extent that today's discussion refers to any non-GAAP measures under Regulation G, the required explanations and reconciliations are available in the Investors section of the CTS website.\nI will now turn the discussion back over to our CEO, Kieran O'Sullivan."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thank you, Ashish. As we navigate to COVID-19, our employees are supporting and helping the less fortunate in our local communities, something we're very proud of. Our employees also continue to demonstrate flexibility and responsiveness throughout our operations to support all customers. Our first focus continues to be the safety of our employees and compliance with state and local regulations. We are adapting our business and processes to focus on our priorities, driving profitable growth, strengthening our go-to-market, enhancing our operational capabilities and advancing our leadership talent and culture. The restructuring plan we announced on the last earnings call is progressing to plan and is expected to deliver an annualized EPS improvement of $0.22 to $0.26 by the second half of 2022. More importantly, we are focused on returning to growth, targeting 10%, in line with our strategic plan, 5% organic and 5% through strategic acquisitions. We remain focused on our strategic growth investments as part of our planning for 2025. Growing our business and expanding our range of products that sense, connect and move is the priority. New business awards were $127 million for the quarter, the best quarterly performance this year. We added seven new customers in the quarter, four in industrial and one each in defense, medical and telecom. In transportation, we were awarded a large passive safety sensor award for an electric vehicle application in the China market.\nWe also secured multiple OEM accelerated awards with customers in Asia, Europe and a global platform win with a North American OEM. These recent wins are leveraging our inductive technology, which is a key enabler for growth to meet mid- and high-end product requirements. We secured an additional ride height sensing award with the same customer. Cumulative, EV and hybrid wins this year are approximately $75 million, and we expect further gains. Last quarter, we reported our first win with current sensing. We aim to expand this application in other regions. In defense, we were awarded contracts with several Tier one customers for sonar applications. More recently, we developed and secured a new sample order for an ordinance application. In Europe, we seek to gain share by building relationships with new customers. We are leveraging our footprint and capabilities in Denmark and the Czech Republic, where we recently received sample orders with two new defense Tier one customers. With temperature sensing, we secured a small initial order for an application in electric vehicles. The sensor is part of the charging circuit for the battery management system. In the precision frequency product line, we were selected for a design win in a 5G small cell application for systems in multiple countries, and also secured the distribution order. We secured a multiyear design award for a low-power crystal product in a defense application.\nWe continue to advance product innovations. Our focus in the transportation market, as we have stated previously, is to develop sensor solutions that are agnostic to the underlying propulsion technology, strengthening our growth in the next decade as hybrid and electric vehicle penetration grows. EVs are expected to be less expensive than internal combustion engines in the 2025 time frame as battery costs decline. 15 countries and two U.S. states have announced phase outs of internal combustion engines in the 2030 to 2040 time period, with Norway aiming for 2025. We expect EV penetration to reach 9% by 2025 and 22% by 2030. Our innovations are in the areas of electronic braking, new accelerator interfaces and high-performance temperature applications. We continue to research new material formulations as we target growth in defense, industrial and medical markets. In defense, our primary focus is on the solar market for forward and towed arrays. In industrial, we target in-jet printing, flow and position as well as nondestructive testing. In medical, the primary focus is medical ultrasound, intravascular medical ultrasound, ultrasonic therapy and scalpel applications. We continue to advance our traditional position sensing for industrial applications and new encoder product for medical equipment.\nThe developments for ultra-low life high frequency TCXOs and OCXOs for millimeter wave and sub-6 gigahertz systems are progressing as we continue to gain design awards through a major telecom OEM. While the M&A environment has become a little more challenging due to COVID and associated travel restrictions, we are adapting and continue to strengthen our pipeline of opportunities. We seek to expand our range of technologies, products, customers and geographic reach. We continue to make progress on our foundry operations and expect to have completed the improvements this year. The team is making steady progress on process controls into subsequent efficiencies. The Focus 2025 initiative has an important emphasis on building stronger customer relationships. As part of this initiative, we are improving our go-to-market capabilities, skills and sales incentive plans to place a stronger focus on profitable growth. We are working to improve the quality of the sales funnel, optimize our end market approach, target new accounts and align our functional areas to be more responsive and solution-oriented in line with our core values. As part of our realignment on profitable growth, we are evaluating the product portfolio for longer-term growth and margin expansion. We have moved from a period of sharp decline in the second quarter to a time of uncertainty as the inventory levels are rebalanced and the market responds to high unemployment and other economic challenges. In the U.S., the seasonally adjusted growth rate for 2020 is closer to 13 million units, down 21% for last year.\nWe expect next year to be in the 14 million unit range. On-hand days of supply are now at 55 days, down from 65 days of supply in the third quarter of 2019. European sales are forecasted to decline 24% from last year, and we expect 18.7 million unit levels in 2021. The China market continues to be more robust, with volumes predicted to be down 9%, in the 21 million to 22 million range for this year and up to 24 million units next year. There are signs, the commercial vehicle market may be on an improving trend as freight fundamentals continue to improve. It's a little early to say how sustainable this improvement will be. We continue to see stronger growth in industrial and defense markets. We remain cautious on market conditions in the next several quarters. We expect to resume annual guidance for fiscal year 2021 in February. Our liquidity remains solid. We view this challenging time period as an opportunity to strengthen our capabilities.\nNow Ashish will walk us through our financial performance in more detail. Ashish?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Thank you, Kieran. Third quarter sales were $113.8 million, down 2% compared to last year. Sequentially, sales rebounded strongly, up 35% from the second quarter. Sales to transportation customers decreased by 9% year-over-year. However, sequentially, we grew by 71%. Sales to other end markets increased by 10% versus Q3 of 2019 and 5%, sequentially. Our temperature sensing acquisition had solid growth and added $6.6 million. Organic sales to non-transportation customers were up 4% versus last year. We experienced double-digit growth in sales to both the defense and industrial end markets. As expected, the medical end market was soft. Our gross margin was 32.4% for the third quarter, up 80 basis points compared to last quarter and up 40 basis points compared to last year. Conditions remain uncertain due to the impact of COVID. And we are maintaining a focus on cost efficiency and capability to ramp production up or down. As a result of improved revenue and careful cost management, adjusted operating earnings were 13%, up 170 basis points from last year and up 450 basis points sequentially.\nAs Kieran mentioned, we are making progress on the restructuring plan we initiated a few months ago. We will update you on the improvements as we complete various parts of the plan in the coming quarters. Our year-to-date tax rate was approximately 24%, and we expect the full year rate to be in the range of 23% to 25%, excluding discrete items. Third quarter 2020 earnings were $0.34 per diluted share. Adjusted earnings per diluted share were also $0.34 compared to $0.16 last quarter and $0.29 in the third quarter of 2019. Focusing on the balance sheet. Our working capital -- our controllable working capital as a percentage of sales was 15.6% at the end of the third quarter. This represents a significant improvement from 21.2% last quarter, and the team recognizes that we still have much work ahead of us to further improve our working capital performance. We generated $25.6 million in operating cash flow in the third quarter. Year-to-date, we have generated $49 million in operating cash flow, up 21% compared to 2019. The strong cash performance in the third quarter enabled us to reduce debt by $35 million. capex was $3.2 million. For the full year, we are expecting capital expenditures to be below 4% of sales. On liquidity, our net cash position was $25 million, an improvement of approximately $20 million from the second quarter. We have access to an additional $192 million through our revolving credit facility. And at this time, we expect to remain well within our debt covenants. We are continuing to implement SAP. As we communicated earlier, more than 80% of our revenues come from sites that are running on SAP. We are expecting to complete the implementation around the middle of 2021. However, COVID-related travel limitations could cause some delays.\nThis concludes our prepared comments. We would like to open the line for questions at this time."
+    }
+  ],
+  "q_and_a": [
+    {
+      "speaker": "Operator",
+      "speech": "We'll now take our first question from. Thank you. Please go ahead, Karl. Your line is open. Thank you."
+    },
+    {
+      "speaker": "Karl Ackerman",
+      "speech": "Yeah, hi. Good morning, Ashish and Kieran. This is Karl Ackerman from Cowen. So it's nice to see the material improvement in your results relative to the first half of the year. I'm curious, what are your thoughts on automotive growth entering the fourth quarter and perhaps into 2021 across light vehicles and commercial. I asked because some of your peers have spoken about how production may be a near-term peak in December. But at the same time, given your long duration backlog, how are you thinking about the trajectory of profitability in 2021."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "So Karl, the first thing is we're already transitioning into the fourth quarter at this point in time. We've seen a solid transition. We're really on the lookout in the fourth quarter for any rebalancing in inventories. Different products, we've got different demand levels, but we're optimistic about the fourth quarter. We talked about next year in terms of improvement in the SAAR in North America from 13 million this year to 14 million next year, China going from maybe 22 million back up in the range of 22 million to 24 million. And in Europe, we're dropped below to 16 million, getting it back up above 18 million. So what we're seeing overall is what we would call modest growth, and you can tell that we're targeting 5% organic. We expect some uncertainty out there over the next 12 to 15 months. Commercial vehicle side, I would say, is improving at a modest rate, a little bit more in the mid-range and then in the Class eight as well. Our largest customer reported the last day they had some big declines in the last year, and they're expecting some improvement going forward as well.\nSo that's how we see it. But I would also tell you, when you move outside of the vehicle market in defense and industrial, we've been performing very well. Medical. We had a little bit of softness in the quarter, and -- but we expect that to improve next year. And we're pretty excited by some of the products we have in development. And one of the most important things for us as we look at the growth and everything else is in this remote environment, making sure our engineering teams are engaged and making sure the products in development are coming through qualification so that when we launch products, they're launched with good quality and on-time for our customers. So that's the fundamental value we bring in our proposition, and we want to make sure we're there for our customers, and we're performing well enough to take share away from the competition."
+    },
+    {
+      "speaker": "Karl Ackerman",
+      "speech": "Very helpful. For my follow-up, I guess with sales recovering more quickly off lower levels, is there any change in the scope of reinvestment priorities for the restructuring savings you've taken to date? As we look into 2021, such that those savings get entirely reinvested in other areas of the business?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Karl, we were, how do I put it, very careful and very thoughtful over a multiyear period when we put this restructuring plan together in terms of how we're approaching things like shared services that are going to make us more efficient as a company. So on the product side of it, being very careful to make sure the fundamental engineering capability of what we do is intact. And I would say we've let some leverage there that as we see improvements, we can accelerate some things that we have regulated. But obviously, the most important thing for us is the safety of our employees but really translating that then into growth."
+    },
+    {
+      "speaker": "Karl Ackerman",
+      "speech": "Great. I'll see [Phonetic] the floor. Thank you."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thanks, Karl."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Thank you. We'll now take our next question."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Thanks and good morning."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Hi, Justin."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "So I wanted to start with a follow-up question on the fourth quarter. I think you said you're optimistic about kind of the early innings here of the fourth quarter. And I know you're not giving specific guidance. But just directionally, is your expectation that the fourth quarter looks pretty similar to the third in terms of revenue and earnings? Or is there anything sequentially headwind or tailwind that we should be mindful of?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yes. Justin, I'll start, and I'll hand it over to Ashish as well. Yes, we've seen a good transition in. We are feeling it's pretty solid. And we are also looking in terms of who is rebalancing on the inventory front. So do we think we're going to see a big dip or anything like that? No. Could we see adjustments of a few million up or down? Yes. And we've looked at not just the OEMS, but the distribution side of it. So that's on the top line side. On the earnings and margins, I'll let Ashish comment. We've rolled back in some of the savings. That will have some impact. But obviously, we get any leverage on growth as well. But Ashish?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Yes. Justin, just on the sales real quick. The -- we talked about medical being soft in Q3. We are expecting that continued softness in Q4. And then typically, in December, some of the OEMs could take shutdowns. So you might have an impact from that. But generally, as Kieran mentioned, we are cautiously optimistic about Q4. And on the cost side, as the sales have improved, to be fair with our employee base, we have reinstated some of the temporary cost measures that we had taken early on in the year. So that will also have a little bit of an impact on the cost structure."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "That's helpful. And Ashish, maybe to follow-up on that last point, is there any quarter of magnitude you can provide on that step-up in cost as we think about modeling the fourth quarter?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "We would be looking to continue improving our overall profitability from the third quarter, Justin."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Understood. And then secondly, maybe going back to the go-to-market strategy. I know that's been a focus. And in the prepared remarks, you alluded to some of the changes you were making on that front. But could you expand on that a little bit more and talk about this process going forward and pro forma for some of these go-to-market changes, where you see the best opportunity for organic growth coming out of this downturn?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yes. First of all, for 2025, we've obviously set some goals internally. We haven't talked about the externally yet. And one of the branches of that is being closer to the customers and not just the profitable growth but the fundamentals of how you achieve that. We feel like and we're laser-focused at the moment in terms of we've done a lot with the company in the last several years to reposition the product portfolio, the end markets. And sometimes that causes you to focus a little bit more internally than externally. And it's kind of been a little bit of a wake-up call for all of us to say, hey, we can do better here. So looking at our sales and what really works and what needs to be improved. And quite frankly, as we do acquisitions, we learn from those acquisitions. And we certainly learned from the temperature acquisition in some things in the front end. So to give you some examples, the quality of the funnel, what are we winning in the funnel? And how much are we putting into the funnel is one thing?\nAnd how do we get a better percentage conversion rate on that. Another thing is the model, is it a salesperson? Or is it a salesperson paired with a resin engineer and application engineer depending on the end market? And how that formula works for us is another example. And then in some other areas, we're looking at saying, we expect an account manager to be maintaining an account and doing some growth, which is always expected. But we're putting a bigger emphasis on business development and how we free up more people for that aspect of it as well in each of the end markets. Now this is something we're going to incrementally step up. But I would tell you, we're absolutely committed, and I'm personally committed to this in terms of improving this across the company. We've got great people, but we can improve to give you just some examples. So Justin, I'm not sure if that answers your question in total, but I wanted to give you a framework of the urgency and the passion we feel here. And I will tell you, with this remote working environment, getting to the customers and using every aspect of how we go-to-market more effectively is really important."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Great. That's helpful. And maybe just one last one, kind of along those lines. As we look into 2021, I know you're not giving guidance, but as we think about the end market forecast and maybe we kind of weigh that across your business, what are your thoughts around your ability to outperform that end market forecast? Are there new program wins we should be keeping in mind for next year that would allow you to outperform next year? Or maybe you could just give us some type of framework around that?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yes. Just starting with transportation, if you look at how we performed even this quarter. If you were to back out the commercial vehicle aspects of it for the light vehicle, we were very much in line with the market, and we obviously want to improve that going forward. We know there's capability in the transportation market to bounce back quicker, but in this uncertain environment and high unemployment and post-elections and everything else, I think you've got to let things stabilize a little bit. On the other hand, on the defense side, we've been making solid gains there for a number of quarters. You heard us talk in our prepared remarks about getting a number of new sample orders with new OEMs in the defense area. Some of those take a little bit of time. And then there are long -- what we would call long sticky programs.\nSo we feel like we've got a good focus there. On the industrial side, we think we can be more effective. That is getting back even to the go-to-market. And we're changing some things across the front end there. So we're cautiously optimistic in that area. And then as you heard, back to transportation, we're really looking hard at how we can get extra momentum on the electrical vehicle and hybrid side of it. And you can see that even the temperature acquisition is playing into some of those areas as well. And as Ashish said, that temperature acquisition, we're very pleased with the performance."
+    },
+    {
+      "speaker": "Justin Long",
+      "speech": "Okay, great. I'll leave it at that. I appreciate the time."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Thank you, Justin."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thanks, Justin."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Instructions] We'll now take our next question. Thank you."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "All right. It's John Franzreb from Sidoti."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Hi, John."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Good morning, John."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Guys, I guess I want to go back to the temporary costs a little bit. Do you expect them to be fully backed by the fourth quarter? Or will there still be something you're holding back into 2021?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "John, we are evaluating that based on how the quarters turn out. In the third quarter, we dropped back some of the temporary cost measures that we had taken. We'll continue evaluating how things are progressing in the fourth quarter into Q1 and into Q2. So there's no firm answer on that. It will be driven by how the end markets are performing."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. And regarding the earnings benefit of the cost reduction actions, can you talk about the timing of us realizing that in the year ahead before -- to maximize the $0.22 to $0.26 to the bottom line?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "So John, the progress on that is ongoing as we speak. In the third quarter, back in July, when we talked about the restructuring plan, the way we had communicated it was that we were expecting the first half of 2021 to be a little bit more under pressure in terms of cost. And then we would see the improvements from the restructuring programs, giving us a lift in the second half of 2021. So that has not changed. And then we'll continue getting progressive improvements from that going into 2022."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "So by the end of 2021, you figure to be on a fully realized run rate of whatever that target is?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "We should be most of the way there, John, but not -- there are some things that will stretch into 2022 as well."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. And on the commercial vehicle side, it seems like according to most estimates that where we've hit the bottom and certainly in the Class eight truck, we're looking at a multiyear recovery. Is that what you're baking into your outlook? And how are you positioned to benefit from that on a go-forward basis? Also, is there a margin impact for you for some minus on a go-forward basis?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "So John, on the top line part of that question, we're seeing some improvement. I think in our prepared remarks, my comment was that we're trying to figure out how sustainable that is. We've seen good improvement in the -- some improvement already in the mid range. And obviously, as you said that the traffic, heavy duty, there's improvements there. I just want to see that it's sustainable. You know our largest customer is -- reported yesterday, and they were kind of cautious a little bit. They've had a tough year. I think their sales were down more than 20%. And it's going to be just something we're carefully managing through at the moment. And obviously, there's going to be some inventory adjustments out there. We think it's starting to move in that decent direction, but we'd like a quarter or two behind us before we get very bullish."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Kieran, you said midrange, do you address the five to seven class truck-ranged products?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "The biggest area for us in that range would be the Dodge Ram, those kind of trucks."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. So the delivery trucks that we're seeing are -- there's a five to seven range, nothing else?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "We do a small portion and -- a small portion of that."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay. Because they're also forecasting and shock recovering that business. As you can tell from all the Amazon packages. I was just wondering if that's in the benefit also?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yes. On that, we should get a little bit of help there. But the overall mix in the total volumes, if I look at heavy duty, what you just described in the mid range. We expect modest growth, 3%, 5%, but it could be better. It could face some headwinds depending on how things go out there with some of the uncertainty. But we're obviously ready with capacity and ready to move."
+    },
+    {
+      "speaker": "John Franzreb",
+      "speech": "Okay, guys. Thanks for taking my questions. I'll get back into the queue."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thank you, John."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "It appears that there are no further questions at this time, Mr. O'Sullivan. I will now turn the conference back to you for any additional or closing remarks. Thank you."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thanks, Grace."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Grace, hold on. I think there was somebody in the queue. Would you mind checking again?"
+    },
+    {
+      "speaker": "Operator",
+      "speech": "Yeah, no problem. My apologies. [Operator Instructions] We'll now take our next question."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Good morning, Kieran and Ashish."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Hi."
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Hi, Hendi. How are you?"
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Thank you, Kieran, for giving us review on your 2025 electric vehicle market opportunity. You did mention about high-temperature center application for EV. Can you help us hear your EV product strategy, including how to build your EV product portfolio? In other words, like how much can we build based on your current core product portfolio? And then how much must come from acquisitions?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Yes. And Hendi, just to give you some color on that. Obviously, we talked about charging circuits and some other things that relate to the battery circuit. There's other things that we wouldn't have in the product portfolio today that we want to add to it going forward to give us much more capability on the EV side. So that's an evolving story at the moment. As you know, we're always a little cautious about getting too bullish until we have our products ready and got some good traction. But you can see some early signs there that we're making progress and part of the longer-term thinking that we had as we move forward with the first steps on that acquisition, too."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Thank you. And then given concerns on another wave of COVID-19 across different regions, when you talk about inventory rebound, should we expect some pull in demand in Q4 in general?"
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Hendi, I think Ashish may have referenced to this already that we saw a little bit of softness in medical in the third quarter, we think that will continue. There may be some rebalancing of inventories a little bit. We seek to have -- our message would be, we see a good transition into the first month. We see a solid quarter. Might we have a few million up or down, that's possible as inventory levels are getting balanced. But we're not sitting here worried about a big decline. And what we're trying to figure out for 2021 is just how we've moved through this pandemic and the stability of things."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Got it. And then let me switch to Ashish. First question for Ashish. Looking back historically, how much gross margin have been -- were caused by lower run rate at Mexico location? And resolving your ceramic foundry issues?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Hendi, we have not talked about specific numbers there, but generally, what I would say to you is we have talked about our gross margin expectation to be in the range of 34% to 37%. And we are working hard to get back -- break back into that range. We used to be there several quarters ago, and that is our first goal to get back there on a sustainable basis and then make further improvements from there as we go forward."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "I see. And then Ashish, to help us modeling CTS in 2021, can you share how much extra expense we should expect when CTS fully reinstate temporary cost measures?"
+    },
+    {
+      "speaker": "Ashish Agrawal",
+      "speech": "Hendi, we talked a little bit about the -- in the earnings call in July that the improvements from the restructuring program will be -- roughly be offset to the reinstatement of temporary cost measures. So that should give you an indication of approximately what we are talking about. And that's why we think we will see a slightly more pressure on profitability in the first half. And then as the savings from the restructuring programs start kicking in, we should see improvements in the second half of the year."
+    },
+    {
+      "speaker": "Hendi Susanto",
+      "speech": "Got it. And then great Q3 results. All the best for finishing strong for Q4. Thank you."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Thanks, Hendi."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "It appears that there are now further questions at this time. I would like to hand the call back to you, Mr. O'Sullivan, for any closing or additional remarks. Thank you."
+    },
+    {
+      "speaker": "Kieran O'Sullivan",
+      "speech": "Great. Thank you, Grace, and thanks, everybody, for your participation on today's call. I hope everybody stays safe and healthy, and we look forward to updating you again in the next quarter. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "speech": "[Operator Closing Remarks]"
+    },
+    {
+      "speaker": "Duration: 38 minutes",
+      "speech": ""
+    }
+  ],
+  "participants": [
+    "Kieran O'Sullivan--President, Chief Executive Officer and Chairman of the Board",
+    "Ashish Agrawal--Vice President and Chief Financial Officer",
+    "Karl Ackerman--Cowen -- Analyst",
+    "Justin Long--Stephens -- Analyst",
+    "John Franzreb--Sidoti -- Analyst",
+    "Hendi Susanto--G. Research -- Analyst"
+  ]
+}
